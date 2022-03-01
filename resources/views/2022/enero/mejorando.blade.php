@@ -192,7 +192,7 @@
         border: 3px transparent solid;
         border-image: -webkit-linear-gradient(left, #fff, #f4b300) 1 10;
 
-c5
+        c5
     }
 
     .s2 .introduccion-2 h3 {
@@ -219,7 +219,7 @@ c5
         padding: 8%;
     }
 
-    
+
 
     .s2 .descripcion h3 {
         font-family: 'Sora', sans-serif;
@@ -1915,16 +1915,150 @@ c5
                             </div>
                             <hr>
                             <div class='row'>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-04-01_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 49</h4>
+                                                <i>martes, 1 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Logros de Movilidad en 2021 y metas para el 2022 Con el inicio de alrededor de 200 frentes de obra en 2021, Bogotá sigue mejorando en su movilidad.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-28_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 48</h4>
+                                                <i>lunes, 28 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Recuerde que el 1 de marzo inicia la operación de la Ventanilla Única de Servicios de Movilidad, Los trabajos de mantenimiento vial llegaron a la localidad de Teusaquillo con mejoras contundentes, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-25_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 47</h4>
+                                                <i>viernes, 25 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>En la nueva Avenida Guayacanes se abre calzada vehicular, Movilidad avanza en la descongestión de patios de vehículos declarados en abandono, Desde la topografía, Diego Figueredo aporta en la construcción del metro de Bogotá, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-24_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 46</h4>
+                                                <i>jueves, 24 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Más kilómetros de ciclorruta en la ciudad Avanza la construcción de aceras y ciclorrutas en la Calle 116, uenos resultados en operativos de seguridad en el Sistema de Transporte, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-23_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 45</h4>
+                                                <i>miércoles, 23 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>En marzo se acaba el SIM y nace la Ventanilla Única de Servicios de Movilidad en Bogotá, En la localidad de Bosa Avanza la construcción de una nueva estación de TransMilenio, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-22_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 44</h4>
+                                                <i>martes, 22 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>En las localidades Suba y Teusaquillo Habitantes y transeúntes disfrutan de nuevos espacios públicos, En Engativá, la UMV realiza obras nocturnas para mejorar algunas vías del occidente de la ciudad, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
 
-                            <div class='col-xs-12 col-sm-4 col-md-3'>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-21_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 43</h4>
+                                                <i>lunes, 21 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Una indígena de la comunidad Wayuu es la nueva integrante del equipo de atención al ciudadano de la UMV y el enlace entre la entidad y esta población, Inician labores de conservación y mantenimiento en espacio público, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-18_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 42</h4>
+                                                <i>viernes, 18 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Acacias y Santa Teresa, los 2 barrios en Usaquén que se vieron beneficiados con las obras viales de la UMV, En obras de la Avenida 68 Comunidades de Kennedy y Puente Aranda son convocadas para ejercer veeduría ciudadana, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-17_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 41</h4>
+                                                <i>Jueves, 17 de febrero de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>La UMV aprovechará las noches de esta semana para intervenir importantes vías en la localidad de Fontibón, Contratistas llevan a cabo sensibilización para ciclistas La Avenida 68 suma kilómetros a la red de ciclorrutas en la ciudad, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-16_boletinbem.pdf">
+                                        <div class="btn-boletin">
+                                            <div class="titulo-boletin">
+                                                <h4>BOLETÍN 40</h4>
+                                                <i>Miércoles, 16 de febrero de 2022</i>
+                                            </div>
+                                            <div class="descripcion-boletin">
+                                                <p>El Pico y Placa Extendido en Bogotá cumplió un mes de implementación, Nuevos buses eléctricos impactarán en la calidad del aire de Bogotá, En horario nocturno Cierres viales por actividades preliminares en Avenida 68, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-02-2022/2022-02-15_boletinbem.pdf">
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 39</h4>
-                                                <i>Martes 15 de Febrero de 2022</i>
+                                                <i>Martes, 15 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
-                                            <p>Más de 30.000 usuarios se benefician diariamente con los 172 nuevos buses eléctricos. La UMV sigue trabajando para mejorar las vías de la localidad de Bosa. Con un avance del 67.3% avanza la construcción del ciclopuente Canal Molinos, y más.</p>
+                                                <p>Más de 30.000 usuarios se benefician diariamente con los 172 nuevos buses eléctricos. La UMV sigue trabajando para mejorar las vías de la localidad de Bosa. Con un avance del 67.3% avanza la construcción del ciclopuente Canal Molinos, y más.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -1935,7 +2069,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 38</h4>
-                                                <i>Lunes 14 de Febrero de 2022</i>
+                                                <i>Lunes, 14 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Más de 15 mil peatones y ciclistas disfrutan de un nuevo espacio que prioriza su movilidad y seguridad vial. El Equipo de Cultura Ciudadana de la UMV trabaja para fortalecer la sana convivencia entre los colaboradores y los residentes de las vías a intervenir, y más</p>
@@ -1949,7 +2083,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 37</h4>
-                                                <i>Viernes 11 de Febrero de 2022</i>
+                                                <i>Viernes, 11 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Bogotá recibió reconocimiento internacional por sus acciones para promover la movilidad sostenible. Avenida 68, Alimentadora de la Línea del Metro cierres viales para avance de obras. Cerca de 3.000 habitantes de la localidad de Suba se beneficiarán con las obras de mantenimiento vial que inició la UMV en este sector, y más.</p>
@@ -1957,13 +2091,13 @@ c5
                                         </div>
                                     </a>
                                 </div>
-                                
+
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-02-2022/2022-02-10_boletinbem.pdf">
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 36</h4>
-                                                <i>Jueves 10 de Febrero de 2022</i>
+                                                <i>Jueves, 10 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Con la firma del Acta de Inicio, Bogotá contará con el segundo Sistema de Bicicletas Compartidas más grande de LATAM. Cierres en la AutoNorte en construcción el ciclopuente Canal Molinos. La UMV está en Bosa mejorando algunas de las vías de esta localidad, y más.</p>
@@ -1977,7 +2111,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 35</h4>
-                                                <i>Miercoles 9 de Febrero de 2022</i>
+                                                <i>Miercoles, 9 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Cierre parcial de espacio público por obra más de 800 mil personas beneficiadas con andenes amplios y seguros en Av. Guayacanes. Conoce cómo verificar el saldo de la tarjeta tullave con nuestra TransMiApp, Y más</p>
@@ -1991,7 +2125,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 34</h4>
-                                                <i>Martes 8 de Febrero de 2022</i>
+                                                <i>Martes, 8 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Obras en la Avenida 68 a partir de la segunda semana de febrero habrá nuevos cierres y desvíos. El Contador, uno de los barrios en Usaquén dónde se han priorizado los trabajos de Mantenimiento Vial y más.</p>
@@ -2005,7 +2139,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 33</h4>
-                                                <i>Lunes 7 de Febrero de 2022</i>
+                                                <i>Lunes, 7 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>A partir de este lunes 7 de febrero nuevos cierres por obras en Avenida Guayacanes. La alcaldía de Bogotá sigue trabajando en el mejoramiento de las vías rurales de Ciudad Bolívar y más.</p>
@@ -2019,7 +2153,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 32</h4>
-                                                <i>Viernes 4 de Febrero de 2022</i>
+                                                <i>Viernes, 4 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Los huecos en las vías del barrio Caobos Salazar hacen parte del pasado. Continúan las obras en Av. Guayacanes Cierre parcial en Carrera 89 B y Calle 49 Sur. Usuarios de TransMilenio respiran un aire más limpio, y más.</p>
@@ -2033,7 +2167,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 31</h4>
-                                                <i>Jueves 3 de Febrero de 2022</i>
+                                                <i>Jueves, 3 de Febrero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>En el primer mes del 2022 la UMV ha mejorado más de 45 mil daños viales. En obra la Extensión Caracas Sur Cierres entre Estación Molinos y Portal Usme. La nueva cara de portales y estaciones de TransMilenio</p>
@@ -2041,12 +2175,41 @@ c5
                                         </div>
                                     </a>
                                 </div>
+
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-02_boletinbem.pdf">
+                                        <div class="btn-boletin">
+                                            <div class="titulo-boletin">
+                                                <h4>BOLETÍN 30</h4>
+                                                <i>Miércoles, 2 de febrero de 2022</i>
+                                            </div>
+                                            <div class="descripcion-boletin">
+                                                <p>Avanzan las obras en Av. Ciudad de Cali Iniciaron actividades para la construcción del ciclopuente a la altura de la Av. Villavicencio, En tiempo récord la UMV mejoró cuatro calles de la localidad de Kennedy, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-01_boletinbem.pdf">
+                                        <div class="btn-boletin">
+                                            <div class="titulo-boletin">
+                                                <h4>BOLETÍN 29</h4>
+                                                <i>Martes, 1 de febrero de 2022</i>
+                                            </div>
+                                            <div class="descripcion-boletin">
+                                                <p>La UMV mejoró varias calles del barrio Galerías de la localidad de Teusaquillo, Dos nuevas rutas del SITP conectan las localidades de San Cristóbal y Chapinero.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2022-01-31_boletinbem.pdf">
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 28</h4>
-                                                <i>Lunes 31 de Enero de 2022</i>
+                                                <i>Lunes, 31 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>En Ciudad Bolívar se realizan trabajos para mejorar la malla vial en el barrio Estrella del Sur. ¡Engativá está mejorando! En esta localidad la UMV realiza obras para la reactivación vial de una zona cercana al Aeropuerto Internacional El Dorado. </p>
@@ -2060,10 +2223,10 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 27</h4>
-                                                <i>Viernes 28 de Enero de 2022</i>
+                                                <i>Viernes, 28 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
-                                                <p>La UMV no para 
+                                                <p>La UMV no para
                                                     y continúa intervenciones en Puente Aranda. Cierre de carril en AutoNorte por obras del ciclopuente Canal Molinos. Cambia el sentido vial de la calle 64 de Engativá Pueblo. Y más.</p>
                                             </div>
                                         </div>
@@ -2075,7 +2238,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 26</h4>
-                                                <i>Jueves 27 de Enero de 2022</i>
+                                                <i>Jueves, 27 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Se adelantarán trabajos de desmonte en puente vehicular de la Av. 68 con Calle 26. El estado de las calles alrededor del estadio El Campín mejoraron gracias al Plan de Choque del Distrito. Más de 15 mil acciones en pro de la seguridad de usuarios y convivencia dentro de TransMilenio. Y más.</p>
@@ -2089,7 +2252,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 25</h4>
-                                                <i>Miercoles 26 de Enero de 2022</i>
+                                                <i>Miercoles, 26 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Bogotá, una ciudad a la altura del mundo Empresas privadas se comprometen con Bogotá y la movilidad sostenible. Con tres frentes de obra activos Se adelantan trabajos de conservación de la malla vial en Engativá. Y más.</p>
@@ -2103,7 +2266,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 24</h4>
-                                                <i>Martes 25 de Enero de 2022</i>
+                                                <i>Martes, 25 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Las actividades de Mantenimiento Vial llegaron al barrio Castilla de la localidad de Kennedy. En la localidad de Bosa Por obras de la Av. Ciudad de Cali, la calle 75 Bis Sur tendrá un cierre temporal. Y más.</p>
@@ -2117,7 +2280,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 23</h4>
-                                                <i>Lunes 24 de Enero de 2022</i>
+                                                <i>Lunes, 24 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>El Plan de Choque llegó al sector de Timiza en Kennedy para mejorar el estado de sus calles. Grupo 2: Entre Avenida Bosa y Avenida Villavicencio Afectaciones viales por Avance de Av. Guayacanes. Álvaro Rengifo, nuevo gerente de TRANSMILENIO S.A. Y más.</p>
@@ -2127,11 +2290,11 @@ c5
                                 </div>
 
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
-                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-20_boletinbem.pdf">
+                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-21_boletinbem.pdf">
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 22</h4>
-                                                <i>Viernes 21 de Enero de 2022</i>
+                                                <i>Viernes, 21 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Cuatro barrios de la localidad de Usme mejoraron sus vías con material reciclado. Durante los meses de diciembre y enero la Unidad de Mantenimiento Vial ha estado mejorando el estado de 14 vías de la localidad de Usme.</p>
@@ -2145,7 +2308,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 21</h4>
-                                                <i>Jueves 20 de Enero de 2022</i>
+                                                <i>Jueves, 20 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Retos del Sector Movilidad y la ciudadanía en 2022. Así será la extensión de la Primera Línea del Metro de Bogotá hasta la calle 100. Grupos 5 y 8 Reuniones de socialización Avenida 68. Y más</p>
@@ -2159,7 +2322,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 20</h4>
-                                                <i>Miercoles 19 de Enero de 2022</i>
+                                                <i>Miercoles, 19 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>La UMV arregló los daños viales que afectaban la movilidad del barrio Bella Suiza al norte de la ciudad. Entre Carreras 54B y 53A Comienza rehabilitación de acera norte de la 116. Con la tarjeta personalizada “TuLlave” se puede bloquear el saldo en caso de pérdida. Y más</p>
@@ -2167,16 +2330,30 @@ c5
                                         </div>
                                     </a>
                                 </div>
-     
+
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2021-12-18_boletinbem.pdf">
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 19</h4>
-                                                <i>Miercoles 18 de Enero de 2022</i>
+                                                <i>Martes, 18 de Enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
-                                                <p>Balance del Pico y Placa Extendido Semana del 11 al 14 de enero de 2022. Entre Calles 90 y 95 y a la altura de la Calle 66 Cierres en la Avenida 68. Y más</p>
+                                                <p>Balance del Pico y Placa Extendido Semana del 11 al 14 de enero de 2022. Entre Calles 90 y 95 y a la altura de la Calle 66 Cierres en la Avenida 68, y más</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-01-15_bem.pdf">
+                                        <div class="btn-boletin">
+                                            <div class="titulo-boletin">
+                                                <h4>BOLETÍN 18</h4>
+                                                <i>Sábado, 15 de enero de 2022</i>
+                                            </div>
+                                            <div class="descripcion-boletin">
+                                                <p>La UMV logró cifra récord al reparar cerca de 300.000 huecos en la malla de la ciudad en 2021, Inicia la rehabilitación vial de la Avenida 9, entre Calles 140 y 145, y más</p>
                                             </div>
                                         </div>
                                     </a>
@@ -2187,7 +2364,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 17</h4>
-                                                <i>Viernes 14 de enero de 2022</i>
+                                                <i>Viernes, 14 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Cierres viales por construcción del Paseo Comercial Villas de Granada, TransMilenio hace un llamado a sus usuarios a mantener las medidas de bioseguridad en el Sistema, Así avanzó la bici en Bogotá durante 2021, y más.</p>
@@ -2201,7 +2378,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 16</h4>
-                                                <i>Jueves 13 de enero de 2022</i>
+                                                <i>Jueves, 13 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Así avanzan los estudios en terreno para la línea 2 del Metro de Bogotá, En la carrera 9ª. con calle 12 Cierre en andén y calzada, por construcción de puente peatonal del Acuerdo de Valorización, Bogotá suscribe contrato para dar inicio al Sistema de Bicicletas Compartidas de la ciudad, y más.</p>
@@ -2215,7 +2392,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 15</h4>
-                                                <i>Miercoles 12 de enero de 2022</i>
+                                                <i>Miercoles, 12 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Desvíos por el inicio de rehabilitación vial en Kennedy, La tarifa de TransMilenio no incrementa para los más vulnerables, Así de fácil puedes consultar el contrato de concesión para las obras de la Primera Línea del Metro de Bogotá, y más.</p>
@@ -2229,7 +2406,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 14</h4>
-                                                <i>Viernes 7 de enero de 2022</i>
+                                                <i>Viernes, 7 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Con más de 34.000 huecos tapados avanza el Plan de Choque en Bogotá, La UMV hace presencia en Usme con 14 frentes de obra de gran impacto, Inicia cierre de calzada lenta de la Calle 26, entre Avenida 68 y Carrera 66, y más.</p>
@@ -2243,7 +2420,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 13</h4>
-                                                <i>Miercoles 5 de enero de 2022</i>
+                                                <i>Miercoles, 5 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Prepárese para regresar Bogotá y recuerde el Pico y Placa Regional, Conozca los detalles de la Avenida Ciudad de Cali, Así funcionan los Comités de Participación Zonal de la Primera Línea del Metro de Bogotá, y más.</p>
@@ -2257,7 +2434,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 12</h4>
-                                                <i>Miercoles 5 de enero de 2022</i>
+                                                <i>Miercoles, 5 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Más de 6 mil buses han sido desintegrados con la salida del SITP Provisional, Cierre por rehabilitación vial en la Calle 147, UMV Implementa Ventanilla Electrónica para radicación, Conozca el cierre total del costado sur de la intersección de la av. Agoberto Mejía con av. Villavicencio, y más.</p>
@@ -2271,7 +2448,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 11</h4>
-                                                <i>Martes 4 de enero de 2022</i>
+                                                <i>Martes, 4 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Mantenimientos al espacio público en la Calle 63 y en Avenida Villas, Avenida Villas entre Calle 129 y 134, Teusaquillo: otra localidad beneficiada con el plan de choque, Cerca de tres mil conductores del antiguo transporte público ahora son parte del SITP, y más.</p>
@@ -2285,7 +2462,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 10</h4>
-                                                <i>Lunes 3 de enero de 2022</i>
+                                                <i>Lunes, 3 de enero de 2022</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Cambios en el Pico y Placa para vehículos particulares en Bogotá, así es la ruta de la Primera Línea del Metro de Bogotá, En TransMilenio continúan jornadas intensivas de aseo y desinfección de buses y estaciones, y más.</p>
@@ -2299,7 +2476,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 9</h4>
-                                                <i>Jueves 30 de diciembre 2021</i>
+                                                <i>Jueves, 30 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Conozca desvíos y alternativas de movilidad por cierre de parte oriental del puente de Av.68 con Calle 26,La mitad de quienes se movilizan en TransMilenio son mujeres, Zona rural de Ciudad bolívar beneficiada con el mejoramiento de sus vías, y más.</p>
@@ -2313,7 +2490,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 8</h4>
-                                                <i>Miercoles 29 de diciembre 2021</i>
+                                                <i>Miercoles, 29 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Extensión de Troncal Caracas mejorará movilidad del sur de Bogotá, En tiempo récord, dos cuadrillas intervinieron huecos en la Y de Yomasa, En estaciones de TransMilenio más de 42.000 usuarios se han hecho pruebas de Covid-19, y más.</p>
@@ -2327,7 +2504,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 7</h4>
-                                                <i>Martes 28 de diciembre 2021</i>
+                                                <i>Martes, 28 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Habrá cierres y reducción de calzadas en obra del Canal Córdoba entre Calles 129 y 170, UMV llegó a Chapinero con sus cuadrillas de mantenimiento vial, Comunidad de zona de influencia de la Primera Línea del Metro reflexionó sobre la movilidad , y más.</p>
@@ -2341,7 +2518,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 6</h4>
-                                                <i>Lunes 27 de diciembre 2021</i>
+                                                <i>Lunes, 27 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>¡Ojo! Desde el 26 de diciembre, hay tres nuevos cierres en la Avenida Guayacanes, Así avanzan las obras viales en el sector del Gran San en Bogotá, Con 119 rutas el componente zonal ha ampliado su cobertura, y más.</p>
@@ -2355,7 +2532,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 5</h4>
-                                                <i>Viernes 24 de diciembre 2021</i>
+                                                <i>Viernes, 24 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Ojo a los cierres viales por obras en la Avenida Guayacanes, Tips para moverse seguro en TransMilenio estas festividades, 2 frentes de trabajo de la UMV llegaron a Mazurén para arreglar el estado de la vías, y mas.</p>
@@ -2369,7 +2546,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 4</h4>
-                                                <i>Jueves 23 de diciembre 2021</i>
+                                                <i>Jueves, 23 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Así operarán los frentes de obra que arreglarán las vías de Bogotá, Cierres viales y de espacio público en grupo 2 de Avenida Guayacanes, 24 estaciones de TransMilenio estrenarán puertas. </p>
@@ -2383,7 +2560,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 3</h4>
-                                                <i>Miercoles 22 de diciembre 2021</i>
+                                                <i>Miercoles, 22 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Más de 5 millones de usuarios de TransMilenio tienen beneficios por tener tarjeta personalizada, Por construcción de puente peatonal, se traslada paradero SITP en Carrera 9 con Calle 112, Obras en ciclorruta de la Alameda El Porvenir con avance del 60%, y más.</p>
@@ -2397,7 +2574,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 2</h4>
-                                                <i>Martes 21 de diciembre 2021</i>
+                                                <i>Martes, 21 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Nuevo cierre para seguir avanzando con obras en la Av. 68, Listas las unidades móviles que mejorarán vías a partir de Navidad, TransMilenio ya cuenta con 483 buses eléctricos rodando en la ciudad, Comienzan exploraciones de geotecnia en la calle 72 para la Línea 2 del metro, y más.</p>
@@ -2411,7 +2588,7 @@ c5
                                         <div class="btn-boletin">
                                             <div class="titulo-boletin">
                                                 <h4>BOLETÍN 1</h4>
-                                                <i>Lunes 20 de diciembre 2021</i>
+                                                <i>Lunes, 20 de diciembre 2021</i>
                                             </div>
                                             <div class="descripcion-boletin">
                                                 <p>Cierre en Autonorte por ciclopuente que conectará oriente y occidente de la ciudad, Conoce más del proyecto Avenida 68, Con obras comenzó la navidad en San Bernardo, TransMiAPP, el Sistema en la palma de la mano, y más.</p>
@@ -2543,4 +2720,3 @@ c5
 </div>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
