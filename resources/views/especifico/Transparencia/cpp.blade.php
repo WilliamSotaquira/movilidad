@@ -9,7 +9,7 @@
             <h3>Conoce, Propone y Prioriza</h3>
         </div>
         <div class="parrafos">
-            <p>Bogotá es un gobierno de puertas abiertas comprometido con la transparencia y la lucha contra la corrupción. En el Distrito proponemos promover un camino hacia la integridad a partir de prácticas de gobierno abierto y de fomento de nuevos valores que transformen la relación entre la administración y la ciudadanía.</p>
+            <p>Bogotá es un gobierno de puertas abiertas comprometido con la transparencia y la lucha contra la corrupción. En el Distrito nos proponemos promover un camino hacia la integridad a partir de prácticas de gobierno abierto y de fomento de nuevos valores que transformen la relación entre la administración y la ciudadanía.</p>
             <p>Por eso, en esta página tendrás acceso a estrategias de transparencia, de participación y de colaboración, de manera que puedas conocer, proponer y priorizar soluciones a los retos de nuestra ciudad.</p>
         </div>
         <div class= 'row' > 

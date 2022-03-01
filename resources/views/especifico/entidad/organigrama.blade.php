@@ -1966,16 +1966,19 @@
 
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://via.placeholder.com/400/FFFFFF/252525?text=Neify+Rubiela+Martinez" alt="">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/neyfi_rubiela_martinez_guauta.webp" alt="Foto de Neyfi Rubiela Martinez">
                                                                             </div>
                                                                         </div>
 
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Neyfi Rubiela Martinez</h1>
+                                                                                <h1>Neyfi Rubiela Martínez Guauta</h1>
                                                                                 <h4>Subdirectora Administrativa (e)</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                   <p></p>
+                                                                                   <p>Economista egresada de la Universidad Católica de Colombia, especialista en Gerencia Financiera Sistematizada de la Universidad Libre.</p>
+                                                                                   <p>Ha trabajado en organizaciones de carácter público y privado. Inicialmente laboró en entidades financieras entre las que se destacan: Credisocial en Funza, donde se desempeñó como Gerente de Oficina, y Cooperativa Avancemos cumpliendo el rol de Directora de Oficina en Trinidad Galán. Posteriormente, trabajó en la Secretaría de Hacienda de Bojacá y en la Secretaría Distrital de Gobierno, en esta última permaneció por diez (10) años manejando todo el proceso de bienes.</p>
+                                                                                   <p>Ingresó en el 2009 como profesional especializada a la Secretaría Distrital de Movilidad y durante estos doce (12) años en la entidad ha podido aprender de diferentes temas y áreas. De igual forma, gracias a las oportunidades de formación que le ha ofrecido la SDM es auditora ISO 9001:2015.</p>
+                                                                                   <p>Desde su gestión como subdirectora espera contribuir en todos los proyectos que desde la Subsecretaría de Gestión Corporativa se lideran y que brindan un apoyo transversal a todas las áreas de la entidad.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1983,7 +1986,7 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
-
+                                                            
 
                                                         </div>
                                                     </div>
@@ -2024,10 +2027,13 @@
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Ana María Corredor</h1>
+                                                            <h1>Ana María Corredor Yunis</h1>
                                                             <h4>Directora de Talento Humano</h4>
                                                             <div class="descripcion-xs">
-                                                                <!-- <p>texto</p> -->
+                                                                <p>Abogada egresada de la Universidad Santo Tomás, especialista en Derecho Administrativo del Colegio Mayor de Nuestra Señora del Rosario.</p>
+                                                                <p>Su experiencia profesional inició realizando su judicatura en la Corte Constitucional, luego trabajó como asesora en materia de contratación para el Instituto de Casas Fiscales del Ejército. Durante algún tiempo se dedicó al litigio y ejerció un rol de profesional de apoyo en la Comisión Nacional de Televisión, donde llevaba temas de asuntos disciplinarios y asesoraba a la directora de la oficina.</p>
+                                                                <p>Ingresó en el año 2007 como profesional universitaria de la oficina de Control Interno a la Secretaría Distrital de Movilidad, por un concurso de la Comisión Nacional del Servicio Civil, luego ascendió a profesional especializado en el área de Control Disciplinario; se ha desempeñado en diferentes dependencias y roles dentro de la SDM, entre los cuales se destacan: Dirección de Atención al Ciudadano y Dirección de Contratación.</p>
+                                                                <p>Sus quince (15) años de labor en la entidad, donde ha contribuido en temas misionales y de apoyo, le dan grandes herramientas para asumir la gestión del talento humano como el reto más significado, pues Ana María afirma que el personal de la secretaría es alma de la entidad y su propósito es que se sientan en familia, a través de procesos oportunos, eficientes y humanos que deben ser liderados por este equipo.</p>
                                                             </div>
                                                         </div>
                                                     </div>
