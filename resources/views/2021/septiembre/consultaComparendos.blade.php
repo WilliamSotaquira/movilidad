@@ -18,7 +18,7 @@
     </div>
 </div>
 <p class="rtecenter">
-    <img alt="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-09-2021/infografiamorosostransito.jpg" style="width: 100%;">
+    <img alt="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-02-2022/infografia_morosos_transito_2022_infografia_morosos_transito.jpg" style="width: 100%;">
 </p>
 <p style="line-height:1.2; background-color:#ffffff; margin-top:19px; padding:0pt 0pt 14pt 0pt"></p>
 <p class="tj" style="line-height:1.2; background-color:#ffffff; margin-top:19px; padding:0pt 0pt 14pt 0pt">Según el artículo 2 del Código Nacional de Tránsito, el comparendo es una orden formal de notificación para que elpresunto contraventor o implicado se presente ante la autoridad de tránsito por la comisión de una infracción. Aquí podrá consultar con su número de cedula y placa del vehículo los comparendos que tenga pendientes, acuerdos de pago, embargos y prescripción.<br></p>

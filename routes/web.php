@@ -67,6 +67,7 @@ Route::view('/plantillas/tabs', 'plantillas/tabs');
     Route::view('/especifico/transparencia/cuentaConmigo', 'especifico/transparencia/cuentaConmigo');
     Route::view('/especifico/transparencia/canalAnticorrupcion', 'especifico/transparencia/canalAnticorrupcion');
     Route::view('/especifico/transparencia/canalAntisoborno', 'especifico/transparencia/canalAntisoborno');
+    Route::view('/especifico/transparencia/cpp', 'especifico/transparencia/cpp');
 
     // Temas de Impacto
     Route::view('/especifico/temasdeImpacto/ABCDesembargo', 'especifico/temasdeImpacto/ABCDesembargo');
