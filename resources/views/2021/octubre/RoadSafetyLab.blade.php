@@ -359,16 +359,18 @@
                                             <div class='panel-body'>
                                                 <h4 class="RSL-h4">Organizador:</h4>
                                                 <ul>
-                                                    <li>Secretaría Distrital de Movilidad de Bogotá, D.C. (SDM) – http://www.movilidadbogota.gov.co/</li>
+                                                    <li>Secretaría Distrital de Movilidad de Bogotá, D.C. (SDM) – <a href="http://www.movilidadbogota.gov.co/">http://www.movilidadbogota.gov.co/</a></li>
                                                 </ul>
                                                 <h4 class="RSL-h4">Aliados:</h4>
                                                 <ul>
-                                                    <li>Organización Panamericana de la Salud (OPS) – http://www.paho.org/es</li>
-                                                    <li>Secretaría de Desarrollo Económico - http://www.desarrolloeconomico.gov.co/sites/default/files/fitic/</li>
-                                                    <li>Transmilenio - https://www.transmilenio.gov.co/</li>
-                                                    <li>Alta Consejería para las TIC - https://tic.bogota.gov.co/</li>
-                                                    <li>Sharecollab – http://www.sharecollab.co/ – Connecting The Dots – http://www.connectingthedots.co/</li>
-                                                    <li>Amazon Web Services (AWS) – http://aws.amazon.com/</li>
+                                                    <li>Organización Panamericana de la Salud (OPS) – <a href="http://www.paho.org/es">http://www.paho.org/es</a></li>
+                                                    <li>Secretaría de Desarrollo Económico - <a href="http://www.desarrolloeconomico.gov.co/sites/default/files/fitic/">http://www.desarrolloeconomico.gov.co/sites/default/files/fitic/</a></li>
+                                                    <li>Transmilenio - <a href="https://www.transmilenio.gov.co/">https://www.transmilenio.gov.co/</a></li>
+                                                    <li>Alta Consejería para las TIC - <a href="https://tic.bogota.gov.co/">https://tic.bogota.gov.co/</a></li>
+                                                    <li>Sharecollab – <a href="http://www.sharecollab.co/">http://www.sharecollab.co/</a> – Connecting The Dots – <a href="http://www.connectingthedots.co/">http://www.connectingthedots.co/</a></li>
+                                                    <li>Amazon Web Services (AWS) – <a href="http://aws.amazon.com/">http://aws.amazon.com/</a></li>
+                                                    <li>iNNpulsa Colombia - <a href="https://innpulsacolombia.com/">https://innpulsacolombia.com/</a></li>
+
                                                 </ul>
                                             </div>
                                         </div>
@@ -729,16 +731,17 @@
                                             <div class='panel-body'>
                                                 <h4 class="RSL-h4">Founder:</h4>
                                                 <ul>
-                                                    <li>Secretaría Distrital de Movilidad de Bogotá, D.C. (SDM) – http://www.movilidadbogota.gov.co/</li>
+                                                    <li>Secretaría Distrital de Movilidad de Bogotá, D.C. (SDM) – <a href="http://www.movilidadbogota.gov.co/">http://www.movilidadbogota.gov.co/</a></li>
                                                 </ul>
                                                 <h4 class="RSL-h4">Allies:</h4>
                                                 <ul>
-                                                    <li>Organización Panamericana de la Salud (OPS) – http://www.paho.org/es</li>
-                                                    <li>Secretaría de Desarrollo Económico - http://www.desarrolloeconomico.gov.co/sites/default/files/fitic/</li>
-                                                    <li>Transmilenio - https://www.transmilenio.gov.co/</li>
-                                                    <li>Alta Consejería para las TIC - https://tic.bogota.gov.co/</li>
-                                                    <li>Sharecollab – http://www.sharecollab.co/ – Connecting The Dots – http://www.connectingthedots.co/</li>
-                                                    <li>Amazon Web Services (AWS) – http://aws.amazon.com/</li>
+                                                    <li>Organización Panamericana de la Salud (OPS) – <a href="http://www.paho.org/es">http://www.paho.org/es</a></li>
+                                                    <li>Secretaría de Desarrollo Económico - <a href="http://www.desarrolloeconomico.gov.co/sites/default/files/fitic/">http://www.desarrolloeconomico.gov.co/sites/default/files/fitic/</a></li>
+                                                    <li>Transmilenio - <a href="https://www.transmilenio.gov.co/">https://www.transmilenio.gov.co/</a></li>
+                                                    <li>Alta Consejería para las TIC - <a href="https://tic.bogota.gov.co/">https://tic.bogota.gov.co/</a></li>
+                                                    <li>Sharecollab – <a href="http://www.sharecollab.co/">http://www.sharecollab.co/</a> – Connecting The Dots – <a href="http://www.connectingthedots.co/">http://www.connectingthedots.co/</a></li>
+                                                    <li>Amazon Web Services (AWS) – <a href="http://aws.amazon.com/">http://aws.amazon.com/</a></li>
+                                                    <li>iNNpulsa Colombia - <a href="https://innpulsacolombia.com/">https://innpulsacolombia.com/</a></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -802,7 +805,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-xs-6 col-sm-2 col-sm-offset-1">
+        <div class="col-xs-6 col-sm-2">
             <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-10-2021/logo_red_esv_0.png" alt="Logo Red Empresarial de Seguridad Vial" class="img-responsive w-100"></div>
         </div>
         <div class="col-xs-6 col-sm-2">
@@ -814,8 +817,11 @@
         <div class="col-xs-6 col-sm-2">
             <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-10-2021/logo_paho_bk_b.png" alt="Logo OPS - Organización Panamericana de Salud" class="img-responsive w-100"></div>
         </div>
-        <div class="col-xs-12 col-sm-2">
+        <div class="col-xs-6 col-sm-2">
             <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-10-2021/logo_sharecollab_a.png" alt="Logo Sharecollab" class="img-responsive w-100"></div>
+        </div>
+        <div class="col-xs-6 col-sm-2">
+            <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/logo_10_anhos.png" alt="Logo Innpulsa" class="img-responsive w-100"></div>
         </div>
     </div>
     <hr>
@@ -960,10 +966,15 @@
 
     .RSL-img {
         text-align: center;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
     }
 
     .RSL-img img {
-        margin: 2rem;
+        margin: 5px;
         /* height: 200px; */
         width: 100%;
     }
