@@ -1,5 +1,3 @@
-@extends ('welcome')
-@section ('contenido')
 <div class="content">
   <hr>
   <div class="row">
@@ -10,10 +8,10 @@
   <hr>
   <div class="row">
     <div class="col-xs-10 col-xs-offset-1">
-      <div class="embed-responsive embed-responsive-16by9"><video controls="" height="315" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-08-2021/video_menu_transparencia.mp4" type="video/mp4" width="560"></video></div>
+      <div class="embed-responsive embed-responsive-16by9"><video controls="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-08-2021/video_menu_transparencia.mp4" type="video/mp4" width="560" height="315"></video></div>
     </div>
   </div>
-  <br>
+  <hr>
   <div class="row">
     <div class="col-xs-12">
       <p class="p-panel">La Secretaría Distrital de Movilidad pone a disposición de la ciudadanía la nueva sección de Transparencia y Acceso a la Información Pública, de acuerdo a la Ley 1712 de 2014 y a la Resolución 1519 de 2020 de MinTIC.</p>
@@ -119,9 +117,7 @@
                     <!-- collapseDosUnoUno -->
                     <div class="panel panel-default">
                       <div class="panel-heading ph-3" id="headingDosUnoUno" role="tab">
-                        <h4 class="panel-title">
-                          <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" target="_blank" rel="noopener noreferrer">2.1.1 Leyes</a>
-                          <!-- <a aria-controls="collapseDosUnoUno" aria-expanded="true" data-parent="#headingDosUno" data-toggle="collapse" href="#collapseDosUnoUno" role="button">2.1.1 Leyes </a> -->
+                        <h4 class="panel-title"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" rel="noopener noreferrer" target="_blank">2.1.1 Leyes</a> <!-- <a aria-controls="collapseDosUnoUno" aria-expanded="true" data-parent="#headingDosUno" data-toggle="collapse" href="#collapseDosUnoUno" role="button">2.1.1 Leyes </a> -->
                         </h4>
                       </div>
                       <!-- <div aria-labelledby="headingDosUnoUno" class="panel-collapse collapse" id="collapseDosUnoUno" role="tabpanel">
@@ -135,9 +131,7 @@
                     <!-- collapseDosUnoDos -->
                     <div class="panel panel-default">
                       <div class="panel-heading ph-3" id="headingDosUnoUno" role="tab">
-                        <h4 class="panel-title">
-                          <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" target="_blank" rel="noopener noreferrer">2.1.2 Decreto Único Reglamentario </a>
-                          <!-- <a aria-controls="collapseDosUnoDos" aria-expanded="true" data-parent="#headingDosUno" data-toggle="collapse" href="#collapseDosUnoDos" role="button">2.1.2 Decreto Único Reglamentario </a> -->
+                        <h4 class="panel-title"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" rel="noopener noreferrer" target="_blank">2.1.2 Decreto Único Reglamentario </a> <!-- <a aria-controls="collapseDosUnoDos" aria-expanded="true" data-parent="#headingDosUno" data-toggle="collapse" href="#collapseDosUnoDos" role="button">2.1.2 Decreto Único Reglamentario </a> -->
                         </h4>
                       </div>
                       <!-- <div aria-labelledby="headingDosUnoUno" class="panel-collapse collapse" id="collapseDosUnoDos" role="tabpanel">
@@ -151,9 +145,7 @@
                     <!-- collapseDosUnoTres -->
                     <div class="panel panel-default">
                       <div class="panel-heading ph-3" id="headingDosUnoUno" role="tab">
-                        <h4 class="panel-title">
-                          <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" target="_blank" rel="noopener noreferrer">2.1.3 Normativa aplicable </a>
-                          <!-- <a aria-controls="collapseDosUnoTres" aria-expanded="true" data-parent="#headingDosUno" data-toggle="collapse" href="#collapseDosUnoTres" role="button">2.1.3 Normativa aplicable </a> -->
+                        <h4 class="panel-title"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" rel="noopener noreferrer" target="_blank">2.1.3 Normativa aplicable </a> <!-- <a aria-controls="collapseDosUnoTres" aria-expanded="true" data-parent="#headingDosUno" data-toggle="collapse" href="#collapseDosUnoTres" role="button">2.1.3 Normativa aplicable </a> -->
                         </h4>
                       </div>
                       <!-- <div aria-labelledby="headingDosUnoUno" class="panel-collapse collapse" id="collapseDosUnoTres" role="tabpanel">
@@ -202,7 +194,7 @@
                       <div aria-labelledby="headingUno" class="panel-collapse collapse" id="collapseDosUnoSeis" role="tabpanel">
                         <div class="panel-body">
                           <ul>
-                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-09-2021/pa05-in02-f6_agenda_regulatoria_version_08_09_2021.xlsx" rel="noopener noreferrer" target="_blank">Agenda Regulatoria</a></li>
+                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-10-2021/pa05-in02-f6_agenda_regulatoria_version_08_10_2021.xlsx" rel="noopener noreferrer" target="_blank">Agenda Regulatoria</a></li>
                           </ul>
                         </div>
                       </div>
@@ -290,6 +282,7 @@
                 <li><a href="#" rel="noopener noreferrer" target="_blank">4.6 Información pública y/o relevante.</a>
                   <ul>
                     <li><a href="https://www.movilidadbogota.gov.co/web/estados_financieros" rel="noopener noreferrer" target="_blank">Estados financieros</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/informes_de_siniestralidad_sitp_asociada_a_exceso_de_velocidad" rel="noopener noreferrer" target="_blank">Informes de siniestralidad SITP asociada a exceso de velocidad</a></li>
                   </ul>
                 </li>
                 <li><a href="#" rel="noopener noreferrer" target="_blank">4.7 Informes de gestión, evaluación y auditoría.</a>
@@ -344,7 +337,11 @@
                 <li><a href="#" rel="noopener noreferrer" target="_blank">6.1 Participación para la identificación de problemas y diagnóstico de necesidades</a></li>
                 <li><a href="#" rel="noopener noreferrer" target="_blank">6.2 Planeación y/o presupuesto participativo</a></li>
                 <li><a href="https://www.movilidadbogota.gov.co/web/participacion-formulacion-politicas" rel="noopener noreferrer" target="_blank">6.3 Participación y consulta ciudadana de proyectos, normas, políticas o programas</a></li>
-                <li><a href="#" rel="noopener noreferrer" target="_blank">6.4 Colaboración e innovación abierta</a></li>
+                <li><a href="" rel="noopener noreferrer" target="_blank">6.4 Colaboración e innovación abierta</a>
+                <ul>
+                  <li><a href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza" target="_blank" rel="noopener noreferrer">Conoce, Propone y Prioriza</a></li>
+                </ul>
+              </li>
                 <li><a href="#" rel="noopener noreferrer" target="_blank">6.5 Rendición de cuentas</a>
                   <ul>
                     <li><a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" rel="noopener noreferrer" target="_blank">Rendición de Cuentas Locales</a></li>
@@ -352,7 +349,7 @@
                 </li>
                 <li><a href="https://www.movilidadbogota.gov.co/web/gestion_social" rel="noopener noreferrer" target="_blank">6.6 Gestión Social</a></li>
                 <li><a href="https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad" rel="noopener noreferrer" target="_blank">6.7 Control ciudadano</a></li>
-              </ol>
+              </ol>  
             </div>
           </div>
         </div><!-- /#collapseSeis -->
@@ -428,27 +425,23 @@
               <ol>
                 <li><a href="https://www.movilidadbogota.gov.co/web/instancias_de_coordinacion" rel="noopener noreferrer" target="_blank">9.1 Instancias de Coordinación</a></li>
                 <li><a href="https://www.movilidadbogota.gov.co/web/eliminaciones_documentales_trd" rel="noopener noreferrer" target="_blank">9.2 Eliminaciones Documentales - TRD</a></li>
-                <li>9.3 Estudios, investigaciones y otras publicaciones
-                  <ul>
+                <li>9.3 Estudios, investigaciones y otras publicaciones<ul>
                     <li><a href="https://www.movilidadbogota.gov.co/web/libros_y_cartillas" rel="noopener noreferrer" target="_blank">Libros y cartillas</a></li>
                   </ul>
                 </li>
-                <li>9.4 Convocatorias
-                  <ul>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/movilab" target="_blank" rel="noopener noreferrer">Movilab</a></li>
+                <li>9.4 Convocatorias<ul>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/movilab" rel="noopener noreferrer" target="_blank">Movilab</a></li>
                   </ul>
                 </li>
                 <li><a href="https://www.movilidadbogota.gov.co/web/modelo_integrado_de_planeacion_y_gestion" rel="noopener noreferrer" target="_blank">9.5 Modelo Integrado de Planeacion y Gestión (MIPG) </a></li>
-                <li>9.6 Gestión del Talento Humano
-                  <ul>
+                <li>9.6 Gestión del Talento Humano<ul>
                     <li><a href="https://www.movilidadbogota.gov.co/web/nombramientos" rel="noopener noreferrer" target="_blank">Nombramientos</a></li>
                     <li><a href="Comisión Nacional del Servicio Civil" rel="noopener noreferrer" target="_blank">Comisión Nacional del Servicio Civil</a></li>
                     <li><a href="https://talentonopalanca.gov.co/index.html" rel="noopener noreferrer" target="_blank">Trabaja con nosotros</a></li>
                   </ul>
                 </li>
                 <li><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion" rel="noopener noreferrer" target="_blank">9.7 Denuncias por actos de corrupción</a></li>
-                <li><a href="https://www.movilidadbogota.gov.co/web/agenda_directivos" rel="noopener noreferrer" target="_blank">9.8 Agenda Directivos</a></li>
-                <!-- <li><a href="#" rel="noopener noreferrer" target="_blank">9.7 Accesibilidad</a></li> -->
+                <li><a href="https://www.movilidadbogota.gov.co/web/agenda_directivos" rel="noopener noreferrer" target="_blank">9.8 Agenda Directivos</a></li><!-- <li><a href="#" rel="noopener noreferrer" target="_blank">9.7 Accesibilidad</a></li> -->
                 <!-- <li><a href="#" rel="noopener noreferrer" target="_blank">9.8 Datos Personales</a></li> -->
               </ol>
             </div>
@@ -463,7 +456,8 @@
   </div>
   <div class="row">
     <div class="col-xs-10 col-xs-offset-1">
-      <div class="text-center"><a class="btn btn-success btn-cpp" href="https://www.movilidadbogota.gov.co/web/node/1654" id="edit-submit" target="_blank">Conoce, propone y prioriza</a></div>
+      <div class="text-center"></div>
+      <div class="text-center"><a class="btn btn-success btn-cpp" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza" id="edit-submit" target="_blank">Conoce, propone y prioriza</a></div>
     </div>
   </div>
 </div>

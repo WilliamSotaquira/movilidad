@@ -806,6 +806,9 @@
     </div>
     <div class="row">
         <div class="col-xs-6 col-sm-2">
+            <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/logo_10_anhos.png" alt="Logo Innpulsa" class="img-responsive w-100"></div>
+        </div>
+        <div class="col-xs-6 col-sm-2">
             <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-10-2021/logo_red_esv_0.png" alt="Logo Red Empresarial de Seguridad Vial" class="img-responsive w-100"></div>
         </div>
         <div class="col-xs-6 col-sm-2">
@@ -819,9 +822,6 @@
         </div>
         <div class="col-xs-6 col-sm-2">
             <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-10-2021/logo_sharecollab_a.png" alt="Logo Sharecollab" class="img-responsive w-100"></div>
-        </div>
-        <div class="col-xs-6 col-sm-2">
-            <div class="RSL-img zoom"><img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/logo_10_anhos.png" alt="Logo Innpulsa" class="img-responsive w-100"></div>
         </div>
     </div>
     <hr>
