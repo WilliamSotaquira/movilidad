@@ -1916,6 +1916,32 @@
                             <hr>
                             <div class='row'>
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-03-2022/2022-03-03_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 51</h4>
+                                                <i>jueves, 3 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>En 2021, Bogotá avanzó en movilidad sostenible, cobertura, seguridad y planes anti-evasión. Ajustes operativos en servicios de la Troncal Américas. Empresa Metro implementa con éxito brigada de supervisión de predios, y más. </p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-03-2022/2022-03-02_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 50</h4>
+                                                <i>miércoles, 2 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>En 2021, Bogotá avanzó en movilidad sostenible, cobertura, seguridad y planes anti-evasión, La Unidad de Mantenimiento Vial le da una nueva cara a las vías del barrio Batán en Suba, gracias a las obras adelantadas para tapar los huecos, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-04-01_boletinbem.pdf'>
                                         <div class='btn-boletin'>
                                             <div class='titulo-boletin'>
