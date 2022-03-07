@@ -164,3 +164,6 @@ Route::view('/plantillas/tabs', 'plantillas/tabs');
     Route::view('/2022/febrero/ambiental', '2022/febrero/ambiental');
     Route::view('/2022/febrero/efr', '2022/febrero/efr');
     Route::view('/2022/febrero/vus', '2022/febrero/vus');
+    
+    // Contenido Ajustado en febrero 2022
+    Route::view('/2022/marzo/agentes', '2022/marzo/agentes');
