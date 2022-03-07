@@ -151,7 +151,7 @@
                 <dd><strong>R. </strong>Tenemos a su disposición diferentes medios para que nos puedes contactar</dd>
                 <div>
                     <dl>
-                        <dd>Teléfono: <a href="tel:+6012916929">(601) 291 6929</a></dd>
+                        <dd>Teléfono: <a href="tel:+576012916999">+57 (601) 291 6999</a></dd>
                         <dd>Página web: <a href="http://www.ventanillamovilidad.com.co">www.ventanillamovilidad.com.co</a></dd>
                         <dd>Twitter: <a href="https://twitter.com/VentanillaMov">@VentanillaMov</a></dd>
                         <dd>Instagram: <a href="https://www.instagram.com/ventanillamovilidad/">Ventanilla Movilidad</a></dd>
