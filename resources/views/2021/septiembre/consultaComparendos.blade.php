@@ -14,7 +14,7 @@
 <hr>
 <div class='row'>
     <div class='col-xs-12'>
-        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/23-09-2021/2021-09-23_boton-consulta-de-comparendos_-660-x-178-px_2.png" alt="Ahora desde la comodidad de tu casa podras consultar el pago de comparendos, acuerdos de pago, embargos y prescripciones">
+        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/07-03-2022/encabezado_consultacomparendos_20220307.jpg" alt="Ahora desde la comodidad de tu casa podras consultar el pago de comparendos, acuerdos de pago, embargos y prescripciones">
     </div>
 </div>
 <p class="rtecenter">
