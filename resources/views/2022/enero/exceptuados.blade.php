@@ -43,7 +43,7 @@
                 <li>Diligencie todos los campos del formulario y haga clic en el botón  "Registra información".</li>
                 <li>Luego, debe verificar en la página de SIMUR <a href="https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/consultarPlaca/" target="_blank" rel="noopener noreferrer">https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/consultarPlaca/</a> que el permiso esté vigente, introduciendo el número de placa del carro.</li>
                 <li>Con esto, queda listo su permiso. Si Agentes Civiles de Tránsito o la Policía de Tránsito detienen el vehículo, consultarán la base de datos y verán que el permiso está vigente.</li>
-                <li>Recuerde que el permiso tiene vigencia de un año, luego del cual deberá renovarlo.</li>
+                <li>Recuerde que esta excepción no requiere renovación.</li>
             </ol>
             <p><strong>Gracias por hacer de Bogotá una ciudad con movilidad sostenible.</strong></p>
         </div>
