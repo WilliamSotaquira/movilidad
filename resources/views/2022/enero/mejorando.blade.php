@@ -1916,6 +1916,32 @@
                             <hr>
                             <div class='row'>
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/2022-03-07_boletinbem_0.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 53</h4>
+                                                <i>lunes, 7 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>La UMV intervino las calles alrededor del Parque de la 93, con este trabajo se mejoran los recorridos de los residentes. Comerciantes y transeúntes de la zona, entre la Carrera 7 y Autopista Norte Se adelanta la construcción de aceras y ciclorrutas de las calles 92 y 94</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/2022-03-04_boletinbem_0.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 52</h4>
+                                                <i>viernes, 4 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Distrito implementa nuevas medidas de movilidad en la Autopista Norte para beneficiar a estudiantes. Cerca de 30 mil cámaras y más de 25 mil ojos brindan seguridad a los usuarios en TransMilenio, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-03-2022/2022-03-03_boletinbem.pdf'>
                                         <div class='btn-boletin'>
                                             <div class='titulo-boletin'>
