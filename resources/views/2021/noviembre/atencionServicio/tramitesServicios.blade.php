@@ -18,12 +18,12 @@
                     <div class="col-xs-12 col-sm-7">
                         <div class="enc-titulo">
                             <h3>
-                                Tramites y Servicios
+                                Trámites y Servicios
                             </h3>
                         </div>
-                        <div class="enc-parrafo">
+                        <div class="enc-parrafo" style="line-height: 1.5;">
                             <div>
-                                <p>En esta sección podrás conocer los horarios y puntos de atención que la Secretaría Distrital de Movilidad tiene disponibles para los ciudadanos y partes interesadas que requieran realizar alguno de los trámites y servicios que presta la Entidad.</p>
+                                <p>En esta sección encuentras los puntos de atención y los horarios para que puedas realizar los trámites y servicios que presta la Secretaría Distrital de Movilidad.</p>
                             </div>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
     <hr>
     <div class="titulo2">
         <div class="box-titulo">
-            <h3>Tramites</h3>
+            <h3>Trámites</h3>
         </div>
     </div>
     <div class="s4">
@@ -79,7 +79,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t4.webp" alt="">
                     <h3 class="titulo">
-                        <p>Devolución y/o compensación de pagos en exceso por comparendos y acuerdos de pago</p>
+                        <p>Devolución y/o compensación de pagos en exceso</p>
                     </h3>
                 </div>
             </a>
@@ -104,7 +104,7 @@
                         <img class='img-fluid' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t6.webp' alt='Cursos Pedagógicos' title='Cursos Pedagógicos'>
                     </div>
                     <h3 class="titulo">
-                        <p>Facilidades de pago para deudores de obligaciones no tributarias</p>
+                        <p>Facilidades de pago</p>
                     </h3>
                 </div>
             </a>
@@ -120,7 +120,7 @@
                         <img class='img-fluid' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t7.webp' alt='Cursos Pedagógicos' title='Cursos Pedagógicos'>
                     </div>
                     <h3 class="titulo">
-                        <p>Inscripción o autorización para la circulación vial Excepciones de pico y placa</p>
+                        <p>Excepciones de pico y placa</p>
                     </h3>
                 </div>
             </a>
@@ -129,7 +129,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/t8_a.webp" alt="">
                     <h3 class="titulo">
-                        <p>Revisión y aprobación de estudios de transito</p>
+                        <p>Revisión y aprobación de estudios de tránsito</p>
                     </h3>
                 </div>
             </a>
@@ -138,7 +138,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t9.webp" alt="">
                     <h3 class="titulo">
-                        <p>Suministro de copias de Informe de Accidentes</p>
+                        <p>Suministro de copias de informe de accidentes</p>
                     </h3>
                 </div>
             </a>
@@ -147,7 +147,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t10.webp" alt="">
                     <h3 class="titulo">
-                        <p>Registro Ruta Escolar Ruta Pila</p>
+                        <p>Registro Ruta Escolar</p>
                     </h3>
                 </div>
             </a>
@@ -165,7 +165,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t12.webp" alt="">
                     <h3 class="titulo">
-                        <p>Consulta en línea de información de Tránsito y Transporte</p>
+                        <p>Consulta en línea de información de Tránsito y Transporte*</p>
                     </h3>
                 </div>
             </a>
@@ -194,7 +194,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s1.webp" alt="">
                     <h3 class="titulo">
-                        <p>Impugnación de Comparendos
+                        <p>Impugnación de comparendos
                     </h3>
                 </div>
             </a>
@@ -203,7 +203,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s2.webp" alt="">
                     <h3 class="titulo">
-                        <p>Solicitud de desembargo por multas, e infracciones a las Normas de Tránsito y Transporte Público
+                        <p>Solicitud de desembargo</p>
                     </h3>
                 </div>
             </a>
@@ -212,7 +212,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s3.webp" alt="">
                     <h3 class="titulo">
-                        <p>Solicitud de Revocatoria Directa por Infracciones a las Normas de Tránsito
+                        <p>Solicitud de revocatoria de infracciones</p>
                     </h3>
                 </div>
             </a>
@@ -221,7 +221,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s4.webp" alt="">
                     <h3 class="titulo">
-                        <p>Remisión a Curso de Sensibilización por Conducir en Estado de Embriaguez
+                        <p>Remisión a curso de sensibilización por conducir en estado de embriaguez</p>
                     </h3>
                 </div>
             </a>
@@ -230,7 +230,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s5.webp" alt="">
                     <h3 class="titulo">
-                        <p>Entrega de Licencia de Conducción Suspendida
+                        <p>Entrega de licencia de conducción suspendida
                     </h3>
                 </div>
             </a>
@@ -239,7 +239,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s6.webp" alt="">
                     <h3 class="titulo">
-                        <p>Solicitud de Semaforización, Reporte de Semáforos y Señales de Tránsito que presenten daños
+                        <p>Solicitud de semaforización, reporte de semáforos y señales de tránsito que presenten daños</p>
                     </h3>
                 </div>
             </a>
@@ -257,7 +257,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s8.webp" alt="">
                     <h3 class="titulo">
-                        <p>Puntos de Atención Registro Bici
+                        <p>Puntos de atención Registro Bici
                     </h3>
                 </div>
             </a>
@@ -267,7 +267,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s9_a.webp" alt="">
                     <h3 class="titulo">
-                        <p>Requisitos Sello de Calidad Cicloparqueaderos
+                        <p>Requisitos Sello de Calidad Cicloparqueaderos</p>
                     </h3>
                 </div>
             </a>
@@ -276,7 +276,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s2.webp" alt="">
                     <h3 class="titulo">
-                        <p>Punto de contacto y gestión local en temas de movilidad
+                        <p>Punto de contacto y gestión local en temas de movilidad</p>
                     </h3>
                 </div>
             </a>
@@ -285,7 +285,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s17.webp" alt="">
                     <h3 class="titulo">
-                        <p>Permiso especial de acceso al área con Restricción Vehicular - “Pico y Placa solidario”
+                        <p>Pico y Placa Solidario</p>
                     </h3>
                 </div>
             </a>
@@ -294,7 +294,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s15.webp" alt="">
                     <h3 class="titulo">
-                        <p>Certificación de procesos de Investigaciones Administrativas
+                        <p>Certificación de procesos de Investigaciones Administrativas</p>
                     </h3>
                 </div>
             </a>
@@ -304,7 +304,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s12.webp" alt="">
                     <h3 class="titulo">
-                        <p>Desvinculación administrativa de vehículos de transporte público
+                        <p>Desvinculación administrativa de vehículos de Transporte Público</p>
                     </h3>
                 </div>
             </a>
@@ -313,7 +313,7 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s9.webp" alt="">
                     <h3 class="titulo">
-                        <p>Descuento tributario por la habilitación y mantenimiento de Cicloparqueaderos - Plan Marshall
+                        <p>Descuento tributario por la habilitación y mantenimiento de cicloparqueaderos - Plan Marshall</p>
                     </h3>
                 </div>
             </a>
@@ -322,19 +322,19 @@
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s14.webp" alt="">
                     <h3 class="titulo">
-                        <p>Centro de Orientación para Víctimas de Siniestros Viales - ORVI
+                        <p>Centro de Orientación para Víctimas de Siniestros Viales - ORVI</p>
                     </h3>
                 </div>
             </a>
 
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <!-- <a href="http://" target="_blank" rel="noopener noreferrer">
                 <div class="recuadro col-xs-12 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s16.webp" alt="">
                     <h3 class="titulo">
                         <p>Solicitud y Registro de: RDA - Registro Distrital Automotor, RDC - Registro de Licencias de Conducción, RTO - Registro Tarjetas de Operación
                     </h3>
                 </div>
-            </a>
+            </a> -->
 
         </div>
     </div>

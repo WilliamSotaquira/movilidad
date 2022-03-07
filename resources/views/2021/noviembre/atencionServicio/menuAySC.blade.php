@@ -32,28 +32,28 @@
 
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-11-2021/tramitesservicios.webp" alt=""> 
-                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/entorno2" target="_blank" rel="noopener noreferrer" tabindex="1">Trámites y Servicios</a></h3>
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/entorno2" target="_blank" rel="noopener noreferrer" tabindex="1">Trámites y servicios</a></h3>
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-11-2021/puntoscanales.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="2">Puntos y Canales de atención a la ciudadania</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="2">Puntos y canales de atención a la ciudadanía</a></h3>
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/pqrsd.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="3">PQRSD Peticiones, quejas, reclamos y denuncias</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="3">Peticiones, quejas, reclamos y denuncias</a></h3>
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-11-2021/informacion_publica.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="4">Consultas en lineá</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="4">Consultas en línea</a></h3>
             </div>
 
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/preguntasfrecuentes.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="5">Preguntas Frecuentes</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="5">Preguntas frecuentes</a></h3>
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/declaratoriapatios.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="6">Vehículos en declaratoria de abandono en patios Ley 1730 de 2014</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="6">Vehículos en declaratoria de abandono <br> Ley 1730 de 2014</a></h3>
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/manualserviciociudadania.webp" alt="">
@@ -61,13 +61,13 @@
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/cartacompromiso.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="8">Carta de compromiso al Ciudadano</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="8">Carta de Compromiso al Ciudadano</a></h3>
             </div>
 
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/cartacompromiso_a.webp" alt="">
 
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="9">Manual de Servicio a la ciudadania</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="9">Manual de Servicio a la ciudadanía</a></h3>
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/anticorrupcion.webp" alt="">
@@ -75,11 +75,11 @@
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/informacionpublica.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="11">Información Pública</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="11">Información pública</a></h3>
             </div>
             <div class="recuadro col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/sim_0.webp" alt="">
-                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="12">Serivicios Integrales de Movilidad SIM</a></h3>
+                <h3 class="titulo"><a href="http://" target="_blank" rel="noopener noreferrer" tabindex="12">Ventanilla Única de Servicios</a></h3>
             </div>
 
         </div>
