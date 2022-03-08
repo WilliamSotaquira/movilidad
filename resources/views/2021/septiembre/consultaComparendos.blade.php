@@ -4,11 +4,15 @@
 <div class="row">
     <!-- xs -->
     <div class="col-xs-12 visible-xs-12 visible-xs-block">
-        <img alt="Consulta de Comparendos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-09-2021/encabezado_xs.png" title="Consulta de Comparendos">
+        <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php">
+            <img alt="Consulta de Comparendos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/07-03-2022/comparendos_20220220307_xs.jpg" title="Consulta de Comparendos">
+        </a>
     </div>
     <!-- lg -->
     <div class="col-sm-12 hidden-xs">
-        <img alt="Consulta de Comparendos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-09-2021/encabezado_sm.png" title="Consulta de Comparendos">
+        <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php">
+            <img alt="Consulta de Comparendos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/07-03-2022/comparendos_20220307_sm.jpg" title="Consulta de Comparendos">
+        </a>
     </div>
 </div>
 <hr>
@@ -30,7 +34,6 @@
 
 <style type="text/css">
     .seccion td {
-        vertical-align:  !important;
         padding: 20px !important;
     }
 
@@ -39,7 +42,7 @@
         color: #fff;
         text-align: center;
     }
-
+ 
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
