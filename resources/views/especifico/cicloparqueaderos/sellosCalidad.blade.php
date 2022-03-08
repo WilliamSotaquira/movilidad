@@ -7,7 +7,7 @@
         <section>
             <!-- row banner principal -->
             <div class="row">
-                <div class="col-xs-12"><img alt="Contador de sellos de cicloparqueaderos. Oro 121, Plata 064, Total Cupos para ciclistas 17.487" class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2021/8_-_contador_sellos_de_calidad_-_jun_0.jpg" style="width: 100%;" title="Contador de cupos de cicloparqueaderos de Bogotá"></div>
+                <div class="col-xs-12"><img alt="Contador de sellos de cicloparqueaderos. Oro 121, Plata 064, Total Cupos para ciclistas 17.487" class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/contador_cicloparqueaderos_0.png" style="width: 100%;" title="Contador de cupos de cicloparqueaderos de Bogotá"></div>
             </div><!-- fin row banner principal -->
             <hr>
             <div class="row">
@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-4 ">
                     <div class="btn-enlace bs">
-                        <div class="navbar-header"><img alt="" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-05-2021/17.10_-_icono_sello_oro_2.png"></div><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-08-2021/lista_de_cp_certificados_.xlsx" target="_blank">Conoce aquí los cicloparqueaderos certificados</a>
+                        <div class="navbar-header"><img alt="" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-05-2021/17.10_-_icono_sello_oro_2.png"></div><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/lista_de_cp_certificados_2022_0.xlsx" target="_blank">Conoce aquí los cicloparqueaderos certificados</a>
                     </div>
                 </div>
             </div>

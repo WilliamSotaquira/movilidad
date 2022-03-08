@@ -1,6 +1,11 @@
 @extends ('welcome')
 @section ('contenido')
 
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 <div class="mpv-body">
     <!-- row banner principal -->
@@ -10,13 +15,148 @@
         <!-- sm -->
         <div class="col-xs-12 hidden-xs"><img alt="Titulo Principal: Más y mejores cicloparqueaderos." class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/16_-_banner_mas.y-mejores-cicloparqueaderos_v3.jpg" style="width: 100%;" title="Más y mejores cicloparqueaderos."></div>
     </div><!-- fin row banner principal -->
-    <hr><!-- row banner principal -->
-    <div class="row">
-        <!-- xs -->
-        <div class="col-xs-12 visible-xs-block"><img alt="contador de cupos de cicloparqueaderos total cupos 48.328" class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-12-2021/cicloparqueaderos_-_banner_contador_-_396_-_180_-dic.jpg" style="width: 100%;" title="Contador de cupos de cicloparqueaderos"></div>
-        <!-- sm -->
-        <div class="col-xs-12 hidden-xs"><img alt="Imagen: Contador de cupos de cicloparqueaderos total cupos 48.328" class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-12-2021/cicloparqueaderos_-_banner_contador_1200x200-dic.jpg" style="width: 100%;" title="Contador de cupos de cicloparqueaderos"></div>
-    </div><!-- fin row banner principal -->
+
+    <!-- sección contador  -->
+    <div class="contador">
+        <div class="titulo">
+            <div class='row'>
+                <div class='col-xs-12 col-sm-12 col-md-12 '>
+                    <h3>Contador de cupos <span class="enfasis">de cicloparqueaderos de Bogotá</span></h3>
+                </div>
+            </div>
+        </div>
+        <div class="botones">
+            <div class="row">
+                <div class="col-xs-12 col-sm-4">
+                    <div class="boton">
+                        <div class="icono">
+                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono1.png' alt='icono más y mejores cicloparqueaderos' title='icono más y mejores cicloparqueaderos'>
+                        </div>
+                        <div class="texto">
+                            <p>Más y mejores Cicloparqueaderos</p>
+                        </div>
+                        <div class="valor">
+                            <p>29.026</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="boton">
+                        <div class="icono">
+                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono2.png' alt='icono sellos de calidad' title='icono sellos de calidad'>
+                        </div>
+                        <div class="texto">
+                            <p>Sellos de calidad</p>
+                        </div>
+                        <div class="valor">
+                            <p>21.175</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4">
+                    <div class="boton">
+                        <div class="icono">
+                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono3.png' alt='icono sellos de calidad' title='icono sellos de calidad'>
+                        </div>
+                        <div class="texto">
+                            <p>Total de cupos</p>
+                        </div>
+                        <div class="valor">
+                            <p>50.201</p>
+                            </ </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Fin sección contador  -->
+    <style>
+        .contador {
+            padding: 20px 25px 10px 25px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            background-color: rgba(255, 255, 255, 1);
+            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        }
+
+        .contador .titulo {
+            text-align: center;
+        }
+
+        .contador .titulo h3 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 22px;
+            font-weight: 800;
+            text-align: center;
+            line-height: 1.4;
+            color: #1C2046;
+            margin: 0px;
+        }
+
+        .contador .titulo .enfasis {
+            background-color: #66e026;
+            color: #fff;
+            text-transform: uppercase;
+            padding: 5px;
+            font-weight: 800;
+            font-size: 1.1em;
+        }
+
+        .botones {
+            padding: 10px;
+        }
+
+        .botones .boton {
+            margin: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .botones .icono {
+            /* height: 100px; */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* padding: 5px; */
+        }
+
+        .botones .icono img {
+            max-width: 50px;
+        }
+
+        .boton .texto {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            text-align: center;
+            line-height: 1;
+            margin: 0px;
+            color: #1C2046;
+            letter-spacing: 1.1;
+            padding: 5px;
+        }
+
+        .boton .valor {
+            background-color: #66e026;
+        }
+
+        .boton .valor p {
+            margin: 0px;
+            padding: 8px;
+            color: #fff;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+            line-height: 1;
+        }
+    </style>
+
+
     <hr><!-- row mapa -->
     <div class="row row-mp">
         <div class="col-xs-12 col-cp-car">
@@ -231,7 +371,8 @@
         visibility: hidden;
         height: 0px;
     }
-    .mpv-body{
+
+    .mpv-body {
         max-width: 940px;
         margin: auto;
     }
@@ -585,9 +726,9 @@
         justify-content: center;
     }
 
-    .cp-video iframe{
-     width: 100%;
-     height: 100%;
+    .cp-video iframe {
+        width: 100%;
+        height: 100%;
     }
 
     .cp-col-video {
