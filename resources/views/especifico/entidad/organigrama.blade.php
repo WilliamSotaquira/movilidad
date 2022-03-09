@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/organigrama_20220301.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2022/organigrama_20220309_b.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -632,17 +632,18 @@
 
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-06-2020/claudia-mercado.jpg" alt="">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2022/rafaelalbertogonzalezrodriguez.webp" alt="Rafael Alberto González Rodríguez">
                                                                             </div>
                                                                         </div>
-
+                                                                        
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Claudia Mercado Velandia</h1>
-                                                                                <h4>Subdirectora de Transporte Público</h4>
+                                                                                <h1>Rafael Alberto González Rodríguez</h1>
+                                                                                <h4>Subdirector de Transporte Público</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Es Ingeniera Civil y Magíster en Ingeniería de Transporte de la Universidad Nacional de Colombia, con más de 10 años de experiencia profesional en planeación y gerencia de proyectos de movilidad sostenible.</p>
-                                                                                    <p>Cuenta con experiencia en cargos directivos en Entidades como Transmilenio S.A. y la Secretaría Distrital de Movilidad de Bogotá donde ha liderado el diseño y la implementación de acciones de optimización y mejoras al Sistema Troncal TransMilenio, en el SITP y en el transporte público en sus diferentes modalidades.</p>
+                                                                                    <p>Ingeniero Civil egresado de la Universidad Nacional de Colombia, especialista en Gerencia de Proyectos de la Universidad del Tolima y magíster en Ingeniería Civil de la Pontificia Universidad Javeriana.</p>
+                                                                                    <p>Tiene más de 15 años de experiencia en transporte urbano, ingeniería de tránsito, seguridad vial, control y fiscalización, liderando proyectos tanto en el sector público como en el privado, formulando estrategias y dirigiendo la ejecución de programas enfocados a mejorar las condiciones de movilidad.</p>
+                                                                                    <p>Trabajó en la Secretaría Distrital de Movilidad desde el año 2017 a 2021 desempeñándose en cargos como: director de Gestión de Tránsito y Control de Tránsito y Transporte, subdirector de Control de Tránsito y Transporte y asesor de la Dirección de Control y Vigilancia; y regresa con el fin de aportar al planteamiento de la política pública de transporte y de asumir los retos que se lideran desde esta subdirección. Rafael afirma que la SDM tiene un equipo humano dispuesto a responder a las necesidades de la ciudadanía, entre ellos, a la reactivación económica como un tema fuerte para estos próximos años de gestión.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
