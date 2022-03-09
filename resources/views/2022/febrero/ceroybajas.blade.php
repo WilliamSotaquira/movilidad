@@ -1,10 +1,12 @@
 @extends('welcome')
 @section('contenido')
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Sogar -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Sogar -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
 
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -298,7 +300,7 @@
             .s1 .txt1-cybe mark {
                 background-color: #1c2046;
                 font-weight: 700;
-                font-family: 'Sora', sans-serif;
+                font-family: 'Montserrat', sans-serif;
                 line-height: 1.4;
                 color: #fff;
                 padding: 5px;
@@ -422,7 +424,7 @@
 
                 .tab-box .box-parrafos {
                     background-color: #fafafa;
-                    padding: 4%;
+                    padding: 2% 4%;
                 }
 
                 .tab-box .box-parrafos .imagen1 {
@@ -431,8 +433,8 @@
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 0px;
-                    height: 150px;
-                    filter: grayscale(100%);
+                    height: 450px;
+                    /* filter: grayscale(100%); */
                     -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
                     box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
                     margin: 8px;
@@ -444,15 +446,15 @@
                     background-size: cover;
                     background-repeat: no-repeat;
                     background-position: 0px;
-                    height: 150px;
-                    filter: grayscale(100%);
+                    height: 450px;
+                    /* filter: grayscale(100%); */
                     -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
                     box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
                     margin: 8px;
                 }
 
                 .tab-box .box-parrafos .parrafo-tab {
-                    padding: 20px 20px 40px 20px;
+                    padding: 30px 50px;
                     display: flex;
                     flex-direction: column;
                     justify-content: space-between;
@@ -460,23 +462,24 @@
                 }
 
                 .tab-box .box-parrafos .parrafo-tab h3 {
-                    font-size: 24px;
-                    /* font-weight: 700; */
+                    font-size: 30px;
+                    font-weight: 700;
                     text-align: center;
                     border-top: solid 2px #1c2046;
                     border-bottom: solid 2px #1c2046;
                     margin: 0px;
                     padding: 8px;
+                    color: rgba(25, 28, 58, 1);
                 }
 
                 .tab-box .box-parrafos .parrafo-tab h4 {
                     font-size: 14px;
                     /* font-weight: 700; */
-                    text-align: start;
+                    text-align: center;
                 }
 
                 .tab-box .box-parrafos .parrafo-tab p {
-                    font-size: 14px;
+                    font-size: 16px;
                     /* font-weight: 700; */
                     text-align: justify;
                 }
@@ -485,11 +488,37 @@
                     padding: 5px;
                 }
 
+                .box-parrafos .parrafo-tab .enfasis {
+                    font-size: 1.1em;
+                    color: rgba(25, 28, 58, 1);
+                    text-transform: uppercase;
+                }
+
                 .tab-box .parrafo-box {
-                    height: 150px;
+                    height: 250px;
                     display: flex;
                     justify-content: center;
                     align-items: center;
+                    background-color: rgba(255, 255, 255, 0.9);
+                    margin: 30px;
+                    padding: 20px;
+                }
+
+                .tab-box .parrafo-box h4 {
+                    font-family: 'Montserrat', sans-serif;
+                    font-size: 30px;
+                    font-weight: 700;
+                    text-align: center;
+                    line-height: 1;
+                    padding: 10px;
+                }
+
+                .tab-box .parrafo-box p {
+                    font-family: 'Montserrat', sans-serif;
+                    font-weight: 400;
+                    text-align: justify;
+                    line-height: 1.4;
+                    padding: 10px;
                 }
             </style>
         </div>
@@ -503,43 +532,7 @@
                     <div class='row'>
                         <div class='col-xs-12 col-sm-12 col-md-12'>
                             <div class="parrafo-tab">
-                                <h3>¿Por qué necesitamos una movilidad más limpia?</h3>
-                            </div>
-                        </div>
-                        <div class='row'>
-                            <div class='col-xs-12 col-sm-12 col-md-12 '>
-                                <div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class="imagen1">
-                                    </div>
-                                </div>
-                                <div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class="parrafo-box">
-                                        <div>
-                                            <h4>Contaminación del aire</h4>
-                                            <p>En Bogotá, cada año mueren más de 2300 personas por enfermedades asociadas a la contaminación del aire (SDA, 2021).</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class='row'>
-                            <div class='col-xs-12 col-sm-12 col-md-12 '>
-                                <div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class="imagen2">
-                                    </div>
-                                </div>
-                                <div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class="parrafo-box">
-                                        <div>
-                                            <h4>Cambio climático</h4>
-                                            <p>La ciudad genera el 5% de las emisiones de Gases de Efecto Invernadero del país, generando 11.421.724 toneladas de CO2 equivalente (t CO2e).</p>
-                                        </div>
-
-                                    </div>
-                                </div>
-
+                                <h3>¿Por qué necesitamos una <br><span class="enfasis">movilidad más limpia</span>?</h3>
                             </div>
                         </div>
                         <div class="row">
@@ -554,6 +547,42 @@
                                 </div>
                             </div>
                         </div>
+                        <div class='row'>
+                            <div class='col-xs-12 col-sm-12 col-md-12 '>
+                                <div class="imagen1" title="Foto de Av Suba a la altura de la Calle 127 con alto trafico de fondo" alt="Foto de Av Suba a la altura de la Calle 127 con alto trafico de fondo">
+                                    <div class='col-xs-12 col-sm-6 col-md-6'>
+                                        <div class="parrafo-box">
+                                            <div>
+                                                <h4>Contaminación del aire</h4>
+                                                <p>En Bogotá, cada año mueren más de 2300 personas por enfermedades asociadas a la contaminación del aire (SDA, 2021).</p>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                    <div class='col-xs-12 col-sm-6 col-md-6'>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class='row'>
+                            <div class='col-xs-12 col-sm-12 col-md-12 '>
+                                <div class="imagen2">
+                                    <div class='col-xs-12 col-sm-6 col-md-6'>
+                                    </div>
+                                    <div class='col-xs-12 col-sm-6 col-md-6'>
+                                        <div class="parrafo-box">
+                                            <div>
+                                                <h4>Cambio climático</h4>
+                                                <p>La ciudad genera el 5% de las emisiones de Gases de Efecto Invernadero del país, generando 11.421.724 toneladas de CO2 equivalente (t CO2e).</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
@@ -563,7 +592,7 @@
                     <div class='row'>
                         <div class='col-xs-12 col-sm-12 col-md-12'>
                             <div class="parrafos-box">
-                                <div class="titulo">
+                                <div class="parrafo-tab">
                                     <h3>¿Qué solución proponemos?</h3>
                                 </div>
                                 <div class="parrafo">
@@ -654,16 +683,30 @@
                         }
 
                         #menu2 .carousel-caption {
-                            /* text-shadow: 0 1px 2px rgba(0,0,0,.6); */
-                            text-shadow: 0 1px 2px #0009;
-                            background-color: #000000dd;
+                            /* text-shadow: 0 1px 2px rgba(255, 255, 255, 0.8); */
+                            text-shadow: 0 1px 2px rgba(255, 255, 255, 0.8);
+                            background-color: rgba(255, 255, 255, 0.9);
                         }
 
+                        #menu2 .carousel-caption h3 {
+                            color: rgba(25, 28, 58, 1);
+                            font-family: 'Montserrat', sans-serif;
+                            font-size: 30px;
+                            font-weight: 700;
+                            text-align: center;
+                            line-height: 1.4;
+                        }
+
+                        #menu2 .carousel-control {
+                            color: rgba(102, 224, 38, 1) !important;
+                            opacity: 1;
+                        }
 
                         ul {
                             list-style-type: none;
                             margin: 0;
                             padding: 0;
+                            color: rgba(25, 28, 58, 1);
                         }
 
                         .parrafos-box {
@@ -672,13 +715,14 @@
                         }
 
                         .parrafos-box .titulo h3 {
-                            font-size: 24px;
-                            /* font-weight: 700; */
+                            font-size: 30px;
+                            font-weight: 700;
                             text-align: center;
                             border-top: solid 2px #1c2046;
                             border-bottom: solid 2px #1c2046;
-                            margin: 20px;
+                            margin: 0px;
                             padding: 8px;
+                            color: rgba(25, 28, 58, 1);
                         }
 
                         .parrafos-box h4 {
@@ -689,6 +733,7 @@
 
                         .parrafos-box .parrafo {
                             padding: 20px;
+                            font-size: 15px;
                         }
 
                         .parrafos-box .parrafo p {
@@ -696,6 +741,20 @@
                             /* font-weight: 700; */
                             text-align: justify;
                             color: #151515;
+                        }
+
+
+                        @media screen and (min-width: 768px) {
+
+                            .carousel-control .glyphicon-chevron-left,
+                            .carousel-control .glyphicon-chevron-right,
+                            .carousel-control .icon-next,
+                            .carousel-control .icon-prev {
+
+                                width: 50px !important;
+                                height: 50px !important;
+                                font-size: 50px !important;
+                            }
                         }
                     </style>
 
@@ -1133,145 +1192,145 @@
                         </div>
                     </div>
                     <div>
-                    <h4>Consolidando una red inteligente de infraestructura de recarga.</h4>
+                        <h4>Consolidando una red inteligente de infraestructura de recarga.</h4>
                         <p>Conoce la infraestructura que existe hoy.</p>
-                        <br> 
+                        <br>
                         <div class="seccion-6">
-                        <div class="row">
-            <div class="col-xs-12">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2021/mapa-puntos-de-recarga_3.png" alt="mapa puntos de servicio" usemap="#imgmap202110417359">
-                <div class="txt-seccion-6">
-                    <p>Igualmente, otros operadores han dispuesto estaciones de recarga de uso público en la ciudad, las cuales se pueden consultar <a href="https://www.electromaps.com/mapa?qsearch=bogota" target="_blank" rel="noopener noreferrer">aquí</a></p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-12">
-                <!-- collapseUbicaciones -->
-                <div class='panel-group' id='accordion_ubicaciones' role='tablist ' aria-multiselectable='true'>
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingUbicaciones'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion_ubicaciones' href='#collapseUbicaciones' aria-expanded='true' aria-controls='collapseUbicaciones'>
-                                    Clic aqui para ver la dirección de las ubicaciones
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapseUbicaciones' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingUbicaciones'>
-                            <div class='panel-body'>
-                                <div class="baldosas">
-                                    <div class='row'>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>1. Salitre</h4>
-                                                <p>Calle 63 # 68 - 99 Parqueadero Bolera El Salitre </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>2. Tercer Milenio</h4>
-                                                <p>Calle 6 # 11 - 14 Subterraneo Parque Tercer Milenio</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>3. Calle 77</h4>
-                                                <p>Calle 77 # 16 - 31 </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>4. Unicentro 1</h4>
-                                                <p>Cra 15 # 124 - 30 </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>5. Unicentro 2 <br> (En proceso)</h4>
-                                                <p>Cra 15 # 124 - 30 </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>6. CC El Retiro</h4>
-                                                <p>Calle 81-82 # 11 - 94 </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>7. Autogermana</h4>
-                                                <p>Calle 127B # 7 - 15 </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>8. Gimnasio Stark</h4>
-                                                <p>Calle 127A # 7 - 12 </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>9. Parqueadero Lugano Galerias</h4>
-                                                <p>Calle 53 # 25 - 30 </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>10. Parqueadero Lugano</h4>
-                                                <p>AK 15 # 102 - </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>11. Plaza de las Americas</h4>
-                                                <p>Carrera 71D # 6 - 94 sur </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>12. Plaza de las Americas</h4>
-                                                <p>Carrera 71D # 6 - 94 sur </p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>13. Concesionario Jaguar Land Rover Morato</h4>
-                                                <p>Carrera 70 # 99A - 00</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>13. Concesionario Dinissan Morato</h4>
-                                                <p>Carrera 70 # 101 - 22</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>14. Peláez Hermanos</h4>
-                                                <p>Calle 126 # 7 - 25</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>14. Peláez Hermanos 1</h4>
-                                                <p>Calle 126 # 7 - 25</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-3">
-                                            <div class="baldosa">
-                                                <h4>15. Peláez Hermanos 2</h4>
-                                                <p>Carrera 32 # 17 - 09</p>
-                                            </div>
-                                        </div>
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2021/mapa-puntos-de-recarga_3.png" alt="mapa puntos de servicio" usemap="#imgmap202110417359">
+                                    <div class="txt-seccion-6">
+                                        <p>Igualmente, otros operadores han dispuesto estaciones de recarga de uso público en la ciudad, las cuales se pueden consultar <a href="https://www.electromaps.com/mapa?qsearch=bogota" target="_blank" rel="noopener noreferrer">aquí</a></p>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin Ubicaciones -->
-            </div>
-        </div>
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <!-- collapseUbicaciones -->
+                                    <div class='panel-group' id='accordion_ubicaciones' role='tablist ' aria-multiselectable='true'>
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='headingUbicaciones'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordion_ubicaciones' href='#collapseUbicaciones' aria-expanded='true' aria-controls='collapseUbicaciones'>
+                                                        Clic aqui para ver la dirección de las ubicaciones
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapseUbicaciones' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingUbicaciones'>
+                                                <div class='panel-body'>
+                                                    <div class="baldosas">
+                                                        <div class='row'>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>1. Salitre</h4>
+                                                                    <p>Calle 63 # 68 - 99 Parqueadero Bolera El Salitre </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>2. Tercer Milenio</h4>
+                                                                    <p>Calle 6 # 11 - 14 Subterraneo Parque Tercer Milenio</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>3. Calle 77</h4>
+                                                                    <p>Calle 77 # 16 - 31 </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>4. Unicentro 1</h4>
+                                                                    <p>Cra 15 # 124 - 30 </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>5. Unicentro 2 <br> (En proceso)</h4>
+                                                                    <p>Cra 15 # 124 - 30 </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>6. CC El Retiro</h4>
+                                                                    <p>Calle 81-82 # 11 - 94 </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>7. Autogermana</h4>
+                                                                    <p>Calle 127B # 7 - 15 </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>8. Gimnasio Stark</h4>
+                                                                    <p>Calle 127A # 7 - 12 </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>9. Parqueadero Lugano Galerias</h4>
+                                                                    <p>Calle 53 # 25 - 30 </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>10. Parqueadero Lugano</h4>
+                                                                    <p>AK 15 # 102 - </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>11. Plaza de las Americas</h4>
+                                                                    <p>Carrera 71D # 6 - 94 sur </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>12. Plaza de las Americas</h4>
+                                                                    <p>Carrera 71D # 6 - 94 sur </p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>13. Concesionario Jaguar Land Rover Morato</h4>
+                                                                    <p>Carrera 70 # 99A - 00</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>13. Concesionario Dinissan Morato</h4>
+                                                                    <p>Carrera 70 # 101 - 22</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>14. Peláez Hermanos</h4>
+                                                                    <p>Calle 126 # 7 - 25</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>14. Peláez Hermanos 1</h4>
+                                                                    <p>Calle 126 # 7 - 25</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-xs-12 col-sm-3">
+                                                                <div class="baldosa">
+                                                                    <h4>15. Peláez Hermanos 2</h4>
+                                                                    <p>Carrera 32 # 17 - 09</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin Ubicaciones -->
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1396,10 +1455,10 @@
     }
 
     .seccion {
-        font-size: 14px !important;
-        line-height: 1.4 !important;
+        font-size: 15px !important;
+        line-height: 1.5 !important;
         max-width: 940px;
-        font-family: 'Sora', sans-serif;
+        font-family: 'Montserrat', sans-serif;
     }
 
 
@@ -1714,10 +1773,9 @@
         vertical-align: middle !important;
         font-size: 14px;
     }
-
 </style>
 <style>
-      .seccion .seccion-6 {
+    .seccion .seccion-6 {
         background-color: #363636;
         color: #66e026;
     }
@@ -1761,7 +1819,6 @@
     }
 </style>
 <style>
-    
     .baldosas {
         /* border-top: solid 3px #66e026; */
         /* border-bottom: solid 3px #66e026; */
