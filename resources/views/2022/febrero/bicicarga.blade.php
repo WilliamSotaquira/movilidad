@@ -34,7 +34,7 @@
 			<div class="col-sm-8">
 				<h3 style="color: #fff;"><a href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="text-decoration: none; color: #fff;" target="_blank">Resultados</a></h3>
 
-				<p style="color: #fff;"><a href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="text-decoration: none; color: #fff;" target="_blank">En cualquier lugar en el que vivas, existe la probabilidad de ver que las bicicletas de carga lleguen al barrio como una opción de transporte sostenible, conveniente e inclusivo. Entérate de los resultados del piloto BiciCarga sobre ciclo-logística en Bogotá.</a></p>
+				<p style="color: #fff;"><a href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="text-decoration: none; color: #fff;" target="_blank">En cualquier lugar en el que vivas, existe la probabilidad de ver que las bicicletas de carga lleguen al barrio como una opción de transporte sostenible, conveniente e inclusivo. Entérate de los resultados del piloto BiciCarga sobre ciclologística en Bogotá.</a></p>
 				<div class="text-center">
 					<a class="btn btn-primary btn-resultados" href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="color: #fff;"><strong>Click aquí</strong></a>
 				</div>
@@ -53,7 +53,7 @@
 			<div class="col-sm-3 col-sm-offset-1"><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logo-bogota.png"></div>
 
 			<div class="col-sm-6  col-sm-offset-1">
-				<p>Secretaría Distrital de Movilidad es el ente articulador del piloto, el formulador de política pública y de recomendaciones a la norma para apoyar la ampliación y la adopción acelerada de las bicicletas de carga eléctricas para el movimiento de mercancías en Bogotá.</p>
+				<p>La Secretaría Distrital de Movilidad cumple el rol de ser el ente articulador del piloto, el formulador de política pública y de recomendaciones a la norma para apoyar la ampliación y la adopción acelerada de las bicicletas de carga eléctricas para el movimiento de mercancías en Bogotá.</p>
 			</div>
 		</div>
 
@@ -61,7 +61,7 @@
 			<div class="col-sm-3 col-sm-offset-1"><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logo-logyca.png"></div>
 
 			<div class="col-sm-6  col-sm-offset-1">
-				<p>LOGYCA en alianza con el MIT FaROL LAB fueron los expertos técnicos del proyecto quienes adelantaron el diseño metodológico y de estrategias para el análisis de la información.</p>
+				<p>LOGYCA, en alianza con el MIT FaROL LAB, fueron los expertos técnicos del proyecto, quienes adelantaron el diseño metodológico y de estrategias para el análisis de la información.</p>
 			</div>
 		</div>
 
@@ -77,13 +77,13 @@
 			<div class="col-sm-3 col-sm-offset-1"><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logo-banco-mundial.png"></div>
 
 			<div class="col-sm-6  col-sm-offset-1">
-				<p>Banco Mundial y la Corporación Financiera Internacional participan activamente en el sector del transporte urbano de Bogotá, brindando la asistencia financiera y técnica que contribuirá a la escalabilidad del proyecto.</p>
+				<p>El Banco Mundial y la Corporación Financiera Internacional participan activamente en el sector del transporte urbano de Bogotá, brindando la asistencia financiera y técnica para contribuir con la escalabilidad del proyecto.</p>
 			</div>
 		</div>
 
 		<div class="row bg-verde">
 			<div class="col-sm-offset-1 col-sm-10 texto-blanco">
-				<h3>¿Qué busca BiciCarga?</h3>
+				<h3>¿Qué buscó BiciCarga Fase 1?</h3>
 
 				<h4>(atributos del proyecto)</h4>
 			</div>
@@ -148,7 +148,7 @@
 			<div class="col-sm-10 col-sm-offset-1">
 				<h3>¿Cómo se desarrolló el piloto?</h3>
 
-				<p>El piloto tuvo una duración de seis meses para validar dos modelos de operación: el primer modelo se trabajó con flota propia, y el segundo con operación usando una plataforma colaborativa de cross docking (un espacio de recepción y almacenamiento temporal de mercancía).</p>
+				<p>El piloto tuvo una duración de seis meses para validar dos modelos de operación: el primer modelo se trabajó con flota propia desde los centros de distribución de cada empresa, y el segundo con operación usando una plataforma colaborativa de cross docking (un espacio de recepción y almacenamiento temporal de mercancía).</p>
 
 				<p><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-12-2020/micrositio-bicicarga.jpg"></p>
 
@@ -160,7 +160,7 @@
 
 				<h4>Modelo 2: Plataforma de cross docking colaborativa</h4>
 
-				<p>Este involucró a empresas que hicieron uso de una plataforma colaborativa para distribuir sus mercancías partiendo de un único punto de acopio ubicado en una zona estratégica de la ciudad. En ella se recibieron los pedidos para distribuirlos en bicicletas o triciclos eléctricos a su destino final. La razón fundamental detrás de la ubicación del centro es que permitió que las entregas de última milla se hicieran en bicicleta, eliminando al menos una parte de los movimientos del vehículo en la zona, que de otro modo ocurrirían.</p>
+				<p>Este involucró a empresas que hicieron uso de una plataforma colaborativa para distribuir sus mercancías partiendo de un único punto de acopio ubicado en una zona estratégica de la ciudad. En ella se recibieron los pedidos para distribuirlos en bicicletas o triciclos eléctricos a su destino final. La razón fundamental detrás de la ubicación del centro es que permitió que las entregas de última milla se hicieran en bicicleta, eliminando al menos una parte de los movimientos realizados en la zona por vehículos de carga convencionales.</p>
 
 				<p><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa1.jpg"></p>
 			</div>
@@ -168,17 +168,98 @@
 
 		<div class="row bg-verde texto-blanco">
 			<div class="col-sm-10 col-sm-offset-1">
-				<h3>Empresas que participarón en Bicicarga</h3>
+				<h3>Empresas que participaron en BiciCarga</h3>
 
-				<p>El piloto contó con la participación de empresas de los sectores de alimentos, paquetería e insumos médicos que implementaron un esquema de distribución con bicicletas/triciclos eléctricos de carga que permitieron la conformación de una red de valor en ciclo logística para Bogotá y que eventualmente puede ser replicado y escalado en otras ciudades del país.</p>
+				<p>El piloto contó con la participación de empresas de los sectores de alimentos, paquetería y consumo masivo que implementaron un esquema de distribución con bicicletas/triciclos eléctricos de carga, el cual permitió la conformación de una red de valor en ciclo logística para Bogotá y que puede ser replicado y escalado en otras ciudades del país</p>
+				<br>
+				<div class="box-logos">
+					<ul>
+						<li> Generadores
+							<div class='row'>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/lacolmena.webp' alt='Logo La colmena' title='Logo La colmena'>
+									</div>
+								</div>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/nutresa.webp' alt='Logo Nutresa' title='Logo Nutresa'>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>Operadores
+							<div class='row'>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/cvas.webp' alt='Logo CVAS' title='Logo CVAS'>
+									</div>
+								</div>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/quick.webp' alt='Logo Quick' title='Logo Quick'>
+									</div>
+								</div>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/servientrega.webp' alt='Logo Servientrega' title='Logo Servientrega'>
+									</div>
+								</div>
+							</div>
+						</li>
+						<li>Proveedores
+							<div class='row'>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/pargal.webp' alt='Logo Pargal' title='Logo Pargal'>
+									</div>
+								</div>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/ecotriciclos.webp' alt='Logo Ecotriciclos' title='Logo Ecotriciclos'>
+									</div>
+								</div>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/cityparking.webp' alt='Logo Cityparking' title='Logo Cityparking'>
+									</div>
+								</div>
+								<div class='col-xs-6 col-sm-3 col-md-3'>
+									<div class="logo">
+										<img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/lola.webp' alt='Logo Lola' title='Logo Lola'>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<style>
+					.box-logos {
+						background-color: #fff;
+						padding: 20px;
+					}
 
-				<p><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/empresas.png"><br>
+					.box-logos ul>li {
+						font-size: 16px;
+						color: #011E41;
+						font-weight: 700;
+						margin-bottom: 10px;
+					}
+
+					.box-logos .logo {
+						height: 80px;
+						display: flex;
+						justify-content: center;
+						align-items: center;
+					}
+				</style>
+				<!-- <p><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/empresas.png"><br>
 					<i>Modelo 1: Quick, La Colmena, Grupo Bimbo</i>
-				</p>
+				</p> -->
 
-				<p><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logos-empresas.jpg"><br>
-					<i>Modelo 2: Alianza Team, Comercial Nutresa, Alquería, Baxter, Servientrega, Alpina, Alimentos Cárnicos, DHL, Solística, Lola-TransporTempo, Quick, Opperar </i>
-				</p>
+				<!-- <p><img alt="" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logos-empresas.jpg"><br>
+			</p> -->
+				<!-- <i>Alianza Team, Comercial Nutresa, Alquería, Baxter, Servientrega, Alpina, Alimentos Cárnicos, DHL, Solística, Lola-TransporTempo, Quick, Opperar </i> -->
 			</div>
 		</div>
 
@@ -240,6 +321,28 @@
 		</div>
 
 
+		<div class="row bg-verde texto-blanco lista">
+			<div class="col-sm-10 col-sm-offset-1">
+				<h3>BiciCarga Fase 2</h3>
+
+				<p>BiciCarga Fase 2 se centra en la implementación de una operación de distribución de mercancías de última milla o a nivel de barrio, a través de bicicletas o triciclos de carga eléctrica de cero emisiones con paneles solares como fuente de energía. </p>
+				<p>Durante 5 meses, BiciCarga proporcionará asistencia técnica para su implementación, monitoreo y formulación de recomendaciones para la adopción por parte de empresas privadas y promoción desde la formulación de política pública de las autoridades. </p>
+				<p>En esta segunda fase, BiciCarga busca:</p>
+				<ul>
+					<li>Impulsar la masificación de un modelo colaborativo de logística sostenible y renovable basado en la ciclo logística para la distribución de mercancía de carga seca y fría en su fase de última milla o a nivel de barrio en Colombia.</li>
+					<li>Informar al gobierno local sobre las barreras sociales, económicas, operativas y de infraestructura de energía no convencional renovable para promover un servicio sostenible de entrega de mercancía de última milla o a nivel de barrio en Bogotá.</li>
+					<li>Asesorar y apoyar al gobierno local en la construcción de un caso para acelerar la adopción de la política de micromovilidad de carga.</li>
+				</ul>
+
+			</div>
+		</div>
+		<style>
+			.lista ul>li {
+				padding: 15px;
+			}
+		</style>
+
+
 
 		<div class="row bg-azul texto-blanco">
 			<div class="col-sm-10 col-sm-offset-1">
@@ -276,10 +379,12 @@
 		line-height: 1.4 !important;
 		max-width: 940px;
 	}
-	.seccion p{
+
+	.seccion p {
 		text-align: justify;
 	}
-	.seccion ul>li{
+
+	.seccion ul>li {
 		text-align: justify;
 	}
 
@@ -416,16 +521,18 @@
 		padding-top: 30px;
 		padding-bottom: 30px;
 	}
-	.btn-resultados{
+
+	.btn-resultados {
 		background-color: #191C3A !important;
 		border-radius: 0px !important;
 		color: #fff;
 		border: none !important;
 
 	}
-	.btn-resultados:hover{
+
+	.btn-resultados:hover {
 		background-color: #fff !important;
-color: #191C3A !important;		
+		color: #191C3A !important;
 
 	}
 
