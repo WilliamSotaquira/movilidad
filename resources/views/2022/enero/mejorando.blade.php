@@ -1916,6 +1916,45 @@
                             <hr>
                             <div class='row'>
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-10_boletin_bogota_esta_mejorando_.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 56</h4>
+                                                <i>jueves, 10 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Con éxito inició en firme la restauración la escultura ‘Bolívar Ecuestre’. Este sábado 12 de marzo, inician obras de externalización de taquillas en la estación calle 127. Cierre de dos carriles y separador en Autopista al Llano. Y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-09_boletin_bogota_esta_mejorando_.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 55</h4>
+                                                <i>miércoles, 9 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>La UMV está comprometida con mejorar la calidad del aire en Ciudad Bolívar. Estrategia #MasDe25MilOjosAtentos arroja primeros resultados. El Metro de Bogotá genera oportunidades de trabajo y espacios seguros para la mujer. Y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-08_boletin_bogota_esta_mejorando_.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 54</h4>
+                                                <i>martes, 8 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Entra en operación segunda área de implementación de la Zona de Parqueo Pago. En Avenida Suba Inician las obras de conservación del espacio público y ciclorruta. Ocho servicios zonales ampliaron su horario desde el 7 de marzo, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/2022-03-07_boletinbem_0.pdf'>
                                         <div class='btn-boletin'>
                                             <div class='titulo-boletin'>
@@ -1923,7 +1962,7 @@
                                                 <i>lunes, 7 de marzo de 2022</i>
                                             </div>
                                             <div class='descripcion-boletin'>
-                                                <p>La UMV intervino las calles alrededor del Parque de la 93, con este trabajo se mejoran los recorridos de los residentes. Comerciantes y transeúntes de la zona, entre la Carrera 7 y Autopista Norte Se adelanta la construcción de aceras y ciclorrutas de las calles 92 y 94</p>
+                                                <p>La UMV intervino las calles alrededor del Parque de la 93, con este trabajo se mejoran los recorridos de los residentes. Comerciantes y transeúntes de la zona, entre la Carrera 7 y Autopista Norte Se adelanta la construcción de aceras y ciclorrutas de las calles 92 y 94. Y más.</p>
                                             </div>
                                         </div>
                                     </a>
