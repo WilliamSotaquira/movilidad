@@ -167,3 +167,4 @@ Route::view('/plantillas/tabs', 'plantillas/tabs');
     
     // Contenido Ajustado en febrero 2022
     Route::view('/2022/marzo/agentes', '2022/marzo/agentes');
+    Route::view('/2022/marzo/bicicarga_resultados', '2022/marzo/bicicarga_resultados');
