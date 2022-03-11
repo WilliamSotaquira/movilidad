@@ -151,6 +151,11 @@
                 </div>
             </div>
         </div>
+        <div class= 'row' > 
+            <div class='col-xs-6 col-xs-offset-3'>
+                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/piga.webp' alt='Esquema PIGA' title='Esquema PIGA'>
+            </div>
+        </div>
     </div>
     <style>
         .s2 .box-parrafos .img2 {
