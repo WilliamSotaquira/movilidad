@@ -37,9 +37,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn1">
-                                        <div class="txt-enfasis">
                                             <span>Sistema de Gestión de Calidad</span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -56,9 +54,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn2">
-                                        <div class="txt-enfasis">
                                             <span>Sistema de Gestión Antisoborno</span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -75,9 +71,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn3">
-                                        <div class="txt-enfasis">
                                             <span>Sistema de Gestión de Seguridad y Salud en el Trabajo</span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -85,7 +79,7 @@
                     </div>
 
                     <div class="boton bs zoom">
-                        <a href="">
+                        <a href="https://www.movilidadbogota.gov.co/web/sistema_de_gestion_ambiental">
                             <div class="row">
                                 <div class="col-xs-12 col-sm-4 pr0">
                                     <div class="img-boton">
@@ -94,9 +88,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn4">
-                                        <div class="txt-enfasis">
                                             <span>Sistema de Gestión Ambiental</span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -104,7 +96,7 @@
                     </div>
 
                     <div class="boton bs zoom">
-                        <a href="">
+                        <a href="https://www.movilidadbogota.gov.co/web/sistema_gestion_efr">
                             <div class="row">
                                 <div class="col-xs-12 col-sm-4 pr0">
                                     <div class="img-boton">
@@ -113,9 +105,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn5">
-                                        <div class="txt-enfasis">
                                             <span>Empresa Familiarmente Responsable</span>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -215,7 +205,8 @@
         border: solid 1px #55555510;
         padding: 5vw;
         background-color: #f5f5f5;
-        border-radius: 24px;
+        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
     }
 
     .s2 .txt-description .parrafos p {
@@ -232,8 +223,8 @@ font-size: 0.9em;
     }
 
     .boton {
-        border: solid 1px #5D5D5D;
-        border-radius: 19px;
+        border: solid 1px #fdfdfd;
+        /* border-radius: 19px; */
         height: 400px;
         margin-bottom: 30px;
     }
@@ -260,78 +251,55 @@ font-size: 0.9em;
         display: flex;
         justify-content: center;
         align-items: center;
-        border-radius: 0px 0px 15px 15px;
+        padding: 20px;
+        /* border-radius: 0px 0px 15px 15px; */
 
     }
 
-    .txt-enfasis {
-        width: 80%;
-        /* border: solid 1px #252525; */
-        border-radius: 6px;
 
-    }
 
 
     .btn1 {
         background-color: #6dcbd3;
         font-weight: 700;
         font-size: 1.2em;
+        color: #151515;
+
     }
 
-    .btn1 .txt-enfasis {
-        background-color: #155179;
-        padding: 15px;
-    }
+
 
     .btn2 {
         background-color: #f3ac33;
-        color: #fff;
+        color: #151515;
         font-weight: 700;
         font-size: 1.2em;
     }
 
-    .btn2 .txt-enfasis {
-        background-color: #de1b19;
-        padding: 15px;
-
-    }
 
     .btn3 {
         background-color: #27A6CF;
-        color: #fff;
+        color: #151515;
         font-weight: 700;
         font-size: 1.2em;
     }
 
-    .btn3 .txt-enfasis {
-        background-color: #A25FA4;
-        padding: 15px;
-    }
-
+  
     .btn4 {
         background-color: #a7cd00;
-        color: #fff;
+        color: #151515;
         font-weight: 700;
         font-size: 1.2em;
     }
 
-    .btn4 .txt-enfasis {
-        background-color: #4d4d4d;
-        padding: 15px;
-    }
 
     .btn5 {
         background-color: #dc6600;
-        color: #fff;
+        color: #000;
         font-weight: 700;
         font-size: 1.2em;
     }
 
-    .btn5 .txt-enfasis {
-        background-color: #6d645e;
-        padding: 15px;
-
-    }
 </style>
 <style>
     @media(max-width:767px) {}
@@ -354,11 +322,11 @@ font-size: 0.9em;
 
         .boton {
             height: 130px;
-            border-radius: 16px;
+            /* border-radius: 16px; */
         }
 
         .boton .txt-boton {
-            border-radius: 0px 15px 15px 0px;
+            /* border-radius: 0px 15px 15px 0px; */
             height: 128px;
             justify-content: center;
 
