@@ -1916,6 +1916,19 @@
                             <hr>
                             <div class='row'>
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2022/2022-03-11_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 57</h4>
+                                                <i>viernes, 11 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>¡Juntos Cuidamos Suba! En esta localidad la UMV ha tapado más de 35.700 huecos. TransMilenio pone a disposición de los usuarios un servicio zonal adicional para las elecciones. Y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-10_boletin_bogota_esta_mejorando_.pdf'>
                                         <div class='btn-boletin'>
                                             <div class='titulo-boletin'>
