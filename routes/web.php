@@ -35,6 +35,11 @@ Route::view('/plantillas/acordeon', 'plantillas/acordeon');
 Route::view('/plantillas/tabla', 'plantillas/tabla');
 Route::view('/plantillas/tabs', 'plantillas/tabs');
 
+// --------------------------------------------------------------------------------------------------------------------------------------------------------- Tramites y Servicios
+Route::view('/atencionServicio/menuAySC', 'atencionServicio/menuAySC');
+Route::view('/atencionServicio/tramitesServicios', 'atencionServicio/tramitesServicios');
+
+
 
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Carpeta de contenido Especifico
@@ -125,8 +130,6 @@ Route::view('/plantillas/tabs', 'plantillas/tabs');
     Route::view('/2021/noviembre/agentes', '2021/noviembre/agentes');
     Route::view('/2021/noviembre/agendamiento', '2021/noviembre/agendamiento');
     Route::view('/2021/noviembre/orvi', '2021/noviembre/orvi');
-    Route::view('/2021/noviembre/atencionServicio/menuAySC', '2021/noviembre/atencionServicio/menuAySC');
-    Route::view('/2021/noviembre/atencionServicio/tramitesServicios', '2021/noviembre/atencionServicio/tramitesServicios');
 
     // Contenido Ajustado en diciembre
     Route::view('/2021/diciembre/excepciones', '2021/diciembre/excepciones');
