@@ -36,8 +36,9 @@ Route::view('/plantillas/tabla', 'plantillas/tabla');
 Route::view('/plantillas/tabs', 'plantillas/tabs');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Tramites y Servicios
-Route::view('/atencionServicio/menuAySC', 'atencionServicio/menuAySC');
+Route::view('/atencionServicio/menu', 'atencionServicio/menu');
 Route::view('/atencionServicio/tramitesServicios', 'atencionServicio/tramitesServicios');
+Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cursos');
 
 
 

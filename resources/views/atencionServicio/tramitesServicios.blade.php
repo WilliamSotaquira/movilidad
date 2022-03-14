@@ -1,9 +1,12 @@
 @extends('welcome')
 @section('contenido')
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 <div class='container-fluid seccion'>
@@ -21,7 +24,7 @@
                                 Trámites y Servicios
                             </h3>
                         </div>
-                        <div class="enc-parrafo" style="line-height: 1.5;">
+                        <div class="enc-parrafo">
                             <div>
                                 <p>En esta sección encuentras los puntos de atención y los horarios para que puedas realizar los trámites y servicios que presta la Secretaría Distrital de Movilidad.</p>
                             </div>
@@ -42,7 +45,7 @@
 
 
             <a data-toggle="modal" data-target="#modal_t1">
-                <div class="recuadro-lg col-xs-12 col-sm-4 col-md-6">
+                <div class="recuadro-lg zoom col-xs-6 col-sm-4 col-md-6">
                     <!-- xs -->
                     <div class='visible-md-block visible-lg-block'>
                         <img class='img-fluid' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s1_b.webp' alt='Cursos Pedagógicos' title='Cursos Pedagógicos'>
@@ -58,7 +61,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t2">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t2.webp" alt="">
                     <h3 class="titulo">
                         <p>Salida de Patios Virtual</p>
@@ -67,7 +70,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t3">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t3.webp" alt="">
                     <h3 class="titulo">
                         <p>Salida de Patios Presencial</p>
@@ -76,7 +79,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t4">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t4.webp" alt="">
                     <h3 class="titulo">
                         <p>Devolución y/o compensación de pagos en exceso</p>
@@ -85,7 +88,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t5">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t5.webp" alt="">
                     <h3 class="titulo">
                         <p>Plan de manejo de transito</p>
@@ -94,7 +97,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro-lg col-xs-12 col-sm-4 col-md-6">
+                <div class="recuadro-lg zoom col-xs-6 col-sm-4 col-md-6">
                     <!-- xs -->
                     <div class='visible-md-block visible-lg-block'>
                         <img class='img-fluid' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t6_b.webp' alt='Cursos Pedagógicos' title='Cursos Pedagógicos'>
@@ -110,7 +113,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro-lg col-xs-12 col-sm-4 col-md-6">
+                <div class="recuadro-lg zoom col-xs-6 col-sm-4 col-md-6">
                     <!-- xs -->
                     <div class='visible-md-block visible-lg-block'>
                         <img class='img-fluid' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t7_b.webp' alt='Cursos Pedagógicos' title='Cursos Pedagógicos'>
@@ -126,7 +129,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t8">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/t8_a.webp" alt="">
                     <h3 class="titulo">
                         <p>Revisión y aprobación de estudios de tránsito</p>
@@ -135,7 +138,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t9">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t9.webp" alt="">
                     <h3 class="titulo">
                         <p>Suministro de copias de informe de accidentes</p>
@@ -144,7 +147,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t10">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t10.webp" alt="">
                     <h3 class="titulo">
                         <p>Registro Ruta Escolar</p>
@@ -153,8 +156,8 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t11">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
-                    <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t11.webp" alt="">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
+                    <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-03-2022/cargapesada.webp" alt="">
                     <h3 class="titulo">
                         <p>Permiso de Circulación para Carga Extrapesada y/o Extradimensionada</p>
                     </h3>
@@ -162,7 +165,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t12">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t12.webp" alt="">
                     <h3 class="titulo">
                         <p>Consulta en línea de información de Tránsito y Transporte*</p>
@@ -171,7 +174,7 @@
             </a>
 
             <a data-toggle="modal" data-target="#modal_t13">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t13.webp" alt="">
                     <h3 class="titulo">
                         <p>Emisión concepto a técnicas de señalización</p>
@@ -191,7 +194,7 @@
         <div class="row">
 
             <a data-toggle="modal" data-target="#myModal">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s1.webp" alt="">
                     <h3 class="titulo">
                         <p>Impugnación de comparendos
@@ -200,7 +203,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s2.webp" alt="">
                     <h3 class="titulo">
                         <p>Solicitud de desembargo</p>
@@ -209,7 +212,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s3.webp" alt="">
                     <h3 class="titulo">
                         <p>Solicitud de revocatoria de infracciones</p>
@@ -218,7 +221,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s4.webp" alt="">
                     <h3 class="titulo">
                         <p>Remisión a curso de sensibilización por conducir en estado de embriaguez</p>
@@ -227,7 +230,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s5.webp" alt="">
                     <h3 class="titulo">
                         <p>Entrega de licencia de conducción suspendida
@@ -236,8 +239,8 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
-                    <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s6.webp" alt="">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
+                    <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-03-2022/semaforo.webp" alt="">
                     <h3 class="titulo">
                         <p>Solicitud de semaforización, reporte de semáforos y señales de tránsito que presenten daños</p>
                     </h3>
@@ -245,7 +248,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s7.webp" alt="">
                     <h3 class="titulo">
                         <p>Desintegración física de vehículos de servicio público
@@ -254,7 +257,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s8.webp" alt="">
                     <h3 class="titulo">
                         <p>Puntos de atención Registro Bici
@@ -264,7 +267,7 @@
 
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s9_a.webp" alt="">
                     <h3 class="titulo">
                         <p>Requisitos Sello de Calidad Cicloparqueaderos</p>
@@ -273,7 +276,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s2.webp" alt="">
                     <h3 class="titulo">
                         <p>Punto de contacto y gestión local en temas de movilidad</p>
@@ -282,7 +285,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s17.webp" alt="">
                     <h3 class="titulo">
                         <p>Pico y Placa Solidario</p>
@@ -291,7 +294,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s15.webp" alt="">
                     <h3 class="titulo">
                         <p>Certificación de procesos de Investigaciones Administrativas</p>
@@ -301,7 +304,7 @@
 
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s12.webp" alt="">
                     <h3 class="titulo">
                         <p>Desvinculación administrativa de vehículos de Transporte Público</p>
@@ -310,7 +313,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s9.webp" alt="">
                     <h3 class="titulo">
                         <p>Descuento tributario por la habilitación y mantenimiento de cicloparqueaderos - Plan Marshall</p>
@@ -319,7 +322,7 @@
             </a>
 
             <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/s14.webp" alt="">
                     <h3 class="titulo">
                         <p>Centro de Orientación para Víctimas de Siniestros Viales - ORVI</p>
@@ -328,7 +331,7 @@
             </a>
 
             <!-- <a href="http://" target="_blank" rel="noopener noreferrer">
-                <div class="recuadro col-xs-12 col-sm-4 col-md-3">
+                <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-12-2021/s16.webp" alt="">
                     <h3 class="titulo">
                         <p>Solicitud y Registro de: RDA - Registro Distrital Automotor, RDC - Registro de Licencias de Conducción, RTO - Registro Tarjetas de Operación
@@ -729,7 +732,7 @@
                                 </ol>
                             </div>
                             <div>
-                                <p><strong>Importante:</strong> Los ciudadanos podrán retirar del  parqueadero Autorizado No. 1, el vehículo durante las 24 horas del día en el cual fue autorizada la orden de salida expedida por la Autoridad de Tránsito. Para el retiro del vehículo en patios lo debe efectuar la misma persona que realizó la solicitud de orden de entrega del vehículo inmovilizado, y que fue autorizada en el acta de entrega del vehículo.</p>
+                                <p><strong>Importante:</strong> Los ciudadanos podrán retirar del parqueadero Autorizado No. 1, el vehículo durante las 24 horas del día en el cual fue autorizada la orden de salida expedida por la Autoridad de Tránsito. Para el retiro del vehículo en patios lo debe efectuar la misma persona que realizó la solicitud de orden de entrega del vehículo inmovilizado, y que fue autorizada en el acta de entrega del vehículo.</p>
                                 <ul>
                                     <li><strong>Exclusivo para motociclistas – Salida de Parqueaderos.</strong> Infracción C24 (conducir motocicleta sin observar las normas de tránsito): debe llevar el elemento (casco y/o chaleco) en el que se puede constatar la subsanación.</li>
                                 </ul>
@@ -782,7 +785,7 @@
                                 <!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
                                                                                           Bloque Tabla
                                 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -- -->
-                                
+
                                 <div class='seccion'>
                                     <div class='row'>
                                         <div class='col-xs-12 col-sm-10 col-sm-offset-1'>
@@ -892,11 +895,13 @@
     }
 
     .s1 {
-        background-color: #191C3A;
+        background: linear-gradient(45deg, rgba(102, 224, 38, 1) 20%, rgba(255, 255, 255, 0.8) 160%);
+        /* background-color: #fff; */
         margin-bottom: 25px;
-        border-top: solid 3px #66e026;
-        border-bottom: solid 10px #66e026;
-
+    }
+    .s1 .enc{
+        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
     }
 
     .s1 .enc [class*='col-'] {
@@ -922,18 +927,22 @@
 
     .s1 .enc-img {
         height: 240px;
-        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/tramitesservicios_a.webp');
+        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/tramitesservicios_a.webp');
         background-size: cover;
         background-repeat: no-repeat;
-        background-position: center top;
+        background-position: center bottom;
     }
 
     .s1 .enc h3 {
         margin: 0px;
-        color: #66e026;
+        color: #252525;
         text-transform: uppercase;
-        font-weight: 900;
-        padding-top: 15px;
+
+        font-family: 'Montserrat', sans-serif;
+        font-size: 38px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 1;
 
     }
 
@@ -946,13 +955,12 @@
     }
 
     .s1 .enc-parrafo p {
-        color: #fff;
-        margin: 10px;
-        padding: 15px;
-        border-top: solid 3px #fff;
-        border-bottom: solid 3px #fff;
-        text-align: justify;
-        font-size: 1rem;
+        color: #252525;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        text-align: center;
+        line-height: 1.4;
     }
 
     .s2 video {
@@ -983,7 +991,7 @@
     .titulo2 {
         padding: 8px 15px;
         margin-bottom: 15px;
-        border-bottom: solid 3px #191C3A;
+        border-bottom: solid 3px #252525;
     }
 
     .s4 [class*='col-'] {
@@ -1062,6 +1070,36 @@
         color: #191C3A;
         padding-bottom: 8px;
     }
+    .box-titulo h3{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 26px;
+        font-weight: 700;
+        text-align: initial;
+        line-height: 1.4;
+        color: #252525;
+    }
+    .zoom {
+        transition: 0.5s ease;
+        -moz-transition: 0.5s ease;
+        /* Firefox */
+        -webkit-transition: 0.5s ease;
+        /* Chrome - Safari */
+        -o-transition: 0.5s ease;
+        /* Opera */
+        -ms-transition: 0.5s ease;
+    }
+    
+    .zoom:hover {
+        transform: scale(1.05);
+        -moz-transform: scale(1.05);
+        /* Firefox */
+        -webkit-transform: scale(1.05);
+        /* Chrome - Safari */
+        -o-transform: scale(1.05);
+        /* Opera */
+        -ms-transform: scale(1.05);
+        
+    }/* IE9 */
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <style>
@@ -1108,7 +1146,7 @@
     }
 
     .recuadro:hover .titulo {
-        background-color: #191C3A;
+        background-color: rgba(255, 255, 255, 0.8);
         margin: 10px;
         right: 0px;
         left: 0px;
@@ -1118,26 +1156,26 @@
     .recuadro h3 {
         font-family: Montserrat;
         font-weight: 500;
-        color: #0066cd;
+        color: #151515;
     }
 
     .recuadro p {
         font-weight: 700;
-        color: #fff;
-        font-size: 1.4rem;
+        color: #151515;
+        font-size: 16px;
         text-align: center;
-        line-height: 1;
-        background-color: #191C3ADB;
+        line-height: 1.2;
+        background-color: rgba(102, 224, 38, 1);
         padding: 5px;
     }
 
     .recuadro:hover p {
         font-weight: 700;
-        color: #66e026;
-        font-size: 1.4rem;
+        color: #151515;
+        font-size: 18px;
         text-align: center;
         line-height: 1;
-        background-color: #191C3A;
+        background-color: transparent;
         padding: 5px;
         text-decoration: none;
     }
@@ -1147,7 +1185,7 @@
         position: relative;
         min-height: 50px;
         /* max-height: 195px; */
-        background-color: #191C3A;
+        background-color: rgba(255, 255, 255, 0.8);
         background-clip: content-box;
         color: #fff;
         padding: 10px !important;
@@ -1188,7 +1226,7 @@
     }
 
     .recuadro-lg:hover .titulo {
-        background-color: #191C3A;
+        background-color: rgba(255, 255, 255, 0.8);
         margin: 10px;
         right: 0px;
         left: 0px;
@@ -1203,21 +1241,21 @@
 
     .recuadro-lg p {
         font-weight: 700;
-        color: #fff;
-        font-size: 1.4rem;
+        color: #151515;
+        font-size: 16px;
         text-align: center;
         line-height: 1;
-        background-color: #191C3ADB;
+        background-color: rgba(102, 224, 38, 1);
         padding: 9px 15px;
     }
 
     .recuadro-lg:hover p {
         font-weight: 700;
-        color: #66e026;
-        font-size: 1.4rem;
+        color: #151515;
+        font-size: 18px;
         text-align: center;
         line-height: 1;
-        background-color: #191C3A;
+        background-color: transparent;
         padding: 9px 15px;
         text-decoration: none;
     }
@@ -1225,7 +1263,7 @@
 <style>
     @media(max-width:767px) {
         .s1 .enc-parrafo p {
-            font-size: 1.5rem !important;
+            font-size: 16px !important;
         }
 
         .s1 .enc h3 {
@@ -1253,7 +1291,7 @@
         }
 
         .s1 .enc-parrafo p {
-            font-size: 1.5rem;
+            font-size: 16px;
         }
 
     }
