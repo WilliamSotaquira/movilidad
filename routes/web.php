@@ -173,3 +173,5 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/marzo/agentes', '2022/marzo/agentes');
     Route::view('/2022/marzo/bicicarga_resultados', '2022/marzo/bicicarga_resultados');
     Route::view('/2022/marzo/motociclistas', '2022/marzo/motociclistas');
+    Route::view('/2022/marzo/planMarshall', '2022/marzo/planMarshall');
+
