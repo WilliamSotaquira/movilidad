@@ -146,14 +146,15 @@
   </div>
   <hr>
   <div class="row">
-      <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion" target="_blank" rel="noopener noreferrer"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="img-responsive bs zoom  w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-08-2021/banner_t-a-a_anticorrupcion_900.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
-      <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion" target="_blank" rel="noopener noreferrer"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="img-responsive bs zoom  w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-10-2021/banner_antisoborno_micrositio-02_1.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
+      <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas" target="_blank" rel="noopener noreferrer"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom  w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
+      <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas" target="_blank" rel="noopener noreferrer"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom  w-100 img-rounded" src=" https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_sm.jpg " title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
   </div>
   <div class="row">
       <div class="col-xs-12 visible-xs-12 visible-xs-block"></div>
       <div class="col-sm-12 hidden-xs"></div>
   </div>
-
+  
+  
   <hr>
   <!-- Sección de imágenes en contenedor slider para dispositivos panorámicos-->
   <div class="row">
@@ -168,9 +169,11 @@
                   <li data-slide-to="4" data-target="#carousel_banner_lg">&nbsp;</li>
                   <li data-slide-to="5" data-target="#carousel_banner_lg">&nbsp;</li>
                   <li data-slide-to="6" data-target="#carousel_banner_lg">&nbsp;</li>
+                  <li data-slide-to="7" data-target="#carousel_banner_lg">&nbsp;</li>
               </ol>
               <div class="carousel-inner" role="listbox">
                   <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Clic aqui para ir a Notificaciones Procesos Disciplinarios" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_sm.png" title="Clic aqui para ir a Notificaciones Procesos Disciplinarios"></a></div>
+                  <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-10-2021/banner_antisoborno_micrositio-02_1.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
                   <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/RoadSafetyLab"><img alt="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-10-2021/roadsafetylab_1921x321.jpg" title="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial"></a></div>
                   <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/nueva-concesion-tramites-servicios-movilidad"><img alt="Concesión de Tramites y Servicios de Movilidad" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-09-2021/concesion_tramites_sm_0.png" title="Concesión de Tramites y Servicios de Movilidad"></a></div>
                   <div class="item"><a target="_blank" rel="noopener noreferrer" href="http://www.sdp.gov.co/gestion-socioeconomica/conpes-dc/documentos-conpes-dc/conpes-dc-aprobados"><img alt="Política publica de la bicicleta" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-politicapublicabicicleta_1.png" title="Política publica de la bicicleta"></a></div>
@@ -194,10 +197,12 @@
                   <li data-slide-to="4" data-target="#carousel-sdm-xs">&nbsp;</li>
                   <li data-slide-to="5" data-target="#carousel-sdm-xs">&nbsp;</li>
                   <li data-slide-to="6" data-target="#carousel-sdm-xs">&nbsp;</li>
+                  <li data-slide-to="7" data-target="#carousel-sdm-xs">&nbsp;</li>
                 </ol>
                 <div class="carousel-inner" role="listbox">
-                  <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Clic aqui para ir a Notificaciones Procesos Disciplinarios" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_xs.png" title=""Clic aqui para ir a Notificaciones Procesos Disciplinario"></a></div>
-                  <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/RoadSafetyLab"><img alt="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-10-2021/roadsafetylab_901x300.jpg" title="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial"></a></div>
+                  <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Clic aqui para ir a " class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_xs.png" title=""Clic aqui para ir a Notificaciones Procesos Disciplinario"></a></div>
+                  <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion"><img alt="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-08-2021/banner_t-a-a_anticorrupcion_900.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
+                  <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/RoadSafetyLab"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-10-2021/roadsafetylab_901x300.jpg" title="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial"></a></div>
                   <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/nueva-concesion-tramites-servicios-movilidad"><img alt="Concesión de Tramites y Servicios de Movilidad" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-09-2021/concesion_tramites_xs_0.png" title=""></a></div>
                   <div class="item"><a target="_blank" rel="noopener noreferrer" href="http://www.sdp.gov.co/gestion-socioeconomica/conpes-dc/documentos-conpes-dc/conpes-dc-aprobados"><img alt="Política publica de la bicicleta" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-politicapublicabicicleta_2.png" title="Política publica de la bicicleta"></a></div>
                   <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019"><img alt="Encuentra aquí los datos más relevantes para la movilidad en Bogotá" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-movilidaddatos_2.png" title="Encuentra aquí los datos más relevantes para la movilidad en Bogotá:"></a></div>

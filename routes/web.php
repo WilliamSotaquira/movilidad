@@ -169,6 +169,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/febrero/efr', '2022/febrero/efr');
     Route::view('/2022/febrero/vus', '2022/febrero/vus');
     
-    // Contenido Ajustado en febrero 2022
+    // Contenido Ajustado en marzo 2022
     Route::view('/2022/marzo/agentes', '2022/marzo/agentes');
     Route::view('/2022/marzo/bicicarga_resultados', '2022/marzo/bicicarga_resultados');
+    Route::view('/2022/marzo/motociclistas', '2022/marzo/motociclistas');
