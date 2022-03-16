@@ -1916,6 +1916,45 @@
                             <hr>
                             <div class='row'>
                                 <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-16_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 60</h4>
+                                                <i>miércoles, 16 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Con la estrategia ‘Controles Salvavidas’ el Distrito  busca reducir el número de víctimas en el tránsito. Fatalidades por siniestros viales en Bogotá. Se realizó la primera jornada de "UMV De Puertas Abiertas" de este año 2022. Y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-15_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 59</h4>
+                                                <i>martes, 15 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>En los últimos meses la UMV atendió 25 emergencias que diﬁcultaban la movilidad en Bogotá. En la localidad de San Cristóbal Inicia construcción de andenes y de segmento vial en el barrio San Jacinto. Y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
+                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-14_boletinbem.pdf'>
+                                        <div class='btn-boletin'>
+                                            <div class='titulo-boletin'>
+                                                <h4>BOLETÍN 58</h4>
+                                                <i>lunes, 14 de marzo de 2022</i>
+                                            </div>
+                                            <div class='descripcion-boletin'>
+                                                <p>Más de 5.000 mujeres mueven a Bogotá Bogotá reconoce la labor de más de 5.000 mujeres que trabajan por el Sistema de Transporte Público. Mañana 15 de marzo se desarrollará la primera jornada de “UMV de Puertas Abiertas” de 2022, y más.</p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                                <div class='col-xs-12 col-sm-4 col-md-3'>
                                     <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2022/2022-03-11_boletinbem.pdf'>
                                         <div class='btn-boletin'>
                                             <div class='titulo-boletin'>
