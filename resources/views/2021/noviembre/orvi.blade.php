@@ -184,6 +184,9 @@
                                 <br>
                                 <li style="text-align: justify;"><strong>Taller:</strong> Esta modalidad pretende que el público aprenda sobre un tema específico a través de recursos prácticos, aplicando los conocimientos adquiridos en la resolución de situaciones que conciernen al tema visto. La característica principal es que la explicación oral se acompaña de actividades prácticas que los participantes desarrollan.</li>
                                 <br>
+                            <p class="text-center"><strong>Correo: </strong> <a href="mailto:formacionorvi@movilidadbogota.gov.co">formacionorvi@movilidadbogota.gov.co</a></p>
+                            <br>
+
                             </ul>
                         </div>
                     </div>
@@ -672,7 +675,8 @@
                             <hr>
                             <p class="text-center"><strong>Dirección: </strong>Calle 42 No. 15 - 61</p>
                             <p class="text-center"><strong>Teléfono: </strong>(601) 647-7311</p>
-                            <p class="text-center"><strong>Correo electrónico: </strong> <a href="mailto:orvi@movilidadbogota.gov.co">orvi@movilidadbogota.gov.co</a></p>
+                            <p class="text-center"><strong>Correo 1: </strong> <a href="mailto:orvi@movilidadbogota.gov.co">orvi@movilidadbogota.gov.co</a></p>
+                            <p class="text-center"><strong>Correo 2: </strong> <a href="mailto:formacionorvi@movilidadbogota.gov.co">formacionorvi@movilidadbogota.gov.co</a></p>
                             <p class="text-center"><strong>Celular y whatsapp de orientación: </strong> 305 870 3458 - 300 586 3576</p>
                         </div>
                     </div>
