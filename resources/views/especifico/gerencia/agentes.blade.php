@@ -85,7 +85,7 @@
 
         .encabezado .img-encabezado {
             height: 200px;
-            background: no-repeat rgba(31, 34, 62, 1) url('/images/agente/img-enc-agentes-1.webp');
+            background: no-repeat rgba(31, 34, 62, 1) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/img-enc-agentes-1.webp');
             background-size: cover;
 
         }
@@ -97,7 +97,7 @@
             border-top: 30px solid transparent;
             border-bottom: 30px solid transparent;
             position: absolute;
-            right: -30px;
+            right: -28px;
             top: calc(50% - 10px);
             z-index: 10;
         }
@@ -113,7 +113,9 @@
         <div class="row atc_enc_res">
             <div class="col-xs-12 col-sm-5">
                 <div class="res_txt">
-                    <p class="parrafo">Los <strong>Agentes de tránsito civiles son empleados públicos investidos de autoridad como Agentes de Tránsito y Transporte,</strong> vinculados directamente a la Secretaría Distrital de Movilidad. Ellos velarán por el orden del flujo vehicular y peatonal en las vías públicas mediante funciones preventivas, de asistencia técnica, regulación y control de las normas de tránsito.</p>
+                    <div>
+                        <p class="parrafo">Los <strong>Agentes de Tránsito Civiles son empleados públicos investidos de autoridad como Agentes de Tránsito y Transporte,</strong> vinculados directamente y vigilados de manera estricta por la Secretaría Distrital de Movilidad. Ellos velarán por el orden del flujo vehicular y peatonal en las vías públicas mediante funciones preventivas, de asistencia técnica, regulación y control de las normas de tránsito.</p>
+                    </div>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-7">
@@ -126,6 +128,195 @@
             </div>
         </div>
     </div>
+    <div class="pilares">
+        <div class="nav-box">
+            <div class="titulo-nav">
+                <h3>Su labor sefundamenta en 3 pilares:</h3>
+            </div>
+            <ul class="nav nav-pills nav-justified">
+                <li class="active">
+                    <a data-toggle="pill" href="#tab1">
+                        <div class="icono-box">
+                            <div class="icono icono1">
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li><a data-toggle="pill" href="#tab2">
+                        <div class="icono-box">
+                            <div class="icono icono2">
+                            </div>
+                        </div>
+                    </a></li>
+                <li><a data-toggle="pill" href="#tab3">
+                        <div class="icono-box">
+                            <div class="icono icono3">
+                            </div>
+                        </div>
+                    </a></li>
+            </ul>
+
+            <div class="tab-content">
+                <div id="tab1" class="tab-pane fade in active">
+                    <div class="box-parrafos">
+                        <h3>Confianza y transparencia</h3>
+                        <p>Los Agentes de tránsito civiles siguen los lineamientos de las <strong>“Guías de Gestión y Control de Tránsito y Transporte”</strong> que contienen las recomendaciones para la planificación, desarrollo de los controles operativos en vía y el uso de medios técnicos y tecnológicos de acuerdo con la normatividad nacional y distrital vigente en materia de tránsito, transporte, movilidad y seguridad vial, las cuales estarán disponibles para que la ciudadanía las consulte. Además, se establecerá el uso de BodyCams como herramienta que dará transparencia a los procesos.</p>
+                    </div>
+                </div>
+                <div id="tab2" class="tab-pane fade">
+                    <div class="box-parrafos">
+                        <h3>Control y seguimiento</h3>
+                        <p>La labor de los agentes de tránsito civiles está supervisada de manera estricta por la Secretaría Distrital de Movilidad. Los agentes se rigen bajo el <strong>Sistema de Gestión Antisoborno</strong> al igual que de un <strong>Comité de Ética</strong> que vinculará a los bogotanos en el control de su gestión.</p>
+                    </div>
+                </div>
+                <div id="tab3" class="tab-pane fade">
+                    <div class="box-parrafos">
+                        <h3>Capacitación</h3>
+                        <p>Los agentes civiles pasan por una formación rigurosa, especializada y planificada. Además, de forma recurrente, recibirán por parte de la SDM cursos de actualización normas y procedimientos de tránsito y transporte, seguridad vial y policía judicial, relaciones humanas, éticas y morales.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        .pilares {
+            border: solid 1px #d1d1d1;
+            margin-bottom: 35px;
+        }
+
+        .pilares .nav-box .titulo-nav {
+            background-color: rgba(190, 208, 0, 1);
+            height: 50px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            justify-items: center;
+            border: #d1d1d1 solid 1px;
+
+        }
+
+        .pilares .nav-box .titulo-nav h3 {
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+            line-height: 1;
+            color: #ffffff;
+            text-transform: uppercase;
+            margin: 0px;
+
+        }
+
+        .pilares .icono-box {
+            height: 150px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            justify-items: center;
+
+        }
+
+        .pilares .icono {
+            height: 130px;
+        }
+
+        .pilares .icono1 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono1.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .pilares .nav-pills>li>a {
+            border-radius: 0px;
+            border-left: #d1d1d1 solid 1px;
+            border-right: #d1d1d1 solid 1px;
+            border-right: #d1d1d1 solid 1px;
+
+        }
+
+        .pilares .nav-pills>li.active>a .icono1,
+        .pilares .nav-pills>li.active>a:focus .icono1 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono1_verde.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+
+        }
+
+        .pilares .icono2 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono2.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .pilares .nav-pills>li.active>a .icono2,
+        .pilares .nav-pills>li.active>a:focus .icono2 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono2_verde.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+
+        }
+
+        .pilares .icono3 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono3.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        .pilares .nav-pills>li.active>a .icono3,
+        .pilares .nav-pills>li.active>a:focus .icono3 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono3_verde.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+
+        }
+
+        .pilares .nav-pills>li.active>a,
+        .pilares .nav-pills>li.active>a:focus,
+        .pilares .nav-pills>li.active>a:hover {
+            background-color: #f6f6f6;
+        }
+
+        .pilares .tab-pane {
+            background-color: #f6f6f6;
+            border-left: #d1d1d1 solid 1px;
+            border-right: #d1d1d1 solid 1px;
+            border-top: #d1d1d1 solid 1px;
+        }
+
+        .pilares .box-parrafos {
+            padding: 10px;
+
+        }
+
+        .pilares .box-parrafos h3 {
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+            line-height: 1;
+            color: rgba(31, 34, 62, 1);
+            padding-bottom: 10px;
+            border-bottom: solid 2px rgba(190, 208, 0, 1);
+            margin-bottom: 20px;
+        }
+
+        .pilares .box-parrafos p {
+            font-size: 16px;
+            font-weight: normal;
+            text-align: center;
+            line-height: 1.8;
+            color: rgba(31, 34, 62, 1);
+            padding: 5%;
+        }
+
+        .pilares .tab-content {
+            /* border: solid 1px #929292; */
+        }
+    </style>
     <div class="s2">
         <div class="tabs">
 
@@ -135,7 +326,7 @@
                     <a class="parrafo" href="#funciones" aria-controls="funciones" role="tab" data-toggle="tab">
                         <div class="btn-nav">
                             <div class="img-nav">
-                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                                <img class='img-responsive' height="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono_pregunta1.png' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
                             </div>
                             <div>
                                 ¿Cuáles serán las funciones de los Agentes Civiles de Tránsito?
@@ -147,7 +338,7 @@
                     <a class="parrafo" href="#agentes" aria-controls="agentes" role="tab" data-toggle="tab">
                         <div class="btn-nav">
                             <div class="img-nav">
-                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                                <img class='img-responsive' height="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono_pregunta2.png' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
                             </div>
                             <div>
                                 ¿Cómo identificar a los Agentes Civiles de Tránsito?
@@ -159,7 +350,7 @@
                     <a class="parrafo" href="#controles" aria-controls="controles" role="tab" data-toggle="tab">
                         <div class="btn-nav">
                             <div class="img-nav">
-                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                                <img class='img-responsive' height="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/icono_pregunta3.png' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
                             </div>
                             <div>
                                 ¿Cómo se realizará el control de los Agentes de Tránsito Civiles?
@@ -168,49 +359,7 @@
                     </a>
                 </li>
             </ul>
-            <style>
-                .nav-tabs>li.active>a,
-                .nav-tabs>li.active>a:focus,
-                .nav-tabs>li.active>a:hover {
-                    height: 160px !important;
-                    display: flex;
-                    flex-direction: column;
-                    justify-content: center;
-                    align-items: center;
-                }
 
-                .nav-tabs {
-                    height: 160px;
-                }
-
-                .nav .parrafo {
-                    height: 250px;
-                }
-
-                .img-nav {
-                    height: 90px;
-                }
-
-                .img-nav img {
-                    height: 70px;
-                }
-
-                @media (min-width: 768px) {
-                    .s2 .nav-tabs>li a {
-                        height: 160px !important;
-                    }
-
-                    .s2 .nav-tabs>li {
-                        height: 160px !important;
-                    }
-
-                    .s2 .nav-tabs>li a:visited  {
-                        background-color: #929292;
-                    }
-
-   
-                }
-            </style>
 
             <!-- Tab panes -->
             <div class="tab-content">
@@ -244,9 +393,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12">
-                            <div class="tt-footer-izq"></div>
-                        </div>
+
                     </div>
                 </div>
 
@@ -271,9 +418,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12">
-                            <div class="tt-footer-der"></div>
-                        </div>
                     </div>
                 </div>
                 <div role="tabpanel" class="tab-pane fade" id="controles">
@@ -290,16 +434,19 @@
                             </div>
                             <div class="img-tabpanes hidden-xs">
                                 <div class="img4"></div>
-                                <!-- <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/ima_4_micrsitio_agentes_civiles.png" alt=""> -->
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-sm-pull-6">
-                            <div class="img-tabpanes ">
+                            <div class="img-tabpanes">
                                 <div class="img3"></div>
-                                <!-- <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/ima_3_micrsitio_agentes_civiles.png" alt=""> -->
                             </div>
-                            <div class="img-footer">
-                                <p class="parrafo"><span class="enf">La segunda vía</span> de control serán las cámaras corporales que <strong>grabarán en audio y video la interacción entre el Agente y los ciudadanos.</strong></p>
+                            <div class="img-tabpanes">
+
+                                <div class="text-tabpanes">
+                                    <div class="tt-descripcion">
+                                        <p class="parrafo"><span class="enf">La segunda vía</span> de control serán las cámaras corporales que <strong>grabarán en audio y video la interacción entre el Agente y los ciudadanos.</strong></p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -308,14 +455,63 @@
         </div>
     </div>
     <style>
+        .s2 .nav-tabs>li.active>a,
+        .s2 .nav-tabs>li.active>a:focus,
+        .s2 .nav-tabs>li.active>a:hover {
+            height: 160px !important;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: #2A2F4C !important;
+        }
+
+        .s2 .nav-tabs {
+            height: 160px;
+        }
+
+        .s2 .nav .parrafo {
+            /* height: 250px; */
+        }
+
+        .s2 .img-nav {
+            height: 90px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            justify-items: center;
+        }
+
+        .s2 .img-nav img {
+            width: 70px;
+            margin: auto;
+        }
+
+        @media (min-width: 768px) {
+            .s2 .nav-tabs>li a {
+                height: 160px !important;
+            }
+
+            .s2 .nav-tabs>li {
+                height: 160px !important;
+            }
+
+            .s2 .nav-tabs>li a:visited {
+                background-color: #929292;
+            }
+
+
+        }
+    </style>
+    <style>
         .s2 .nav-tabs>li {
             background-color: #1f223e;
             width: 100%;
 
         }
 
-        .nav>li>a:focus,
-        .nav>li>a:hover {
+        .s2 .nav>li>a:focus,
+        .s2 .nav>li>a:hover {
             text-decoration: none;
             background-color: #bed000 !important;
             border-bottom: solid 6px #929292 !important;
@@ -329,31 +525,36 @@
         }
 
         .s2 .nav-tabs>li a {
-            color: #ffffff;
             margin-right: 0px;
-            line-height: 1.4;
             border: none;
             border-radius: 0px;
-            font-weight: 700;
             border-bottom: solid 6px #1f223e;
+
+            font-size: 16px;
+            font-weight: 700;
+            text-align: center;
+            line-height: 1.1;
+            color: rgba(255, 255, 255, 1);
         }
 
         .s2 .nav-tabs>li a:hover {
             color: #1f223e;
         }
 
-        .nav-tabs>li.active>a,
-        .nav-tabs>li.active>a:focus,
-        .nav-tabs>li.active>a:hover {
+        .s2 .nav-tabs>li.active>a,
+        .s2 .nav-tabs>li.active>a:focus,
+        .s2 .nav-tabs>li.active>a:hover {
             color: #bed000 !important;
             cursor: default;
-            background-color: #1f223e !important;
+            background-color: #2A2F4C !important;
             border: 1px solid #bed000 !important;
             border-bottom: solid 6px #bed000 !important;
-            border-bottom-color: transparent;
+            border bottom-color: transparent;
         }
 
-
+        .s2 .tab-content {
+            padding: 25px;
+        }
 
         .s2 .img-tabpanes {
             padding-left: 15px;
@@ -365,9 +566,29 @@
             padding: 2vw 4vw;
         }
 
+        .s2 .text-tabpanes .tt-titulo h3 {
+            font-size: 24px;
+            font-weight: 700;
+            text-align: center;
+            line-height: 1.4;
+            color: rgba(31, 34, 62, 1);
+            margin: 0px;
+            padding: 15px;
+            border-bottom: 2px solid rgba(190, 208, 0, 1);
+        }
+
 
         .s2 .text-tabpanes .tt-descripcion {
             padding: 4vw;
+
+        }
+
+        .s2 .text-tabpanes .tt-descripcion p {
+            font-size: 14px;
+            font-weight: normal;
+            text-align: justify;
+            line-height: 1.5;
+            color: rgba(31, 34, 62, 1);
 
         }
 
@@ -380,6 +601,11 @@
         .s2 .tt-descripcion ul li {
             padding-top: 10px;
             padding-left: 5px;
+            font-size: 14px;
+            font-weight: normal;
+            text-align: justify;
+            line-height: 1.5;
+            color: rgba(31, 34, 62, 1);
         }
 
         .s2 .tt-descripcion ul li::before {
@@ -397,23 +623,6 @@
             /* Also needed for space (tweak if needed) */
         }
 
-        .tt-footer-izq {
-            margin: 15px;
-            /* background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/textura_verde_ac.png'); */
-            background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))70%, url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-11-2021/textura_verde_lg.png');
-            /* background-size: 20px; */
-            height: 100px;
-            width: 100%;
-        }
-
-        .tt-footer-der {
-            margin: 15px;
-            /* background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/textura_verde_ac.png'); */
-            background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))70%, url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-11-2021/textura_verde_lg.png');
-            /* background-size: 20px; */
-            height: 100px;
-            width: 100%;
-        }
 
         .img-footer {
             padding: 4vw;
@@ -426,6 +635,8 @@
             background-position: top center;
             height: 600px;
             margin: 15px;
+            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
         }
 
         .img2 {
@@ -434,15 +645,19 @@
             background-repeat: no-repeat;
             background-position: top center;
             height: 350px;
+            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
 
         }
 
         .img3 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/img2.webp');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/agentes_3-1.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: top right;
             height: 350px;
+            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
         }
 
         .img4 {
@@ -451,12 +666,106 @@
             background-repeat: no-repeat;
             background-position: top right;
             height: 197px;
+            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        }
+    </style>
+    <div class="s3">
+        <div class="normativo">
+            <div class='row'>
+                <div class='col-xs-4 col-sm-5 col-md-5'>
+                    <div class="line-box">
+                        <div>
+                            <hr class="hr-middle">
+                        </div>
+                    </div>
+                </div>
+                <div class='col-xs-4 col-sm-2 col-md-2'>
+                    <div class="img-box">
+                        <div>
+                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/iconomarconormativo.png' alt='icono normatividad' title='icono normatividad'>
+                        </div>
+                    </div>
+                </div>
+                <div class='col-xs-4 col-sm-5 col-md-5'>
+                    <div class="line-box">
+                        <div>
+                            <hr class="hr-middle">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class='row'>
+                <div class='col-xs-12 col-sm-12 col-md-12'>
+                    <div class="parrafo-box">
+                        <h3>Marco Normativo</h3>
+                        <p>Si desea conocer la normatividad vigente que rige la actividad de los agentes de tránsito civiles, puede descargar el documento completo haciendo <a href="http://">clic aquí</a>.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class='col-xs-12 col-sm-12 col-md-12'>
+                    <div class="line-box">
+                        <div>
+                            <hr class="hr-middle">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        .s3 {
+            margin-top: 30px;
+        }
 
+        .s3 .line-box {
+            height: 60px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            justify-items: center;
 
         }
 
-        .res_video {
-            margin-bottom: 15px;
+        .s3 .line-box .hr-middle {
+            border-top: solid 5px rgba(190, 208, 0, 1);
+        }
+
+        .s3 .img-box {
+            height: 80px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            justify-items: center;
+        }
+
+        .s3 .normativo img {
+            padding: 10%;
+            width: 100px;
+            margin: auto;
+        }
+
+        .s3 .parrafo-box {
+            padding: 0px 10% 15px 10%;
+        }
+
+        .s3 .parrafo-box h3 {
+            font-size: 28px;
+            font-weight: 700;
+            text-align: center;
+            line-height: 1.4;
+            color: rgba(31, 34, 62, 1);
+            text-transform: uppercase;
+            margin: 15px;
+        }
+
+        .s3 .parrafo-box p {
+            font-size: 16px;
+            font-weight: 500;
+            text-align: center;
+            line-height: 1.5;
+            color: rgba(31, 34, 62, 1);
         }
     </style>
 </div>
@@ -464,11 +773,11 @@
 
 <style>
     .s1 {
-        margin: 30px;
+        margin: 20px 10px;
     }
 
     .atc_enc_res .res_txt {
-        height: 300px;
+        height: 380px;
         padding: 15px;
         display: flex;
         flex-direction: column;
@@ -478,18 +787,28 @@
     }
 
     .atc_enc_res .res_txt p {
+        font-size: 16px;
+        font-weight: normal;
         text-align: justify;
-        color: #1f223e;
-        font-size: 15px;
+        line-height: 1.5;
+        color: rgba(31, 34, 62, 1);
     }
 
     .res_video {
-        height: 300px;
+        height: auto;
+
         display: flex;
         justify-content: center;
         justify-items: center;
         flex-direction: column;
         padding: 10px;
+        margin-bottom: 15px;
+    }
+
+
+    .res_video .embed-responsive-16by9 {
+        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
     }
 
     @media(max-width:767px) {}
@@ -525,7 +844,7 @@
         font-size: 13px;
         font-weight: 500;
         text-align: justify;
-        line-height: 1.4;
+        line-height: 1.5;
     }
 
 
@@ -537,17 +856,27 @@
 
 <style>
     @media(min-width:768px) {
+
+
+        .s1 {
+            margin: 20px 10px !important;
+        }
+
         .hard-floor {
             font-size: 13px !important;
         }
 
         .res_video {
-            height: 350px;
+            height: 380px;
             display: flex;
             justify-content: center;
             justify-items: center;
             flex-direction: column;
             padding: 10px;
+        }
+
+        .pilares .box-parrafos {
+            padding: 5% 15%;
         }
 
         .s2 .nav-tabs>li {
@@ -593,7 +922,8 @@
         }
 
         .img3 {
-            height: 360px;
+            height: 575px;
+            background-position: -330px 0px;
         }
 
         .img4 {
@@ -603,6 +933,10 @@
     }
 
     @media(min-width:992px) {
+
+        .s1 {
+            margin: 0px 30px;
+        }
 
         .s2 .img-tabpanes-lg {
             padding-left: 15px;

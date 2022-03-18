@@ -1,103 +1,510 @@
 @extends('welcome')
 @section('contenido')
 
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 <div class='container-fluid seccion'>
-    <div class='s1'>
-        <div class="encabezado">
-            <div class='row'>
-                <div class='col-xs-12 col-sm-6 col-md-6 titulo-encabezado'>
-                    <h3>Agentes de Tránsito Civiles</h3>
+    <div class='encabezado'>
+        <div class='row'>
+            <div class='col-xs-12 col-sm-6 col-md-6'>
+                <div class="titulo">
+                    <h3><span class="txt-enf-enc1">Agentes de</span><br> Tránsito Civiles</h3>
+                    <span class="triangulo"></span>
                 </div>
-                <div class='col-xs-12 col-sm-6 col-md-6 '>
-                    <div>imagen</div>
-                </div>
-            </div>
-        </div>
-        <div class="cuerpo">
-
-            <div class="c1">
-                <div class='row'>
-                    <div class='col-xs-12 col-sm-10 col-md-10 col-sm-offset-1'>
-                        <div>
-                            <p>Son un grupo élite de agentes altamente capacitados para ser un complemento de la policía de tránsito, vigilados de manera estricta por la Secretaría Distrital de Movilidad, que llegan a trabajar por la seguridad vial y la movilidad de Bogotá, y a convertirse en un apoyo importante para la ciudadanía.</p>
-                            <p>Su labor se fundamenta en 3 pilares:</p>
-                            <div class= 'row' > 
-                                <div class='col-xs-12 col-sm-8'>
-                                    <p>Confianza y transparencia: Las “Guías de Gestión y Control de Tránsito y Transporte” en las que participan los Agentes de tránsito civiles, estarán disponibles para que la ciudadanía las consulte y así tenga claridad acerca de los lineamientos y recomendaciones para la planificación, desarrollo de los controles operativos en vía y el uso de medios técnicos y tecnológicos de acuerdo con la normatividad nacional y distrital vigente en materia de tránsito, transporte, movilidad y seguridad vial. Además, se establecerá el uso de bodyCams como herramienta que dará transparencia a los procesos.</p>
-                                </div>
-                            </div>
-                            <div class= 'row' > 
-                                <div class='col-xs-12 col-sm-8 col-sm-offset-2 '>
-                                    <p>Control y seguimiento: La labor de los agentes de tránsito civiles están supervisados de manera estricta por la Secretaría Distrital de Movilidad. Se rigen bajo el Sistema de Gestión Antisoborno al igual que de un Sistemas de Participación Ciudadana que vinculará a los bogotanos en el control de su gestión.</p>
-                                </div>
-                            </div>
-                            <div class= 'row' > 
-                                <div class='col-xs-12 col-sm-8 col-sm-offset-4'>
-                                    <p>Capacitación: Los agentes civiles pasan por una formación rigurosa, especializada y planificada. Además, anualmente, recibirán por parte de la SDM cursos de actualización normas y procedimientos de tránsito y transporte, seguridad vial y policía judicial, relaciones humanas, éticas y morales.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="franja1">
+                    <p>Llegamos para cuidarte</p>
                 </div>
             </div>
-            <div class="c2">
-                <div class= 'row' > 
-                    <div class='col-xs-12 col-sm-6 col-md-6'>
-                        <div>
-                            imagen
-                        </div>
-                    </div>
-                    <div class='col-xs-12 col-sm-6 col-md-6'>
-                        <div>
-                            <h4>Funciones Esenciales de los Agentes de Tránsito</h4>
-                            <ul>
-                                <li>Ejercer acciones encaminadas a la vigilancia, regulación y control de la movilidad en la ciudad de Bogotá.</li>
-                                <li>Ejercer control y vigilancia en el cumplimiento de las normas de tránsito y del transporte por parte de conductores y peatones en las vías públicas.</li>
-                                <li>Promover, coordinar y participar en la implementación de políticas y planes en materia de seguridad vial y movilidad.</li>
-                                <li>Programar y ejecutar operativos y controles de velocidad, de violación de las normas ambientales, de embriaguez, de invasión del espacio público y en general de las normas de tránsito.</li>
-                                <li>Llevar y reportar las estadísticas de las actividades de la gestión vial que den a lugar, como: accidentalidad, comparendos, puntos críticos y todas las novedades del personal.</li>
-                                <li>Verificar y operar los medios tecnológicos del CENTRO DE GESTIÓN DE TRÁNSITO, que conduzcan a la identificación e inspección de las infracciones de tránsito.</li>
-                                <li>Informar por escrito todas las violaciones de las normas de tránsito y transporte de las que se tenga conocimiento a través de las cámaras, mediante el diligenciamiento de órdenes de comparendos y demás informes pertinentes.</li>
-                                <li>Inmovilizar los vehículos automotores cuando las normas lo determinen, levantando los respectivos informes.</li>
-                                <li>Movilizar o trasladar con ayuda de los medios idóneos, todo tipo de vehículos que sean inmovilizados o retenidos a las instalaciones de la Secretaría de Movilidad y Tránsito u otros lugares autorizados, según lo demande el procedimiento.</li>
-                                <li>Registrar en el dispositivo electrónico de registro, suministrado por la Secretaría de Movilidad y Tránsito, las órdenes de comparendo asegurándose que los datos ingresados sean correctos.</li>
-                                <li>Estar en disponibilidad permanente para el cumplimiento de sus funciones en caso de emergencia.</li>
-                                <li>Cumplir con las disposiciones existentes en materia disciplinaria, sobre derechos, deberes, prohibiciones, inhabilidades, incompatibilidades y conflicto de intereses.</li>
-                                <li>Desempeñar las demás funciones que sean asignadas por el jefe inmediato, dentro del marco de sus funciones y competencias.</li>
-                                <li>Programar y ejecutar operativos preventivos, regulatorios o sancionatorios para la regulación y control del tránsito y el transporte en la ciudad.</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
+            <div class='col-xs-12 col-sm-6 col-md-6 img-encabezado'>
             </div>
-            <div class="c3">
-                <div class= 'row' > 
-                    <div class='col-xs-12 col-sm-6 col-md-6'>
-                        <p>Son los establecidos en el artículo 7. Requisitos de creación e ingreso la Ley 1310 de 2009:</p>
-                        <h4>Requisitos de Ingreso y Formación</h4>
-                        <ol>
-                            <li>Ser colombiano con situación militar definida.</li>
-                            <li>Poseer licencia de conducción de segunda (2a) y cuarta (4a) categoría como mínimo.</li>
-                            <li>No haber sido condenado en cualquier época por sentencia judicial, pena privativa de la libertad, excepto por delitos políticos culposos.</li>
-                            <li>Ser mayor de edad.</li>
-                            <li>Cursar y aprobar el programa de capacitación (cátedra de formación e intensidad mínima establecida por la autoridad competente), de acuerdo a la resolución 4548 de 2013.</li>
-                            <li>Poseer diploma de bachiller, certificado o constancia de su trámite.</li>
-                        </ol>
-                        <p>Según el cargo al que aspire debe tener en cuenta:</p>
-                    </div>
-                    <div class='col-xs-12 col-sm-6 col-md-6'>
-                        <div>Tabla</div>
-                    </div>
-                </div>
-            </div>
-
         </div>
     </div>
+    <style>
+        /* Estilo se la seccion de encabezado */
+        .seccion {
+            padding: 0px !important;
+        }
+
+        .encabezado {
+            background: rgba(31, 34, 62, 1);
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .encabezado .row {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .encabezado [class*='col-'] {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .encabezado .titulo {
+            position: relative;
+            margin: 0px;
+        }
+
+        .encabezado .titulo h3 {
+            color: rgba(255, 255, 255, 1);
+            margin: 0px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 30px;
+            font-weight: 900;
+            text-align: center;
+            line-height: 1;
+            text-transform: uppercase;
+            padding: 35px;
+        }
+
+        .encabezado .titulo .txt-enf-enc1 {
+            font-size: 42px;
+        }
+
+        .encabezado .franja1 {
+            background: rgba(190, 208, 0, 1);
+        }
+
+        .encabezado .franja1 p {
+            text-align: center;
+            padding: 5px;
+            color: rgba(255, 255, 255, 1);
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 20px;
+            margin: 0px;
+            letter-spacing: 1.2;
+        }
+
+        .encabezado .img-encabezado {
+            height: 200px;
+            background: no-repeat rgba(31, 34, 62, 1) url('/images/agente/img-enc-agentes-1.webp');
+            background-size: cover;
+
+        }
+
+        .encabezado .triangulo {
+            width: 0;
+            height: 0;
+            border-left: 30px solid rgba(31, 34, 62, 1);
+            border-top: 30px solid transparent;
+            border-bottom: 30px solid transparent;
+            position: absolute;
+            right: -30px;
+            top: calc(50% - 10px);
+            z-index: 10;
+        }
+
+        @media(max-width:767px) {
+            .encabezado .triangulo {
+                visibility: hidden;
+                right: 0px;
+            }
+        }
+    </style>
+    <div class="s1">
+        <div class="row atc_enc_res">
+            <div class="col-xs-12 col-sm-5">
+                <div class="res_txt">
+                    <p class="parrafo">Los <strong>Agentes de tránsito civiles son empleados públicos investidos de autoridad como Agentes de Tránsito y Transporte,</strong> vinculados directamente a la Secretaría Distrital de Movilidad. Ellos velarán por el orden del flujo vehicular y peatonal en las vías públicas mediante funciones preventivas, de asistencia técnica, regulación y control de las normas de tránsito.</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-7">
+                <div class="res_video">
+                    <!-- 16:9 aspect ratio -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/VKaHaeY1n0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="s2">
+        <div class="tabs">
+
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation" class="active">
+                    <a class="parrafo" href="#funciones" aria-controls="funciones" role="tab" data-toggle="tab">
+                        <div class="btn-nav">
+                            <div class="img-nav">
+                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                            </div>
+                            <div>
+                                ¿Cuáles serán las funciones de los Agentes Civiles de Tránsito?
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li role="presentation">
+                    <a class="parrafo" href="#agentes" aria-controls="agentes" role="tab" data-toggle="tab">
+                        <div class="btn-nav">
+                            <div class="img-nav">
+                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                            </div>
+                            <div>
+                                ¿Cómo identificar a los Agentes Civiles de Tránsito?
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li role="presentation">
+                    <a class="parrafo" href="#controles" aria-controls="controles" role="tab" data-toggle="tab">
+                        <div class="btn-nav">
+                            <div class="img-nav">
+                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                            </div>
+                            <div>
+                                ¿Cómo se realizará el control de los Agentes de Tránsito Civiles?
+                            </div>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+            <style>
+                .nav-tabs>li.active>a,
+                .nav-tabs>li.active>a:focus,
+                .nav-tabs>li.active>a:hover {
+                    height: 160px !important;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                .nav-tabs {
+                    height: 160px;
+                }
+
+                .nav .parrafo {
+                    height: 250px;
+                }
+
+                .img-nav {
+                    height: 90px;
+                }
+
+                .img-nav img {
+                    height: 70px;
+                }
+
+                @media (min-width: 768px) {
+                    .s2 .nav-tabs>li a {
+                        height: 160px !important;
+                    }
+
+                    .s2 .nav-tabs>li {
+                        height: 160px !important;
+                    }
+
+                    .s2 .nav-tabs>li a:visited  {
+                        background-color: #929292;
+                    }
+
+   
+                }
+            </style>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+
+                <div role="tabpanel" class="tab-pane fade in active" id="funciones">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="img-tabpanes-lg">
+                                <div class="img1"></div>
+                                <!-- <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/ima_1_micrsitio_agentes_civiles.png" alt=""> -->
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="text-tabpanes">
+                                <div class="tt-titulo">
+                                    <h3 class="titulo2">¿Cuáles serán las funciones de los Agentes Civiles de Tránsito?</h3>
+                                </div>
+                                <div class="tt-descripcion">
+                                    <p class="parrafo"><strong>Los agentes de tránsito civiles trabajaran de la mano con la policía de tránsito, tendrán las mismas funciones y realizaran las mismas tareas como lo son:</strong>
+                                    <ul>
+                                        <li>Facilitar la movilidad.</li>
+                                        <li>Requerir a conductores documentación en vía.</li>
+                                        <li>Imponer Comparendos e Informes al Transporte.</li>
+                                        <li>Inmovilizar los vehículos automotores (con grúa o cepo) cuando las normas lo determinen.</li>
+                                        <li>Ejercer funciones de policía judicial en siniestros con lesionados o víctimas fatales.</li>
+                                        <li>Informar todo tipo de siniestros y casos de tránsito, realizando el respectivo informe.</li>
+                                        <li>Ejecutar controles de velocidad, operativos de embriaguez, de invasión del espacio público entre otros.</li>
+                                        <!-- <li>Realizar la grabación de todos los procedimientos mediante la cámara corporal (bodycam).</li> -->
+                                    </ul>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="tt-footer-izq"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div role="tabpanel" class="tab-pane fade" id="agentes">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="img-tabpanes">
+                                <div class="img2">
+
+                                </div>
+                                <!-- <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/ima_2_collage_micrsitio_agentes_civiles.png" alt=""> -->
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6">
+                            <div class="text-tabpanes">
+                                <div class="tt-titulo">
+                                    <h3 class="titulo2">¿Cómo identificar a los Agentes Civiles de Tránsito?</h3>
+                                </div>
+                                <div class="tt-descripcion">
+                                    <p class="parrafo">Todo integrante del cuerpo de agentes de tránsito civiles, <strong>llevará en la parte de la espalda de la camiseta, el chaleco y la chaqueta, el número consecutivo que lo identificará, en un tamaño visible y en material reflectivo; igualmente, estará ubicado en su casco.</strong> También una placa metálica con el número consecutivo estará visible con el número de distinción.</p>
+                                    <p class="parrafo">La gorra, que conservará el mismo color azul turquí tendrá los distintivos según la jerarquía, por ejemplo: <strong>El comandante:</strong> Tendrá tres estrellas de 5 puntas en medio de palmas de laurel por su parte <strong>el subcomandante,</strong> tendrá dos estrellas, <strong>el técnico operativo una estrella,</strong> de 5 puntas en medio de un corchete angular y <strong>los agentes</strong> llevaran en su gorra línea inclinada y las letras TT que significan tránsito y transporte.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12">
+                            <div class="tt-footer-der"></div>
+                        </div>
+                    </div>
+                </div>
+                <div role="tabpanel" class="tab-pane fade" id="controles">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-sm-push-6">
+                            <div class="text-tabpanes">
+                                <div class="tt-titulo">
+                                    <h3 class="titulo2">¿Cómo se realizará el control de los Agentes de Tránsito Civiles?</h3>
+                                </div>
+                                <div class="tt-descripcion">
+                                    <p class="parrafo">El control a los Agentes de Tránsito se realizará en <strong>-dos vías,</strong></p>
+                                    <p class="parrafo"><span class="enf">la primera,</span> es que al ser funcionarios públicos estarán cobijados bajo las políticas y lineamientos de Antisoborno y Código de Integridad se les realizará seguimiento en la comisión de ética y la comisión de tránsito y serán probados con sistemas de polígrafo desde su selección y durante la ejecución de sus funciones.</p>
+                                </div>
+                            </div>
+                            <div class="img-tabpanes hidden-xs">
+                                <div class="img4"></div>
+                                <!-- <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/ima_4_micrsitio_agentes_civiles.png" alt=""> -->
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-sm-pull-6">
+                            <div class="img-tabpanes ">
+                                <div class="img3"></div>
+                                <!-- <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/ima_3_micrsitio_agentes_civiles.png" alt=""> -->
+                            </div>
+                            <div class="img-footer">
+                                <p class="parrafo"><span class="enf">La segunda vía</span> de control serán las cámaras corporales que <strong>grabarán en audio y video la interacción entre el Agente y los ciudadanos.</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        .s2 .nav-tabs>li {
+            background-color: #1f223e;
+            width: 100%;
+
+        }
+
+        .nav>li>a:focus,
+        .nav>li>a:hover {
+            text-decoration: none;
+            background-color: #bed000 !important;
+            border-bottom: solid 6px #929292 !important;
+        }
+
+
+
+        .s2 .nav-tabs>li.active {
+            background-color: #1f223e;
+
+        }
+
+        .s2 .nav-tabs>li a {
+            color: #ffffff;
+            margin-right: 0px;
+            line-height: 1.4;
+            border: none;
+            border-radius: 0px;
+            font-weight: 700;
+            border-bottom: solid 6px #1f223e;
+        }
+
+        .s2 .nav-tabs>li a:hover {
+            color: #1f223e;
+        }
+
+        .nav-tabs>li.active>a,
+        .nav-tabs>li.active>a:focus,
+        .nav-tabs>li.active>a:hover {
+            color: #bed000 !important;
+            cursor: default;
+            background-color: #1f223e !important;
+            border: 1px solid #bed000 !important;
+            border-bottom: solid 6px #bed000 !important;
+            border-bottom-color: transparent;
+        }
+
+
+
+        .s2 .img-tabpanes {
+            padding-left: 15px;
+            padding-right: 15px;
+            margin-top: 30px;
+        }
+
+        .s2 .text-tabpanes .tt-titulo {
+            padding: 2vw 4vw;
+        }
+
+
+        .s2 .text-tabpanes .tt-descripcion {
+            padding: 4vw;
+
+        }
+
+        .s2 .tt-descripcion ul {
+            list-style: none;
+            padding-inline-start: 20px;
+            /* Remove default bullets */
+        }
+
+        .s2 .tt-descripcion ul li {
+            padding-top: 10px;
+            padding-left: 5px;
+        }
+
+        .s2 .tt-descripcion ul li::before {
+            content: "\2022";
+            /* Add content: \2022 is the CSS Code/unicode for a bullet */
+            color: #bed000;
+            /* Change the color */
+            font-weight: bold;
+            /* If you want it to be bold */
+            display: inline-block;
+            /* Needed to add space between the bullet and the text */
+            width: 1em;
+            /* Also needed for space (tweak if needed) */
+            margin-left: -1em;
+            /* Also needed for space (tweak if needed) */
+        }
+
+        .tt-footer-izq {
+            margin: 15px;
+            /* background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/textura_verde_ac.png'); */
+            background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))70%, url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-11-2021/textura_verde_lg.png');
+            /* background-size: 20px; */
+            height: 100px;
+            width: 100%;
+        }
+
+        .tt-footer-der {
+            margin: 15px;
+            /* background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-11-2021/textura_verde_ac.png'); */
+            background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1))70%, url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-11-2021/textura_verde_lg.png');
+            /* background-size: 20px; */
+            height: 100px;
+            width: 100%;
+        }
+
+        .img-footer {
+            padding: 4vw;
+        }
+
+        .img1 {
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/_jrg9884.webp');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top center;
+            height: 600px;
+            margin: 15px;
+        }
+
+        .img2 {
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/_jrg9896.webp');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top center;
+            height: 350px;
+
+        }
+
+        .img3 {
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/img2.webp');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top right;
+            height: 350px;
+        }
+
+        .img4 {
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/img4.webp');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top right;
+            height: 197px;
+
+
+        }
+
+        .res_video {
+            margin-bottom: 15px;
+        }
+    </style>
 </div>
 
+
+<style>
+    .s1 {
+        margin: 30px;
+    }
+
+    .atc_enc_res .res_txt {
+        height: 300px;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+        text-align: initial;
+    }
+
+    .atc_enc_res .res_txt p {
+        text-align: justify;
+        color: #1f223e;
+        font-size: 15px;
+    }
+
+    .res_video {
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    @media(max-width:767px) {}
+
+    @media(min-width:768px) {}
+
+    @media(min-width:992px) {}
+
+    @media(min-width:1200px) {
+        .s1 .atc_enc_res .res_txt {
+            padding: 2vw;
+        }
+
+    }
+</style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -113,9 +520,12 @@
     }
 
     .seccion {
-        font-size: 16px !important;
-        line-height: 1 !important;
         max-width: 940px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 13px;
+        font-weight: 500;
+        text-align: justify;
+        line-height: 1.4;
     }
 
 
@@ -123,26 +533,149 @@
         width: 100%;
     }
 </style>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
 <style>
-    .s1 .encabezado {
-        /* background-color: #1f223e; */
+    @media(min-width:768px) {
+        .hard-floor {
+            font-size: 13px !important;
+        }
+
+        .res_video {
+            height: 350px;
+            display: flex;
+            justify-content: center;
+            justify-items: center;
+            flex-direction: column;
+            padding: 10px;
+        }
+
+        .s2 .nav-tabs>li {
+            background-color: #1f223e;
+            width: 33.333%;
+            height: 80px;
+        }
+
+        .s2 .nav-tabs>li a {
+            height: 80px;
+        }
+
+        .s2 .img-tabpanes-lg {
+            padding-left: 15px;
+            padding-right: 15px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            justify-items: center;
+            height: 630px;
+        }
+
+        #agentes>div:nth-child(1)>div:nth-child(1)>div:nth-child(1)>img:nth-child(1) {
+            max-height: 520px;
+            width: auto;
+            text-align: center;
+            margin: auto;
+        }
+
+        .s2 .text-tabpanes .tt-descripcion {
+            padding: 1vw 4vw;
+
+        }
+
+        /* En línea #11 | https://www.movilidadbogota.gov.co/web/agentesdetransitociviles */
+
+        .img1 {
+            margin: 15px;
+        }
+
+        .img2 {
+            height: 440px;
+        }
+
+        .img3 {
+            height: 360px;
+        }
+
+        .img4 {
+            height: 320px;
+        }
+
     }
 
-    .s1 .titulo-encabezado {
-        background-color: #1f223e;
-        height: 180px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+    @media(min-width:992px) {
+
+        .s2 .img-tabpanes-lg {
+            padding-left: 15px;
+            padding-right: 15px;
+            display: inline;
+            /* flex-direction: column; */
+            /* justify-content: center; */
+            justify-items: center;
+            height: 460px;
+            text-align: center;
+            margin: auto;
+        }
+
+        /* En línea #11 | https://www.movilidadbogota.gov.co/web/agentesdetransitociviles */
+
+        .img1 {
+            height: 460px;
+            margin: 15px;
+        }
+
+        .img2 {
+            height: 390px;
+        }
+
+        .img3 {
+            height: 360px;
+        }
+
+        .img4 {
+            height: 370px;
+        }
+
     }
 
-    .s1 .titulo-encabezado h3 {
-        margin: 0;
-        color: #bed000;
-        font-family: 'Sora', sans-serif;
-        font-size: 24px;
-        font-weight: 700;
+    @media(min-width:1200px) {
+        .hard-floor {
+            font-size: 16px !important;
+        }
+
+
+        .s1 .atc_enc {
+            padding: 1.2vw;
+        }
+
+        .atc_enc_res .res_txt {
+            padding: 2vw;
+        }
+
+        .s2 .text-tabpanes .tt-titulo {
+            padding: 0vw 2vw;
+        }
+
+        .s2 .text-tabpanes .tt-descripcion {
+            padding: 1vw 2vw;
+        }
+
+
+        .img1 {
+            height: 510px;
+            margin: 15px;
+        }
+
+        .img2 {
+            height: 460px;
+        }
+
+        .img3 {
+            height: 450px;
+        }
+
+        .img4 {
+            height: 370px;
+        }
+
     }
 </style>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
