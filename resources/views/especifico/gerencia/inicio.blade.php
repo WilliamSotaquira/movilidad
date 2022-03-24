@@ -16,7 +16,7 @@
                 <div class="logo" title="Logo Gerencia en Vía" alt="Logo Gerencia en Vía">
                     <span class="triangulo"></span>
                     <!-- <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2021/texturas_y_logo_logo_600x600.png' alt='Encabezado - Gerencia en Vía' title='Encabezado - Gerencia en Vía'> -->
-                    <!-- <img class='img-responsive w-100' src='/images/Banner Principal.svg' alt='Encabezado - Gerencia en Vía' title='Encabezado - Gerencia en Vía'> -->
+                    <!-- <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/banner_principal.svg' alt='Encabezado - Gerencia en Vía' title='Encabezado - Gerencia en Vía'> -->
                 </div>
                 <style>
                     .encabezado {
@@ -34,7 +34,7 @@
 
                     .encabezado .logo {
                         background: rgba(31, 34, 62, 1);
-                        background: linear-gradient(45deg, rgba(31, 34, 62, 0) 0%, rgba(190, 208, 0, 0) 100%), url('/images/Banner Principal.svg');
+                        background: linear-gradient(45deg, rgba(31, 34, 62, 0) 0%, rgba(190, 208, 0, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/banner_principal.svg');
                         background-size: contain;
                         height: 110px;
                         max-height: 180px;
@@ -54,7 +54,6 @@
                         position: absolute;
                         right: -60px;
                         top: calc(50% - 20px);
-                        z-index: 10;
                     }
                 </style>
             </div>
@@ -87,8 +86,7 @@
     <style>
         .s1 {
             background: rgba(255, 255, 255, 1);
-            background: linear-gradient(45deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%), url('/images/Fondo sección 2.svg');
-            height: 200px;
+            background: linear-gradient(45deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/fondo_seccion_2.svg');
             background-size: cover;
         }
 
@@ -115,74 +113,73 @@
 
         }
 
-        .s2 .nav .gerencia-icono {
-            height: 120px;
-            margin: 10px;
-        }
 
         .s2 .nav .gerencia-boton .icono1 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Gestión_azul.svg') no-repeat center 10px;
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_gestion_azul.svg') no-repeat center;
+
         }
 
         .s2 .nav li.active .gerencia-boton .icono1,
         .s2 .nav .gerencia-boton:hover .icono1 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Gestión_verde.svg') no-repeat center 10px !important;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_gestion_verde.svg') no-repeat center !important;
         }
 
         .s2 .nav .gerencia-boton .icono2 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Control_azul.svg') no-repeat center 10px;
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_control_azul.svg') no-repeat center;
         }
 
         .s2 .nav li.active .gerencia-boton .icono2,
         .s2 .nav .gerencia-boton:hover .icono2 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Control_verde.svg') no-repeat center 10px !important;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_control_verde.svg') no-repeat center !important;
         }
 
         .s2 .nav .gerencia-boton .icono3 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Señalización_azul.svg') no-repeat center 10px;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_senalizacion_azul.svg') no-repeat center;
         }
 
         .s2 .nav li.active .gerencia-boton .icono3,
         .s2 .nav .gerencia-boton:hover .icono3 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Señalización_verde.svg') no-repeat center 10px !important;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_senalizacion_verde.svg') no-repeat center !important;
         }
 
         .s2 .nav .gerencia-boton .icono4 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Semaforización_azul.svg') no-repeat center 10px;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_semaforizacion_azul.svg') no-repeat center;
         }
 
         .s2 .nav li.active .gerencia-boton .icono4,
         .s2 .nav .gerencia-boton:hover .icono4 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Semaforización_verde.svg') no-repeat center 10px !important;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_semaforizacion_verde.svg') no-repeat center !important;
         }
 
         .s2 .nav .gerencia-boton .icono5 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_PMTs_azul.svg') no-repeat center 10px;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_pmts_azul.svg') no-repeat center;
         }
 
         .s2 .nav li.active .gerencia-boton .icono5,
         .s2 .nav .gerencia-boton:hover .icono5 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_PMTs_verde.svg') no-repeat center 10px !important;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_pmts_verde.svg') no-repeat center !important;
         }
 
         .s2 .nav .gerencia-boton .icono6 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Agentes de tránsito_azul.svg') no-repeat center 10px;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_agentes_de_transito_azul.svg') no-repeat center;
         }
 
         .s2 .nav li.active .gerencia-boton .icono6,
         .s2 .nav .gerencia-boton:hover .icono6 {
-            background: rgba(255, 255, 255, 0) url('/images/Icono_Agentes de tránsito_verde.svg') no-repeat center 10px !important;
+            background: rgba(255, 255, 255, 0) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2022/icono_agentes_de_transito_verde.svg') no-repeat center !important;
         }
 
         .s2 .nav li:visited .gerencia-boton {
             background-color: #bed000;
         }
 
+        .s2 .gerencia-titulo {
+            margin-top: 15px;
+            height: auto;
+        }
 
-        .s2 .nav .gerencia-icono {
-            height: 150px;
-            transition: 0.5s all;
-
+        .s2 .nav-tabs .gerencia-boton {
+            margin: 15px;
         }
     </style>
     <div class="s2">
@@ -193,7 +190,7 @@
                 <li role="presentation" class="active">
                     <a href="#gestion" aria-controls="gestion" role="tab" data-toggle="tab">
                         <div class="gerencia-boton">
-                            <div class="gerencia-icono zoom icono1">
+                            <div class="gerencia-icono icono1">
                             </div>
                             <div class="gerencia-titulo">
                                 <h4>Gestión en Vía</h4>
@@ -204,7 +201,7 @@
                 <li role="presentation">
                     <a href="#controlTransito" aria-controls="controlTransito" role="tab" data-toggle="tab">
                         <div class="gerencia-boton">
-                            <div class="gerencia-icono zoom icono2">
+                            <div class="gerencia-icono icono2">
                             </div>
                             <div class="gerencia-titulo">
                                 <h4>Control de Tránsito</h4>
@@ -215,7 +212,7 @@
                 <li role="presentation">
                     <a href="#senalizacion" aria-controls="senalizacion" role="tab" data-toggle="tab">
                         <div class="gerencia-boton">
-                            <div class="gerencia-icono zoom icono3">
+                            <div class="gerencia-icono icono3">
                             </div>
                             <div class="gerencia-titulo">
                                 <h4>Señalización</h4>
@@ -226,7 +223,7 @@
                 <li role="presentation">
                     <a href="#semaforizacion" aria-controls="semaforizacion" role="tab" data-toggle="tab">
                         <div class="gerencia-boton">
-                            <div class="gerencia-icono zoom icono4">
+                            <div class="gerencia-icono icono4">
                             </div>
                             <div class="gerencia-titulo">
                                 <h4>Semaforización</h4>
@@ -237,7 +234,7 @@
                 <li role="presentation">
                     <a href="#pmts" aria-controls="pmts" role="tab" data-toggle="tab">
                         <div class="gerencia-boton">
-                            <div class="gerencia-icono zoom icono5">
+                            <div class="gerencia-icono icono5">
                             </div>
                             <div class="gerencia-titulo">
                                 <h4>Planes de Manejo de Tránsito PMT</h4>
@@ -248,7 +245,7 @@
                 <li role="presentation">
                     <a href="#agentes" aria-controls="agentes" role="tab" data-toggle="tab">
                         <div class="gerencia-boton">
-                            <div class="gerencia-icono zoom icono6">
+                            <div class="gerencia-icono icono6">
                             </div>
                             <div class="gerencia-titulo">
                                 <h4>Agentes de Tránsito Civiles</h4>
@@ -297,8 +294,8 @@
                             <h3>Control de Tránsito</h3>
                             <p>Ejecuta estrategias y acciones de regulación y control del tránsito y del transporte con la finalidad de mejorar las condiciones de movilidad de los diferentes actores viales, y vigila el cumplimiento de la normatividad de tránsito y transporte en la ciudad.</p>
                             <p>Actualmente se cuenta con más de 1.000 uniformados de la Policía de Tránsito que a su vez ayudan con el control y operatividad en vía.</p>
-                            <p>Esta subdirección tiene una iniciativa llamada <a href="http://">“Guías de Control y Gestión de Tránsito y Transporte”</a>. Se trata de una serie de documentos y material de apoyo que brinda herramientas y recomendaciones para mejorar las condiciones de movilidad de los diferentes actores viales.</p>
-                            <p>La primera guía en publicarse es la <a href="http://">“Guía de Buenas prácticas de Gestión y Control de Tránsito y Transporte”</a>, en donde se sintetiza la información de:</p>
+                            <p>Esta subdirección tiene una iniciativa llamada <a href="https://www.movilidadbogota.gov.co/web/guias_de_gestion_y_control_de_transito_y_transporte">“Guías de Control y Gestión de Tránsito y Transporte”</a>. Se trata de una serie de documentos y material de apoyo que brinda herramientas y recomendaciones para mejorar las condiciones de movilidad de los diferentes actores viales.</p>
+                            <p>La primera guía en publicarse es la <a href="https://www.movilidadbogota.gov.co/web/guias_de_gestion_y_control_de_transito_y_transporte">“Guía de Buenas prácticas de Gestión y Control de Tránsito y Transporte”</a>, en donde se sintetiza la información de:</p>
                             <ul>
                                 <li>
                                     <p>Planes operativos: objetivos, alcance, criterios de priorización, programación, ejecución y seguimiento.</p>
@@ -324,7 +321,7 @@
                         <div class="descripcion">
                             <h3>Señalización</h3>
                             <p>Ejecuta políticas, planes, programas y proyectos relacionados con elementos y dispositivos de regulación del tránsito que ayudan a informar y reorganizar el espacio para que los actores viales se muevan de forma segura.</p>
-                            <p>Si necesitas informarnos de la necesidad de señalización en tu sector, puedes <a href="http://">contactarte</a> directamente con nosotros.</p>
+                            <p>Si necesitas informarnos de la necesidad de señalización en tu sector, puedes <a href="">contactarte</a> directamente con nosotros.</p>
                         </div>
                         <div class="footer-btn"></div>
 
@@ -360,7 +357,7 @@
                         <div class="descripcion">
                             <h3>Agentes de Tránsito Civiles</h3>
                             <p>Grupo de empleados públicos investidos de autoridad como Agentes de Tránsito y Transporte vinculados a la entidad. Velan por el orden del flujo vehicular y peatonal en las vías públicas, mediante funciones preventivas, de asistencia técnica, de vigilancia, regulación y control de las normas de tránsito y transporte, enfatizando en la seguridad vial.</p>
-                            <p>Conoce más <a href="http://">aquí</a></p>
+                            <p>Conoce más <a href="https://www.movilidadbogota.gov.co/web/agentesdetransitociviles">aquí</a></p>
                         </div>
                         <div class="footer-btn"></div>
 
@@ -672,58 +669,6 @@
     .bloque2 .thumbnail .caption h3 {
         font-size: 18px;
     }
-    .bloque2 .titulo-noticias h3{
-
-    }
-</style>
-<style>
-    @media(max-width:767px) {}
-
-    @media(min-width:768px) {
-
-        .encabezado .logo {
-            height: 180px;
-        }
-
-        .s1 {
-            height: 250px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-
-        .s1 .s1-p {
-            padding: 40px 120px;
-            font-size: 20px;
-
-        }
-
-        .gerencia-boton .gerencia-titulo h4 {
-            font-size: 16px;
-        }
-
-        .descripcion {
-            padding: 20px;
-        }
-
-        .caption .parrafo-caption {
-            height: 200px;
-        }
-
-        .seccion .video {
-            padding: 15px;
-        }
-
-        .box-botones ul>li {
-            padding: 15px;
-        }
-
-    }
-
-    @media(min-width:992px) {}
-
-    @media(min-width:1200px) {}
 </style>
 
 <!-- Fin CSS -->
@@ -778,7 +723,7 @@
         background-color: #fff;
     }
 
-    .s2 .nav-tabs>li {
+    .s2 .nav-tabs li {
         width: 50%;
     }
 
@@ -881,6 +826,7 @@
         text-transform: uppercase;
         color: rgba(31, 34, 62, 1);
     }
+
     .descripcion p {
         line-height: 1.4;
         text-align: justify;
@@ -1011,7 +957,6 @@
 
 
     .caption .parrafo-caption {
-        height: 300px;
         display: flex;
         align-items: stretch;
         padding: 15px;
@@ -1044,15 +989,12 @@
         border-bottom: solid 3px #bed000;
     }
 
-
     .s2 ol,
     .s2 ul {
         margin-top: 30px;
         margin-bottom: 30px;
     }
-</style>
 
-<style>
     .seccion .descripcion h4 {
         font-size: 16px;
     }
@@ -1088,122 +1030,8 @@
         color: #1c2046;
     }
 
-
-
-
-
-    /* Small devices (landscape phones, 576px and up) */
-    @media(min-width: 576px) {
-
-        .seccion h4 {
-            font-size: calc(1vw + 0.8em);
-        }
-
-        .seccion p {
-            font-size: 14px;
-        }
-    }
-
-    /* Medium devices (tablets, 768px and up) */
-    @media(min-width: 768px) {
-        .seccion h4 {
-            font-size: calc(1vw + 0.4em);
-        }
-
-        .seccion p {
-            font-size: 14px;
-        }
-    }
-
-    /* Large devices (desktops, 992px and up) */
-    @media(min-width: 992px) {
-        .seccion h4 {
-            font-size: calc(1vw + 0.4em);
-        }
-
-        .seccion p {
-            font-size: 14px;
-        }
-
-        /* En línea #12 | https://www.movilidadbogota.gov.co/web/entorno2 */
-
-
-        .s2 .nav-tabs>li {
-            /* width: 100%; */
-            width: 16.6667%;
-        }
-
-        .gerencia-titulo {
-            /* height: 30px; */
-            height: 75px;
-        }
-
-        @media (min-width: 1200px) {
-            .seccion h4 {
-                /* font-size: calc(1vw); */
-                font-size: 1.2em;
-            }
-
-            .seccion p {
-                font-size: 14px;
-            }
-        }
-
-        /* En línea #11 | https://www.movilidadbogota.gov.co/web/entorno2 */
-
-        .s1 {
-            padding: 0p;
-        }
-
-        .bloque2 .thumbnail .caption h3 {
-            font-size: 18px;
-            font-weight: 700;
-        }
-
-    }
-
-    /* Extra large devices (large desktops, 1200px and up) */
-    @media(min-width: 1200px) {
-        .seccion h4 {
-            font-size: calc(1vw);
-        }
-
-        .seccion p {
-            font-size: 14px;
-        }
-
-    }
-</style>
-
-<style>
-    /* En línea #12 | https://www.movilidadbogota.gov.co/web/entorno2 */
-
-    @media (min-width: 1200px) {
-        .seccion h4 {
-            /* font-size: calc(1vw); */
-            font-size: 1.2em;
-        }
-
-        .seccion p {
-            /* font-size: calc(1vw); */
-            font-size: 14px;
-        }
-    }
-
-    /* Elemento | https://www.movilidadbogota.gov.co/web/entorno2 */
-
     .footer-text>h3:nth-child(1) {
         color: #bed000;
-    }
-
-    /* Elemento | https://www.movilidadbogota.gov.co/web/entorno2 */
-
-    .bloque4 {
-
-        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2021/texturas_y_logo_textura_sobre_azul.png');
-        background-repeat: no-repeat;
-        background-size: 200px;
-        background-position: left top;
     }
 
     .rb4 {
@@ -1211,9 +1039,74 @@
         border-bottom: solid 10px #bed000;
     }
 
-    @media(max-width:767px) {}
+    .bloque4 .footer-text {
+        word-break: break-word;
+    }
+</style>
+
+
+<style>
+    @media(max-width:767px) {
+
+        .bloque2 .thumbnail .caption h3 {
+            font-size: 18px;
+            font-weight: 700;
+        }
+
+        .seccion {
+            padding-right: 0px !important;
+            padding-left: 0px !important;
+        }
+
+        .s1 .s1-p {
+            font-size: 14px;
+            line-height: 1.2;
+        }
+
+
+        .descripcion h3 {
+            font-size: 18px;
+            line-height: 1;
+            margin: 20px;
+        }
+
+        .seccion .descripcion p {
+            font-size: 14px;
+            font-weight: normal;
+            text-align: justify;
+            line-height: 1.2;
+            color: rgba(31, 34, 62, 1);
+        }
+
+        .s2 .descripcion ul>li {
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+
+        .s2 .nav-tabs .gerencia-boton {
+            padding: 10px;
+        }
+
+        .s2 .nav .gerencia-icono {
+            height: 180px;
+        }
+
+        .caption .parrafo-caption {
+            padding: 15px;
+        }
+
+        .bloque2 .thumbnail .caption p {
+            font-size: 14px;
+            font-weight: normal;
+            text-align: justify;
+            line-height: 1.2;
+            color: rgba(31, 34, 62, 1);
+        }
+
+    }
 
     @media(min-width:768px) {
+
 
         .caption .parrafo-caption {
             height: 340px;
@@ -1229,9 +1122,77 @@
             height: 270px;
         }
 
+        .encabezado .logo {
+            height: 151px;
+        }
+
+        .s1 {
+            height: 250px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+
+        .s1 .s1-p {
+            padding: 40px 120px;
+            font-size: 20px;
+
+        }
+
+        .s2 .nav .gerencia-icono {
+            height: 100px;
+        }
+
+        .gerencia-boton .gerencia-titulo h4 {
+            font-size: 16px;
+        }
+
+        .descripcion {
+            padding: 20px;
+        }
+
+        .seccion .video {
+            padding: 15px;
+        }
+
+        .box-botones ul>li {
+            padding: 15px;
+        }
+
+        .s2 .nav-tabs li {
+            width: 33.33%;
+        }
+
+        .bloque2 .thumbnail .img-thumbnail {
+            height: 145px;
+        }
+
+        .caption .parrafo-caption {
+            height: 400px;
+        }
+
     }
 
-    @media(min-width:992px) {}
+    @media(min-width:992px) {
+
+        .s2 .nav .gerencia-icono {
+            height: 140px;
+        }
+
+        .bloque2 .thumbnail .img-thumbnail {
+            height: 190px;
+        }
+
+        .caption .parrafo-caption {
+            height: 320px;
+        }
+
+        .encabezado .logo {
+            height: 180px;
+        }
+
+    }
 
     @media(min-width:1200px) {}
 </style>
