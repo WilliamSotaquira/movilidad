@@ -51,9 +51,23 @@
                     <div class="footer-h5"><a class="nw-link" href="https://www.movilidadbogota.gov.co/web/mapa_de_sitio" rel="noopener noreferrer" target="_blank">Mapa del sitio</a></div>
                     <div class="footer-h5"><a class="nw-link" href="https://www.movilidadbogota.gov.co/web/content/nuestra_entidad" rel="noopener noreferrer" target="_blank">Aplicativos de la SDM</a></div>
                     <style type="text/css">
-                        .nw-link {
-                            text-decoration: none;
-                            color: rgb(26, 26, 26);
+                        .footer-h5>a {
+                            text-decoration: none !important;
+                            color: rgba(255, 255, 255, 1) !important;
+
+                        }
+                        .footer-h5:hover>a {
+                            color: #A6B517 !important;
+
+                        }
+                        .footer-h7 a {
+                            text-decoration: none !important;
+                            color: rgba(255, 255, 255, 1) !important;
+                            font-weight: 700;
+
+                        }
+                        .footer-h7:hover a {
+                            color: #A6B517 !important;
 
                         }
                     </style>
@@ -100,16 +114,19 @@
                         <div class="footer-h4 text-left">Secretaría Distrital de Movilidad</div>
                         <div class="footer-h7 text-left"><strong>NIT</strong> 899.999.061-9</div><!-- <div class="footer-h6 text-left"> Horario de Atención al Público</div>-->
                         <!-- <div class="footer-h7 text-left"> Lunes a viernes de 7:00am a 4:30pm </div>-->
-                        <div class="footer-h7 text-left"><strong>Correo Institucional: <kbd><a href="https://www.movilidadbogota.gov.co/web/govi-sdqs/crear" style="color:#fff !important;">Bogotá te escucha</a></kbd></strong></div>
-                        <div class="footer-h7 text-left"><strong>Radicación documentos</strong> <strong><a href="https://www.movilidadbogota.gov.co/web/content/contacto_ciudadano" style="color:#fff !important;">contactociudadano@movilidadbogota.gov.co</a></strong></div>
-                        <div class="footer-h7 text-left"><strong>E-mail exclusivo para notificaciones judiciales</strong><strong><a href="mailto:judicial@movilidadbogota.gov.co" style="color:#fff !important;">judicial@movilidadbogota.gov.co</a></strong></div>
-                        <div class="footer-h7 text-left"><strong>Centro de Contacto de Movilidad:</strong> (601) 364 - 9400 opción 2</div>
+                        <div class="footer-h7 text-left"><strong>Correo Institucional: <kbd><a href="https://www.movilidadbogota.gov.co/web/govi-sdqs/crear">Bogotá te escucha</a></kbd></strong></div>
+                        <div class="footer-h7 text-left"><strong>Radicación documentos</strong> <strong><a href="https://www.movilidadbogota.gov.co/web/content/contacto_ciudadano">contactociudadano@movilidadbogota.gov.co</a></strong></div>
+                        <div class="footer-h7 text-left"><strong>E-mail exclusivo para notificaciones judiciales</strong><strong><a href="mailto:judicial@movilidadbogota.gov.co">judicial@movilidadbogota.gov.co</a></strong></div>
+                        <div class="footer-h7 text-left"><strong>Centro de Contacto de Movilidad:</strong> <a href="tel:+576003649400">+57 (601) 364 9400 opción 2</a> </div>
+                        <div class="footer-h7 text-left"><strong><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion">Denuncias por actos de corrupción</a></strong></div>
                     </div>
                     <div class="col-md-4  col-sm-12 col-xs-12 ">
                         <div class="text-center footer_direccion footer-h2">
                             <div class="row">
                                 <div class="col-xs-12">
-                                    <img class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2020/linea-195_0.png">
+                                    <a href="tel:+57195">
+                                        <img class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2020/linea-195_0.png">
+                                    </a>
                                 </div>
                                 <div class="col-xs-12">
                                     <a href="http://www.bogota.gov.co/sdqs">
@@ -169,142 +186,7 @@
 </div>
 <style>
     :focus-visible {
-        outline: 4px dotted #66e026 !important;
+        outline: 2px solid red !important;
     }
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-
-
-<!-- Sección Banner de Mantenimiento  -->
-<!-- <hr> -->
-<!-- <div class="row">
-      <div class="col-xs-12 visible-xs-12 visible-xs-block">
-          <img alt="Ventana de Mantenimiento Tecnológico desde el Sabado 16 de octubre hasta el domingo 17" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-10-2021/piezas_apagado_de_computadores_apagado_de_computadores_-_banner_900_x_450.jpg" title="Ventana de Mantenimiento Tecnológico desde el Sabado 16 de octubre hasta el domingo 17">
-      </div>
-      <div class="col-sm-12 hidden-xs">
-          <img alt="Ventana de Mantenimiento Tecnológico desde el Sabado 16 de octubre hasta el domingo 17" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-10-2021/piezas_apagado_de_computadores_apagado_de_computadores_-_banner_1920_x_640.jpg" title="Ventana de Mantenimiento Tecnológico desde el Sabado 16 de octubre hasta el domingo 17">
-      </div>
-  </div> -->
-<!-- Fin Sección Banner de Mantenimiento  -->
-<hr>
-<div class="row">
-    <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://observatorio.movilidadbogota.gov.co/infraestructura" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-01-2022/banners_bem_900x450.jpg" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a></div>
-
-    <div class="col-sm-12 hidden-xs"><a href="https://observatorio.movilidadbogota.gov.co/infraestructura" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-01-2022/banners_bem_1920x320.jpg" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a></div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder a Pico y Placa Solidario" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-picoyplacasolidario_1.png" title="Aquí puede acceder a Pico y Placa Solidario"></a></div>
-
-    <div class="col-sm-12 hidden-xs"><a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder a Pico y Placa Solidario" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2021/banner_1920x320_b.jpg" title="Aquí puede acceder a Pico y Placa Solidario"></a></div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder al Registro de Exceptuados - Vehículo Compartido" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-01-2022/banner-carro_compartido_900x300.png" title="Aquí puede acceder al Registro de Exceptuados - Vehículo Compartido"></a></div>
-
-    <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder al Registro de Exceptuados - Vehículo Compartido" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-01-2022/banner-carro_compartido_1920x320.png" title="Aquí puede acceder al Registro de Exceptuados - Vehículo Compartido"></a></div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_2022" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder al Abecé del Pico Y Placa 2022 en Bogotá" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-01-2022/banner-pico-placa-2022_900x450.png" title="Aquí puede acceder al Abecé del Pico Y Placa 2022 en Bogotá"></a></div>
-
-    <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_2022" rel="noopener noreferrer" target="_blank"><img alt="Aquí puede acceder al Abecé del Pico Y Placa 2022 en Bogotá" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-01-2022/banner-pico-placa-2022_1920x320.png" title="Aquí puede acceder al Abecé del Pico Y Placa 2022 en Bogotá"></a></div>
-</div>
-
-<hr>
-<div class="row">
-    <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/consulta_de_comparendos" rel="noopener noreferrer" target="_blank"><img alt="Consulta de Comparendos" class="bs focusable img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-09-2021/consulta_comparendos_xs_0.png" title="Consulta de Comparendos"></a></div>
-
-    <div class="col-sm-6"><a href="http://zonadeparqueopago.gov.co/" rel="noopener noreferrer" target="_blank"><img alt="Zona de Parqueo Pago" class="bs focusable img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-11-2021/banner_zonas_parqueo_900x300.png" title="Zona de Parqueo Pago"></a></div>
-</div>
-
-<div class="row">
-    <div class="col-sm-6"><a href="https://salidadepatios.movilidadbogota.gov.co/" rel="noopener noreferrer" target="_blank"><img alt="Realiza de forma virtual el trámite para la salida de patios" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-salidapatios_1_0.png"></a></div>
-
-    <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/nueva-concesion-tramites-servicios-movilidad" rel="noopener noreferrer" target="_blank"><img alt="Concesión de Tramites y Servicios de Movilidad focusable" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-09-2021/concesion_tramites_xs_0.png" title="Concesión de Tramites y Servicios de Movilidad"></a></div>
-</div>
-
-<div class="row">
-    <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-10-2020/manual_del_buen_ciclista.pdf" rel="noopener noreferrer" target="_blank"><img alt="Consulta aquí el manual del buen ciclista - tercera edición 2020" class="bs center-block img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-manualciclista_1_0.png" title="Consulta aquí el manual del buen ciclista - tercera edición 2020"> </a></div>
-
-    <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota" rel="noopener noreferrer" target="_blank"><img alt="Mapa de Ciclorrutas de Bogotá" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/2021-12-02_banner-mapa-ciclorrutas_900x300.png" title="Mapa de Ciclorrutas de Bogotá"> </a></div>
-</div>
-
-<hr>
-<div class="row">
-    <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion" rel="noopener noreferrer" target="_blank"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-08-2021/banner_t-a-a_anticorrupcion_900.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
-
-    <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion" rel="noopener noreferrer" target="_blank"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-10-2021/banner_antisoborno_micrositio-02_1.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12 visible-xs-12 visible-xs-block">&nbsp;</div>
-
-    <div class="col-sm-12 hidden-xs">&nbsp;</div>
-</div>
-
-<hr><!-- Sección de imágenes en contenedor slider para dispositivos panorámicos-->
-<div class="row">
-    <!--carrusel largo -->
-    <div class="col-sm-12 hidden-xs">
-        <div class="carousel slide" id="carousel_banner_lg">
-            <ol>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-            </ol>
-
-            <div class="carousel-inner">
-                <div class="active item"><a href="http://www.sdp.gov.co/gestion-socioeconomica/conpes-dc/documentos-conpes-dc/conpes-dc-aprobados" rel="noopener noreferrer" target="_blank"><img alt="Política publica de la bicicleta" class="img-responsive img-rounded w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-politicapublicabicicleta_1.png" title="Política publica de la bicicleta"></a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/conozca_las_medidas_para_mejorar_el_transito_de_vehiculos_en_la_calle_13_avenida_centenario" rel="noopener noreferrer" target="_blank"><img alt="Conozca las medidas para mejorar el tránsito de vehículos en la Calle 13 (Avenida Centenario)" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-movilidadcalle13_1.png" title="Conozca las medidas para mejorar el tránsito de vehículos en la Calle 13 (Avenida Centenario)"></a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019" rel="noopener noreferrer" target="_blank"><img alt="Encuentra aquí los datos más relevantes para la movilidad en Bogotá" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-movilidaddatos_1.png" title="Encuentra aquí los datos más relevantes para la movilidad en Bogotá:"> </a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/plan-desarrollo-economico-social-ambiental-2020-2024" rel="noopener noreferrer" target="_blank"><img alt="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-nuevocontratosocialambienta_1.png" title="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024"> </a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/muevete-en-bici-por-bogota" rel="noopener noreferrer" target="_blank"><img alt="Muévete en Bici por Bogotá" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2021/np-mueveteenbici_1.png" title="Muévete en Bici por Bogotá"> </a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/cicloparqueaderos" rel="noopener noreferrer" target="_blank"><img alt="Mas y mejores cicloparqueaderos" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2021/np-cicloparqueaderos_1.png" title="Mas y mejores cicloparqueaderos"></a></div>
-                <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento-excelencia-logistica-2021"><img alt="Reconocimiento Excelencia Logística 2021" class="img-rounded w-100 img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-excelenciallogistica_1.png" title="Reconocimiento Excelencia Logística 2021"></a></div> -->
-            </div>
-        </div>
-    </div>
-    <!-- fin carrusel largo -->
-    <!-- carrusel en contenedor slider para dispositivos móviles -->
-
-    <div class="col-xs-12 visible-xs-12 visible-xs-block">
-        <div class="carousel slide" id="carousel-sdm-xs">
-            <ol>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-                <li>&nbsp;</li>
-            </ol>
-
-            <div class="carousel-inner">
-                <div class="active item"><a href="http://www.sdp.gov.co/gestion-socioeconomica/conpes-dc/documentos-conpes-dc/conpes-dc-aprobados" rel="noopener noreferrer" target="_blank"><img alt="Política publica de la bicicleta" class="img-responsive img-rounded w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-politicapublicabicicleta_2.png" title="Política publica de la bicicleta"></a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/conozca_las_medidas_para_mejorar_el_transito_de_vehiculos_en_la_calle_13_avenida_centenario" rel="noopener noreferrer" target="_blank"><img alt="Conozca las medidas para mejorar el tránsito de vehículos en la Calle 13 (Avenida Centenario)" class="bs img-responsive img-rounded w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-movilidadcalle13_2.png" title="Conozca las medidas para mejorar el tránsito de vehículos en la Calle 13 (Avenida Centenario)"></a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019" rel="noopener noreferrer" target="_blank"><img alt="Encuentra aquí los datos más relevantes para la movilidad en Bogotá" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-movilidaddatos_2.png" title="Encuentra aquí los datos más relevantes para la movilidad en Bogotá:"></a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/plan-desarrollo-economico-social-ambiental-2020-2024" rel="noopener noreferrer" target="_blank"><img alt="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-nuevocontratosocialambienta_2.png" title="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024"> </a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/muevete-en-bici-por-bogota" rel="noopener noreferrer" target="_blank"><img alt="Muévete en Bici por Bogotá" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2021/np-mueveteenbici_2.png" title="Muévete en Bici por Bogotá"> </a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/cicloparqueaderos" rel="noopener noreferrer" target="_blank"><img alt="Mas y mejores cicloparqueaderos" class="img-responsive img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2021/np-cicloparqueaderos_2.png" title="Mas y mejores cicloparqueaderos"></a></div>
-                <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento-excelencia-logistica-2021"><img alt="Política publica de la bicicleta" class="img-rounded w-100 img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-excelenciallogistica_2.png" title="Reconocimiento Excelencia Logística 2021"></a></div> -->
-            </div>
-        </div>
-    </div>
-    <!-- fin carrusel corto -->
-</div>
-<!--Fin Sección de imágenes en contenedor slider-->
-
