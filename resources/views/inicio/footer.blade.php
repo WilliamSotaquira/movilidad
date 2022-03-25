@@ -117,7 +117,7 @@
                         <div class="footer-h7 text-left"><strong>Correo Institucional: <kbd><a href="https://www.movilidadbogota.gov.co/web/govi-sdqs/crear">Bogotá te escucha</a></kbd></strong></div>
                         <div class="footer-h7 text-left"><strong>Radicación documentos</strong> <strong><a href="https://www.movilidadbogota.gov.co/web/content/contacto_ciudadano">contactociudadano@movilidadbogota.gov.co</a></strong></div>
                         <div class="footer-h7 text-left"><strong>E-mail exclusivo para notificaciones judiciales</strong><strong><a href="mailto:judicial@movilidadbogota.gov.co">judicial@movilidadbogota.gov.co</a></strong></div>
-                        <div class="footer-h7 text-left"><strong>Centro de Contacto de Movilidad:</strong> <a href="tel:+576003649400">+57 (601) 364 9400 opción 2</a> </div>
+                        <div class="footer-h7 text-left"><strong>Centro de Contacto de Movilidad:</strong> <a href="tel:+576013649400">+57 (601) 364 9400 opción 2</a> </div>
                         <div class="footer-h7 text-left"><strong><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion">Denuncias por actos de corrupción</a></strong></div>
                     </div>
                     <div class="col-md-4  col-sm-12 col-xs-12 ">
@@ -179,6 +179,7 @@
                 max-height: 40px;
                 text-align: center;
             }
+
         </style>
     </div>
     <div class="footer-bg3 text-center footer-copy">© 2017 Secretaría de Movilidad. Todos los Derechos Reservados.</div>
@@ -188,5 +189,15 @@
     :focus-visible {
         outline: 2px solid red !important;
     }
+
+
+.sdm_menu ul li a {
+  height: auto !important;
+}
+
+.sdm_menu ul ul li a {
+  line-height: 1 !important;
+}
+
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
