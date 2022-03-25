@@ -98,11 +98,14 @@
                     <h3 class="h3-left">2. “Me informaron de un embargo de productos financieros y salarios, pero no me han realizado descuentos”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
-                        <p class="p-std">En este caso y con el fin de evitar el descuento de dineros, usted puede realizar el pago a través de los canales dispuestos por la Secretaría Distrital de Movilidad, a los cuales puede acceder por el sitio web <a href="http://www.movilidadbogota.gov.co" rel="noopener noreferrer" target="_blank">www.movilidadbogota.gov.co</a> – Consulta Comparendos.</p>
-                        <p class="p-std">El sistema liquida los intereses al día, por lo tanto, el pago debe realizarse el mismo día en que generó el volante.</p>
-                        <p class="p-std">Cuando haga el pago puede presentar la solicitud de desembargo de manera presencial ante la Secretaría de Movilidad, por medio de un formato sugerido que la Entidad ha dispuesto para este trámite, o virtual a través del correo electrónico <a href="mailto:desembargos@movilidadbogota.gov.co">desembargos@movilidadbogota.gov.co</a>, escribiendo todos los datos correspondientes al desembargo y adjunto copia del formulario con la solicitud.</p>
+                        <p class="p-std">En este caso y con el fin de evitar el descuento de dineros, usted puede realizar el pago a través de los canales dispuestos por la Secretaría Distrital de Movilidad, a los cuales puede acceder por el sitio web <a href="http://www.movilidadbogota.gov.co" rel="noopener noreferrer" target="_blank">www.movilidadbogota.gov.co</a> – Consulta Comparendos.descargando el volante de pago en la página web <a href="http://www.movilidadbogota.gov.co">www.movilidadbogota.gov.co</a> para realizar la cancelación de la deuda en el banco de Occidente y/o Caja Social y Vía pago electrónico por medio del botón de PSE.</p>
+                        <p class="p-std">El sistema liquida los intereses al día, por lo tanto, el pago debe realizarse el mismo día en que se generó el volante.</p>
+                        <p class="p-std">La Secretaría Distrital de Movilidad, adelanta internamente el trámite de desembargo ante la entidad correspondiente (entidad financiera, empleador, pagador, oficina de tránsito o de registro); este procedimiento se surte dentro de los quince (15) días hábiles siguientes al pago efectivo de la obligación o una vez se verifica que la obligación motivo de embargo no registra saldo pendiente por cobrar, de forma masiva y sin que medie una solicitud del interesado.</p>
+                        <p class="p-std">No obstante, podrá realizar su solicitud, ante la Secretaría de Movilidad de manera presencial o virtual a través del correo electrónico <a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a>, por medio de un formato sugerido que la Entidad ha dispuesto para este trámite, relacionando  todos los datos correspondientes al desembargo. Formato que puede descargar a continuación.</p>
                         <div class="text-center"><a class="btn btn-download btn-lg" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/formato_desembargo_y_tdj.pdf" rel="noopener noreferrer" target="_blank">DESCARGUE AQUÍ</a></div>
-                        <p class="p-std">Una vez hecha la solicitud de desembargo, queda en manos de las entidades bancaras el tiempo y el desbloqueo efectivo de la(s) cuenta(s).</p>
+                        <p class="p-std">Una vez hecha la solicitud de desembargo, queda en manos de las entidades tanto bancarias como de registro el tiempo y el desbloqueo efectivo de la(s) cuenta(s), así como, los registros correspondientes.</p>
+                        <p class="p-std">El formato para esta solicitud le será entregado sin costo por personal de la Secretaría en la sede de Paloquemao, o bien puede ser descargado aquí.</p>
+
                     </div>
 
 
@@ -112,47 +115,59 @@
                     <h3 class="h3-left">3. “Me informaron de un embargo de productos financieros y salarios y ya me descontaron mi plata”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
-                        <p class="p-std">El descuento de fondos por un embargo representado en dinero tiene como consecuencia la constitución de un depósito judicial, que es una garantía para el cumplimiento de la obligación, pero NO ES UN PAGO y conforme a ello, la Secretaría Distrital de Movilidad sólo puede disponer de este, sí el deudor autoriza el desembolso de dicho dinero o hasta que se agote la totalidad del procedimiento descrito en el Estatuto Tributario, lo cual puede llevar a que le sean cobrados los gastos en que incurrió la SDM para recuperar la obligación y sus intereses.</p>
-                        <p class="p-std">De esta manera, si el ciudadano quiere hacer pago de sus deudas, puede autorizar dicho pago con el depósito judicial constituido, a través del formato “Solicitud Apropiación de Depósito Judicial” que ha dispuesto la SDM (Ver Anexo).</p>
+                        <p class="p-std">El descuento de fondos por un embargo representado en dinero tiene como consecuencia la constitución de un depósito judicial, que es una garantía para el cumplimiento de la obligación, pero NO ES UN PAGO y conforme a ello, la Secretaría Distrital de Movilidad sólo puede disponer de este, sí el deudor autoriza la apropiación de dicho dinero o hasta que se agote la totalidad del procedimiento descrito en el Estatuto Tributario, lo cual puede llevar a que le sean cobrados los gastos en que incurrió la SDM para recuperar la obligación y sus intereses.</p>
+                        <p class="p-std">De esta manera, si el ciudadano quiere hacer pago de sus deudas, con los recursos que han sido descontados, puede autorizar a la Secretaría Distrital de Movilidad, para lo cual, debe diligenciar el espacio denominado APROPIACIÓN DE TÍTULO DE DEPÓSITO JUDICIAL  del formato sugerido por la  SDM (Ver Anexo).</p>
                         <div class="box-img">
                             <img alt="Solicitud Apropiación de Depósito Judicial” que ha dispuesto la SDM" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/img-dj-1.png">
                             <p>Captura del formulario Desembargo y Títulos de Depósito Judicial</p>
                         </div>
+                        <p class="p-std">Recuerde que de no autorizar la aplicación de las sumas de dinero, solo se podrá saldar la obligación hasta tanto se adelanten todas las etapas del proceso de cobro coactivo.</p>
+                        <p class="p-std">En el caso mencionado el formulario debe ser remitido al correo <a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a></p>
                         <p class="p-std">El ciudadano también puede pagar su deuda utilizando los siguientes canales de pago:</p>
                         <ul>
                             <li class="li-std">En la página web:
                                 <ul>
-                                    <li class="li-std"><a href="http://www.movilidadbogota.gov.co" rel="noopener noreferrer" target="_blank">www.movilidadbogota.gov.co</a> - Consulta Comparendos, generando el volante impreso, para realizar el pago en el Banco de Occidente y/o Caja Social.</li>
+                                    <li class="li-std"><a href="http://www.movilidadbogota.gov.co" rel="noopener noreferrer" target="_blank">www.movilidadbogota.gov.co</a> - Consulta Comparendos, generando el volante impreso, para realizar el pago en el Banco de Occidente y/o Caja Social o vía pago electrónico a través de la página web, pago en línea por medio del botón de PSE.</li>
                                 </ul>
                             </li>
-                            <li class="li-std">Vía pago electrónico a través de la página web, pago en línea por medio del botón de PSE.</li>
                         </ul>
                         <div class="text-center"><a class="btn btn-download btn-lg" href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" rel="noopener noreferrer" target="_blank">CONSULTE AQUÍ</a></div>
+
                         <p class="p-std">Si el deudor decide pagar la obligación por los canales antes indicados, puede solicitar la devolución del depósito judicial, usando el mismo formato (Ver anexo).</p>
                         <p class="p-std">Este último trámite es más fácil, pues permite un descargue de la obligación de pago más rápido del sistema de la Secretaría Distrital de Movilidad.</p>
+                        <p class="p-std">El formato para esta solicitud le será entregado sin costo por personal de la Secretaría en la sede de Paloquemao, o bien puede ser descargado aquí.</p>
                     </div>
-
                 </div>
 
                 <div class="col-xs-12">
                     <h3 class="h3-left">4. “Pagué la multa y también me hicieron descuento de dineros”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
-                        <p class="p-std">Las personas a quienes se les practicó un desembolso por efecto de un embargo y pagaron mediante los canales anteriormente mencionados, deben solicitar a la Dirección de Gestión de Cobro de la Secretaría de Movilidad, la devolución de los títulos de depósito, haciendo uso del formato que la SDM ha creado para los deudores.</p>
+                        <p class="p-std">Las personas a quienes se les practicó un desembolso por efecto de un embargo y pagaron mediante los canales anteriormente mencionados, deben solicitar a la Dirección de Gestión de Cobro de la Secretaría de Movilidad, la devolución de los títulos de depósito, haciendo uso del formato que la SDM ha creado para los deudores, diligenciando el espacio denominado DESEMBARGO y ENTREGA DE TÍTULO DE DEPÓSITO JUDICIAL de este formulario.</p>
                         <div class="box-img">
                             <img alt="Solicitud Apropiación de Depósito Judicial” que ha dispuesto la SDM" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/img-dj-2.png">
                             <p>Captura del formulario Desembargo y Títulos de Depósito Judicial</p>
                         </div>
                         <div class="text-center"><a class="btn btn-download btn-lg" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/formato_desembargo_y_tdj.pdf" rel="noopener noreferrer" target="_blank">DESCÁRGUELO AQUÍ</a></div>
+                        <p class="p-std">El formato para esta solicitud le será entregado sin costo por personal de la Secretaría en la sede de Paloquemao, o bien puede ser descargado aquí.</p>
                     </div>
                 </div>
 
                 <div class="col-xs-12">
-                    <h3 class="h3-left">5. “Me embargaron un vehículo automotor”.</h3>
+                    <h3 class="h3-left">5. “Me embargaron un vehículo automotor o un inmueble”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
-                        <p class="p-std">Cuando se hace el embargo de un vehículo, su dueño no podrá venderlo o disponer de este hasta tanto no se ponga al día con sus obligaciones. Por lo tanto, para desembargarlo deberá realizar el pago y solicitar a la SDM el levantamiento de la medida, y la entidad realizará su actualización ante el SIM.</p>
+                        <p class="p-std">Cuando se hace el embargo de un vehículo o un inmueble, su dueño no podrá venderlo o disponer de este hasta tanto no se ponga al día con sus obligaciones. Por lo tanto, para desembargarlo deberá realizar el pago y solicitar a la SDM el levantamiento de la medida, y la entidad realizará su actualización ante el SIM.</p>
+                        <p class="p-std">La Secretaría Distrital de Movilidad, adelanta internamente el trámite de desembargo ante la oficina de tránsito o de registro correspondiente; este procedimiento se surte dentro de los quince (15) días hábiles siguientes al pago efectivo de la obligación o una vez se verifica que la obligación motivo de embargo no registra saldo pendiente por cobrar, de forma masiva y sin que medie una solicitud del interesado.</p>
+                        <p class="p-std">No obstante, podrá realizar su solicitud, ante la Secretaría de Movilidad de manera presencial o virtual a través del correo electrónico <a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a>, por medio de un formato sugerido que la Entidad ha dispuesto para este trámite, diligenciando el espacio denominado DESEMBARGO de este formulario . Formato que puede descargar a continuación. </p>
+                        <div class="box-img">
+                            <img alt="Solicitud Apropiación de Depósito Judicial” que ha dispuesto la SDM" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/img-dj-3.png">
+                            <p>Captura del formulario Desembargo y Títulos de Depósito Judicial</p>
+                        </div>
+                        <div class="text-center"><a class="btn btn-download btn-lg" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/formato_desembargo_y_tdj.pdf" rel="noopener noreferrer" target="_blank">DESCÁRGUELO AQUÍ</a></div>
+
                         <p class="p-std">Si a su vehículo embargado le fue ordenada una medida de inmovilización, la SDM cobrará todos los costos asociados a la retención y los honorarios del secuestre, estos los debe asumir el deudor de forma adicional al valor de la multa, más los intereses moratorios. Si el pago de la obligación no se hace por parte del deudor, la Secretaría Distrital de Movilidad procederá a ordenar el remate del vehículo.</p>
+                        <p class="p-std">El formato para esta solicitud le será entregado sin costo por personal de la Secretaría en la sede de Paloquemao, o bien puede ser descargado aquí.</p>
                     </div>
                 </div>
 
@@ -171,7 +186,7 @@
                     </div>
                 </div>
 
-                <div class="col-xs-12">
+                <!-- <div class="col-xs-12">
                     <h3 class="h3-left">7. “Me embargaron mi salario”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
@@ -192,18 +207,19 @@
                         <p class="p-std">El formato para esta solicitud le será entregado sin costo por personal de la Secretaría en la sede de Paloquemao, o bien puede ser descargado aquí.</p>
                         <div class="text-center"><a class="btn btn-download btn-lg" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/formato_desembargo_y_tdj.pdf" rel="noopener noreferrer" target="_blank">DESCÁRGUELO AQUÍ</a></div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="col-xs-12">
-                    <h3 class="h3-left">8. “Me enviaron un mensaje informativo sobre el embargo. Verifico la página web y no aparece ningún comparendo. ¿Qué hago?”.</h3>
+                    <h3 class="h3-left">7. “Me enviaron un mensaje informativo sobre el embargo. Verifico la página web y no aparece ningún comparendo. ¿Qué hago?”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
-                        <p class="p-std">Sí le fue impuesta una multa y la pagó fuera de los plazos definidos en la ley, pudo haberse decretado un embargo en su contra, por lo que debe acudir ante la Dirección de Gestión de Cobro de la SDM y teniendo como fundamento el pago de la multa, solicitar el desembargo de manera presencial o virtual a través del correo electrónico <a href="mailto:desembargos@movilidadbogota.gov.co">desembargos@movilidadbogota.gov.co</a>, escribiendo todos los datos correspondientes al desembargo y adjunto copia del formulario con la solicitud.</p>
+                        <p class="p-std">Sí le fue impuesta una multa y la pagó fuera de los plazos definidos en la ley, pudo haberse decretado un embargo en su contra, por lo que debe acudir ante la Dirección de Gestión de Cobro de la SDM y teniendo como fundamento el pago de la multa, solicitar el desembargo de manera presencial o virtual a través del correo electrónico <a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a>, escribiendo todos los datos correspondientes al desembargo y adjunto copia del formulario con la solicitud.</p>
+                        <p class="p-std">Antes de radicar cualquier solicitud verifique que la medida cautelar que registra en su contra si fue ordenada por la Secretaría Distrital de Movilidad, lo anterior en atención a que la gestión de desembargo solo es procedente respecto de embargos decretados por esta entidad; si su deuda es con un organismo de otra ciudad, el trámite se debe adelantar directamente en el organismo de transito competente, ya que la Secretaría Distrital de Movilidad solo tiene competencia sobre multas y comparendos impuestos en la ciudad de Bogotá D.C.</p>
                     </div>
                 </div>
 
                 <div class="col-xs-12">
-                    <h3 class="h3-left">9. “Me enviaron un recordatorio sobre un embargo. Pero no tengo licencia de conducción ni carro. ¿Qué hago?”.</h3>
+                    <h3 class="h3-left">8. “Me enviaron un recordatorio sobre un embargo. Pero no tengo licencia de conducción ni carro. ¿Qué hago?”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
                         <p class="p-std">Debe acudir a la Subdirección de Contravenciones al Tránsito de la SDM, con el fin de que se verifique su situación como infractor, en la medida que pueden darse casos de suplantación o inconsistencias en la imposición de comparendos por parte de los agentes de tránsito.</p>
@@ -211,13 +227,17 @@
                 </div>
 
                 <div class="col-xs-12">
-                    <h3 class="h3-left">10. “Me enviaron un mensaje informativo sobre un embargo. Pero yo hice el curso y pagué. ¿Qué hago?”.</h3>
+                    <h3 class="h3-left">9. “Me enviaron un mensaje informativo sobre un embargo. Pero yo hice el curso y pagué. ¿Qué hago?”.</h3>
                     <div class="titulo"></div>
                     <div class="parrafos">
                         <p class="p-std">Los ciudadanos infractores de las normas de tránsito, luego de la imposición de una multa, deben verificar el sistema de información y de ser el caso acreditar el cumplimiento de la obligación o de lo contrario pueden ser sujetos de un cobro coactivo.</p>
-                        <p class="p-std">Por lo anterior, si ya pagó la multa y aún le aparece en los sistemas de información, debe presentar una solicitud ante la Secretaría de Movilidad anexando los soportes del pago para que esta sea descargada.</p>
+                        <p class="p-std">Por lo anterior, si ya pagó la multa y aún le aparece en los sistemas de información, debe presentar una solicitud ante la Secretaría de Movilidad anexando los soportes del pago y la constancia de realización del curso pedagógico para que esta sea descargada.</p>
+                        <p class="p-std">En cuanto a la realización de los cursos recomendamos que los mismos sean presentados directamente en la SDM, de lo contrario, el ciudadano debe presentar toda la documentación que soporte la realización de estos.</p>
+                        <p class="p-std">La Secretaría Distrital de Movilidad, adelanta internamente el trámite de desembargo ante la entidad correspondiente (entidad financiera, empleador, pagador, oficina de tránsito o de registro); este procedimiento se surte dentro de los quince (15) días hábiles siguientes al pago efectivo de la obligación o una vez se verifica que la obligación motivo de embargo no registra saldo pendiente por cobrar, de forma masiva y sin que medie una solicitud del interesado.</p>
+                        <p class="p-std">No obstante, podrá realizar su solicitud de desembargo, ante la Secretaría de Movilidad de manera presencial o virtual a través del correo electrónico <a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a>, por medio de un formato sugerido que la Entidad ha dispuesto para este trámite, relacionando  todos los datos correspondientes al desembargo. Formato que puede descargar a continuación.</p>
                         <p class="p-std"><strong>Dígale NO a los tramitadores: </strong>La Secretaría Distrital de Movilidad hace un llamado de atención a los ciudadanos sobre los riesgos a la hora de acudir a los llamados tramitadores quienes, en algunos casos, generan falsas expectativas y ofrecen servicios ilegales. En cuanto a la realización de los cursos recomendamos que los mismos sean presentados directamente en la SDM, de lo contrario, el ciudadano debe presentar toda la documentación que soporte la realización de estos.</p>
-                        <p class="p-std">Si usted ha sido víctima de estafa o conoce algún caso, haga su denuncia <a href="http://www.movilidadbogota.gov.co/web/antitramitadores" rel="noopener noreferrer" target="_blank">aquí</a>.</p>
+
+                        <p class="p-std">Si usted ha sido víctima de estafa o conoce algún caso, haga su denuncia <a href="http://www.movilidadbogota.gov.co/web/antitramitadores" rel="noopener noreferrer" target="_blank">aquí (www.movilidadbogota.gov.co/web/antitramitadores)</a>.</p>
                     </div>
                 </div>
             </div>
