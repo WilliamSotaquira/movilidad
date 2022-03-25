@@ -1,9 +1,12 @@
 @extends('welcome')
 @section('contenido')
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'> 
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
@@ -11,7 +14,7 @@
     <div class='s1'>
         <div class="encabezado">
             <div>
-                <h3>Sistemas de Gestión SDM</h3>
+                <h3>Sistemas de Gestión de Secretaría Distrital de Movilidad</h3>
             </div>
         </div>
     </div>
@@ -20,7 +23,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="txt-description">
                     <div class="parrafos">
-                        <p>El SIG de la Secretaría de Movilidad, está conformado por cinco sistemas de gestión que tienen como propósito la mejora continua y el fortalecimiento del desempeño institucional de la Entidad, permitiendo asegurar una excelente gestión en temas como: Seguridad y Salud en el Trabajo, Gestión Ambiental, Gestión Antisoborno, Gestión de Calidad y Gestión de bienestar institucional,  esto en el marco del  cumplimiento de los requisitos establecidos para cada sistema en la normas ISO y bajo el estándar del Modelo Integrado de Planeación y Gestión (MIPG)".</p>
+                        <p>El Sistema Integrado de Gestión de la Secretaría de Movilidad, está conformado por cinco sistemas de gestión que tienen como propósito la mejora continua y el fortalecimiento del desempeño institucional de la Entidad, permitiendo asegurar una excelente gestión en temas como:<strong> Seguridad y Salud en el Trabajo, Gestión Ambiental, Gestión Antisoborno, Gestión de Calidad y Gestión de bienestar institucional,</strong>  esto en el marco del  cumplimiento de los requisitos establecidos para cada sistema en la normas ISO y bajo el estándar del <strong>Modelo Integrado de Planeación y Gestión (MIPG)</strong>.</p>
                     </div>
                 </div>
             </div>
@@ -133,10 +136,13 @@
     }
 
     .seccion {
-        font-size: 13px !important;
-        line-height: 1 !important;
-        max-width: 940px;
-        font-family: 'Sora', sans-serif;
+        max-width: 980px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        text-align: justify;
+        line-height: 1.4;
+        color: #252525s;
 
     }
 
@@ -197,7 +203,7 @@
 
     .s2 .txt-description {
         padding: 3vw 0vw;
-        text-align: justify;
+        text-align: center;
 
     }
 
@@ -209,14 +215,7 @@
         box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
     }
 
-    .s2 .txt-description .parrafos p {
-        color: #252525;
-        line-height: 1.8;
-font-weight: 300;
-text-align: center;
-font-size: 0.9em;
 
-    }
 
     .s2 .botones {
         padding: 10px;
@@ -263,7 +262,7 @@ font-size: 0.9em;
         background-color: #6dcbd3;
         font-weight: 700;
         font-size: 1.2em;
-        color: #151515;
+        color: #252525;
 
     }
 
@@ -271,7 +270,7 @@ font-size: 0.9em;
 
     .btn2 {
         background-color: #f3ac33;
-        color: #151515;
+        color: #252525;
         font-weight: 700;
         font-size: 1.2em;
     }
@@ -279,7 +278,7 @@ font-size: 0.9em;
 
     .btn3 {
         background-color: #27A6CF;
-        color: #151515;
+        color: #252525;
         font-weight: 700;
         font-size: 1.2em;
     }
@@ -287,15 +286,15 @@ font-size: 0.9em;
   
     .btn4 {
         background-color: #a7cd00;
-        color: #151515;
+        color: #252525;
         font-weight: 700;
         font-size: 1.2em;
     }
 
 
     .btn5 {
-        background-color: #dc6600;
-        color: #000;
+        background-color: #ff6600;
+        color: #252525;
         font-weight: 700;
         font-size: 1.2em;
     }

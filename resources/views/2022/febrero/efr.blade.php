@@ -12,11 +12,12 @@
 
 <div class='container-fluid seccion'>
    <div class="encabezado">
-      <div class='row'>
-         <div class='col-xs-12 col-sm-6 col-md-6 '>
-            <div class="titulo"><span class="enfasis-enc">E</span>mpresa <span class="enfasis-enc">F</span>amiliarmente <span class="enfasis-enc">R</span>esponsable - <span class="enfasis-enc">efr</span>
-               <hr>
+   <div class='row'>
+      <div class='col-xs-12 col-sm-6 col-md-6 '>
+         <div class="icono-box">
+               <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-03-2022/logo_efr.png' alt='logo Empresa Familiarmente Responsable' title='logo Empresa Familiarmente Responsable'>
             </div>
+      
          </div>
       </div>
    </div>
@@ -29,13 +30,24 @@
          background-position: center;
          -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
          box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+
+      }
+      .encabezado .icono-box{
+         height: 300px;
          display: flex;
+         flex-direction: column;
          justify-content: center;
          align-items: center;
+         padding: 30px;
+      }
+
+      .encabezado .icono-box img{
+         max-width: 250px;
+         bs
       }
 
       .encabezado .titulo {
-         background-color: #7030a0;
+         background-color: #ff6600;
          font-family: 'Montserrat', sans-serif;
          font-size: 35px;
          font-weight: 500;
@@ -49,7 +61,7 @@
       }
 
       .encabezado .enfasis-enc {
-         /* color: #e16600; */
+         /* color: #ff6600; */
          color: #bccd41;
          font-weight: 700;
          font-size: 1.1em;
@@ -69,7 +81,7 @@
       <div class='row'>
          <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
             <div class='text-center'>
-               <video id="video" controls='' style='width: 100%;'>
+               <video id="video" controls='' style='width: 100%;' poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-03-2022/poster_efr.png">
                   <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2022/programa_efr.mp4' type='video/mp4'>
             </div>
          </div>
@@ -124,7 +136,6 @@
                            Medidas <strong>efr</strong>
                         </div>
                      </div>
-                     <div class="icono"></div>
                   </a>
                </div>
             </div>
@@ -136,7 +147,6 @@
                            Resultados de Diagnóstico del <strong>Sistema de Gestión efr</strong>
                         </div>
                      </div>
-                     <div class="icono"></div>
                   </a>
                </div>
             </div>
@@ -148,7 +158,6 @@
                            Sistemas de Gestión <strong>efr - Indicadores</strong>
                         </div>
                      </div>
-                     <div class="icono"></div>
                   </a>
                </div>
             </div>
@@ -160,7 +169,6 @@
                            Objetivos de <strong>Mejora efr</strong>
                         </div>
                      </div>
-                     <div class="icono"></div>
                   </a>
                </div>
             </div>
@@ -172,7 +180,6 @@
                            Cartilla <strong>efr</strong>
                         </div>
                      </div>
-                     <div class="icono"></div>
                   </a>
                </div>
             </div>
@@ -184,7 +191,6 @@
                            Dirección y orientación estratégica <strong>efr</strong>
                         </div>
                      </div>
-                     <div class="icono"></div>
                   </a>
                </div>
             </div>
@@ -229,8 +235,8 @@
       .footer-efr {
          /* height: 200px; */
          padding: 30px;
-         /* background-color: #7030a0; */
-         background: linear-gradient(45deg, #7030a0 0%, #00000080 150%);
+         /* background-color: #ff6600; */
+         background: linear-gradient(135deg, #ff6600 0%, #000000 200%);
 
       }
 
@@ -239,12 +245,12 @@
          display: flex;
          justify-content: center;
          align-items: center;
-         background-color: #e6665b;
+         background-color: #fff;
       }
 
       .footer-efr .resumen dt {
          margin: 0px;
-         color: #bccd41;
+         color: #333333;
       }
 
       .footer-efr .resumen dl {
@@ -253,7 +259,7 @@
       }
 
       .footer-efr .titulo h3 {
-         color: rgba(255, 255, 255, 1);
+         color: #ff6600;
          font-size: 22px;
          font-weight: 700;
          text-align: center;
@@ -281,7 +287,7 @@
    
       .box-parrafo .titulo h3 {
          font-weight: 700;
-         color: #7030a0;
+         color: #ff6600;
          margin-bottom: 25px;
       }
 
@@ -297,13 +303,13 @@
       }
 
       .enfasis2 {
-         color: #e16600;
+         color: #ff6600;
          font-size: 1.2em;
          font-weight: 700;
       }
 
       .enfasis3 {
-         color: #fff;
+         color: #ff6600;
          font-size: 1.4em;
          font-weight: 700;
       }
@@ -317,7 +323,7 @@
          flex-direction: column;
          justify-content: center;
          align-items: center;
-         background: linear-gradient(45deg, #bccd41 0%, #00000080 150%);
+         background: linear-gradient(45deg, #999999 0%, #00000080 150%);
          padding: 15px;
          margin: 10px;
          -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
@@ -329,7 +335,8 @@
       }
 
       .btn-efr:hover {
-         background: linear-gradient(45deg, #7030a0 0%, #00000080 150%);
+         background: linear-gradient(135deg, #ff6600 0%, #000000 200%);
+
       }
 
 

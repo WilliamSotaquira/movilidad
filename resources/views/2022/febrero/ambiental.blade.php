@@ -23,7 +23,7 @@
                     <div class="titulo">
                     </div>
                     <div class="parrafo">
-                        <p>Es una herramienta o metodología que desarrolla una estructura organizativa, responsabilidades, practicas, procedimientos, procesos y recursos para determinar y alcanzar la política del SGA.</p>
+                        <p>Es una herramienta o metodología que desarrolla una estructura organizativa, responsabilidades, practicas, procedimientos, procesos y recursos para determinar y alcanzar la política del Sistema de Gestión Ambiental.</p>
                     </div>
                 </div>
             </div>
@@ -34,10 +34,10 @@
             <div class='col-xs-12 col-sm-12 col-md-12'>
                 <div class="box-parrafos">
                     <div class="titulo">
-                        <h3>Política del SGA</h3>
+                        <h3>Política del Sistema de Gestión Ambiental</h3>
                     </div>
                     <div class="parrafo">
-                        <p>La Secretaría Distrital de Movilidad está comprometida con la mejora continua de las condiciones ambientales de Bogotá, por ello, lidera y ejecuta directrices para la prevención y mitigación de los impactos ambientales negativos, mediante programas y estrategias de fomento a la movilidad sostenible, de acuerdo con la legislación ambiental vigente.</p>
+                        <p>La Secretaria Distrital de Movilidad consciente de la responsabilidad en la preservación del ambiente, está comprometida con la mejora continua de las condiciones ambientales de la entidad, por lo tanto, ejecuta estrategias que fomentan la cultura ambiental y fortalecen las buenas prácticas ambientales institucionales de acuerdo con la legislación ambiental vigente.</p>
                     </div>
                 </div>
             </div>
@@ -53,25 +53,25 @@
             <div class='col-xs-12 col-sm-3 col-md-3'>
                 <div class="compromisos">
                     <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
-                    <p>Cumplir con los requerimientos legales Ambientales y otros aplicables a las actividades de la Secretaria Distrital de Movilidad que permitan dar cumplimiento a la misión institucional.</p>
+                    <p>Cumplir con los requisitos legales ambientales y otros aplicables a la entidad.</p>
                 </div>
             </div>
             <div class='col-xs-12 col-sm-3 col-md-3'>
                 <div class="compromisos">
                     <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
-                    <p>Establecer estrategias enfocadas a tomar medidas educativas, de inversión que sean sostenibles, con el fin de garantizar el uso eficiente de los recursos naturales, la protección ambiental y la prevención de la contaminación.</p>
+                    <p>Establecer estrategias enfocadas a garantizar el uso racional de los recursos, la reducción, prevención de la contaminación, y la mitigación de los impactos ambientales negativos derivados de sus actividades, reduciendo de esta forma las afectaciones al medio ambiente.</p>
                 </div>
             </div>
             <div class='col-xs-12 col-sm-3 col-md-3'>
                 <div class="compromisos">
                     <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
-                    <p>Hacer seguimientos permanentes al desempeño del Sistema de Gestión Ambiental para su mejora continua.</p>
+                    <p>Realizar seguimientos permanentes al desempeño del SGA, que permitan su implementación, control y mejora continua.</p>
                 </div>
             </div>
             <div class='col-xs-12 col-sm-3 col-md-3'>
                 <div class="compromisos">
                     <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
-                    <p>Implementar mecanismos al interior de la entidad que permitan fortalecer la responsabilidad de los colaboradores y partes interesadas en el consumo responsable y las buenas prácticas ambientales establecidas en los diferentes programas.</p>
+                    <p>Implementar mecanismos al interior de la entidad que permitan fortalecer en los colaboradores y partes interesadas, el consumo responsable de los recursos naturales.</p>
                 </div>
             </div>
         </div>
@@ -115,8 +115,14 @@
             display: flex;
         }
 
+        .s1 .compromisos p {
+            font-weight: normal;
+            /* text-align: justify; */
+            line-height: 1.4;
+        }
+
         .s1 .glyphicon {
-            padding: 3px 5px;
+            padding: 5px 8px;
 
         }
     </style>
@@ -128,7 +134,7 @@
                         <h3>Objetivos Ambientales</h3>
                     </div>
                     <div class="parrafo">
-                        <p>Identificar y controlar los aspectos e impactos ambientales que se derivan de las actividades institucionales, así como la ejecución de políticas y lineamientos que permitan el cumplimiento de los objetivos definidos que impacten positivamente a los funcionarios de la entidad, ciudadanía y partes interesadas.</p>
+                        <p>Promover e implementar estrategias y actividades encaminadas a mejorar el desempeño ambiental de la entidad mediante la prevención, control, mitigación y/o compensación de los impactos ambientales generados por las actividades institucionales, en las diferentes sedes de la Secretaría Distrital de Movilidad.</p>
                     </div>
                     <div>
                         <div class='row'>
@@ -140,9 +146,12 @@
                             <div class='col-xs-12 col-sm-6 col-md-6'>
                                 <p><strong>Objetivos Específicos</strong></p>
                                 <ul>
-                                    <li>Definir un plan de acción que dé cumplimiento a las diferentes políticas, lineamientos y estrategias institucionales en materia ambiental.</li>
-                                    <li>Ejecutar las diferentes actividades de los programas de Gestión Ambiental, definidas en el plan de acción acorde a la normatividad vigente.</li>
-                                    <li>Realizar seguimientos al cumplimiento de las diferentes actividades del plan de acción a través del equipo técnico de Gestión Ambiental, informes de seguimiento a la Secretaría Distrital de Ambiente, auditorías internas y externas y mecanismo de autocontrol.</li>
+                                    <li>Garantizar el uso racional y eficiente de energía en las diferentes sedes de la SDM.</li>
+                                    <li>Garantizar el uso racional y eficiente del recurso hídrico en las diferentes sedes de la SDM.</li>
+                                    <li>Promover la gestión integral de los residuos generados en la SDM.</li>
+                                    <li>Fortalecer la aplicación de criterios ambientales en la adquisición de bienes y servicios contratados por la entidad en el desarrollo de sus actividades.</li>
+                                    <li>Promover acciones que contribuyan a la adaptación y mitigación al cambio climático y mejora de la calidad del paisaje de la sede principal de la SDM.</li>
+
                                 </ul>
                             </div>
                         </div>
@@ -151,9 +160,16 @@
                 </div>
             </div>
         </div>
-        <div class= 'row' > 
+        <div class='row'>
+            <div class='col-xs-12 col-sm-12 col-md-12'>
+                <div class="box-parrafos">
+                    <div class="titulo">
+                        <h3>Programas Ambientales</h3>
+                    </div>
+                </div>
+            </div>
             <div class='col-xs-6 col-xs-offset-3'>
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/piga.webp' alt='Esquema PIGA' title='Esquema PIGA'>
+                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-03-2022/programasambientales.webp' alt='Esquema Programas Ambientales' title='Esquema Programas Ambientales'>
             </div>
         </div>
     </div>
@@ -161,7 +177,7 @@
         .s2 .box-parrafos .img2 {
             background: #151515;
             background: linear-gradient(45deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2022/bogota-4463698_1280.webp');
-            height: 300px;
+            height: 350px;
             background-size: cover;
             background-position: center;
             padding: 15px;
@@ -179,7 +195,7 @@
                         <h3>Alcance</h3>
                     </div>
                     <div class="parrafo">
-                        <p>La determinación del alcance para la implementación del Sistema de Gestión Ambiental bajo la norma ISO 14001 versión 2015, surge a partir del diagnóstico ambiental realizado en todas sus sedes, la valoración de sus condiciones físicas y ambientales y del control que la entidad puede ejercer sobre las mismas. En tal sentido, se establece el alcance para la Sede Administrativa Calle 13, Sede Paloquemao, Almacén y Bodega Villa Alsacia</p>
+                        <p>La determinación del alcance para la implementación del Sistema de Gestión Ambiental bajo la norma ISO 14001 versión 2015, aplica para todos los procesos, actividades y la prestación del servicio de la entidad, y vincula las siguientes sedes: Sede Calle 13, Sede Paloquemao, Sede Almacén y Bodega Villa Alsacia, donde se determinan las situaciones de emergencia potenciales incluidas las que pueden tener un impacto ambiental.</p>
                     </div>
                     <div class="img3" alt="Imagen diagrama ciclo de PHVA" title="Imagen diagrama ciclo de PHVA">
 
@@ -206,7 +222,7 @@
     <div class="s4 ">
         <div class="box-parrafos img4">
             <div class='row'>
-                <div class='col-xs-12 col-sm-6 col-md-6'>
+                <div class='col-xs-12 col-sm-8 col-md-8'>
                     <div class="parrafo-izq">
                         <div class="titulo">
                             <h3>Beneficios</h3>
@@ -256,7 +272,7 @@
 
                 <div class="box-parrafos">
                     <div class="titulo">
-                        <h3>Resolución Número 107311 de 2021</h3>
+                        <h3>Resolución número 107311 de 2021</h3>
                     </div>
                     <div class="parrafo">
                         <p>“Por medio de la cual se asignan los Roles y Responsabilidades del Sistema de Gestión Ambiental a todos los niveles de la Secretaría Distrital de Movilidad y se dictan otras disposiciones”</p>
@@ -279,6 +295,7 @@
             <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/hoja2.webp' alt='Imagen de hoja de arbol' title='Imagen de hoja de arbol'>
         </div>
     </div>
+    <br>
     <style>
         .img-hoja2 {
             position: relative;
@@ -431,6 +448,11 @@
 
     }
 
+    .seccion li {
+        padding-bottom: 8px;
+        /* text-align: justify; */
+    }
+
     .seccion .box-parrafos {
         padding: 5% 10% 2% 10%;
     }
@@ -458,11 +480,11 @@
     @media(max-width:767px) {
 
         .encabezado .imagen-descripcion {
-        position: relative;
-        padding: 2px;
-        font-size: 11px;
-        top: 0px;
-    }
+            position: relative;
+            padding: 2px;
+            font-size: 11px;
+            top: 0px;
+        }
 
         .s2 .box-parrafos .img2 {
             margin-bottom: 25px;
@@ -477,7 +499,8 @@
         .seccion .box-parrafos {
             padding: 0%;
         }
-        .arbol2 .img-arbol2  {
+
+        .arbol2 .img-arbol2 {
             position: relative;
             height: 400px;
             width: auto;
@@ -485,6 +508,7 @@
             justify-content: center;
             align-items: center;
         }
+
         .arbol2 .img-arbol2 img {
             position: relative;
             right: 0px;
@@ -492,10 +516,7 @@
         }
     }
 
-    @media(min-width:768px) {
-
-
-    }
+    @media(min-width:768px) {}
 
     @media(min-width:992px) {}
 
