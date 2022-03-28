@@ -24,7 +24,9 @@ Route::view('/inicio/agendamiento', 'inicio/agendamiento');
 Route::view('/inicio/footer', 'inicio/footer');
 
 Route::view('/inicio/ccm/centroContacto', 'inicio/ccm/centroContacto');
-Route::view('/inicio/ccm/ccmbotones', 'inicio/ccm/ccmbotones');
+Route::view('/inicio/ccm/botones', 'inicio/ccm/botones');
+
+Route::view('/inicio/bannerAncho', 'inicio/bannerAncho');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Plantillas
 Route::view('/plantillas/imagen_adaptativa', 'plantillas/imagen_adaptativa');
@@ -131,8 +133,9 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2021/noviembre/instancias', '2021/noviembre/instancias');
     Route::view('/2021/noviembre/siniestralidad', '2021/noviembre/siniestralidad');
     Route::view('/2021/noviembre/agentes', '2021/noviembre/agentes');
-    Route::view('/2021/noviembre/agendamiento', '2021/noviembre/agendamiento');
+    Route::view('/2021/noviembre/ccm', '2021/noviembre/ccm');
     Route::view('/2021/noviembre/orvi', '2021/noviembre/orvi');
+    Route::view('/2021/noviembre/centroContacto', '2021/noviembre/centroContacto');
 
     // Contenido Ajustado en diciembre
     Route::view('/2021/diciembre/excepciones', '2021/diciembre/excepciones');
