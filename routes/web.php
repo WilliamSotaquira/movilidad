@@ -152,31 +152,34 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2022
 
     // Contenido Ajustado en enero 2022
-    Route::view('/2022/enero/picoPlaca_2022', '2022/enero/picoPlaca_2022');
-    Route::view('/2022/enero/picoPlaca', '2022/enero/picoPlaca');
-    Route::view('/2022/enero/boletin_4enero', '2022/enero/boletin_4enero');
-    Route::view('/2022/enero/mejorando', '2022/enero/mejorando');
-    Route::view('/2022/enero/exceptuados', '2022/enero/exceptuados');
-    Route::view('/2022/enero/botones_pyp', '2022/enero/botones_pyp');
-    Route::view('/2022/enero/camaras', '2022/enero/camaras');
-    Route::view('/2022/enero/agentes', '2022/enero/agentes');
+    Route::view('/2022/01/picoPlaca_2022', '2022/01/picoPlaca_2022');
+    Route::view('/2022/01/picoPlaca', '2022/01/picoPlaca');
+    Route::view('/2022/01/boletin_4enero', '2022/01/boletin_4enero');
+    Route::view('/2022/01/mejorando', '2022/01/mejorando');
+    Route::view('/2022/01/exceptuados', '2022/01/exceptuados');
+    Route::view('/2022/01/botones_pyp', '2022/01/botones_pyp');
+    Route::view('/2022/01/camaras', '2022/01/camaras');
+    Route::view('/2022/01/agentes', '2022/01/agentes');
 
     // Contenido Ajustado en febrero 2022
-    Route::view('/2022/febrero/calendariopyp', '2022/febrero/calendariopyp');
-    Route::view('/2022/febrero/bicicarga', '2022/febrero/bicicarga');
-    Route::view('/2022/febrero/ceroybajas', '2022/febrero/ceroybajas');
-    Route::view('/2022/febrero/participacion', '2022/febrero/participacion');
-    Route::view('/2022/febrero/resolucion001', '2022/febrero/resolucion001');
-    Route::view('/2022/febrero/medidas', '2022/febrero/medidas');
-    Route::view('/2022/febrero/defensor', '2022/febrero/defensor');
-    Route::view('/2022/febrero/desembargos', '2022/febrero/desembargos');
-    Route::view('/2022/febrero/ambiental', '2022/febrero/ambiental');
-    Route::view('/2022/febrero/efr', '2022/febrero/efr');
-    Route::view('/2022/febrero/vus', '2022/febrero/vus');
+    Route::view('/2022/02/calendariopyp', '2022/02/calendariopyp');
+    Route::view('/2022/02/bicicarga', '2022/02/bicicarga');
+    Route::view('/2022/02/ceroybajas', '2022/02/ceroybajas');
+    Route::view('/2022/02/participacion', '2022/02/participacion');
+    Route::view('/2022/02/resolucion001', '2022/02/resolucion001');
+    Route::view('/2022/02/medidas', '2022/02/medidas');
+    Route::view('/2022/02/defensor', '2022/02/defensor');
+    Route::view('/2022/02/desembargos', '2022/02/desembargos');
+    Route::view('/2022/02/ambiental', '2022/02/ambiental');
+    Route::view('/2022/02/efr', '2022/02/efr');
+    Route::view('/2022/02/vus', '2022/02/vus');
     
     // Contenido Ajustado en marzo 2022
-  
-    Route::view('/2022/marzo/bicicarga_resultados', '2022/marzo/bicicarga_resultados');
-    Route::view('/2022/marzo/motociclistas', '2022/marzo/motociclistas');
-    Route::view('/2022/marzo/planMarshall', '2022/marzo/planMarshall');
+    
+    Route::view('/2022/03/bicicarga_resultados', '2022/03/bicicarga_resultados');
+    Route::view('/2022/03/motociclistas', '2022/03/motociclistas');
+    Route::view('/2022/03/planMarshall', '2022/03/planMarshall');
+    
+    // Contenido Ajustado en marzo 2022
 
+    Route::view('/2022/04/contraflujo', '2022/04/contraflujo');
