@@ -38,6 +38,7 @@
                     </div>
                     <div class="parrafo">
                         <p>La Secretaria Distrital de Movilidad consciente de la responsabilidad en la preservación del ambiente, está comprometida con la mejora continua de las condiciones ambientales de la entidad, por lo tanto, ejecuta estrategias que fomentan la cultura ambiental y fortalecen las buenas prácticas ambientales institucionales de acuerdo con la legislación ambiental vigente.</p>
+                        <p>En el marco de la presente política ambiental, la Secretaría Distrital de Movilidad se compromete a:</p>
                     </div>
                 </div>
             </div>
@@ -59,7 +60,7 @@
             <div class='col-xs-12 col-sm-3 col-md-3'>
                 <div class="compromisos">
                     <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
-                    <p>Establecer estrategias enfocadas a garantizar el uso racional de los recursos, la reducción, prevención de la contaminación, y la mitigación de los impactos ambientales negativos derivados de sus actividades, reduciendo de esta forma las afectaciones al medio ambiente.</p>
+                    <p>Establecer estrategias enfocadas a garantizar el uso racional de los recursos, la protección del medio ambiente, la prevención de la contaminación, y la mitigación de los impactos ambientales negativos derivados de sus actividades, reduciendo de esta forma las afectaciones al medio ambiente.</p>
                 </div>
             </div>
             <div class='col-xs-12 col-sm-3 col-md-3'>
@@ -195,7 +196,7 @@
                         <h3>Alcance</h3>
                     </div>
                     <div class="parrafo">
-                        <p>La determinación del alcance para la implementación del Sistema de Gestión Ambiental bajo la norma ISO 14001 versión 2015, aplica para todos los procesos, actividades y la prestación del servicio de la entidad, y vincula las siguientes sedes: Sede Calle 13, Sede Paloquemao, Sede Almacén y Bodega Villa Alsacia, donde se determinan las situaciones de emergencia potenciales incluidas las que pueden tener un impacto ambiental.</p>
+                        <p>El alcance para la implementación del Sistema de Gestión Ambiental bajo la norma ISO 14001 versión 2015, aplica para todos los procesos, actividades y la prestación del servicio de la entidad, y vincula las siguientes sedes: Sede Calle 13, Sede Paloquemao, Sede Almacén y Bodega Villa Alsacia, cumpliendo todos los requisitos legales y otros requisitos aplicables, mitigando los posibles impactos ambientales derivados de las actividades propias de la entidad.</p>
                     </div>
                     <div class="img3" alt="Imagen diagrama ciclo de PHVA" title="Imagen diagrama ciclo de PHVA">
 
