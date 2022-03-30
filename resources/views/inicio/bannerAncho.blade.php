@@ -115,16 +115,22 @@
 
       <br>
       <div class="row">
+          <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/abece_sobre_el_contraflujo_de_la_avenida_las_americas" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede consultar el abecé sobre el Contraﬂujo de la Avenida Las Américas" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-03-2022/banners_contraflujo_avamericas_450x150.webp" title="Aquí puede consultar el abecé sobre el Contraﬂujo de la Avenida Las Américas"></a></div>
+          <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/abece_sobre_el_contraflujo_de_la_avenida_las_americas" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede consultar el abecé sobre el Contraﬂujo de la Avenida Las Américas" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-03-2022/banners_contraflujo_avamericas_1920x320.webp" title="Aquí puede consultar el abecé sobre el Contraﬂujo de la Avenida Las Américas"></a>
+          </div>
+      </div>
+      <br>
+      <!-- <div class="row">
           <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/2022-01-21_banner_bem_asi-va-el-pth-_2.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a></div>
           <div class="col-sm-12 hidden-xs"><a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/2022-01-21_banner_bem_asi-va-el-pth-_1.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
           </div>
-      </div>
+      </div> -->
 
 
       <!-- Bloque Centro de Contacto -->
       <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
       <div class="row">
-          <div class="contacto">
+          <div class="contacto-div">
               <div class="row titulo">
                   <h3><a href="https://www.movilidadbogota.gov.co/web/canales_de_atencion_al_ciudadano">Centro de Contacto de Movilidad</a></h3>
               </div>
@@ -222,7 +228,7 @@
 
 
 
-          /* .contacto [class*='col-']{
+          /* .contacto-div [class*='col-']{
               margin: 0px;
               padding: 0px;
               border: 0;
@@ -231,7 +237,7 @@
               vertical-align: baseline;
           } */
 
-          .contacto {
+          .contacto-div {
               overflow: hidden;
               white-space: normal;
               background-color: #191C3A;
@@ -241,33 +247,33 @@
 
           }
 
-          .contacto>.titulo {
+          .contacto-div>.titulo {
               text-align: center;
               text-transform: uppercase;
           }
 
-          .contacto>.titulo h3 {
+          .contacto-div>.titulo h3 {
               font-weight: 900;
               font-size: 14px;
               margin: 40px 10px 10px 10px;
               padding: 0px 15px;
           }
 
-          .contacto>.titulo a {
+          .contacto-div>.titulo a {
               text-decoration: none;
               color: #66e026;
           }
 
-          .contacto .tabs {
+          .contacto-div .tabs {
               margin: 0px 15px 15px 15px;
               padding: 0px 10px 10px 10px;
           }
 
-          .contacto .tab>.img-tab {
+          .contacto-div .tab>.img-tab {
               padding: 5px 5px 0px 5px;
           }
 
-          .contacto .tab>.txt-tab {
+          .contacto-div .tab>.txt-tab {
               margin: 0px 0px;
               display: flex;
               flex-direction: column;
@@ -276,7 +282,7 @@
               max-height: 70px;
           }
 
-          .contacto .tab>.txt-tab h4 {
+          .contacto-div .tab>.txt-tab h4 {
               text-align: center;
               color: #66e026;
               font-weight: 900;
@@ -286,32 +292,32 @@
               padding: 0px 5px;
           }
 
-          .contacto .tab>.txt-tab h4 a {
+          .contacto-div .tab>.txt-tab h4 a {
               color: #66e026;
               text-decoration: none !important;
           }
 
-          .contacto .tab:hover>.txt-tab h4 a {
+          .contacto-div .tab:hover>.txt-tab h4 a {
               color: #fff;
           }
 
-          .contacto .txt-footer {
+          .contacto-div .txt-footer {
               text-align: center;
               padding: 10px 20px;
           }
 
-          .contacto .txt-footer a {
+          .contacto-div .txt-footer a {
               text-decoration: none;
               margin: 0px;
               padding: 0px;
               color: rgba(102, 224, 38, 1);
           }
 
-          .contacto .txt-footer a:hover {
+          .contacto-div .txt-footer a:hover {
               color: rgba(255, 255, 255, 1);
           }
 
-          .contacto .txt-footer p {
+          .contacto-div .txt-footer p {
               width: 100%;
               color: #fff !important;
               font-weight: 900;
@@ -321,7 +327,7 @@
               padding: 0px 15px;
           }
 
-          .contacto .txt-footer .enfasis {
+          .contacto-div .txt-footer .enfasis {
               color: #66e026;
               font-weight: 900;
           }
@@ -353,17 +359,17 @@
       <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
       <style type="text/css">
           @media(max-width:767px) {
-              .contacto .tab>.txt-tab h4 {
+              .contacto-div .tab>.txt-tab h4 {
                   font-size: 12px !important;
               }
 
-              .contacto .txt-footer p {
+              .contacto-div .txt-footer p {
                   font-size: 12px !important;
               }
           }
 
           @media(min-width:992px) {
-              .contacto .tab>.txt-tab h4 {
+              .contacto-div .tab>.txt-tab h4 {
                   text-align: center;
                   color: #66e026;
                   font-weight: 900;
@@ -374,14 +380,14 @@
           }
 
           @media(min-width:1200px) {
-              .contacto .tab>.txt-tab h4 {
+              .contacto-div .tab>.txt-tab h4 {
                   font-size: 1rem;
               }
           }
       </style>
       <style type="text/css">
           @media(max-width:767px) {
-              .contacto .tab>.txt-tab h4 {
+              .contacto-div .tab>.txt-tab h4 {
                   font-size: 8px;
               }
           }
@@ -389,17 +395,17 @@
           @media(min-width:768px) {
 
 
-              .contacto>.titulo h3 {
+              .contacto-div>.titulo h3 {
                   /* font-size: 14px; */
                   font-size: 30px;
               }
 
-              .contacto .tab>.txt-tab h4 {
+              .contacto-div .tab>.txt-tab h4 {
                   /* font-size: 8px; */
                   font-size: 12px;
               }
 
-              .contacto .txt-footer p {
+              .contacto-div .txt-footer p {
                   /* font-size: 6px; */
                   font-size: 13px;
               }
@@ -407,7 +413,7 @@
           }
 
           @media(min-width:992px) {
-              .contacto .txt-footer p {
+              .contacto-div .txt-footer p {
                   /* font-size: 6px; */
                   font-size: 12px;
               }
