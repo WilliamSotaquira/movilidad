@@ -1986,6 +1986,32 @@
                                             </div>
                                             <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                                 <div class='panel-body'>
+                                                    <!-- <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-06_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 73</h4>
+                                                                    <i>miércoles, 6 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El Portal del Sur contará con más cupos para las bicis. Conozca la máquina niveladora de arrastre con la que se intervenían las vías a finales de 1800, y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div> -->
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-05_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 72</h4>
+                                                                    <i>martes, 5 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La UMV adelanta obras de mantenimiento vial a los desvíos que se implementarán para las obras del metro de Bogotá. Prepárese para el cierre de la calzada norte en sentido Oriente - Occidente en la Avenida Villavicencio entre la Avenida Primero de Mayo y carrera 78i, mucho más. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2022/2022-04-04_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
