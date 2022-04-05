@@ -93,7 +93,18 @@
             color: rgba(255, 255, 255, 1);
         }
     </style>
+
     <div class="s1">
+        <div class="video">
+            <div class='row'>
+                <div class='col-xs-12 col-sm-10 col-sm-offset-1'>
+                    <div class='text-center'>
+                        <video controls='' style='width: 100%;' poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/poster.png">
+                            <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/contraflujo_av._americas_alta.mp4' type='video/mp4'>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="box-parrafos">
             <h3>¿En qué consiste la medida? </h3>
             <p>La medida consiste en habilitar un carril sobre la calzada norte de la Avenida de las Américas en sentido occidente-oriente. El contraﬂujo iniciará en la carrera 74 cerca al Portal Banderas y ﬁnalizará en la carrera 62 sector Outlets de las Américas, con una distancia aproximada de 3 kilómetros. Sobre la carrera 62 mediante semáforo humano se incorporan a la carrera 62 transitando al norte para tomar la calle 13 y así puedan continuar al oriente y/o retornar a la Av. de las Américas.</p>
@@ -120,6 +131,9 @@
             </div>
         </div>
         <style>
+            .s1 .video{
+                padding: 40px 20px 20px 20px;
+            }
             .msj-box {
                 background-color: #efefef;
                 border: solid 1px #d5d5d5;
@@ -336,9 +350,11 @@
             /* font-size: 45px; */
             font-size: 38px;
         }
+
         .s1 .img-map {
             height: 200px;
         }
+
         .s1 .box-parrafos {
             padding: 30px;
             column-count: 2;
@@ -354,20 +370,23 @@
             column-count: 2;
             column-gap: 60px;
         }
+
         .enfasis {
             font-size: 60px;
         }
+
         .encabezado .box-titulo h3 {
             font-size: 40px;
         }
+
         .enfasis2 {
             font-size: 45px;
         }
+
         .s1 .img-map {
             height: 260px;
         }
-        
-    }
 
+    }
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
