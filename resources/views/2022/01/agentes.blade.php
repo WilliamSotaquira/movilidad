@@ -317,8 +317,10 @@
         .nav>li>a:focus,
         .nav>li>a:hover {
             text-decoration: none;
-            background-color: #bed000 !important;
-            border-bottom: solid 6px #929292 !important;
+            /* background-color: #bed000 !important;
+            border-bottom: solid 6px #929292 !important; */
+            background-color: #2a2e4b !important;
+            border-bottom: solid 6px #bed000 !important;
         }
 
 
@@ -336,21 +338,25 @@
             border-radius: 0px;
             font-weight: 700;
             border-bottom: solid 6px #1f223e;
+            text-align: center;
         }
 
         .s2 .nav-tabs>li a:hover {
-            color: #1f223e;
+            /* color: #1f223e; */
+            color: rgba(255, 255, 255, 1);
         }
 
         .nav-tabs>li.active>a,
         .nav-tabs>li.active>a:focus,
         .nav-tabs>li.active>a:hover {
-            color: #bed000 !important;
+            color: rgba(31, 34, 62, 1) !important;
+            background-color: rgba(190, 208, 0, 1) !important;
             cursor: default;
-            background-color: #1f223e !important;
-            border: 1px solid #bed000 !important;
-            border-bottom: solid 6px #bed000 !important;
+            border: 1px solid #d5d5d5 !important;
+            border-bottom: solid 6px #d5d5d5 !important;
             border-bottom-color: transparent;
+
+            /* background-color: #1f223e !important; */
         }
 
 
@@ -468,7 +474,7 @@
     }
 
     .atc_enc_res .res_txt {
-        height: 300px;
+        height: 365px;
         padding: 15px;
         display: flex;
         flex-direction: column;
@@ -478,7 +484,7 @@
     }
 
     .atc_enc_res .res_txt p {
-        text-align: justify;
+        text-align: left;
         color: #1f223e;
         font-size: 15px;
     }
