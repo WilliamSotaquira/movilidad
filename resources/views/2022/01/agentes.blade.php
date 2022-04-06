@@ -147,7 +147,7 @@
                     <a class="parrafo" href="#agentes" aria-controls="agentes" role="tab" data-toggle="tab">
                         <div class="btn-nav">
                             <div class="img-nav">
-                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta2.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
                             </div>
                             <div>
                                 ¿Cómo identificar a los Agentes Civiles de Tránsito?
@@ -159,7 +159,7 @@
                     <a class="parrafo" href="#controles" aria-controls="controles" role="tab" data-toggle="tab">
                         <div class="btn-nav">
                             <div class="img-nav">
-                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta1.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
+                                <img class='img-responsive w-100 ' height="50px" src='/images/agente/Icono_Pregunta3.svg' alt='Icono funciones Agentes Civiles de Tránsito' title='Icono funciones Agentes Civiles de Tránsito'>
                             </div>
                             <div>
                                 ¿Cómo se realizará el control de los Agentes de Tránsito Civiles?
@@ -204,11 +204,11 @@
                         height: 160px !important;
                     }
 
-                    .s2 .nav-tabs>li a:visited  {
+                    .s2 .nav-tabs>li a:visited {
                         background-color: #929292;
                     }
 
-   
+
                 }
             </style>
 
@@ -317,10 +317,16 @@
         .nav>li>a:focus,
         .nav>li>a:hover {
             text-decoration: none;
+            background-color: #bed000 !important;
+            border-bottom: solid 6px #929292 !important;
             /* background-color: #bed000 !important;
             border-bottom: solid 6px #929292 !important; */
             background-color: #2a2e4b !important;
             border-bottom: solid 6px #bed000 !important;
+        }
+
+        .nav>li>a {
+            padding: 15px !important;
         }
 
 

@@ -567,11 +567,11 @@
 
         .carousel-indicators li {
             background-color: rgba(190, 208, 0, 1) !important;
-            border: 1px solid rgba(31, 34, 62, 1) !important;
+            border: 1px solid rgba(190, 208, 0, 1) !important;
         }
 
         .carousel-indicators {
-            bottom: -30px !important;
+            bottom: -45px !important;
         }
 
         .carousel-indicators .active {
@@ -579,6 +579,8 @@
             height: 14px !important;
             margin: 0px !important;
             background-color: rgba(31, 34, 62, 1) !important;
+            border: 1px solid rgba(31, 34, 62, 1) !important;
+
         }
     </style>
     <div class="footer-box">
@@ -653,6 +655,7 @@
         }
     </style>
 </div>
+<br>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 

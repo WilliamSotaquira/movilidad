@@ -186,7 +186,7 @@
 
         .pilares .nav-box .titulo-nav {
             background-color: rgba(190, 208, 0, 1);
-            height: 50px;
+            height: 100px;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -513,8 +513,8 @@
         .s2 .nav>li>a:focus,
         .s2 .nav>li>a:hover {
             text-decoration: none;
-            background-color: #bed000 !important;
-            border-bottom: solid 6px #929292 !important;
+            background-color: #2a2e4b !important;
+            border-bottom: solid 6px #bed000 !important;
         }
 
 
@@ -538,18 +538,20 @@
         }
 
         .s2 .nav-tabs>li a:hover {
-            color: #1f223e;
+            /* color: #1f223e; */
+            color: rgba(255, 255, 255, 1);
         }
 
         .s2 .nav-tabs>li.active>a,
         .s2 .nav-tabs>li.active>a:focus,
         .s2 .nav-tabs>li.active>a:hover {
-            color: #bed000 !important;
+            color: rgba(31, 34, 62, 1) !important;
+            background-color: rgba(190, 208, 0, 1) !important;
             cursor: default;
-            background-color: #2A2F4C !important;
-            border: 1px solid #bed000 !important;
-            border-bottom: solid 6px #bed000 !important;
-            border bottom-color: transparent;
+            border: 1px solid #d5d5d5 !important;
+            border-bottom: solid 6px #d5d5d5 !important;
+            border-bottom-color: transparent;
+            /* background-color: #1f223e !important; */
         }
 
         .s2 .tab-content {
@@ -570,7 +572,7 @@
             font-size: 24px;
             font-weight: 700;
             text-align: center;
-            line-height: 1.4;
+            line-height: 1.2;
             color: rgba(31, 34, 62, 1);
             margin: 0px;
             padding: 15px;
@@ -635,8 +637,7 @@
             background-position: top center;
             height: 600px;
             margin: 15px;
-            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+
         }
 
         .img2 {
@@ -645,8 +646,7 @@
             background-repeat: no-repeat;
             background-position: top center;
             height: 350px;
-            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+
 
         }
 
@@ -656,8 +656,9 @@
             background-repeat: no-repeat;
             background-position: top right;
             height: 350px;
-            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            background-position: -120px 0px;
+
+
         }
 
         .img4 {
@@ -666,8 +667,7 @@
             background-repeat: no-repeat;
             background-position: top right;
             height: 197px;
-            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+
         }
     </style>
     <div class="s3">
@@ -777,7 +777,7 @@
     }
 
     .atc_enc_res .res_txt {
-        height: 380px;
+        height: 400px;
         padding: 15px;
         display: flex;
         flex-direction: column;
@@ -789,7 +789,7 @@
     .atc_enc_res .res_txt p {
         font-size: 16px;
         font-weight: normal;
-        text-align: justify;
+        text-align: left;
         line-height: 1.5;
         color: rgba(31, 34, 62, 1);
     }
@@ -805,11 +805,6 @@
         margin-bottom: 15px;
     }
 
-
-    .res_video .embed-responsive-16by9 {
-        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-    }
 
     @media(max-width:767px) {}
 
@@ -923,12 +918,16 @@
 
         .img3 {
             height: 575px;
-            background-position: -330px 0px;
+            background-position: -350px 0px;
         }
 
         .img4 {
             height: 320px;
         }
+        .pilares .nav-box .titulo-nav {
+            height: 60px;
+        }
+  
 
     }
 
@@ -963,6 +962,8 @@
 
         .img3 {
             height: 360px;
+            background-position: -130px 0px;
+
         }
 
         .img4 {
@@ -1005,6 +1006,7 @@
 
         .img3 {
             height: 450px;
+            background-position: -210px 0px;
         }
 
         .img4 {
