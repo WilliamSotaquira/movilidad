@@ -1986,7 +1986,7 @@
                                             </div>
                                             <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                                 <div class='panel-body'>
-                                                    <!-- <div class='col-xs-12'>
+                                                    <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-06_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
@@ -1998,7 +1998,7 @@
                                                                 </div>
                                                             </div>
                                                         </a>
-                                                    </div> -->
+                                                    </div>
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-05_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
