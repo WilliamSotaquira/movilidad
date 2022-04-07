@@ -183,3 +183,4 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     // Contenido Ajustado en marzo 2022
 
     Route::view('/2022/04/contraflujo', '2022/04/contraflujo');
+    Route::view('/2022/04/milagros', '2022/04/milagros');
