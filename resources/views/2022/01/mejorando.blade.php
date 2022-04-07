@@ -1987,6 +1987,19 @@
                                             <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                                 <div class='panel-body'>
                                                     <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/2022-04-07_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 74</h4>
+                                                                    <i>jueves, 7 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Así funciona el contraflujo en la Av. de las Américas para descongestionar el occidente de Bogotá. La UMV apoyó la implementación del nuevo carril de contraflujo en la Avenida de las Américas para descongestionar el occidente de la ciudad, y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-06_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
