@@ -54,7 +54,7 @@
 <div class="row">
     <!--carrusel largo -->
     <div class="col-sm-12 hidden-xs">
-        <div class="carousel slide" data-ride="carousel" id="carousel_banner_lg">
+        <div class="carousel slide" data-ride="carousel" id="carousel_banner_lg" data-interval="10000">
             <ol class="carousel-indicators">
                 <li class="active" data-slide-to="0" data-target="#carousel_banner_lg">&nbsp;</li>
                 <li data-slide-to="1" data-target="#carousel_banner_lg">&nbsp;</li>
@@ -68,7 +68,7 @@
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Clic aqui para ir a Notificaciones Procesos Disciplinarios" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_sm.png" title="Clic aqui para ir a Notificaciones Procesos Disciplinarios"></a></div>
-                <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/banner_conoce_propone_y_prioriza.jpg" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
+                <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_lg.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-10-2021/banner_antisoborno_micrositio-02_1.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/RoadSafetyLab"><img alt="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-10-2021/roadsafetylab_1921x321.jpg" title="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/nueva-concesion-tramites-servicios-movilidad"><img alt="Concesión de Tramites y Servicios de Movilidad" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-09-2021/concesion_tramites_sm_0.png" title="Concesión de Tramites y Servicios de Movilidad"></a></div>
@@ -84,7 +84,7 @@
 
     <!-- carrusel en contenedor slider para dispositivos móviles -->
     <div class="col-xs-12 visible-xs-12 visible-xs-block">
-        <div class="carousel slide" data-ride="carousel" data-interval="12000" id="carousel-sdm-xs">
+        <div class="carousel slide" data-ride="carousel" id="carousel-sdm-xs" data-interval="10000">
             <ol class="carousel-indicators">
                 <li class="active" data-slide-to="0" data-target="#carousel-sdm-xs">&nbsp;</li>
                 <li data-slide-to="1" data-target="#carousel-sdm-xs">&nbsp;</li>
@@ -94,9 +94,11 @@
                 <li data-slide-to="5" data-target="#carousel-sdm-xs">&nbsp;</li>
                 <li data-slide-to="6" data-target="#carousel-sdm-xs">&nbsp;</li>
                 <li data-slide-to="7" data-target="#carousel-sdm-xs">&nbsp;</li>
+                <li data-slide-to="8" data-target="#carousel-sdm-xs">&nbsp;</li>
             </ol>
             <div class="carousel-inner" role="listbox">
                 <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Clic aqui para ir a " class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_xs.png" title="" Clic aqui para ir a Notificaciones Procesos Disciplinario"></a></div>
+                <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_xs.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion"><img alt="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-08-2021/banner_t-a-a_anticorrupcion_900.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/RoadSafetyLab"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-10-2021/roadsafetylab_901x300.jpg" title="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/nueva-concesion-tramites-servicios-movilidad"><img alt="Concesión de Tramites y Servicios de Movilidad" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-09-2021/concesion_tramites_xs_0.png" title=""></a></div>
