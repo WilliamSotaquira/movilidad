@@ -3,64 +3,52 @@
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
-<div class='container-fluid prueba'>
-    <div class='s2'>
+<div class='container-fluid box-carrusel'>
+    <div class='carrusel'>
         
-<div class="row">
-
-    <div class='col-xs-12'>
-        <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-24_boletinbem.pdf">
-            <div class="btn-boletin">
-                <div class="titulo-boletin">
-                    <h4>BOLETÍN 23</h4>
-                    <i>Lunes, 24 de Enero de 2022</i>
+        <div id="carousel-id" class="carousel slide" data-ride="carousel" data-interval="10000">
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-id" data-slide-to="0" class=""></li>
+                <li data-target="#carousel-id" data-slide-to="1" class=""></li>
+                <li data-target="#carousel-id" data-slide-to="2" class="active"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item">
+                    <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:First slide" alt="First slide" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iIzc3NyI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjQ1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojN2E3YTdhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjU2cHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+Rmlyc3Qgc2xpZGU8L3RleHQ+PC9zdmc+">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Example headline.</h1>
+                            <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
+                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+                        </div>
+                    </div>
                 </div>
-                <div class="descripcion-boletin">
-                    <p>El Plan de Choque llegó al sector de Timiza en Kennedy para mejorar el estado de sus calles. Grupo 2: Entre Avenida Bosa y Avenida Villavicencio Afectaciones viales por Avance de Av. Guayacanes. Álvaro Rengifo, nuevo gerente de TRANSMILENIO S.A. Y más.</p>
+                <div class="item">
+                    <img data-src="holder.js/900x500/auto/#666:#6a6a6a/text:Second slide" alt="Second slide" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iIzY2NiI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjQ1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojNmE2YTZhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjU2cHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+U2Vjb25kIHNsaWRlPC90ZXh0Pjwvc3ZnPg==">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Another example headline.</h1>
+                            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item active">
+                    <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDAiIGhlaWdodD0iNTAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjUwMCIgZmlsbD0iIzU1NSI+PC9yZWN0Pjx0ZXh0IHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjQ1MCIgeT0iMjUwIiBzdHlsZT0iZmlsbDojNWE1YTVhO2ZvbnQtd2VpZ2h0OmJvbGQ7Zm9udC1zaXplOjU2cHg7Zm9udC1mYW1pbHk6QXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWY7ZG9taW5hbnQtYmFzZWxpbmU6Y2VudHJhbCI+VGhpcmQgc2xpZGU8L3RleHQ+PC9zdmc+">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>One more for good measure.</h1>
+                            <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </a>
-    </div>
-   
-    <div class='col-xs-12'>
-        <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-24_boletinbem.pdf">
-            <div class="btn-boletin">
-                <div class="titulo-boletin">
-                    <h4>BOLETÍN 23</h4>
-                    <i>Lunes, 24 de Enero de 2022</i>
-                </div>
-                <div class="descripcion-boletin">
-                    <p>El Plan de Choque llegó al sector de Timiza en Kennedy para mejorar el estado de sus calles. Grupo 2: Entre Avenida Bosa y Avenida Villavicencio Afectaciones viales por Avance de Av. Guayacanes. Álvaro Rengifo, nuevo gerente de TRANSMILENIO S.A. Y más.</p>
-                </div>
-            </div>
-        </a>
-    </div>
-
-</div>
-<div>
-    <!-- collapse -->
-    <div class='panel panel-default'>
-        <div class='panel-heading' role='tab' id='heading'>
-            <h4 class='panel-title'>
-                <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse' aria-expanded='true' aria-controls='collapse'>
-                    Demo
-                </a>
-            </h4>
+            <a class="left carousel-control" href="#carousel-id" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+            <a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
         </div>
-        <div id='collapse' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading'>
-            <div class='panel-body'>
-                
-            </div>
-        </div>
+        
     </div>
-    <!-- /#fin  -->
-</div>
-
-
-    </div>
-    
-
-    
 </div>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -77,14 +65,14 @@
         overflow:hidden;
     }
 
-    .prueba {
+    .box-acordeon {
         font-size: 13px !important;
         line-height: 1.4 !important;
         max-width: 980px;
     }
 
 /*
-    .prueba [class*='col-'] {
+    .box-acordeon [class*='col-'] {
         margin: 0px;
         padding: 0px;
         border: 0;
@@ -98,80 +86,11 @@
         width: 100%;
     }
 
-    
-
-    .s2 .btn-boletin {
-        padding: 10px;
-        /* border: solid 2px #f4b300; */
-        border-radius: 1px;
-        margin: 1% 5%;
-        /* height: 100px; */
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        background-color: #eeeeee;
-
-        border: 2px transparent solid;
-        border-image: -webkit-linear-gradient(left, #c9171950, #f4b30050) 1 10;
-
-
-    }
-
-    .s2 .btn-boletin:hover {
-        border: solid 2px #c91719;
-        background-color: #c5c5c5;
-    }
-
-
-
-    .s2 .btn-boletin .titulo-boletin {
-        padding-bottom: 8px;
-    }
-
-    .s2 .btn-boletin .titulo-boletin h4 {
-        margin: 5px 0px 5px 0px;
-        padding: 0px;
-        margin: 0px;
-        font-size: 16px;
-        font-weight: 700;
-        text-align: justify;
-        line-height: 1.2;
-        color: rgba(25, 25, 25, 1);
-
-    }
-
-    .s2 .btn-boletin .titulo-boletin i {
-        margin: 0px;
-        padding: 0px 0px 5px 0px;
-
-    }
-
-    .s2 .btn-boletin .descripcion-boletin {
-        padding: 0px;
-        height: 20px;
-        white-space: nowrap; 
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-    .s2 .btn-boletin .descripcion-boletin p {
-        text-align: justify;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-    .s2 .enlace {
-        text-decoration: none;
-        color: #252525;
-    }
-
-
-    .s2 .descripcion-boletin {
-        /* padding: 8%; */
-        padding: 4%;
-    }
-
-
-
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
+<script>
+    $('#carousel-id').carousel({
+  interval: 2000
+})
+</script>
