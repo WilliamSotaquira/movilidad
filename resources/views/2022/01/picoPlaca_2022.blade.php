@@ -30,8 +30,8 @@
     <div class="s2">
         <div class='row'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-03-2022/volante.webp" target="_blank" rel="noopener noreferrer">
-                    <img class='img-responsive bs w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-03-2022/volante.webp' alt='Volante del Pico y Placa Regional 2022' title='Volante del Pico y Placa Regional 2022'>
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-04-2022/volante_20220409.png" target="_blank" rel="noopener noreferrer">
+                    <img class='img-responsive bs w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-04-2022/volante_20220409.png' alt='Volante del Pico y Placa Regional 2022' title='Volante del Pico y Placa Regional 2022'>
                 </a>
                 <!-- <div class='row'>
                     <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
@@ -58,7 +58,6 @@
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pp' href='#collapse' aria-expanded='true' aria-controls='collapse'>
                                         Pico y Placa Regional
-                                        <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>
                                     </a>
                                 </h4>
                             </div>
@@ -193,7 +192,6 @@
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pp' href='#collapseBogota' aria-expanded='true' aria-controls='collapseBogota'>
                                         Pico y Placa Extendido en días hábiles en Bogotá
-                                        <span class="glyphicon glyphicon-triangle-right" aria-hidden="true"></span>
                                     </a>
                                 </h4>
                             </div>
