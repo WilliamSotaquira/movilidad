@@ -1979,13 +1979,78 @@
                                         <div class='panel panel-default'>
                                             <div class='panel-heading' role='tab' id='heading_abr22'>
                                                 <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse_abr22' aria-expanded='true' aria-controls='collapse_abr22'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionPRIN' href='#collapse_abr22' aria-expanded='true' aria-controls='collapse_abr22'>
                                                         Boletines abril 2022
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                                 <div class='panel-body'>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-04-2022/2022-04-18_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 79</h4>
+                                                                    <i>lunes, 18 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Tres nuevos servicios zonales para beneficio de los usuarios del Sistema de Transporte de Bogotá. La señalización en obra está diseñada para la seguridad de todos los actores viales, y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-04-2022/2022-04-13_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 78</h4>
+                                                                    <i>miércoles, 13 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Conozca el cierre del carril oriental sentido Sur- Norte de la av. Carrera 68 entre calle 27 sur y transversal 53. La UMV mejoró la malla vial de un sector del barrio Santa Bibiana, Usaquén, y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-04-2022/2022-04-12_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 77</h4>
+                                                                    <i>martes, 12 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La UMV adelanta obras de mejoramiento de la ciclorruta del Canal Fucha. Entraron en operación nuevos vagones de las estaciones Polo y Santa Isabel.  Cambio de horario de atención en los Puntos IDU, y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2022/2022-04-11_boletinlbqem.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 76</h4>
+                                                                    <i>lunes, 11 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Avanza la reparación de la Autopista Norte. Durante los tres primeros meses del año la UMV realizó más del 60% del trabajo para tapar huecos efectuado en 2021. La lectura se mueve en TransMilenio, mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2022/2022-04-08_boletinlbqem.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 75</h4>
+                                                                    <i>viernes, 8 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Entre Carrera 7 y Autopista Norte Habrá traslado de paraderos SITP en el costado oriental. 74 capturas y más de 1.500 armas blancas incautadas deja el primer mes de la estrategia #MásDe25MilOjosAtentos, y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/2022-04-07_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                             <div class='btn-boletin'>
