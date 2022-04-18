@@ -141,7 +141,7 @@
                            <li><a href="https://www.movilidadbogota.gov.co/web/funcionarios" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.5.</span>Directorio de servidores públicos, empleados o contratistas</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/directorio_entidades" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.6.</span>Directorio de entidades</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-12-2021/agremiaciones_actualizado_julio_-_diciembre_2021_web.xlsx" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.7.</span>Directorio de agremiaciones o asociaciones en las que participe</a></li>
-                           <li><span class="enfasis_num">1.8.</span>Servicio al público, normas, formularios y protoculos de atención
+                           <li><span class="enfasis_num">1.8.</span>Servicio al público, normas, formularios y protocolos de atención
                               <ul>
                                  <li><a href="https://www.movilidadbogota.gov.co/web/preguntas_frecuentes" rel="noopener noreferrer" target="_blank">Preguntas y respuestas frecuentes</a></li>
                                  <li><a href="https://www.movilidadbogota.gov.co/web/derechos_y_deberes_de_los_ciudadanos" rel="noopener noreferrer" target="_blank">Derechos y Deberes de los Ciudadanos</a></li>
