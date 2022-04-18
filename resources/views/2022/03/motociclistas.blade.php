@@ -2,7 +2,7 @@
 @section('contenido')
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
+<br>
 <div class='container-fluid seccion'>
     <div class="encabezado">
         <div class='row'>
@@ -89,7 +89,7 @@
         </div>
         <div class='row'>
             <div class='col-xs-12 col-sm-4 col-sm-offset-4'>
-                <a href="https://bit.ly/3uj6UWD">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeK8cQXtWxIviPmq9pTXLYCd02enEMHnAwvn7S6Rq08b-gXrQ/closedform">
                     <div>
                         <div class="btn-form">
                             Inscribete aquí
