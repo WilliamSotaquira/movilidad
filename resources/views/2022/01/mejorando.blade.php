@@ -1986,6 +1986,32 @@
                                             </div>
                                             <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                                 <div class='panel-body'>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-20_boletinlbqec_0.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 81</h4>
+                                                                <i>miércoles, 20 de abril de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>El paso peatonal Paseo de Meissen se encuentra en un 60% de avance. Trabajos de conservación en el espacio público. Servicio zonal T16 pasa a llamarse A324 Perseverancia – K324 Refugio. Y mucho más.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-19_boletinlbqec_0.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 80</h4>
+                                                                    <i>martes, 19 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Durante el primer trimestre de 2022 la UMV tapó 2.538 huecos en la localidad de Tunjuelito. Cierre total del andén y del carril Sur de la Calle 116 entre las carreras 14 y 14A. 240 armas blancas incautadas durante Semana Santa en el Sistema de Transporte de Bogotá. Y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-04-2022/2022-04-18_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
