@@ -184,3 +184,4 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
 
     Route::view('/2022/04/contraflujo', '2022/04/contraflujo');
     Route::view('/2022/04/milagros', '2022/04/milagros');
+    Route::view('/2022/04/prevencionVial', '2022/04/prevencionVial');
