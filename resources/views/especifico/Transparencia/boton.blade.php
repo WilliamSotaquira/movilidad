@@ -35,7 +35,7 @@
 
    <div class="video">
       <div class="row">
-         <div class="col-xs-8 col-xs-offset-2">
+         <div class="col-xs-10 col-xs-offset-1">
             <div class="embed-responsive embed-responsive-16by9 bs">
                <video controls="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-08-2021/video_menu_transparencia.mp4" type="video/mp4" width="560" height="315">&nbsp;</video>
             </div>
@@ -129,7 +129,7 @@
                         <p class="p-panel">En esta sección encontrará información relevante sobre la entidad sus funciones, procesos, directorios, calendario de actividades, entes que los vigilan, hojas de vida, entre otros.</p>
                         <ol>
                            <li><span class="enfasis_num">1.1.</span>Misión, visión, funciones y deberes
-                           
+
                               <ul>
                                  <li><a href="https://www.movilidadbogota.gov.co/web/mision" rel="noopener noreferrer" target="_blank">Plan Estratégico / Misión y Visión.</a></li>
                                  <li><a href="https://www.movilidadbogota.gov.co/web/Funciones_deberes" rel="noopener noreferrer" target="_blank">Funciones y Deberes</a></li>
@@ -196,7 +196,7 @@
                                     </li>
                                     <li><span class="enfasis_num">2.1.6.</span>Agenda Regulatoria
                                        <ul>
-                                          <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/agenda_regulatoria_actualizada_sdm_11_03_2022.xlsx" rel="noopener noreferrer" target="_blank">Agenda Regulatoria 2022</a></li>
+                                          <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2022/agenda_regulatoria_actualizada_sdm_8_04_2022.xlsx" rel="noopener noreferrer" target="_blank">Agenda Regulatoria 2022</a></li>
                                           <li><a href="https://www.movilidadbogota.gov.co/web/proyecto_de_agenda_regulatoria_2022">Proyecto Agenda Regulatoria 2022</a></li>
                                        </ul>
                                     </li>
@@ -260,7 +260,16 @@
                            <li><a href="https://www.movilidadbogota.gov.co/formulario/formulario.php" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.2.</span>Publicación de la información contractual</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/procesos_de_contratacion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.3.</span>Publicación de la ejecución de los contratos</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/manuales_de_contratacion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.4.</span>Manual de contratación, adquisición y/o compras</a></li>
-                           <li><a href="#"><span class="enfasis_num">3.5.</span>Formatos o modelos de contratos o pliegos tipo</a></li>
+                           <li><span class="enfasis_num">3.5.</span>Formatos o modelos de contratos o pliegos tipo
+                              <div class="box-blockquote">
+                                 <blockquote>
+                                    <p>Corresponde a la Agencia Nacional de Contratación Pública, Colombia Compra Eficiente, o a quien haga sus veces adoptar "documentos tipo que serán de obligatorio cumplimiento en la actividad contractual de todas las entidades sometidas al Estatuto General de Contratación de la Administración Pública", de conformidad con lo establecido en el parágrafo 7 del artículo 2 de la Ley 1150 de 2007, que fue adicionado por el artículo 4 de la Ley 1882 de 2018.</p>
+                                    <p>Los documentos tipo adoptados pueden ser consultados en la <a href="https://www.colombiacompra.gov.co/documentos-tipo/documentos-tipo">Agencia Nacional de Contratación Pública Colombia Compra Eficiente</a>.</p>
+                                 </blockquote>
+                              </div>
+
+
+                           </li>
                         </ol>
                      </div>
                   </div>
@@ -365,17 +374,13 @@
                         <ol>
                            <li><a href="#"><span class="enfasis_num">6.1.</span>Participación para la identificación de problemas y diagnóstico de necesidades</a></li>
                            <li><a href="#"><span class="enfasis_num">6.2.</span>Planeación y/o presupuesto participativo</a></li>
-                           <li><a href="https://www.movilidadbogota.gov.co/web/participacion-formulacion-politicas" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.3.</span>Participación y consulta ciudadana de proyectos, normas, políticas o programas</a></li>
+                           <li><a href="https://www.movilidadbogota.gov.co/web/planes_institucionales_y_estrategicos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.3.</span>Participación y consulta ciudadana de proyectos, normas, políticas o programas</a></li>
                            <li><span class="enfasis_num">6.4.</span>Colaboración e innovación abierta
                               <ul>
                                  <li><a href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza" rel="noopener noreferrer" target="_blank">Conoce, Propone y Prioriza</a></li>
                               </ul>
                            </li>
-                           <li><span class="enfasis_num">6.5.</span>Rendición de cuentas
-                              <ul>
-                                 <li><a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" rel="noopener noreferrer" target="_blank">Rendición de Cuentas Locales</a></li>
-                              </ul>
-                           </li>
+                           <li><span class="enfasis_num">6.5.</span><a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" rel="noopener noreferrer" target="_blank">Rendición de Cuentas</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/gestion_social" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.6.</span>Gestión Social</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.7.</span>Control ciudadano</a></li>
                         </ol>
@@ -552,8 +557,6 @@
 
 
 <style type="text/css">
-
-
    .w-100 {
       width: 100%;
    }
@@ -649,26 +652,44 @@
       margin-top: 6px;
    }
 
-   .s2 li a{
+   .s2 li a {
       font-size: 16px;
-      font-weight: 500 ;
+      font-weight: 500;
       text-align: justify;
       line-height: 1.4;
       color: rgba(25, 25, 25, 1);
       text-decoration: none;
-      
+
    }
-   
-   .s2 li a:hover{
+
+   .s2 li a:hover {
       color: rgba(77, 84, 31, 1);
       font-weight: 700;
-   
+
    }
-   .s2 .enfasis_num{
+
+   .s2 .enfasis_num {
       font-weight: 700;
       color: rgba(0, 0, 0, 1);
       margin-right: 8px;
 
    }
-
+   .box-blockquote{
+      padding: 15px;
+   }
+   .box-blockquote blockquote{
+      font-size: 16px;
+      font-weight: normal;
+      text-align: justify;
+      line-height: 1.4;
+      color: rgba(25, 25, 25, 1);
+      border-left: 3px solid rgba(77, 84, 31, 1);
+   }
+.box-blockquote blockquote a{
+   font-size: 16px;
+   font-weight: 700;
+   text-align: justify;
+   line-height: 1.4;
+   color: rgba(25, 25, 25, 1);
+}
 </style>
