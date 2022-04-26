@@ -3,7 +3,7 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'> 
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 
@@ -42,7 +42,8 @@
     .w-100 {
         width: 100%;
     }
-    .s1 .logo-encabezado{
+
+    .s1 .logo-encabezado {
         padding: 15px 0px;
     }
 
@@ -59,7 +60,7 @@
         align-items: center;
     }
 
-    
+
     .s1 .img-encabezado {
         margin: 20px 8%
     }
@@ -570,7 +571,7 @@
         background-color: rgba(69, 81, 34, 1);
         color: #fff !important;
     }
-    
+
     .boxbtnbem:hover,
     .boxbtnbem:active {
         background-color: rgba(228, 238, 187, 1);
@@ -978,7 +979,8 @@
         .s2 .box-boletines .panel-default>.panel-heading {
             background-color: #fff;
         }
-        .s2 .box-boletines .panel-default>.panel-heading h4{
+
+        .s2 .box-boletines .panel-default>.panel-heading h4 {
             font-size: 16px;
             font-weight: 500;
             text-align: left;
@@ -1967,11 +1969,6 @@
 
                             <div class="box-boletines">
                                 <div class='row'>
-
-
-
-
-
                                     <!-- collapse_boletines21 -->
                                     <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
@@ -1986,19 +1983,59 @@
                                             </div>
                                             <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                                 <div class='panel-body'>
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-20_boletinlbqec_0.pdf'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 81</h4>
-                                                                <i>miércoles, 20 de abril de 2022</i>
+                                                    
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-25_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 84</h4>
+                                                                    <i>lunes, 25 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>En Usme la UMV adelanta trabajos de bioingeniería para garantizar la conectividad de vías rurales. Obras de mantenimiento vial en la localidad de San Cristóbal. #LaBogotáQueEstamosConstruyendo Antes de salir de casa, consulta Waze o TransMiApp para conocer la mejor ruta a tu destino ¡Muévete bien informado! Síguenos en Twitter @BogotaTransito En el barrio San Rafael de la localidad de San Cristóbal comenzaron la obras de mantenimiento periódico con el fin de mejorar el estado actual de estas vías. Las actividades consisten en el sello de fisuras, reparación, limpieza y reposición de las losas deterioradas, entre otras. Será intervenida la Carrera 15 C este entre calles 58 Sur y 61 Sur, y en la Carrera 15 A Este entre calles 57 A Sur y 58 Sur, donde habrá cierre total de calzada para actividades de mantenimiento periódico las 24 horas. La localidad de San Cristóbal, en el suroriente de Bogotá, cuenta con más de 394.000 habitantes quienes se verán beneficiados de estas obras. La Unidad de Mantenimiento Vial está con la comunidad de Usme. En esta localidad la UMV realiza trabajos de bioingeniería en siete sitios priorizados en el Anillo Vial, con el fin de garantizar la conectividad en vías rurales donde hay taludes y laderas que presentan problemas por derrumbes, conocidos técnicamente como procesos de remoción en masa. BOLETÍN 25 DE ABRIL DE 2022 De acuerdo con Jairo Augusto Rojas, ingeniero experto en bioingeniería de suelos encargado de la ejecución de estos trabajos, la bioingeniería es alternativa a las obras duras como muros de contención que, además de ser demasiado costosos, dificultan su implementación por ser una zona de manejo ambiental especial donde nace el río Tunjuelo, en la cuenca alta del río Bogotá, siendo un páramo donde la comunidad hace el esfuerzo por conservar el medio ambiente. “La bioingeniería es muy amigable con el medio ambiente, pues no genera residuos, no genera escombros y lo que busca es el proceso de revegetalización o restauración natural del suelo”, señaló Rojas. En estas obras se utilizan dos insumos, guadua y el material vegetal, y mano de obra de personas de la comunidad, quienes en lugar de usar maquinaria pesada emplean herramientas manuales (picas, palas, hoyadoras). De acuerdo con Jorge Navarro Wolff, coordinador de estas obras, con el trabajo la Entidad está devolviéndole la conexión al Anillo Vial de Usme que arranca desde la Troncal Bolivariana y regresando a esta unos 8 km adelante, pasando por las veredas El Hato, Andes, La Unión, las Margaritas, sirviendo incluso como vía alterna a la misma. “Actualmente se están haciendo 7 obras de mantenimiento vial correctivo, pero también se aprovecha la presencia para hacer obras de carácter preventivo que no tienen mayores costos, pero sí importantes efectos”, aseguró Navarro Finalmente, este trabajo reviste una gran importancia ambiental y social, por ser obras biológicas que se incorporan al paisaje, que restauran el equilibrio natural del suelo al generar bosques de sucesión natural que reemplazan las obras bioingenieriles de madera, las cuales se incorporan al suelo al degradarse, desarrollando así un proceso de economía circular. Socialmente, involucran a la comunidad al contratar personas de la zona para hacer las obras, capacitándolos en la conservación de los suelos, aprendiendo a manejar el agua de escorrentía y así cuando se presente algún problema puedan realizar labores sencillas como: zanja de drenaje, limpieza de alcantarilla, mantenimiento de cunetas u obras con disipadores en madera, haciéndolos partícipes de las soluciones, que reducen el riesgo de accidentes, sobrecostos, en general afectaciones en su entorno y calidad de vida; por el contrario impactarán de forma positiva en sus labores diarias en armonía con el medio ambiente. ¡Tú también haces parte de la solución a los trancones de Bogotá!</p>
+                                                                </div>
                                                             </div>
-                                                            <div class='descripcion-boletin'>
-                                                                <p>El paso peatonal Paseo de Meissen se encuentra en un 60% de avance. Trabajos de conservación en el espacio público. Servicio zonal T16 pasa a llamarse A324 Perseverancia – K324 Refugio. Y mucho más.</p>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-22_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 83</h4>
+                                                                    <i>viernes, 22 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La UMV mejora el estado de importantes vías en la localidad de Puente Aranda. Idu inició trabajos de conservación vial en la localidad de Suba. Estación Calle 127 deja de operar temporalmente desde este sábado 23 de abril. </p>
+                                                                </div>
                                                             </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-21_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 82</h4>
+                                                                    <i>jueves, 21 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>IDU concluye mantenimiento en varias vías de Usaquén. Cierre temporal de un vagón de la estación Suba Calle 100 por obras. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-20_boletinlbqec_0.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 81</h4>
+                                                                    <i>miércoles, 20 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El paso peatonal Paseo de Meissen se encuentra en un 60% de avance. Trabajos de conservación en el espacio público. Servicio zonal T16 pasa a llamarse A324 Perseverancia – K324 Refugio. Y mucho más.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-19_boletinlbqec_0.pdf'>
                                                             <div class='btn-boletin'>
@@ -2046,7 +2083,7 @@
                                                                     <i>martes, 12 de abril de 2022</i>
                                                                 </div>
                                                                 <div class='descripcion-boletin'>
-                                                                    <p>La UMV adelanta obras de mejoramiento de la ciclorruta del Canal Fucha. Entraron en operación nuevos vagones de las estaciones Polo y Santa Isabel.  Cambio de horario de atención en los Puntos IDU, y mucho más.</p>
+                                                                    <p>La UMV adelanta obras de mejoramiento de la ciclorruta del Canal Fucha. Entraron en operación nuevos vagones de las estaciones Polo y Santa Isabel. Cambio de horario de atención en los Puntos IDU, y mucho más.</p>
                                                                 </div>
                                                             </div>
                                                         </a>
