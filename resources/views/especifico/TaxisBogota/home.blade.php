@@ -34,8 +34,8 @@
     <hr>
     <div class="row row-button p-md" style="width: 100%">
         <div class="container-fluid" style="width: 100%; height: 100%;">
-            <div class="col-sm-6 text-center p-xs"><a class="btn btn-lg div-button p-sm pt-a" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-04-09/directorio_taxi_0.jpg" style="vertical-align: middle; padding-top: 1.7rem;">Teléfonos para pedir un taxi</a></div>
-            <div class="col-sm-6 text-center p-xs"><a class="btn btn-lg div-button p-sm pt-a" href="https://www.movilidadbogota.gov.co/web/plataformas_tecnologicas_para_pedir_un_taxi" style="vertical-align: middle; padding-top: 1.05rem;">Plataformas tecnológicas habilitadas<br>para el servicio de taxi en Bogotá</a></div>
+            <div class="col-sm-6 col-sm-offset-3 text-center p-xs"><a class="btn btn-lg div-button p-sm pt-a" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-04-09/directorio_taxi_0.jpg" style="vertical-align: middle; padding-top: 1.7rem;">Teléfonos para pedir un taxi</a></div>
+            <!-- <div class="col-sm-6 text-center p-xs"><a class="btn btn-lg div-button p-sm pt-a" href="https://www.movilidadbogota.gov.co/web/plataformas_tecnologicas_para_pedir_un_taxi" style="vertical-align: middle; padding-top: 1.05rem;">Plataformas tecnológicas habilitadas<br>para el servicio de taxi en Bogotá</a></div> -->
         </div>
     </div>
     <hr>
