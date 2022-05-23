@@ -42,19 +42,26 @@
                 </div>
             </div>
             <div class='col-xs-12 col-sm-6 col-md-6'>
-                <div class='embed-responsive embed-responsive-4by3'>
-                    <iframe align='middle' class='embed-responsive-item' controls='' frameborder='0' scrolling='no' src='' width='100%'>&nbsp;</iframe>
+                <div class="box-video">
+                        <!-- <div class='embed-responsive embed-responsive-4by3'> -->
+                            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/3dl6d83tPFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <!-- </div> -->
                 </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class='col-xs-12 col-sm-12 col-md-12'>
+                <iframe src="https://docs.google.com/viewer?srcid=1wVGFA9uO7Fg8PdXGUW1RsSsBdhyUEO8n&pid=explorer&efh=false&a=v&chrome=false&embedded=true&scrollbar=0" width="100%" height="500px"></iframe>
             </div>
         </div>
         <div class='row'>
             <div class='col-xs-12'>
-                <div class="box-btn">
-                    <a class="btn-prevencion" href="http://">descargue aquí la programación en PDF</a>
-                </div>
+                <br>
+                <a download="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-05-2022/calendario_090522_.pdf" href="">Descargue aquí la programación en PDF</a>
             </div>
         </div>
     </div>
+
     <div class="s2">
         <div class='row'>
             <div class='col-xs-12'>
@@ -71,7 +78,7 @@
         <div class='row'>
             <div class='col-xs-12'>
                 <div class="box-btn">
-                    <a class="btn-prevencion" href="http://">Inscríbete aquí</a>
+                    <a class="btn-prevencion" href="https://docs.google.com/forms/d/e/1FAIpQLSfW32TbZE8sC0biQeJCgUI_5h4BstSSb3iN_UKVeXcP5oBPhg/viewform">Inscríbete aquí</a>
                 </div>
             </div>
         </div>
@@ -92,7 +99,7 @@
                             <li>Pasajeros: <strong>4</strong></li>
                         </ul>
                         <p><strong>Total</strong><br>124 actores viales fallecidos en el tránsito</p>
-                        <p class="text-center"><i>*Cifras con corte a 31 de marzo</i></p>
+                        <p class="text-center"><i>*Cifras preliminares con corte a 31 de marzo</i></p>
                     </div>
                 </div>
             </div>
@@ -108,6 +115,11 @@
         padding: 30px;
     }
 
+    .box-video {
+        padding: 20px;
+        height: 240px;
+    }
+
     .box-btn {
         padding: 25px;
         height: auto;
@@ -121,7 +133,7 @@
         background-color: #1c1d3c;
         padding: 15px 25px;
         color: #67df25;
-        font-size: 18px;
+        font-size: 1.2em;
         font-weight: 700;
         text-align: center;
         line-height: 1.2;
@@ -149,12 +161,54 @@
     }
 
     .paragraph-box {
-        font-size: 14px;
+        font-size: 1em;
         font-weight: normal;
         text-align: justify;
         line-height: 1.4;
         color: rgba(25, 25, 25, 1);
     }
+
+    .box-frame {
+        position: relative;
+        width: 100%;
+        height: 400px;
+    }
+
+    .responsive-iframe {
+        /* position: absolute; */
+        /* top: 0; */
+        /* left: 0; */
+        /* bottom: 0; */
+        /* right: 0; */
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+
+    .prevencionVial ul>li {
+        padding-top: 8px;
+    }
+</style>
+<style>
+    @media(max-width:767px) {}
+
+    @media(min-width:768px) {
+        .box-video {
+            height: 580px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    @media(min-width:992px) {
+        .box-video{
+            height: 460px;
+        }
+    }
+
+    @media(min-width:1200px) {}
 </style>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -172,7 +226,7 @@
     .prevencionVial {
         max-width: 980px;
         font-family: 'Montserrat', sans-serif;
-        font-size: 14px;
+        font-size: 15px;
         font-weight: normal;
         text-align: justify;
         line-height: 1.4;
