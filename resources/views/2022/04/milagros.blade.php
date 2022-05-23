@@ -56,8 +56,9 @@
     <div class="s1">
         <div class="box-parrafos">
             <div>
-                <p>Un reporte, apasionado e intrigante, lidera una investigación que pretende resolver el misterio detrás de unos fenómenos milagrosos que se vienen presentando en las vías bogotanas. Testigos señalan que siniestros viales que parecían inevitables de repente se corrigen y sus protagonistas tiene la oportunidad de evitarlos, reviviendo el momento y ajustando su comportamiento.</p>
-                <p>Dicha investigación es presentada en una emocionante serie de 10 episodios llamada <strong>MILAGROS BOGOTANOS.</strong></p>
+                <p>Josué Cuervo es un reportero apasionado e intrigante por conocer y entender los comportamientos que los diferentes ciudadanos asumen en las vías, por eso, decidió liderar una investigación que pretende resolver el misterio detrás de unos fenómenos milagrosos que se vienen presentando en las vías bogotanas.</p>
+                <p>Testigos señalan que algunos de los incidentes viales que parecían inevitables, de repente se corrigieron y sus protagonistas tuvieron la oportunidad de evitarlos, reviviendo el momento y ajustando su comportamiento en la vía.</p>
+                <p>Dicha investigación es presentada en una emocionante serie de 10 episodios llamada <strong>‘Milagros Bogotanos, estupor en la ruta’.</strong></p>
             </div>
         </div>
     </div>
@@ -107,7 +108,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/iNJhHKLQtWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/R6G7LKhs_-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +127,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/isuvfXCY5FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/BIJrEOkhCYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -149,7 +150,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/CKkWFwV4b6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/O8TwVdTaXdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -167,7 +168,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/o1fTPSzteXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/mQxQz_ZNvCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -189,7 +190,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/jjndapox7JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/1mQFj-tmgPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -207,7 +208,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/V9cuZSob60c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/oLDpNVNLyBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -229,7 +230,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/EutxssPcp_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/MCXkT-oDTWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -247,7 +248,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/nzEyBfUPZUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="100%" height="auto" src="https://www.youtube.com/embed/lpFk7F3KMU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -269,7 +270,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/2xE_Lrmx5so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/_4fbNcdq_3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -287,7 +288,7 @@
                             <div class="box-video">
                                 <div class="video">
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/Da_vTlOJCDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9CB1mR2-m1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -470,6 +471,9 @@
 
     @media(min-width:992px) {}
 
-    @media(min-width:1200px) {}
+    @media(min-width:1200px) {
+        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+    }
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
