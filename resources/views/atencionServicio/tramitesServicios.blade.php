@@ -44,7 +44,7 @@
         <div class="row">
 
 
-            <a data-toggle="modal" data-target="#modal_t1">
+            <a href="https://www.movilidadbogota.gov.co/web/atencion/cursos_pedagogicos_por_infraccion_a_las_normas_de_transito" target="_blank" rel="noopener noreferrer"></a>
                 <div class="recuadro-lg zoom col-xs-6 col-sm-4 col-md-6">
                     <!-- xs -->
                     <div class='visible-md-block visible-lg-block'>
@@ -60,7 +60,7 @@
                 </div>
             </a>
 
-            <a data-toggle="modal" data-target="#modal_t2">
+            <a href="https://www.movilidadbogota.gov.co/web/atencion/salida_de_patios_virtual">
                 <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t2.webp" alt="">
                     <h3 class="titulo">
@@ -96,7 +96,7 @@
                 </div>
             </a>
 
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.movilidadbogota.gov.co/web/atencion/acuerdos_de_pago" target="_blank" rel="noopener noreferrer">
                 <div class="recuadro-lg zoom col-xs-6 col-sm-4 col-md-6">
                     <!-- xs -->
                     <div class='visible-md-block visible-lg-block'>
@@ -112,7 +112,7 @@
                 </div>
             </a>
 
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.movilidadbogota.gov.co/web/atencion/excepcion_de_pico_y_placa" target="_blank" rel="noopener noreferrer">
                 <div class="recuadro-lg zoom col-xs-6 col-sm-4 col-md-6">
                     <!-- xs -->
                     <div class='visible-md-block visible-lg-block'>
@@ -155,7 +155,7 @@
                 </div>
             </a>
 
-            <a data-toggle="modal" data-target="#modal_t11">
+            <a href="https://www.movilidadbogota.gov.co/web/atencion/permiso_de_circulacion_para_carga_extrapesada_yo_extradimensionada">
                 <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-03-2022/cargapesada.webp" alt="">
                     <h3 class="titulo">
@@ -164,7 +164,7 @@
                 </div>
             </a>
 
-            <a data-toggle="modal" data-target="#modal_t12">
+            <a href="https://www.movilidadbogota.gov.co/web/atencion/consulta_en_linea_de_informacion_de_transito_y_transporte" target="_blank" rel="noopener noreferrer">
                 <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2021/t12.webp" alt="">
                     <h3 class="titulo">
