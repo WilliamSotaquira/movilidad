@@ -196,7 +196,7 @@
                         <h3>Alcance</h3>
                     </div>
                     <div class="parrafo">
-                        <p>El alcance para la implementación del Sistema de Gestión Ambiental bajo la norma ISO 14001 versión 2015, aplica para todos los procesos, actividades y la prestación del servicio de la entidad, y vincula las siguientes sedes: Sede Calle 13, Sede Paloquemao, Sede Almacén y Bodega Villa Alsacia, cumpliendo todos los requisitos legales y otros requisitos aplicables, mitigando los posibles impactos ambientales derivados de las actividades propias de la entidad.</p>
+                        <p>El alcance para la implementación del Sistema de Gestión Ambiental bajo la norma ISO 14001 versión 2015, aplica para las actividades y servicios desarrollados en los procesos de las sedes Calle 13, Paloquemao, Almacén y Bodega Villa Alsacia, dando cumplimiento a los requisitos legales y otros requisitos aplicables, mitigando los impactos ambientales asociados e influyendo en la mejora del desempeño ambiental y cumplimiento misional de la entidad.</p>
                     </div>
                     <div class="img3" alt="Imagen diagrama ciclo de PHVA" title="Imagen diagrama ciclo de PHVA">
 
@@ -361,8 +361,8 @@
             position: absolute;
             width: 500px;
             right: 560px;
-            bottom: 640px;
-            z-index: -1;
+            bottom: 648px;
+            z-index: 0;
         }
     </style>
 </div>
@@ -387,7 +387,7 @@
         line-height: 1.4 !important;
         max-width: 940px;
         font-family: 'Sora', sans-serif;
-        z-index: 100;
+        z-index: 0;
     }
 
     /*
@@ -409,6 +409,7 @@
     .encabezado {
         position: relative;
         background: linear-gradient(135deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/guadalupe_sga_0.webp');
+        z-index: -1;
     }
 
     .encabezado .imagen-descripcion {
