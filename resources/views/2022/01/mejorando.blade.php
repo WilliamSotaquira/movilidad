@@ -370,6 +370,7 @@
     .s2 .btn-boletin .titulo-boletin i {
         margin: 0px;
         padding: 0px 0px 5px 0px;
+        padding-top: 20px;
 
     }
 
@@ -1972,18 +1973,298 @@
                                     <!-- collapse_boletines21 -->
                                     <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
+                                        <!-- collapse_may22 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_may22'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_may22' aria-expanded='true' aria-controls='collapse_may22'>
+                                                        Boletines Mayo 2022
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_may22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_may22'>
+                                                <div class='panel-body'>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-23_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 104</h4>
+                                                                <i>lunes, 23 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La sede de producción de la UMV le abrió las puertas a estudiantes universitarios interesados en conocer el trabajo para mejorar las vías. Intervenciones en la Malla Vial Troncal de Suba. Entra en operación nuevo servicio alimentador en el Portal del Norte. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-20_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 103</h4>
+                                                                <i>viernes, 20 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Desde este sábado habrá cierre temporal del acceso norte de la estación Comuneros. Cinco cosas que debes saber acerca de la construcción de la Avenida Rincón. Parte del equipo directivo de la UMV visitó el nuevo laboratorio de suelos y pavimentos de la Universidad Militar Nueva Granada.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-19_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 102</h4>
+                                                                <i>jueves, 19 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>En este primer capítulo de #MilagrosBogotanos, un afanado conductor invade la ciclorruta y está a punto de cometer un error fatal. En la localidad de San Cristóbal la UMV ha tapado cerca de cuatro mil huecos y logrado la conservación de 8,68 km carril. Sede IDU cuenta con un módulo de atención preferencial. Dos rutas zonales tendrán cambios a partir del 23 de mayo. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-18_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 101</h4>
+                                                                <i>miércoles, 18 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Estación Calle 127 vuelve a prestar servicio. Vías con una nueva cara. La UMV ha tapado más de 1.800 huecos en siete barrios de las localidades de Santa Fe y La Candelaria. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-17_boletin_la_bogota_que_estamos_construyendo_1.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 100</h4>
+                                                                <i>martes, 17 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Con sus obras de arreglo de la malla vial la UMV beneficia a los comerciantes del barrio Batán, Suba. Mejoramos vías en la localidad de Puente Aranda. 26 personas fueron capturadas por las autoridades en el Sistema de Transporte. Respeta el espacio de los demás!. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-16_boletin_la_bogota_que_estamos_construyendo_1.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 99</h4>
+                                                                <i>lunes, 16 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Bogotá presentó su visión al 2040 en movilidad de cero y bajas emisiones. ¿Sabes en dónde consultar los proyectos que estamos construyendo en la ciudad? Entra en operación nuevo servicio zonal para beneficio de los usuarios del Sistema de Transporte de Bogotá</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-13_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 98</h4>
+                                                                    <i>viernes, 13 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>#LaBogotáQueEstamosConstruyendo !A partir de ahora el barrio San Felipe cuenta con más espacio público!  Construcción de la estación de TransMilenio Av. Suba Calle 100. La UMV participa de las actividades en el marco del Mes de Prevención Vial. Cambian las paradas de los servicios A52 y D22 en Portal del Sur. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-12_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 97</h4>
+                                                                    <i>jueves, 12 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La UMV tapó más de 1.500 huecos que afectaban el flujo vehicular en la carrera séptima. Atentos a los cambios y cierres en la Avenida 68. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-11_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 96</h4>
+                                                                    <i>miércoles, 11 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>#LaBogotáQueEstamosConstruyendo Lo que debes saber de las obras de prolongación de la Avenida El Rincón. Cierre de un carril y del separador de la Avenida Ciudad de Cali. Dos nuevos servicios zonales para beneficio de los usuarios del Sistema de Transporte de Bogotá. Resiliencia es la palabra que define a Martha Castañeda, auxiliar de tráfico que comenzó una nueva vida en Bogotá tras perder a toda su familia en Armero.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-10_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 95</h4>
+                                                                    <i>martes, 10 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La Avenida Boyacá tendrá tres nuevos puentes vehiculares. IDU adelanta trabajos de conservación y mantenimiento en calles y vías de la ciudad. Más de 19 mil personas se benefician con la reapertura de la estación Virrey. Así son los planes de manejo de tránsito que debe realizar la UMV previo al inicio de las obras de mantenimiento vial. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-09_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 94</h4>
+                                                                    <i>lunes, 9 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Nuevos Patio-talleres, ubicados en Cota, fortalecerán servicio de Transmilenio e impulsan la consolidación de Región Metropolitana.  Entre 40 y 50 colaboradores de la UMV trabajaron para habilitar el paso peatonal de Meissen. Cierres viales por construcción de redes secas y húmedas. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-06_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 93</h4>
+                                                                    <i>viernes, 6 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Se entrega nuevo paso peatonal de Meissen, que beneficiará a más de 22 mil ciudadanos de Tunjuelito y Ciudad Bolívar. En el mes de las madres la UMV reconoce la labor de las mujeres que tienen el privilegio de portar este título. Trabajos de conservación en la Calle 80. Dos rutas zonales tendrán cambios a partir del 9 de mayo.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-05_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 92</h4>
+                                                                    <i>jueves, 5 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>¡Otro sueño cumplido para la ciudad! Bogotá tendrá su sistema de bicicletas compartidas: serán 300 estaciones y 3.300 bicis públicas. Listo PMT para avanzar en la construcción del puente la Calle 3 con Avenida 68. La UMV intervino cerca de 1.000 m2 de malla vial en el barrio Santa Catalina, Kennedy. ¿Sabías que los nombres de las estaciones de la Calle Sexta son muiscas?</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-04_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 91</h4>
+                                                                    <i>miércoles, 4 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La UMV interviene la Avenida la Conejera que conecta al municipio de Cota con Bogotá. Cierres viales por obras en red peatonal Zona Rosa. Cinco avances de #LaBogotaQueEstamosConstruyendo que debes conocer. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2022/2022-05-03_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 90</h4>
+                                                                    <i>martes, 3 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La UMV da recomendaciones a los conductores y ciudadanía en general durante la temporada de lluvias que afronta Bogotá. En San Cristóbal iniciaron trabajos de conservación en el espacio público. Autoridades incautaron 477 armas blancas y capturaron 33 personas en flagrancia en el Sistema de Transporte. Maratón de actividades gratuitas para motociclistas durante el Mes de la Prevención Vial. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2022/2022-05-02_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 89</h4>
+                                                                    <i>lunes, 2 de mayo de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Avanza obra en la Avenida Ciudad de Cali. La UMV mejoró un importante tramo de la Avenida Ciudad de Cali. Nueva ruta zonal conecta a los usuarios con la Estación Calle 187. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /#fin _may22 -->
+
                                         <!-- collapse_abr22 -->
                                         <div class='panel panel-default'>
                                             <div class='panel-heading' role='tab' id='heading_abr22'>
                                                 <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionPRIN' href='#collapse_abr22' aria-expanded='true' aria-controls='collapse_abr22'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_abr22' aria-expanded='true' aria-controls='collapse_abr22'>
                                                         Boletines abril 2022
                                                     </a>
                                                 </h4>
+
                                             </div>
                                             <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                                 <div class='panel-body'>
-                                                    
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-04-2022/2022-04-29_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 88</h4>
+                                                                    <i>viernes, 29 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Mantenimiento en puente vehicular de la Avenida NQS con Avenida Calle 13. Prepárese para el cierre total de la calzada lenta de Calle 100 entre av. Carrera 11 y carrera 8A. El Director de la UMV compartió, en el XXII Simposio Colombiano sobre Ingeniería de Pavimentos, el trabajo de la entidad para mejorar las ciclorrutas. Dos nuevos servicios zonales para beneficio de los usuarios del Sistema de Transporte de Bogotá. </p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href=''>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 87</h4>
+                                                                    <i>jueves, 28 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Mantenimiento en vías de Tunjuelito. 11 soluciones de innovación tecnológica para la seguridad vial. Atención: el próximo sábado y domingo, TransMiCable ajustará su horario por mantenimiento. La UMV participó, junto con otras entidades, de una nueva jornada de socialización de gestión que se realizó en Engativá preventivo.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-04-2022/2022-04-27_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 86</h4>
+                                                                    <i>miércoles, 27 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Durante los primeros cuatro meses de 2022 la UMV ha tapado más de 200 mil mts2 de huecos. 531 armas blancas incautaron las autoridades en el Sistema de Transporte. #LaBogotáQueEstamosConstruyendo ¿Por qué parquear en zonas autorizadas es construir una mejor movilidad para todos?</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-04-2022/2022-04-26_boletinlbqec.pdf'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 85</h4>
+                                                                    <i>martes, 26 de abril de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Gracias al Consejo de Gobierno realizado en Puente Aranda, la UMV mejoró la malla vial de un tramo de la carrera 36. Cierres en el espacio público en puente vehicular de la avenida Ciudad de Quito con calle 13. Plan para reponer información en paraderos del SITP.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-25_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
