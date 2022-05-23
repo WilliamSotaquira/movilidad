@@ -372,7 +372,7 @@
                         <p class="p-panel">En esta sección encontrará información mecanismos de participación.</p>
 
                         <ol>
-                           <li><a href="#"><span class="enfasis_num">6.1.</span>Participación para la identificación de problemas y diagnóstico de necesidades</a></li>
+                           <li><a href="https://www.movilidadbogota.gov.co/web/participacion_para_la_identificacion_de_problemas_y_diagnostico_de_necesidades"><span class="enfasis_num">6.1.</span>Participación para la identificación de problemas y diagnóstico de necesidades</a></li>
                            <li><a href="#"><span class="enfasis_num">6.2.</span>Planeación y/o presupuesto participativo</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/planes_institucionales_y_estrategicos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.3.</span>Participación y consulta ciudadana de proyectos, normas, políticas o programas</a></li>
                            <li><span class="enfasis_num">6.4.</span>Colaboración e innovación abierta
@@ -380,7 +380,7 @@
                                  <li><a href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza" rel="noopener noreferrer" target="_blank">Conoce, Propone y Prioriza</a></li>
                               </ul>
                            </li>
-                           <li><span class="enfasis_num">6.5.</span><a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" rel="noopener noreferrer" target="_blank">Rendición de Cuentas</a></li>
+                           <li><span class="enfasis_num">6.5.</span><a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" rel="noopener noreferrer" target="_blank">Rendición de Cuentas locales</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/gestion_social" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.6.</span>Gestión Social</a></li>
                            <li><a href="https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.7.</span>Control ciudadano</a></li>
                         </ol>
