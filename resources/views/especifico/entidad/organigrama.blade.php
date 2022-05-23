@@ -581,7 +581,8 @@
                                                             <h1>Deyanira Consuelo Avila Moreno</h1>
                                                             <h4>Directora de Planeación para la Movilidad (e)</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Es ingeniera catastral y geodesta de la Universidad Distrital Francisco José de Caldas, Especialista en Gestión Ambiental Urbana de la Universidad Piloto de Colombia, auditora en Seguridad Vial del WRI, auditora interna en Sistemas de Gestión de la Calidad ISO 9001:2015. Tiene más de 17 años de experiencia en el sector público, donde ha prestado sus servicios profesionales en entidades como el IDU, Catastro Distrital y la Secretaría de Movilidad.</p>
+                                                                <p>Es ingeniera catastral y geodesta de la Universidad Distrital Francisco José de Caldas, Especialista en Gestión Ambiental Urbana de la Universidad Piloto de Colombia, auditora en Seguridad Vial del WRI, auditora interna en Sistemas de Gestión de la Calidad ISO 9001:2015.</p>
+                                                                <p>Con más de 20 años de experiencia en el sector público, ha desempeñado cargos como Subdirectora de la Bicicleta y el  Peatón en la SDM, Gerente de la Bicicleta de Bogotá y Subgerente de Gestión del Suelo de la Empresa Metro de Bogotá. Adicionalmente, ha prestado los servicios profesionales en entidades como el IDU, Catastro Distrital, la SDM y ha impartido cátedra en Urbanismo Táctico en la Universidad Externado de Colombia en la Maestría de Ciudades Inteligentes.</p>
                                                             </div>
                                                         </div>
                                                     </div>

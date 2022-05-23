@@ -40,6 +40,9 @@ Route::view('/plantillas/tabs', 'plantillas/tabs');
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Tramites y Servicios
 Route::view('/atencionServicio/menu', 'atencionServicio/menu');
 Route::view('/atencionServicio/tramitesServicios', 'atencionServicio/tramitesServicios');
+
+Route::view('/atencionServicio/tramites/cursos', 'atencionServicio/tramites/cursos');
+
 Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cursos');
 
 
@@ -106,10 +109,10 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2021
 
-    // Contenido Ajustado en Agosto
+    // Contenido Agosto
     Route::view('/2021/agosto/modificacionesPresupuestales', '2021/agosto/modificacionesPresupuestales');
 
-    // Contenido Ajustado en septiembre
+    // Contenido septiembre
     Route::view('/2021/septiembre/pqrsd', '2021/septiembre/pqrsd');
     Route::view('/2021/septiembre/socioEconomico', '2021/septiembre/socioEconomico');
     Route::view('/2021/septiembre/instancias', '2021/septiembre/instancias');
@@ -120,7 +123,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2021/septiembre/semanaBici', '2021/septiembre/semanaBici');
     Route::view('/2021/septiembre/consultaComparendos', '2021/septiembre/consultaComparendos');
 
-    // Contenido Ajustado en octubre
+    // Contenido octubre
     Route::view('/2021/octubre/derechosDeberes', '2021/octubre/derechosDeberes');
     Route::view('/2021/octubre/RoadSafetyLab', '2021/octubre/RoadSafetyLab');
     Route::view('/2021/octubre/midele', '2021/octubre/midele');
@@ -129,7 +132,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2021/octubre/albarrio_BU', '2021/octubre/albarrio_BU');
     Route::view('/2021/octubre/abandonados', '2021/octubre/abandonados');
 
-    // Contenido Ajustado en noviembre
+    // Contenido noviembre
     Route::view('/2021/noviembre/instancias', '2021/noviembre/instancias');
     Route::view('/2021/noviembre/siniestralidad', '2021/noviembre/siniestralidad');
     Route::view('/2021/noviembre/agentes', '2021/noviembre/agentes');
@@ -137,7 +140,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2021/noviembre/orvi', '2021/noviembre/orvi');
     Route::view('/2021/noviembre/centroContacto', '2021/noviembre/centroContacto');
 
-    // Contenido Ajustado en diciembre
+    // Contenido diciembre
     Route::view('/2021/diciembre/excepciones', '2021/diciembre/excepciones');
     Route::view('/2021/diciembre/defensor', '2021/diciembre/defensor');
     Route::view('/2021/diciembre/gestionCalidad', '2021/diciembre/gestionCalidad');
@@ -151,7 +154,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2022
 
-    // Contenido Ajustado en enero 2022
+    // Contenido enero 2022
     Route::view('/2022/01/picoPlaca_2022', '2022/01/picoPlaca_2022');
     Route::view('/2022/01/picoPlaca', '2022/01/picoPlaca');
     Route::view('/2022/01/boletin_4enero', '2022/01/boletin_4enero');
@@ -161,7 +164,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/01/camaras', '2022/01/camaras');
     Route::view('/2022/01/agentes', '2022/01/agentes');
 
-    // Contenido Ajustado en febrero 2022
+    // Contenido febrero 2022
     Route::view('/2022/02/calendariopyp', '2022/02/calendariopyp');
     Route::view('/2022/02/bicicarga', '2022/02/bicicarga');
     Route::view('/2022/02/ceroybajas', '2022/02/ceroybajas');
@@ -174,14 +177,19 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/02/efr', '2022/02/efr');
     Route::view('/2022/02/vus', '2022/02/vus');
     
-    // Contenido Ajustado en marzo 2022
+    // Contenido marzo 2022
     
     Route::view('/2022/03/bicicarga_resultados', '2022/03/bicicarga_resultados');
     Route::view('/2022/03/motociclistas', '2022/03/motociclistas');
     Route::view('/2022/03/planMarshall', '2022/03/planMarshall');
     
-    // Contenido Ajustado en marzo 2022
-
+    // Contenido marzo 2022
+    
     Route::view('/2022/04/contraflujo', '2022/04/contraflujo');
     Route::view('/2022/04/milagros', '2022/04/milagros');
     Route::view('/2022/04/prevencionVial', '2022/04/prevencionVial');
+    
+    // Contenido abril 2022
+    
+    Route::view('/2022/05/barriosVitales', '2022/05/barriosVitales');
+    Route::view('/2022/05/excepcionesSalud', '2022/05/excepcionesSalud');
