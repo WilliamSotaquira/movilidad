@@ -4,17 +4,7 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 <div class='container-fluid seccion'>
-    <div class='s1'>
-        <div class='row'>
-            <div class='col-xs-12 col-sm-12 col-md-12'>
-                <hr>
-                <div class="text-center">
-                    <a class="btn btn-primary" href="https://www.movilidadbogota.gov.co/web/SIMUR/excepcionesTemporal/radicarSolicitud/" target="_blank">Registro de vehículos exceptuados para 3 o más personas, eléctricos e híbridos </a>
-                </div>
-                <hr>
-            </div>
-        </div>
-    </div>
+
     <div class="s2">
         <div class="titulo">
             <h3>Paso a paso para obtener el permiso de circulación en Carro Compartido en Bogotá</h3>
@@ -28,9 +18,21 @@
                 <li>Con esto, queda listo su permiso. Si Agentes de Tránsito Civiles o la Policía de Tránsito detienen el vehículo, consultarán la base de datos y verán que el permiso está vigente. Recuerde mantener la ocupación de 3 o más personas en el vehículo.</li>
                 <li>Disfrute su permiso viajando en el vehículo siempre con 3 o más ocupantes durante todo el recorrido entre el origen y el destino.</li>
                 <li>Recuerde que la base de datos de vehículos exceptuados por Carro Compartido (3 o más ocupantes) se descarga los viernes en la noche por lo que desde el sábado debe solicitar el permiso nuevamente para la semana siguiente, si lo requiere.</li>
+                <li>Un vehículo no puede tener dos excepciones vigentes, por lo que si hace el registro en Carro Compartido deberá esperar a que este caduque el viernes a la media noche para solicitar otra excepción como Pico y Placa Solidario.</li>
             </ol>
         </div>
 
+    </div>
+    <div class='s1'>
+        <div class='row'>
+            <div class='col-xs-12 col-sm-12 col-md-12'>
+                <hr>
+                <div class="text-center">
+                    <a class="btn btn-primary" href="https://www.movilidadbogota.gov.co/web/SIMUR/excepcionesTemporal/radicarSolicitud/" target="_blank">Registro de vehículos exceptuados para 3 o más personas, eléctricos e híbridos </a>
+                </div>
+                <hr>
+            </div>
+        </div>
     </div>
     <div class="s3">
         <div class="titulo">
@@ -48,7 +50,7 @@
             <p><strong>Gracias por hacer de Bogotá una ciudad con movilidad sostenible.</strong></p>
         </div>
     </div>
-    <div class="s4">
+    <!-- <div class="s4">
         <div class="titulo">
             <h3>Tenga en cuenta que de acuerdo con el Decreto Distrital 073 de 2021, en su artículo 3, se establece:</h3>
         </div>
@@ -62,8 +64,9 @@
         <a class="btn btn-primary" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2021/decreto_073_de_2021.pdf" target="_blank">Decreto 073 de 2021</a>
         </div>
         <hr>
-    </div>
+    </div> -->
 </div>
+<br>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
