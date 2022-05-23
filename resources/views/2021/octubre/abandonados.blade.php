@@ -88,7 +88,7 @@
         <div class="b3-texto">
             <p><strong>Si desea participar en las subastas de la Secretaría Distrital de Movilidad, siga estos pasos:</strong></p>
             <ol>
-                <li><a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-10-cto-2021-2091-hora-2-102931?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc" target="_blank" rel="noopener noreferrer"><strong>Regístrese e ingrese aquí.</strong></a></li>
+                <li><a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-11-cto-2021-2091-hora-11-105740?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer"><strong>Regístrese e ingrese aquí.</strong></a></li>
                 <li>Habilítese para participar en la subasta.</li>
                 <li>Oferte por el lote de su interés.</li>
                 <li>Esté pendiente el día de cierre de la subasta.</li>
