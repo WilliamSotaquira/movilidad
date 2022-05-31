@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/organigrama_2022_06_04.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/organigrama_2022_23_05_b.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -1174,7 +1174,7 @@
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
 
-                                                                    <!-- <div class="row">
+                                                                    <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_sandrapatriciagiraldoclavijo.jpg" alt="Foto: Sandra Patricia Giraldo Clavijo" title="Foto: Sandra Patricia Giraldo Clavijo">
@@ -1192,8 +1192,9 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div> -->
-                                                                    <div class="row">
+                                                                    </div>
+
+                                                                    <!-- <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
                                                             <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_sergioraultovarfarfan.jpg" alt="Foto: Sergio Raúl Tovar Farfán" title="Foto: Sergio Raúl Tovar Farfán">
@@ -1208,7 +1209,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
 
                                                                 </div>
                                                             </div>
@@ -1241,6 +1242,24 @@
 
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/jackhurtado.png" alt="">
+                                                                            </div>
+                                                                        </div>
+
+                                                                        <div class="col-xs-12 col-sm-8 ">
+                                                                            <div class="descripcion">
+                                                                                <h1>Jack Hurtado</h1>
+                                                                                <h4>Subdirector de Control de Tránsito y Transporte</h4>
+                                                                                <div class="descripcion-xs">
+                                                                                    <p></p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- <div class="row">
+
+                                                                        <div class="col-xs-12 col-sm-4 text-center">
+                                                                            <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2020/diana-urrego.jpg" alt="">
                                                                             </div>
                                                                         </div>
@@ -1254,7 +1273,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
+                                                                    </div> -->
 
                                                                 </div>
 
@@ -1356,7 +1375,7 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
-                                                <!-- <div class="row">
+                                                <div class="row">
 
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
@@ -1375,9 +1394,9 @@
                                                         </div>
                                                     </div>
 
-                                                </div> -->
+                                                </div>
 
-                                                <div class="row">
+                                                <!-- <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
                                                             <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2020/adriana-iza.jpg" alt="Foto: Adriana Ruth Iza Certuche" title="Foto: Adriana Ruth Iza Certuche">
@@ -1394,7 +1413,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> -->
 
                                             </div>
 
@@ -2202,6 +2221,12 @@
         background-color: #A6B517;
         color: #363636;
         text-decoration: none;
+    }
+    .btn-org:focus,
+    .btn-org:active,
+    .btn-org::before
+     {
+        color: #efefef;
     }
 </style>
 
