@@ -7,19 +7,15 @@
 
       <!-- Sección Bloque de Mantenimiento  -->
 
-      <!-- <hr>
-  <div class="row">
-      <div class="col-xs-12 visible-xs-12 visible-xs-block">
-          <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/abece_medidas_voluntarias_de_movilidad_por_alerta_ambiental_en_bogota.pdf">
-              <img alt="Medidas Voluntarias de Movilidad por la Alerta Ambiental Fase 1 en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/medidas_voluntarias_xs.webp" title="Medidas Voluntarias de Movilidad por la Alerta Ambiental Fase 1 en Bogotá">
-          </a>
+      <hr>
+      <div class="row">
+          <div class="col-xs-12 visible-xs-12 visible-xs-block">
+              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-05-2022/aviso_mantenimiento_sistema_contravencional_banner_650x300.jpg" title="Aviso Mantenimiento Sistema Contravencional">
+          </div>
+          <div class="col-sm-12 hidden-xs">
+              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-05-2022/aviso_mantenimiento_sistema_contravencional_benner_900x300.jpg" title="Aviso Mantenimiento Sistema Contravencional">
+          </div>
       </div>
-      <div class="col-sm-12 hidden-xs">
-          <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/abece_medidas_voluntarias_de_movilidad_por_alerta_ambiental_en_bogota.pdf">
-              <img alt="Medidas Voluntarias de Movilidad por la Alerta Ambiental Fase 1 en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/medidas_voluntarias_sm.webp" title="Medidas Voluntarias de Movilidad por la Alerta Ambiental Fase 1 en Bogotá">
-          </a>
-      </div>
-  </div> -->
 
       <!-- Fin Sección Bloque de Mantenimiento  -->
 
@@ -504,8 +500,6 @@
               /* IE9 */
 
           }
-
-
       </style>
 
       <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
