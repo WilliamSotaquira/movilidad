@@ -169,13 +169,13 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp12'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp12' aria-expanded='true' aria-controls='collapse_pyp12'>
-                                                        6. ¿Qué sucede con las excepciones por Pico y Placa Solidario, Carro Compartido y para el personal de salud durante el Pico y Placa Regional?
+                                                        6. ¿Qué sucede con las excepciones por Pico y Placa Solidario y Carro Compartido durante el Pico y Placa Regional?
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id='collapse_pyp12' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp12'>
                                                 <div class='panel-body'>
-                                                    <p>Para la medida de Pico y Placa Regional en Bogotá en retorno de puentes festivos durante el ingreso a Bogotá: no aplican las excepciones por 3 o más ocupantes, por vehículos de personal médico y tampoco aplica la excepción de "Pico y Placa Solidario".</p>
+                                                    <p>Para la medida de Pico y Placa Regional en Bogotá en retorno de puentes festivos durante el ingreso a Bogotá: no aplican las excepciones por 3 o más ocupantes y tampoco aplica la excepción de "Pico y Placa Solidario".</p>
                                                 </div>
                                             </div>
                                         </div>
