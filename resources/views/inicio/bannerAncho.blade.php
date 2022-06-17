@@ -6,14 +6,14 @@
   <div class='container-fluid box-banners-length'>
 
       <!-- Sección Bloque de Mantenimiento  -->
-      <!-- 
-      <hr>
+      
+      <!-- <hr>
       <div class="row">
           <div class="col-xs-12 visible-xs-12 visible-xs-block">
-              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-05-2022/aviso_mantenimiento_sistema_contravencional_banner_650x300.jpg" title="Aviso Mantenimiento Sistema Contravencional">
+              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-06-2022/aviso_mantenimiento_correctivo_benner_900x300.jpg" title="Aviso Mantenimiento Sistema Contravencional">
           </div>
           <div class="col-sm-12 hidden-xs">
-              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-05-2022/aviso_mantenimiento_sistema_contravencional_benner_900x300.jpg" title="Aviso Mantenimiento Sistema Contravencional">
+              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-06-2022/aviso_mantenimiento_correctivo_banner_1920x640.jpg" title="Aviso Mantenimiento Sistema Contravencional">
           </div>
       </div> -->
 
@@ -110,18 +110,13 @@
       <!-- Fin Seccion Botones Pico y Placa  -->
 
       <br>
-      <div class="row">
-          <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/abece_de_las_excepciones_de_pico_y_placa_para_el_talento_humano_en_salud" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede consultar el abecé sobre  Excepciones de Pico y placa para el talento humano en salud" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/exepcionessalud_b.jpeg" title="Aquí puede consultar el abecé sobre  Excepciones de Pico y placa para el talento humano en salud"></a></div>
-          <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/abece_de_las_excepciones_de_pico_y_placa_para_el_talento_humano_en_salud" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede consultar el abecé sobre  Excepciones de Pico y placa para el talento humano en salud" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/exepcionessalud_a.jpeg" title="Aquí puede consultar el abecé sobre  Excepciones de Pico y placa para el talento humano en salud"></a>
-          </div>
-      </div>
-      <br>
       <!-- <div class="row">
           <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/2022-01-21_banner_bem_asi-va-el-pth-_2.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a></div>
           <div class="col-sm-12 hidden-xs"><a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/2022-01-21_banner_bem_asi-va-el-pth-_1.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
-          </div>
-      </div> -->
-
+        </div>
+    </div>
+    <br>
+ -->
 
       <!-- Bloque Centro de Contacto -->
       <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->

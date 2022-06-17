@@ -9,7 +9,7 @@
     </div>
 </div>
 <div class="row rimg">
-    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-07-2021/canaldenunciascorrupcion_web-210604_page2_image1_a.jpg" alt="">
+    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2022/anticorrupcion_a.webp" alt="">
 </div>
 <div class="row">
     <div class="col-xs-6 col-xs-offset-3 col-sm-4 col-sm-offset-8 col-md-3 col-md-offset-9">
@@ -68,7 +68,7 @@
     </div>
 </div>
 <div class="row rimg">
-    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-07-2021/canaldenunciascorrupcion_web-210604_page2_image3_a_0.jpg" alt="" class="img-responsive w-100">
+    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2022/anticorrupcion_c.webp" alt="" class="img-responsive w-100">
 </div>
 <div class="row rg">
     <div class="col-xs-12">
@@ -78,7 +78,7 @@
     </div>
 </div>
 <div class="row rimg">
-    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-07-2021/canaldenunciascorrupcion_web-210604_page2_image4_a.png" alt="" class="img-responsive w-100">
+    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2022/anticorrupcion_b.webp" alt="" class="img-responsive w-100">
 </div>
 <div class="row rg">
     <div class="col-xs-12">
@@ -118,6 +118,7 @@
     </div>
     <div class="col-xs-12 col-sm-6">
         <h3 class="text-icon">Línea 195</h3>
+        <h3  class="text-icon">Centro de Contacto de Movilidad (601) 364 94 00 opción 2</h3>
     </div>
 </div>
 <div class="row ry">

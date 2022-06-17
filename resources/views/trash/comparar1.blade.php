@@ -1,0 +1,3 @@
+El usuario debe pagar anticipadamente por fracciones de 30 minutos. Si no lo hace o no renueva el tiempo pagado inicialmente, se inmovilizará el vehículo con la instalación de un cepo. El valor del retiro del cepo es de $90.000 para automóviles y $63.000 para motos.
+El usuario debe pagar anticipadamente por fracciones de 30 minutos. Si no lo hace después de vencerse el tiempo pagado inicialmente o cuando el Facilitador identifica que un vehículo parqueo y no pagó anticipadamente se inmovilizará el vehículo con la instalación de un CEPO en la llanta. El valor del retiro del CEPO es de $90.000 para automóviles y $63.000 para motos.
+

@@ -39,23 +39,8 @@
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm-6">
-        <a href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas" target="_blank" rel="noopener noreferrer">
-            <img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom w-100 img-rounded  center-block" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto">
-        </a>
-    </div>
-    <div class="col-sm-6">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mes_de_la_prevencion_vial">
-            <img alt="Mes de la Prevención vial" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-04-2022/banner_prevencion.png" title="Mes de la Prevención vial">
-        </a>
-    </div>
-</div>
 <hr>
-<!-- <div class="row">
-    <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas" target="_blank" rel="noopener noreferrer"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom  w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
-    <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas" target="_blank" rel="noopener noreferrer"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom  w-100 img-rounded" src=" https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_sm.jpg " title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
-</div> -->
+
 
 <!-- Sección de imágenes en contenedor slider para dispositivos panorámicos-->
 <div class="row">
@@ -73,9 +58,11 @@
                 <li data-slide-to="7" data-target="#carousel_banner_lg">&nbsp;</li>
                 <li data-slide-to="8" data-target="#carousel_banner_lg">&nbsp;</li>
                 <li data-slide-to="9" data-target="#carousel_banner_lg">&nbsp;</li>
+                <li data-slide-to="10" data-target="#carousel_banner_lg">&nbsp;</li>
             </ol>
             <div class="carousel-inner" role="listbox">
-                <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_a.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
+                <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_sm.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
+                <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_a.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Ingresa aquí para ir a Notificaciones Procesos Disciplinarios" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_sm.png" title="Ingresa aquí para ir a Notificaciones Procesos Disciplinarios"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_lg.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion"><img alt="Portal Transparencia, Antisoborno y Anticorrupción" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-10-2021/banner_antisoborno_micrositio-02_1.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>
@@ -104,9 +91,12 @@
                 <li data-slide-to="6" data-target="#carousel-sdm-xs">&nbsp;</li>
                 <li data-slide-to="7" data-target="#carousel-sdm-xs">&nbsp;</li>
                 <li data-slide-to="8" data-target="#carousel-sdm-xs">&nbsp;</li>
+                <li data-slide-to="9" data-target="#carousel-sdm-xs">&nbsp;</li>
+                <li data-slide-to="10" data-target="#carousel-sdm-xs">&nbsp;</li>
             </ol>
             <div class="carousel-inner" role="listbox">
-            <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones"  class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_b.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
+                <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
+                <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones"  class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_b.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Ingresa aquí para ir a " class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_xs.png" title="" Ingresa aquí para ir a Notificaciones Procesos Disciplinario"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_xs.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
                 <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion"><img alt="Road Safety Lab - Convocatoria Internacional de Desarrollo Tecnológicos para la Seguridad Vial" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-08-2021/banner_t-a-a_anticorrupcion_900.jpg" title="Portal Transparencia, Antisoborno y Anticorrupción"></a></div>

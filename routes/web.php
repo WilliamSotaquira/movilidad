@@ -36,8 +36,10 @@ Route::view('/plantillas/noticia', 'plantillas/noticia');
 Route::view('/plantillas/acordeon', 'plantillas/acordeon');
 Route::view('/plantillas/tabla', 'plantillas/tabla');
 Route::view('/plantillas/tabs', 'plantillas/tabs');
+Route::view('/plantillas/btn-dinamico', 'plantillas/btn-dinamico');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Tramites y Servicios
+Route::view('/atencionServicio/home', 'atencionServicio/home');
 Route::view('/atencionServicio/menu', 'atencionServicio/menu');
 Route::view('/atencionServicio/tramitesServicios', 'atencionServicio/tramitesServicios');
 
@@ -183,13 +185,19 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/03/motociclistas', '2022/03/motociclistas');
     Route::view('/2022/03/planMarshall', '2022/03/planMarshall');
     
-    // Contenido marzo 2022
+    // Contenido abril 2022
     
     Route::view('/2022/04/contraflujo', '2022/04/contraflujo');
     Route::view('/2022/04/milagros', '2022/04/milagros');
     Route::view('/2022/04/prevencionVial', '2022/04/prevencionVial');
     
-    // Contenido abril 2022
+    // Contenido mayo 2022
     
     Route::view('/2022/05/barriosVitales', '2022/05/barriosVitales');
     Route::view('/2022/05/excepcionesSalud', '2022/05/excepcionesSalud');
+    
+    // Contenido mayo 2022
+    Route::view('/2022/06/construyendo', '2022/06/construyendo');
+    Route::view('/2022/06/comparendos', '2022/06/comparendos');
+    Route::view('/2022/06/acuerdos', '2022/06/acuerdos');
+    

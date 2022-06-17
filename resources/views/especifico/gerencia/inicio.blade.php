@@ -380,6 +380,23 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="thumbnail">
                         <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/YrKm_1qGJNws8JuQJot4X0340xrWAM3SxZHM-ljj7yBR_ddXIPkCjswazkEN4Svw2zP28C1Bn4mvy43yzUdxd8IPMFgRA5TdVlVy6EizC9KjruKUOhYLo0BzmQFgSL9xuhU9JUrkNy_igIa7vw" alt="...">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>Más de 100 mil vehículos se han beneficiado con el contraflujo de la Av. de Las Américas</h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá, 8 de junio de 2022 (@SectorMovilidad). En los últimos dos meses los conductores que a diario utilizan la Av. de Las Américas han notado como los tiempos de viaje han mejorado gracias a la habilitación de un carril adicional en la calzada norte entre las 5:30 a.m. y las 9:00 a.m. El contraflujo ha permitido aliviar la movilidad, descongestionar la vía y optimizar los tiempos de desplazamiento de los ciudadanos.</p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_100_mil_vehiculos_se_han_beneficiado_con_el_contraflujo_de_la_av_de_las_americas" class="btn-cerrar" role="button">Ver Más</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
                             <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/CnIit7b08SjlvUlNan0do1DUVmbgHi8YLTJt0jxf3_6oCia0Rik2VrQVU92k3nd51XJOL_1rhYG_JjuHa0rPl4whSwb4pKkjXve8CL4vi79W41P_qkqRhotBzlp0Ebl21FyDAFA=s0" alt="...">
                         </div>
                         <div class="caption">
@@ -411,22 +428,7 @@
                     </div>
                 </div>
 
-                <div class="col-xs-12 col-sm-4">
-                    <div class="thumbnail">
-                        <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://lh5.googleusercontent.com/S8zmBMcDEjto-pQLafYzty3uUnxHJZKC_INH05rY6GcH9Kmf4fRutFI330Z3DNSP5CBcdNlFGmhsWgf5EpZdc0nGXy6Ip254QjTH9T6GJEO4oTl5F--wVEyr4rqrt6-907YrwVI" alt="...">
-                        </div>
-                        <div class="caption">
-                            <div class="enc-caption">
-                                <h3>Con plan piloto de movilidad, ‘Gerencia en Vía’ busca mejorar la movilidad en el sector de Tintal</h3>
-                            </div>
-                            <div class="parrafo-caption">
-                                <p>Bogotá, 20 de junio de 2021. (@SectorMovilidad). Por solicitud de la comunidad del sector de Nueva Castilla y con el fin de mejorar la movilidad en la UPZ El Tintal, la Secretaría Distrital de Movilidad (SDM) con su grupo de Gerencia en Vía implementó una prueba piloto en la calle 9 y en la calle 6D con carrera 87B debido a las maniobras de alto riesgo como giros en U y contra vías que se presentan en el sector. </p>
-                            </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/con_plan_piloto_de_movilidad_gerencia_en_via_busca_mejorar_la_movilidad_en_el_sector_de" class="btn-cerrar" role="button">Ver Más</a></div>
-                        </div>
-                    </div>
-                </div>
+          
 
             </div>
         </div>

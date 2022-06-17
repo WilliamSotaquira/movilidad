@@ -13,7 +13,7 @@
     </div>
     <div class="s2">
         <div class="img-enc">
-            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/fondo1_antisoborno.png" alt="Canal de denuncias antisoborno" title="Canal de denuncias antisoborno">
+            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2022/antisoborno1.webp" alt="Canal de denuncias antisoborno" title="Canal de denuncias antisoborno">
         </div>
         <div class="escudo-cda">
             <div class="row">
@@ -270,7 +270,7 @@
 
     .s4 .img-vista {
         height: 20vw;
-        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-07-2021/canaldenunciascorrupcion_web-210604_page2_image3_a_0.jpg');
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2022/soborno2.webp');
         background-repeat: no-repeat;
         background-size: cover;
         background-position-x: center;
