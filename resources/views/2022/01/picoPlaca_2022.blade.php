@@ -30,9 +30,9 @@
     <div class="s2">
         <div class='row'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-04-2022/volante_20220409.png" target="_blank" rel="noopener noreferrer">
+                <!-- <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-04-2022/volante_20220409.png" target="_blank" rel="noopener noreferrer">
                     <img class='img-responsive bs w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-04-2022/volante_20220409.png' alt='Volante del Pico y Placa Regional 2022' title='Volante del Pico y Placa Regional 2022'>
-                </a>
+                </a> -->
                 <!-- <div class='row'>
                     <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
                         <div class='text-center'>
@@ -61,7 +61,7 @@
                                     </a>
                                 </h4>
                             </div>
-                            <div id='collapse' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading'>
+                            <div id='collapse' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading'>
                                 <div class='panel-body'>
 
                                     <div class='panel-group ' id='accordionRegional' role='tablist ' aria-multiselectable='true'>
@@ -730,7 +730,7 @@
                                         <!-- /#fin _pyp10 -->
 
                                         <!-- collapse_pyp11 -->
-                                        <div class='panel panel-default'>
+                                        <!-- <div class='panel panel-default'>
                                             <div class='panel-heading' role='tab' id='heading_pyp11'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp11' aria-expanded='true' aria-controls='collapse_pyp11'>
@@ -743,7 +743,7 @@
                                                     <p>La excepción para el personal de la salud está vigente en Bogotá hasta cuando lo esté la emergencia sanitaria decretada por el Gobierno Nacional.</p>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- /#fin _pyp11 -->
 
 
