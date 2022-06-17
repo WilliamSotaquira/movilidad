@@ -14,6 +14,7 @@
                 <li>Haga clic en el botón verde "Registro de vehículos exceptuados para tres o más personas, eléctricos e híbridos".</li>
                 <li>Haga clic en el botón azul  "Tenga en cuenta" en la parte de arriba a la derecha del formulario y verifique que cumple con los requisitos mínimos.</li>
                 <li>Diligencie todos los campos del formulario y haga clic en el botón  "Registra información".</li>
+                <li>Si vive fuera de Bogotá, registre como dirección frecuente de origen la del <a href="https://movilidadbogota.maps.arcgis.com/apps/Cascade/index.html?appid=5995d86ebcd34be1ba11bb22719394ee" target="_blank" rel="noopener noreferrer">ingreso a la ciudad</a> (si entra por la carrera 7, por ejemplo, registre la carrera 7 con calle 246).</li>
                 <li>Luego, debe verificar en la página de SIMUR <a href="https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/consultarPlaca/" target="_blank" rel="noopener noreferrer">https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/consultarPlaca/</a> que el permiso esté vigente, introduciendo el número de placa del carro.</li>
                 <li>Con esto, queda listo su permiso. Si Agentes de Tránsito Civiles o la Policía de Tránsito detienen el vehículo, consultarán la base de datos y verán que el permiso está vigente. Recuerde mantener la ocupación de 3 o más personas en el vehículo.</li>
                 <li>Disfrute su permiso viajando en el vehículo siempre con 3 o más ocupantes durante todo el recorrido entre el origen y el destino.</li>
