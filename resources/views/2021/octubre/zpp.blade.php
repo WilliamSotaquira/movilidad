@@ -1,1337 +1,1491 @@
-<div class='row'>
-                                <div class='col-xs-12 col-sm- col-md-'>
-                                    <div class="descripcion">
-                                        <H4>Bogotá nos ofrece hoy múltiples posibilidades para movilizarnos, de acuerdo a nuestras necesidades, preferencias y destinos.</H4>
-                                    </div>
-
-
-
-                                    <div class='row'>
-
-                                        <div class='col-xs-12 visible-xs'>
-                                            <div class="descripcion">
-                                                <h3>Transmilenio</h3>
-                                                <p>El Sistema Integrado de Transporte Público de Bogotá es un sistema intermodal, que cuenta con el componente Troncal (los buses que transitan por las calzadas exclusivas), el componente Zonal (los buses que circulan por la calzada mixta) y TransMiCable en Ciudad Bolívar.</p>
-
-                                                <div class="boxcordion">
-                                                    <div class='panel-group ' id='accordionTransmilenio' role='tablist ' aria-multiselectable='true'>
-
-                                                        <!-- collapseTransmilenioUno -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='headingTransmilenioUno'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioUno' aria-expanded='true' aria-controls='collapseTransmilenioUno'>
-                                                                        Infraestructura
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapseTransmilenioUno' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioUno'>
-                                                                <div class='panel-body'>
-                                                                    <ul>
-                                                                        <li>
-                                                                            El Sistema cuenta con 152 accesos:
-                                                                            <ul>
-                                                                                <li>
-                                                                                    139 estaciones
-                                                                                </li>
-                                                                                <li>
-                                                                                    9 portales
-                                                                                </li>
-                                                                                <li>
-                                                                                    4 estaciones de TransMicable.
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                        <li>
-                                                                            En total, el Sistema cuenta con 44 patio talleres, de los cuales 11 corresponden al componente Troncal y 33 al zonal.
-                                                                        </li>
-                                                                        <li>
-                                                                            Para el componente Troncal hay construidos y operativos 114,4 kilómetros de calzada exclusiva. En el componente zonal el Sistema cuenta con 1.889,6 kilómetros de cobertura.
-                                                                        </li>
-                                                                        <li>
-                                                                            El Sistema tiene 22 biciestaciones distribuidas en estaciones y portales a lo largo de la ciudad con 6.059 cupos disponibles.
-                                                                        </li>
-                                                                        <li>
-                                                                            El Sistema cuenta con más de 4.000 puntos de recarga externos.
-                                                                        </li>
-                                                                        <li>
-                                                                            TranMiCable cuenta con 4 estaciones, 163 cabinas y recorre 3,34 kilómetros entre el Portal Tunal y la parte alta de Ciudad Bolívar.
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin TransmilenioUno -->
-
-                                                        <!-- collapseTransmilenioDos -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='headingTransmilenioDos'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioDos' aria-expanded='true' aria-controls='collapseTransmilenioDos'>
-                                                                        Ampliación de la cobertura
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapseTransmilenioDos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioDos'>
-                                                                <div class='panel-body'>
-                                                                    <p>Con la entrada en operación de los nuevos concesionarios del componente zonal y de alimentación, el Sistema está aumentando su cobertura en la zonas de Fontibón, Perdomo, Usme, San Cristóbal y Suba Centro, anteriormente atendidas por el esquema provisional.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin TransmilenioDos -->
-
-                                                        <!-- collapseTransmilenioTres -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='headingTransmilenioTres'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioTres' aria-expanded='true' aria-controls='collapseTransmilenioTres'>
-                                                                        Volumen de usuarios
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapseTransmilenioTres' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioTres'>
-                                                                <div class='panel-body'>
-                                                                    <p>Antes de la pandemia, en Sistema tenía cerca de 4,5 millones de validaciones al día (día hábil) en todos sus componentes. Si bien durante los cierres de Bogotá por las medidas restrictivas de movilidad como medida para contrarrestar la pandemia este número se redujo en un 84%, actualmente el Sistema se ha venido recuperando y registra 3,1 millones de validaciones al día.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin TransmilenioTres -->
-
-                                                        <!-- collapseTransmilenioCuatro -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='headingTransmilenioCuatro'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioCuatro' aria-expanded='true' aria-controls='collapseTransmilenioCuatro'>
-                                                                        Flota
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapseTransmilenioCuatro' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCuatro'>
-                                                                <div class='panel-body'>
-                                                                    <ul>
-                                                                        <li>
-                                                                            <p>El Sistema cuenta con 10.472 buses en todos sus componentes que atienden a los usuarios en día hábil de 4 a.m. a 11:00 p.m.</p>
-                                                                            <ul>
-                                                                                <li>2.734 buses troncales</li>
-                                                                                <li>960 buses de alimentación</li>
-                                                                                <li>6.778 buses zonales</li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin TransmilenioCuatro -->
-
-                                                        <!-- collapseTransmilenioCinco -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='headingTransmilenioCinco'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioCinco' aria-expanded='true' aria-controls='collapseTransmilenioCinco'>
-                                                                        Mejorando la calidad del aire
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapseTransmilenioCinco' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCinco'>
-                                                                <div class='panel-body'>
-                                                                    <ul>
-                                                                        <li>Actualmente el Sistema cuenta con 483 buses eléctricos operativos, de los 1.485 que están contratados y de manera gradual están entrando en operación.</li>
-                                                                        <li>En total, el Sistema cuenta con 1.450 buses con motores de combustión a Gas Natural Vehicular, de los cuales 742 son troncales y 726 son zonales y de alimentación.</li>
-                                                                        <li>Con la tarjeta "TuLlave", estos tres componentes están integrados con una misma tarifa y plataforma de pago.</li>
-                                                                        <li>Además, la infraestructura del Sistema está concebida para tener conexión con los andenes y el espacio público para que los usuarios accedan al Sistema a pie, y también cuenta con más de 6.000 cupos para bicicletas en las 22 bicietaciones que se encuentran en diferente estaciones y portales.</li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin TransmilenioCinco -->
-
-                                                        <!-- collapseTransmilenioSeis -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='headingTransmilenioSeis'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapseTransmilenioSeis' aria-expanded='true' aria-controls='collapseTransmilenioSeis'>
-                                                                        Beneficios de la tarjeta personalizada ´TuLlave´
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapseTransmilenioSeis' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioSeis'>
-                                                                <div class='panel-body'>
-                                                                    <ul>
-                                                                        <li>La tarjeta se puede recargar de manera virtual en la página <a href="www.tullaveplus.gov.co" target="_blank" rel="noopener noreferrer">www.tullaveplus.gov.co</a> </li>
-                                                                        <li><strong>Trasbordos de $0 a $200:</strong> En una ventana de tiempo de 110 minutos, los usuarios pueden hacer hasta 2 trasbordos a $0 pesos de buses troncales a zonales, o entre zonales. Si el trasbordo es de zonal a troncal, el costo es $200 pesos. En el caso de TransMiCable, hace parte del componente Troncal. Con $2.500 peso llegas a toda la ciudad.</li>
-                                                                        <li><strong>Viaje a crédito:</strong> Con la tarjeta personalizada, si el usuario se queda sin saldo el sistema le presta hasta para dos viajes. Una vez haga su recarga, de esta se descuenta el saldo negativo.</li>
-                                                                        <li><strong>Bloquear el saldo en caso de pérdida o robo:</strong> En caso de pérdida o robo de la tarjeta, es posible bloquear el saldo. El usuario debe comunicarse a la línea 4824304 en horario y solicitar el bloqueo, y una vez expida una nueva tarjeta recupera su saldo anterior.</li>
-                                                                    </ul>
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin TransmilenioSeis -->
-
-                                                        <!-- collapseTransmilenioSiete -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='headingTransmilenioSiete'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapseTransmilenioSiete' aria-expanded='true' aria-controls='collapseTransmilenioSiete'>
-                                                                        TransMiAPP
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapseTransmilenioSiete' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioSiete'>
-                                                                <div class='panel-body'>
-                                                                    <ul>
-                                                                        <li>Al ser la aplicación oficial de TransMilenio y el SITP, es la única que cuenta con información verificada y actualizada del Sistema.</li>
-                                                                        <li>Con TransMiApp los usuarios cuentan con toda la información que necesitan del Sistema en la palma de su mano.</li>
-                                                                        <li>Con la aplicación se puede conocer la ubicación del bus y el tiempo aproximado de llegada, para que los usuarios puedan programarse mejor.</li>
-                                                                        <li>Con la aplicación se puede planear el viaje por medio de la ubicación del usuario (identifica los paraderos que tiene cerca), por el paradero o la estación, o por la ruta que le sirve si ya la conoce.</li>
-                                                                    </ul>
-                                                                    <p><strong>Plataformas tecnológicas para planificar viaje (WAZE, Google Maps y otras)</strong></p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin TransmilenioSiete -->
-
-                                                    </div>
-
-                                                </div>
-
-
-                                            </div>
-                                        </div>
-
-                                        <div class='col-xs-12 col-sm-6 col-md-6'>
-                                            <div class='img-descripcion'>
-
-                                                <div id="carousel-transmilenio" class="carousel slide" data-ride="carousel">
-                                                    <!-- Indicators -->
-                                                    <ol class="carousel-indicators">
-                                                        <li data-target="#carousel-transmilenio" data-slide-to="0" class="active"></li>
-                                                        <li data-target="#carousel-transmilenio" data-slide-to="1"></li>
-                                                    </ol>
-
-                                                    <!-- Wrapper for slides -->
-                                                    <div class="carousel-inner" role="listbox">
-                                                        <div class="item active">
-                                                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-transmilenio-1.png" alt="...">
-                                                            <div class="carousel-caption">
-                                                                Obras en ...
-                                                            </div>
-                                                        </div>
-                                                        <div class="item">
-                                                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-transmilenio-2.png" alt="...">
-                                                            <div class="carousel-caption">
-                                                                Obras en ...
-                                                            </div>
-                                                        </div>
-
-                                                    </div>
-
-                                                    <!-- Controls -->
-                                                    <a class="left carousel-control" href="#carousel-transmilenio" role="button" data-slide="prev">
-                                                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                                        <span class="sr-only">Anterior</span>
-                                                    </a>
-                                                    <a class="right carousel-control" href="#carousel-transmilenio" role="button" data-slide="next">
-                                                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                                        <span class="sr-only">Siguiente</span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class='col-sm-6 hidden-xs'>
-                                            <div class="descripcion">
-                                                <h3>Transporte público</h3>
-                                                <p>El Sistema Integrado de Transporte Público de Bogotá es un sistema intermodal, que cuenta con el componente Troncal (los buses que transitan por las calzadas exclusivas), el componente Zonal (los buses que circulan por la calzada mixta) y TransMiCable en Ciudad Bolívar.</p>
-                                                <p>Con la entrada en operación de los nuevos concesionarios del componente zonal y de alimentación, el Sistema está aumentando su cobertura en la zonas de Fontibón, Perdomo, Usme, San Cristóbal y Suba Centro, anteriormente atendidas por el esquema provisional.</p>
-                                                <p>Es un modo de transporte que contribuye al mejoramiento de la calidad del aire porque cuenta con 483 buses eléctricos operativos, de los 1.485 que están contratados y de manera gradual están entrando en operación.</p>
-                                                <p>En total, el Sistema cuenta con 1.450 buses con motores de combustión a Gas Natural Vehicular, de los cuales 742 son troncales y 726 son zonales y de alimentación. </p>
-                                                <p>Para evitar la aglomeración de usuarios en horas pico, se recomienda escalonar los viajes a lo largo del día, en lo posible en horas valle (9 a.m. a 4 p.m.). El Sistema puede recibir un mayor número de usuarios si estos ingresan de manera espaciada a lo largo del día.</p>
-                                                <p>Para moverse informado sobre las rutas y frecuencias, y así mejorar los tiempos de viaje, se recomienda planear con anticipación cada desplazamiento ingresando a la página web <a href="www.transmilenio.gov.co">www.transmilenio.gov.co</a> o utilizando la <strong>TransMiAPP</strong>, disponible para descargar en el celular, para identificar las rutas, estaciones y paraderos que le sirven para su recorrido.</p>
-                                                <p>Si eres un pasajero habitual del sistema te convendría personalizar su tarjeta TuLlave para los transbordos le cuesten menos, de $0 a $200, durante una ventana de tiempo de 110 minutos, tenga crédito en el caso que se quede sin saldo, y pueda bloquearla en caso de robo.</p>
-
-
-
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class='row'>
-                                        <div class='col-xs-12 col-sm-6 col-md-6'>
-                                            <div class="descripcion">
-                                                <h3>Bicicleta</h3>
-                                                <p>El modo de transporte más sostenible que tiene la ciudad, por su menor impacto en la congestión y al medio ambiente, es la bicicleta. Actualmente, Bogotá cuenta con 590 km de ciclorrutas permanentes y 18 km de ciclovías temporales que son usadas a diario por ciclistas urbanos para recorrer la ciudad. Según la Encuesta de Movilidad 2019, de los más de 880 mil viajes diarios en bici que hacen en Bogotá, el 24% de esos viajes son hechos por mujeres y el 74% por hombres.</p>
-                                                <p>Recomendaciones de viaje</p>
-                                                <p>La cicloinfraestructura va seguir aumentando en los próximos años, durante esta Administración, se proyecta implementar 280 km de nuevas ciclorrutas de las cuales se han entregado 40 km.</p>
-                                                <p>Si quieres conocer el mapa de ciclorrutas ingresa a <a href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota">https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota</a></p>
-                                                <p>Recuerda que desde enero del 2022 el Registro Bici es obligatorio para todos los ciclistas que residen en Bogotá. Este trámite puede hacerlo totalmente virtual a través del portal <a href="registrobicibogota.movilidadbogota.gov.co">registrobicibogota.movilidadbogota.gov.co</a></p>
-                                                <p>Y si no tienes bici y te gustaría moverte en este modo de transporte recuerda que la ciudad adjudicó la licitación para el primer Sistema de Bicicletas Compartidas de Bogotá a Tembici.  El Sistema estará ubicado entre las localidades de Usaquén y La Candelaria, permitirá la fácil conexión con el Sistema de Transporte Público y contará con al menos 300 estaciones y 3.300 bicicletas.</p>
-                                            </div>
-                                        </div>
-
-                                        <div class='col-xs-12 col-sm-6'>
-                                            <div class='img-descripcion'>
-
-                                                <div id="carousel-ptv" class="carousel slide" data-ride="carousel">
-                                                    <!-- Indicators -->
-                                                    <ol class="carousel-indicators">
-                                                        <li data-target="#carousel-ptv" data-slide-to="0" class="active"></li>
-                                                        <li data-target="#carousel-ptv" data-slide-to="1"></li>
-                                                    </ol>
-
-                                                    <!-- Wrapper for slides -->
-                                                    <div class="carousel-inner" role="listbox">
-                                                        <div class="item active">
-                                                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-planifica_tu_viaje-1.png" alt="...">
-                                                            <div class="carousel-caption">
-                                                                Obras en ...
-                                                            </div>
-                                                        </div>
-                                                        <div class="item">
-                                                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-planifica_tu_viaje-2.png" alt="...">
-                                                            <div class="carousel-caption">
-                                                                Obras en ...
-                                                            </div>
-                                                        </div>
-                                                    </div>
-
-                                                    <!-- Controls -->
-                                                    <a class="left carousel-control" href="#carousel-ptv" role="button" data-slide="prev">
-                                                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                                        <span class="sr-only">Anterior</span>
-                                                    </a>
-                                                    <a class="right carousel-control" href="#carousel-ptv" role="button" data-slide="next">
-                                                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                                        <span class="sr-only">Siguiente</span>
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                    <div class='row'>
-
-<div class='col-xs-12 visible-xs'>
-    <div class="descripcion">
-        <h3>Transmilenio</h3>
-        <p>El Sistema Integrado de Transporte Público de Bogotá es un sistema intermodal, que cuenta con el componente Troncal (los buses que transitan por las calzadas exclusivas), el componente Zonal (los buses que circulan por la calzada mixta) y TransMiCable en Ciudad Bolívar.</p>
-
-        <div class="boxcordion">
-            <div class='panel-group ' id='accordionTransmilenio' role='tablist ' aria-multiselectable='true'>
-
-                <!-- collapseTransmilenioUno -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioUno'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioUno' aria-expanded='true' aria-controls='collapseTransmilenioUno'>
-                                Infraestructura
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioUno' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioUno'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>
-                                    El Sistema cuenta con 152 accesos:
-                                    <ul>
-                                        <li>
-                                            139 estaciones
-                                        </li>
-                                        <li>
-                                            9 portales
-                                        </li>
-                                        <li>
-                                            4 estaciones de TransMicable.
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    En total, el Sistema cuenta con 44 patio talleres, de los cuales 11 corresponden al componente Troncal y 33 al zonal.
-                                </li>
-                                <li>
-                                    Para el componente Troncal hay construidos y operativos 114,4 kilómetros de calzada exclusiva. En el componente zonal el Sistema cuenta con 1.889,6 kilómetros de cobertura.
-                                </li>
-                                <li>
-                                    El Sistema tiene 22 biciestaciones distribuidas en estaciones y portales a lo largo de la ciudad con 6.059 cupos disponibles.
-                                </li>
-                                <li>
-                                    El Sistema cuenta con más de 4.000 puntos de recarga externos.
-                                </li>
-                                <li>
-                                    TranMiCable cuenta con 4 estaciones, 163 cabinas y recorre 3,34 kilómetros entre el Portal Tunal y la parte alta de Ciudad Bolívar.
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioUno -->
-
-                <!-- collapseTransmilenioDos -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioDos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioDos' aria-expanded='true' aria-controls='collapseTransmilenioDos'>
-                                Ampliación de la cobertura
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioDos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioDos'>
-                        <div class='panel-body'>
-                            <p>Con la entrada en operación de los nuevos concesionarios del componente zonal y de alimentación, el Sistema está aumentando su cobertura en la zonas de Fontibón, Perdomo, Usme, San Cristóbal y Suba Centro, anteriormente atendidas por el esquema provisional.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioDos -->
-
-                <!-- collapseTransmilenioTres -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioTres'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioTres' aria-expanded='true' aria-controls='collapseTransmilenioTres'>
-                                Volumen de usuarios
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioTres' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioTres'>
-                        <div class='panel-body'>
-                            <p>Antes de la pandemia, en Sistema tenía cerca de 4,5 millones de validaciones al día (día hábil) en todos sus componentes. Si bien durante los cierres de Bogotá por las medidas restrictivas de movilidad como medida para contrarrestar la pandemia este número se redujo en un 84%, actualmente el Sistema se ha venido recuperando y registra 3,1 millones de validaciones al día.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioTres -->
-
-                <!-- collapseTransmilenioCuatro -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioCuatro'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioCuatro' aria-expanded='true' aria-controls='collapseTransmilenioCuatro'>
-                                Flota
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioCuatro' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCuatro'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>
-                                    <p>El Sistema cuenta con 10.472 buses en todos sus componentes que atienden a los usuarios en día hábil de 4 a.m. a 11:00 p.m.</p>
-                                    <ul>
-                                        <li>2.734 buses troncales</li>
-                                        <li>960 buses de alimentación</li>
-                                        <li>6.778 buses zonales</li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioCuatro -->
-
-                <!-- collapseTransmilenioCinco -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioCinco'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioCinco' aria-expanded='true' aria-controls='collapseTransmilenioCinco'>
-                                Mejorando la calidad del aire
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioCinco' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCinco'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>Actualmente el Sistema cuenta con 483 buses eléctricos operativos, de los 1.485 que están contratados y de manera gradual están entrando en operación.</li>
-                                <li>En total, el Sistema cuenta con 1.450 buses con motores de combustión a Gas Natural Vehicular, de los cuales 742 son troncales y 726 son zonales y de alimentación.</li>
-                                <li>Con la tarjeta "TuLlave", estos tres componentes están integrados con una misma tarifa y plataforma de pago.</li>
-                                <li>Además, la infraestructura del Sistema está concebida para tener conexión con los andenes y el espacio público para que los usuarios accedan al Sistema a pie, y también cuenta con más de 6.000 cupos para bicicletas en las 22 bicietaciones que se encuentran en diferente estaciones y portales.</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioCinco -->
-
-                <!-- collapseTransmilenioSeis -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioSeis'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapseTransmilenioSeis' aria-expanded='true' aria-controls='collapseTransmilenioSeis'>
-                                Beneficios de la tarjeta personalizada ´TuLlave´
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioSeis' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioSeis'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>La tarjeta se puede recargar de manera virtual en la página <a href="www.tullaveplus.gov.co" target="_blank" rel="noopener noreferrer">www.tullaveplus.gov.co</a> </li>
-                                <li><strong>Trasbordos de $0 a $200:</strong> En una ventana de tiempo de 110 minutos, los usuarios pueden hacer hasta 2 trasbordos a $0 pesos de buses troncales a zonales, o entre zonales. Si el trasbordo es de zonal a troncal, el costo es $200 pesos. En el caso de TransMiCable, hace parte del componente Troncal. Con $2.500 peso llegas a toda la ciudad.</li>
-                                <li><strong>Viaje a crédito:</strong> Con la tarjeta personalizada, si el usuario se queda sin saldo el sistema le presta hasta para dos viajes. Una vez haga su recarga, de esta se descuenta el saldo negativo.</li>
-                                <li><strong>Bloquear el saldo en caso de pérdida o robo:</strong> En caso de pérdida o robo de la tarjeta, es posible bloquear el saldo. El usuario debe comunicarse a la línea 4824304 en horario y solicitar el bloqueo, y una vez expida una nueva tarjeta recupera su saldo anterior.</li>
-                            </ul>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioSeis -->
-
-                <!-- collapseTransmilenioSiete -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioSiete'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapseTransmilenioSiete' aria-expanded='true' aria-controls='collapseTransmilenioSiete'>
-                                TransMiAPP
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioSiete' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioSiete'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>Al ser la aplicación oficial de TransMilenio y el SITP, es la única que cuenta con información verificada y actualizada del Sistema.</li>
-                                <li>Con TransMiApp los usuarios cuentan con toda la información que necesitan del Sistema en la palma de su mano.</li>
-                                <li>Con la aplicación se puede conocer la ubicación del bus y el tiempo aproximado de llegada, para que los usuarios puedan programarse mejor.</li>
-                                <li>Con la aplicación se puede planear el viaje por medio de la ubicación del usuario (identifica los paraderos que tiene cerca), por el paradero o la estación, o por la ruta que le sirve si ya la conoce.</li>
-                            </ul>
-                            <p><strong>Plataformas tecnológicas para planificar viaje (WAZE, Google Maps y otras)</strong></p>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioSiete -->
-
+@extends('welcome')
+@section('contenido')
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<!-- Set Wrapper -->
+<div class='container-fluid zpp'>
+    <div class='box-wrp'>
+        <!-- encabezado  -->
+        <div class='box-head'>
+            <div class="logo">
+                <img class='img-responsive img-banner' src='http://zonadeparqueopago.gov.co/Recursos/Ultima_Version/logo_26102021_0.png' alt='Encabezado Zonas de Parqueo Pago' title='Encabezado Zonas de Parqueo Pago'>
             </div>
-
-        </div>
-
-
-    </div>
-</div>
-
-<div class='col-xs-12 col-sm-6 col-md-6'>
-    <div class='img-descripcion'>
-
-        <div id="carousel-transmilenio" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#carousel-transmilenio" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-transmilenio" data-slide-to="1"></li>
-            </ol>
-
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-                <div class="item active">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-transmilenio-1.png" alt="...">
-                    <div class="carousel-caption">
-                        Obras en ...
-                    </div>
+            <div class="titulo">
+                <div class="encabezado-texto">
+                    <h1>Las <span class="txt-enf-v1"><strong>Zonas de Parqueo Pago</strong></span> son áreas de la ciudad en las que la <span class="txt-enf-v1"><strong>Alcaldía Mayor de Bogotá</strong></span> permite el estacionamiento de vehículos en vía a cambio de un pago por el uso de estos espacios.</h1>
                 </div>
-                <div class="item">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-transmilenio-2.png" alt="...">
-                    <div class="carousel-caption">
-                        Obras en ...
-                    </div>
-                </div>
-
             </div>
-
-            <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-transmilenio" role="button" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Anterior</span>
-            </a>
-            <a class="right carousel-control" href="#carousel-transmilenio" role="button" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Siguiente</span>
-            </a>
+            <!-- <div class='row encabezado'>
+                <div class='col-xs-12 col-sm-6'>
+                    <div class="encabezado-img">
+                        <img class='img-responsive img-banner' src='http://zonadeparqueopago.gov.co/Recursos/Ultima_Version/logo_26102021_0.png' alt='Encabezado Zonas de Parqueo Pago' title='Encabezado Zonas de Parqueo Pago'>
+                    </div>
+                </div>
+                <div class='col-xm-12 col-sm-6'>
+                    <div class="encabezado-texto">
+                        <div>
+                            <p class="lead text-overflow">Las <span class="txt-enf-v1"><strong>Zonas de Parqueo Pago</strong></span> son áreas de la ciudad en las que la <span class="txt-enf-v1"><strong>Alcaldía Mayor de Bogotá</strong></span> permite el estacionamiento de vehículos en vía a cambio de un pago por el uso de estos espacios.</p>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <br>
         </div>
-    </div>
-</div>
+        <!-- Fin encabezado  -->
+        <style>
+            .box-head {
+                background-color: rgba(25, 28, 58, 1);
+                display: grid;
+                /* gap: 10px; */
+                /* grid-auto-flow: dense */
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: auto;
+                grid-template-areas:
+                    'logo titulo';
+                margin-bottom: 30px;
+            }
 
-<div class='col-sm-6 hidden-xs'>
-    <div class="descripcion">
-        <h3>Transmilenio</h3>
-        <p>El Sistema Integrado de Transporte Público de Bogotá es un sistema intermodal, que cuenta con el componente Troncal (los buses que transitan por las calzadas exclusivas), el componente Zonal (los buses que circulan por la calzada mixta) y TransMiCable en Ciudad Bolívar.</p>
+            .box-head .logo {
+                grid-area: logo;
+                /* height: px; */
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
 
-        <div class="boxcordion">
-            <div class='panel-group ' id='accordionTransmilenioDos' role='tablist ' aria-multiselectable='true'>
+            .box-head .logo img {
+                /* grid-area: logo; */
+                max-width: 300px;
+            }
 
-                <!-- collapseTransmilenioUno_Dos -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioUno_Dos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioUno_Dos' aria-expanded='true' aria-controls='collapseTransmilenioUno_Dos'>
-                                Infraestructura
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioUno_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioUno_Dos'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>
-                                    El Sistema cuenta con 152 accesos:
-                                    <ul>
-                                        <li>
-                                            139 estaciones
-                                        </li>
-                                        <li>
-                                            9 portales
-                                        </li>
-                                        <li>
-                                            4 estaciones de TransMicable.
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    En total, el Sistema cuenta con 44 patio talleres, de los cuales 11 corresponden al componente Troncal y 33 al zonal.
-                                </li>
-                                <li>
-                                    Para el componente Troncal hay construidos y operativos 114,4 kilómetros de calzada exclusiva. En el componente zonal el Sistema cuenta con 1.889,6 kilómetros de cobertura.
-                                </li>
-                                <li>
-                                    El Sistema tiene 22 biciestaciones distribuidas en estaciones y portales a lo largo de la ciudad con 6.059 cupos disponibles.
-                                </li>
-                                <li>
-                                    El Sistema cuenta con más de 4.000 puntos de recarga externos.
-                                </li>
-                                <li>
-                                    TranMiCable cuenta con 4 estaciones, 163 cabinas y recorre 3,34 kilómetros entre el Portal Tunal y la parte alta de Ciudad Bolívar.
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioUno -->
+            .box-head .titulo {
+                grid-area: titulo;
+                /* height: px; */
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                padding: 30px;
+            }
 
-                <!-- collapseTransmilenioDos_Dos -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioDos_Dos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioDos_Dos' aria-expanded='true' aria-controls='collapseTransmilenioDos_Dos'>
-                                Ampliación de la cobertura
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioDos_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioDos_Dos'>
-                        <div class='panel-body'>
-                            <p>Con la entrada en operación de los nuevos concesionarios del componente zonal y de alimentación, el Sistema está aumentando su cobertura en la zonas de Fontibón, Perdomo, Usme, San Cristóbal y Suba Centro, anteriormente atendidas por el esquema provisional.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioDos -->
+            .box-head .titulo .encabezado-texto {
+                border-top: 3px solid rgba(102, 224, 38, 1);
+                border-bottom: 3px solid rgba(102, 224, 38, 1);
+            }
 
-                <!-- collapseTransmilenioTres_Dos -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioTres_Dos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioTres_Dos' aria-expanded='true' aria-controls='collapseTransmilenioTres_Dos'>
-                                Volumen de usuarios
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioTres_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioTres_Dos'>
-                        <div class='panel-body'>
-                            <p>Antes de la pandemia, en Sistema tenía cerca de 4,5 millones de validaciones al día (día hábil) en todos sus componentes. Si bien durante los cierres de Bogotá por las medidas restrictivas de movilidad como medida para contrarrestar la pandemia este número se redujo en un 84%, actualmente el Sistema se ha venido recuperando y registra 3,1 millones de validaciones al día.</p>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioTres -->
+            .box-head .titulo h1 {
+                font-size: 1.5em;
+                font-weight: 300;
+                text-align: center;
+                line-height: 1.2;
+                color: rgba(255, 255, 255, 1);
+            }
+        </style>
 
-                <!-- collapseTransmilenioCuatro_Dos -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioCuatro_Dos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioCuatro_Dos' aria-expanded='true' aria-controls='collapseTransmilenioCuatro_Dos'>
-                                Flota
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioCuatro_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCuatro_Dos'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>
-                                    <p>El Sistema cuenta con 10.472 buses en todos sus componentes que atienden a los usuarios en día hábil de 4 a.m. a 11:00 p.m.</p>
-                                    <ul>
-                                        <li>2.734 buses troncales</li>
-                                        <li>960 buses de alimentación</li>
-                                        <li>6.778 buses zonales</li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioCuatro -->
+        <!-- Nav-tabs  -->
+        <div class="row carrusel">
+            <div class="col-xs-12">
 
-                <!-- collapseTransmilenioCinco_Dos -->
-                <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='headingTransmilenioCinco_Dos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioCinco_Dos' aria-expanded='true' aria-controls='collapseTransmilenioCinco_Dos'>
-                                Mejorando la calidad del aire
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapseTransmilenioCinco_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCinco_Dos'>
-                        <div class='panel-body'>
-                            <ul>
-                                <li>Actualmente el Sistema cuenta con 483 buses eléctricos operativos, de los 1.485 que están contratados y de manera gradual están entrando en operación.</li>
-                                <li>En total, el Sistema cuenta con 1.450 buses con motores de combustión a Gas Natural Vehicular, de los cuales 742 son troncales y 726 son zonales y de alimentación.</li>
-                                <li>Con la tarjeta "TuLlave", estos tres componentes están integrados con una misma tarifa y plataforma de pago.</li>
-                                <li>Además, la infraestructura del Sistema está concebida para tener conexión con los andenes y el espacio público para que los usuarios accedan al Sistema a pie, y también cuenta con más de 6.000 cupos para bicicletas en las 22 bicietaciones que se encuentran en diferente estaciones y portales.</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin TransmilenioCinco -->
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs  nav-justified" role="tablist">
+                    <li class="zpp-tabs" role="presentation" class="active"><a href="#como" aria-controls="como" role="tab" data-toggle="tab">¿Cómo las <br>identifico?</a></li>
+                    <li class="zpp-tabs" role="presentation"><a href="#pago" aria-controls="pago" role="tab" data-toggle="tab">¿Cómo <br>pago?</a></li>
+                    <li class="zpp-tabs" role="presentation"><a href="#zonas" aria-controls="zonas" role="tab" data-toggle="tab">¿En qué zonas <br>funcionan?</a></li>
+                    <li class="zpp-tabs" role="presentation"><a href="#tarifas" aria-controls="tarifas" role="tab" data-toggle="tab">¿Cuáles son<br> las tarifas?</a></li>
+                </ul>
 
-            </div>
+                <div class="tab-content">
 
-        </div>
-
-
-    </div>
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class="descripcion">
-                                        <h3>TELETRABAJO</h3>
-                                        <p><span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta magnam aperiam labore neque quibusdam aliquam nesciunt obcaecati ullam ad facilis excepturi mollitia dolorum voluptatum illum ex nulla doloribus, voluptates consequatur.</span></p>
-                                        <p><span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta magnam aperiam labore neque quibusdam aliquam nesciunt obcaecati ullam ad facilis excepturi mollitia dolorum voluptatum illum ex nulla doloribus, voluptates consequatur.</span></p>
-
-                                    </div>
-                                </div>
-                                <div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class='img-descripcion'>
-
-                                        <div id="carousel-teletrabajo" class="carousel slide" data-ride="carousel">
-                                            <!-- Indicators -->
-                                            <ol class="carousel-indicators">
-                                                <li data-target="#carousel-teletrabajo" data-slide-to="0" class="active"></li>
-                                                <li data-target="#carousel-teletrabajo" data-slide-to="1"></li>
-                                            </ol>
-
-                                            <!-- Wrapper for slides -->
-                                            <div class="carousel-inner" role="listbox">
-                                                <div class="item active">
-                                                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-teletrabajo-1.png" alt="...">
-                                                    <div class="carousel-caption">
-                                                        Obras en ...
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-teletrabajo-2.png" alt="...">
-                                                    <div class="carousel-caption">
-                                                        Obras en ...
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <!-- Controls -->
-                                            <a class="left carousel-control" href="#carousel-teletrabajo" role="button" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                                <span class="sr-only">Anterior</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#carousel-teletrabajo" role="button" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                                <span class="sr-only">Siguiente</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
+                    <div role="tabpanel" class="tab-pane fade in active" id="como">
+                        <div class="como">
+                            <div class="imagen">
                             </div>
-
-
-                            <div class='row'>
-
-                                <div class='col-xs-12 visible-xs'>
-                                    <div class="descripcion">
-                                        <h3>Transmilenio</h3>
-                                        <p>El Sistema Integrado de Transporte Público de Bogotá es un sistema intermodal, que cuenta con el componente Troncal (los buses que transitan por las calzadas exclusivas), el componente Zonal (los buses que circulan por la calzada mixta) y TransMiCable en Ciudad Bolívar.</p>
-
-                                        <div class="boxcordion">
-                                            <div class='panel-group ' id='accordionTransmilenio' role='tablist ' aria-multiselectable='true'>
-
-                                                <!-- collapseTransmilenioUno -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioUno'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioUno' aria-expanded='true' aria-controls='collapseTransmilenioUno'>
-                                                                Infraestructura
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioUno' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioUno'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>
-                                                                    El Sistema cuenta con 152 accesos:
-                                                                    <ul>
-                                                                        <li>
-                                                                            139 estaciones
-                                                                        </li>
-                                                                        <li>
-                                                                            9 portales
-                                                                        </li>
-                                                                        <li>
-                                                                            4 estaciones de TransMicable.
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                                <li>
-                                                                    En total, el Sistema cuenta con 44 patio talleres, de los cuales 11 corresponden al componente Troncal y 33 al zonal.
-                                                                </li>
-                                                                <li>
-                                                                    Para el componente Troncal hay construidos y operativos 114,4 kilómetros de calzada exclusiva. En el componente zonal el Sistema cuenta con 1.889,6 kilómetros de cobertura.
-                                                                </li>
-                                                                <li>
-                                                                    El Sistema tiene 22 biciestaciones distribuidas en estaciones y portales a lo largo de la ciudad con 6.059 cupos disponibles.
-                                                                </li>
-                                                                <li>
-                                                                    El Sistema cuenta con más de 4.000 puntos de recarga externos.
-                                                                </li>
-                                                                <li>
-                                                                    TranMiCable cuenta con 4 estaciones, 163 cabinas y recorre 3,34 kilómetros entre el Portal Tunal y la parte alta de Ciudad Bolívar.
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioUno -->
-
-                                                <!-- collapseTransmilenioDos -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioDos'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioDos' aria-expanded='true' aria-controls='collapseTransmilenioDos'>
-                                                                Ampliación de la cobertura
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioDos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioDos'>
-                                                        <div class='panel-body'>
-                                                            <p>Con la entrada en operación de los nuevos concesionarios del componente zonal y de alimentación, el Sistema está aumentando su cobertura en la zonas de Fontibón, Perdomo, Usme, San Cristóbal y Suba Centro, anteriormente atendidas por el esquema provisional.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioDos -->
-
-                                                <!-- collapseTransmilenioTres -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioTres'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioTres' aria-expanded='true' aria-controls='collapseTransmilenioTres'>
-                                                                Volumen de usuarios
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioTres' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioTres'>
-                                                        <div class='panel-body'>
-                                                            <p>Antes de la pandemia, en Sistema tenía cerca de 4,5 millones de validaciones al día (día hábil) en todos sus componentes. Si bien durante los cierres de Bogotá por las medidas restrictivas de movilidad como medida para contrarrestar la pandemia este número se redujo en un 84%, actualmente el Sistema se ha venido recuperando y registra 3,1 millones de validaciones al día.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioTres -->
-
-                                                <!-- collapseTransmilenioCuatro -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioCuatro'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioCuatro' aria-expanded='true' aria-controls='collapseTransmilenioCuatro'>
-                                                                Flota
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioCuatro' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCuatro'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>
-                                                                    <p>El Sistema cuenta con 10.472 buses en todos sus componentes que atienden a los usuarios en día hábil de 4 a.m. a 11:00 p.m.</p>
-                                                                    <ul>
-                                                                        <li>2.734 buses troncales</li>
-                                                                        <li>960 buses de alimentación</li>
-                                                                        <li>6.778 buses zonales</li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioCuatro -->
-
-                                                <!-- collapseTransmilenioCinco -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioCinco'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenio' href='#collapseTransmilenioCinco' aria-expanded='true' aria-controls='collapseTransmilenioCinco'>
-                                                                Mejorando la calidad del aire
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioCinco' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCinco'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>Actualmente el Sistema cuenta con 483 buses eléctricos operativos, de los 1.485 que están contratados y de manera gradual están entrando en operación.</li>
-                                                                <li>En total, el Sistema cuenta con 1.450 buses con motores de combustión a Gas Natural Vehicular, de los cuales 742 son troncales y 726 son zonales y de alimentación.</li>
-                                                                <li>Con la tarjeta "TuLlave", estos tres componentes están integrados con una misma tarifa y plataforma de pago.</li>
-                                                                <li>Además, la infraestructura del Sistema está concebida para tener conexión con los andenes y el espacio público para que los usuarios accedan al Sistema a pie, y también cuenta con más de 6.000 cupos para bicicletas en las 22 bicietaciones que se encuentran en diferente estaciones y portales.</li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioCinco -->
-
-                                                <!-- collapseTransmilenioSeis -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioSeis'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapseTransmilenioSeis' aria-expanded='true' aria-controls='collapseTransmilenioSeis'>
-                                                                Beneficios de la tarjeta personalizada ´TuLlave´
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioSeis' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioSeis'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>La tarjeta se puede recargar de manera virtual en la página <a href="www.tullaveplus.gov.co" target="_blank" rel="noopener noreferrer">www.tullaveplus.gov.co</a> </li>
-                                                                <li><strong>Trasbordos de $0 a $200:</strong> En una ventana de tiempo de 110 minutos, los usuarios pueden hacer hasta 2 trasbordos a $0 pesos de buses troncales a zonales, o entre zonales. Si el trasbordo es de zonal a troncal, el costo es $200 pesos. En el caso de TransMiCable, hace parte del componente Troncal. Con $2.500 peso llegas a toda la ciudad.</li>
-                                                                <li><strong>Viaje a crédito:</strong> Con la tarjeta personalizada, si el usuario se queda sin saldo el sistema le presta hasta para dos viajes. Una vez haga su recarga, de esta se descuenta el saldo negativo.</li>
-                                                                <li><strong>Bloquear el saldo en caso de pérdida o robo:</strong> En caso de pérdida o robo de la tarjeta, es posible bloquear el saldo. El usuario debe comunicarse a la línea 4824304 en horario y solicitar el bloqueo, y una vez expida una nueva tarjeta recupera su saldo anterior.</li>
-                                                            </ul>
-
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioSeis -->
-
-                                                <!-- collapseTransmilenioSiete -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioSiete'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapseTransmilenioSiete' aria-expanded='true' aria-controls='collapseTransmilenioSiete'>
-                                                                TransMiAPP
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioSiete' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioSiete'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>Al ser la aplicación oficial de TransMilenio y el SITP, es la única que cuenta con información verificada y actualizada del Sistema.</li>
-                                                                <li>Con TransMiApp los usuarios cuentan con toda la información que necesitan del Sistema en la palma de su mano.</li>
-                                                                <li>Con la aplicación se puede conocer la ubicación del bus y el tiempo aproximado de llegada, para que los usuarios puedan programarse mejor.</li>
-                                                                <li>Con la aplicación se puede planear el viaje por medio de la ubicación del usuario (identifica los paraderos que tiene cerca), por el paradero o la estación, o por la ruta que le sirve si ya la conoce.</li>
-                                                            </ul>
-                                                            <p><strong>Plataformas tecnológicas para planificar viaje (WAZE, Google Maps y otras)</strong></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioSiete -->
-
-                                            </div>
-
-                                        </div>
-
-
-                                    </div>
-                                </div>
-
-                                <div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class='img-descripcion'>
-
-                                        <div id="carousel-transmilenio" class="carousel slide" data-ride="carousel">
-                                            <!-- Indicators -->
-                                            <ol class="carousel-indicators">
-                                                <li data-target="#carousel-transmilenio" data-slide-to="0" class="active"></li>
-                                                <li data-target="#carousel-transmilenio" data-slide-to="1"></li>
-                                            </ol>
-
-                                            <!-- Wrapper for slides -->
-                                            <div class="carousel-inner" role="listbox">
-                                                <div class="item active">
-                                                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-transmilenio-1.png" alt="...">
-                                                    <div class="carousel-caption">
-                                                        Obras en ...
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-transmilenio-2.png" alt="...">
-                                                    <div class="carousel-caption">
-                                                        Obras en ...
-                                                    </div>
-                                                </div>
-
-                                            </div>
-
-                                            <!-- Controls -->
-                                            <a class="left carousel-control" href="#carousel-transmilenio" role="button" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                                <span class="sr-only">Anterior</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#carousel-transmilenio" role="button" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                                <span class="sr-only">Siguiente</span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class='col-sm-6 hidden-xs'>
-                                    <div class="descripcion">
-                                        <h3>Transmilenio</h3>
-                                        <p>El Sistema Integrado de Transporte Público de Bogotá es un sistema intermodal, que cuenta con el componente Troncal (los buses que transitan por las calzadas exclusivas), el componente Zonal (los buses que circulan por la calzada mixta) y TransMiCable en Ciudad Bolívar.</p>
-
-                                        <div class="boxcordion">
-                                            <div class='panel-group ' id='accordionTransmilenioDos' role='tablist ' aria-multiselectable='true'>
-
-                                                <!-- collapseTransmilenioUno_Dos -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioUno_Dos'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioUno_Dos' aria-expanded='true' aria-controls='collapseTransmilenioUno_Dos'>
-                                                                Infraestructura
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioUno_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioUno_Dos'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>
-                                                                    El Sistema cuenta con 152 accesos:
-                                                                    <ul>
-                                                                        <li>
-                                                                            139 estaciones
-                                                                        </li>
-                                                                        <li>
-                                                                            9 portales
-                                                                        </li>
-                                                                        <li>
-                                                                            4 estaciones de TransMicable.
-                                                                        </li>
-                                                                    </ul>
-                                                                </li>
-                                                                <li>
-                                                                    En total, el Sistema cuenta con 44 patio talleres, de los cuales 11 corresponden al componente Troncal y 33 al zonal.
-                                                                </li>
-                                                                <li>
-                                                                    Para el componente Troncal hay construidos y operativos 114,4 kilómetros de calzada exclusiva. En el componente zonal el Sistema cuenta con 1.889,6 kilómetros de cobertura.
-                                                                </li>
-                                                                <li>
-                                                                    El Sistema tiene 22 biciestaciones distribuidas en estaciones y portales a lo largo de la ciudad con 6.059 cupos disponibles.
-                                                                </li>
-                                                                <li>
-                                                                    El Sistema cuenta con más de 4.000 puntos de recarga externos.
-                                                                </li>
-                                                                <li>
-                                                                    TranMiCable cuenta con 4 estaciones, 163 cabinas y recorre 3,34 kilómetros entre el Portal Tunal y la parte alta de Ciudad Bolívar.
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioUno -->
-
-                                                <!-- collapseTransmilenioDos_Dos -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioDos_Dos'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioDos_Dos' aria-expanded='true' aria-controls='collapseTransmilenioDos_Dos'>
-                                                                Ampliación de la cobertura
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioDos_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioDos_Dos'>
-                                                        <div class='panel-body'>
-                                                            <p>Con la entrada en operación de los nuevos concesionarios del componente zonal y de alimentación, el Sistema está aumentando su cobertura en la zonas de Fontibón, Perdomo, Usme, San Cristóbal y Suba Centro, anteriormente atendidas por el esquema provisional.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioDos -->
-
-                                                <!-- collapseTransmilenioTres_Dos -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioTres_Dos'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioTres_Dos' aria-expanded='true' aria-controls='collapseTransmilenioTres_Dos'>
-                                                                Volumen de usuarios
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioTres_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioTres_Dos'>
-                                                        <div class='panel-body'>
-                                                            <p>Antes de la pandemia, en Sistema tenía cerca de 4,5 millones de validaciones al día (día hábil) en todos sus componentes. Si bien durante los cierres de Bogotá por las medidas restrictivas de movilidad como medida para contrarrestar la pandemia este número se redujo en un 84%, actualmente el Sistema se ha venido recuperando y registra 3,1 millones de validaciones al día.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioTres -->
-
-                                                <!-- collapseTransmilenioCuatro_Dos -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioCuatro_Dos'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioCuatro_Dos' aria-expanded='true' aria-controls='collapseTransmilenioCuatro_Dos'>
-                                                                Flota
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioCuatro_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCuatro_Dos'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>
-                                                                    <p>El Sistema cuenta con 10.472 buses en todos sus componentes que atienden a los usuarios en día hábil de 4 a.m. a 11:00 p.m.</p>
-                                                                    <ul>
-                                                                        <li>2.734 buses troncales</li>
-                                                                        <li>960 buses de alimentación</li>
-                                                                        <li>6.778 buses zonales</li>
-                                                                    </ul>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioCuatro -->
-
-                                                <!-- collapseTransmilenioCinco_Dos -->
-                                                <div class='panel panel-default'>
-                                                    <div class='panel-heading' role='tab' id='headingTransmilenioCinco_Dos'>
-                                                        <h4 class='panel-title'>
-                                                            <a role='button' data-toggle='collapse' data-parent='#accordionTransmilenioDos' href='#collapseTransmilenioCinco_Dos' aria-expanded='true' aria-controls='collapseTransmilenioCinco_Dos'>
-                                                                Mejorando la calidad del aire
-                                                            </a>
-                                                        </h4>
-                                                    </div>
-                                                    <div id='collapseTransmilenioCinco_Dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingTransmilenioCinco_Dos'>
-                                                        <div class='panel-body'>
-                                                            <ul>
-                                                                <li>Actualmente el Sistema cuenta con 483 buses eléctricos operativos, de los 1.485 que están contratados y de manera gradual están entrando en operación.</li>
-                                                                <li>En total, el Sistema cuenta con 1.450 buses con motores de combustión a Gas Natural Vehicular, de los cuales 742 son troncales y 726 son zonales y de alimentación.</li>
-                                                                <li>Con la tarjeta "TuLlave", estos tres componentes están integrados con una misma tarifa y plataforma de pago.</li>
-                                                                <li>Además, la infraestructura del Sistema está concebida para tener conexión con los andenes y el espacio público para que los usuarios accedan al Sistema a pie, y también cuenta con más de 6.000 cupos para bicicletas en las 22 bicietaciones que se encuentran en diferente estaciones y portales.</li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- /#fin TransmilenioCinco -->
-
-                                            </div>
-
-                                        </div>
-
-
-                                    </div>
-                                </div>
+                            <div class="texto">
+                                <p class="parrafo">Las <span class="txt-enf-v1"><strong>Zonas de Parqueo Pago</strong></span> cuentan con señalización que incluye el ícono de parqueo e información sobre el horario horario y tarifa del servicio.</p>
+                                <p class="parrafo">Cada cupo de estacionamiento está demarcado con un recuadro blanco.</p>
+                                <p class="parrafo">Los cupos de estacionamiento para personas con discapacidad, zonas amarillas, vehículos eléctricos, cargue y descargue y bicicletas tienen demarcación distintiva.</p>
                             </div>
+                        </div>
+                    </div>
+                    <style>
+                        #como {
+                            position: relative;
+                        }
 
-                            <div class='row'>
-                                <div class='col-xs-12 col-sm-6 col-md-6'>
-                                    <div class="descripcion">
-                                        <h3>PLANIFICA TU VIAJE</h3>
-                                        <p>MOVERSE EN TRANSPORTE PÚBLICO</p>
-                                        <p>Recomendaciones de viaje</p>
-                                        <ul>
-                                            <li>Para evitar la aglomeración de usuarios en horas pico, se recomienda escalonar los viajes a lo largo del día, en lo posible en horas valle (9 a.m. a 4 p.m.). El Sistema puede recibir un mayor número de usuarios si estos ingresan de manera espaciada a lo largo del día.</li>
-                                            <li>Planear el viaje en la página web www.transmilenio.gov.co o utilizando la TransMiAPP para identificar las rutas, estaciones y paraderos que le sirven para su recorrido.</li>
-                                        </ul>
+                        .como {
+                            display: grid;
+                            /* gap: 10px; */
+                            grid-auto-flow: dense;
+                            grid-template-columns: 1fr 1fr;
+                            grid-template-rows: auto;
+                            grid-template-areas:
+                                'imagen texto';
+                        }
 
-                                    </div>
-                                </div>
+                        .como .imagen {
+                            grid-area: imagen;
+                        }
 
-                                <div class='col-xs-12 col-sm-6'>
-                                    <div class='img-descripcion'>
+                        .como .texto {
+                            grid-area: texto;
+                        }
 
-                                        <div id="carousel-ptv" class="carousel slide" data-ride="carousel">
-                                            <!-- Indicators -->
-                                            <ol class="carousel-indicators">
-                                                <li data-target="#carousel-ptv" data-slide-to="0" class="active"></li>
-                                                <li data-target="#carousel-ptv" data-slide-to="1"></li>
-                                            </ol>
+                   
+                    </style>
 
-                                            <!-- Wrapper for slides -->
-                                            <div class="carousel-inner" role="listbox">
-                                                <div class="item active">
-                                                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-planifica_tu_viaje-1.png" alt="...">
-                                                    <div class="carousel-caption">
-                                                        Obras en ...
+
+                    <div role="tabpanel" class="tab-pane" id="pago">
+                        <div class="pago">
+                            <div class="imagen">
+                            </div>
+                            <div class="texto">
+                                <p class="parrafo">Es muy sencillo. Debes descargar en tu celular la <span class="txt-enf-v1"><strong>App Zona de Parqueo Pago - Ciudadano</strong></span> y registrarte. Una vez estaciones en el cupo demarcado que encuentres disponible, pagas anticipadamente fracciones de 30 minutos. El pago lo puedes hacer a través de la App o en efectivo con el facilitador que está a cargo de los cupos de parqueo.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <style>
+                        #pago {
+                            display: relative;
+                        }
+
+                        .pago {
+                            display: grid;
+                            /* gap: 10px; */
+                            grid-auto-flow: dense;
+                            grid-template-columns: 1fr 1fr;
+                            grid-template-rows: auto;
+                            grid-template-areas:
+                                'imagen texto';
+                        }
+
+                        #pago .imagen {
+                            grid-area: imagen;
+                        }
+
+                        #pago .texto {
+                            grid-area: texto;
+                        }
+                    </style>
+
+                    <!-- Inicio tarifas -->
+                    <div role="tabpanel" class="tab-pane" id="tarifas">
+
+                        <div class='box-tarifas'>
+                            <div class='box-coll'>
+                                <!-- collapseTarifas -->
+                                <div class='panel-group' id='accordionTarifas' role='tablist ' aria-multiselectable='true'>
+
+                                    <!-- collapseArea1 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='headingArea1'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordionTarifas' href='#collapseArea1' aria-expanded='true' aria-controls='collapseArea1'>
+                                                    ÁREA 1
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapseArea1' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='headingArea1'>
+                                            <div class='panel-body'>
+                                                <div class="row">
+                                                    <div class='col-xs-12 col-sm-6'>
+                                                        <div class='box-img-mapa'>
+                                                            <h4>Mapa ÁREA 1</h4>
+                                                            <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/A1.jpg' alt='Mapa Area 1' title='Mapa Area 1'>
+                                                        </div>
+                                                        <div class="box-txt">
+                                                            <h4>Horario ÁREA 1</h4>
+                                                            <div class="parrafos">
+                                                                <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
+                                                                <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                            </div>
+                                                        </div>
                                                     </div>
-                                                </div>
-                                                <div class="item">
-                                                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-3-planifica_tu_viaje-2.png" alt="...">
-                                                    <div class="carousel-caption">
-                                                        Obras en ...
+
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_1_zonas_parqueo_autos.png" alt="Icono de automovil">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa
+                                                                        <p>Fracción de 30 minutos </p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $3.000</p>
+                                                                        <p>Más de 2 horas: $4.600</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$90.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_2_zonas_parqueo_mtos.png" alt="Icono de motocicleta">
+                                                                </div>
+                                                                <div class="caption">
+
+                                                                    <h4>Tarifa <p>Fracción de 30 minutos </p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $2.100</p>
+                                                                        <p>Más de 2 horas: $3.200</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$63.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
-
-                                            <!-- Controls -->
-                                            <a class="left carousel-control" href="#carousel-ptv" role="button" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                                                <span class="sr-only">Anterior</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#carousel-ptv" role="button" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                                                <span class="sr-only">Siguiente</span>
-                                            </a>
                                         </div>
                                     </div>
+                                    <!-- /#fin Area1 -->
+
+                                    <!-- collapseArea2 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='headingArea2'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordionTarifas' href='#collapseArea2' aria-expanded='true' aria-controls='collapseArea2'>
+                                                    ÁREA 2
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapseArea2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingArea2'>
+                                            <div class='panel-body'>
+                                                <div class='row'>
+                                                    <div class='col-xs-12 col-sm-6'>
+                                                        <div class='box-img-mapa'>
+                                                            <h4>Mapa ÁREA 2</h4>
+                                                            <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/A2.jpg' alt='Mapa Area 2' title='Mapa Area 2'>
+                                                        </div>
+                                                        <div class="box-txt">
+                                                            <h4>Horario ÁREA 2</h4>
+                                                            <div class="parrafos">
+                                                                <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
+                                                                <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_1_zonas_parqueo_autos.png" alt="Icono de automovil">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa
+                                                                        <p>Fracción de 30 minutos</p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $2.600</p>
+                                                                        <p>Más de 2 horas: $4.000</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$90.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_2_zonas_parqueo_mtos.png" alt="icono de motocicleta">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa <p>Fracción de 30 minutos </p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $1.800</p>
+                                                                        <p>Más de 2 horas: $2.800</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$63.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin Area2 -->
+
+                                    <!-- collapseArea3 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='headingArea3'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordionTarifas' href='#collapseArea3' aria-expanded='true' aria-controls='collapseArea3'>
+                                                    ÁREA 3
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapseArea3' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingArea3'>
+                                            <div class='panel-body'>
+                                                <div class='row'>
+                                                    <div class='col-xs-12 col-sm-6'>
+                                                        <div class='box-img-mapa'>
+                                                            <h4>Mapa ÁREA 3</h4>
+                                                            <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/A3.jpg' alt='Mapa Área 3' title='Mapa Area 3'>
+                                                        </div>
+                                                        <div class="box-txt">
+                                                            <h4>Horario ÁREA 3</h4>
+                                                            <div class="parrafos">
+                                                                <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
+                                                                <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_1_zonas_parqueo_autos.png" alt="Icono de automovil">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa
+                                                                        <p>Fracción de 30 minutos</p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $2.800</p>
+                                                                        <p>Más de 2 horas: $4.300</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$90.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_2_zonas_parqueo_mtos.png" alt="icono de motocicleta">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa <p>Fracción de 30 minutos </p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $2.000</p>
+                                                                        <p>Más de 2 horas: $3.000</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$63.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin Area3 -->
+
+                                    <!-- collapseArea4 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='headingArea4'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordionTarifas' href='#collapseArea4' aria-expanded='true' aria-controls='collapseArea4'>
+                                                    ÁREA 4
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapseArea4' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingArea4'>
+                                            <div class='panel-body'>
+                                                <div class='row'>
+                                                    <div class='col-xs-12 col-sm-6'>
+                                                        <div class='box-img-mapa'>
+                                                            <h4>Mapa ÁREA 4</h4>
+                                                            <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/A4.jpg' alt='Mapa Área 4' title='Mapa Area 4'>
+                                                        </div>
+                                                        <div class="box-txt">
+                                                            <h4>Horario ÁREA 4</h4>
+                                                            <div class="parrafos">
+                                                                <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
+                                                                <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_1_zonas_parqueo_autos.png" alt="Icono de automovil">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa
+                                                                        <p>Fracción de 30 minutos</p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $3.100</p>
+                                                                        <p>Más de 2 horas: $4.700</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$90.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_2_zonas_parqueo_mtos.png" alt="icono de motocicleta">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa <p>Fracción de 30 minutos </p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $2.200</p>
+                                                                        <p>Más de 2 horas: $3.300</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$63.000</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                 </div>
+                                <!-- /#fin Area4 -->
 
                             </div>
+                        </div>
+                        <!-- /#fin Tarifas -->
+                    </div>
+                    <!-- Termina tarifas -->
+
+                    <div role="tabpanel" class="tab-pane " id="zonas">
+                        <div class='zonas'>
+                            <div class="msg-1">
+                                <p><span class="txt-enf-v1">Estas zonas son operadas por la Terminal de Transporte de Bogotá y sus dos primeras áreas de implementación están ubicadas en el sector de Chicó Norte, localidad de Chapinero, desde la calle 72 a la calle 100 entre la carrera 7 y la Autopista Norte.</span></p>
+                            </div>
+                            <div class="mapa">
+                                <a href="http://zonadeparqueopago.gov.co/Recursos/Ultima_Version/2021-10-25_piezas-web-zonas-de-parqueo-mapa_3_0.png" target="_blank" rel="noopener noreferrer">
+                                    <img class='img-responsive w-100 img-mapa' src='http://zonadeparqueopago.gov.co/Recursos/Ultima_Version/2021-10-25_piezas-web-zonas-de-parqueo-mapa_3_0.png' alt='mapa de las zonas de parqueo pago' title='mapa de las zonas de parqueo pago'>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <style>
+                        #zonas {
+                            display: relative;
+                        }
+
+                        .zonas {
+                            display: grid;
+                            /* gap: 10px; */
+                            grid-auto-flow: dense;
+                            grid-template-columns: 1fr 1fr 1fr;
+                            grid-template-rows: auto;
+                            grid-template-areas:
+                                'texto imagen imagen';
+                        }
+
+                        #zonas .mapa {
+                            grid-area: imagen;
+                            padding: 15px;
+                        }
+
+                        #zonas .msg-1 {
+                            grid-area: texto;
+                        }
+
+                        @media(max-width:767px) {
+                            .box-head {
+                                grid-template-columns: 1fr;
+                                grid-template-areas:
+                                    'logo'
+                                    'titulo';
+                            }
+
+                            .como,
+                            .pago,
+                            .zonas {
+                                grid-template-columns: 1fr;
+                                grid-template-areas:
+                                    'texto'
+                                    'imagen';
+                            }
+                        }
+
+                        @media(min-width:768px) {}
+
+                        @media(min-width:992px) {}
+
+                        @media(min-width:1200px) {}
+                    </style>
+                </div>
+            </div>
+        </div>
+        <!-- Fin Nav-tabs  -->
+
+        <hr>
+        <div class="row acordeon">
+            <div class="titulo">
+                <h3>Preguntas Frecuentes</h3>
+            </div>
+            <div class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 zpp-acordeon">
+
+                <!-- collapsepreguntas -->
+                <div class='panel-group' id='accordionpreguntas' role='tablist' aria-multiselectable='true'>
+
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingpreguntas'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsepreguntas' aria-expanded='true' aria-controls='collapsepreguntas'>
+                                    1. ¿Qué son las Zonas de Parqueo Pago? </a>
+                            </h4>
+                        </div>
+                        <div id='collapsepreguntas' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingpreguntas'>
+                            <div class='panel-body'>
+                                <p>Son áreas de la ciudad en las cuales la Alcaldía Mayor de Bogotá permite el estacionamiento de vehículos en vía a cambio de un pago por el uso de estos espacios.</p>
+                                <p>Las Zonas de Parqueo Pago permiten que el espacio público tenga un uso adecuado y eficiente, organizan la movilidad, reducen la congestión vehicular y generan recursos públicos para fortalecer el Sistema Integrado de Transporte Público de la ciudad.</p>
+
+                            </div>
+                        </div>
+                    </div>
 
 
 
+                    <!-- collapsep2 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp2'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep2' aria-expanded='true' aria-controls='collapsep2'>
+                                    2. ¿Cómo se identifican las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp2'>
+                            <div class='panel-body'>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-4">
+                                        <div class="img-fondo-1">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-8">
+                                        <div class="img-fondo-2">
 
+                                        </div>
+                                    </div>
+                                </div>
+                                <p>Por su demarcación en el piso y la señalización, así:</p>
+                                <ul>
+                                    <li>El recuadro, cupo o cajón de estacionamiento está demarcado con pintura blanca.</li>
+                                    <li>Las señales de tránsito informativas indican el horario y la tarifa del servicio.</li>
+                                    <p>Adicionalmente, las zonas de parqueo pago cuentan con demarcación distintiva en el piso para:</p>
+                                    <ul>
+                                        <li>Vehículos de personas con discapacidad (con igual tarifa que los automóviles).</li>
+                                        <li>Vehículos eléctricos (sin costo durante la primera hora y luego de ese lapso de tiempo aplica la misma tarifa que para automóviles).</li>
+                                        <li>Vehículos para cargue y descargue de mercancías (las actividades de cargue y descargue de mercancías no tendrán costo si se realizan en las áreas autorizadas. Si se usan las Zonas de Parqueo Pago, la tarifa será la misma que la de los automóviles, multiplicada por cada espacio, cupo o cajón de estacionamiento que ocupe el vehículo).</li>
+                                        <li>Estacionamiento de motocicletas (aplican las tarifas para este tipo de vehículos).</li>
+                                        <li>Estacionamiento de bicicletas (sin costo).</li>
+                                    </ul>
+                                </ul>
 
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p2 -->
 
+                    <!-- collapsep3 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp3'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep3' aria-expanded='true' aria-controls='collapsep3'>
+                                    3. ¿Cómo se seleccionan las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep3' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp3'>
+                            <div class='panel-body'>
+                                <p>La zonificación y priorización se hace con una metodología que contempla criterios de demanda de estacionamiento, uso del suelo, seguridad ciudadana y seguridad vial, así como registros históricos de invasión del espacio público por parqueo en vía.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p3 -->
 
+                    <!-- collapsep4 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp4'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep4' aria-expanded='true' aria-controls='collapsep4'>
+                                    4. ¿En qué lugares se pueden implementar las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep4' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp4'>
+                            <div class='panel-body'>
+                                <p>En vías locales e intermedias y en las bahías expresamente autorizadas por la Secretaría Distrital de Movilidad.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p4 -->
 
+                    <!-- collapsep5 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp5'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep5' aria-expanded='true' aria-controls='collapsep5'>
+                                    5. ¿En dónde no se pueden implementar las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep5' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp5'>
+                            <div class='panel-body'>
+                                <ul>
+                                    <li>Vías principales, para no generar congestión vehicular.</li>
+                                    <li>Donde estén ubicados paraderos del SITP.</li>
+                                    <li>Vías de doble sentido con un solo carril por sentido.</li>
+                                    <li>Vías con aproximación a intersecciones semaforizadas.</li>
 
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p5 -->
 
+                    <!-- collapsep6 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp6'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep6' aria-expanded='true' aria-controls='collapsep6'>
+                                    6. ¿En qué áreas de la ciudad operan las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep6' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp6'>
+                            <div class='panel-body'>
+                                <p>Actualmente las Zonas de Parqueo Pago operan:</p>
+                                <ul>
+                                    <li>Desde la calle 127 hasta la calle 100 entre Carrera 5ª y Autopista Norte.</li>
+                                    <li>Desde la calle 100 hasta la calle 72 entre Carrera 7ª y Autopista Norte.</li>
+                                    <li>Desde la calle 72 hasta la calle 45 entre la Carrera 2ª y la Av. Caracas.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p6 -->
 
-                            <h2><strong>Conozca la reglamentación y las restricciones a la circulación de vehículos en Bogotá por tipo de servicio.</strong></h2>
+                    <!-- collapsep7 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp7'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep7' aria-expanded='true' aria-controls='collapsep7'>
+                                    7. ¿Cómo se pueden ubicar las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep7' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp7'>
+                            <div class='panel-body'>
+                                <div class='row'>
+                                    <!-- xs -->
+                                    <div class='col-xs-10 col-xs-offset-1'>
+                                        <img class='img-responsive w-100 ' src='https://zonadeparqueopago.gov.co/Recursos/Ultima_Version/2021-10-25_piezas-web-zonas-de-parqueo-mapa_2_0.png' alt='Zonas de Parqueo Mapa' title='Zonas de Parqueo Mapa'>
+                                    </div>
+                                </div>
+                                <br>
+                                <p>Los ciudadanos podrán consultar los mapas georreferenciados de las Zonas de Parqueo Pago a través de la APP móvil que próximamente estará disponible Play Store (Android) y App Store (iOS).*Esquema Área de Implementación 1 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p7 -->
 
-<div class="row">
-	<div class="col-sm-12">
-		<hr>
-		<p style="text-align: center;"><a class="btn btn-primary btn-lg btn-block" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-12-31/calendario_pico_y_placa_primer_semestre_2022_a.pdf" role="button" target="_blank">Pico y placa PRIMER SEMESTRE 2022</a></p>
+                    <!-- collapsep8 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp8'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep8' aria-expanded='true' aria-controls='collapsep8'>
+                                    8. ¿Las Zonas de Parqueo Pago cuentan con personal en vía?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep8' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp8'>
+                            <div class='panel-body'>
+                                <div class="row">
+                                    <div class="col-xs-12 col-sm-6">
+                                        <div class="img-fondo-3">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-6">
+                                        <div class="img-fondo-4">
 
-		<hr><!-- 
-<p style="text-align: center;"><a class="btn btn-primary btn-lg btn-block" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-11-05/pico_y_placa_semestre_ii_de_2021_-_noviembre.pdf" role="button" target="_blank">Pico y placa SEGUNDO SEMESTRE 2021</a></p>
-<hr>
---></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <p>Sí. Las Zonas de Parqueo Pago cuentan con facilitadores que apoyan la operación en vía y que están debidamente identificados y dotados con gorra y chaqueta de color azul con los logos de la Zona de Parqueo Pago, la Terminal de Transporte de Bogotá y la Alcaldía Mayor de Bogotá.</p>
+                                <p>Canales:</p>
+                                <ul>
+                                    <li>Teléfono de contacto ZPP: <a href="tel:+6019193333">(+57)(601) 919-3333</a></li>
+                                    <li>Correo electrónico: <a href="mailto:zonadeparqueopago@terminaldetransporte.gov.co">zonadeparqueopago@terminaldetransporte.gov.co</a></li>
+                                    <li>Página web: <a href="http://www.zonadeparqueopago.gov.co" target="_blank" rel="noopener noreferrer">www.zonadeparqueopago.gov.co</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p8 -->
+
+                    <!-- collapsep9 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp9'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep9' aria-expanded='true' aria-controls='collapsep9'>
+                                    9. ¿Cuáles son los canales de atención al usuario?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep9' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp9'>
+                            <div class='panel-body'>
+                                <p>Además del canal presencial con los facilitadores, se han dispuesto dos (2) canales de atención a los usuarios:</p>
+                                <ul>
+                                    <li><strong>Teléfono de contacto ZPP: </strong> <a href="tel:+576019193333">(+57)(601) 919-3333</a></li>
+                                    <li><strong>Correo electrónico: </strong><a href="mailto:zonadeparqueopago@terminaldetransporte.gov.co">zonadeparqueopago@terminaldetransporte.gov.co</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p9 -->
+
+                    <!-- collapsep10 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp10'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep10' aria-expanded='true' aria-controls='collapsep10'>
+                                    10. ¿En qué horarios funcionan las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep10' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp10'>
+                            <div class='panel-body'>
+                                <dl>
+                                    <dt>Lunes a viernes:</dt>
+                                    <dd>8:30 a.m. – 10:00 p.m.</dd>
+                                </dl>
+                                <dl>
+                                    <dt>Sábados:</dt>
+                                    <dd>10:00 a.m. – 10:00 p. m.</dd>
+                                </dl>
+                                <dl>
+                                    <dt>*En algunas calles el horario cambia y se rige de acuerdo con la información contenida en la señal de tránsito.</dt>
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p10 -->
+
+                    <!-- collapsep11 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='headingp11'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep11' aria-expanded='true' aria-controls='collapsep11'>
+                                    11. ¿Qué pasa si el usuario no paga por estacionar en las Zonas de Parqueo Pago?
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapsep11' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp11'>
+                            <div class='panel-body'>
+                                <p>El usuario debe pagar anticipadamente por fracciones de 30 minutos. Si no lo hace o no renueva el tiempo pagado inicialmente, se inmovilizará el vehículo con la instalación de un cepo. <strong>El valor del retiro del cepo es de $90.000 para automóviles y $63.000 para motos.</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /#fin p11 -->
+
+                </div>
+                <!-- /#fin preguntas -->
+
+                <!--Boton de descarga APK-->
+                <div class="box-botones">
+                    <div class="boton-android">
+                        <a href="https://t.co/5zf0gqda7b" class="btn btn-zpp" target="_blank" rel="noopener noreferrer">Descargar App Android</a>
+                    </div>
+                    <div class="boton-ios">
+                        <a href="https://t.co/CHZpHq2kho" class="btn btn-zpp" target="_blank" rel="noopener noreferrer">Descargar App iOS</a>
+                    </div>
+                </div>
+                <style>
+                    .box-botones {
+                        display: grid;
+                        grid-template-columns: repeat(2, 1fr);
+                        grid-template-rows: auto;
+                        grid-gap: 6px;
+                        justify-items: center;
+                        align-items: center;
+                        justify-content: space-around;
+                    }
+
+                    .box-botones .btn-zpp {
+                        background-color: rgba(25, 28, 58, 1);
+                        color: rgba(255, 255, 255, 1);
+                    }
+
+                    .box-botones .btn-zpp:hover {
+                        background-color: rgba(15, 18, 28, 1);
+                        color: rgba(255, 255, 255, 1);
+                    }
+
+                    .box-botones .btn-zpp:focus,
+                    .box-botones .btn-zpp:active {
+                        background-color: rgba(102, 224, 38, 1);
+                        color: rgba(25, 28, 58, 1);
+                    }
+                </style>
+
+                <!--#Fin de boton de descarga APK-->
+
+            </div>
+        </div>
+        <hr>
+        <div class="row acordeon">
+            <div class="titulo">
+                <h3>Normatividad Vigente Zonas de Parqueo Pago</h3>
+            </div>
+            <div class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 zpp-acordeon">
+                <!-- collapse_normatividad -->
+                <div class='panel-group ' id='accordion_normatividad' role='tablist ' aria-multiselectable='true'>
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='heading_normatividad'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordion_normatividad' href='#collapse_normatividad' aria-expanded='true' aria-controls='collapse_normatividad'>
+                                    Ver Más
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapse_normatividad' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_normatividad'>
+                            <div class='panel-body'>
+                                <ul>
+                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20171228_-_acuerdo_695_de_2017_autoriza_cobro_tasa_por_derecho_de_estacionamiento.pdf" target="_blank" rel="noopener noreferrer">20171228 - Acuerdo 695 DE 2017 autoriza cobro tasa por derecho de estacionamiento</a></li>
+                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20180615_-_decreto_distrital_325_de_2018_elimina_poliza_rce.pdf" target="_blank" rel="noopener noreferrer">20180615 - Decreto Distrital 325 de 2018 (elimina póliza RCE)</a></li>
+                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20190828_-_decreto_519_de_2019.pdf" target="_blank" rel="noopener noreferrer">20190828 - Decreto 519 de 2019</a></li>
+                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20211012_-_decreto_379_de_2021_-_modificatorio_decreto_519_de_2019_eev.pdf" target="_blank" rel="noopener noreferrer">20211012 - Decreto 379 de 2021 - Modificatorio Decreto 519 de 2019 EEV</a></li>
+                                    <li><a href="http://zonadeparqueopago.gov.co/Recursos/Documentos/20220405-Zonas_de_Parqueo_Pago-ZPP-Contrato_Usuario-Operador_v4.pdf" target="_blank" rel="noopener noreferrer">20220404 - Contrato Usuario Operador</a></li>
+                                    <li><a href="http://zonadeparqueopago.gov.co/Recursos/Documentos/20211029-Resolución_SDM_108551_tarifas_EEV.pdf" target="_blank" rel="noopener noreferrer">20211029 - Resolución SDM 108551 tarifas EEV</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /#fin _normatividad -->
+            </div>
+        </div>
+        <hr>
+        <div class='row'>
+            <div class='col-xs-12 text-center'>
+                <div class="msg-2">
+                    <p>Para mayor información, escríbenos al correo:</p>
+                    <p><mark><a href="mailto:zonadeparqueopago@terminaldetransporte.gov.co"><strong>zonadeparqueopago@terminaldetransporte.gov.co</strong></a></mark></p>
+                </div>
+            </div>
+        </div>
+        <hr>
+    </div>
 </div>
+<!-- End Set Wrapper -->
 
-<p><span style="font-size:18px;">Las restricciones de circulación en Bogotá, entre ellas la medida conocida como “Pico y Placa” están definidas por el tipo de vehículo y la normativa respectiva que se sustenta en sus respectivos Decretos.</span></p>
+<!-- Styles -->
+<style type='text/css'>
+    .field-item.even h2 {
+        visibility: hidden;
+        margin-top: -50px;
+    }
 
-<div class="row">
-	<div class="col-sm-10">
-		<div class="panel-group" id="accordion">
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse1">Vehículos de Servicio Particular</a></h4>
-				</div>
+    .region-content {
+        padding: 0px;
+        overflow: hidden;
+    }
 
-				<div class="panel-collapse collapse" id="collapse1">
-					<div class="panel-body"><a data-saferedirecturl="https://www.google.com/url?q=https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i%3D55963&amp;source=gmail&amp;ust=1613173740739000&amp;usg=AFQjCNGrJYZTC_tRjzzPlnCh-2WXJ76hdw" href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=55963" target="_blank">Decreto 575 del 17 de diciembre de 2013</a>&nbsp;“Por medio del cual se dictan disposiciones para el mejor ordenamiento del tránsito de vehículos automotores de servicio particular por las vías públicas en el Distrito Capital, y se derogan los Decretos Distritales 271 y 300 de 2012” modificado por el&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i%3D67497&amp;source=gmail&amp;ust=1613173740739000&amp;usg=AFQjCNF9KGRrXohq9CDXzQ9dlQGIu-RbHA" href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=67497" target="_blank">Decreto 515 del 22 de noviembre de 2016</a>&nbsp;“Por medio del cual se toman medidas para el mejor ordenamiento del tránsito en las vías públicas de todo el perímetro del Distrito Capital, y se dictan otras disposiciones”, por el&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i%3D88574&amp;source=gmail&amp;ust=1613173740739000&amp;usg=AFQjCNFIB21KrLKxOQZ43k2Vi3nfblIcmg" href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=88574" target="_blank">Decreto 846</a>&nbsp;“Por medio del cual se modifican los artículos 4 y 6 del Decreto Distrital 575 de 2013” y derogada temporalmente por el&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i%3D97386&amp;source=gmail&amp;ust=1613173740739000&amp;usg=AFQjCNHpLspkpmOze0Ij1WZj10aUmlUcCA" href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=97386" target="_blank">Decreto 208</a>&nbsp;de 2020 "Por medio del cual se establece una medida transitoria de restricción de circulación vehicular en la ciudad de Bogotá y se dictan otras disposiciones”. Para mayor información como la dirección de los límites del pico y placa de vehículos del servicio particular u otra información consultar:&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://movilidadbogota.maps.arcgis.com/apps/Cascade/index.html?appid%3D5995d86ebcd34be1ba11bb22719394ee&amp;source=gmail&amp;ust=1613173740739000&amp;usg=AFQjCNFrRqb0ARM9aSpxIrA9pH8-aDhiaQ" href="https://movilidadbogota.maps.arcgis.com/apps/Cascade/index.html?appid=5995d86ebcd34be1ba11bb22719394ee" target="_blank">https://<wbr>movilidadbogota.maps.arcgis.<wbr>com/apps/Cascade/index.html?<wbr>appid=<wbr>5995d86ebcd34be1ba11bb22719394<wbr>ee</a></div>
-				</div>
-			</div>
+    .zpp {
+        max-width: 980px;
+        word-wrap: break-word;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        text-align: justify;
+        line-height: 1.4;
+        color: rgba(25, 25, 25, 1);
+    }
 
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse2">Vehículos de Servicio Público Individual de Pasajeros</a></h4>
-				</div>
+    /*
+    .zpp [class*='col-'] {
+        margin: 0px;
+        padding: 0px;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+    }
+    */
 
-				<div class="panel-collapse collapse" id="collapse2">
-					<div class="panel-body"><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=4643&amp;dt=S">Decreto 660 del 27 de agosto de 2001</a>. “Por el cual se toman medidas para el mejor ordenamiento del tránsito de vehículos en las vías públicas de Bogotá, D.C. y se modifica el Decreto 621 de 2001”</div>
-				</div>
-			</div>
+    .w-100 {
+        width: 100%;
+    }
+</style>
+<!-- End Styles -->
 
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse3">Vehículos de Servicio Público Transporte terrestre automotor Especial</a></h4>
-				</div>
+<style>
+    .seccion .no-padding {
+        padding: 0px !important;
+    }
 
-				<div class="panel-collapse collapse" id="collapse3">
-					<div class="panel-body">Vehículos de Servicio Público de Transporte terrestre automotor Especial, clase automóvil, camioneta o campero, con capacidad para 4 pasajeros sin incluir conductor. <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=66359&amp;dt=S">Decreto 248 del 14 de junio de 2016</a>. “Por medio del cual se toman medidas para el ordenamiento del tránsito de vehículos de transporte público especial en las vías públicas del Distrito Capital, y se dictan otras disposiciones”.</div>
-				</div>
-			</div>
+    /* encabezado */
+    /* .encabezado {
+        background-color: #191C3A; 
+        border-bottom: solid 10px #66e026;
+    }
 
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse5">Vehículos de Servicio Público Colectivo</a></h4>
-				</div>
+    .encabezado .encabezado-img {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+    }
 
-				<div class="panel-collapse collapse" id="collapse5">
-					<div class="panel-body"><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=59702&amp;dt=S">Decreto 444 del 14 de octubre de 2014</a>. "Por medio del cual se toman medidas para el ordenamiento del tránsito de los vehículos de transporte público colectivo en las vías públicas del Distrito Capital, durante su etapa de transición al Sistema Integrado de Transporte Público -SITP" Medida suspendida por el <a href="https://bogota.gov.co/mi-ciudad/seguridad/cuarentena/decreto-126-de-2020-medidas-para-manejo-de-la-pandemia-por-covid-19">Artículo 13 del Decreto Distrital 126 de 2020 </a> “Por medio del cual se establecen medidas transitorias para el manejo del riesgo derivado de la pandemia por Coronavirus COVID-19 durante el estado de calamidad pública declarado en el distrito capital y se toman otras determinaciones” Vehículos de Servicio Público Colectivo. <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=59702&amp;dt=S">Decreto 444 del 14 de octubre de 2014</a>. "Por medio del cual se toman medidas para el ordenamiento del tránsito de los vehículos de transporte público colectivo en las vías públicas del Distrito Capital, durante su etapa de transición al Sistema Integrado de Transporte Público -SITP" Medida suspendida por el <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=92900" target="_blank">Artículo 13 del Decreto Distrital 126 de 2020</a>&nbsp;“Por medio del cual se establecen medidas transitorias para el manejo del riesgo derivado de la pandemia por Coronavirus COVID-19 durante el estado de calamidad pública declarado en el distrito capital y se toman otras determinaciones”</div>
-				</div>
-			</div>
+    .encabezado .encabezado-img img {
+        width: 70%;
+        margin: auto;
+    }
 
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse6">Vehículos de Servicio Público Colectivo con restricción ambiental</a></h4>
-				</div>
+    .encabezado .encabezado-texto {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 90%;
+        height: 200px;
+        margin: auto;
+    }
 
-				<div class="panel-collapse collapse" id="collapse6">
-					<div class="panel-body"><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=20361&amp;dt=S">Decreto 174 del 30 de mayo de 2006</a> "Por medio del cual se adoptan medidas para reducir la contaminación y mejorar la calidad del Aire en el Distrito Capital" modificado por el Decreto <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=21050&amp;dt=S">Distrital 325 de 2006</a> "Por medio del cual se corrige un error en el Decreto 174 de 2006, "por medio de cual se adoptan medidas para reducir la contaminación y mejorar la calidad del Aire en el Distrito Capital" Medida suspendida por el <a href="https://bogota.gov.co/mi-ciudad/seguridad/cuarentena/decreto-126-de-2020-medidas-para-manejo-de-la-pandemia-por-covid-19">Artículo 13 del Decreto Distrital 126 de 2020</a> “Por medio del cual se establecen medidas transitorias para el manejo del riesgo derivado de la pandemia por Coronavirus COVID-19 durante el estado de calamidad pública declarado en el distrito capital y se toman otras determinaciones”.</div>
+    .encabezado .encabezado-texto p {
+        padding: 3%;
+        font-weight: normal;
+        text-align: center;
+        line-height: 1.2;
+        color: rgba(255, 255, 255, 1);
+        border-top: solid 3px #66e026;
+        border-bottom: solid 3px #66e026;
+    }
 
-					<div class="panel-body"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-07-16/decreto_073_de_2021.pdf" target="_blank">Decreto 073 de 16 de marzo de 2021</a>&nbsp;“Por medio del cual se toman medidas para la regulación y control del tránsito en Bogotá D.C. y se dictan otras disposiciones”</div>
-				</div>
-			</div>
+} */
+    .txt-enf-v1 {
+        color: #66e026;
+        font-size: 1.1em;
+    }
 
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse7">Vehículos de Carga con restricción por generación vehicular</a></h4>
-				</div>
+    /* fin encabezado */
 
-				<div class="panel-collapse collapse" id="collapse7">
-					<div class="panel-body"><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=88592">Decreto 840 del 27 de diciembre de 2019 modificado por el Decreto 077 de marzo de 2020</a> "Por medio del cual se establecen las condiciones y restricciones para el tránsito de los vehículos de transporte de carga en el Distrito Capital, y se dictan otras disposiciones"</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+    /* navtabs */
+
+    .box-txt {
+        padding: 15px;
+    }
+
+    .box-txt h4 {
+        font-weight: 700;
+        text-align: left;
+        line-height: 1.2;
+        color: #191C3A;
+    }
+
+    .box-txt .parrafos p {
+        font-weight: 500;
+        text-align: left;
+        line-height: 1.4;
+        color: rgba(25, 25, 25, 1);
+    }
+
+    .zpp-tabs {
+        width: 100%;
+        text-align: center;
+        font-size: 1.5em;
+        padding-bottom: 4px;
+    }
+
+
+    .nav>li>a {
+        padding: 5px !important;
+    }
+
+    .nav-tabs>li>a {
+        background-color: #191C3A !important;
+        color: #66e026 !important;
+        margin-right: 0px !important;
+        border-radius: 2px !important;
+        font-weight: 700;
+    }
+
+    .nav-tabs>li>a:hover {
+        background-color: #111326 !important;
+        color: #fff !important;
+    }
+
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:focus,
+    .nav-tabs>li.active>a:hover {
+        color: rgba(25, 25, 25, 1) !important;
+        cursor: default;
+        background-color: #66e026 !important;
+        border-bottom-color: transparent;
+    }
+
+    .nav-tabs .field-item.even .zpp-tabs:hover {
+        background-color: #66e026 !important;
+
+    }
+
+    @media(max-width:767px) {
+        .nav-tabs>li>a {
+            font-size: calc(0.5em + 1vw);
+        }
+    }
+
+    @media(min-width:768px) {
+        .nav-tabs>li>a {
+            font-size: calc(0.5em + 1vw);
+        }
+    }
+
+    @media(min-width:992px) {
+        .nav-tabs>li>a {
+            font-size: 0.8em;
+        }
+
+    }
+
+    /* fin navtabs */
+
+
+    .tab-content {
+        margin-top: 10px;
+    }
+
+    /* .tab-content .col-xs-12,
+    .tab-content .col-sm-6 {
+        padding-left: 0px;
+        padding-right: 0px;
+    } */
+
+    #como .imagen {
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-10-2021/2021-10-26_piezas-web-zonas-de-parqueo-montaje_4.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top center;
+        border-top: solid 5px #191C3A;
+        border-bottom: solid 10px #191C3A;
+    }
+
+    #pago .imagen {
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2021/cuadrada_3_zonas_parqueo.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top center;
+        border-top: solid 5px #191C3A;
+        border-bottom: solid 10px #191C3A;
+    }
+
+    .texto {
+        height: 400px !important;
+        border-top: solid 5px #66e026;
+        border-bottom: solid 10px #66e026;
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-10-2021/2021-10-25_piezas-web-zonas-de-parqueo-textura-900-x-900-100_0.png');
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: #191C3A;
+        padding: 2%;
+        text-align: center;
+        color: #fff;
+
+
+    }
+
+    .box-img-mapa {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .box-img-mapa h4 {
+        font-weight: 700;
+        text-align: left;
+        line-height: 1.2;
+        color: #191C3A;
+    }
+
+    .pills {
+        /* margin-top: 2rem;
+        margin-left: 3rem;
+        margin-right: 3rem;
+        margin-bottom: 2rem; */
+    }
+
+    .thumbnail {
+        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        margin: 0px 5px 15px 5px;
+
+    }
+
+    .thumbnail .box-img-thumb {
+        padding: 15px;
+        background-color: #66e026;
+    }
+
+    .thumbnail .box-img-thumb img {
+        width: 60%;
+        margin: auto;
+    }
+
+    .imagen {
+        height: 400px;
+        background-color: #66e026;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .thumbnail .caption {
+        text-align: center;
+        /* height: 260px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0px !important;
+    }
+
+    .caption h4 {
+        color: #66e026;
+        font-weight: 700;
+        padding: 5px;
+        background-color: #191C3A;
+        margin: 0px;
+    }
+
+    .caption h4 small {
+        color: #fff;
+        font-weight: 700;
+        font-size: 0.9em;
+        text-align: center;
+        line-height: 1.2;
+        margin: 0px;
+
+    }
+
+    .caption .caption-parrafos {
+        padding: 5px;
+    }
+
+    .caption .caption-parrafos p {
+        color: rgba(25, 25, 25, 1);
+        /* height: 30px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        font-weight: 500;
+    }
+
+    #accordionTarifas .panel-default>.panel-heading {
+        color: #191C3A;
+        background-color: #f5f5f5;
+        border-color: #ddd;
+        border-radius: 0px !important;
+    }
+
+    #accordionTarifas .panel-heading {
+        padding: 6px 15px !important;
+    }
+
+    .msg-1 {
+        color: rgba(255, 255, 255, 1);
+        background-color: #191C3A;
+        padding: 20px;
+        font-weight: 500;
+        text-align: center;
+        line-height: 1.2;
+    }
+
+
+    .acordeon .zpp-acordeon {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .msg-2 {
+        font-size: calc(1rem + 0.6vw);
+        color: #191C3A;
+        padding: 10px;
+        word-break: break-all;
+    }
+
+    mark {
+        background-color: #66e026 !important;
+        color: black;
+    }
+
+    .msg-2 mark a {
+        color: #191C3A;
+    }
+
+
+    .zpp-acordeon .panel-heading {
+        /* background-color: #191C3A !important;
+        border: solid 2px #191C3A !important; */
+    }
+
+    .zpp-acordeon .panel-heading .panel-title {
+        color: #191C3A;
+        text-align: left;
+        padding-left: 8px;
+    }
+
+    .zpp-acordeon .panel-heading .panel-title a {
+        text-decoration: none;
+        /* font-size: calc(1rem + 0.5vw); */
+        font-weight: 500;
+    }
+
+    .zpp-acordeon .panel-collapse .panel-body {
+        /* background-color: #f5f5f5; */
+    }
+
+    .titulo {
+        /* margin-bottom: 30px; */
+    }
+
+    .titulo h3 {
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #191C3A;
+        /* text-shadow: 2px 2px 5px #4e4e4e; */
+        text-align: center;
+        margin: 25px;
+    }
+
+    .titulo-2 {
+        margin-top: 30px;
+        margin-bottom: 15px;
+        border-top: solid 3px #191C3A;
+        border-bottom: solid 5px #66e026;
+        background-color: #191C3A;
+    }
+
+    .titulo-2 h3 {
+        font-size: calc(1rem + 0.8vw);
+        font-weight: 700;
+        text-transform: uppercase;
+        color: #fff;
+        text-shadow: 2px 2px 5px #4e4e4e;
+        text-align: center;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+
+
+    .mapa .col-xs-12,
+    .mapa .col-sm-12 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .panel .panel-body .img-fondo-1 {
+        height: 16vw;
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-10-2021/zpp-img-1.jpg');
+        background-size: cover;
+        background-position: right;
+        margin-bottom: 15px;
+    }
+
+    .panel .panel-body .img-fondo-2 {
+        height: 16vw;
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-10-2021/zpp-img-2.jpg');
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 15px;
+    }
+
+    .panel .panel-body .img-fondo-3 {
+        height: 26vw;
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-10-2021/personal_en_via_1.jpg');
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 15px;
+    }
+
+    .panel .panel-body .img-fondo-4 {
+        height: 26vw;
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-10-2021/personal_en_via_2.jpg');
+        background-size: cover;
+        background-position: center;
+        margin-bottom: 15px;
+    }
+
+
+    #accordion_normatividad .collapse a {
+        color: #191C3A;
+        text-decoration: none;
+    }
+
+    #accordion_normatividad .collapse a:hover {
+        color: #191C3A;
+        font-weight: 900;
+        text-decoration: underline #191C3A;
+    }
+
+    /* Media rules */
+    @media(max-width:767px) {
+        /* #como .imagen {
+            height: 160px;
+        } */
+
+        /* #como .texto {
+            height: 610px;
+        } */
+
+        #pago .imagen {
+            height: 73vw;
+        }
+
+        #pago .texto {
+            height: 610px;
+        }
+
+        /* .pills {
+            margin: 0% 15%;
+        } */
+
+        .pills .thumbnail {
+            padding: 0px;
+        }
+
+        .pills .thumbnail>img {
+            padding: 5px;
+        }
+
+        .caption p {
+            margin-bottom: 5px;
+        }
+
+    }
+
+    @media(min-width:768px) {
+
+        .encabezado .encabezado-img {
+            padding: 30px;
+            height: 468px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .encabezado .encabezado-img img {
+            /* width: 100%; */
+
+        }
+
+        .encabezado .encabezado-texto {
+            height: 468px;
+        }
+
+        .encabezado .encabezado-texto p {
+            font-size: 1.2em;
+        }
+
+        /* #como .texto {
+            height: 400px !important;
+        } */
+
+
+        #pago .texto {
+            height: 400px !important;
+        }
+
+        .texto .parrafo {
+            font-size: 1.2em;
+            margin: 8px;
+        }
+
+        .msg-1 {
+            height: 363px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: calc(0.55em + 1vw);
+            /* margin: 5px; */
+        }
+
+        .mapa {
+            background-color: #191C3A;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 363px;
+        }
+
+        .mapa img {
+            max-height: 363px;
+            width: 100%;
+            margin: auto;
+        }
+    }
+
+    @media(min-width:992px) {
+        .encabezado .encabezado-texto p {
+            font-size: 1.3em;
+        }
+
+        .msg-1 {
+            font-size: 1.3em;
+            margin: auto;
+        }
+    }
+
+    @media(min-width:1200px) {
+        .encabezado .encabezado-texto p {
+            font-size: 1.5em;
+        }
+    }
+
+    /* Fin media rules */
+</style>
