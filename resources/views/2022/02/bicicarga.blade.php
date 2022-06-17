@@ -18,6 +18,16 @@
 			</div>
 		</div>
 
+		<div class='row'> 
+			<div class='col-xs-12 col-sm-8 col-sm-offset-2'>
+				<div class='video'>
+					<div class='embed-responsive embed-responsive-16by9'>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa-xEiPbB64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+
 		<div class="row">
 			<div class="col-sm-5 col-sm-offset-1">
 				<h3>BiciCarga ¿Qué es?</h3>
@@ -34,7 +44,7 @@
 			<div class="col-sm-8">
 				<h3 style="color: #fff;"><a href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="text-decoration: none; color: #fff;" target="_blank">Resultados</a></h3>
 
-				<p style="color: #fff;"><a href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="text-decoration: none; color: #fff;" target="_blank">En cualquier lugar en el que vivas, existe la probabilidad de ver que las bicicletas de carga lleguen al barrio como una opción de transporte sostenible, conveniente e inclusivo. Entérate de los resultados del piloto BiciCarga sobre ciclologística en Bogotá.</a></p>
+				<p style="color: #fff;"><a href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="text-decoration: none; color: #fff;" target="_blank">En cualquier lugar en el que vivas, existe la probabilidad de ver que las bicicletas de carga lleguen al barrio como una opción de transporte sostenible, conveniente e inclusivo. Entérate de los resultados de la Fase I del piloto BiciCarga sobre ciclologística en Bogotá.</a></p>
 				<div class="text-center">
 					<a class="btn btn-primary btn-resultados" href="https://www.movilidadbogota.gov.co/web/bicicarga_resultados" style="color: #fff;"><strong>Click aquí</strong></a>
 				</div>
@@ -44,7 +54,6 @@
 		<div class="row">
 			<div class="col-sm-10 col-sm-offset-1">
 				<h3>Socios del proyecto</h3>
-
 				<p>Conoce al equipo multidisciplinario que trabajó para implementar un piloto de distribución de última milla con bicicletas eléctricas de carga.</p>
 			</div>
 		</div>
@@ -325,9 +334,9 @@
 			<div class="col-sm-10 col-sm-offset-1">
 				<h3>BiciCarga Fase 2</h3>
 
-				<p>BiciCarga Fase 2 se centra en la implementación de una operación de distribución de mercancías de última milla o a nivel de barrio, a través de bicicletas o triciclos de carga eléctrica de cero emisiones con paneles solares como fuente de energía. </p>
-				<p>Durante 5 meses, BiciCarga proporcionará asistencia técnica para su implementación, monitoreo y formulación de recomendaciones para la adopción por parte de empresas privadas y promoción desde la formulación de política pública de las autoridades. </p>
-				<p>En esta segunda fase, BiciCarga busca:</p>
+				<p>BiciCarga Fase 2 se centró en la implementación de una operación de distribución de mercancías de última milla, último kilómetro o a nivel de barrio, a través de bicicletas o triciclos de carga eléctrica de cero emisiones con paneles solares como fuente de energía.</p>
+				<p>Durante 5 meses, BiciCarga proporcionó asistencia técnica para su implementación, monitoreo y formulación de recomendaciones para la adopción por parte de empresas privadas y promoción desde la formulación de política pública de las autoridades.</p>
+				<p>En esta segunda fase, BiciCarga buscó:</p>
 				<ul>
 					<li>Impulsar la masificación de un modelo colaborativo de logística sostenible y renovable basado en la ciclo logística para la distribución de mercancía de carga seca y fría en su fase de última milla o a nivel de barrio en Colombia.</li>
 					<li>Informar al gobierno local sobre las barreras sociales, económicas, operativas y de infraestructura de energía no convencional renovable para promover un servicio sostenible de entrega de mercancía de última milla o a nivel de barrio en Bogotá.</li>
