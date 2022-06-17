@@ -35,7 +35,7 @@
                             <div class="row">
                                 <div class="col-xs-12 col-sm-4 pr0">
                                     <div class="img-boton">
-                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/micrositio_sys_mipg.png" alt="">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2022/propuesta_logo_sgc_op2_b.png" alt="">
                                     </div>
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
