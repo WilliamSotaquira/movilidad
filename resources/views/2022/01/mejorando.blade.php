@@ -25,7 +25,7 @@
         /* background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-1-general_textura_1_fondo_claro.png'); */
         font-family: 'Montserrat', sans-serif;
         font-size: 15px;
-        font-weight: normal;
+        font-weight: 500;
         text-align: justify;
         line-height: 1.4;
     }
@@ -241,7 +241,7 @@
 
     .tabs .paragraph-video {
         padding: 8px;
-        /* height: 80px; */
+        height: 120px;
         display: flex;
         /* flex-direction: column; */
         justify-content: start;
@@ -379,8 +379,8 @@
 
     .s2 .btn-boletin .descripcion-boletin {
         padding: 0px;
-        height: 20px;
-        white-space: nowrap;
+        height: 60px;
+        /* white-space: nowrap; */
         overflow: hidden;
         text-overflow: ellipsis;
     }
@@ -1049,20 +1049,22 @@
         .s1 .p-encabezado {
             height: 230px;
         }
+
         .tabs .paragraph-video {
-        padding: 8px;
-        height: 80px;
-        display: flex;
-        /* flex-direction: column; */
-        justify-content: start;
-        align-items: center;
-    }
-    .s2 .descripcion {
-        padding: 15px;
-        height: 500px;
-        overflow-y: scroll;
-        margin-bottom: 16px;
-    }
+            padding: 8px;
+            height: 120px;
+            display: flex;
+            /* flex-direction: column; */
+            justify-content: start;
+            align-items: center;
+        }
+
+        .s2 .descripcion {
+            padding: 15px;
+            height: 500px;
+            overflow-y: scroll;
+            margin-bottom: 16px;
+        }
 
     }
 
@@ -1147,8 +1149,8 @@
                 <div class='col-xs-12 col-sm-6'>
                     <div class='v-encabezado'>
                         <div class="video-encabezado">
-                            <iframe width='100%' src="https://www.youtube.com/embed/-X-zxETwiUM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <!-- <iframe  width='100%' height="100%" src="https://www.youtube.com/embed/ECspQF9KOCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                            <iframe width='100%' src="https://www.youtube.com/embed/qhfOZARgxS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <!-- <iframe  width='100%' height="100%" src="https://www.youtube.com/embed/qhfOZARgxS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
                         </div>
                     </div>
                 </div>
@@ -1291,7 +1293,7 @@
                                     <h3 class="color1">Bogotá en obra</h3>
                                 </div>
                                 <div class="box-paragraph">
-                                    <p>Moverte en Bogotá con medios de transporte alternativos, es una buena opción en tiempos de obra</p>
+                                    <p>La ciudad actualmente cuenta con cientos de obras que apuestan al mejoramiento de malla vial y la movilidad de la ciudad. Conoce en los siguientes videos, algunos informes de estas obras.</p>
                                 </div>
 
 
@@ -1307,7 +1309,7 @@
                                                     </div>
                                                     <div class="paragraph-video">
                                                         <div>
-                                                            <p>La extensión de la Av Caracas es una realidad. Esta obra ayudará a desgongestionar esta zona de la ciudad.</p>
+                                                            <p>Con la extensión de la Av Caracas desde Molinos hasta el Portal de Usme en el sur de la ciudad, acabará con la congestión de esta zona. Mira este video y conoce detalles de la obra.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1323,7 +1325,7 @@
                                                     </div>
                                                     <div class="paragraph-video">
                                                         <div>
-                                                            <p>La extensión de la Av Ciudad de Cali conectará San Bernandino y el municipio de Soacha.</p>
+                                                            <p>La extensión de la Av Ciudad de Cali conectará San Bernandino y el municipio de Soacha. Mira este video y conoce detalles.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1339,7 +1341,7 @@
                                                     </div>
                                                     <div class="paragraph-video">
                                                         <div>
-                                                            <p>La nueva AV Rincón beneficiará 1`200.000 personas.</p>
+                                                            <p>En este video te contaremos cómo la ampliación de la Av Rincón desde la Av Boyacá hasta la Cra 91, promete descongestionar la movilidad a los que quieran llegar a Suba por esta vía.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1355,7 +1357,7 @@
                                                     </div>
                                                     <div class="paragraph-video">
                                                         <div>
-                                                            <p>La ciudad se encuentra construyendo la Av Guayacanes que ayudará a descongestionar esta zona de la ciudad con 13 km.</p>
+                                                            <p>La localidad de Kennedy y Bosa se beneficiará con la construcción de este puente vehícular el cual conectará la ciudad de Oriente a Sur. Mira este video y conoce más detalles.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1371,7 +1373,7 @@
                                                     </div>
                                                     <div class="paragraph-video">
                                                         <div>
-                                                            <p>La localidad de Barrios Unidos se verá beneficiada con esta obra.</p>
+                                                            <p>El barrio 12 de Octubre está en obra y la intervención de sus aceras y pasos peatonales busca beneficiar la accesibilidad y protección de los peatones. Mira este video y conoce los detalles.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1387,7 +1389,7 @@
                                                     </div>
                                                     <div class="paragraph-video">
                                                         <div>
-                                                            <p>El ciclo puente de los Molinos de 290 metros brindará seguridad a los ciclistas para cruzar la autopista norte.</p>
+                                                            <p>El ciclo puente de los Molinos de 290 metros brindará seguridad a los ciclistas para cruzar la autopista norte. Si montas Bici este video te interesa.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1448,7 +1450,7 @@
                                         <dt>Costo total:</dt>
                                         <dd>$709.430 millones entre obra e interventoría</dd>
                                     </dl>
-                                    <p>Esta obra de 17 kilómetros consta de nueve tramos y beneficiará a los habitantes de 10 localidades de Bogotá que reducirán sus tiempos de viaje al 50% del tiempo a través del sistema de transporte masivo de la ciudad, pues se conectará con la Primera Línea de Metro y con 5 troncales. Se calcula que en todo su desarrollo, la obra generará alrededor de 39.000 empleos, entre directos e indirectos. Incorporará el mejoramiento del paisaje, mediante la plantación de arbolado urbano. Se pasará de 3.600 árboles a 4.774 al finalizar la obra y se plantarán 53.000 m2 de jardinería, algo que no existía. Además incorporará 140 tipologías de Sistemas Urbanos de Drenaje Sostenible (SUDS). La operación de transporte público por este corredor se hará con buses cero emisiones.</p>
+                                    <p>Esta obra de 17 kilómetros consta de nueve tramos y beneficiará a los habitantes de 10 localidades de Bogotá que reducirán sus tiempos de viaje al 50% del tiempo a través del sistema de transporte masivo de la ciudad, pues se conectará con la Primera Línea de Metro y con 5 troncales.</p>
                                     <br>
                                     <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
@@ -1480,7 +1482,7 @@
                                         <dt>Costo total:</dt>
                                         <dd>$709.430 millones entre obra e interventoría</dd>
                                     </dl>
-                                    <p>Esta obra de 17 kilómetros consta de nueve tramos y beneficiará a los habitantes de 10 localidades de Bogotá que reducirán sus tiempos de viaje al 50% del tiempo a través del sistema de transporte masivo de la ciudad, pues se conectará con la Primera Línea de Metro y con 5 troncales. Se calcula que en todo su desarrollo, la obra generará alrededor de 39.000 empleos, entre directos e indirectos. Incorporará el mejoramiento del paisaje, mediante la plantación de arbolado urbano. Se pasará de 3.600 árboles a 4.774 al finalizar la obra y se plantarán 53.000 m2 de jardinería, algo que no existía. Además incorporará 140 tipologías de Sistemas Urbanos de Drenaje Sostenible (SUDS). La operación de transporte público por este corredor se hará con buses cero emisiones.</p>
+                                    <p>Esta obra de 17 kilómetros consta de nueve tramos y beneficiará a los habitantes de 10 localidades de Bogotá que reducirán sus tiempos de viaje al 50% del tiempo a través del sistema de transporte masivo de la ciudad, pues se conectará con la Primera Línea de Metro y con 5 troncales.</p>
                                     <br>
                                     <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
@@ -1540,7 +1542,6 @@
                                         <dd>2,6 billones de pesos</dd>
                                     </dl>
                                     <p>Este corredor beneficiará a 1 millón 100 mil habitantes de las localidades de Bosa (14 barrios) y Kennedy (22 barrios), aumentará la frecuencia y velocidad de viaje en el transporte público, y facilitará la conexión con el municipio de Soacha. Su construcción contempla 8 estaciones de TransMilenio nuevas, 7 cicloestaciones, 1 puente peatonal de acceso al sistema y la futura estación del Metro, 1 puente peatonal y conexión a través de una pasarela, con la futura estación del Metro. Además tendrá una glorieta elevada de tráfico mixto, 1 glorieta vehicular a nivel para buses biarticulados y una ciclorruta bidireccional por el costado occidental.</p>
-                                    <p>Tendrá dos conexiones clave: operacional con la Troncal Américas de TM e intermodal con Primera Línea de Metro de Bogotá a la altura de la Av. 1º. de Mayo. Contempla 137.897 m2 de espacio público, 75.212,78 m2 de zonas verdes, 421,25 metros de ciclorruta en andenes, 5.466,17 metros de ciclorruta continua, 242,58 m de ciclorruta reconstruida. La operación de transporte público por este corredor se hará con buses cero emisiones.</p>
                                     <br>
                                     <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-ciudad-de-cali" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-ciudad-de-cali</a></p>
                                 </div>
@@ -1566,7 +1567,6 @@
                                     </dl>
                                     <p>El proyecto en construcción contempla dos tramos principales: la prolongación de la Avenida Rincón, desde la Carrera 91 hasta la Boyacá; y la intersección de las dos Avenidas.</p>
                                     <p>Tendrá dos conexiones clave: operacional con la Troncal Américas de TM e intermodal con Primera Línea de Metro de Bogotá a la altura de la Av. 1º. de Mayo. Contempla 137.897 m2 de espacio público, 75.212,78 m2 de zonas verdes, 421,25 metros de ciclorruta en andenes, 5.466,17 metros de ciclorruta continua, 242,58 m de ciclorruta reconstruida. La operación de transporte público por este corredor se hará con buses cero emisiones.</p>
-                                    <p>Este proyecto mejorará las condiciones de infraestructura para la movilidad, seguridad y comodidad a peatones y conductores, disminuyendo los tiempos de desplazamiento de los ciudadanos y aumentando los niveles de competitividad de las zonas de influencia, como consecuencia del progresivo crecimiento que registra actualmente esta parte de la ciudad.</p>
                                     <p>El proyecto se ubica en la localidad de Suba, donde se espera que beneficie a 1.200.000 personas, entre los habitantes de las UPZ Niza, Rincón y Floresta, con sus 82 barrios, y ciudadanía que transita por las vías en ejecución.</p>
 
                                 </div>
@@ -1587,7 +1587,6 @@
                                     </dl>
                                     <p>El proyecto en construcción contempla dos tramos principales: la prolongación de la Avenida Rincón, desde la Carrera 91 hasta la Boyacá; y la intersección de las dos Avenidas.</p>
                                     <p>Tendrá dos conexiones clave: operacional con la Troncal Américas de TM e intermodal con Primera Línea de Metro de Bogotá a la altura de la Av. 1º. de Mayo. Contempla 137.897 m2 de espacio público, 75.212,78 m2 de zonas verdes, 421,25 metros de ciclorruta en andenes, 5.466,17 metros de ciclorruta continua, 242,58 m de ciclorruta reconstruida. La operación de transporte público por este corredor se hará con buses cero emisiones.</p>
-                                    <p>Este proyecto mejorará las condiciones de infraestructura para la movilidad, seguridad y comodidad a peatones y conductores, disminuyendo los tiempos de desplazamiento de los ciudadanos y aumentando los niveles de competitividad de las zonas de influencia, como consecuencia del progresivo crecimiento que registra actualmente esta parte de la ciudad.</p>
                                     <p>El proyecto se ubica en la localidad de Suba, donde se espera que beneficie a 1.200.000 personas, entre los habitantes de las UPZ Niza, Rincón y Floresta, con sus 82 barrios, y ciudadanía que transita por las vías en ejecución.</p>
 
                                 </div>
@@ -1714,8 +1713,6 @@
                                     <p>Esta vía de 13 km de longitud atraviesa las localidades de Bosa y Kennedy. Es una enorme avenida con 6 carriles (tres por cada sentido) andenes amplios y una ciclorruta en toda su extensión. Se trata de una vía paralela a las avenidas Ciudad de Cali y Boyacá, que también se conectará con la Avenida Bosa para salir de la ciudad por el vecino municipio de Soacha.</p>
                                     <p>Esta obra beneficiará a 1.500.000 personas y habitantes de 130 barrios que hoy en día se demoran hasta 2 horas desplazándose desde el suroccidente al centro de la ciudad, cuando la obra termine podrán hacerlo en tan solo 30 minutos.</p>
                                     <p>Tendrá dos conexiones clave: operacional con la Troncal Américas de TM e intermodal con Primera Línea de Metro de Bogotá a la altura de la Av. 1º. de Mayo. Contempla 137.897 m2 de espacio público, 75.212,78 m2 de zonas verdes, 421,25 metros de ciclorruta en andenes, 5.466,17 metros de ciclorruta continua, 242,58 m de ciclorruta reconstruida. La operación de transporte público por este corredor se hará con buses cero emisiones.</p>
-                                    <p>Mejorará la calidad del aire, gracias a la plantación de 3.374 árboles nuevos a lo largo del trayecto y el establecimiento de 18.304 m2 en el área de jardinería, localizados en espacio público.</p>
-                                    <p>Esta obra ha generado cerca de 1.540 empleos de mano de obra calificada y no calificada, en línea con las acciones de reactivación económica de la ciudad.</p>
                                     <br>
                                     <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
@@ -1733,17 +1730,12 @@
                                     <p>Esta vía de 13 km de longitud atraviesa las localidades de Bosa y Kennedy. Es una enorme avenida con 6 carriles (tres por cada sentido) andenes amplios y una ciclorruta en toda su extensión. Se trata de una vía paralela a las avenidas Ciudad de Cali y Boyacá, que también se conectará con la Avenida Bosa para salir de la ciudad por el vecino municipio de Soacha.</p>
                                     <p>Esta obra beneficiará a 1.500.000 personas y habitantes de 130 barrios que hoy en día se demoran hasta 2 horas desplazándose desde el suroccidente al centro de la ciudad, cuando la obra termine podrán hacerlo en tan solo 30 minutos.</p>
                                     <p>Tendrá dos conexiones clave: operacional con la Troncal Américas de TM e intermodal con Primera Línea de Metro de Bogotá a la altura de la Av. 1º. de Mayo. Contempla 137.897 m2 de espacio público, 75.212,78 m2 de zonas verdes, 421,25 metros de ciclorruta en andenes, 5.466,17 metros de ciclorruta continua, 242,58 m de ciclorruta reconstruida. La operación de transporte público por este corredor se hará con buses cero emisiones.</p>
-                                    <p>Mejorará la calidad del aire, gracias a la plantación de 3.374 árboles nuevos a lo largo del trayecto y el establecimiento de 18.304 m2 en el área de jardinería, localizados en espacio público.</p>
-                                    <p>Esta obra ha generado cerca de 1.540 empleos de mano de obra calificada y no calificada, en línea con las acciones de reactivación económica de la ciudad.</p>
                                     <br>
                                     <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
                                 </div>
                             </div>
                         </div>
-
-
-
 
 
                         <!-- Fin Seccion Detalle las obras  -->
@@ -1772,15 +1764,19 @@
                             <div class='col-xs-12 col-sm-6'>
                                 <div class="descripcion">
                                     <p>La Unidad de Mantenimiento Vial (UMV), como encargada de conservar la malla vial local, intermedia y rural, así como la cicloinfraestructura, en compañía del Instituto de Desarrollo Urbano (IDU) avanzan en el Plan Tapahuecos dentro de la estrategia de La Bogotá Que Estamos Construyendo que incluye reparar 56.000 huecos y hacer mantenimiento a 18,7 km/carril (equivalentes a 117 calles de doble carril).</p>
-                                    <p>La UMV apoya estas jornadas con 10 unidades operativas, también conocidas como cuadrillas, con más de 100 personas, con maquinaria y equipo y 2 unidades móviles de parcheo que estarán atendiendo los daños viales reportados por la ciudadanía.</p>
-                                    <p>Este plan se ejecuta en 9 corredores de la malla vial principal de la ciudad (entradas y salidas de la ciudad) y vías aferentes a estos. Adicionalmente, se dispone de capacidad para atender otros corredores viales que sean priorizados de acuerdo con los reportes de la ciudadanía.</p>
-                                    <p>Por su parte, el IDU dispuso de 47 frentes de obra, amparados por 20 contratos de obra e interventoría que trabajan en segmentos de corredores viales priorizados y en 13 por emergencia.</p>
                                     <br>
                                     <p class="ver">Ver más sobre el Plan Tapahuecos: <a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer">https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/</a></p>
 
                                 </div>
                             </div>
-
+                        </div>
+                        <br>
+                        <div class='row'>
+                            <div class='col-xs-12 col-sm-12'>
+                                <div class="">
+                                    <p>A continuación puedes conocer el detalles de los reportes de huecos y los avences de los mismos.</p>
+                                </div>
+                            </div>
                         </div>
                         <br>
                         <div class="row">
@@ -1809,17 +1805,15 @@
                         </div>
                         <div class='row'>
 
-                            <div class='col-xs-12'>
+                            <!-- <div class='col-xs-12'>
                                 <div class='img-descripcion'>
 
                                     <div id="carousel-tito" class="carousel slide" data-ride="carousel">
-                                        <!-- Indicators -->
                                         <ol class="carousel-indicators">
                                             <li data-target="#carousel-tito" data-slide-to="0" class="active"></li>
                                             <li data-target="#carousel-tito" data-slide-to="1"></li>
                                         </ol>
 
-                                        <!-- Wrapper for slides -->
                                         <div class="carousel-inner" role="listbox">
                                             <div class="item active">
                                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-01-2022/tito1_a.webp" alt="...">
@@ -1831,7 +1825,6 @@
                                             </div>
                                         </div>
 
-                                        <!-- Controls -->
                                         <a class="left carousel-control" href="#carousel-tito" role="button" data-slide="prev">
                                             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                                             <span class="sr-only">Anterior</span>
@@ -1842,10 +1835,10 @@
                                         </a>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class='col-xs-12'>
                                 <div class="introduccion">
-                                    <p>Hoy visitamos una de las cientos de zonas que se encuentran interviniendo para recuperar la malla vial de la ciudad. </p>
+                                    <p>En esta sección encontrarás historias de cómo Bogotá está en obra, cómo podemos ayudar a descongestionar la ciudad y las alternativas que tenemos para movilizarnos. Disfruta cada uno de los siguientes capítulos.</p>
                                 </div>
                             </div>
 
@@ -1853,38 +1846,64 @@
 
                         </div>
                         <hr>
-                        <div class='row'>
-                            <div class='col-xs-12'>
-
-                                <div class="box-videos">
-
-                                    <div class='row'>
-                                        <div class='col-xs-12 col-sm-12'>
-                                            <div class='video-bem'>
-                                                <div class="titulo-video-bem">
-                                                    <h4 class="color4">Capítulo 1.</h4>
-                                                </div>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width='100%' src="https://www.youtube.com/embed/ECspQF9KOCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="descripcion">
-                                                    <div>
-                                                        <p>Moverte en Bogotá con medios de transporte alternativos, es una buena opción en tiempos de obra . Mira este video y conoce que te ofrece el Distruto para esta alternativa transporte y móntate a esta onda.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
+                        <div class='grid-videos-historias'>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/ECspQF9KOCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
-
+                                <h4>¿Cómo está mejorando Bogotá?</h4>
+                                <p>Moverte en Bogotá con medios de transporte alternativos, es una buena opción en tiempos de obra . Mira este video y conoce que te ofrece el Distrito para esta alternativa transporte y móntate a esta onda.</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2IsHPlMG_V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>¿En que va el plan de choque?</h4>
+                                <p>La ciudad entró en obra y tapar los huecos es una prioridad . Mira este video y conoce detalles de cómo se está haciendo</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/kNSHg2uvDck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>Bogotá está mejorando construyendo la Troncal de la Av. 68</h4>
+                                <p>Cientos de obras se realizan hoy en Bogotá. La Av 68 es una de las más representativas . Mira este video y conoce detalles</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/SQtQltzt9fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>Cómo aplicar a la excepción de carro compartido</h4>
+                                <p>Compartir el carro es una forma de ayudar a construir la ciudad que queremos. Descontamina y ayuda a la movilidad . Mira este video y compártelo.</p>
                             </div>
 
                         </div>
+                        <style>
+                            .tab-pane .grid-videos-historias {
+                                display: grid;
+                                /* grid-auto-flow: dense; */
+                                column-gap: 40px;
+                                row-gap: 40px;
+                                grid-template-rows: auto;
+                                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                            }
+                            .grid-videos-historias h4{
+                                font-weight: 700;
+                                text-align: left;
+                                line-height: 1.2;
+                                color: rgba(25, 25, 25, 1);
+                                margin: 8px;
+                            }
+                            .grid-videos-historias p{
+                                font-size: 1em;
+                                font-weight: 500;
+                                text-align: justify;
+                                line-height: 1.4;
+                                color: rgba(25, 25, 25, 1);
+                                margin: 8px;
+                            }
+                        </style>
+                        <hr>
+
                         <!-- Fin hisotias de Bogota en obra  -->
 
 
@@ -1911,6 +1930,173 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
+                                    <!-- collapse_jun22 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_jun22'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_jun22' aria-expanded='true' aria-controls='collapse_jun22'>
+                                                    Boletines Junio 2022
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_jun22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_jun22'>
+                                            <div class='panel-body'>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Lsw9Rh-dBGcd2apkLeDganV8Vxkn1mSz/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 120</h4>
+                                                                <i>miércoles, 15 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Estas son las rutas alternas para vehículos particulares, por cierres del metro en la calle 72. La UMV hizo mejoras en el espacio público ubicado alrededor de Corabastos. Inician reparaciones en la malla vial de Usaquén. Por primera vez realizó simulacro de rescate vertical simultáneo en TransmiCable. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/14B8YYl458Oze513o59U2EgJvQpPpbaXj/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 119</h4>
+                                                                <i>martes, 14 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conozca las vías que cambian de sentido con el cierre de la calle 72. La UMV mejora la malla vial de importantes vías en la localidad de Chapinero. TransMilenio pone a disposición de los usuarios un servicio zonal adicional para la segunda vuelta de elecciones presidenciales. IDU: Con la temporada de lluvias se retrasan las obras que estamos construyendo en Bogotá. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Vu_AMxC6Xxjc2MNhf_qgPAaaz4czDlNP/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 118</h4>
+                                                                <i>lunes, 13 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierre de andenes en la Avenida Ciudad de Cali. 4 rutas troncales amplían su horario de funcionamiento. A la UMV llegó una nueva máquina trituradora, que optimizará el proceso de producción de mezcla de asfalto en frío o fresado estabilizado. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1HTQ1cS4FiA5o1chv0_MbxAEGk0kMjqLt/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 117</h4>
+                                                                <i>viernes, 10 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La Unidad de Mantenimiento Vial atendió los daños viales que afectaban la movilidad de la carrera 60 alrededor de la biblioteca Virgilio Barco. Desde el próximo lunes habrá cambios en dos rutas zonales. Cierres viales por obras en Zona Rosa. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1KXShzqz27gQK4627s_oaZrQH9hrZqS0z/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 116</h4>
+                                                                <i>jueves, 9 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Obras en la Av. Boyacá entre calles 170 y 183. ¡En la Unidad de Mantenimiento Vial cuidamos el medio ambiente! Este viernes TRANSMILENIO S.A. apoyará feria de empleabilidad en la localidad Rafael Uribe Uribe, </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-08_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 115</h4>
+                                                                <i>miércoles, 8 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres en obra de Avenida 68, Alimentadora de la Línea Metro. Cómo bloquear la tarjeta Tullave en caso de pérdida. Conozca el trabajo que adelanta la UMV en el barrio Santa Lucia, localidad Rafael Uribe Uribe. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-07_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 114</h4>
+                                                                <i>martes, 7 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La UMV está en el barrio San Eusebio en la localidad de Puente Aranda. Trabajos de conservación vial en la localidad de Suba. 32 personas capturadas en flagrancia y una por orden judicial en el Sistema de Transporte de Bogotá. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-06_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 113</h4>
+                                                                <i>lunes, 6 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Bogotá se unió a la celebración del Día Mundial de la Bicicleta. Cierre de espacio público por avance de obra en Canal Molinos. Más de 190 mil tarjetas se han perdido en lo corrido del año. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-03_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 112</h4>
+                                                                <i>viernes, 3 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La UMV apoya a los campesinos de Ciudad Bolívar con el mejoramiento de sus vías rurales. Avances de la Avenida El Rincón. Desde el próximo lunes habrá cambios en dos rutas zonales. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-02_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 111</h4>
+                                                                <i>jueves, 2 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Así fue nuestro trabajo en la localidad Rafael Uribe Uribe durante los primeros cinco meses del año. Trabajos para mejorar el estado de los andenes. Cambio temporal en recorrido de la ruta zonal C97A. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-01_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 110</h4>
+                                                                <i>miércoles, 1 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Inicio de actividades en calles de Engativá. Sandra Chaves, la mujer detrás de la operación de buses más grande del país. Conozca qué es el material bituminoso reciclado que utiliza la UMV para intervenir, en tiempo récord, pequeños daños viales. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin _jun22 -->
+
                                     <!-- collapse_may22 -->
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_may22'>
@@ -1920,8 +2106,64 @@
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_may22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_may22'>
+                                        <div id='collapse_may22' class='panel-collapse collapse ' role='tabpanel' aria-labelledby='heading_may22'>
                                             <div class='panel-body'>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-31_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 109</h4>
+                                                                <i>martes, 31 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Desde el martes, 31 de mayo, algunos servicios zonales modifican sus horarios. En la tradicional cuadra de los cueros, en el barrio Siete de Agosto, la UMV mejoró sus calles aledañas. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-27_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 108</h4>
+                                                                <i>viernes, 27 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La UMV mejora las ciclorrutas del barrio Salitre en la localidad de Teusaquillo. TransMilenio pone a disposición de los usuarios un servicio zonal adicional para las elecciones. Cierres en la Avenida 68. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-26_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 107</h4>
+                                                                <i>jueves, 26 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Grandes empresas del sector público y privado se unen para promover el ‘Carro Compartido’ en Bogotá. Cierres en la Zona Rosa. Así funcionará TransMilenio durante la jornada electoral del 29 de mayo. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-25_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 106</h4>
+                                                                <i>miércoles, 25 de mayo de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Traslados de paradas de rutas alimentadoras de la estación Molinos. Cierres en andenes sobre la Avenida 68. Así trabaja la fresadora nueva que adquirió recientemente la UMV. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
 
                                                 <div class='col-xs-12'>
                                                     <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2022/2022-05-24_boletin_la_bogota_que_estamos_construyendo_compressed.pdf'>
