@@ -109,7 +109,86 @@
             }
         }
     </style>
-    <div class="s1">
+    <div class="gridDescripcion">
+        <div class="textoDescripcion">
+            <p>Los <strong>Agentes de Tránsito Civiles son empleados públicos investidos de autoridad como Agentes de Tránsito y Transporte</strong>, vinculados directamente y vigilados de manera estricta por la Secretaría Distrital de Movilidad. Ellos velarán por el orden del flujo vehicular y peatonal en las vías públicas mediante funciones preventivas, de asistencia técnica, regulación y control de las normas de tránsito.</p>
+        </div>
+        <div class="videoDescripcion">
+            <div class='video'>
+                <div class='embed-responsive embed-responsive-4by3'>
+                    <iframe width='100%' src="https://www.youtube.com/embed/Q8SU2pkA8zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="parrafoVideo">
+                    <p>Su apoyo es fundamental en la planeación, gestión, administración y logística de los temas de tránsito en la ciudad. ¡Conócelos y acata con respeto sus indicaciones!</p>
+                </div>
+            </div>
+        </div>
+        <div class="videoExperiencia">
+            <div class='video'>
+                <div class='embed-responsive embed-responsive-4by3'>
+                    <iframe width='100%' src="https://www.youtube.com/embed/4bs70TOlECU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="parrafoVideo">
+                    <p>Carlos Balaguera es uno de los Agentes de Tránsito Civiles que a diario trabaja por mejorar la movilidad de la ciudad. En este vídeo te contamos su historia y cómo su gestión en vía es tan importante para todos los ciudadanos.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        .gridDescripcion {
+            padding: 30px;
+
+            display: grid;
+            gap: 30px;
+            grid-auto-flow: dense;
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: auto;
+            grid-template-areas:
+                'texto texto'
+                'video1 video2';
+        }
+
+        .textoDescripcion {
+            grid-area: texto;
+        }
+
+        .textoDescripcion p {
+            font-size: 16px;
+            font-weight: 500;
+            text-align: left;
+            line-height: 1.5;
+            color: rgba(25, 28, 58, 1);
+        }
+
+        .videoDescripcion {
+            grid-area: video1;
+        }
+
+        .videoExperiencia {
+            grid-area: video2;
+        }
+
+        .video p {
+            font-size: 15px;
+            font-weight: 500;
+            text-align: justify;
+            line-height: 1.5;
+            color: rgba(25, 28, 58, 1);
+            padding: 10px;
+        }
+
+        @media(max-width:767px) {
+            .gridDescripcion {
+                grid-template-columns: 1fr;
+                grid-template-areas:
+                    'texto'
+                    'video1'
+                    'video2';
+                padding: 10px;
+            }
+        }
+    </style>
+    <!-- <div class="s1">
         <div class="row atc_enc_res">
             <div class="col-xs-12 col-sm-5">
                 <div class="res_txt">
@@ -120,14 +199,14 @@
             </div>
             <div class="col-xs-12 col-sm-7">
                 <div class="res_video">
-                    <!-- 16:9 aspect ratio -->
+                    
                     <div class="embed-responsive embed-responsive-16by9">
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/VKaHaeY1n0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="pilares">
         <div class="nav-box">
             <div class="titulo-nav">
@@ -924,10 +1003,11 @@
         .img4 {
             height: 320px;
         }
+
         .pilares .nav-box .titulo-nav {
             height: 60px;
         }
-  
+
 
     }
 
