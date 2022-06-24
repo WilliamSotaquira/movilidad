@@ -34,7 +34,7 @@
     </div>
     <div class="col-sm-6">
         <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota">
-            <img alt="Mapa de Ciclorrutas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/2021-12-02_banner-mapa-ciclorrutas_900x300.png" title="Mapa de Ciclorrutas de Bogotá">
+            <img alt="Mapa de Ciclorrutas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2022/2022-06-16_banner-mapa-ciclorrutas_1.png" title="Mapa de Ciclorrutas de Bogotá">
         </a>
     </div>
 </div>
