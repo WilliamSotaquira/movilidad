@@ -27,6 +27,11 @@
             </div>
         </div>
     </div>
+    <br>
+    <div>
+        <iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tn3bflfcjl" width="100%" height="480" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen allow="autoplay; clipboard-read; clipboard-write"></iframe>
+    </div>
+    <br>
     <div class="s2">
         <div class='row'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
@@ -1185,7 +1190,7 @@
         </div>
     </div>
 </div>
-
+<br>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -1193,6 +1198,7 @@
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
+        
     }
 
     .region-content {
@@ -1363,7 +1369,8 @@
     .panel-body {
         background-color: #fefefe;
     }
-    .bs{
+
+    .bs {
         -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
         box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
     }
