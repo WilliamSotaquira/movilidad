@@ -200,4 +200,5 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/06/construyendo', '2022/06/construyendo');
     Route::view('/2022/06/comparendos', '2022/06/comparendos');
     Route::view('/2022/06/acuerdos', '2022/06/acuerdos');
+    Route::view('/2022/06/parking', '2022/06/parking');
     
