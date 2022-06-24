@@ -1241,7 +1241,7 @@
                             <div class="box-btnbem">
                                 <div class="boton-bem">
                                     <div class='imagen'>
-                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_4.png' alt='icono película' title='icono película'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2022/menu-historias-tito.png' alt='icono película' title='icono película'>
                                     </div>
                                 </div>
                                 <div class="txt-btn-bem">
@@ -1842,11 +1842,58 @@
                                 </div>
                             </div>
 
-
-
                         </div>
                         <hr>
                         <div class='grid-videos-historias'>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/RfxRpoa4YAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>Bloqueo de intersecciones</h4>
+                                <p>Bloquear las intersecciones parece un acto inofensivo, pero no lo es tanto. Hacerlo genera grandes trancones en la ciudad. Mira este video y compartelo.</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/T7xPeCBFgFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>Mal parqueados</h4>
+                                <p>Los mal parqueados una pesadilla que pone en riesgo a los peatones y pone en caos la movilidad de la ciudad. Mira este video y compartelo.</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/Qa_1vnJzGfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>25 mil ojos</h4>
+                                <p>Siéntete seguro en TransMilenio, ahora tienes 25 mil ojos cuidándote. En este vídeo te contamos cómo te acompañamos y te cuidamos durante tus recorridos.</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/wJPwr2E33NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>Transporte público</h4>
+                                <p>Ir en tu bici, dejarla parqueada en un lugar seguro, continuar en un TransMilenio tu recorrido y tomar un bus alimentador de manera ágil y segura hoy es una realidad. Mira este video e infórmate.</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/8OB5vG487W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>Buses eléctricos</h4>
+                                <p>Se está respirando un nuevo aire en el sistema de Transporte público de Bogotá con la flota de buses eléctricos que están funcionando. Mira este video y conoce todos los detalles.</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/gDZlPbRP2wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>TransmiApp</h4>
+                                <p>TransMilenio la está sacando del estadio con TransmiApp, una aplicación que te brinda información certera y verás de todo acerca de este sistema de transporte público. Mira este video e infórmate.</p>
+                            </div>
+                            <div class='video'>
+                                <div class='embed-responsive embed-responsive-16by9'>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/qgh2TDS5Py4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <h4>Tu llave</h4>
+                                <p>Tu tienes la llave para no perder tu ritmo al usar el transporte público en la ciudad. Conoce todos los beneficios de la tarjeta TULLAVE en este video.</p>
+                            </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
                                     <iframe width='100%' src="https://www.youtube.com/embed/ECspQF9KOCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -1884,7 +1931,7 @@
                                 column-gap: 40px;
                                 row-gap: 40px;
                                 grid-template-rows: auto;
-                                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                                grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
                             }
                             .grid-videos-historias h4{
                                 font-weight: 700;
@@ -1896,7 +1943,7 @@
                             .grid-videos-historias p{
                                 font-size: 1em;
                                 font-weight: 500;
-                                text-align: justify;
+                                text-align: left;
                                 line-height: 1.4;
                                 color: rgba(25, 25, 25, 1);
                                 margin: 8px;
@@ -1941,6 +1988,58 @@
                                         </div>
                                         <div id='collapse_jun22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_jun22'>
                                             <div class='panel-body'>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Qj2KWk3Ls65TqCoiKsM5MI-tEqRbQyDO/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 124</h4>
+                                                                <i>miércoles, 22 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La Unidad Móvil de Parcheo de la UMV está en la localidad de Suba. Mantenimiento en andenes de la calle 80. 416 armas blancas incautaron las autoridades en el Sistema de Transporte de Bogotá. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1VuZlHbKWyQdjKgPN1NAOThqnnqhsylyi/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 123</h4>
+                                                                <i>martes, 21 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conservación de puentes vehiculares. Desde este martes, el servicio zonal 19 – 12 Toberín, extiende su recorrido. Gremio taxista en Bogotá se capacita para mejorar el servicio a las mujeres. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1wc8MZHrAzey3hluuo2eXX2JgMGv1veDk/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 122</h4>
+                                                                <i>viernes, 17 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Biciusuario, estas son las nuevas rutas alternativas en la ciclovía dominical del sector calle 72. Así funcionará TransMilenio durante la jornada electoral del próximo domingo. Miembros de la UMV y comunidad del sector de Fontibón realizaron una jornada de siembra de plantas alrededor de la sede operativa. Conoce más del ChatBot Fulvia, el nuevo canal de comunicación con el IDU. </p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1kWRJU2rpR-FxwdIjLABIk3gjCH_MEF3Y/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 121</h4>
+                                                                <i>jueves, 16 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Nuevos recorridos para el transporte público, por cierres del metro en la calle 72. Mantenimiento vial en Usaquén. Atención Tunjuelito: Este viernes, TRANSMILENIO S.A. apoyará feria de empleabilidad en la localidad. Chat Virtual: el canal de la UMV para escuchar a la ciudadanía.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
                                                 <div class='col-xs-12'>
                                                     <a class='enlace' href='https://drive.google.com/file/d/1Lsw9Rh-dBGcd2apkLeDganV8Vxkn1mSz/view?usp=sharing'>
                                                         <div class='btn-boletin'>
