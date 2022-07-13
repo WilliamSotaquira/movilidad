@@ -110,13 +110,14 @@
       <!-- Fin Seccion Botones Pico y Placa  -->
 
       <br>
-      <!-- <div class="row">
-          <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/2022-01-21_banner_bem_asi-va-el-pth-_2.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a></div>
-          <div class="col-sm-12 hidden-xs"><a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/2022-01-21_banner_bem_asi-va-el-pth-_1.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
+      <div class="row">
+          <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="http://bogota.tembici.com.co/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_320x300.jpg" title="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá"></a></div>
+          <div class="col-sm-12 hidden-xs"><a href="http://bogota.tembici.com.co/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_980x220_.jpg" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
         </div>
     </div>
     <br>
- -->
+
+    
 
       <!-- Bloque Centro de Contacto -->
       <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -192,7 +193,7 @@
 
               <div class="row">
                   <div class="txt-footer">
-                      <p>Agende sus citas para <span class="enfasis">salida de patios, impugnaciones, cursos pedagógicos y acuerdos pago</span> en nuestros<span class="enfasis"> canales virtuales</span> o comuníquese al<span class="enfasis"> <a href="tel:+576013649400">+57 (601) 364 9400</a>, opción 2, </span>o en la <span class="enfasis">línea <a href="tel:+57195">195</a></span></p>
+                      <p>Agende sus citas para <span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span> en nuestros<span class="enfasis"> canales virtuales</span> o comuníquese al<span class="enfasis"> <a href="tel:+576013649400">+57 (601) 364 9400</a>, opción 2, </span>o en la <span class="enfasis">línea <a href="tel:+57195">195</a></span></p>
                   </div>
               </div>
           </div>
