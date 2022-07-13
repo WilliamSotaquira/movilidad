@@ -110,12 +110,8 @@
     }
 
     .s1 .p-encabezado {
-        /* border: solid 2px rgba(228, 238, 187, 1); */
-        /* background-color: #000000aa; */
-        /* border: 3px transparent solid; */
-        /* border-image: -webkit-linear-gradient(left, rgba(228, 238, 187, 1), rgba(255, 182, 32, 1)) 1 10; */
-
-        padding: 0px 20px 20px 20px;
+ 
+        padding: 0px 30px 30px 30px;
         /* height: 230px; */
         display: flex;
         flex-direction: column;
@@ -123,14 +119,7 @@
         align-items: center;
     }
 
-    /* .s1 .p-encabezado h3 {
-        color: rgba(25, 25, 25, 1);
-        text-align: center;
-        font-weight: 700;
-        margin: 10px;
-        font-family: 'Montserrat', sans-serif;
-        font-size: 20px;
-    } */
+
 
     .s1 .p-encabezado p {
         font-weight: 500;
@@ -230,7 +219,7 @@
         /* background-color: #fdfdfd !important; */
     }
 
-    .tabs .box-paragraph p {
+    /* .tabs .box-paragraph p {
         font-size: 1em;
         font-weight: 500;
         text-align: left;
@@ -239,11 +228,12 @@
         /* padding: 15px 30px; */
     }
 
-    .tabs .paragraph-video {
+    */
+    /* .tabs .paragraph-video {
         padding: 8px;
         height: 120px;
         display: flex;
-        /* flex-direction: column; */
+        flex-direction: column;
         justify-content: start;
         align-items: center;
     }
@@ -254,7 +244,7 @@
         text-align: justify;
         line-height: 1.4;
         color: rgba(25, 25, 25, 1);
-    }
+    } */
 
 
     .s2 .introduccion {
@@ -379,7 +369,7 @@
 
     .s2 .btn-boletin .descripcion-boletin {
         padding: 0px;
-        height: 60px;
+        height: 75px;
         /* white-space: nowrap; */
         overflow: hidden;
         text-overflow: ellipsis;
@@ -389,6 +379,12 @@
         text-align: justify;
         overflow: hidden;
         text-overflow: ellipsis;
+        /* font-size: 1em; */
+        font-weight: 500;
+        text-align: left;
+        line-height: 1.4;
+        color: rgba(25, 25, 25, 1);
+        margin: 8px;
     }
 
     .s2 .enlace {
@@ -470,12 +466,12 @@
     }
 
     .imagen-6 {
-        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/plan_tapahuecos_1.jpg');
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-06-2022/foto_0.png');
         background-size: cover;
         background-position: right;
         background-repeat: no-repeat;
-        height: 100%;
-        width: 100%;
+        min-height: 300px;
+
 
     }
 
@@ -696,10 +692,6 @@
         }
     }
 
-    .s1 .p-encabezado {
-        height: 196px;
-    }
-
     .s1 .video-encabezado {
         height: 196px;
     }
@@ -708,9 +700,6 @@
         height: 196px;
     }
 
-    .s1 .p-encabezado {
-        padding: 0px 20px 20px 0px;
-    }
 
     .s1 .v-encabezado {
         padding: 0px 0px 20px 20px;
@@ -1046,10 +1035,6 @@
             height: 230;
         }
 
-        .s1 .p-encabezado {
-            height: 230px;
-        }
-
         .tabs .paragraph-video {
             padding: 8px;
             height: 120px;
@@ -1146,15 +1131,8 @@
                         </div>
                     </div>
                 </div>
-                <div class='col-xs-12 col-sm-6'>
-                    <div class='v-encabezado'>
-                        <div class="video-encabezado">
-                            <iframe width='100%' src="https://www.youtube.com/embed/qhfOZARgxS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            <!-- <iframe  width='100%' height="100%" src="https://www.youtube.com/embed/qhfOZARgxS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                        </div>
-                    </div>
-                </div>
-                <div class='col-xs-12 col-sm-6'>
+
+                <div class='col-xs-12 col-sm-12'>
                     <div class="p-encabezado">
                         <p>La ciudad viene trabajando en un ambicioso plan que no solo busca recuperar la malla vial, ponerse al día en obras e infraestructura sino también invitar a los ciudadanos y actores viales a incorporar comportamientos que le permitan a la ciudad reducir la congestión y mejorar la calidad del aire.</p>
                     </div>
@@ -1293,127 +1271,117 @@
                                     <h3 class="color1">Bogotá en obra</h3>
                                 </div>
                                 <div class="box-paragraph">
-                                    <p>La ciudad actualmente cuenta con cientos de obras que apuestan al mejoramiento de malla vial y la movilidad de la ciudad. Conoce en los siguientes videos, algunos informes de estas obras.</p>
+                                    <p>La ciudad actualmente cuenta con cientos de obras que apuestan al mejoramiento de malla vial y la movilidad de los bogotanos y bogotanas. Conoce en los siguientes videos, algunos informes de estas obras.</p>
                                 </div>
+                                <div class="box-videos-beo">
 
-
-                                <div class="box-videos">
-                                    <div class='row'>
-                                        <div class='col-xs-12 col-sm-6 col-md-6'>
-                                            <div class='video-bem'>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width="100%" src="https://www.youtube.com/embed/iNbQBHBr9Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                    <div class="paragraph-video">
-                                                        <div>
-                                                            <p>Con la extensión de la Av Caracas desde Molinos hasta el Portal de Usme en el sur de la ciudad, acabará con la congestión de esta zona. Mira este video y conoce detalles de la obra.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/cLsR1RteF4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
-                                        <div class='col-xs-12 col-sm-6'>
-                                            <div class='video-bem'>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width="100%" src="https://www.youtube.com/embed/bDeliwBXFOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                    <div class="paragraph-video">
-                                                        <div>
-                                                            <p>La extensión de la Av Ciudad de Cali conectará San Bernandino y el municipio de Soacha. Mira este video y conoce detalles.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                        <div class="paragraph-video">
+                                            <p>En la localidad de Bosa se construye la institución educativa IED. La Palestina. Mira este video y conoce los detalles.</p>
                                         </div>
-                                        <div class='col-xs-12 col-sm-6'>
-                                            <div class='video-bem'>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width="100%" src="https://www.youtube.com/embed/TY5qZivoKTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                    <div class="paragraph-video">
-                                                        <div>
-                                                            <p>En este video te contaremos cómo la ampliación de la Av Rincón desde la Av Boyacá hasta la Cra 91, promete descongestionar la movilidad a los que quieran llegar a Suba por esta vía.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class='col-xs-12 col-sm-6'>
-                                            <div class='video-bem'>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width="100%" src="https://www.youtube.com/embed/-Ij6-KQeCDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                    <div class="paragraph-video">
-                                                        <div>
-                                                            <p>La localidad de Kennedy y Bosa se beneficiará con la construcción de este puente vehícular el cual conectará la ciudad de Oriente a Sur. Mira este video y conoce más detalles.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class='col-xs-12 col-sm-6'>
-                                            <div class='video-bem'>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width="100%" src="https://www.youtube.com/embed/AbtgM1ggChA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                    <div class="paragraph-video">
-                                                        <div>
-                                                            <p>El barrio 12 de Octubre está en obra y la intervención de sus aceras y pasos peatonales busca beneficiar la accesibilidad y protección de los peatones. Mira este video y conoce los detalles.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class='col-xs-12 col-sm-6'>
-                                            <div class='video-bem'>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width="100%" src="https://www.youtube.com/embed/jIl4l4om338" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                    <div class="paragraph-video">
-                                                        <div>
-                                                            <p>El ciclo puente de los Molinos de 290 metros brindará seguridad a los ciclistas para cruzar la autopista norte. Si montas Bici este video te interesa.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class='col-xs-12 col-sm-6 col-sm-offset-3'>
-                                            <div class='video-bem'>
-                                                <div class="box-video-bem">
-                                                    <div class='video'>
-                                                        <div class='embed-responsive embed-responsive-4by3'>
-                                                            <iframe width="100%" src="https://www.youtube.com/embed/ZyJcky2uCeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                                        </div>
-                                                    </div>
-                                                    <div class="paragraph-video">
-                                                        <div>
-                                                            <p>La ciudad se encuentra construyendo la Av Guayacanes que ayudará a descongestionar esta zona de la ciudad con 13 km.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-
                                     </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/9F_d__v3T0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>El metro beneficiará a 2.9 millones de personas y avanza rápidamente. Mira este video y conoce los detalles.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/QpzW-cbfuW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>280.000 huecos ha tapado la administración desde que inicio el plan de choque para mejorar la malla vial. Mira este video y conoce los detalles de este plan.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/iNbQBHBr9Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>Con la extensión de la Av Caracas desde Molinos hasta el Portal de Usme en el sur de la ciudad, acabará con la congestión de esta zona. Mira este video y conoce detalles de la obra.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/bDeliwBXFOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>La extensión de la Av Ciudad de Cali conectará San Bernandino y el municipio de Soacha. Mira este video y conoce detalles.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/TY5qZivoKTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>En este video te contaremos cómo la ampliación de la Av Rincón desde la Av Boyacá hasta la Cra 91, promete descongestionar la movilidad a los que quieran llegar a Suba por esta vía.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/AbtgM1ggChA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>El barrio 12 de Octubre está en obra y la intervención de sus aceras y pasos peatonales busca beneficiar la accesibilidad y protección de los peatones. Mira este video y conoce los detalles.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/-Ij6-KQeCDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>La localidad de Kennedy y Bosa se beneficiará con la construcción de este puente vehícular el cual conectará la ciudad de Oriente a Sur. Mira este video y conoce más detalles.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/jIl4l4om338" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>El ciclo puente de los Molinos de 290 metros brindará seguridad a los ciclistas para cruzar la autopista norte. Si montas Bici este video te interesa.</p>
+                                        </div>
+                                    </div>
+
+                                    <div class="video-beo">
+                                        <div class='embed-responsive embed-responsive-4by3'>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/ZyJcky2uCeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                        </div>
+                                        <div class="paragraph-video">
+                                            <p>La ciudad se encuentra construyendo la Av Guayacanes que ayudará a descongestionar esta zona de la ciudad con 13 km.</p>
+                                        </div>
+                                    </div>
+
                                 </div>
+                                <style>
+                                    .box-videos-beo {
+                                        display: grid;
+                                        gap: 30px;
+                                        grid-auto-flow: dense;
+                                        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                                        grid-template-rows: auto;
+                                        grid-template-areas:
+                                            '';
+                                    }
+
+                                    .video-beo .paragraph-video {
+                                        padding-top: 16px;
+                                    }
+                                </style>
+
 
                             </div>
                         </div>
@@ -1751,25 +1719,41 @@
                                     <h3 class="color3">Plan Tapahuecos</h3>
                                 </div>
                                 <br>
-
                             </div>
                         </div>
-
-                        <div class='row'>
-                            <div class='col-xs-12 col-sm-6'>
-                                <div class='img-descripcion imgd-6'>
-                                    <div class="imagen-6"></div>
-                                </div>
+                        <div class="box-content-th">
+                            <div class="img-th">
+                                <div class="imagen-6"></div>
                             </div>
-                            <div class='col-xs-12 col-sm-6'>
-                                <div class="descripcion">
-                                    <p>La Unidad de Mantenimiento Vial (UMV), como encargada de conservar la malla vial local, intermedia y rural, así como la cicloinfraestructura, en compañía del Instituto de Desarrollo Urbano (IDU) avanzan en el Plan Tapahuecos dentro de la estrategia de La Bogotá Que Estamos Construyendo que incluye reparar 56.000 huecos y hacer mantenimiento a 18,7 km/carril (equivalentes a 117 calles de doble carril).</p>
-                                    <br>
-                                    <p class="ver">Ver más sobre el Plan Tapahuecos: <a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer">https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/</a></p>
-
-                                </div>
+                            <div class="descripcion-th">
+                                <p>La Unidad de Mantenimiento Vial (UMV), como encargada de conservar la malla vial local, intermedia y rural, así como la cicloinfraestructura, en compañía del Instituto de Desarrollo Urbano (IDU) avanzan en el Plan Tapahuecos dentro de la estrategia de La Bogotá que Estamos Construyendo que incluye reparar 56.000 huecos y hacer mantenimiento a 18,7 km/carril (equivalentes a 117 calles de doble carril).</p>
+                                <br>
+                                <p class="ver">Ver más sobre el Plan Tapahuecos: <a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer">https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/</a></p>
                             </div>
                         </div>
+                        <style>
+                            .box-content-th {
+                                display: grid;
+                                gap: 30px;
+                                grid-auto-flow: dense;
+                                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+                                /* grid-template-columns: repeat(2, 1fr); */
+                                grid-template-rows: auto;
+                                grid-template-areas:
+                                    '';
+                            }
+
+                            .box-content-th .descripcion-th p {
+                                /* font-size: 1em; */
+                                font-weight: 500;
+                                text-align: justify;
+                                line-height: 1.4;
+                                color: rgba(25, 25, 25, 1);
+                                margin: 8px;
+                                margin-bottom: 30px;
+                            }
+                        </style>
+
                         <br>
                         <div class='row'>
                             <div class='col-xs-12 col-sm-12'>
@@ -1933,14 +1917,16 @@
                                 grid-template-rows: auto;
                                 grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
                             }
-                            .grid-videos-historias h4{
+
+                            .grid-videos-historias h4 {
                                 font-weight: 700;
                                 text-align: left;
                                 line-height: 1.2;
                                 color: rgba(25, 25, 25, 1);
                                 margin: 8px;
                             }
-                            .grid-videos-historias p{
+
+                            .grid-videos-historias p {
                                 font-size: 1em;
                                 font-weight: 500;
                                 text-align: left;
@@ -1965,7 +1951,7 @@
                                     <h3 class="color5">Noticias</h3>
                                 </div>
                                 <div class="box-paragraph">
-                                    <p>Encuentra toda la actualidad de La Bogotá Que Estamos Construyendo en está sección.</p>
+                                    <p>Encuentra toda la actualidad de La Bogotá que Estamos Construyendo en está sección.</p>
                                 </div>
                                 <br>
                             </div>
@@ -1977,6 +1963,100 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
+                                    <!-- collapse_jul22 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_jul22'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_jul22' aria-expanded='true' aria-controls='collapse_jul22'>
+                                                Boletines Julio 2022
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_jul22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_jul22'>
+                                            <div class='panel-body'>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/13hSfMRuGFwr14wNrqeTieIPfRPtndDKM/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 135</h4>
+                                                                <i>lunes, 11 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierre parcial de ciclorruta para mantenimiento.  La UMV retorna a su horario habitual de atención al ciudadano.  Usuarios de TransMilenio han reciclado más de 50.000 kilos de material en máquinas EcoTransMi.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/16xfvWtrqEfzBjztZ8TO3m5sSAowrxCue/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 134</h4>
+                                                                <i>viernes, 8 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conservación malla vial rural.  Se realizó una nueva jornada de "UMV de Puertas Abiertas", en la que participaron más de 30 ciudadanos.  Nueva ruta zonal A334 Centro Financiero – K334 Fontibón Versalles.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/19DAQwlDjckOVqXZUrlyZYcIeVA-g5ufa/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 133</h4>
+                                                                <i>jueves, 7 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>En jornada nocturna, la UMV trabaja en la localidad de Chapinero, para arreglar un importante tramo de la carrera séptima.  Conoce más del Cable Aéreo San Cristóbal.  Feria de empleo del Sistema de Transporte de Bogotá estará en Fontibón.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1S18ClperUw0gZ6MCTdGcBDXnDq57VWqq/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 132</h4>
+                                                                <i>miércoles, 6 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Gracias al programa ‘Calles Completas’, la UMV trabaja en la recuperación de un andén en la localidad de Kennedy.  Mejores andenes en la localidad de Suba.  Ruta alimentadora 9-2 Metrovivienda hace dos nuevas paradas en hora valle.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1RXVCKgzGZl9FuL7UgpZ0hoSxw62LRFgM/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 131</h4>
+                                                                <i>martes, 5 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Trabajos nocturnos en el Canal Molinos.  La UMV realiza el cambio de carpeta de una importante calle del barrio Santa Lucía, en la localidad Rafael Uribe Uribe.  Patio taller puso en marcha sistema de suministro de energía con paneles solares.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1ovcO2E6TtLWcAFMfd3Rkg46C-LtVK5vK/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 130</h4>
+                                                                <i>viernes, 1 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La UMV está en el barrio El Vergel, de la localidad de Kennedy. Allí hace cambio de losas en una de las vías.  ¡Las basuras en su lugar!  Desde este sábado estará cerrado el acceso norte de la estación CAD.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin _jul22 -->
+
                                     <!-- collapse_jun22 -->
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_jun22'>
@@ -1986,8 +2066,75 @@
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_jun22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_jun22'>
+                                        <div id='collapse_jun22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_jun22'>
                                             <div class='panel-body'>
+                                            
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/14anj3CylDXHDYqq3XpkRFGrNd_Q8EhuK/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 129</h4>
+                                                                <i>jueves, 30 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Reparaciones nocturnas en la avenida Boyacá.  En menos de 6 meses, la UMV mejoró más de 286 mil daños viales, cifra superior a la de todo 2021.  Tenemos más de 2.000 vacantes para trabajar en el Sistema de Transporte Público de Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1r5PzExO-seYc8SYeVuiAyK1KJMKNyP__/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 128</h4>
+                                                                <i>miércoles, 29 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Vías rehabilitadas en San Cristóbal y Rafael Uribe Uribe.  La UMV arregló una importante vía en el barrio Gratamira Real, de la localidad de Suba.  16 personas capturadas en flagrancia y una por orden judicial en el Sistema de Transporte de Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/13xjtqCwWRXiWOGBEMZpbbPo3iNRfTGi4/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 127</h4>
+                                                                <i>martes, 28 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Las obras y los Planes de Manejo de Tránsito.  Conozca el cierre por carriles de la calzada rápida sentido Norte – Sur de la Autopista Norte entre calles 146 y 140.  Estación Flores retorna a su operación normal desde este miércoles 29 de junio.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1R47UbvWdwx__IE5NkkDg-PvkrsxJDEeS/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 126</h4>
+                                                                <i>viernes, 24 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierre en la av. carrera 68 por av. calle 26.  La UMV rehabilita una importante vía en Puente Aranda.  Nuevas rutas zonales empiezan a operar este sábado.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1re7an4u_1YuHJRD8hfTOPyzDCFTQGVOR/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 125</h4>
+                                                                <i>jueves, 23 de junio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres parciales por obra de la avenida 68.  La UMV reparó una importante vía en el barrio José Joaquín Vargas, en la localidad de Barrios Unidos.  Desde este viernes estará cerrado el acceso norte de la estación Comuneros.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
                                                 <div class='col-xs-12'>
                                                     <a class='enlace' href='https://drive.google.com/file/d/1Qj2KWk3Ls65TqCoiKsM5MI-tEqRbQyDO/view?usp=sharing'>
                                                         <div class='btn-boletin'>
