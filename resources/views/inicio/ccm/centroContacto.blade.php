@@ -26,7 +26,7 @@
             <div class="col-xs-12 col-sm-6">
                 <div class="descripcion-ccm">
                     <p>A través de nuestros canales de contacto <strong>podrás recibir asesoría e información de nuestros</strong> <span class="enfasis">trámites y servicios. </span></p>
-                    <p>También <strong>podrás agendar tus citas para </strong><span class="enfasis">salida de patios, impugnaciones, cursos pedagógicos y acuerdos pago</span>.</p>
+                    <p>También <strong>podrás agendar tus citas para </strong><span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span>.</p>
                     <p>Si no encuentra disponibilidad de citas a través del aplicativo de agendamiento virtual, comuníquese al <span class="enfasis">6013649400, opc. 2,</span> o en la línea <span class="enfasis">195</span></p>
                 </div>
             </div>
