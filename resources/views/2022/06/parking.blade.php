@@ -93,7 +93,7 @@
             <div class="texto texto4">
                 <ol>
                     <li>
-                        <h3>3. 3.	¿Cuáles son los principios de operación del valet parking en las tres zonas inicialmente autorizadas en Bogotá?</h3>
+                        <h3>3. ¿Cuáles son los principios de operación del valet parking en las tres zonas inicialmente autorizadas en Bogotá?</h3>
                         <p>Para el aprovechamiento económico de la actividad de valet parking en el espacio público se tienen en cuenta los siguientes principios:</p>
                         <ul>
                             <li>Disminución a la afectación de la movilidad</li>
@@ -119,12 +119,9 @@
                         <p>También coordina con las Alcaldías Locales de las zonas de operación, el control a la actividad de los operadores no autorizados o a quienes no hayan realizado el correspondiente pago por retribución al uso del espacio público que se encuentren prestando el servicio de valet parking en condición de informalidad, adelantando las acciones pertinentes por una indebida ocupación del espacio público.</p>
                         <p>Dichos controles y seguimiento a la actividad iniciarán un mes después de la emisión de la Circular que expedirá la Secretaría Distrital de Movilidad, la cual establece los segmentos de vía donde se autorizan los cajones e incluye los formatos para solicitar el permiso. Esto, para efectos de facilitar la solicitud y expedición de los permisos a los interesados en la operación de los cajones de valet parking.</p>
                     </li>
+               
                     <li>
-                        <h3>6.	¿Cuándo comienzan los controles?</h3>
-                        <p>Dichos controles y seguimiento a la actividad iniciarán un mes después de la emisión de la Circular que expedirá la Secretaría Distrital de Movilidad, la cual establece los segmentos de vía donde se autorizan los cajones e incluye los formatos para solicitar el permiso. Esto, para efectos de facilitar la solicitud y expedición de los permisos a los interesados en la operación de los cajones de valet parking,</p>
-                    </li>
-                    <li>
-                        <h3>7. ¿Cuáles son las zonas iniciales en las cuales opera el servicio de valet parking en Bogotá y con cuántos cajones en total se contará?</h3>
+                        <h3>6. ¿Cuáles son las zonas iniciales en las cuales opera el servicio de valet parking en Bogotá y con cuántos cajones en total se contará?</h3>
                         <p>Son tres zonas de operación inicial en dos localidades, Usaquén y Chapinero (Zona G, Zona T y Usaquén), para un total de 35 cajones autorizados inicialmente.</p>
                         <ul>
                             <li><strong>Zona G,</strong> comprendida entre la av. calle 63 hasta la av. calle 72 desde la carrera 4 hasta la av. Caracas.</li>
@@ -161,11 +158,11 @@
             </div>
 
 
-            <div class="texto texto5 zoom">
+            <div class="texto texto5">
                 <i>*De clic sobre la imagen para ver los detalles</i>
                 <ol>
                     <li>
-                        <h3>8. ¿Habrá otras zonas donde pueda operar el valet parking en Bogotá?</h3>
+                        <h3>7. ¿Habrá otras zonas donde pueda operar el valet parking en Bogotá?</h3>
                         <p>En las tres zonas de la ciudad descritas anteriormente existe mayor demanda del servicio; sin embargo, los operadores y personas interesadas pueden solicitar otras ubicaciones que serán evaluadas y autorizadas por la Secretaría Distrital de Movilidad bajo el cumplimiento de las condiciones establecidas en el Protocolo.</p>
                         <p>La actividad de valet parking solo podrá prestarse en los cajones autorizados y que hayan realizado el pago por retribución del espacio público en la ciudad, los demás, serán objeto de medidas de control y levantamiento por parte de las autoridades competentes.</p>
                     </li>
