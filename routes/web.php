@@ -196,9 +196,13 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/05/barriosVitales', '2022/05/barriosVitales');
     Route::view('/2022/05/excepcionesSalud', '2022/05/excepcionesSalud');
     
-    // Contenido mayo 2022
+    // Contenido junio 2022
     Route::view('/2022/06/construyendo', '2022/06/construyendo');
     Route::view('/2022/06/comparendos', '2022/06/comparendos');
     Route::view('/2022/06/acuerdos', '2022/06/acuerdos');
     Route::view('/2022/06/parking', '2022/06/parking');
     
+    // Contenido julio 2022
+    Route::view('/2022/07/piezaEncuesta', '2022/07/piezaEncuesta');
+    Route::view('/2022/07/CLMinfantil', '2022/07/CLMinfantil');
+    Route::view('/2022/07/cicliviasTemporales', '2022/07/cicliviasTemporales');
