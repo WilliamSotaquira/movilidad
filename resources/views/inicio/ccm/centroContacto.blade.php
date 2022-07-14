@@ -356,7 +356,11 @@
                     </div>
                     <div id='collapse17' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading17'>
                         <div class='panel-body'>
-                            <p>Si su vehículo fue inmovilizado por un CEPO y requiere el desbloqueo, deberá llamar a nuestro Centro de Contacto de Movilidad al <a href="+601369400"> (601) 364 9400</a> opciones 2 -2-6, en horario de 7:00 a.m. a 8:00 p.m. de lunes a viernes y sábados de 8:00 a.m. a 8:00 p.m.</p>
+                            <p>Si su vehículo fue inmovilizado por un CEPO y requiere el desbloqueo, podrá solicitarlo a través de uno de los siguientes canales:</p>
+                            <ul>
+                                <li><a href="mailto:cepos.movilidadbogota.gov.co">cepos.movilidadbogota.gov.co</a></li>
+                                <li><a href="tel:+057">(601) 364 9400</a> opciones 2-2-6, en horario de 7:00 a.m. a 8:00 p.m. de lunes a viernes y sábados de 8:00 a.m. a 6:00 p.m.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
