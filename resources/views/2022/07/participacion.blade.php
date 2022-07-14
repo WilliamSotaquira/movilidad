@@ -37,127 +37,257 @@
                 </li>
             </ul>
         </div>
-        <div class="box-botones">
+        <div class="box-botonPIP">
             <div class="pip">
-                <div class='imagen'>
-                    <a href="https://www.movilidadbogota.gov.co/web/transparencia/plan_institucional_de_participacion" target="_blank" rel="noopener noreferrer">
-                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2022/pip_001.png' alt='Portada de el Plan Institucional de Participación' title='De clic aqui para ir al historico de Plan Institucional De Participación – PIP'>
-                    </a>
-                </div>
+                <a href="https://www.movilidadbogota.gov.co/web/transparencia/plan_institucional_de_participacion" target="_blank" rel="noopener noreferrer">
+                    <img class='zoom img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2022/pip_001.png' alt='Portada de el Plan Institucional de Participación' title='De clic aqui para ir al historico de Plan Institucional De Participación – PIP'>
+                </a>
             </div>
-            <div class="box-enlaces">
-                <div class="enlaces">
-                    <div>
-                        <h3>Rendición de Cuentas Locales</h3>
-                    </div>
-                    <div>
-                        <h3>Rendición de Cuentas Locales</h3>
-                    </div>
+            <div class="parrafo-pip">
+                <div>
+                    <h4>Aquí podrás acceder al Plan Institucional De Participación</h4>
                 </div>
-
+                <div class="btn-pip">
+                    <a href="https://www.movilidadbogota.gov.co/web/transparencia/plan_institucional_de_participacion" target="_blank" rel="noopener noreferrer">Ingrese aquí</a>
+                </div>
             </div>
         </div>
-        <!-- End Set Wrapper -->
-        <style>
-            .box-wrp {
-                padding: 16px;
-                display: grid;
-                gap: 30px;
-                grid-auto-flow: dense;
-                grid-template-columns: 1fr;
-                grid-template-rows: auto;
-                grid-template-areas:
-                    '';
-            }
+        <div class="box-centrosLocales">
+            <h3 class="text-center"><strong>Centros Locales de Movilidad</strong></h3>
+            <div class='imagen'>
+                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2022/clm_ninos_logo_0.png' alt='Icono de Centros Locales de Movilidad' title='Icono de Centros Locales de Movilidad'>
+            </div>
+        </div>
+        <div class="box-botones">
 
-            .box-wrp ul>li {
-                padding-top: 16px;
-            }
+            <a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" target="_blank" rel="noopener noreferrer">
+                <div class="boton-clm">
+                    <h4>Rendición de Cuentas Locales</h4>
+                </div>
+            </a>
+            <a href="" target="_blank" rel="noopener noreferrer">
+                <div class="boton-clm">
+                    <h4>Informes y seguimiento de agendas participativas</h4>
+                </div>
+            </a>
+            <a href="" target="_blank" rel="noopener noreferrer">
+                <div class="boton-clm">
+                    <h4>Grupos de Valor - Partes Interesadas</h4>
+                </div>
+            </a>
 
-            .box-botones {
-                display: grid;
-                /* gap: 10px; */
-                grid-auto-flow: dense;
-                grid-template-columns: 1fr;
-                grid-template-rows: auto;
-                grid-template-areas:
-                    'pip'
-                    'enlaces';
-            }
+        </div>
+        <div>
+            <h4><strong>¿Cómo está conformado el equipo del Centro Local de Movilidad?</strong></h4>
+            <ul>
+                <li><strong>Gestor de Local de Movilidad:</strong> Profesional de perfil social, cuya presencia en la localidad facilita los procesos de participación y quien, a través de la comunicación directa, acompaña los trámites y solicitudes ciudadanas. Su trabajo permite optimizar el tiempo de los usuarios y su misión es ofrecer información veraz y oportuna.</li>
+                <li><strong>Orientador de Servicio Local:</strong> Es la persona encargada de orientar a la comunidad en trámites y servicios, así como acompañar en los procesos de convocatoria comunitaria. Apoyan en la logística y en los operativos pedagógicos implementados en las localidades.</li>
+            </ul>
+            <p>Cada Centro Local de Movilidad cuenta con un equipo de trabajo compuesto por Gestores y Orientadores, que gestionan las necesidades de la comunidad en materia de movilidad.</p>
+        </div>
 
-            .box-botones .pip {
-                grid-area: pip;
-            }
-
-            .box-botones .box-enlaces {
-                grid-area: enlaces;
-            }
-
-            .box-enlaces .enlaces {
-                display: grid;
-                gap: 16px;
-                grid-auto-flow: dense;
-                grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-                grid-template-rows: auto;
-                grid-template-areas:
-                    '';
-            }
-        </style>
-
-        <!-- Styles -->
-        <style type='text/css'>
-            .field-item.even h2 {
-                visibility: hidden;
-                margin-top: -50px;
-            }
-
-            .region-content {
-                padding: 0px;
-                overflow: hidden;
-            }
-
-            .participacion {
-                max-width: 980px;
-                word-wrap: break-word;
-                font-family: 'Montserrat', sans-serif;
-                font-size: 15px;
-                font-weight: 500;
-                text-align: justify;
-                line-height: 1.4;
-                color: rgba(25, 25, 25, 1);
-                margin: 8px;
-            }
-
-            /*
-    .participacion [class*='col-'] {
-        margin: 0px;
-        padding: 0px;
-        border: 0;
-        outline: 0;
-        font-size: 100%;
-        vertical-align: baseline;
+    </div>
+</div>
+<!-- End Set Wrapper -->
+<style>
+    .box-wrp {
+        padding: 16px;
+        display: grid;
+        gap: 30px;
+        grid-auto-flow: dense;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+            '';
     }
-    */
 
-            .w-100 {
-                width: 100%;
-            }
+    .box-wrp ul>li {
+        padding-top: 16px;
+    }
 
-            @media(max-width:767px) {}
+    .box-botonPIP {
+        display: grid;
+        /* gap: 10px; */
+        grid-auto-flow: dense;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
 
-            @media(min-width:768px) {
-                .box-botones {
-                    grid-template-columns: 35% 65%;
-                    grid-template-areas:
-                        'pip enlaces';
-                }
-                .box-botones .pip{
-                    padding: 20px;
-                }
-            }
+    }
 
-            @media(min-width:992px) {}
+    .box-botonPIP .pip {
+        /* height: px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 
-            @media(min-width:1200px) {}
-        </style>
-        <!-- End Styles -->
+    .box-botonPIP .pip img {
+        width: 60%;
+        margin: auto;
+        border: solid 1px #d5d5d5;
+        border-radius: 6px;
+        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+    }
+
+    .parrafo-pip {
+        /* height: px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .parrafo-pip h4 {
+        /* font-size: 1em; */
+        font-weight: 700;
+        text-align: center;
+        line-height: 1.3;
+        color: rgba(25, 25, 25, 1);
+        margin: 8px;
+    }
+
+    .parrafo-pip .btn-pip {
+        background-color: rgba(77, 84, 31, 1);
+        color: rgba(255, 255, 255, 1);
+        padding: 8px 16px;
+        margin: 20px;
+    }
+
+    .parrafo-pip .btn-pip:hover {
+        background-color: #A6B517;
+        color: rgba(25, 25, 25, 1);
+
+    }
+
+    .parrafo-pip .btn-pip a {
+        color: rgba(255, 255, 255, 1);
+    }
+
+    .parrafo-pip .btn-pip:hover a {
+        color: rgba(25, 25, 25, 1);
+    }
+
+    .box-centrosLocales {
+        /* height: px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-top: solid 1px #e5e5e5;
+        padding-top: 20px;
+    }
+
+    .box-centrosLocales img {
+        max-width: 200px;
+        text-align: center;
+        margin: 16px;
+    }
+
+    .box-botones {
+        display: grid;
+        gap: 4rem;
+        grid-auto-flow: dense;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: auto;
+        grid-template-areas:
+            '';
+    }
+
+    .box-botones a .boton-clm {
+        height: 100%;
+        /* height: px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none !important;
+    }
+    
+    .box-botones .boton-clm {
+        /* margin: 20px; */
+        padding: 16px;
+        background-color: rgba(77, 84, 31, 1);
+    }
+
+    .box-botones .boton-clm:hover {
+        background-color: #A6B517;
+    }
+
+    .box-botones .boton-clm h4 {
+        /* font-size: 1em; */
+        font-weight: 700;
+        text-align: center;
+        line-height: 1.2;
+        color: rgba(255, 255, 255, 1);
+        margin: 8px;
+    }
+    
+    .box-botones .boton-clm:hover h4 {
+        color: rgba(25, 25, 25, 1);
+    }
+</style>
+
+<!-- Styles -->
+<style type='text/css'>
+    .field-item.even h2 {
+        visibility: hidden;
+        margin-top: -50px;
+    }
+
+    .region-content {
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    .participacion {
+        max-width: 980px;
+        word-wrap: break-word;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        text-align: justify;
+        line-height: 1.4;
+        color: rgba(25, 25, 25, 1);
+        margin: 8px;
+    }
+
+    .zoom {
+        transition: 0.5s ease;
+        -moz-transition: 0.5s ease;
+        /* Firefox */
+        -webkit-transition: 0.5s ease;
+        /* Chrome - Safari */
+        -o-transition: 0.5s ease;
+        /* Opera */
+        -ms-transition: 0.5s ease;
+    }
+
+    .zoom:hover {
+        transform: scale(1.02);
+        -moz-transform: scale(1.02);
+        /* Firefox */
+        -webkit-transform: scale(1.02);
+        /* Chrome - Safari */
+        -o-transform: scale(1.02);
+        /* Opera */
+        -ms-transform: scale(1.02);
+    }
+
+    /* IE9 */
+
+    .w-100 {
+        width: 100%;
+    }
+
+    @media(max-width:767px) {}
+
+    @media(min-width:768px) {}
+
+    @media(min-width:992px) {}
+
+    @media(min-width:1200px) {}
+</style>
+<!-- End Styles -->
