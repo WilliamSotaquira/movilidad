@@ -207,3 +207,5 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/07/CLMinfantil', '2022/07/CLMinfantil');
     Route::view('/2022/07/cicliviasTemporales', '2022/07/cicliviasTemporales');
     Route::view('/2022/07/participacion', '2022/07/participacion');
+    Route::view('/2022/07/runt', '2022/07/runt');
+    Route::view('/2022/07/sisben', '2022/07/sisben');
