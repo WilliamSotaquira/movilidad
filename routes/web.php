@@ -209,3 +209,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/07/participacion', '2022/07/participacion');
     Route::view('/2022/07/runt', '2022/07/runt');
     Route::view('/2022/07/sisben', '2022/07/sisben');
+    Route::view('/2022/07/agendas', '2022/07/agendas');
+    Route::view('/2022/07/excelencia', '2022/07/excelencia');
+    Route::view('/2022/07/mesTaxitas', '2022/07/mesTaxitas');
+    Route::view('/2022/07/bloomberg', '2022/07/bloomberg');

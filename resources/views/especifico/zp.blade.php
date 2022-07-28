@@ -1,69 +1,153 @@
-@extends('welcome')
-@section('contenido')
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<link rel='preconnect' href='https://fonts.googleapis.com'>
-<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<!-- Set Wrapper -->
-<div class='container-fluid entorno'>
-    <div class='box-wrp'>
-        <div class='box-head' id="box-head">
-
-
+<div class="timeline">
+    <div class="container left">
+        <div class="content">
+            <h2>2017</h2>
+            <p>Lorem ipsum..</p>
+        </div>
+    </div>
+    <div class="container right">
+        <div class="content">
+            <h2>2016</h2>
+            <p>Lorem ipsum..</p>
         </div>
     </div>
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js" integrity="sha512-K7Zj7PGsHk2fpY3Jwvbuo9nKc541MofFrrLaUUO9zqghnJxbZ3Zn35W/ZeXvbT2RtSujxGbw8PgkqpoZXXbGhw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script>
-$.ajax({
-    type: "GET",
-    url: "https://www.movilidadbogota.gov.co/web/gestion_social",
-    success: function(datos) {
-        $("#box-head").html(datos);
-    }
-})
-  </script>
-<!-- End Set Wrapper -->
 
-
-
-<!-- Styles -->
-<style type='text/css'>
-    .field-item.even h2 {
-        visibility: hidden;
-        margin-top: -50px;
+<style>
+    * {
+        box-sizing: border-box;
     }
 
-    .region-content {
-        padding: 0px;
-        overflow: hidden;
+    /* Set a background color */
+    body {
+        background-color: #474e5d;
+        font-family: Helvetica, sans-serif;
     }
 
-    .entorno {
-        max-width: 980px;
-        word-wrap: break-word;
-        font-family: 'Montserrat', sans-serif;
-        font-size: 15px;
-        font-weight: 500;
-        text-align: justify;
-        line-height: 1.3;
-        color: rgba(25, 25, 25, 1);
+    /* The actual timeline (the vertical ruler) */
+    .timeline {
+        position: relative;
+        max-width: 1200px;
+        margin: 0 auto;
     }
 
-    /*
-    .entorno [class*='col-'] {
-        margin: 0px;
-        padding: 0px;
-        border: 0;
-        outline: 0;
-        font-size: 100%;
-        vertical-align: baseline;
+    /* The actual timeline (the vertical ruler) */
+    .timeline::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        background-color: white;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -3px;
     }
-    */
 
-    .w-100 {
-        width: 100%;
+    /* Container around content */
+    .container {
+        padding: 10px 40px;
+        position: relative;
+        background-color: inherit;
+        width: 50%;
+    }
+
+    /* The circles on the timeline */
+    .container::after {
+        content: '';
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        right: -17px;
+        background-color: white;
+        border: 4px solid #FF9F55;
+        top: 15px;
+        border-radius: 50%;
+        z-index: 1;
+    }
+
+    /* Place the container to the left */
+    .left {
+        left: 0;
+    }
+
+    /* Place the container to the right */
+    .right {
+        left: 50%;
+    }
+
+    /* Add arrows to the left container (pointing right) */
+    .left::before {
+        content: " ";
+        height: 0;
+        position: absolute;
+        top: 22px;
+        width: 0;
+        z-index: 1;
+        right: 30px;
+        border: medium solid white;
+        border-width: 10px 0 10px 10px;
+        border-color: transparent transparent transparent white;
+    }
+
+    /* Add arrows to the right container (pointing left) */
+    .right::before {
+        content: " ";
+        height: 0;
+        position: absolute;
+        top: 22px;
+        width: 0;
+        z-index: 1;
+        left: 30px;
+        border: medium solid white;
+        border-width: 10px 10px 10px 0;
+        border-color: transparent white transparent transparent;
+    }
+
+    /* Fix the circle for containers on the right side */
+    .right::after {
+        left: -16px;
+    }
+
+    /* The actual content */
+    .content {
+        padding: 20px 30px;
+        background-color: white;
+        position: relative;
+        border-radius: 6px;
+    }
+
+    /* Media queries - Responsive timeline on screens less than 600px wide */
+    @media screen and (max-width: 600px) {
+
+        /* Place the timelime to the left */
+        .timeline::after {
+            left: 31px;
+        }
+
+        /* Full-width containers */
+        .container {
+            width: 100%;
+            padding-left: 70px;
+            padding-right: 25px;
+        }
+
+        /* Make sure that all arrows are pointing leftwards */
+        .container::before {
+            left: 60px;
+            border: medium solid white;
+            border-width: 10px 10px 10px 0;
+            border-color: transparent white transparent transparent;
+        }
+
+        /* Make sure all circles are at the same spot */
+        .left::after,
+        .right::after {
+            left: 15px;
+        }
+
+        /* Make all right containers behave like the left ones */
+        .right {
+            left: 0%;
+        }
     }
 </style>
-<!-- End Styles -->
