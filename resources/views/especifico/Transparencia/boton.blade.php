@@ -87,7 +87,7 @@
 									<!-- <li><a href="#" rel="noopener noreferrer" target="_blank">Plazos de cumplimiento de los contratos</a></li> -->
 									<li><a href="https://www.movilidadbogota.gov.co/web/Plan_contra_corrupcion" rel="noopener noreferrer" target="_blank">Plan Anticorrupción y de Atención al Ciudadano</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/procesos_de_contratacion" rel="noopener noreferrer" target="_blank">Contrataciones en curso y un vínculo al sistema electrónico para la contratación pública o el que haga sus veces, a través del cual podrá accederse directamente a la información correspondiente al respectivo proceso contractual, en aquellos que se encuentren sometidas a dicho sistema, sin excepción</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/pm04-m01_manual_de_servicio_a_la_ciudadania_v6._de_4052022.pdf" rel="noopener noreferrer" target="_blank">Servicio al público, normas, formularios y protocolos de atención</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/manual_de_servicio_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Servicio al público, normas, formularios y protocolos de atención</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/portafolio_tramites_y_servicios" rel="noopener noreferrer" target="_blank">Trámites</a> (normativa, proceso, costos y formatos o formularios).</li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/procesos-y-procedimientos" rel="noopener noreferrer" target="_blank">Procedimientos que se siguen para tomar decisiones en las diferentes áreas</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/historico_noticias" rel="noopener noreferrer" target="_blank">Decisiones y/o políticas que hayan adoptado y afecte al público, junto con sus fundamentos y toda interpretación autorizada de ella</a></li>
@@ -139,7 +139,7 @@
 										<ul>
 											<li><a href="https://www.movilidadbogota.gov.co/web/preguntas_frecuentes" rel="noopener noreferrer" target="_blank">Preguntas y respuestas frecuentes</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/derechos_y_deberes_de_los_ciudadanos" rel="noopener noreferrer" target="_blank">Derechos y Deberes de los Ciudadanos</a></li>
-											<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-05-2022/pm04-m01_manual_de_servicio_a_la_ciudadania_v6._de_4052022_1.pdf" rel="noopener noreferrer" target="_blank">Manual de Servicio al Ciudadano</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/manual_de_servicio_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Manual de Servicio al Ciudadano</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/glosario" rel="noopener noreferrer" target="_blank">Glosario</a></li>
 										</ul>
 									</li>
@@ -457,6 +457,7 @@
                                  <li><a href="https://www.movilidadbogota.gov.co/web/instancias_de_coordinacion" rel="noopener noreferrer" target="_blank">Instancias de Coordinación</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_siniestralidad_sitp_asociada_a_exceso_de_velocidad" rel="noopener noreferrer" target="_blank">Informes de siniestralidad SITP asociada a exceso de velocidad</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_ciclovias_temporales" rel="noopener noreferrer" target="_blank">Informes de Ciclovías Temporales</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/balance_anual_de_los_consejos_locales_de_la_bicicleta" rel="noopener noreferrer" target="_blank">Balance anual de los Consejos Locales de la Bicicleta</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/libros_y_cartillas" rel="noopener noreferrer" target="_blank">Libros y cartillas</a></li>
 										</ul>
 									</li>
@@ -475,7 +476,11 @@
 										</ul>
 									</li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.6.</span>Denuncias por actos de corrupción</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/agenda_directivos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Agenda Directivos</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/agenda_directivos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Agenda Directivos</a>
+									<ul>
+										<li><a href="https://gobiernoabiertobogota.gov.co/transparencia" rel="noopener noreferrer" target="_blank">Agendas Abiertas - Gobierno Abierto de Bogotá (GAB)</a></li>
+									</ul>
+								</li>
 									<!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Accesibilidad</a></li> --><!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.8.</span>Datos Personales</a></li> --></ol>
 							</div>
 						</div>
