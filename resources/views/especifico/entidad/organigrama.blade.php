@@ -2091,7 +2091,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/vianneydelsocorroceledonaponte.png" alt="Foto: Vianney del Socorro Celedón Aponte" title="Foto: Vianney del Socorro Celedón Aponte">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/vianneydelsocorroceledonaponte.png" alt="Foto: Vianney del Socorro Celedón Aponte" title="Foto: Vianney del Socorro Celedón Aponte">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
