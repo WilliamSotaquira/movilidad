@@ -4,7 +4,7 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'> 
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 
@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/organigrama_2022_23_05_b.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/organigrama_2022_julio.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -254,6 +254,25 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
+                                                <!-- <div class="row">
+                                                    <div class="col-xs-12 col-sm-4 text-center">
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2020/adriana-iza.jpg" alt="Foto: Adriana Ruth Iza Certuche" title="Foto: Adriana Ruth Iza Certuche">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-8 ">
+                                                        <div class="descripcion">
+                                                            <div>
+                                                                <h1>Adriana Ruth Iza Certuche</h1>
+                                                                <h4>Dirección de Atención al Ciudadano</h4>
+                                                            </div>
+                                                            <div class="descripcion-xs">
+                                                                <p>Es administradora de empresas, tiene un máster en Estudios Políticos de la Universidad Javeriana y una especialización en Evaluación Social de Proyectos de la Universidad de los Andes. Por seis años fue Directora de Estudios Sectoriales de la Secretaría de Movilidad, y ahora es la jefe de Gestión Social. Además fue coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue gerente de Cluster de confecciones alrededor de cuatro años.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div> -->
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
@@ -264,7 +283,7 @@
                                                         <div class="descripcion">
                                                             <div>
                                                                 <h1>Adriana Ruth Iza Certuche</h1>
-                                                                <h4>Jefe Oficina de Gestión Social</h4>
+                                                                <h4>Jefe Oficina de Gestión Social (e)</h4>
                                                             </div>
                                                             <div class="descripcion-xs">
                                                                 <p>Es administradora de empresas, tiene un máster en Estudios Políticos de la Universidad Javeriana y una especialización en Evaluación Social de Proyectos de la Universidad de los Andes. Por seis años fue Directora de Estudios Sectoriales de la Secretaría de Movilidad, y ahora es la jefe de Gestión Social. Además fue coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue gerente de Cluster de confecciones alrededor de cuatro años.</p>
@@ -582,7 +601,7 @@
                                                             <h4>Directora de Planeación para la Movilidad (e)</h4>
                                                             <div class="descripcion-xs">
                                                                 <p>Es ingeniera catastral y geodesta de la Universidad Distrital Francisco José de Caldas, Especialista en Gestión Ambiental Urbana de la Universidad Piloto de Colombia, auditora en Seguridad Vial del WRI, auditora interna en Sistemas de Gestión de la Calidad ISO 9001:2015.</p>
-                                                                <p>Con más de 20 años de experiencia en el sector público, ha desempeñado cargos como Subdirectora de la Bicicleta y el  Peatón en la SDM, Gerente de la Bicicleta de Bogotá y Subgerente de Gestión del Suelo de la Empresa Metro de Bogotá. Adicionalmente, ha prestado los servicios profesionales en entidades como el IDU, Catastro Distrital, la SDM y ha impartido cátedra en Urbanismo Táctico en la Universidad Externado de Colombia en la Maestría de Ciudades Inteligentes.</p>
+                                                                <p>Con más de 20 años de experiencia en el sector público, ha desempeñado cargos como Subdirectora de la Bicicleta y el Peatón en la SDM, Gerente de la Bicicleta de Bogotá y Subgerente de Gestión del Suelo de la Empresa Metro de Bogotá. Adicionalmente, ha prestado los servicios profesionales en entidades como el IDU, Catastro Distrital, la SDM y ha impartido cátedra en Urbanismo Táctico en la Universidad Externado de Colombia en la Maestría de Ciudades Inteligentes.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -636,7 +655,7 @@
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2022/rafaelalbertogonzalezrodriguez.webp" alt="Rafael Alberto González Rodríguez">
                                                                             </div>
                                                                         </div>
-                                                                        
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Rafael Alberto González Rodríguez</h1>
@@ -693,14 +712,9 @@
                                                                                 <h1>Valentina Acuña García</h1>
                                                                                 <h4>Subdirectora de Transporte Privado</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Valentina Acuña García, de 30 años de edad, y quien gracias a su excelente desempeño fue nombrada como Subdirectora de Transporte Privado en la entidad, viene de prestar sus servicios como profesional en la misma Subdirección donde se ocupó de diversos temas como el proceso de interventoría del Sistema Inteligente de Estacionamientos y las excepciones de vehículos particulares a la medida de pico y placa, entre otros.</p>
-                                                                                    <p>Valentina es Ingeniera Civil de la Universidad Nacional de Colombia y cursó una maestría en Transporte en la misma alma máter. Además, tiene estudios complementarios en Análisis de Sistemas de Transporte, y en Introducción a los Modelos de Demanda de Transporte en la Pontificia Universidad Católica de Chile.</p>
-                                                                                    <p>Fue elegida como estudiante de intercambio por la convocatoria de Mejores Promedios, de la Universidad Nacional de Colombia, por lo cual viajó a estudiar un año en Francia.</p>
-                                                                                    <p>Su experiencia ha sido específicamente en la planeación del transporte y la creación de estrategias de movilidad. En TransMilenio estuvo alrededor de cuatro años en la Subgerencia Técnica y de Servicios, donde se encargó de la elaboración de un modelo estadístico para las modificaciones a las rutas del SITP y de los procesos de planeación operacional, técnica y estratégica de la Dirección Técnica de Buses. En la Universidad Nacional de Colombia trabajó como ingeniera de apoyo en el programa de Investigación de Tránsito y Transporte.</p>
-                                                                                    <p>Se muestra complacida con el excelente equipo de trabajo que recibe, el cual se destaca por su capacidad técnica y los valores personales, atributos que son fundamentales para potencializar esta Subdirección. Busca trabajar de manera articulada con los otros grupos de la Secretaría para alcanzar las metas propuestas como cambiar el paradigma con respecto a la nueva normalidad y desestimular el uso del vehículo particular a través de la implementación de estrategias de movilidad sostenible, entre otras.</p>
-                                                                                    <p>Se declara amante de la naturaleza, hacer caminatas y pasar tiempo al aire libre. Le encanta el glamping* y por supuesto disfruta de compartir tiempo en familia.</p>
-                                                                                    <p>¡Bienvenida y muchos éxitos!</p>
-                                                                                    <p>*glamping (actividad de disfrutar al aire libre, con las comodidades de un hotel)</p>
+                                                                                    <p>Es Ingeniera Civil de la Universidad Nacional de Colombia y cursó una maestría en Transporte en la misma alma máter. Además, tiene estudios complementarios en Análisis de Sistemas de Transporte y en Introducción a los Modelos de Demanda de Transporte de la Pontificia Universidad Católica de Chile.</p>
+                                                                                    <p>Cuenta con experiencia en planeación del transporte y creación de estrategias de movilidad. En Transmilenio se encargó de la elaboración de un modelo estadístico para las modificaciones a las rutas del SITP y de los procesos de planeación operacional, técnica y estratégica.</p>
+                                                                                    <p>Dentro de la Secretaría de Movilidad, ha trabajado en proyectos estratégicos como el proyecto de Estacionamiento en Vía, Fondo de reposición de carga y Pico y placa solidario. </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1330,25 +1344,35 @@
                             </div>
                         </div>
 
+
                         <div class='panel-body-mapa'>
                             <div class="row">
 
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
-                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-06-2020/alejandra-gamez.jpg" alt="">
+                                        <!-- <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-06-2020/alejandra-gamez.jpg" alt=""> -->
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/adrianaruthizacertuche.png" alt="Foto Adriana Ruth Iza Certuche">
                                     </div>
                                 </div>
 
                                 <div class="col-xs-12 col-sm-8 ">
-                                    <div class="descripcion">
+                                    <!-- <div class="descripcion">
                                         <h1>Alejandra Moreno Gámez</h1>
                                         <h4>Subsecretaría de Servicios a la Ciudadanía</h4>
                                         <div class="descripcion-xs">
                                             <p>Es Comunicadora Social y Periodista, especializada en Opinión Publica y Mercado Político de la Pontificia Universidad Javeriana, con más de 20 años de experiencia en el sector público y en el mejoramiento de los servicios de atención al ciudadano. Ha sido servidora pública en diferentes entidades como Asesora de la Dirección General del Instituto Distrital de la Participación y la Acción Comunal, de la Unidad Administrativa Especial Migración Colombia, liderando la política de servicio al ciudadano en los servicios migratorios; en el Departamento Administrativo de Seguridad DAS se desempeñó como Coordinadora Nacional de Servicio al Ciudadano, en la Superintendencia de Vigilancia y Seguridad Privada como Asesora del Despacho y Jefe de Comunicaciones y en la Presidencia de la República, en la Secretaría de Prensa y Comunicación.</p>
                                             <p>Uno de los propósitos más importante al frente de esta Subsecretaría es la virtualización de los servicios ofrecidos a la ciudadanía para que su relacionamiento con la entidad sea de manera rápida, transparente y sencilla.</p>
                                         </div>
+                                    </div> -->
+                                    <div class="descripcion">
+                                        <h1>Adriana Ruth Iza Certuche</h1>
+                                        <h4>Subsecretaría de Servicios a la Ciudadanía</h4>
+                                        <div class="descripcion-xs">
+                                            <p>Administradora de empresas, con máster en Estudios Políticos de la Universidad Javeriana, tiene Especialización en Evaluación Social de Proyectos en la Universidad de los Andes. En el campo profesional fue directora de Estudios Sectoriales de la Secretaría de Movilidad por seis años, su paso como jefe de Gestión Social destaco su liderazgo asumiendo retos en proyectos de eliminación de brechas de género en el sector movilidad, además fue Coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue Gerente de Clúster de confecciones alrededor de cuatro años.</p>
+                                        </div>
                                     </div>
                                 </div>
+
 
                             </div>
                         </div>
@@ -1396,25 +1420,6 @@
 
                                                 </div>
 
-                                                <!-- <div class="row">
-                                                    <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2020/adriana-iza.jpg" alt="Foto: Adriana Ruth Iza Certuche" title="Foto: Adriana Ruth Iza Certuche">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-8 ">
-                                                        <div class="descripcion">
-                                                            <div>
-                                                                <h1>Adriana Ruth Iza Certuche</h1>
-                                                                <h4>Dirección de Atención al Ciudadano (e)</h4>
-                                                            </div>
-                                                            <div class="descripcion-xs">
-                                                                <p>Es administradora de empresas, tiene un máster en Estudios Políticos de la Universidad Javeriana y una especialización en Evaluación Social de Proyectos de la Universidad de los Andes. Por seis años fue Directora de Estudios Sectoriales de la Secretaría de Movilidad, y ahora es la jefe de Gestión Social. Además fue coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue gerente de Cluster de confecciones alrededor de cuatro años.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div> -->
-
                                             </div>
 
                                         </div>
@@ -1441,14 +1446,12 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
-                                                <div class="row">
-
+                                                <!-- <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
                                                             <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_dannyusma.jpg" alt="Foto: Danny Stiwar Usma Monsalve" title="Foto: Danny Stiwar Usma Monsalve">
                                                         </div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Danny Stiwar Usma Monsalve</h1>
@@ -1462,7 +1465,26 @@
                                                             </div>
                                                         </div>
                                                     </div>
+                                                </div> -->
 
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-4 text-center">
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/anamariacorredor.webp" alt="Foto: Ana María Corredor" title="Foto: Ana María Corredor">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-8 ">
+                                                        <div class="descripcion">
+                                                            <h1>Ana María Corredor Yunis</h1>
+                                                            <h4>Director de Investigaciones Administrativas al Tránsito y Transporte</h4>
+                                                            <div class="descripcion-xs">
+                                                                <p>Abogada egresada de la Universidad Santo Tomás, especialista en Derecho Administrativo del Colegio Mayor de Nuestra Señora del Rosario.</p>
+                                                                <p>Su experiencia profesional inició realizando su judicatura en la Corte Constitucional, luego trabajó como asesora en materia de contratación para el Instituto de Casas Fiscales del Ejército. Durante algún tiempo se dedicó al litigio y ejerció un rol de profesional de apoyo en la Comisión Nacional de Televisión, donde llevaba temas de asuntos disciplinarios y asesoraba a la directora de la oficina.</p>
+                                                                <p>Ingresó en el año 2007 como profesional universitaria de la oficina de Control Interno a la Secretaría Distrital de Movilidad, por un concurso de la Comisión Nacional del Servicio Civil, luego ascendió a profesional especializado en el área de Control Disciplinario; se ha desempeñado en diferentes dependencias y roles dentro de la SDM, entre los cuales se destacan: Dirección de Atención al Ciudadano y Dirección de Contratación.</p>
+                                                                <p>Sus quince (15) años de labor en la entidad, donde ha contribuido en temas misionales y de apoyo, le dan grandes herramientas para asumir la gestión del talento humano como el reto más significado, pues Ana María afirma que el personal de la secretaría es alma de la entidad y su propósito es que se sientan en familia, a través de procesos oportunos, eficientes y humanos que deben ser liderados por este equipo.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
                                                 </div>
 
                                                 <div class='panel-group' id='accordionSSC_DIATT' role='tablist ' aria-multiselectable='true'>
@@ -1484,15 +1506,13 @@
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
 
-
+                                                                    <!-- 
                                                                     <div class="row">
-
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2020/johana-catalina-latorre.jpg" alt="">
                                                                             </div>
-                                                                        </div>
-
+                                                                        </div> 
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Johana Catalina Latorre Alarcón</h1>
@@ -1503,7 +1523,24 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
+                                                                    </div> -->
 
+                                                                    <div class="row">
+                                                                        <div class="col-xs-12 col-sm-4 text-center">
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2020/carol-pinzon.jpg" alt="">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="col-xs-12 col-sm-8 ">
+                                                                            <div class="descripcion">
+                                                                                <h1>Carol Angie Pinzón Ruiz</h1>
+                                                                                <h4>Subdirectora de Contravenciones (e)</h4>
+                                                                                <div class="descripcion-xs">
+                                                                                    <p>Abogada, egresada de la Universidad Católica de Colombia, especialista en Derecho Comercial y en Derecho de la Empresa de la Universidad del Rosario, Conciliadora en Derecho de la Universidad Gran Colombia.</p>
+                                                                                    <p>Con experiencia profesional de 19 años, se desempeñó en el sector privado, 9 años como asesora en asuntos de seguros, tránsito y transporte y en el sector público, se ha desempeñado por más de 10 años en la Secretaría Distrital de Movilidad, como profesional en la Subdirección de Contravenciones y como Subdirectora en la Subdirección de Jurisdicción Coactiva hoy Dirección de Gestión de Cobro.</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
 
                                                                 </div>
@@ -1535,14 +1572,12 @@
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
 
-                                                                    <div class="row">
-
+                                                                    <!-- <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2020/carol-pinzon.jpg" alt="">
                                                                             </div>
                                                                         </div>
-
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Carol Angie Pinzón Ruiz</h1>
@@ -1553,8 +1588,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-
-                                                                    </div>
+                                                                    </div> -->
 
                                                                 </div>
 
@@ -1718,6 +1752,7 @@
                                 </div>
                                 <!-- /#fin DNC -->
 
+
                                 <!-- collapseContratacion -->
                                 <div class='panel panel-default'>
                                     <div class='panel-heading ph-2' role='tab' id='headingContratacion'>
@@ -1745,10 +1780,10 @@
                                                             <h1>Johanna Paola Restrepo Sierra</h1>
                                                             <h4>Directora de Contratación</h4>
                                                             <div class="descripcion-xs">
-                                                             <p>Abogada titulada de la Facultad de Derecho de la Universidad Manuela Beltrán, especialista en Contratación Pública y especialista en Gerencia en Gobierno y Gestión Pública.</p>
-                                                             <p>Ha trabajado en diferentes entidades del sector público a nivel nacional y distrital en materia de contratación, gestión pública y ejecución de proyectos, entre las que se encuentran: el Ministerio de Defensa Nacional, Secretaría de Educación y la Secretaría Distrital de Integración Social; así mismo, asesorando entidades como KOICA Agencia de Cooperación Internacional de Corea.</p>
-                                                             <p>Entre su experiencia también se destaca su labor como docente en la Universidad Jorge Tadeo Lozano y en la Universidad Popular del Cesar; su paso por la Superintendencia de la Economía Solidaria en los roles de jefe de oficina, secretaria general y asesora de despacho. Recientemente, apoyó todos los temas jurídicos de la Subgerencia Técnica y de Servicios de Transmilenio S.A.</p>
-                                                             <p>Entre el 2016 y el 2019 nos acompañó en la Secretaría Distrital de Movilidad como contratista y ahora, regresa a la Entidad con el compromiso de trabajar por Bogotá.</p>
+                                                                <p>Abogada titulada de la Facultad de Derecho de la Universidad Manuela Beltrán, especialista en Contratación Pública y especialista en Gerencia en Gobierno y Gestión Pública.</p>
+                                                                <p>Ha trabajado en diferentes entidades del sector público a nivel nacional y distrital en materia de contratación, gestión pública y ejecución de proyectos, entre las que se encuentran: el Ministerio de Defensa Nacional, Secretaría de Educación y la Secretaría Distrital de Integración Social; así mismo, asesorando entidades como KOICA Agencia de Cooperación Internacional de Corea.</p>
+                                                                <p>Entre su experiencia también se destaca su labor como docente en la Universidad Jorge Tadeo Lozano y en la Universidad Popular del Cesar; su paso por la Superintendencia de la Economía Solidaria en los roles de jefe de oficina, secretaria general y asesora de despacho. Recientemente, apoyó todos los temas jurídicos de la Subgerencia Técnica y de Servicios de Transmilenio S.A.</p>
+                                                                <p>Entre el 2016 y el 2019 nos acompañó en la Secretaría Distrital de Movilidad como contratista y ahora, regresa a la Entidad con el compromiso de trabajar por Bogotá.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1901,26 +1936,20 @@
                                             <div class='panel-body-mapa'>
 
                                                 <div class="row">
-
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-04-2022/sandramilenavargasjurado.webp" alt="Sandra Milena Vargas Jurado" title="Sandra Milena Vargas Jurado">
+                                                            <img class="img-circle" src="https://via.placeholder.com/400x400?text=Foto+Perfil" alt="Paola Adriana Corona Miranda" title="Paola Adriana Corona Miranda">
                                                         </div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Sandra Milena Vargas Jurado</h1>
-                                                            <h4>Directora Administrativa y Financiera (E)</h4>
+                                                            <h1>Paola Adriana Corona Miranda</h1>
+                                                            <h4>Directora Administrativa y Financiera</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Abogada de la Universidad Autónoma de Colombia, especialista en Derecho Administrativo y actualmente en proceso de grado de la maestría en Derecho Administrativo de la Universidad Santo Tomás. Certificada como auditora interna del Sistema de Gestión EFR – (Empresa Familiarmente Responsable) de la Fundación Másfamilia de España, con experiencia laboral tanto en el sector público como en el privado.</p>
-                                                                <p>Trabajó en la Secretaría Distrital de Movilidad los años 2020 y 2021, vinculada a la Dirección Administrativa y Financiera y apoyando en general varios procesos de la Subsecretaría de Gestión Corporativa y sus dependencias adscritas. Regresa con el reto de continuar consolidando equipo, dispuesta a sacar los logros y objetivos adelante. También ha laborado en entidades distritales como el IDU, en donde estuvo por más de dos años en la Dirección Técnica Administrativa y Financiera, esta experiencia le permitió desempeñarse en actividades relacionadas con los procesos administrativos como: gestión documental, adquisición de bienes y servicios, sistema de gestión de la calidad y formulación de políticas estratégicas.</p>
-                                                                <p>De igual forma, dentro de su experiencia laboral se encuentra su paso por la Comisión Nacional del Servicio Civil, donde ejerció el cargo de Asesora de Despacho y su desempeño como Directora Comercial de Servicios de Información y Valor Agregado SAS - SINVA, entre otros. En el desarrollo de su profesión como abogada posee mayor énfasis en asuntos contractuales y en general en los diferentes campos del derecho administrativo.</p>
-
+                                                                <p></p>
                                                             </div>
                                                         </div>
                                                     </div>
-
                                                 </div>
 
                                                 <div class='panel-group ' id='collapseDAF' role='tablist ' aria-multiselectable='true'>
@@ -1986,14 +2015,12 @@
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
 
-                                                                    <div class="row">
-
+                                                                    <!-- <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/neyfi_rubiela_martinez_guauta.webp" alt="Foto de Neyfi Rubiela Martinez">
                                                                             </div>
                                                                         </div>
-
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Neyfi Rubiela Martínez Guauta</h1>
@@ -2006,11 +2033,29 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
+                                                                    </div> -->
 
+                                                                    <div class="row">
+                                                                        <div class="col-xs-12 col-sm-4 text-center">
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-04-2022/sandramilenavargasjurado.webp" alt="Sandra Milena Vargas Jurado" title="Sandra Milena Vargas Jurado">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="col-xs-12 col-sm-8 ">
+                                                                            <div class="descripcion">
+                                                                                <h1>Sandra Milena Vargas Jurado</h1>
+                                                                                <h4>Subdirectora Administrativa</h4>
+                                                                                <div class="descripcion-xs">
+                                                                                    <p>Abogada de la Universidad Autónoma de Colombia, especialista en Derecho Administrativo y actualmente en proceso de grado de la maestría en Derecho Administrativo de la Universidad Santo Tomás. Certificada como auditora interna del Sistema de Gestión EFR – (Empresa Familiarmente Responsable) de la Fundación Másfamilia de España, con experiencia laboral tanto en el sector público como en el privado.</p>
+                                                                                    <p>Trabajó en la Secretaría Distrital de Movilidad los años 2020 y 2021, vinculada a la Dirección Administrativa y Financiera y apoyando en general varios procesos de la Subsecretaría de Gestión Corporativa y sus dependencias adscritas. Regresa con el reto de continuar consolidando equipo, dispuesta a sacar los logros y objetivos adelante. También ha laborado en entidades distritales como el IDU, en donde estuvo por más de dos años en la Dirección Técnica Administrativa y Financiera, esta experiencia le permitió desempeñarse en actividades relacionadas con los procesos administrativos como: gestión documental, adquisición de bienes y servicios, sistema de gestión de la calidad y formulación de políticas estratégicas.</p>
+                                                                                    <p>De igual forma, dentro de su experiencia laboral se encuentra su paso por la Comisión Nacional del Servicio Civil, donde ejerció el cargo de Asesora de Despacho y su desempeño como Directora Comercial de Servicios de Información y Valor Agregado SAS - SINVA, entre otros. En el desarrollo de su profesión como abogada posee mayor énfasis en asuntos contractuales y en general en los diferentes campos del derecho administrativo.</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                            
+
 
                                                         </div>
                                                     </div>
@@ -2043,26 +2088,23 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
-                                            <div class="row">
+                                                <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/anamariacorredor.webp" alt="Foto: Ana María Corredor" title="Foto: Ana María Corredor">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/vianneydelsocorroceledonaponte.png" alt="Foto: Vianney del Socorro Celedón Aponte" title="Foto: Vianney del Socorro Celedón Aponte">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Ana María Corredor Yunis</h1>
+                                                            <H1>Vianney del Socorro Celedón Aponte</H1>
                                                             <h4>Directora de Talento Humano</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Abogada egresada de la Universidad Santo Tomás, especialista en Derecho Administrativo del Colegio Mayor de Nuestra Señora del Rosario.</p>
-                                                                <p>Su experiencia profesional inició realizando su judicatura en la Corte Constitucional, luego trabajó como asesora en materia de contratación para el Instituto de Casas Fiscales del Ejército. Durante algún tiempo se dedicó al litigio y ejerció un rol de profesional de apoyo en la Comisión Nacional de Televisión, donde llevaba temas de asuntos disciplinarios y asesoraba a la directora de la oficina.</p>
-                                                                <p>Ingresó en el año 2007 como profesional universitaria de la oficina de Control Interno a la Secretaría Distrital de Movilidad, por un concurso de la Comisión Nacional del Servicio Civil, luego ascendió a profesional especializado en el área de Control Disciplinario; se ha desempeñado en diferentes dependencias y roles dentro de la SDM, entre los cuales se destacan: Dirección de Atención al Ciudadano y Dirección de Contratación.</p>
-                                                                <p>Sus quince (15) años de labor en la entidad, donde ha contribuido en temas misionales y de apoyo, le dan grandes herramientas para asumir la gestión del talento humano como el reto más significado, pues Ana María afirma que el personal de la secretaría es alma de la entidad y su propósito es que se sientan en familia, a través de procesos oportunos, eficientes y humanos que deben ser liderados por este equipo.</p>
+                                                                <p></p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-       
+
                                             </div>
                                         </div>
                                     </div>
@@ -2222,17 +2264,16 @@
         color: #363636;
         text-decoration: none;
     }
+
     .btn-org:focus,
     .btn-org:active,
-    .btn-org::before
-     {
+    .btn-org::before {
         color: #efefef;
     }
 </style>
 
 
 <style type="text/css">
-
     .colapsable .panel {
         margin-bottom: 5px;
     }
@@ -2363,7 +2404,6 @@
         max-width: 80%;
 
     }
-
 </style>
 
 <style>
@@ -2377,7 +2417,7 @@
     }
 
     .seccion p {
-        font-size: 14px !important; 
+        font-size: 14px !important;
     }
 
 
@@ -2421,7 +2461,7 @@
         }
 
         .seccion h4 {
-            font-size:  16px;
+            font-size: 16px;
         }
 
         .seccion p {
