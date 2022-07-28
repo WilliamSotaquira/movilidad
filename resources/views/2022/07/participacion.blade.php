@@ -66,7 +66,7 @@
                 </div>
             </a>
             <a href="" target="_blank" rel="noopener noreferrer">
-                <div class="boton-clm">
+                <div class="boton-clm">|
                     <h4>Informes y seguimiento de agendas participativas</h4>
                 </div>
             </a>
