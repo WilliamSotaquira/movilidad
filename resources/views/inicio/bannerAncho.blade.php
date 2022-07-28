@@ -10,10 +10,10 @@
       <!-- <hr>
       <div class="row">
           <div class="col-xs-12 visible-xs-12 visible-xs-block">
-              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-06-2022/aviso_mantenimiento_correctivo_benner_900x300.jpg" title="Aviso Mantenimiento Sistema Contravencional">
+              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-07-2022/2022-07-19_aviso-mantenimiento-correctivo_fb.png" title="Aviso Mantenimiento Sistema Contravencional">
           </div>
           <div class="col-sm-12 hidden-xs">
-              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-06-2022/aviso_mantenimiento_correctivo_banner_1920x640.jpg" title="Aviso Mantenimiento Sistema Contravencional">
+              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-07-2022/2022-07-19_aviso-mantenimiento-correctivo_banner-1920-x-640.png" title="Aviso Mantenimiento Sistema Contravencional">
           </div>
       </div> -->
 
@@ -109,12 +109,12 @@
       </div>
       <!-- Fin Seccion Botones Pico y Placa  -->
 
-      <br>
+      <!-- <br>
       <div class="row">
           <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="http://bogota.tembici.com.co/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_320x300.jpg" title="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá"></a></div>
           <div class="col-sm-12 hidden-xs"><a href="http://bogota.tembici.com.co/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_980x220_.jpg" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
         </div>
-    </div>
+    </div> -->
     <br>
 
     
