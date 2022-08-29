@@ -6,10 +6,13 @@
         <p><img alt="Orientación para víctimas de Siniestros Viales - ORVI" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2020/header.jpg"></p>
     </section>
     <section class="row intro">
-        <div class="col-sm-5">
-            <div class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/WZYRgYeu42U?rel=0"></iframe></div>&nbsp;<div class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" class="embed-responsive-item" src="https://www.youtube.com/embed/DajzSUeGgWE?rel=0"></iframe></div>
+        <div class="col-sm-8 col-sm-offset-2">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width="450" height="315" src="https://www.youtube.com/embed/VsJyXZ8zpHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </div>
-        <div class="col-sm-7">
+        <div class="col-sm-12">
+            <br>
             <p><strong>ORVI</strong> es el <strong>Centro de Orientación para Víctimas por Siniestros Viales</strong> de <strong>Bogotá D.C</strong>, donde se informará y orientará a las víctimas por siniestros viales y sus familiares acerca de los procedimientos que pueden seguir en materia social, jurídica y psicológica tras un incidente de tránsito, con el fin de brindarles herramientas para adaptarse adecuadamente a sus nuevas condiciones en la vida.</p>
             <p>Se reconoce como víctima a toda persona que haya sufrido daño o afectación como consecuencia directa de un siniestro vial. El centro dispondrá de medios presenciales y virtuales para que las víctimas de siniestros viales y/o sus familiares puedan acceder al servicio. La persona que sea atendida contará con todas las garantías para un trato con enfoque de derecho, diferencial y de género.</p>
             <p>Su implementación y operación se enmarca en el <strong>Plan Distrital de Seguridad Vial 2017-2026 (Decreto 813 de 2017) y del Plan Distrital de Desarrollo 2020 - 2024 Un nuevo contrato social y ambiental para el siglo XXI (Acuerdo 761 de 2020).</strong></p>
@@ -21,7 +24,7 @@
             <div class="panel-heading">
                 <h4 class="panel-title"><a aria-expanded="true" class="collapsed" data-parent="#accordion-orvi" data-toggle="collapse" href="#enfoques-orientacion">ENFOQUES DE ORIENTACIÓN</a></h4>
             </div>
-            <div aria-expanded="true" class="panel-collapse collapse" id="enfoques-orientacion" style="">
+            <div aria-expanded="true" class="panel-collapse collapse" id="enfoques-orientacion">
                 <div class="panel-body">
                     <div class="row">
                         <div class="col-sm-4"><img alt="" class="img-center img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-12-2020/orientacion-social.png"></div>
