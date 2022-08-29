@@ -18,23 +18,30 @@
                     <h1>Las <span class="txt-enf-v1"><strong>Zonas de Parqueo Pago</strong></span> son áreas de la ciudad en las que la <span class="txt-enf-v1"><strong>Alcaldía Mayor de Bogotá</strong></span> permite el estacionamiento de vehículos en vía a cambio de un pago por el uso de estos espacios.</h1>
                 </div>
             </div>
-            <!-- <div class='row encabezado'>
-                <div class='col-xs-12 col-sm-6'>
-                    <div class="encabezado-img">
-                        <img class='img-responsive img-banner' src='http://zonadeparqueopago.gov.co/Recursos/Ultima_Version/logo_26102021_0.png' alt='Encabezado Zonas de Parqueo Pago' title='Encabezado Zonas de Parqueo Pago'>
-                    </div>
-                </div>
-                <div class='col-xm-12 col-sm-6'>
-                    <div class="encabezado-texto">
-                        <div>
-                            <p class="lead text-overflow">Las <span class="txt-enf-v1"><strong>Zonas de Parqueo Pago</strong></span> son áreas de la ciudad en las que la <span class="txt-enf-v1"><strong>Alcaldía Mayor de Bogotá</strong></span> permite el estacionamiento de vehículos en vía a cambio de un pago por el uso de estos espacios.</p>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
             <br>
         </div>
         <!-- Fin encabezado  -->
+        <!-- Sección Bloque de Mantenimiento  -->
+        <div class="box-avisos">
+
+            <hr>
+            <div class="row">
+                <!-- banner-xs  -->
+                <div class="col-xs-12 visible-xs-12 visible-xs-block">
+                    <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="ftp://zonadeparqueopag@zonadeparqueopago.gov.co/public_html/Recursos/aviso-mantenimiento_220827_xs.jpeg" title="Aviso Mantenimiento Sistema Contravencional">
+                </div>
+                <!-- Fin banner-xs  -->
+
+                <!-- banner-lg  -->
+                <div class="col-sm-12 hidden-xs">
+                    <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="ftp://zonadeparqueopag@zonadeparqueopago.gov.co/public_html/Recursos/aviso-mantenimiento_220827_lg.jpeg" title="Aviso Mantenimiento Sistema Contravencional">
+                </div>
+                <!-- Fin banner-lg  -->
+            </div>
+            <hr>
+
+        </div>
+        <!-- Fin Sección Bloque de Mantenimiento  -->
         <style>
             .box-head {
                 background-color: rgba(25, 28, 58, 1);
@@ -133,8 +140,6 @@
                         .como .texto {
                             grid-area: texto;
                         }
-
-                   
                     </style>
 
 
@@ -164,6 +169,7 @@
 
                         #pago .imagen {
                             grid-area: imagen;
+
                         }
 
                         #pago .texto {
@@ -201,6 +207,7 @@
                                                             <div class="parrafos">
                                                                 <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
                                                                 <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                                <i><strong>*O el horario que indique la señal. </strong></i>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -279,6 +286,7 @@
                                                             <div class="parrafos">
                                                                 <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
                                                                 <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                                <i><strong>*O el horario que indique la señal. </strong></i>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -348,13 +356,14 @@
                                                     <div class='col-xs-12 col-sm-6'>
                                                         <div class='box-img-mapa'>
                                                             <h4>Mapa ÁREA 3</h4>
-                                                            <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/A3.jpg' alt='Mapa Área 3' title='Mapa Area 3'>
+                                                            <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/Ai3.JPG' alt='Mapa Área 3' title='Mapa Area 3'>
                                                         </div>
                                                         <div class="box-txt">
                                                             <h4>Horario ÁREA 3</h4>
                                                             <div class="parrafos">
                                                                 <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
                                                                 <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                                <i><strong>*O el horario que indique la señal. </strong></i>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -431,6 +440,7 @@
                                                             <div class="parrafos">
                                                                 <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
                                                                 <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                                <i><strong>*O el horario que indique la señal. </strong></i>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -483,9 +493,88 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <!-- /#fin Area4 -->
+
+                                    <!-- collapseArea5 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='headingArea5'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordionTarifas' href='#collapseArea5' aria-expanded='true' aria-controls='collapseArea5'>
+                                                    ÁREA 5 - Localidad de Barrios Unidos
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapseArea5' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingArea5'>
+                                            <div class='panel-body'>
+                                                <div class='row'>
+                                                    <div class='col-xs-12 col-sm-6'>
+                                                        <div class='box-img-mapa'>
+                                                            <h4>Mapa ÁREA 5</h4>
+                                                            <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/Ai5.jpg' alt='Mapa Área 4' title='Mapa Area 4'>
+                                                            <br>
+                                                            <p>Desde la Calle 80 a la Calle 72 entre la Av. Caracas y el Río Salitre (Transversal 56A).</p>
+                                                        </div>
+                                                        <div class="box-txt">
+                                                            <h4>Horario ÁREA 5</h4>
+                                                            <div class="parrafos">
+                                                                <p>Lunes a Viernes: 8:30 a.m. - 10:00 p.m.</p>
+                                                                <p>Sabados: 10:00 a.m. - 10:00 p.m.</p>
+                                                                <i><strong>*O el horario que indique la señal. </strong></i>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_1_zonas_parqueo_autos.png" alt="Icono de automovil">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa
+                                                                        <p>Fracción de 10 minutos</p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $1.100</p>
+                                                                        <p>Más de 2 horas: $1.700</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$90.000*</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class='col-xs-12 col-sm-3'>
+                                                        <div class="pills">
+                                                            <div class="thumbnail">
+                                                                <div class="box-img-thumb">
+                                                                    <img class="img-responsive w-100" src="http://zonadeparqueopago.gov.co/Recursos/iconos_2_zonas_parqueo_mtos.png" alt="icono de motocicleta">
+                                                                </div>
+                                                                <div class="caption">
+                                                                    <h4>Tarifa <p>Fracción de 10 minutos </p>
+                                                                    </h4>
+                                                                    <h4><small>El pago es por anticipado</small></h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p>Hasta 2 horas: $800</p>
+                                                                        <p>Más de 2 horas: $1.200</p>
+                                                                    </div>
+                                                                    <h4>Valor retiro cepo</h4>
+                                                                    <div class="caption-parrafos">
+                                                                        <p><strong>$63.000*</strong></p>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin Area5 -->
 
                                 </div>
-                                <!-- /#fin Area4 -->
 
                             </div>
                         </div>
@@ -499,12 +588,13 @@
                                 <p><span class="txt-enf-v1">Estas zonas son operadas por la Terminal de Transporte de Bogotá y sus dos primeras áreas de implementación están ubicadas en el sector de Chicó Norte, localidad de Chapinero, desde la calle 72 a la calle 100 entre la carrera 7 y la Autopista Norte.</span></p>
                             </div>
                             <div class="mapa">
-                                <a href="http://zonadeparqueopago.gov.co/Recursos/Ultima_Version/2021-10-25_piezas-web-zonas-de-parqueo-mapa_3_0.png" target="_blank" rel="noopener noreferrer">
-                                    <img class='img-responsive w-100 img-mapa' src='http://zonadeparqueopago.gov.co/Recursos/Ultima_Version/2021-10-25_piezas-web-zonas-de-parqueo-mapa_3_0.png' alt='mapa de las zonas de parqueo pago' title='mapa de las zonas de parqueo pago'>
+                                <a href="http://zonadeparqueopago.gov.co/Recursos/zonas.jpg" target="_blank" rel="noopener noreferrer">
+                                    <img class='img-responsive w-100 img-mapa' src='http://zonadeparqueopago.gov.co/Recursos/zonas.jpg' alt='mapa de las zonas de parqueo pago' title='mapa de las zonas de parqueo pago'>
                                 </a>
                             </div>
                         </div>
                     </div>
+
                     <style>
                         #zonas {
                             display: relative;
@@ -559,354 +649,156 @@
         <!-- Fin Nav-tabs  -->
 
         <hr>
-        <div class="row acordeon">
-            <div class="titulo">
-                <h3>Preguntas Frecuentes</h3>
+        <div class="box-cards">
+            <a href="https://zonadeparqueopago.gov.co/normatividad.php" target="_blank" rel="noopener noreferrer">
+                <div class="card-zpp zoom">
+                    <div class='card-logo'>
+                        <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/Normativa.png' alt='logo normatividad' title='logo normatividad'>
+                    </div>
+                    <div class="card-texto">
+                        <h3>Normatividad</h3>
+                    </div>
+                </div>
+
+            </a>
+            <a href="https://bogota.gov.co/sdqs/crear-peticion" target="_blank" rel="noopener noreferrer">
+                <div class="card-zpp zoom">
+                    <div class='card-logo'>
+                        <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/PQRS.png' alt='logo PQRS' title='logo PQRS'>
+                    </div>
+                    <div class="card-texto">
+                        <h3>PQRSD</h3>
+                    </div>
+                </div>
+            </a>
+
+            <a href="https://zonadeparqueopago.gov.co/preguntas.php" target="_blank" rel="noopener noreferrer">
+                <div class="card-zpp zoom">
+                    <div class='card-logo'>
+                        <img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/preguntasFrecuentes.png' alt='logo Preguntas Frecuentes' title='logo Preguntas Frecuentes'>
+                    </div>
+                    <div class="card-texto">
+                        <h3>Preguntas Frecuentes</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <style>
+            .box-cards {
+                display: grid;
+                gap: 30px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                grid-template-areas: '';
+                padding: 5%;
+            }
+
+
+            .box-cards a {
+                text-decoration: none !important;
+            }
+
+            .box-cards .card-zpp {
+                margin: 30px;
+            }
+
+            .box-cards .card-texto {
+                height: 40px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .box-cards .card-texto h3 {
+                display: inline-block;
+                font-size: 18px;
+                font-weight: 700;
+                text-align: center;
+                line-height: 1.2;
+                color: rgba(25, 28, 58, 1);
+                margin: 8px;
+
+            }
+
+            .zoom {
+                transition: 0.5s ease;
+                -moz-transition: 0.5s ease;
+                /* Firefox */
+                -webkit-transition: 0.5s ease;
+                /* Chrome - Safari */
+                -o-transition: 0.5s ease;
+                /* Opera */
+                -ms-transition: 0.5s ease;
+            }
+
+            .zoom:hover {
+                transform: scale(1.05);
+                -moz-transform: scale(1.05);
+                /* Firefox */
+                -webkit-transform: scale(1.05);
+                /* Chrome - Safari */
+                -o-transform: scale(1.05);
+                /* Opera */
+                -ms-transform: scale(1.05);
+
+            }
+
+            /* IE9 */
+        </style>
+
+
+        <!--Boton de descarga APK-->
+        <hr>
+        <div class="titulo">
+            <h3>Descargue la aplicación para su dispositivo móvil</h3>
+        </div>
+        <div class="box-botones">
+            <div class="boton-app zoom boton-android">
+                <a href="https://t.co/5zf0gqda7b" class="btn btn-zpp" target="_blank" rel="noopener noreferrer"><img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/botonesPaginaZPP-05.png' alt='Descargar App Android' title='Descargar App Android'></a>
             </div>
-            <div class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 zpp-acordeon">
-
-                <!-- collapsepreguntas -->
-                <div class='panel-group' id='accordionpreguntas' role='tablist' aria-multiselectable='true'>
-
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingpreguntas'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsepreguntas' aria-expanded='true' aria-controls='collapsepreguntas'>
-                                    1. ¿Qué son las Zonas de Parqueo Pago? </a>
-                            </h4>
-                        </div>
-                        <div id='collapsepreguntas' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingpreguntas'>
-                            <div class='panel-body'>
-                                <p>Son áreas de la ciudad en las cuales la Alcaldía Mayor de Bogotá permite el estacionamiento de vehículos en vía a cambio de un pago por el uso de estos espacios.</p>
-                                <p>Las Zonas de Parqueo Pago permiten que el espacio público tenga un uso adecuado y eficiente, organizan la movilidad, reducen la congestión vehicular y generan recursos públicos para fortalecer el Sistema Integrado de Transporte Público de la ciudad.</p>
-
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                    <!-- collapsep2 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp2'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep2' aria-expanded='true' aria-controls='collapsep2'>
-                                    2. ¿Cómo se identifican las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp2'>
-                            <div class='panel-body'>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-4">
-                                        <div class="img-fondo-1">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-8">
-                                        <div class="img-fondo-2">
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <p>Por su demarcación en el piso y la señalización, así:</p>
-                                <ul>
-                                    <li>El recuadro, cupo o cajón de estacionamiento está demarcado con pintura blanca.</li>
-                                    <li>Las señales de tránsito informativas indican el horario y la tarifa del servicio.</li>
-                                    <p>Adicionalmente, las zonas de parqueo pago cuentan con demarcación distintiva en el piso para:</p>
-                                    <ul>
-                                        <li>Vehículos de personas con discapacidad (con igual tarifa que los automóviles).</li>
-                                        <li>Vehículos eléctricos (sin costo durante la primera hora y luego de ese lapso de tiempo aplica la misma tarifa que para automóviles).</li>
-                                        <li>Vehículos para cargue y descargue de mercancías (las actividades de cargue y descargue de mercancías no tendrán costo si se realizan en las áreas autorizadas. Si se usan las Zonas de Parqueo Pago, la tarifa será la misma que la de los automóviles, multiplicada por cada espacio, cupo o cajón de estacionamiento que ocupe el vehículo).</li>
-                                        <li>Estacionamiento de motocicletas (aplican las tarifas para este tipo de vehículos).</li>
-                                        <li>Estacionamiento de bicicletas (sin costo).</li>
-                                    </ul>
-                                </ul>
-
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p2 -->
-
-                    <!-- collapsep3 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp3'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep3' aria-expanded='true' aria-controls='collapsep3'>
-                                    3. ¿Cómo se seleccionan las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep3' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp3'>
-                            <div class='panel-body'>
-                                <p>La zonificación y priorización se hace con una metodología que contempla criterios de demanda de estacionamiento, uso del suelo, seguridad ciudadana y seguridad vial, así como registros históricos de invasión del espacio público por parqueo en vía.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p3 -->
-
-                    <!-- collapsep4 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp4'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep4' aria-expanded='true' aria-controls='collapsep4'>
-                                    4. ¿En qué lugares se pueden implementar las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep4' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp4'>
-                            <div class='panel-body'>
-                                <p>En vías locales e intermedias y en las bahías expresamente autorizadas por la Secretaría Distrital de Movilidad.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p4 -->
-
-                    <!-- collapsep5 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp5'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep5' aria-expanded='true' aria-controls='collapsep5'>
-                                    5. ¿En dónde no se pueden implementar las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep5' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp5'>
-                            <div class='panel-body'>
-                                <ul>
-                                    <li>Vías principales, para no generar congestión vehicular.</li>
-                                    <li>Donde estén ubicados paraderos del SITP.</li>
-                                    <li>Vías de doble sentido con un solo carril por sentido.</li>
-                                    <li>Vías con aproximación a intersecciones semaforizadas.</li>
-
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p5 -->
-
-                    <!-- collapsep6 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp6'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep6' aria-expanded='true' aria-controls='collapsep6'>
-                                    6. ¿En qué áreas de la ciudad operan las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep6' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp6'>
-                            <div class='panel-body'>
-                                <p>Actualmente las Zonas de Parqueo Pago operan:</p>
-                                <ul>
-                                    <li>Desde la calle 127 hasta la calle 100 entre Carrera 5ª y Autopista Norte.</li>
-                                    <li>Desde la calle 100 hasta la calle 72 entre Carrera 7ª y Autopista Norte.</li>
-                                    <li>Desde la calle 72 hasta la calle 45 entre la Carrera 2ª y la Av. Caracas.</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p6 -->
-
-                    <!-- collapsep7 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp7'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep7' aria-expanded='true' aria-controls='collapsep7'>
-                                    7. ¿Cómo se pueden ubicar las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep7' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp7'>
-                            <div class='panel-body'>
-                                <div class='row'>
-                                    <!-- xs -->
-                                    <div class='col-xs-10 col-xs-offset-1'>
-                                        <img class='img-responsive w-100 ' src='https://zonadeparqueopago.gov.co/Recursos/Ultima_Version/2021-10-25_piezas-web-zonas-de-parqueo-mapa_2_0.png' alt='Zonas de Parqueo Mapa' title='Zonas de Parqueo Mapa'>
-                                    </div>
-                                </div>
-                                <br>
-                                <p>Los ciudadanos podrán consultar los mapas georreferenciados de las Zonas de Parqueo Pago a través de la APP móvil que próximamente estará disponible Play Store (Android) y App Store (iOS).*Esquema Área de Implementación 1 </p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p7 -->
-
-                    <!-- collapsep8 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp8'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep8' aria-expanded='true' aria-controls='collapsep8'>
-                                    8. ¿Las Zonas de Parqueo Pago cuentan con personal en vía?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep8' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp8'>
-                            <div class='panel-body'>
-                                <div class="row">
-                                    <div class="col-xs-12 col-sm-6">
-                                        <div class="img-fondo-3">
-                                        </div>
-                                    </div>
-                                    <div class="col-xs-12 col-sm-6">
-                                        <div class="img-fondo-4">
-
-                                        </div>
-                                    </div>
-                                </div>
-                                <p>Sí. Las Zonas de Parqueo Pago cuentan con facilitadores que apoyan la operación en vía y que están debidamente identificados y dotados con gorra y chaqueta de color azul con los logos de la Zona de Parqueo Pago, la Terminal de Transporte de Bogotá y la Alcaldía Mayor de Bogotá.</p>
-                                <p>Canales:</p>
-                                <ul>
-                                    <li>Teléfono de contacto ZPP: <a href="tel:+6019193333">(+57)(601) 919-3333</a></li>
-                                    <li>Correo electrónico: <a href="mailto:zonadeparqueopago@terminaldetransporte.gov.co">zonadeparqueopago@terminaldetransporte.gov.co</a></li>
-                                    <li>Página web: <a href="http://www.zonadeparqueopago.gov.co" target="_blank" rel="noopener noreferrer">www.zonadeparqueopago.gov.co</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p8 -->
-
-                    <!-- collapsep9 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp9'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep9' aria-expanded='true' aria-controls='collapsep9'>
-                                    9. ¿Cuáles son los canales de atención al usuario?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep9' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp9'>
-                            <div class='panel-body'>
-                                <p>Además del canal presencial con los facilitadores, se han dispuesto dos (2) canales de atención a los usuarios:</p>
-                                <ul>
-                                    <li><strong>Teléfono de contacto ZPP: </strong> <a href="tel:+576019193333">(+57)(601) 919-3333</a></li>
-                                    <li><strong>Correo electrónico: </strong><a href="mailto:zonadeparqueopago@terminaldetransporte.gov.co">zonadeparqueopago@terminaldetransporte.gov.co</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p9 -->
-
-                    <!-- collapsep10 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp10'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep10' aria-expanded='true' aria-controls='collapsep10'>
-                                    10. ¿En qué horarios funcionan las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep10' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp10'>
-                            <div class='panel-body'>
-                                <dl>
-                                    <dt>Lunes a viernes:</dt>
-                                    <dd>8:30 a.m. – 10:00 p.m.</dd>
-                                </dl>
-                                <dl>
-                                    <dt>Sábados:</dt>
-                                    <dd>10:00 a.m. – 10:00 p. m.</dd>
-                                </dl>
-                                <dl>
-                                    <dt>*En algunas calles el horario cambia y se rige de acuerdo con la información contenida en la señal de tránsito.</dt>
-                                </dl>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p10 -->
-
-                    <!-- collapsep11 -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='headingp11'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordionpreguntas' href='#collapsep11' aria-expanded='true' aria-controls='collapsep11'>
-                                    11. ¿Qué pasa si el usuario no paga por estacionar en las Zonas de Parqueo Pago?
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapsep11' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingp11'>
-                            <div class='panel-body'>
-                                <p>El usuario debe pagar anticipadamente por fracciones de 30 minutos. Si no lo hace o no renueva el tiempo pagado inicialmente, se inmovilizará el vehículo con la instalación de un cepo. <strong>El valor del retiro del cepo es de $90.000 para automóviles y $63.000 para motos.</strong></p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /#fin p11 -->
-
-                </div>
-                <!-- /#fin preguntas -->
-
-                <!--Boton de descarga APK-->
-                <div class="box-botones">
-                    <div class="boton-android">
-                        <a href="https://t.co/5zf0gqda7b" class="btn btn-zpp" target="_blank" rel="noopener noreferrer">Descargar App Android</a>
-                    </div>
-                    <div class="boton-ios">
-                        <a href="https://t.co/CHZpHq2kho" class="btn btn-zpp" target="_blank" rel="noopener noreferrer">Descargar App iOS</a>
-                    </div>
-                </div>
-                <style>
-                    .box-botones {
-                        display: grid;
-                        grid-template-columns: repeat(2, 1fr);
-                        grid-template-rows: auto;
-                        grid-gap: 6px;
-                        justify-items: center;
-                        align-items: center;
-                        justify-content: space-around;
-                    }
-
-                    .box-botones .btn-zpp {
-                        background-color: rgba(25, 28, 58, 1);
-                        color: rgba(255, 255, 255, 1);
-                    }
-
-                    .box-botones .btn-zpp:hover {
-                        background-color: rgba(15, 18, 28, 1);
-                        color: rgba(255, 255, 255, 1);
-                    }
-
-                    .box-botones .btn-zpp:focus,
-                    .box-botones .btn-zpp:active {
-                        background-color: rgba(102, 224, 38, 1);
-                        color: rgba(25, 28, 58, 1);
-                    }
-                </style>
-
-                <!--#Fin de boton de descarga APK-->
-
+            <div class="boton-app zoom boton-ios">
+                <a href="https://t.co/CHZpHq2kho" class="btn btn-zpp" target="_blank" rel="noopener noreferrer"><img class='img-responsive w-100' src='http://zonadeparqueopago.gov.co/Recursos/botonesPaginaZPP-04.png' alt='Descargar App iOS' title='Descargar App iOS'></a>
             </div>
         </div>
+        <style>
+            .box-botones {
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                grid-gap: 6px;
+                justify-items: center;
+                align-items: center;
+                justify-content: space-around;
+            }
+
+
+            .box-botones .boton-app {
+                margin: 30px;
+                max-width: 200px;
+            }
+
+            .box-botones .btn-zpp {
+                background-color: rgba(25, 28, 58, 1);
+                color: rgba(255, 255, 255, 1);
+            }
+
+            .box-botones .btn-zpp:hover {
+                background-color: rgba(15, 18, 28, 1);
+                color: rgba(255, 255, 255, 1);
+            }
+
+            .box-botones .btn-zpp:focus,
+            .box-botones .btn-zpp:active {
+                background-color: rgba(102, 224, 38, 1);
+                color: rgba(25, 28, 58, 1);
+            }
+        </style>
         <hr>
-        <div class="row acordeon">
-            <div class="titulo">
-                <h3>Normatividad Vigente Zonas de Parqueo Pago</h3>
-            </div>
-            <div class="col-xs-12 col-xs-offset-0 col-sm-10 col-sm-offset-1 zpp-acordeon">
-                <!-- collapse_normatividad -->
-                <div class='panel-group ' id='accordion_normatividad' role='tablist ' aria-multiselectable='true'>
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='heading_normatividad'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion_normatividad' href='#collapse_normatividad' aria-expanded='true' aria-controls='collapse_normatividad'>
-                                    Ver Más
-                                </a>
-                            </h4>
-                        </div>
-                        <div id='collapse_normatividad' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_normatividad'>
-                            <div class='panel-body'>
-                                <ul>
-                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20171228_-_acuerdo_695_de_2017_autoriza_cobro_tasa_por_derecho_de_estacionamiento.pdf" target="_blank" rel="noopener noreferrer">20171228 - Acuerdo 695 DE 2017 autoriza cobro tasa por derecho de estacionamiento</a></li>
-                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20180615_-_decreto_distrital_325_de_2018_elimina_poliza_rce.pdf" target="_blank" rel="noopener noreferrer">20180615 - Decreto Distrital 325 de 2018 (elimina póliza RCE)</a></li>
-                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20190828_-_decreto_519_de_2019.pdf" target="_blank" rel="noopener noreferrer">20190828 - Decreto 519 de 2019</a></li>
-                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2021/20211012_-_decreto_379_de_2021_-_modificatorio_decreto_519_de_2019_eev.pdf" target="_blank" rel="noopener noreferrer">20211012 - Decreto 379 de 2021 - Modificatorio Decreto 519 de 2019 EEV</a></li>
-                                    <li><a href="http://zonadeparqueopago.gov.co/Recursos/Documentos/20220405-Zonas_de_Parqueo_Pago-ZPP-Contrato_Usuario-Operador_v4.pdf" target="_blank" rel="noopener noreferrer">20220404 - Contrato Usuario Operador</a></li>
-                                    <li><a href="http://zonadeparqueopago.gov.co/Recursos/Documentos/20211029-Resolución_SDM_108551_tarifas_EEV.pdf" target="_blank" rel="noopener noreferrer">20211029 - Resolución SDM 108551 tarifas EEV</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- /#fin _normatividad -->
-            </div>
-        </div>
-        <hr>
+        <!--#Fin de boton de descarga APK-->
+
+
         <div class='row'>
             <div class='col-xs-12 text-center'>
                 <div class="msg-2">
@@ -1104,7 +996,7 @@
     } */
 
     #como .imagen {
-        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-10-2021/2021-10-26_piezas-web-zonas-de-parqueo-montaje_4.png');
+        background-image: url('http://zonadeparqueopago.gov.co/Recursos/Imagen01.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: top center;
@@ -1113,12 +1005,14 @@
     }
 
     #pago .imagen {
-        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2021/cuadrada_3_zonas_parqueo.png');
+        background-image: url('http://zonadeparqueopago.gov.co/Recursos/Imagen02.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: top center;
         border-top: solid 5px #191C3A;
         border-bottom: solid 10px #191C3A;
+        /* height: 400px; */
+
     }
 
     .texto {
@@ -1467,6 +1361,15 @@
             max-height: 363px;
             width: 100%;
             margin: auto;
+        }
+
+        .box-cards {
+            grid-template-columns: 1fr 1fr 1fr;
+
+        }
+
+        .box-botones {
+            grid-template-columns: repeat(2, 1fr);
         }
     }
 
