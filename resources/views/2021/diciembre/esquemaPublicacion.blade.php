@@ -22,7 +22,7 @@
         <div class='row'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
                 <div class="text-center">
-                    <p class="rtejustify"><a class="btn btn-primary" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2021/matriz_final.xlsx" target="_blank">Descargar Esquema de publicación Secretaria Distrital de Movilidad (.xlsx)</a></p>
+                    <p class="rtejustify"><a class="btn btn-primary" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-08-2022/matriz_de_cumplimiento_de_la_politica_de_transparencia_y_acceso_a_la_informacion_publica_-_junio_2022.xlsx" target="_blank">Descargar Esquema de publicación Secretaría Distrital de Movilidad - junio 2022 (.xlsx)</a></p>
                 </div>
             </div>
         </div>
@@ -31,8 +31,12 @@
         <div class='row'>
             <h3 class="text-center">Registro de Publicaciónes de los sitios web de la Secretaría Distrital de Movilidad</h3>
             <hr>
+        </div>
+        <div class='row'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
-                <iframe width="100%" height="350px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQ1kx9cf0l0fPeL3eCaOhOAwe34s0o7VUZ_v0KybxSGISFi6iJyNAUoA46DruAuX6_G0hVvpz0A0iu/pubhtml?gid=1982336003&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+                <div class="text-center">
+                    <p class="rtejustify"><a class="btn btn-primary" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-08-2022/remision_de_informacion_para_pub.xls" target="_blank">Registro de publicaciones - julio 2022 (.xls)</a></p>
+                </div>
             </div>
         </div>
     </div>
