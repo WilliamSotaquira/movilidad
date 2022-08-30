@@ -666,11 +666,10 @@
 
         <div class="col-xs-12 col-sm-4">
             <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/manual_de_servicio_a_la_ciudadania" target="_blank" rel="noopener noreferrer">
-                    <!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> -->
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-08-2022/pm04-rg01_reglamento_interno_para_la_gestion_de_pqrsd_v.1.0_de_08-08-2022.pdf" target="_blank" rel="noopener noreferrer">
                     <div class="caption">
                         <div>
-                            <h3>Manual de Gestión de PQRSD</h3>
+                            <h3>Reglamento Interno de Gestión PQRSD</h3>
                             <p>Con el propósito de orientar de forma clara y concreta sobre el manejo de las peticiones.</p>
                         </div>
                     </div>
@@ -684,7 +683,7 @@
                     <!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> -->
                     <div class="caption">
                         <div>
-                            <h3>Carta de Compromiso Ciudadano</h3>
+                            <h3>Carta de Compromiso a la Ciudadanía</h3>
                             <p>Establece el trato entre ciudadanos y la entidad. Exalta las practicas de un buen Gobierno.</p>
                         </div>
                     </div>
@@ -694,12 +693,24 @@
 
         <div class="col-xs-12 col-sm-4">
             <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/07-09-2020/pm04-mn02-pt01_protocolo_de_denuncias_por_corrupcion_version_1.0.pdf" target="_blank" rel="noopener noreferrer">
-                    <!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> -->
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-08-2022/pa02-m03-pt02-protocolo-de-denuncias-por-corrupcion-v-1.0-28-10-2021.pdf" target="_blank" rel="noopener noreferrer">
                     <div class="caption">
                         <div>
                             <h3>Protocolo de Denuncias por Actos de Corrupción</h3>
                             <p>Directrices y el procedimiento a seguir en la recepción y atención de las denuncias de presuntos hechos de corrupción</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+            <div class="thumbnail bs">
+                <a href="https://www.movilidadbogota.gov.co/web/informacion_pqrs" target="_blank" rel="noopener noreferrer">
+                    <div class="caption">
+                        <div>
+                            <h3>Informes de PQRSD</h3>
+                            <p>Informes de todas las solicitudes, quejas y reclamos y los tiempos de respuesta del sujeto obligado.</p>
                         </div>
                     </div>
                 </a>
