@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/organigrama_2022_julio.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-08-2022/organigrama_2022_agosto.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -598,7 +598,7 @@
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Deyanira Consuelo Avila Moreno</h1>
-                                                            <h4>Directora de Planeación para la Movilidad (e)</h4>
+                                                            <h4>Directora de Planeación para la Movilidad</h4>
                                                             <div class="descripcion-xs">
                                                                 <p>Es ingeniera catastral y geodesta de la Universidad Distrital Francisco José de Caldas, Especialista en Gestión Ambiental Urbana de la Universidad Piloto de Colombia, auditora en Seguridad Vial del WRI, auditora interna en Sistemas de Gestión de la Calidad ISO 9001:2015.</p>
                                                                 <p>Con más de 20 años de experiencia en el sector público, ha desempeñado cargos como Subdirectora de la Bicicleta y el Peatón en la SDM, Gerente de la Bicicleta de Bogotá y Subgerente de Gestión del Suelo de la Empresa Metro de Bogotá. Adicionalmente, ha prestado los servicios profesionales en entidades como el IDU, Catastro Distrital, la SDM y ha impartido cátedra en Urbanismo Táctico en la Universidad Externado de Colombia en la Maestría de Ciudades Inteligentes.</p>
@@ -1366,7 +1366,7 @@
                                     </div> -->
                                     <div class="descripcion">
                                         <h1>Adriana Ruth Iza Certuche</h1>
-                                        <h4>Subsecretaría de Servicios a la Ciudadanía</h4>
+                                        <h4>Subsecretaria de Servicios a la Ciudadanía</h4>
                                         <div class="descripcion-xs">
                                             <p>Administradora de empresas, con máster en Estudios Políticos de la Universidad Javeriana, tiene Especialización en Evaluación Social de Proyectos en la Universidad de los Andes. En el campo profesional fue directora de Estudios Sectoriales de la Secretaría de Movilidad por seis años, su paso como jefe de Gestión Social destaco su liderazgo asumiendo retos en proyectos de eliminación de brechas de género en el sector movilidad, además fue Coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue Gerente de Clúster de confecciones alrededor de cuatro años.</p>
                                         </div>
@@ -1528,16 +1528,18 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2020/carol-pinzon.jpg" alt="">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2022/miguelantoniocapadorsanchez.png" alt="foto Miguel Antonio Capador Sánchez">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Carol Angie Pinzón Ruiz</h1>
-                                                                                <h4>Subdirectora de Contravenciones (e)</h4>
+                                                                                <h1>Miguel Antonio Capador Sánchez</h1>
+                                                                                <h4>Subdirector de Contravenciones</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Abogada, egresada de la Universidad Católica de Colombia, especialista en Derecho Comercial y en Derecho de la Empresa de la Universidad del Rosario, Conciliadora en Derecho de la Universidad Gran Colombia.</p>
-                                                                                    <p>Con experiencia profesional de 19 años, se desempeñó en el sector privado, 9 años como asesora en asuntos de seguros, tránsito y transporte y en el sector público, se ha desempeñado por más de 10 años en la Secretaría Distrital de Movilidad, como profesional en la Subdirección de Contravenciones y como Subdirectora en la Subdirección de Jurisdicción Coactiva hoy Dirección de Gestión de Cobro.</p>
+                                                                                    <p>Abogado con especialización en Derecho Procesal y estudios de Maestría en Derecho Penal y Criminología de la Universidad Libre de Colombia.</p>
+                                                                                    <p>Amplia experiencia y conocimiento en manejo de grupos de trabajo, capacidad para desarrollar líneas de investigación y mejoramiento en la calidad personal y académica. Se ha desempeñado como docente en la cátedra profesional con destrezas en procesos de participación ciudadana y democrática.</p>
+                                                                                    <p>Laboró en organizaciones como la Defensoría del Pueblo, el Congreso de la República de Colombia, la Procuraduría General de la Nación y ha trabajado como profesor en universidades como: Universidad Cooperativa de Colombia, Corporación Unificada Nacional de Educación Superior (CUN) y la Universidad Libre de Colombia.</p>
+                                                                                    <p>Ejerce su profesión como litigante y se describe como penalista por convicción. Se siente feliz y agradecido con Dios por hacer parte del equipo de la Secretaría de Movilidad, y manifiesta su compromiso con la mejora continua para brindarle un excelente servicio a los ciudadanos desde esta subdirección.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1572,7 +1574,7 @@
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
 
-                                                                    <!-- <div class="row">
+                                                                    <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2020/carol-pinzon.jpg" alt="">
@@ -1588,7 +1590,8 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div> -->
+                                                                    </div>
+
 
                                                                 </div>
 
@@ -1938,7 +1941,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://via.placeholder.com/400x400?text=Foto+Perfil" alt="Paola Adriana Corona Miranda" title="Paola Adriana Corona Miranda">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/paola_adriana_corona_miranda.png" alt="Paola Adriana Corona Miranda" title="Paola Adriana Corona Miranda">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -1946,7 +1949,10 @@
                                                             <h1>Paola Adriana Corona Miranda</h1>
                                                             <h4>Directora Administrativa y Financiera</h4>
                                                             <div class="descripcion-xs">
-                                                                <p></p>
+                                                                <p>Es administradora de empresas y con especialización en Finanzas y Administración Pública de la Universidad Militar Nueva Granada. Es líder de la política de derechos humanos y empresa del sector de comercio, industria y turismo. Líder en temas de responsabilidad social, derechos humanos y manager en la gestión de la conciliación de EFR (Empresa Familiarmente Responsable), de la fundación MAS Familia de España.</p>
+                                                                <p>También está certificada como Auditoria de Calidad Seguridad y Salud en el Trabajo y el Medio Ambiente y tiene cursos en gestión de proyectos.</p>
+                                                                <p>Por espacio de 10 años estuvo al servicio de la Superintendencia de Industria y Comercio, donde se desempeñó en la Secretaría General, apoyando todos los procesos de talento humano, gestión documental, financiera y recursos físicos, entre otros.</p>
+                                                                
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2099,7 +2105,10 @@
                                                             <H1>Vianney del Socorro Celedón Aponte</H1>
                                                             <h4>Directora de Talento Humano</h4>
                                                             <div class="descripcion-xs">
-                                                                <p></p>
+                                                                <p>Abogada con especialización en Derecho Administrativo, Derecho Penal y Ciencias Forenses; con estudios de Maestría en Derecho Penal.</p>
+                                                                <p>Gracias a sus 20 años de experiencia y formación conoce la normativa y elementos básicos de la legislación laboral; el diseño, elaboración, ejecución y celebración de programas, proyectos y contratos en la administración pública.</p>
+                                                                <p>Trabajó en la Contraloría de Bogotá donde desempeñó cargos como: Subdirectora Bienestar Social, Subdirectora de Jurisdicción Coactiva de la Dirección de Responsabilidad Fiscal y Jurisdicción Coactiva, y Subdirectora de Infraestructura de la Dirección de Movilidad. Además, estuvo vinculada a entidades como:  Personería de Bogotá, Fiscalía General de la Nación, Procuraduría General de la Nación y Tribunal Superior de Bogotá.</p>
+                                                                <p>Asume este cargo con el objetivo de aportar desde su conocimiento al bienestar del talento humano de la Secretaría, pues está convencida de que el sentido de pertenencia de los colaboradores de la entidad es clave para lograr todos los objetivos propuestos.</p>
                                                             </div>
                                                         </div>
                                                     </div>
