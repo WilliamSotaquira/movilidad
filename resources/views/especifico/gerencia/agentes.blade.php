@@ -395,7 +395,51 @@
         .pilares .tab-content {
             /* border: solid 1px #929292; */
         }
+        .banner{
+            margin-top: 30px;
+            margin-bottom: 30px;
+            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.05);
+            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.05);
+        }
+        .zoom {
+            transition: 0.5s ease;
+            -moz-transition: 0.5s ease;
+            /* Firefox */
+            -webkit-transition: 0.5s ease;
+            /* Chrome - Safari */
+            -o-transition: 0.5s ease;
+            /* Opera */
+            -ms-transition: 0.5s ease;
+        }
+        
+        .zoom:hover {
+            transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            /* Firefox */
+            -webkit-transform: scale(1.05);
+            /* Chrome - Safari */
+            -o-transform: scale(1.05);
+            /* Opera */
+            -ms-transform: scale(1.05);
+            
+        }/* IE9 */
     </style>
+    <div class="banner">
+        <div class='row'>
+        <!-- xs -->
+            <div class='col-xs-12 visible-xs-12 visible-xs-block'>
+                <a href="https://www.movilidadbogota.gov.co/web/se_agente_de_transito" target="_blank" rel="noopener noreferrer">
+                <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/gerencia_en_via_requisitos_agentes_civilies_banner_320x100_.jpg' alt='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá' title='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá'>
+                </a>
+            </div>
+        <!-- lg -->
+            <div class='col-sm-12 hidden-xs'>
+                <a href="https://www.movilidadbogota.gov.co/web/se_agente_de_transito" target="_blank" rel="noopener noreferrer">
+                <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/gerencia_en_via_requisitos_agentes_civilies_banner_980x120.jpg' alt='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá' title='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá'>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="s2">
         <div class="tabs">
 
