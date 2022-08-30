@@ -111,10 +111,10 @@
             <p>Esta política es aplicable y de obligatorio cumplimiento para los siguientes usuarios y partes interesadas: ciudadanos, usuarios, consultores, contratistas de bienes y servicios, contratistas de obra, interventores, contratistas de prestación de servicios, empresas de servicios públicos, Entidades públicas del nivel nacional y distrital, Entidades sin ánimo de lucro, servidores públicos, contratistas de prestación de servicios y/o de apoyo a la gestión y sistema financiero.</p>
             <h3>OBJETIVOS:</h3>
             <ul>
-                <li>Implementar las buenas prácticas antisoborno contenidas en la norma ISO 37001:2016.</li>
+                <li>Mantener las buenas prácticas antisoborno contenidas en la norma ISO 37001 y las demás adoptadas por la Entidad.</li>
                 <li>Promover una cultura de integridad y ética pública en los colaboradores de la SDM, para el cumplimiento del marco de gestión antisoborno definido por la Entidad, y su concientización en la política antisoborno y en los demás elementos que integran el Sistema.</li>
-                <li>Fortalecer el reporte de las denuncias presentadas por presuntos actos de soborno, asegurando la protección de la identidad del denunciante en buena fe y bajo una sospecha razonable, y evitar represalias a este.</li>
-                <li>Trasladar oportuna y eficazmente a las Entidades pertinentes para que surtan las investigaciones de tipo administrativo, disciplinario, fiscal y penal a que haya lugar, ante la presunta comisión de conductas relacionadas con soborno de servidores públicos y contratistas de prestación de servicios profesionales y/o de apoyo a la Gestión de la Secretaría Distrital de Movilidad.</li>
+                <li>Gestionar las denuncias presentadas por presuntos actos de soborno, asegurando la protección de la identidad del denunciante en buena fe y bajo una sospecha razonable, y evitar represalias a éste.</li>
+                <li>Trasladar oportuna y eficazmente a las Entidades pertinentes para que surtan las investigaciones de tipo administrativo, disciplinario, fiscal y penal a que haya lugar, ante la presunta comisión de conductas relacionadas con soborno de servidores públicos y contratistas de prestación de servicios profesionales y/o de apoyo a la gestión de la Secretaría Distrital de Movilidad.</li>
             </ul>
         </div>
     </div>
