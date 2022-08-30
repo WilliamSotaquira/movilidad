@@ -5,21 +5,6 @@
 
   <div class='container-fluid box-banners-length'>
 
-      <!-- Sección Bloque de Mantenimiento  -->
-      
-      <!-- <hr>
-      <div class="row">
-          <div class="col-xs-12 visible-xs-12 visible-xs-block">
-              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-07-2022/2022-07-19_aviso-mantenimiento-correctivo_fb.png" title="Aviso Mantenimiento Sistema Contravencional">
-          </div>
-          <div class="col-sm-12 hidden-xs">
-              <img alt="Aviso Mantenimiento Sistema Contravencional" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-07-2022/2022-07-19_aviso-mantenimiento-correctivo_banner-1920-x-640.png" title="Aviso Mantenimiento Sistema Contravencional">
-          </div>
-      </div> -->
-
-      <!-- Fin Sección Bloque de Mantenimiento  -->
-
-
       <!-- Seccion Botones Pico y Placa  -->
       <div class='row botones-pyp'>
           <div class='col-xs-12 col-sm-3 col-md-3'>
@@ -131,10 +116,10 @@
                   <div class="tabs">
                       <div class="col-xs-6 col-sm-4 col-md-2">
                           <div class="tab zoom">
-                              <div class="img-tab"><a href="https://agendamiento.movilidadbogota.gov.co/AConect/"><img alt="Dar clic aquí para acceder a Agendamiento Virtual" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/agendamiento_20211117.webp" title="Dar clic aquí para acceder a Agendamiento Virtual"> </a></div>
+                              <div class="img-tab"><a href="https://agendamiento.movilidadbogota.gov.co/AConect/"><img alt="Dar clic aquí para acceder a Agendamiento de citas" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/agendamiento_20211117.webp" title="Dar clic aquí para acceder a Agendamiento de citas"> </a></div>
 
                               <div class="txt-tab">
-                                  <h4><a href="https://agendamiento.movilidadbogota.gov.co/AConect/">Agendamiento virtual</a></h4>
+                                  <h4><a href="https://agendamiento.movilidadbogota.gov.co/AConect/">Agendamiento de Citas</a></h4>
                               </div>
                           </div>
                       </div>

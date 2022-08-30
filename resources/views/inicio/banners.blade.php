@@ -23,34 +23,11 @@
     </div>
 
     <hr>
-    <!-- <div class="row">
-        <div class="col-sm-6">
-            <a href="https://www.movilidadbogota.gov.co/web/ventanilla_unica_de_servicios" target="_blank" rel="noopener noreferrer">
-                <img class="img-responsive bs zoom w-100 img-rounded focusable" src="" title="" alt="Click aquí para acceder al sitio ">
-            </a>
-        </div>
-        <div class="col-sm-6">
-            <a href="https://salidadepatios.movilidadbogota.gov.co/" target="_blank" rel="noopener noreferrer">
-                <img alt="Realiza de forma virtual el trámite para la salida de patios" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-salidapatios_1_0.png">
-            </a>
-        </div>
-    </div> -->
+
     <div class="row">
         <div class="col-sm-6">
-            <a href="https://www.movilidadbogota.gov.co/web/consulta_de_comparendos" target="_blank" rel="noopener noreferrer">
-                <img alt="Clic aquí para Consulta y pagos de comparendos" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/comparendos_20220220307_xs.jpg">
-            </a>
-        </div>
-        <div class="col-sm-6">
-            <a href="http://zonadeparqueopago.gov.co/" target="_blank" rel="noopener noreferrer">
-                <img class="img-responsive bs zoom w-100 img-rounded focusable" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-11-2021/banner_zonas_parqueo_900x300.png" title="Zona de Parqueo Pago" alt="Click aquí para acceder al sitio Zona de Parqueo Pago">
-            </a>
-        </div>
-    </div>
-    <!-- <div class="row">
-        <div class="col-sm-6">
-            <a href="https://www.movilidadbogota.gov.co/web/beneficio_de_circulacion" target="_blank" rel="noopener noreferrer">
-                <img alt="Beneficio Distrital de Circulacion por condiciones Ambientales para la Carga Liviana en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/carga_liviana_xs.webp" title="Beneficio Distrital de Circulacion por condiciones Ambientales para la Carga Liviana en Bogotá">
+            <a href="https://www.movilidadbogota.gov.co/web/ventanilla_unica_de_servicios" target="_blank" rel="noopener noreferrer" title="Click aquí para acceder a la Ventanilla Unica de Servicios">
+                <img alt="Clic aquí para Consulta y pagos de comparendos" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-07-2022/2022-02-21_banner-vus.png">
             </a>
         </div>
         <div class="col-sm-6">
@@ -58,15 +35,45 @@
                 <img class="img-responsive bs zoom w-100 img-rounded focusable" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/comparendos_20220220307_xs.jpg" title="Consulta de Comparendos" alt="Click aquí para acceder al sitio de consulta de comparendos">
             </a>
         </div>
-    </div> -->
+    </div>
+    <div class="row">
+        <div class="col-sm-6">
+            <a href="https://vus.circulemosdigital.com.co/#/login" target="_blank" rel="noopener noreferrer">
+                <img alt="Realiza de forma virtual el trámite para la salida de patios" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-salidapatios_1_0.png">
+            </a>
+        </div>
+        <div class="col-sm-6">
+            <a href="https://www.movilidadbogota.gov.co/web/beneficio_de_circulacion" target="_blank" rel="noopener noreferrer">
+                <img alt="Beneficio Distrital de Circulacion por condiciones Ambientales para la Carga Liviana en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/carga_liviana_xs.webp" title="Beneficio Distrital de Circulacion por condiciones Ambientales para la Carga Liviana en Bogotá">
+            </a>
+        </div>
+
+    </div>
 
     <div class="row">
         <div class="col-sm-6">
-            <a href="https://www.movilidadbogota.gov.co/web/abecedesembargos" target="_blank" rel="noopener noreferrer"><img alt="Abecé desembargos" class="img-responsive bs zoom w-100 img-rounded  center-block" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/boton_desembargo_900x300.webp" title="Abecé desembargos"></a>
+            <a href="https://www.movilidadbogota.gov.co/web/abecedesembargos" target="_blank" rel="noopener noreferrer">
+                <img alt="Abecé desembargos" class="img-responsive bs zoom w-100 img-rounded  center-block" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/boton_desembargo_900x300.webp" title="Abecé desembargos">
+            </a>
         </div>
         <div class="col-sm-6">
-            <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/este_sabado_23_de_julio_entra_en_operacion_el_par_vial_suba_tibabuyes">
-                <img alt="Par Vial Suba Tibabuyes" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-07-2022/banner-par-vial-tibabuyes_450-x-150-px.png" title="Par Vial Suba Tibabuyes">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/convocatoria_eco_conductoras">
+                <img alt="Abecé segunda convocatoria Eco Conductoras" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2022/2022-08-19_convocatoria-eco-conductoras_banner-_900x-300_2.png" title="Abecé segunda convocatoria Eco Conductoras">
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota">
+                <img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2022/2022-06-16_banner-mapa-ciclorrutas_1.png" title="Mapa de Ciclorrutas de Bogotá">
+            </a>
+        </div>
+
+
+        <div class="col-sm-6">
+            <a href="http://zonadeparqueopago.gov.co/" target="_blank" rel="noopener noreferrer">
+                <img class="img-responsive bs zoom w-100 img-rounded focusable" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-11-2021/banner_zonas_parqueo_900x300.png" title="Zona de Parqueo Pago" alt="Click aquí para acceder al sitio Zona de Parqueo Pago">
             </a>
         </div>
     </div>
@@ -91,11 +98,14 @@
                     <li data-slide-to="8" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="9" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="10" data-target="#carousel_banner_lg">&nbsp;</li>
+                    <li data-slide-to="12" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="11" data-target="#carousel_banner_lg">&nbsp;</li>
-                    <!-- <li data-slide-to="11" data-target="#carousel_banner_lg">&nbsp;</li> -->
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_sm.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
+                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento_excelencia_logistica_2022"><img alt="Reconocimiento Excelencia Logística 2022" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/excelencia2022_1920_x_320.png" title="Reconocimiento Excelencia Logística 2022"></a></div>
+                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mes_del_taxista"><img alt="Clic aqui para ingresar a Agosto: Mes del taxista en Bogotá" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/p4_mes_taxistas_p4.png" title="Clic aqui para ingresar a Agosto: Mes del taxista en Bogotá"></a></div>
+                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_lg.png" title="Ingresa aquí encuesta Transporte Público"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_a.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Ingresa aquí para ir a Notificaciones Procesos Disciplinarios" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_sm.png" title="Ingresa aquí para ir a Notificaciones Procesos Disciplinarios"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_lg.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
@@ -106,8 +116,7 @@
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019"><img alt="Encuentra aquí los datos más relevantes para la movilidad en Bogotá" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-movilidaddatos_1.png" title="Encuentra aquí los datos más relevantes para la movilidad en Bogotá:"> </a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/plan-desarrollo-economico-social-ambiental-2020-2024"><img alt="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-nuevocontratosocialambienta_1.png" title="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024"> </a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cicloparqueaderos"><img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2021/np-cicloparqueaderos_1.png" title="Mas y mejores cicloparqueaderos"></a></div>
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota"><img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/2022-07-19_banner-mapa-ciclorrutas_1920-x-320.png" title="Mapa de Ciclorrutas de Bogotá"></a></div>
-                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento-excelencia-logistica-2021"><img alt="Reconocimiento Excelencia Logística 2021" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-excelenciallogistica_1.png" title="Reconocimiento Excelencia Logística 2021"></a></div> -->
+                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota"><img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/2022-07-19_banner-mapa-ciclorrutas_1920-x-320.png" title="Mapa de Ciclorrutas de Bogotá"></a></div> -->
                 </div>
             </div>
         </div>
@@ -129,9 +138,12 @@
                     <li data-slide-to="9" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="10" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="11" data-target="#carousel-sdm-xs">&nbsp;</li>
+                    <!-- <li data-slide-to="11" data-target="#carousel-sdm-xs">&nbsp;</li> -->
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
+                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento_excelencia_logistica_2022"><img alt="Reconocimiento Excelencia Logística 2022" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/excelencia2022_900_x_300.png" title="Reconocimiento Excelencia Logística 2022"></a></div>
+                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_xs.png" title="Ingresa aquí encuesta Transporte Público"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_b.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Ingresa aquí para ir a " class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_xs.png" title="" Ingresa aquí para ir a Notificaciones Procesos Disciplinario"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_xs.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
@@ -142,8 +154,7 @@
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019"><img alt="Encuentra aquí los datos más relevantes para la movilidad en Bogotá" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-movilidaddatos_2.png" title="Encuentra aquí los datos más relevantes para la movilidad en Bogotá:"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/plan-desarrollo-economico-social-ambiental-2020-2024"><img alt="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-nuevocontratosocialambienta_2.png" title="Plan de Desarrollo Económico, Social, Ambiental y de Obras Públicas del Distrito Capital  2020 - 2024"> </a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cicloparqueaderos"><img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2021/np-cicloparqueaderos_2.png" title="Mas y mejores cicloparqueaderos"></a></div>
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota"><img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2022/2022-06-16_banner-mapa-ciclorrutas_1.png" title="Mapa de Ciclorrutas de Bogotá"></a></div>
-                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento-excelencia-logistica-2021"><img alt="Política publica de la bicicleta" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2021/np-excelenciallogistica_2.png" title="Reconocimiento Excelencia Logística 2021"></a></div> -->
+                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota"><img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2022/2022-06-16_banner-mapa-ciclorrutas_1.png" title="Mapa de Ciclorrutas de Bogotá"></a></div> -->
                 </div>
             </div>
         </div>
@@ -217,3 +228,19 @@
     }
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<style>
+    .img-noticia-hist img {
+        max-width: 100%;
+        margin: auto;
+        padding: 15px;
+    }
+
+    .table-borderless img {
+        display: flex;
+        max-width: 100%;
+        width: 350px;
+        margin: auto;
+        padding: 8px;
+        height: 250px;
+    }
+</style>
