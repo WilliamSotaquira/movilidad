@@ -183,7 +183,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>1.902</h3>
+                                <h3>3.947</h3>
                                 <p>Carros Registrados</p>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>9.908</h3>
+                                <h3>12.936</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
@@ -323,13 +323,13 @@
             }
 
             .box-video {
-                padding:0px 0px 10px 0px;
+                padding: 0px 0px 10px 0px;
             }
         </style>
     </div>
     <div class="row box-video">
         <div class='embed-responsive embed-responsive-16by9'>
-        <iframe width="100%" height="" src="https://www.youtube.com/embed/y6p8cYbbZWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="100%" height="" src="https://www.youtube.com/embed/y6p8cYbbZWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
     <div class="box-bottabs">
@@ -596,7 +596,7 @@
                                 <div class="parrafo-tab">
                                     <p>La movilidad motorizada en Bogotá, se basa en vehículos de combustión que utilizan combustibles fósiles (gasolina, diésel, GNV, etc), y es la principal responsable de esta problemática, generando:</p>
                                     <ul>
-                                        <li><strong>40% de las emisiones básicas de material particulado (principal contaminante del aire en Bogotá).</strong></li>
+                                        <li><strong>43% de las emisiones básicas de material particulado (principal contaminante del aire en Bogotá).</strong></li>
                                         <li><strong>48% de los gases de efecto invernadero generado en la ciudad.</strong> </li>
                                     </ul>
                                     <p>Estos viajes también aportan a la congestión, la siniestralidad vial y los altos niveles de ruido, afectando la calidad de vida en la ciudad.</p>
@@ -654,7 +654,7 @@
                                 <div class="parrafo">
                                     <p>Una de las soluciones es la transición desde el uso de vehículos que utilizan combustibles fósiles, hacia vehículos cero emisiones.</p>
                                     <p>Por esto, <strong>Bogotá está formulando la Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023-2040</strong> será la hoja de ruta para consolidar esta movilidad como una alternativa eficiente, accesible y competitiva en la ciudad y sus municipios aledaños.</p>
-                                    <p>Apuntándole a las siguientes metas:</p>
+                                    <p>Definiendo metas ambiciosas para cada modo de transporte:</p>
                                 </div>
                             </div>
                         </div>
@@ -678,7 +678,7 @@
                                         <div class="carousel-caption">
                                             <h3>Transporte público</h3>
                                             <ul>
-                                                <li>SITP: Desde 2022 sólo se contratarán buses cero emisiones <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% cero emisiones directas de PM a 2036</li>
+                                                <li>SITP: Desde 2022 sólo se contratarán buses cero emisiones <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% cero emisiones directas de material particulado a 2036</li>
                                                 <li>Taxis: incentivos para la renovación desde 2025 <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% eléctricos a 2036.</li>
                                             </ul>
                                             <!-- <p>...</p> -->
@@ -700,7 +700,7 @@
                                             <h3>Transporte oficial y escolar</h3>
                                             <ul>
                                                 <li>Flota oficial: Renovación progresiva desde 2022 <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% de la flota para transporte de pasajeros eléctrica a 2030.</li>
-                                                <li>Flota escolar: Lineamientos y puntajes adicionales en licitaciones para flota eléctrica en las licitaciones desde 2025 <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% eléctrica a 2040.</li>
+                                                <li>Flota escolar de colegios públicos: 100% eléctrica a 2040.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -913,6 +913,18 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-5">
+                                <div class="txt-tarjeta">
+                                    <h4 class="media-heading">Diésel Euro VI</h4>
+                                    <p>Euro VI corresponde al estándar más reciente y limpio de la norma europea que regula los límites aceptables para las emisiones de gases y material particulado de de los vehículos de combustión, este estándar se adoptó en Colombia por medio de la Ley 1972 de 2019. Se estima que un bus diésel Euro VI reduciría las emisiones de material particulado en al menos 95% si se compara con un bus Euro V (<a href="https://www.transmilenio.gov.co/publicaciones/151941/abce-de-los-nuevos-buses-euro-vi/" target="_blank" rel="noopener noreferrer">Transmilenio S.A</a>, 2020).</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-7 hidden-xs">
+                                <div class="img-card img-card-6">
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -954,6 +966,10 @@
                         background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/transmilenio-a-gas.webp');
                     }
 
+                    .menu3 .img-card-6 {
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-08-2022/volkswagen-transmilenio-2.jpg');
+                    }
+
                     .menu3 .img-card {
                         background-color: #151515;
                         height: 300px;
@@ -991,6 +1007,11 @@
                 </style>
 
                 <div class='row'>
+                <div class="box-parrafos">
+                    <div class="parrafo-tab">
+                        <h3>Comparación de Tecnologías de Cero y Bajas Emisiones para un vehículo liviano</h3>
+                    </div>
+                </div>
                     <div class='col-xs-12'>
 
                         <div class="table-responsive">
@@ -1043,13 +1064,13 @@
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/estacion_a.png' alt='icono gasolinera' title='icono gasolinera'>
-                                                <span class="text-table2">Combustible Fósil, Biocombustible</span>
+                                                <span class="text-table2">Gasolina, Biocombustible</span>
                                             </div>
                                         </td>
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/estacion_b.png' alt='icono gasolinera' title='icono gasolinera'>
-                                                <span class="text-table2">Combustible Fósil, Biocombustible</span>
+                                                <span class="text-table2">Gasolina, Biocombustible</span>
                                             </div>
                                         </td>
                                         <td>
@@ -1059,7 +1080,7 @@
                                                     <span class="text-table">+</span>
                                                     <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/electrica_c.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
                                                 </div>
-                                                <span class="text-table2">Combustible Fósil, Biocombustible, Energía Eléctrica</span>
+                                                <span class="text-table2">Gasolina, Biocombustible, Energía Eléctrica</span>
                                             </div>
                                         </td>
                                         <td>
@@ -1354,6 +1375,11 @@
                         <h3>¿Cómo lograr la transición?</h3>
                     </div>
 
+                    <div class='video'>
+                        <div class='embed-responsive embed-responsive-4by3'>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/5tL9bhfVUa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
 
                     <!-- collapse_transicion -->
                     <div class='panel-group' id='accordion_transicion' role='tablist ' aria-multiselectable='true'>
@@ -1362,9 +1388,9 @@
                         <div class='panel panel-default'>
                             <div class='panel-heading' role='tab' id='heading_incentivos'>
                                 <h4 class='panel-title'>
+                                 
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_incentivos' aria-expanded='true' aria-controls='collapse_incentivos'>
-                                        Con incentivos en toda la cadena de valor y desincentivos a los más contaminantes.
-
+                                    Con incentivos económicos y no económicos ¡Conoce los beneficios! 
                                     </a>
                                 </h4>
                             </div>
@@ -1482,7 +1508,7 @@
                             <div class='panel-heading' role='tab' id='heading_red'>
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_red' aria-expanded='true' aria-controls='collapse_red'>
-                                        Consolidando una red inteligente de infraestructura de recarga
+                                    Con infraestructura de recarga ¡Conoce dónde recargar!
                                     </a>
                                 </h4>
                             </div>
@@ -1571,7 +1597,7 @@
                             <div class='panel-heading' role='tab' id='heading_capacidades'>
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_capacidades' aria-expanded='true' aria-controls='collapse_capacidades'>
-                                        Con un entorno de comunicación claro y desarrollo de nuevas capacidades técnicas
+                                    Con más información y nuevas capacidades ¡Conoce estos recursos!
                                     </a>
                                 </h4>
                             </div>
@@ -1648,7 +1674,7 @@
                             <div class='panel-heading' role='tab' id='heading_investigacion'>
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_investigacion' aria-expanded='true' aria-controls='collapse_investigacion'>
-                                        Generando un ecosistema de investigación e innovación entre la academia, el sector privado y la sociedad civil
+                                    Con alianzas y acciones de tod@s ¡Únete aquí!
                                     </a>
                                 </h4>
                             </div>
@@ -2115,6 +2141,15 @@
             </div>
         </div>
     </div>
+    <div class="contacto">
+        <h4>¿Quieres saber más? Contáctanos a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a></h4>
+    </div>
+    <style>
+        .contacto {
+            margin: 25px;
+            text-align: center;
+        }
+    </style>
 </div>
 <br>
 <!-- End Set Wrapper -->
