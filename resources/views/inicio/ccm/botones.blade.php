@@ -22,7 +22,7 @@
                                     <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/agendamiento_20211117.webp" alt="Dar clic aquí para acceder a Agendamiento Virtual" title="Dar clic aquí para acceder a Agendamiento Virtual">
                                 </div>
                                 <div class="txt-tab">
-                                    <h4>Agendamiento virtual</h4>
+                                    <h4>Agendamiento de Citas</h4>
                                 </div>
                             </div>
                         </a>

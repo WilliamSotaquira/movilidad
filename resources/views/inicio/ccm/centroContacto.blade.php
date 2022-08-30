@@ -27,7 +27,7 @@
                 <div class="descripcion-ccm">
                     <p>A través de nuestros canales de contacto <strong>podrás recibir asesoría e información de nuestros</strong> <span class="enfasis">trámites y servicios. </span></p>
                     <p>También <strong>podrás agendar tus citas para </strong><span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span>.</p>
-                    <p>Si no encuentra disponibilidad de citas a través del aplicativo de agendamiento virtual, comuníquese al <span class="enfasis">6013649400, opc. 2,</span> o en la línea <span class="enfasis">195</span></p>
+                    <p>Si no encuentras disponibilidad de citas, a través del aplicativo de agendamiento virtual, comunícate al <a href="tel:+6013649400"><span class="enfasis">601 364 9400</span></a>,<span class="enfasis"> opc. 2</span>, o en la línea <span class="enfasis">195</span>.</p>
                 </div>
             </div>
         </div>
