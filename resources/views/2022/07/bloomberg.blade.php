@@ -23,7 +23,7 @@
         <div class="box-video">
             <div class='video'>
                 <div class='embed-responsive embed-responsive-16by9'>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/z_SvGBzfQpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Bq7-rEv3Dpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
             }
         </style>
         <div class="box-parrafos">
-            <p>La campaña de seguridad vial ‘Tus acciones salvan vidas, no excedas los límites de velocidad’, busca generar conciencia sobre las graves consecuencias de conducir por encima de los límites de velocidad establecidos.</p>
+            <p>La campaña de seguridad vial ‘Tus acciones salvan vidas, no excedas los límites de velocidad’, desarrollada con el apoyo de la Iniciativa Bloomberg para la Seguridad Vial Mundial (BIGRS) y su aliado Vital Strategies,   busca generar conciencia sobre las graves consecuencias de conducir por encima de los límites de velocidad establecidos.</p>
             <p>La campaña ilustra cómo el exceso de velocidad aumenta el riesgo de que ocurra un siniestro vial, y las consecuencias del mismo. Muestra el recorrido y desenlace de dos motociclistas que conducen en condiciones idénticas, con las mismas motos y las mismas habilidades de conducción, lo único que los diferencia es la velocidad a la que viajan en un corredor con límite de 50 km/h.</p>
             <p>Al momento de enfrentarse a un evento inesperado en la vía, el conductor que viaja a la velocidad establecida logra sortear la situación y llega a casa sano y salvo. Por el contrario, el motociclista que excede la velocidad no puede reaccionar a tiempo, choca con un separador y pierde la vida.</p>
             <p>Esta producción está dirigida principalmente a los usuarios de moto (conductor + acompañante), los cuales representan la mayor cantidad de muertes por siniestros viales. En los últimos 5 años, 874 motociclistas han fallecido en las vías de Bogotá.</p>
@@ -78,7 +78,7 @@
                 <li><strong>¿Por qué hombres jóvenes?:</strong> En 2021, 8 de cada 10 motociclistas fallecidos eran hombres. El 70% de ellos tenían entre 19 y 33 años. </li>
                 <li><strong>¿Por qué un choque contra objeto fijo?:</strong> El 30% de los motociclistas que perdieron la vida el año pasado tuvieron un siniestro contra un objeto fijo o auto volcamiento.</li>
                 <li><strong>¿Por qué en horario nocturno?:</strong> 6 de cada 10 motociclistas fallecidos en 2021 perdieron la vida entre las 6:00 p.m. y 6:00 a.m. </li>
-                <li><strong>¿Por qué el exceso de velocidad como principal factor de riesgo?:</strong> De acuerdo con un estudio de 2021 de la Universidad Johns Hopkins,  aliado de la Iniciativa Bloomberg para la Seguridad Vial Mundial (BIGRS), el 42% de los motociclistas exceden el límite de velocidad en Bogotá. </li>
+                <li><strong>¿Por qué el exceso de velocidad como principal factor de riesgo?:</strong> De acuerdo con un estudio de 2021 de la Universidad Johns Hopkins, aliado de la Iniciativa Bloomberg para la Seguridad Vial Mundial (BIGRS), el 42% de los motociclistas exceden el límite de velocidad en Bogotá. </li>
             </ul>
             <p>La Secretaría de Movilidad hace un llamado a todos los conductores a no exceder los límites de velocidad y a cuidar la vida en la vía.</p>
         </div>
@@ -92,6 +92,7 @@
                 padding: 45px 25px;
 
             }
+
             .box-parrafos-2 ul li {
                 margin: 8px;
                 /* font-size: 1em; */
@@ -101,6 +102,7 @@
                 color: rgba(255, 255, 255, 1);
                 margin: 8px;
             }
+
             .box-parrafos-2 p {
                 /* font-size: 1em; */
                 font-weight: 500;
@@ -152,15 +154,19 @@
     .w-100 {
         width: 100%;
     }
-    @media(max-width:767px){}
-    @media(min-width:768px){
+
+    @media(max-width:767px) {}
+
+    @media(min-width:768px) {
         .box-video .video {
-                width: 75%;
-                margin: auto;
-                padding: 30px 30px 0px 30px;
-            }
+            width: 75%;
+            margin: auto;
+            padding: 30px 30px 0px 30px;
+        }
     }
-    @media(min-width:992px){}
-    @media(min-width:1200px){}
+
+    @media(min-width:992px) {}
+
+    @media(min-width:1200px) {}
 </style>
 <!-- End Styles -->
