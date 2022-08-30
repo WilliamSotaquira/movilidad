@@ -32,7 +32,7 @@
     <div class="well">
         <p>“Promover la incidencia de la participación ciudadanía en las acciones, proyectos, programas, planes y políticas de la Secretaría Distrital de Movilidad, orientadas al desarrollo de iniciativas de movilidad segura, accesible, incuyente, sostenible y multimodal en el Distrito Capital.”</p>
     </div>
-</blockquote>
+</blockquote> 
 <hr>
 <h4><kbd class="btn-block">Ejes Estratégicos del Plan Institucional de Participación</kbd></h4>
 <blockquote>
