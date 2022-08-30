@@ -101,8 +101,13 @@
         
         <div class="texto-excelencia">
             <p><strong>Bases para participar:</strong></p>
-            <p>Si tu organización aún no es miembro de la Red de Logística Urbana, diligencia este formulario:</p>
-            <div class='imagen'>
+            <div class="row">
+                <div class="col-xs-12 hidden-xs">
+                    <iframe frameborder="0" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/solicitud_pdf_reconocimiento_excelencia_logistica_2022_v2.pdf" style="width:100%; height:600px;"></iframe>
+                </div>
+            </div>
+            <!-- <p>Si tu organización aún no es miembro de la Red de Logística Urbana, diligencia este formulario:</p> -->
+            <!-- <div class='imagen'>
                 <a href="http://bit.ly/InscripcionRLU" target="_blank" rel="noopener noreferrer">
                     <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2022/formulario_inscripcion.png' alt='Recorte de pantalla del formulario de Inscripción' title='Recorte de pantalla del formulario de Inscripción'>
                 </a>
@@ -111,7 +116,7 @@
                 <a href="http://bit.ly/InscripcionRLU" target="_blank" rel="noopener noreferrer">
                     <div class="boton-excelencia">Formulario de inscripción RLU</div>
                 </a>
-            </div>
+            </div> -->
         </div>
         <style>
             .texto-excelencia .imagen {
@@ -154,12 +159,12 @@
         <div class="texto-excelencia">
             <p>Para inscribir a tu empresa como participante por el reconocimiento Excelencia Logística 2022 - Red de Logística Urbana, usa este formulario (debes tener una cuenta de Google habilitada ya que es necesario cargar algunos archivos):</p>
             <div class='imagen'>
-                <a href="http://bit.ly/InscripcionRLU" target="_blank" rel="noopener noreferrer">
-                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2022/formulario_inscripcion.png' alt='Recorte de pantalla del formulario de Inscripción' title='Recorte de pantalla del formulario de Inscripción'>
+                <a href="https://forms.gle/mgvJEg3g7aHeueye8" target="_blank" rel="noopener noreferrer">
+                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/brave_0pfehmcpcw.png' alt='Recorte de pantalla del formulario de Inscripción' title='Recorte de pantalla del formulario de Inscripción'>
                 </a>
             </div>
             <div class="box-boton">
-                <a href="http://bit.ly/InscripcionRLU" target="_blank" rel="noopener noreferrer">
+                <a href="https://forms.gle/mgvJEg3g7aHeueye8" target="_blank" rel="noopener noreferrer">
                     <div class="boton-excelencia">Reconocimiento Excelencia Logística</div>
                 </a>
             </div>
