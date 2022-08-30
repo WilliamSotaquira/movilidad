@@ -1,153 +1,216 @@
-<div class="timeline">
-    <div class="container left">
-        <div class="content">
-            <h2>2017</h2>
-            <p>Lorem ipsum..</p>
+@extends('welcome')
+@section('contenido')
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<!-- Set Wrapper -->
+<div class='container-fluid zp'>
+    <div class='box-wrp'>
+        <div class='box-head'></div>
+        <div class="box-transicion">
+
+            <div class="btn-transicion zoom">
+                <a data-toggle="tab" href="#menu1">
+                    <div class='imagen'>
+                        <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-08-2022/economico.png' alt='' title=''>
+                    </div>
+                    <div class="titulo">
+                        <h3>
+                            Con incentivos económicos y no económicos ¡Conoce los beneficios!
+                        </h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="btn-transicion zoom">
+                <a data-toggle="tab" href="#menu2">
+                    <div class='imagen'>
+                        <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-08-2022/economico.png' alt='' title=''>
+                    </div>
+                    <div class="titulo">
+                        <h3>
+                            Con infraestructura de recarga ¡Conoce dónde recargar!
+                        </h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="btn-transicion zoom">
+                <a data-toggle="tab" href="#menu3">
+                    <div class='imagen'>
+                        <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-08-2022/economico.png' alt='' title=''>
+                    </div>
+                    <div class="titulo">
+                        <h3>
+                            Con más información y nuevas capacidades ¡Conoce estos recursos!
+                        </h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="btn-transicion zoom">
+                <a data-toggle="tab" href="#menu4">
+                    <div class='imagen'>
+                        <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-08-2022/economico.png' alt='' title=''>
+                    </div>
+                    <div class="titulo">
+                        <h3>
+                            Con alianzas y acciones de tod@s ¡Únete aquí!
+                        </h3>
+                    </div>
+                </a>
+            </div>
+
         </div>
-    </div>
-    <div class="container right">
-        <div class="content">
-            <h2>2016</h2>
-            <p>Lorem ipsum..</p>
+        <hr>
+        <style>
+            .box-transicion {
+                display: grid;
+                gap: 15px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+            }
+
+            .zoom {
+                transition: 0.5s ease;
+                -moz-transition: 0.5s ease;
+                /* Firefox */
+                -webkit-transition: 0.5s ease;
+                /* Chrome - Safari */
+                -o-transition: 0.5s ease;
+                /* Opera */
+                -ms-transition: 0.5s ease;
+            }
+
+            .zoom:hover {
+                transform: scale(1.05);
+                -moz-transform: scale(1.05);
+                /* Firefox */
+                -webkit-transform: scale(1.05);
+                /* Chrome - Safari */
+                -o-transform: scale(1.05);
+                /* Opera */
+                -ms-transform: scale(1.05);
+            }
+
+            /* IE9 */
+
+            .box-transicion a {
+                text-decoration: none !important;
+            }
+
+            .btn-transicion .imagen {
+
+            }
+
+            .btn-transicion .imagen img {
+                max-width: 180px;
+                margin: auto;
+                padding: 15px;
+            }
+
+            .btn-transicion .titulo {
+                padding: 0px 15px 10px 15px;
+            }
+
+            .btn-transicion .titulo h3 {
+                font-size: 18px;
+                font-weight: 700;
+                text-align: center;
+                line-height: 1.2;
+                color: rgba(25, 25, 25, 1);
+                margin: 8px;
+            }
+
+            .btn-transicion:hover{
+                background-color: #d5d5d5;
+            }
+
+           .btn-transicion:hover a,
+           .btn-transicion:focus a,
+           .btn-transicion:visited a{
+                background-color: rgba(25, 28, 58, 1) !important;
+            }
+ 
+            @media(max-width:767px) {}
+
+            @media(min-width:768px) {
+                .box-transicion {
+                    grid-template-columns: repeat(2, 1fr);
+                }
+            }
+
+            @media(min-width:992px) {}
+
+            @media(min-width:1200px) {}
+        </style>
+
+        <div class="tab-content">
+
+            <div id="menu1" class="tab-pane fade in active">
+                <h3>Menu 1</h3>
+                <p>Some content in menu 1.</p>
+            </div>
+            <div id="menu2" class="tab-pane fade">
+                <h3>Menu 2</h3>
+                <p>Some content in menu 2.</p>
+            </div>
+            <div id="menu3" class="tab-pane fade">
+                <h3>Menu 3</h3>
+                <p>Some content in menu 3.</p>
+            </div>
+            <div id="menu3" class="tab-pane fade">
+                <h3>HOME</h3>
+                <p>Some content in menu 4.</p>
+            </div>
         </div>
+
     </div>
+
 </div>
+</div>
+<!-- End Set Wrapper -->
 
-<style>
-    * {
-        box-sizing: border-box;
+<!-- Styles -->
+<style type='text/css'>
+    .field-item.even h2 {
+        visibility: hidden;
+        margin-top: -50px;
     }
 
-    /* Set a background color */
-    body {
-        background-color: #474e5d;
-        font-family: Helvetica, sans-serif;
+    .region-content {
+        padding: 0px;
+        overflow: hidden;
     }
 
-    /* The actual timeline (the vertical ruler) */
-    .timeline {
-        position: relative;
-        max-width: 1200px;
-        margin: 0 auto;
+    .zp {
+        max-width: 980px;
+        word-wrap: break-word;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        text-align: justify;
+        line-height: 1.4;
+        color: rgba(25, 25, 25, 1);
+        margin: 8px;
     }
 
-    /* The actual timeline (the vertical ruler) */
-    .timeline::after {
-        content: '';
-        position: absolute;
-        width: 6px;
-        background-color: white;
-        top: 0;
-        bottom: 0;
-        left: 50%;
-        margin-left: -3px;
+    /*
+    .zp [class*='col-'] {
+        margin: 0px;
+        padding: 0px;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
     }
+    */
 
-    /* Container around content */
-    .container {
-        padding: 10px 40px;
-        position: relative;
-        background-color: inherit;
-        width: 50%;
-    }
-
-    /* The circles on the timeline */
-    .container::after {
-        content: '';
-        position: absolute;
-        width: 25px;
-        height: 25px;
-        right: -17px;
-        background-color: white;
-        border: 4px solid #FF9F55;
-        top: 15px;
-        border-radius: 50%;
-        z-index: 1;
-    }
-
-    /* Place the container to the left */
-    .left {
-        left: 0;
-    }
-
-    /* Place the container to the right */
-    .right {
-        left: 50%;
-    }
-
-    /* Add arrows to the left container (pointing right) */
-    .left::before {
-        content: " ";
-        height: 0;
-        position: absolute;
-        top: 22px;
-        width: 0;
-        z-index: 1;
-        right: 30px;
-        border: medium solid white;
-        border-width: 10px 0 10px 10px;
-        border-color: transparent transparent transparent white;
-    }
-
-    /* Add arrows to the right container (pointing left) */
-    .right::before {
-        content: " ";
-        height: 0;
-        position: absolute;
-        top: 22px;
-        width: 0;
-        z-index: 1;
-        left: 30px;
-        border: medium solid white;
-        border-width: 10px 10px 10px 0;
-        border-color: transparent white transparent transparent;
-    }
-
-    /* Fix the circle for containers on the right side */
-    .right::after {
-        left: -16px;
-    }
-
-    /* The actual content */
-    .content {
-        padding: 20px 30px;
-        background-color: white;
-        position: relative;
-        border-radius: 6px;
-    }
-
-    /* Media queries - Responsive timeline on screens less than 600px wide */
-    @media screen and (max-width: 600px) {
-
-        /* Place the timelime to the left */
-        .timeline::after {
-            left: 31px;
-        }
-
-        /* Full-width containers */
-        .container {
-            width: 100%;
-            padding-left: 70px;
-            padding-right: 25px;
-        }
-
-        /* Make sure that all arrows are pointing leftwards */
-        .container::before {
-            left: 60px;
-            border: medium solid white;
-            border-width: 10px 10px 10px 0;
-            border-color: transparent white transparent transparent;
-        }
-
-        /* Make sure all circles are at the same spot */
-        .left::after,
-        .right::after {
-            left: 15px;
-        }
-
-        /* Make all right containers behave like the left ones */
-        .right {
-            left: 0%;
-        }
+    .w-100 {
+        width: 100%;
     }
 </style>
+<!-- End Styles -->

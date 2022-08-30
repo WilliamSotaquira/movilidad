@@ -19,14 +19,17 @@ Route::get('/', function () {
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Inicio
 Route::view('/inicio/bannersInstitucionales', 'inicio/bannersInstitucionales');
-Route::view('/inicio/banners', 'inicio/banners');
 Route::view('/inicio/agendamiento', 'inicio/agendamiento');
 Route::view('/inicio/footer', 'inicio/footer');
-
-Route::view('/inicio/ccm/centroContacto', 'inicio/ccm/centroContacto');
 Route::view('/inicio/ccm/botones', 'inicio/ccm/botones');
 
-Route::view('/inicio/bannerAncho', 'inicio/bannerAncho');
+Route::view('/inicio/ccm/centroContacto', 'inicio/ccm/centroContacto');
+
+
+Route::view('/inicio/avisos', 'inicio/avisos');
+Route::view('/inicio/botones', 'inicio/botones');
+Route::view('/inicio/banners', 'inicio/banners');
+
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Plantillas
 Route::view('/plantillas/imagen_adaptativa', 'plantillas/imagen_adaptativa');
@@ -37,6 +40,7 @@ Route::view('/plantillas/acordeon', 'plantillas/acordeon');
 Route::view('/plantillas/tabla', 'plantillas/tabla');
 Route::view('/plantillas/tabs', 'plantillas/tabs');
 Route::view('/plantillas/btn-dinamico', 'plantillas/btn-dinamico');
+Route::view('/plantillas/verticalTabs', 'plantillas/verticalTabs');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Tramites y Servicios
 Route::view('/atencionServicio/home', 'atencionServicio/home');
@@ -67,7 +71,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/especifico/nuevaConcesion/home', 'especifico/nuevaConcesion/home');
 
     // OGS
-    Route::view('/especifico/OGS/ParticipaciónCiudadana', 'especifico/OGS/ParticipaciónCiudadana');
+    Route::view('/especifico/OGS/participacionCiudadana', 'especifico/OGS/participacionCiudadana');
     Route::view('/especifico/OGS/RendiciónCuentasLocales', 'especifico/OGS/RendiciónCuentasLocales');
     Route::view('/especifico/OGS/ProgramasSociales', 'especifico/OGS/ProgramasSociales');
     Route::view('/especifico/OGS/GestionSocial', 'especifico/OGS/GestionSocial');
@@ -206,10 +210,27 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/07/piezaEncuesta', '2022/07/piezaEncuesta');
     Route::view('/2022/07/CLMinfantil', '2022/07/CLMinfantil');
     Route::view('/2022/07/cicliviasTemporales', '2022/07/cicliviasTemporales');
-    Route::view('/2022/07/participacion', '2022/07/participacion');
     Route::view('/2022/07/runt', '2022/07/runt');
     Route::view('/2022/07/sisben', '2022/07/sisben');
     Route::view('/2022/07/agendas', '2022/07/agendas');
     Route::view('/2022/07/excelencia', '2022/07/excelencia');
     Route::view('/2022/07/mesTaxitas', '2022/07/mesTaxitas');
     Route::view('/2022/07/bloomberg', '2022/07/bloomberg');
+    Route::view('/2022/07/1730', '2022/07/1730');
+    
+    // Contenido julio 2022
+    Route::view('/2022/08/seAgente', '2022/08/seAgente');
+    Route::view('/2022/08/normatividadZZP', '2022/08/normatividadZZP');
+    Route::view('/2022/08/preguntasZPP', '2022/08/preguntasZPP');
+    Route::view('/2022/08/gremios', '2022/08/gremios');
+    Route::view('/2022/08/rutaInmovilizacion', '2022/08/rutaInmovilizacion');
+    Route::view('/2022/08/botones', '2022/08/botones');
+    Route::view('/2022/08/convocatoriaMujer', '2022/08/convocatoriaMujer');
+    Route::view('/2022/08/controlSocial', '2022/08/controlSocial');
+    Route::view('/2022/08/adolecentes', '2022/08/adolecentes');
+    
+    Route::view('/2022/08/participacion', '2022/08/participacion');
+    Route::view('/2022/08/centrosLocales', '2022/08/centrosLocales');
+    Route::view('/2022/08/pip', '2022/08/pip');
+    Route::view('/2022/08/rendicion', '2022/08/rendicion');
+    Route::view('/2022/08/agendasParticipativas', '2022/08/agendasParticipativas');
