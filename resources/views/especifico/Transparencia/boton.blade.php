@@ -4,26 +4,28 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link href="https://fonts.googleapis.com" rel="preconnect">
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <div class="container-fluid seccion">
 	<div class="encabezado">
 		<div class="row">
 			<div class="col-xs-12">
 				<h1 class="h1-heading"><strong>Transparencia y Acceso a la<br>
-					Información Pública</strong></h1>
+						Información Pública</strong></h1>
 			</div>
 		</div>
-		<style type="text/css">.h1-heading {
-            font-size: 30px;
-            font-weight: normal;
-            text-align: center;
-            line-height: 1.2;
-            color: rgba(77, 84, 31, 1);
-            padding: 15px 30px;
-            margin: 0px;
-            border-bottom: 2px solid rgba(77, 84, 31, 1);
-            margin-bottom: 20px;
-         }
+		<style type="text/css">
+			.h1-heading {
+				font-size: 30px;
+				font-weight: normal;
+				text-align: center;
+				line-height: 1.2;
+				color: rgba(77, 84, 31, 1);
+				padding: 15px 30px;
+				margin: 0px;
+				border-bottom: 2px solid rgba(77, 84, 31, 1);
+				margin-bottom: 20px;
+			}
 		</style>
 	</div>
 
@@ -35,17 +37,18 @@
 				</div>
 			</div>
 		</div>
-		<style type="text/css">.video {
-            background-color: #929292;
-            padding: 35px;
-            margin-left: 15px;
-            margin-right: 15px;
-         }
+		<style type="text/css">
+			.video {
+				background-color: #929292;
+				padding: 35px;
+				margin-left: 15px;
+				margin-right: 15px;
+			}
 
-         .bs {
-            -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-            box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-         }
+			.bs {
+				-webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+				box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+			}
 		</style>
 	</div>
 
@@ -53,23 +56,25 @@
 		<hr>
 		<div class="row">
 			<div class="col-xs-12">
-				<p class="p-panel">La Secretaría Distrital de Movilidad pone a disposición de la ciudadanía la nueva sección de Transparencia y Acceso a la Información Pública, de acuerdo las directrices de la Ley 1712 de 2014 y la Resolución 1519 de 2020 de MinTIC.</p>
+				<p class="">La Secretaría Distrital de Movilidad pone a disposición de la ciudadanía la nueva sección de Transparencia y Acceso a la Información Pública, de acuerdo las directrices de la Ley 1712 de 2014 y la Resolución 1519 de 2020 de MinTIC.</p>
 
-				<p class="p-panel">En esta sección encontrará información de interés de la Secretaría Distrital de Movilidad, los mecanismos de contacto, la estructura orgánica, talento humano, normatividad aplicable, planeación, mecanismos de control, contratación, trámites y servicios y gestión de la información.</p>
+				<p class="">En esta sección encontrará información de interés de la Secretaría Distrital de Movilidad, los mecanismos de contacto, la estructura orgánica, talento humano, normatividad aplicable, planeación, mecanismos de control, contratación, trámites y servicios y gestión de la información.</p>
 			</div>
 		</div>
 
 		<hr>
-		<style type="text/css">.s1 {
-            padding: 25px;
-         }
+		<style type="text/css">
+			.s1 {
+				padding: 25px;
+			}
 		</style>
 	</div>
 
 	<div class="s2">
 		<div class="row">
 			<div class="col-xs-12">
-				<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist"><!-- collapseIMO -->
+				<div aria-multiselectable="true" class="panel-group" id="accordion" role="tablist">
+					<!-- collapseIMO -->
 					<div class="panel panel-default">
 						<div class="panel-heading ph-1" id="headingIMO" role="tab">
 							<h4 class="panel-title"><a aria-controls="collapseIMO" aria-expanded="true" data-parent="#accordion" data-toggle="collapse" href="#collapseIMO" role="button">Información mínima obligatoria </a></h4>
@@ -94,7 +99,7 @@
 									<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_gestion" rel="noopener noreferrer" target="_blank">Informes de gestión, evaluación y auditoría del sujeto obligado</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/mecanismos_de_control_al_interior_de_la_entidad" rel="noopener noreferrer" target="_blank">Mecanismos internos</a> y<a href="https://www.movilidadbogota.gov.co/web/mecanismos-control-supervision" rel="noopener noreferrer" target="_blank"> externos de supervisión, notificación y vigilancia pertinente del sujeto obligado</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/procedimientos-lineamientos-políticas-adquisicion-compras" rel="noopener noreferrer" target="_blank">Procedimientos, lineamientos, políticas en materia de adquisiciones y compras, así como todos los datos de adjudicación y ejecución de contratos, incluidos concursos y licitaciones</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/tramites_y_servicios_virtuales" rel="noopener noreferrer" target="_blank">Mecanismo de presentación directa de solicitudes, quejas y reclamos a disposición del público en relación con acciones u omisiones del sujeto obligado, junto con un informe de todas las solicitudes, denuncias y los tiempos de respuesta del sujeto obligado</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/sdqs" rel="noopener noreferrer" target="_blank">Mecanismo de presentación directa de solicitudes, quejas y reclamos a disposición del público en relación con acciones u omisiones del sujeto obligado, junto con un informe de todas las solicitudes, denuncias y los tiempos de respuesta del sujeto obligado</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/participacion-formulacion-politicas" rel="noopener noreferrer" target="_blank">Mecanismo o procedimiento por medio del cual el público pueda participar en la formulación de la política o el ejercicio de las facultades de ese sujeto obligado</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/registro-publicaciones" rel="noopener noreferrer" target="_blank">Registro de publicaciones que contenga los documentos publicados de conformidad con la presente ley y automáticamente disponibles,</a> <a href="https://www.movilidadbogota.gov.co/web/informacion-clasificada-reservada" rel="noopener noreferrer" target="_blank"> así como un Registro de Activos de Información</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/node/1654" rel="noopener noreferrer" target="_blank">Datos abiertos, para lo cual deberán contemplar las excepciones establecidas en el título 3 de la presente ley</a></li>
@@ -109,7 +114,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- /collapseIMO --><!-- collapseUno -->
+					<!-- /collapseIMO -->
+					<!-- collapseUno -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingUno" role="tab">
@@ -134,11 +140,12 @@
 									<li><a href="http://www.movilidadbogota.gov.co/web/puntos_de_atencion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.4.</span>Directorio Institucional</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/funcionarios" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.5.</span>Directorio de servidores públicos, empleados o contratistas</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/directorio_entidades" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.6.</span>Directorio de entidades</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-12-2021/agremiaciones_actualizado_julio_-_diciembre_2021_web.xlsx" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.7.</span>Directorio de agremiaciones o asociaciones en las que participe</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/directorio_de_agremiaciones_asociaciones_y_otros_grupos_de_interes" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.7.</span>Directorio de agremiaciones o asociaciones en las que participe</a></li>
 									<li><span class="enfasis_num">1.8.</span>Servicio al público, normas, formularios y protocolos de atención
 										<ul>
 											<li><a href="https://www.movilidadbogota.gov.co/web/preguntas_frecuentes" rel="noopener noreferrer" target="_blank">Preguntas y respuestas frecuentes</a></li>
-											<li><a href="https://www.movilidadbogota.gov.co/web/derechos_y_deberes_de_los_ciudadanos" rel="noopener noreferrer" target="_blank">Derechos y Deberes de los Ciudadanos</a></li>
+											<!-- <li><a href="https://www.movilidadbogota.gov.co/web/derechos_y_deberes_de_los_ciudadanos" rel="noopener noreferrer" target="_blank">Derechos y Deberes de los Ciudadanos</a></li> -->
+											<li><a href="https://www.movilidadbogota.gov.co/web/trato-digno" rel="noopener noreferrer" target="_blank">Derechos y Deberes de los Ciudadanos</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/manual_de_servicio_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Manual de Servicio al Ciudadano</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/glosario" rel="noopener noreferrer" target="_blank">Glosario</a></li>
 										</ul>
@@ -149,11 +156,13 @@
 									<li><a href="https://www.movilidadbogota.gov.co/web/historico_noticias" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.12.</span>Información sobre decisiones que puede afectar al público</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/mecanismos-control-supervision" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.13.</span>Entes y autoridades que lo vigilan</a></li>
 									<li><a href="https://serviciocivil.gov.co/transparencia/publicacion-hojas-de-vida" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.14.</span>Publicación de hojas de vida</a></li>
-									<!-- <li><a href="#" target="_blank" rel="noopener noreferrer"><span class="enfasis_num">1.15.</span>Aporte público al empleo</a></li> --></ol>
+									<!-- <li><a href="#" target="_blank" rel="noopener noreferrer"><span class="enfasis_num">1.15.</span>Aporte público al empleo</a></li> -->
+								</ol>
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseUno --><!-- collapseDos -->
+					<!-- /#collapseUno -->
+					<!-- collapseDos -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingDos" role="tab">
@@ -188,7 +197,7 @@
 												</li>
 												<li><span class="enfasis_num">2.1.6.</span>Agenda Regulatoria
 													<ul>
-														<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-07-2022/agenda_regulatoria_actualizada_sdm_07_07_2022_0.xlsx" rel="noopener noreferrer" target="_blank">Agenda Regulatoria 2022</a></li>
+														<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-08-2022/agenda_regulatoria_actualizada_sdm_02_08_2022.xlsx" rel="noopener noreferrer" target="_blank">Agenda Regulatoria 2022</a></li>
 														<li><a href="https://www.movilidadbogota.gov.co/web/proyecto_de_agenda_regulatoria_2022">Proyecto Agenda Regulatoria 2022</a></li>
 													</ul>
 												</li>
@@ -196,7 +205,8 @@
 										</div>
 									</div>
 								</div>
-								<!-- /#collapseDosUno --><!-- collapseDosDos -->
+								<!-- /#collapseDosUno -->
+								<!-- collapseDosDos -->
 
 								<div class="panel panel-default">
 									<div class="panel-heading ph-3" id="headingDosDos" role="tab">
@@ -212,7 +222,8 @@
 										</div>
 									</div>
 								</div>
-								<!-- /#collapseDosDos --><!-- collapseDosTres -->
+								<!-- /#collapseDosDos -->
+								<!-- collapseDosTres -->
 
 								<div class="panel panel-default">
 									<div class="panel-heading ph-3" id="headingDosTres" role="tab">
@@ -228,10 +239,12 @@
 										</div>
 									</div>
 								</div>
-								<!-- /#collapseDosTres --></div>
+								<!-- /#collapseDosTres -->
+							</div>
 						</div>
 					</div>
-					<!-- /#collapseDos --><!-- collapseTres -->
+					<!-- /#collapseDos -->
+					<!-- collapseTres -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingTres" role="tab">
@@ -260,7 +273,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseTres --><!-- collapseCuatro -->
+					<!-- /#collapseTres -->
+					<!-- collapseCuatro -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingCuatro" role="tab">
@@ -296,6 +310,7 @@
 									<li><span class="enfasis_num">4.6.</span>Información pública y/o relevante.
 										<ul>
 											<li><a href="https://www.movilidadbogota.gov.co/web/estados_financieros" rel="noopener noreferrer" target="_blank">Estados financieros</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/operaciones_reciprocas" rel="noopener noreferrer" target="_blank">Operaciones Recíprocas</a></li>
 										</ul>
 									</li>
 									<li><span class="enfasis_num">4.7.</span>Informes de gestión, evaluación y auditoría.
@@ -321,7 +336,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseCuatro --><!-- collapseCinco -->
+					<!-- /#collapseCuatro -->
+					<!-- collapseCinco -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingCinco" role="tab">
@@ -341,7 +357,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseCinco --><!-- collapseSeis -->
+					<!-- /#collapseCinco -->
+					<!-- collapseSeis -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingSeis" role="tab">
@@ -354,7 +371,7 @@
 
 								<ol>
 									<li><a href="https://www.movilidadbogota.gov.co/web/participacion_para_la_identificacion_de_problemas_y_diagnostico_de_necesidades"><span class="enfasis_num">6.1.</span>Participación para la identificación de problemas y diagnóstico de necesidades</a></li>
-									<li><a href="#"><span class="enfasis_num">6.2.</span>Planeación y/o presupuesto participativo</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/presupuesto"><span class="enfasis_num">6.2.</span>Planeación y/o presupuesto participativo</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/planes_institucionales_y_estrategicos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.3.</span>Participación y consulta ciudadana de proyectos, normas, políticas o programas</a></li>
 									<li><span class="enfasis_num">6.4.</span>Colaboración e innovación abierta
 										<ul>
@@ -362,13 +379,14 @@
 										</ul>
 									</li>
 									<li><span class="enfasis_num">6.5.</span><a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" rel="noopener noreferrer" target="_blank">Rendición de Cuentas locales</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/gestion_social" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.6.</span>Gestión Social</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/gestion_social" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.6.</span>Espacios de Participación ciudadana </a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">6.7.</span>Control ciudadano</a></li>
 								</ol>
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseSeis --><!-- collapseSiete -->
+					<!-- /#collapseSeis -->
+					<!-- collapseSiete -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingSiete" role="tab">
@@ -406,7 +424,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseSiete --><!-- collapseOcho -->
+					<!-- /#collapseSiete -->
+					<!-- collapseOcho -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingOcho" role="tab">
@@ -422,7 +441,7 @@
 
 										<ol>
 											<li><a href="https://www.movilidadbogota.gov.co/web/portal-infantil" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.1.1.</span>Portal Infantil</a></li>
-											<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-12-2021/ninos_ninas_y_adolescentes_julio_-_diciembre_2021_web.xlsx" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.1.2.</span>Información de interés para niñas, niños y adolescentes</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/informacion_de_interes_para_ninas_ninos_y_adolescentes" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.1.2.</span>Información de interés para niñas, niños y adolescentes</a></li>
 										</ol>
 									</li>
 									<li><a href="#"><span class="enfasis_num">8.2.</span>Información para Mujeres</a></li>
@@ -439,7 +458,8 @@
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseOcho --><!-- collapseNueve -->
+					<!-- /#collapseOcho -->
+					<!-- collapseNueve -->
 
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingNueve" role="tab">
@@ -451,14 +471,16 @@
 								<p class="p-panel">En esta sección encontrará otra información relevante de la entidad.</p>
 
 								<ol>
-                        
+
 									<li><span class="enfasis_num">9.1.</span>Informes, estudios, investigaciones y otras publicaciones
 										<ul>
-                                 <li><a href="https://www.movilidadbogota.gov.co/web/instancias_de_coordinacion" rel="noopener noreferrer" target="_blank">Instancias de Coordinación</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/instancias_de_coordinacion" rel="noopener noreferrer" target="_blank">Instancias de Coordinación</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_siniestralidad_sitp_asociada_a_exceso_de_velocidad" rel="noopener noreferrer" target="_blank">Informes de siniestralidad SITP asociada a exceso de velocidad</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_ciclovias_temporales" rel="noopener noreferrer" target="_blank">Informes de Ciclovías Temporales</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/balance_anual_de_los_consejos_locales_de_la_bicicleta" rel="noopener noreferrer" target="_blank">Balance anual de los Consejos Locales de la Bicicleta</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/libros_y_cartillas" rel="noopener noreferrer" target="_blank">Libros y cartillas</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019" rel="noopener noreferrer" target="_blank">Encuesta de Movilidad - La Movilidad en Datos </a></li>
+											
 										</ul>
 									</li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/eliminaciones_documentales_trd" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.2.</span>Eliminaciones Documentales - TRD</a></li>
@@ -477,15 +499,18 @@
 									</li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.6.</span>Denuncias por actos de corrupción</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/agenda_directivos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Agenda Directivos</a>
-									<ul>
-										<li><a href="https://gobiernoabiertobogota.gov.co/transparencia" rel="noopener noreferrer" target="_blank">Agendas Abiertas - Gobierno Abierto de Bogotá (GAB)</a></li>
-									</ul>
-								</li>
-									<!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Accesibilidad</a></li> --><!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.8.</span>Datos Personales</a></li> --></ol>
+										<ul>
+											<li><a href="https://gobiernoabiertobogota.gov.co/transparencia" rel="noopener noreferrer" target="_blank">Agendas Abiertas - Gobierno Abierto de Bogotá (GAB)</a></li>
+										</ul>
+									</li>
+									<!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Accesibilidad</a></li> -->
+									<!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.8.</span>Datos Personales</a></li> -->
+								</ol>
 							</div>
 						</div>
 					</div>
-					<!-- /#collapseNueve --></div>
+					<!-- /#collapseNueve -->
+				</div>
 			</div>
 		</div>
 
@@ -495,29 +520,31 @@
 		</div>
 	</div>
 </div>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<style type="text/css">.field-item.even h2 {
-      visibility: hidden;
-      margin-top: -50px;
-   }
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<style type="text/css">
+	.field-item.even h2 {
+		visibility: hidden;
+		margin-top: -50px;
+	}
 
-   .region-content {
-      padding: 0px;
-      overflow: hidden;
-   }
+	.region-content {
+		padding: 0px;
+		overflow: hidden;
+	}
 
-   .seccion {
+	.seccion {
 
-      max-width: 980px;
-      font-family: 'Montserrat', sans-serif;
-      font-size: 13px;
-      font-weight: normal;
-      text-align: justify;
-      line-height: 1.4;
-      color: rgba(25, 25, 25, 1);
-   }
+		max-width: 980px;
+		font-family: 'Montserrat', sans-serif;
+		font-size: 15px;
+		font-weight: 500;
+		text-align: left;
+		line-height: 1.4;
+		color: rgba(25, 25, 25, 1);
+	}
 
-   /*
+	/*
    .seccion [class*='col-'] {
       margin: 0px;
       padding: 0px;
@@ -528,144 +555,155 @@
    }
    */
 
-   .w-100 {
-      width: 100%;
-   }
+	.w-100 {
+		width: 100%;
+	}
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<style type="text/css">.w-100 {
-      width: 100%;
-   }
+<style type="text/css">
+	.w-100 {
+		width: 100%;
+	}
 
 
-   .p-panel {
-      font-size: 16px;
-      font-weight: normal;
-      text-align: justify;
-      line-height: 1.4;
-      color: rgba(25, 25, 25, 1);
-      margin-left: 15px;
-      margin-right: 15px;
-   }
+	.p-panel {
+		font-size: 15px;
+		font-weight: 500;
+		text-align: justify;
+		line-height: 1.4;
+		color: rgba(25, 25, 25, 1);
+		margin-left: 15px;
+		margin-right: 15px;
+		padding-bottom: 16px;
+	}
 
-   .panel-title {
-      font-size: 18px;
-      font-weight: 700;
-      text-align: justify;
-      line-height: 1;
-      color: rgba(25, 25, 25, 1);
-   }
+	.panel-title {
+		font-size: 18px;
+		font-weight: 700;
+		text-align: justify;
+		line-height: 1;
+		color: rgba(25, 25, 25, 1);
+	}
 
 
-   .node-unpublished {
-      background-color: #ffffff;
-   }
+	.node-unpublished {
+		background-color: #ffffff;
+	}
 
-   .panel-heading {
-      background-color: #c9d64f !important;
-      font-size: 18px;
-      font-weight: normal;
-      text-align: justify;
-      line-height: 1.4;
-      color: rgba(25, 25, 25, 1);
-   }
+	.panel-heading {
+		background-color: #c9d64f !important;
+		font-size: 16px;
+		font-weight: normal;
+		text-align: justify;
+		line-height: 1.4;
+		color: rgba(25, 25, 25, 1);
+	}
 
-   .ph-1 {
-      background-color: #4D541F !important;
+	.ph-1 {
+		background-color: #4D541F !important;
 
-   }
+	}
 
-   .ph-1 a {
-      color: #FFFFFF !important;
-   }
+	.ph-1 a {
+		color: #FFFFFF !important;
+	}
 
-   .ph-1 a:hover {
-      color: #c9d64f !important;
-   }
+	.ph-1 a:hover {
+		color: #c9d64f !important;
+	}
 
-   .ph-2 {
-      background-color: #909D2A !important;
-   }
+	.ph-2 {
+		background-color: #909D2A !important;
+	}
 
-   .ph-2 a {
-      color: #000 !important;
-   }
+	.ph-2 a {
+		color: #000 !important;
+	}
 
-   .ph-2 a:hover {
-      color: #4D541F !important;
-   }
+	.ph-2 a:hover {
+		color: #4D541F !important;
+	}
 
-   .ph-3 {
-      background-color: #A6B517 !important;
-   }
+	.ph-3 {
+		background-color: #A6B517 !important;
+	}
 
-   .ph-3 a {
-      color: #212121 !important;
-   }
+	.ph-3 a {
+		color: #212121 !important;
+	}
 
-   .ph-3 a:hover {
-      color: #4D541F !important;
-   }
+	.ph-3 a:hover {
+		color: #4D541F !important;
+	}
 
-   .panel-body {
-      background-color: #F0F2D9 !important;
-      font-size: 16px;
-      font-weight: 500;
-      text-align: justify;
-      line-height: 1.4;
-      color: rgba(25, 25, 25, 1);
-   }
+	.panel-body {
+		background-color: #F0F2D9 !important;
+		font-size: 15px;
+		font-weight: 500;
+		text-align: justify;
+		line-height: 1.4;
+		color: rgba(25, 25, 25, 1);
+		padding: 3% !important;
+	}
 
-   .s2 ol {
-      list-style: none;
-      /* Remove list bullets */
-      /* padding: 0; */
-      /* margin: 3px; */
+	.s2 ol {
+		list-style: none;
+		/* Remove list bullets */
+		/* padding: 0; */
+		/* margin: 3px; */
 
-   }
+	}
 
-   .s2 li {
-      margin-top: 6px;
-   }
+	.s2 li {
+		margin-top: 4px;
+	}
 
-   .s2 li a {
-      font-size: 16px;
-      font-weight: 500;
-      text-align: justify;
-      line-height: 1.4;
-      color: rgba(25, 25, 25, 1);
-      text-decoration: none;
+	
+	.s2 ol>li {
+		margin-top: 10px;
+	}
 
-   }
+	.s2 li a {
+		font-size: 15px;
+		font-weight: 500;
+		text-align: justify;
+		line-height: 1.4;
+		color: rgba(25, 25, 25, 1);
+		text-decoration: none;
 
-   .s2 li a:hover {
-      color: rgba(77, 84, 31, 1);
-      font-weight: 700;
+	}
 
-   }
+	.s2 li a:hover {
+		color: rgba(77, 84, 31, 1);
+		font-weight: 700;
 
-   .s2 .enfasis_num {
-      font-weight: 700;
-      color: rgba(0, 0, 0, 1);
-      margin-right: 8px;
+	}
 
-   }
-   .box-blockquote{
-      padding: 15px;
-   }
-   .box-blockquote blockquote{
-      font-size: 16px;
-      font-weight: normal;
-      text-align: justify;
-      line-height: 1.4;
-      color: rgba(25, 25, 25, 1);
-      border-left: 3px solid rgba(77, 84, 31, 1);
-   }
-.box-blockquote blockquote a{
-   font-size: 16px;
-   font-weight: 700;
-   text-align: justify;
-   line-height: 1.4;
-   color: rgba(25, 25, 25, 1);
-}
+	.s2 .enfasis_num {
+		font-weight: 700;
+		color: rgba(0, 0, 0, 1);
+		margin-right: 8px;
+
+	}
+
+	.box-blockquote {
+		padding: 15px;
+	}
+
+	.box-blockquote blockquote {
+		font-size: 15px;
+		font-weight: 500;
+		text-align: justify;
+		line-height: 1.4;
+		color: rgba(25, 25, 25, 1);
+		border-left: 3px solid rgba(77, 84, 31, 1);
+	}
+
+	.box-blockquote blockquote a {
+		font-size: 15px;
+		font-weight: 700;
+		text-align: justify;
+		line-height: 1.4;
+		color: rgba(25, 25, 25, 1);
+	}
 </style>
