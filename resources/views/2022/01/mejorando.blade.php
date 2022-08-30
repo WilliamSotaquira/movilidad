@@ -110,7 +110,7 @@
     }
 
     .s1 .p-encabezado {
- 
+
         padding: 0px 30px 30px 30px;
         /* height: 230px; */
         display: flex;
@@ -1963,17 +1963,497 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
+                                    <!-- collapse_Agos22 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_Agos22'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse_Agos22' aria-expanded='true' aria-controls='collapse_Agos22'>
+                                                    Boletines Agosto 2022
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_Agos22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_Agos22'>
+                                            <div class='panel-body'>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1FG4iL6UB0edhBziKSjhJYNXeMPGjw5VS/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 168</h4>
+                                                                <i>lunes, 29 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres por actividades en puente de la calle 13 con avenida Boyacá, Colectivos culturales hacen pedagogía en el Sistema de Transporte de Bogotá, Les contamos la historia de Querubín Cárdenas, empleado oficial que desde hace 35 años trabaja en la UMV.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1i_ROosDWlm8S6oiiQ77VP9y47F86dTYO/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 167</h4>
+                                                                <i>viernes, 26 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierre de andén costado norte de la calle 116. En Usme se inauguró el patio de buses eléctricos más grande de América Latina. La página web de la UMV ahora está en versión Wayuu. En patio taller se desarrollan ingeniosas acciones para reutilizar materiales y cuidar el medioambiente.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Vv6m-yJT5RurRuZItZwqDLsDoqRphBXA/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 166</h4>
+                                                                <i>jueves, 25 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Intervención en la avenida Boyacá. En lo corrido de 2022, la UMV ha intervenido más de 20 mil metros cuadrados de espacio público. Regresa la exitosa convocatoria ¡Más mujeres en el sector transporte!</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/14jJ8izExVAWk6I0_SZa8pC_F0qA4CG7t/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 165</h4>
+                                                                <i>miércoles, 24 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Trabajos de conservación vial en Engativá. Conozca las rutas que podrá utilizar por el cierre nocturno de las estaciones Salitre - Greco y El Tiempo - Maloka. Jairo García, topógrafo de la UMV, explica en qué consiste su trabajo en la entidad.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1hBmbRj1x4RJO9JJXbnOoD_n1JrcNlQXS/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 164</h4>
+                                                                <i>martes, 23 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Intervención en el puente vehicular de la Autosur con carrera 50. La UMV mejoró el estado de la ciclorruta que bordea el Humedal Jaboque. Entran en operación nuevos servicios zonales, para el beneficio de los usuarios del Sistema de Transporte de Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1iN-W_Gx-tltdjA0ISjf1MsG-jcPk2wmL/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 163</h4>
+                                                                <i>lunes, 22 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Así son las obras en concreto que realiza la UMV para reparar las vías. Reparaciones en la calle 80. Entran en operación nuevos servicios zonales para beneficio de los usuarios del Sistema de Transporte de Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1KDf129Z1lMILi3MiC0Uvv1OPvAwU1pwC/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 162</h4>
+                                                                <i>viernes, 19 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Mejoramos andenes de la localidad de Usaquén. Contralor Distrital visitó y constató los beneficios de TransMiCable. Bogotá premiará a estudiantes con las mejores ideas para crear entornos escolares seguros en movilidad. "El metro de Bogotá somos uno solo": Paola Cáceres, guía cívica de las obras.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1IM9hSU6_zRYAtKS8leUPBblzRy0rXvVI/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 161</h4>
+                                                                <i>jueves, 18 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Se realizan reparaciones sobre la vía ubicada en la avenida calle 19 con NQS. Se suspende la ruta zonal 802 Sabana del Dorado – Usme Centro. La UMV socializó los avances de gestión y el plan de contratación durante la administración de Claudia López.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1yHi5OQVepKQBIeoqkwRDQEyV4xp9HP6p/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 160</h4>
+                                                                <i>miércoles, 17 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Inicia conservación de vías en Lisboa, Suba. Este miércoles, la Van de personalización de la tarjeta TuLlave estará en 4 puntos de Bogotá. Conozca la historia de José Hernando Correa, oriundo de Caucasia, Valle del Cauca, y quien trabaja desde hace 10 años en la UMV.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1mNv83THkL4fkk0wMUdp0LG00EpeTkJUe/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 159</h4>
+                                                                <i>martes, 16 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Mejores calles en el barrio Las Brisas de San Cristóbal. Más de 530 mil ciudadanos se han beneficiado con la aplicación TransMiApp. La UMV adquirió 9 volquetas para el Proyecto de Regalías, que mejorará 33 kilómetros de vía en Sumapaz.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/17doOUT0zzQ_aqtjtAUvhHdiTagds5fp8/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 158</h4>
+                                                                <i>viernes, 12 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conservación del espacio público en Autonorte. Estaciones y Portales del Sistema de Transporte cuentan con Pulmones Solares. Un trabajo en familia, así es la historia de Campo Elías Moya, ayudante de obra de la UMV.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1udeDRRvPk0s8bnoEpGUZm7UAWsBQmUDB/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 157</h4>
+                                                                <i>jueves, 11 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Mejoramos la malla vial de Las Américas. 23 personas capturadas en flagrancia y una por orden judicial en el Sistema de Transporte de Bogotá. Silvia de la Calle, colaboradora de la UMV, te explica los tiempos de respuesta de las PQRSDF.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                            <div class='col-xs-12'>
+                                                <a class='enlace' href='https://drive.google.com/file/d/1B5Rb-eHwgwsRpyj0CcmK25lSRbS6cCMp/view?usp=sharing'>
+                                                    <div class='btn-boletin'>
+                                                        <div class='titulo-boletin'>
+                                                            <h4>BOLETÍN 156</h4>
+                                                            <i>miércoles, 10 de agosto de 2022</i>
+                                                        </div>
+                                                        <div class='descripcion-boletin'>
+                                                            <p>Se construye ciclopuente sobre la avenida 68 con calle 63. En el barrio Libertador, de la localidad Rafael Uribe Uribe, la UMV mejoró un segmento vial que conecta con varias vías principales. TRANSMILENIO S.A. continúa apoyando ferias de empleabilidad.</p>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1_nxDamLKCmY0isG76eXdfJX2gvP_RHuD/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 155</h4>
+                                                                <i>martes, 9 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Distrito hará reposición, en los próximos 5 meses, de 2.050 señales del SITP que habían sido hurtadas. Proyecto Avenida Ciudad de Cali. Conozca la nueva sede administrativa y la oficina de atención al ciudadano de la UMV.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1IxCY5Ev1gA8SZ5LzmxO8mB-Zr0jS6koQ/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 154</h4>
+                                                                <i>lunes, 8 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Recuperamos la malla vial en Bogotá. La UMV mejora un tramo de la calle 127, entre la carrera 57A y la transversal 60. La ruta AB900 modifica su recorrido y cambia su nombre.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1DNCr6OJDUJP8To45hEVYajJh1_gzh8k2/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 153</h4>
+                                                                <i>viernes, 5 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La UMV mejora el espacio público en el barrio Santa Ana Occidental, de la localidad de Usaquén. En el IDU construimos obras accesibles. Dos nuevos vagones inician operación en la estación Suba - TV 91.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1il5kqtp92Hcesd3T1yydNglYTLkU_97j/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 152</h4>
+                                                                <i>jueves, 4 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La UMV mejora un importante segmento vial en el barrio Las Villas, de la localidad de Suba. ¿Sabías que puedes consultar los proyectos que se desarrollan en Bogotá en la página web del IDU? La ruta B901 Mirandela – K901 Terminal Salitre modifica su recorrido.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1GULEomMx5yIX8mlGTsr32BoYvvTOmGwR/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 151</h4>
+                                                                <i>miércoles, 3 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Mantenimiento de la malla vial en la ciudad (Segunda entrega). Ruta 18-3 extenderá su trazado y se llamará B927. La UMV rehabilita cerca de 700 metros cuadrados en el barrio Santiago Pérez, de la localidad Rafael Uribe Uribe.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/12N1ImVGbr8_ZJgUnmELzPbBo-UB4KJ0X/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 150</h4>
+                                                                <i>martes, 2 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>En lo corrido de 2022, la UMV ha mejorado más de 10 kilómetros de ciclorrutas en Bogotá. ¿Cómo es el mantenimiento de la malla vial en la ciudad? (Primera entrega). Avanza instalación de dispositivos electro–imán en los torniquetes para personas en condición de discapacidad.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1fwWryxsPzeXXhZ36EqPlG77xhWmyiY1E/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 149</h4>
+                                                                <i>lunes, 1 de agosto de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Así va el trabajo de mantenimiento vial en Antonio Nariño, durante este 2022. Celebramos la graduación de 1.290 jóvenes del programa Parceros Por Bogotá. Extensión de la Troncal Caracas Sur.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin _Agos22 -->
+
                                     <!-- collapse_jul22 -->
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_jul22'>
                                             <h4 class='panel-title'>
                                                 <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_jul22' aria-expanded='true' aria-controls='collapse_jul22'>
-                                                Boletines Julio 2022
+                                                    Boletines Julio 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_jul22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_jul22'>
+                                        <div id='collapse_jul22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_jul22'>
                                             <div class='panel-body'>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1TFAQKR9DijKWdhMr1dSVOQXkkcUZ31_L/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 148</h4>
+                                                                <i>viernes, 29 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres en el Canal Molinos. El lunes comienzan a aplicar cambios operativos en varias rutas zonales. La UMV está en 11 localidades de Bogotá, mejorando las vías.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1brwxSOlzHFVml7Y3BibEiP5lZN4Ps-bo/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 147</h4>
+                                                                <i>jueves, 28 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>En la localidad de Santafé inician actividades de conservación vial. El viernes, 29 de julio, vence plazo para participar en la categoría TransMilenio de SmartFilms. La UMV mejora las calles del barrio Mochuelo III, en Ciudad Bolívar.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1bYl0rP1VXsB158Xwo9b6zpItL7Fjr-kn/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 146</h4>
+                                                                <i>miércoles, 27 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Finalizan obras en la localidad de Rafael Uribe Uribe. Vuelve a ser obligatorio el uso de tapabocas en el Sistema de Transporte. Así es el trabajo social que realiza la UMV antes, durante y después de las obras.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1W08PRyrKm9yv8YsAWGVoXBbWwZULzzMm/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 145</h4>
+                                                                <i>martes, 26 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>¿Necesita renovar su licencia de conducción? Paso a paso para hacer el trámite de manera fácil. Se construye nuevo espacio público en la avenida Ciudad de Cali. Ajuste de trazado de la ruta ‘6-5 Tesoro’, los domingos y festivos.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1AdZfCon88C-RSSmxQ24OsGphS39-sqVs/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 144</h4>
+                                                                <i>lunes, 25 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>En Usaquén, Chapinero y Engativá hay nuevo espacio público. Entran en operación 2 nuevos servicios zonales, para beneficio de los usuarios del Sistema de Transporte de Bogotá. Vecinos del barrio La Esmeralda, localidad de Teusaquillo, agradecieron la intervención de la UMV en una de sus vías.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1zWSRU1IQa6LLYOoGyfHEX4XUN_AmEfXp/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 143</h4>
+                                                                <i>viernes, 22 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Este sábado, 23 de julio, entra en operación el par vial Suba Tibabuyes. En construcción la avenida Laureano Gómez. Así va nuestro trabajo en el barrio Osorio III, de la localidad de Kennedy.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1tHx5m-RCWul2sjFifLMjs1aZldNkrPuG/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 142</h4>
+                                                                <i>jueves, 21 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres en zonas verdes de la avenida Laureano Gómez. La UMV mejora la malla vial de varias vías en el norte de Bogotá. Atención habitantes de Suba: modificaciones en las rutas alimentadoras 11-8 La Gaitana y 11-9 Lisboa.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1v_rMgZiG0thLaIP0WBIhWKcEkjR3aYL_/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 141</h4>
+                                                                <i>martes, 19 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres en la Autopista Sur. En Quiba Alta, Ciudad Bolívar, la UMV mejora las vías para que los habitantes tengan mejor conexión con la zona urbana de Bogotá. Así operará TransMilenio durante la celebración de la fiesta de Independencia del 20 de julio de 2022.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/17DyTVIgUgoxFlp77NDa8msyjbpD-MUOf/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 140</h4>
+                                                                <i>lunes, 18 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conservación vial rural en Sumapaz. La UMV mejora las vías del barrio Ciudadela Colsubsidio. Ajustes operativos en servicios zonales.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1TCNP2SzDjf6QdCrcAaTdlS3kFG7-GtpJ/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 139</h4>
+                                                                <i>viernes, 15 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierre parcial de andén oriental en la Autonorte. Con el arreglo de la calle 128Bis, entre carreras 92B y 93, la UMV mejora la calidad de vida de los residentes del barrio Rincón Altamar. Varios servicios zonales retoman su recorrido en el sur de Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Z44GVYtURiwJV-5SCB5sJXlBEmJli2HP/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 138</h4>
+                                                                <i>jueves, 14 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conservación vial en la localidad de Usme. La UMV se encuentra mejorando el estado de algunos tramos del barrio Villa Elisa, en Suba. Dos servicios zonales amplían su horario de operación.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1nezG6VmujpheSv_CCp58s1AfH8ARw2E9/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 137</h4>
+                                                                <i>miércoles, 13 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Construcción de la avenida Boyacá, entre calles 170 y 183. La UMV arregló un tramo de una importante vía arterial del centro occidente de la ciudad. 2 nuevos servicios zonales para beneficio de los usuarios del Sistema de Transporte de Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1y4LcaBjqQ6vOXFs4ldVNDrk8NnpvTKqz/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 136</h4>
+                                                                <i>martes, 12 de julio de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Avenida Guayacanes. La UMV continúa en el barrio El Salitre, mejorando la ciclorruta de este sector. Nueva ruta zonal conecta los sectores de Gaviotas y la Estación Nariño.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
                                                 <div class='col-xs-12'>
                                                     <a class='enlace' href='https://drive.google.com/file/d/13hSfMRuGFwr14wNrqeTieIPfRPtndDKM/view?usp=sharing'>
                                                         <div class='btn-boletin'>
@@ -1982,7 +2462,7 @@
                                                                 <i>lunes, 11 de julio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Cierre parcial de ciclorruta para mantenimiento.  La UMV retorna a su horario habitual de atención al ciudadano.  Usuarios de TransMilenio han reciclado más de 50.000 kilos de material en máquinas EcoTransMi.</p>
+                                                                <p>Cierre parcial de ciclorruta para mantenimiento. La UMV retorna a su horario habitual de atención al ciudadano. Usuarios de TransMilenio han reciclado más de 50.000 kilos de material en máquinas EcoTransMi.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -1995,7 +2475,7 @@
                                                                 <i>viernes, 8 de julio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Conservación malla vial rural.  Se realizó una nueva jornada de "UMV de Puertas Abiertas", en la que participaron más de 30 ciudadanos.  Nueva ruta zonal A334 Centro Financiero – K334 Fontibón Versalles.</p>
+                                                                <p>Conservación malla vial rural. Se realizó una nueva jornada de "UMV de Puertas Abiertas", en la que participaron más de 30 ciudadanos. Nueva ruta zonal A334 Centro Financiero – K334 Fontibón Versalles.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2008,7 +2488,7 @@
                                                                 <i>jueves, 7 de julio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>En jornada nocturna, la UMV trabaja en la localidad de Chapinero, para arreglar un importante tramo de la carrera séptima.  Conoce más del Cable Aéreo San Cristóbal.  Feria de empleo del Sistema de Transporte de Bogotá estará en Fontibón.</p>
+                                                                <p>En jornada nocturna, la UMV trabaja en la localidad de Chapinero, para arreglar un importante tramo de la carrera séptima. Conoce más del Cable Aéreo San Cristóbal. Feria de empleo del Sistema de Transporte de Bogotá estará en Fontibón.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2021,7 +2501,7 @@
                                                                 <i>miércoles, 6 de julio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Gracias al programa ‘Calles Completas’, la UMV trabaja en la recuperación de un andén en la localidad de Kennedy.  Mejores andenes en la localidad de Suba.  Ruta alimentadora 9-2 Metrovivienda hace dos nuevas paradas en hora valle.</p>
+                                                                <p>Gracias al programa ‘Calles Completas’, la UMV trabaja en la recuperación de un andén en la localidad de Kennedy. Mejores andenes en la localidad de Suba. Ruta alimentadora 9-2 Metrovivienda hace dos nuevas paradas en hora valle.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2034,7 +2514,7 @@
                                                                 <i>martes, 5 de julio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Trabajos nocturnos en el Canal Molinos.  La UMV realiza el cambio de carpeta de una importante calle del barrio Santa Lucía, en la localidad Rafael Uribe Uribe.  Patio taller puso en marcha sistema de suministro de energía con paneles solares.</p>
+                                                                <p>Trabajos nocturnos en el Canal Molinos. La UMV realiza el cambio de carpeta de una importante calle del barrio Santa Lucía, en la localidad Rafael Uribe Uribe. Patio taller puso en marcha sistema de suministro de energía con paneles solares.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2047,7 +2527,7 @@
                                                                 <i>viernes, 1 de julio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>La UMV está en el barrio El Vergel, de la localidad de Kennedy. Allí hace cambio de losas en una de las vías.  ¡Las basuras en su lugar!  Desde este sábado estará cerrado el acceso norte de la estación CAD.</p>
+                                                                <p>La UMV está en el barrio El Vergel, de la localidad de Kennedy. Allí hace cambio de losas en una de las vías. ¡Las basuras en su lugar! Desde este sábado estará cerrado el acceso norte de la estación CAD.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2068,7 +2548,7 @@
                                         </div>
                                         <div id='collapse_jun22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_jun22'>
                                             <div class='panel-body'>
-                                            
+
                                                 <div class='col-xs-12'>
                                                     <a class='enlace' href='https://drive.google.com/file/d/14anj3CylDXHDYqq3XpkRFGrNd_Q8EhuK/view?usp=sharing'>
                                                         <div class='btn-boletin'>
@@ -2077,7 +2557,7 @@
                                                                 <i>jueves, 30 de junio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Reparaciones nocturnas en la avenida Boyacá.  En menos de 6 meses, la UMV mejoró más de 286 mil daños viales, cifra superior a la de todo 2021.  Tenemos más de 2.000 vacantes para trabajar en el Sistema de Transporte Público de Bogotá.</p>
+                                                                <p>Reparaciones nocturnas en la avenida Boyacá. En menos de 6 meses, la UMV mejoró más de 286 mil daños viales, cifra superior a la de todo 2021. Tenemos más de 2.000 vacantes para trabajar en el Sistema de Transporte Público de Bogotá.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2090,7 +2570,7 @@
                                                                 <i>miércoles, 29 de junio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Vías rehabilitadas en San Cristóbal y Rafael Uribe Uribe.  La UMV arregló una importante vía en el barrio Gratamira Real, de la localidad de Suba.  16 personas capturadas en flagrancia y una por orden judicial en el Sistema de Transporte de Bogotá.</p>
+                                                                <p>Vías rehabilitadas en San Cristóbal y Rafael Uribe Uribe. La UMV arregló una importante vía en el barrio Gratamira Real, de la localidad de Suba. 16 personas capturadas en flagrancia y una por orden judicial en el Sistema de Transporte de Bogotá.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2103,7 +2583,7 @@
                                                                 <i>martes, 28 de junio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Las obras y los Planes de Manejo de Tránsito.  Conozca el cierre por carriles de la calzada rápida sentido Norte – Sur de la Autopista Norte entre calles 146 y 140.  Estación Flores retorna a su operación normal desde este miércoles 29 de junio.</p>
+                                                                <p>Las obras y los Planes de Manejo de Tránsito. Conozca el cierre por carriles de la calzada rápida sentido Norte – Sur de la Autopista Norte entre calles 146 y 140. Estación Flores retorna a su operación normal desde este miércoles 29 de junio.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2116,7 +2596,7 @@
                                                                 <i>viernes, 24 de junio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Cierre en la av. carrera 68 por av. calle 26.  La UMV rehabilita una importante vía en Puente Aranda.  Nuevas rutas zonales empiezan a operar este sábado.</p>
+                                                                <p>Cierre en la av. carrera 68 por av. calle 26. La UMV rehabilita una importante vía en Puente Aranda. Nuevas rutas zonales empiezan a operar este sábado.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2129,7 +2609,7 @@
                                                                 <i>jueves, 23 de junio de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Cierres parciales por obra de la avenida 68.  La UMV reparó una importante vía en el barrio José Joaquín Vargas, en la localidad de Barrios Unidos.  Desde este viernes estará cerrado el acceso norte de la estación Comuneros.</p>
+                                                                <p>Cierres parciales por obra de la avenida 68. La UMV reparó una importante vía en el barrio José Joaquín Vargas, en la localidad de Barrios Unidos. Desde este viernes estará cerrado el acceso norte de la estación Comuneros.</p>
                                                             </div>
                                                         </div>
                                                     </a>
