@@ -15,7 +15,7 @@
             <div class="tituloPpal">
                 <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2022/logo_si_voy_en_taxi-02.png' alt='Logo #SiVoyEnTaxi' title='Logo #SiVoyEnTaxi'>
                 <h3 class="text-center">
-                    Agosto Mes del Taxista en Bogotá
+                    Agosto: Mes del Taxista en Bogotá
                 </h3>
 
             </div>
@@ -77,7 +77,7 @@
             }
         </style>
         <div class="box-intro">
-            <p>Durante el Mes del Taxista se destacan las buenas prácticas de las y los taxistas y se realizan actividades para fortalecerlas.</p>
+            <p>Durante el <strong>Mes del Taxista</strong> destacamos las buenas prácticas de las y los taxistas, y celebramos con diferentes actividades que les ayudará a mejorar su calidad de vida y el servicio que prestan.</p>
             <h3>¡Participa!</h3>
         </div>
         <style>
@@ -268,32 +268,7 @@
                         </div>
                     </div>
 
-                    <div class="box-card left">
-                        <div class="content">
-                            <!-- collapse_fecha7 -->
-                            <div class='panel panel-default'>
-                                <div class='panel-heading' role='tab' id='heading_fecha7'>
-                                    <h4 class='panel-title'>
-                                        <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse_fecha7' aria-expanded='true' aria-controls='collapse_fecha7'>
-                                            Jornada de Higienización del vehículo
-                                        </a>
-                                    </h4>
-                                </div>
-                                <div id='collapse_fecha7' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_fecha7'>
-                                    <div class='panel-body'>
-                                        <dl>
-                                            <dd>Fecha: 11 de agosto</dd>
-                                            <dd>Hora: 9:00 a 11:00 a.m. </dd>
-                                            <dd>Lugar: Plaza de los Artesanos</dd>
-                                        </dl>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- /#fin _fecha7 -->
-
-                        </div>
-                    </div>
-
+       
                     <div class="box-card right">
                         <div class="content">
                             <!-- collapse_fecha8 -->
@@ -433,10 +408,12 @@
                                 <div id='collapse_fecha13' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_fecha13'>
                                     <div class='panel-body'>
                                         <dl>
-                                            <dd>Fecha: 25 de agosto</dd>
+                                            <dd>Fecha: Desde el 18 hasta el 21 de agosto</dd>
                                             <dd>Hora: Disposición del conductor</dd>
                                             <dd>Lugar: Atractivos turísticos de Bogotá</dd>
+                                            <dd><i>Para mas información consulte el siguiente <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/2022-08-17_taxi-_rally_turistico_a.pdf" target="_blank" rel="noopener noreferrer">documento PDF</a></i></dd>
                                         </dl>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -461,7 +438,7 @@
                                             <dd>Fecha: 29 de agosto</dd>
                                             <dd>Hora: 10:00 a. m. a 2:00 p. m.</dd>
                                             <dd>Lugar: Por confirmar</dd>
-                                            << /dl>
+                                        </dl>
                                     </div>
                                 </div>
                             </div>
