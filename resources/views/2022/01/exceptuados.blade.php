@@ -120,6 +120,7 @@
         margin-top: 10px;
         text-align: justify;
         line-height: 1.3;
+        rgba(25, 28, 58, 1)
     }
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
