@@ -114,12 +114,31 @@
         <br>
 
         <div class="panel-group" id="accordion">
+
+            <!-- collapse_defensor2022 -->
+            <div class='panel panel-primary'>
+                <div class='panel-heading' role='tab' id='heading_defensor2022'>
+                    <h4 class='panel-title'>
+                        <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse_defensor2022' aria-expanded='true' aria-controls='collapse_defensor2022'>
+                            2022
+                        </a>
+                    </h4>
+                </div>
+                <div id='collapse_defensor2022' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_defensor2022'>
+                    <div class='panel-body'>
+                        <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_del_defensor_del_ciudadano_i_semestre_de_2022-_vf.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2022</a></p>
+                        <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_anexo_al_informe_semestral_de_gestion_defensor_de_la_ciudadania_-_buenas_practicas_i_semestre_2021.pdf" target="_blank">INFORME ANEXO AL INFORME SEMESTRAL DE GESTIÓN DEFENSOR DE LA CIUDADANÍA - BUENAS PRÁCTICAS I SEMESTRE 2022</a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- /#fin _defensor2022 -->
+
             <div class="panel panel-primary">
                 <div class="panel-heading">
                     <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse1">2021</a></h4>
                 </div>
 
-                <div class="panel-collapse collapse in" id="collapse1">
+                <div class="panel-collapse collapse" id="collapse1">
                     <div class="panel-body">
                         <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/informe_defensor_de_la_ciudadania_ii_semestre_2021_.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2021</a></p>
 
@@ -177,7 +196,7 @@
                 <div class='col-xs-12'>
                     <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-07-2021/protocolo_de_la_figura_del_defensor_al_ciudadano.pdf">
                         <div class="btn-defensor">
-                        Protocolo de la Figura del Defensor al Ciudadano
+                            Protocolo de la Figura del Defensor al Ciudadano
                         </div>
                     </a>
                 </div>
@@ -186,7 +205,7 @@
     </div>
     <div class="final">
 
-</div>
+    </div>
 </div>
 <style>
     .s3 .parrafos {
