@@ -89,8 +89,8 @@
         </div>
         <div class='row'>
             <div class='col-xs-12 col-sm-4 col-sm-offset-4'>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScmgB5MsnEkvTx2UWRSiAiho98YqBE_BSeQX__3yuhyBe_1Rw/viewform">
-                    
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdu3_YxQeIvzSsWJ-mBqpDgA-M1E6vjwJQDB-yfe9cphY3DSA/viewform">
+
                     <div>
                         <div class="btn-form">
                             Inscribete aquí
@@ -130,7 +130,7 @@
         .s1 .btn-form:hover {
             background-color: #A6B517;
             color: rgba(0, 0, 0, 1);
-       
+
         }
 
         .s1 a {
