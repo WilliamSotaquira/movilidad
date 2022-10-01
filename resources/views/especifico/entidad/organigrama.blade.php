@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-08-2022/organigrama_2022_agosto.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/organigrama_sept_2022.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -38,20 +38,20 @@
         <div class="row">
             <div class="col-xs-12 col-sm-4 text-center">
                 <div class="img-perfil w-100">
-                    <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/felipeandresramirez.webp" alt="Felipe Andrés Ramírez - Secretario Distrital de Movilidad">
+                    <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2022/deyaniraavilamoreno.png" alt="Deyanira Ávila Moreno - Secretario Distrital de Movilidad">
                 </div>
             </div>
             <div class="col-xs-12 col-sm-8 ">
                 <div class="descripcion">
-                    <h1>Felipe Andrés Ramírez</h1>
-                    <h4>Secretario Distrital de Movilidad</h4>
+                    <h1> Deyanira Ávila Moreno</h1>
+                    <h4>Secretaria Distrital de Movilidad</h4>
                     <div class="descripcion-xs">
-                        <p>Tiene 37 años es Ingeniero Civil e Industrial de la Universidad de los Andes, donde realizó su maestría en Ingeniería Civil. Complementó su formación académica en el London School of Economics and Political Science con una maestría en planeación regional y urbana. En esta institución fue becado y se desempeñó como asistente de investigación.</p>
-                        <p>En el campo profesional, cuenta con más de 12 años de experiencia desarrollando proyectos del sector transporte en Colombia, Perú, México, Panamá y Londres. Se destaca, entre sus cualidades, su amplio conocimiento en los temas de movilidad y específicamente de Bogotá gracias al trabajo que desempeñó en TRANSMILENIO S.A. durante seis años donde inició como Asesor de Gerencia, fue Subgerente Técnico y de Servicios y, finalmente estuvo en la Gerencia de la organización durante dos años.</p>
-                        <p>Su paso por la Gerencia General de TRANSMILENIO S.A. estuvo marcado por los grandes retos que tuvo que asumir y su liderazgo en proyectos de renovación del sistema, innovando en los procesos de estructuración para lograr la adquisición de flota ambientalmente sostenible y de tecnología eléctrica más grande de Latinoamérica.</p>
-                        <p>Bajo su liderazgo se garantizó la prestación del servicio de transporte público con todas las medidas de bioseguridad durante la emergencia sanitaria causada por el Covid-19, que se convirtieron en buenas prácticas para toda la ciudad.</p>
-                        <p>Encabezó la reingeniería del transporte público con la vinculación de 1.770 buses nuevos de cero y bajas emisiones, dirigió la nueva señalética del sistema y la ampliación de las estaciones del componente troncal, entre otras.</p>
-                        <p>A la Secretaría llega a impulsar grandes proyectos que impactarán positivamente la vida de los ciudadanos, como el Operador Público de Transporte, Estacionamiento en Vía, la recuperación del espacio público y la consolidación de la cofinanciación de la Segunda Línea del Metro y de las obras del Borde Occidental.</p>
+                        <p>La Secretaria Distrital de Movilidad es Ingeniera Catastral y Geodesta de la Universidad Distrital Francisco José de Caldas. Tiene además una especialización en Gestión Ambiental Urbana de la Universidad Piloto de Colombia.</p>
+                        <p>Se ha desempeñado como auditora en Seguridad Vial del Instituto de Recursos Mundiales (WRI por las siglas en inglés de World Resources Institute), auditora Interna en Sistemas de Gestión de la Calidad ISO 9001:2015.</p>
+                        <p>Con más de 10 años de experiencia en el sector público ha trabajado en entidades como el Instituto de Desarrollo Urbano (IDU), Catastro Distrital y Metro de Bogotá.</p>
+                        <p>Se desempeñó como la primera Subdirectora de la Bicicleta y el Peatón en Bogotá, siendo la encargada de la planeación, implementación y seguimiento de las políticas, acciones, programas y proyectos en torno al transporte no motorizado en sus componentes de cicloinfraestructura, promoción, sensibilización, sistemas de transporte basados en la bicicleta y sus servicios y proyectos complementarios.</p>
+                        <p>Bajo su liderazgo, Bogotá alcanzó importantes logros en términos de movilidad sostenible como la expedición de la Política Pública de la Bicicleta, la estructuración del Sistema de Bicicletas Compartidas y la implementación de 84 km de ciclovías temporales en temporada de pandemia, algunas de las cuales se convirtieron en ciclorrutas permanentes como la Carrera Séptima, Carrera Novena y Calle 13.</p>
+                        <p>También se desempeñó como Directora (e) de Planeación para la Movilidad teniendo a su cargo proyectos de movilidad sostenible, urbanismo táctico, transporte público y privado.</p>
                     </div>
 
 
@@ -276,17 +276,19 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2020/adriana-iza.jpg" alt="Foto: Adriana Ruth Iza Certuche" title="Foto: Adriana Ruth Iza Certuche">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/dianaconstanzabarretoserrada.png" alt="Foto: Diana Constanza Barreto Serrada" title="Foto: Diana Constanza Barreto Serrada">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <div>
-                                                                <h1>Adriana Ruth Iza Certuche</h1>
-                                                                <h4>Jefe Oficina de Gestión Social (e)</h4>
+                                                                <h1>Diana Constanza Barreto Serrada</h1>
+                                                                <h4>Jefe Oficina de Gestión Social</h4>
                                                             </div>
                                                             <div class="descripcion-xs">
-                                                                <p>Es administradora de empresas, tiene un máster en Estudios Políticos de la Universidad Javeriana y una especialización en Evaluación Social de Proyectos de la Universidad de los Andes. Por seis años fue Directora de Estudios Sectoriales de la Secretaría de Movilidad, y ahora es la jefe de Gestión Social. Además fue coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue gerente de Cluster de confecciones alrededor de cuatro años.</p>
+                                                                <p>Magíster y Especialista en Gerencia Social, Licenciada en Educación con amplia experiencia en el sector público. Trabajó en la Secretaría de Integración Social, desempeñando funciones de coordinación, planeación, fortalecimiento, desarrollo y evaluación de proyectos sociales, tomando en cuenta la responsabilidad social para el desarrollo integral de las comunidades y aportando estrategias que contribuyen a la disminución de la brecha social.</p>
+                                                                <p>Además, cuenta con trayectoria en el sector educativo como líder de área, lo que le permitió el acercamiento a diversas poblaciones, entre las que se encuentran el trabajo con persona mayor en la promoción del envejecimiento activo y con niños, niñas y adolescentes, en procesos de inclusión a través de la cultura, la recreación y el deporte.</p>
+                                                                <p>Desde su gestión, espera fortalecer los procesos de participación social con los diferentes actores que permitan concienciar a los ciudadanos en temas de movilidad sostenible, visibilizar los procesos que se realizan desde la Oficina de Gestión Social como cabeza del sector y fomentar nuevos proyectos sociales en relación a la política pública del peatón acuerdo 836 de 2022, entre otros.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -415,7 +417,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/alba_enidia_villamil_munoz.webp" alt="Foto: Alba Enidia Villamil Muñoz" title="Foto: Alba Enidia Villamil Muñoz">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/alba_enidia_villamil_munoz.png" alt="Foto: Alba Enidia Villamil Muñoz" title="Foto: Alba Enidia Villamil Muñoz">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -496,17 +498,18 @@
 
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
-                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_susanamorales.png" alt="Foto: Susana Morales" title="Foto: Susana Morales">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/oscarjuliangomezcortes.png" alt="Foto: Oscar Julián Gómez Cortés" title="Foto: Oscar Julián Gómez Cortés">
                                     </div>
                                 </div>
 
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
-                                        <h1>Susana Morales</h1>
-                                        <h4>Subsecretaría de Política de Movilidad (e)</h4>
+                                        <h1>Oscar Julián Gómez Cortés</h1>
+                                        <h4>Subsecretario de Política de Movilidad </h4>
                                         <div class="descripcion-xs">
-                                            <p>Arquitecta de la Universidad de los Andes, especialista en Diseño Urbano de la Universidad Nacional de Colombia y Magister en Planeamiento Urbano y Políticas Territoriales del Politécnico de Milán. Cuenta con más de 13 años de experiencia en el sector público y privado en dirección, estructuración y gestión de proyectos territoriales y de movilidad, contratación pública, diseño urbano y desarrollo orientado por el transporte sostenible.</p>
-                                            <p>Ha coordinado proyectos de ciudad, y grandes eventos de contenido internacional. Se ha desempeñado como asesora de la Dirección General en el Instituto de Desarrollo Urbano, IDU, coordinadora del componente urbano del programa Ciudades Sostenibles y Competitivas de Findeter, directora de operaciones estratégicas en la Secretaría Distrital de Planeación, entre otros. Es docente de la Maestría de Ciudades Inteligentes de la Universidad Externado de Colombia.</p>
+                                            <p>Ingeniero civil y magíster en ingeniería de transporte de la Universidad Nacional de Colombia, con especialización en finanzas de la Universidad Externado de Colombia. Su investigación se enfocó en la modelación financiera de tecnologías vehiculares eléctricas, gas y diésel.</p>
+                                            <p>Apasionado por la estructuración e implementación técnica y financiera de proyectos de transporte y logística, con amplia experiencia en el sector público en el análisis de la economía del transporte y mejora regulatoria.</p>
+                                            <p>Fue director de infraestructura y vehículos de la Agencia Nacional de Seguridad Vial; subdirector de movilidad y transporte urbano del Departamento Nacional de Planeación; asesor del Ministerio de Transporte; consultor del Banco Interamericano de Desarrollo; entre otros.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -540,7 +543,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-02-2022/alimarbenitezmolina.webp" alt="Alimar Benítez Molina" title="Alimar Benítez Molina">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/alimarbenitezmolina.png" alt="Alimar Benítez Molina" title="Alimar Benítez Molina">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -589,24 +592,7 @@
                                             <div class='panel-body-mapa'>
 
 
-                                                <div class="row">
-                                                    <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/deyaniraconsueloavilamoreno.webp" alt="Foto: Deyanira Consuelo Avila Moreno" title="Foto: Deyanira Consuelo Avila Moreno">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-8 ">
-                                                        <div class="descripcion">
-                                                            <h1>Deyanira Consuelo Avila Moreno</h1>
-                                                            <h4>Directora de Planeación para la Movilidad</h4>
-                                                            <div class="descripcion-xs">
-                                                                <p>Es ingeniera catastral y geodesta de la Universidad Distrital Francisco José de Caldas, Especialista en Gestión Ambiental Urbana de la Universidad Piloto de Colombia, auditora en Seguridad Vial del WRI, auditora interna en Sistemas de Gestión de la Calidad ISO 9001:2015.</p>
-                                                                <p>Con más de 20 años de experiencia en el sector público, ha desempeñado cargos como Subdirectora de la Bicicleta y el Peatón en la SDM, Gerente de la Bicicleta de Bogotá y Subgerente de Gestión del Suelo de la Empresa Metro de Bogotá. Adicionalmente, ha prestado los servicios profesionales en entidades como el IDU, Catastro Distrital, la SDM y ha impartido cátedra en Urbanismo Táctico en la Universidad Externado de Colombia en la Maestría de Ciudades Inteligentes.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!-- 
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
@@ -623,7 +609,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div> -->
+                                                </div>
 
                                                 <div class='panel-group' id='accordionSPM_DPM' role='tablist ' aria-multiselectable='true'>
 
@@ -652,7 +638,7 @@
 
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2022/rafaelalbertogonzalezrodriguez.webp" alt="Rafael Alberto González Rodríguez">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/rafaelalbertogonzalezrodriguez.png" alt="Rafael Alberto González Rodríguez">
                                                                             </div>
                                                                         </div>
 
@@ -885,7 +871,7 @@
 
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
-                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-02-2022/nicolas_adolfo_correal.webp" alt="Nicolás Adolfo Correal" title="Nicolás Adolfo Correal">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/nicolas_adolfo_correal.png" alt="Nicolás Adolfo Correal" title="Nicolás Adolfo Correal">
                                     </div>
                                 </div>
 
@@ -1191,7 +1177,7 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_sandrapatriciagiraldoclavijo.jpg" alt="Foto: Sandra Patricia Giraldo Clavijo" title="Foto: Sandra Patricia Giraldo Clavijo">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/sandragiraldo.png" alt="Foto: Sandra Patricia Giraldo Clavijo" title="Foto: Sandra Patricia Giraldo Clavijo">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
@@ -1265,7 +1251,10 @@
                                                                                 <h1>Jack Hurtado</h1>
                                                                                 <h4>Subdirector de Control de Tránsito y Transporte</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p></p>
+                                                                                    <p>Ingeniero Industrial de la Universidad Central, Magíster en Ingeniería Civil con Énfasis en Tránsito y Transporte de la Escuela Colombiana de Ingeniería Julio Garavito.</p>
+                                                                                    <p>Cuenta con 7 años de experiencia en temáticas asociadas al tránsito y transporte, dirección de personal, diseño e implementación de actividades de control, programación y asignación de recursos, operación de sistemas de préstamo de bicicletas y orientación de tránsito en aglomeraciones de público. Todas estas actividades desarrolladas en campo, buscando proporcionar mejoras a las condiciones de movilidad de los diferentes actores viales.</p>
+                                                                                    <p>Ingresó a la Secretaría Distrital de Movilidad en el 2008 como guía en bicicleta hasta el 2012. Desde mediados del 2015 laboró como profesional de la DCV en el programa ruta pila, trabajando temas relacionados al control del transporte y el servicio especial a tricimotores.</p>
+                                                                                    <p>Para su gestión como subdirector, asume como reto el lograr que el cuerpo de agentes civiles se afiance y crezca para suplir las necesidades de la ciudad en términos de control al tránsito y transporte.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1470,7 +1459,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/anamariacorredor.webp" alt="Foto: Ana María Corredor" title="Foto: Ana María Corredor">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/anamariacorredor.png" alt="Foto: Ana María Corredor" title="Foto: Ana María Corredor">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -1506,13 +1495,13 @@
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
 
-                                                                    <!-- 
+                                                                    <!--
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2020/johana-catalina-latorre.jpg" alt="">
                                                                             </div>
-                                                                        </div> 
+                                                                        </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Johana Catalina Latorre Alarcón</h1>
@@ -1577,7 +1566,7 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2020/carol-pinzon.jpg" alt="">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2022/carolangiepinzonruiz.png" alt="Carol Angie Pinzón Ruiz">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
@@ -1652,7 +1641,7 @@
                             <div class="row">
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
-                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-02-2022/pauloandresrincongaray.webp" alt="Paulo Andrés Rincón Garay" title="Paulo Andrés Rincón Garay">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/pauloandresrincongaray.png" alt="Paulo Andrés Rincón Garay" title="Paulo Andrés Rincón Garay">
                                     </div>
                                 </div>
                                 <div class="col-xs-12 col-sm-8 ">
@@ -1733,7 +1722,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/nataliacatalinacogollouyaban.webp" alt="Natalia Catalina Cogollo Uyaban" title="Natalia Catalina Cogollo Uyaban">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/johannapaolarestreposierra.png" alt="Natalia Catalina Cogollo Uyaban" title="Natalia Catalina Cogollo Uyaban">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -1775,7 +1764,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/johannapaolarestreposierra.webp" alt="Foto: Johanna Paola Restrepo Sierra" title="Foto: Johanna Paola Restrepo Sierra">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/johannapaolarestreposierra.png" alt="Foto: Johanna Paola Restrepo Sierra" title="Foto: Johanna Paola Restrepo Sierra">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -1834,7 +1823,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-02-2022/hernancortes.webp" alt="Hernan Sebastian Cortés Osorio" title="Hernan Sebastian Cortés Osorio">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/hernancortes.png" alt="Hernan Sebastian Cortés Osorio" title="Hernan Sebastian Cortés Osorio">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -1952,7 +1941,7 @@
                                                                 <p>Es administradora de empresas y con especialización en Finanzas y Administración Pública de la Universidad Militar Nueva Granada. Es líder de la política de derechos humanos y empresa del sector de comercio, industria y turismo. Líder en temas de responsabilidad social, derechos humanos y manager en la gestión de la conciliación de EFR (Empresa Familiarmente Responsable), de la fundación MAS Familia de España.</p>
                                                                 <p>También está certificada como Auditoria de Calidad Seguridad y Salud en el Trabajo y el Medio Ambiente y tiene cursos en gestión de proyectos.</p>
                                                                 <p>Por espacio de 10 años estuvo al servicio de la Superintendencia de Industria y Comercio, donde se desempeñó en la Secretaría General, apoyando todos los procesos de talento humano, gestión documental, financiera y recursos físicos, entre otros.</p>
-                                                                
+
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2024,7 +2013,7 @@
                                                                     <!-- <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/neyfi_rubiela_martinez_guauta.webp" alt="Foto de Neyfi Rubiela Martinez">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/neyfi_rubiela_martinez_guauta.png" alt="Foto de Neyfi Rubiela Martinez">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
@@ -2044,7 +2033,7 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-04-2022/sandramilenavargasjurado.webp" alt="Sandra Milena Vargas Jurado" title="Sandra Milena Vargas Jurado">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/sandramilenavargasjurado.png" alt="Sandra Milena Vargas Jurado" title="Sandra Milena Vargas Jurado">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
