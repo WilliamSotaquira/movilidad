@@ -129,7 +129,6 @@
                                         <table class="table table-bordered table-striped" style="width: 940px;">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -167,7 +166,6 @@
                                         <table class="table table-bordered table-striped" style="width: 940px;">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -203,7 +201,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -239,7 +236,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -275,7 +271,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -311,7 +306,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -347,7 +341,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -383,7 +376,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -419,7 +411,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -455,7 +446,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -491,7 +481,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -528,7 +517,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -566,7 +554,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -603,7 +590,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -640,7 +626,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -676,7 +661,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -712,7 +696,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -748,7 +731,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -784,7 +766,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -820,7 +801,6 @@
                                         <table class="table table-bordered table-striped">
                                             <tr>
                                                 <th width="17%">Nombres y Apellidos (Ciudadano - Ciudadana)</th>
-                                                <th width="15%">Teléfono</th>
                                                 <th width="15%">Correo Electrónico</th>
                                                 <th width="15%">Nombre de la Asociación, Grupos de interes, o Agremiación</th>
                                                 <th width="15%">Grupo Poblacional al que pertenece</th>
@@ -12412,7 +12392,7 @@
     function cargarTablaUsaquen(data) {
         var tabla = document.getElementById("usaquen")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12421,7 +12401,7 @@
     function cargarTablaChapinero(data) {
         var tabla = document.getElementById("chapinero")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12431,7 +12411,7 @@
     function cargarTablaSantafe(data) {
         var tabla = document.getElementById("santafe")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12441,7 +12421,7 @@
     function cargarTablaSancristoal(data) {
         var tabla = document.getElementById("sancristobal")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12451,7 +12431,7 @@
     function cargarTablaUsme(data) {
         var tabla = document.getElementById("usme")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12461,7 +12441,7 @@
     function cargarTablaTunjuelito(data) {
         var tabla = document.getElementById("tunjuelito")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12471,7 +12451,7 @@
     function cargarTablaBosa(data) {
         var tabla = document.getElementById("bosa")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12481,7 +12461,7 @@
     function cargarTablaKennedy(data) {
         var tabla = document.getElementById("kennedy")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12491,7 +12471,7 @@
     function cargarTablaFontibon(data) {
         var tabla = document.getElementById("fontibon")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12501,7 +12481,7 @@
     function cargarTablaEngativa(data) {
         var tabla = document.getElementById("engativa")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12511,7 +12491,7 @@
     function cargarTablaSuba(data) {
         var tabla = document.getElementById("suba")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12521,7 +12501,7 @@
     function cargarTablaSuba(data) {
         var tabla = document.getElementById("suba")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12531,7 +12511,7 @@
     function cargarTablaBarriosunidos(data) {
         var tabla = document.getElementById("barriosUnidos")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12541,7 +12521,7 @@
     function cargarTablaTeusaquillo(data) {
         var tabla = document.getElementById("teusaquillo")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12552,7 +12532,7 @@
     function cargarTablaMartires(data) {
         var tabla = document.getElementById("martires")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12562,7 +12542,7 @@
     function cargarTablaAntonionarino(data) {
         var tabla = document.getElementById("antonioNarino")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12572,7 +12552,7 @@
     function cargarTablaPuentearanda(data) {
         var tabla = document.getElementById("puenteAranda")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12582,7 +12562,7 @@
     function cargarTablaCandelaria(data) {
         var tabla = document.getElementById("candelaria")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12592,7 +12572,7 @@
     function cargarTablaRafaeluu(data) {
         var tabla = document.getElementById("rafaelUU")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12602,7 +12582,7 @@
     function cargarTablaCiudadbolivar(data) {
         var tabla = document.getElementById("ciudadBolivar")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
@@ -12612,7 +12592,7 @@
     function cargarTablaSumapaz(data) {
         var tabla = document.getElementById("sumapaz")
         for (let i = 0; i < data.length; i++) {
-            var row = `<tr><td>${data[i].nombre}</td><td><a href="tel:+57${data[i].telefono}">${data[i].telefono}</a></td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
+            var row = `<tr><td>${data[i].nombre}</td><td><a href="mailto:${data[i].correo}">${data[i].correo}</a></td><td>${data[i].gremio}</td><td>${data[i].poblacion}</td><td>${data[i].territorio}</td></tr>`
             tabla.innerHTML += row
         }
     }
