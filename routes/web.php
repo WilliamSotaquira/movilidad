@@ -41,6 +41,7 @@ Route::view('/plantillas/tabla', 'plantillas/tabla');
 Route::view('/plantillas/tabs', 'plantillas/tabs');
 Route::view('/plantillas/btn-dinamico', 'plantillas/btn-dinamico');
 Route::view('/plantillas/verticalTabs', 'plantillas/verticalTabs');
+Route::view('/plantillas/temp-botones', 'plantillas/temp-botones');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Tramites y Servicios
 Route::view('/atencionServicio/home', 'atencionServicio/home');
@@ -155,7 +156,7 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2021/diciembre/esquemaPublicacion', '2021/diciembre/esquemaPublicacion');
     Route::view('/2021/diciembre/formulario', '2021/diciembre/formulario');
 
-    
+
 // fin 2021
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2022
@@ -182,43 +183,42 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/02/ambiental', '2022/02/ambiental');
     Route::view('/2022/02/efr', '2022/02/efr');
     Route::view('/2022/02/vus', '2022/02/vus');
-    
+
     // Contenido marzo 2022
-    
+
     Route::view('/2022/03/bicicarga_resultados', '2022/03/bicicarga_resultados');
     Route::view('/2022/03/motociclistas', '2022/03/motociclistas');
     Route::view('/2022/03/planMarshall', '2022/03/planMarshall');
-    
+
     // Contenido abril 2022
-    
+
     Route::view('/2022/04/contraflujo', '2022/04/contraflujo');
     Route::view('/2022/04/milagros', '2022/04/milagros');
     Route::view('/2022/04/prevencionVial', '2022/04/prevencionVial');
-    
+
     // Contenido mayo 2022
-    
+
     Route::view('/2022/05/barriosVitales', '2022/05/barriosVitales');
     Route::view('/2022/05/excepcionesSalud', '2022/05/excepcionesSalud');
-    
+
     // Contenido junio 2022
     Route::view('/2022/06/construyendo', '2022/06/construyendo');
     Route::view('/2022/06/comparendos', '2022/06/comparendos');
     Route::view('/2022/06/acuerdos', '2022/06/acuerdos');
     Route::view('/2022/06/parking', '2022/06/parking');
-    
+
     // Contenido julio 2022
     Route::view('/2022/07/piezaEncuesta', '2022/07/piezaEncuesta');
     Route::view('/2022/07/CLMinfantil', '2022/07/CLMinfantil');
     Route::view('/2022/07/cicliviasTemporales', '2022/07/cicliviasTemporales');
     Route::view('/2022/07/runt', '2022/07/runt');
-    Route::view('/2022/07/sisben', '2022/07/sisben');
     Route::view('/2022/07/agendas', '2022/07/agendas');
     Route::view('/2022/07/excelencia', '2022/07/excelencia');
     Route::view('/2022/07/mesTaxitas', '2022/07/mesTaxitas');
     Route::view('/2022/07/bloomberg', '2022/07/bloomberg');
     Route::view('/2022/07/1730', '2022/07/1730');
-    
-    // Contenido julio 2022
+
+    // Contenido agosto 2022
     Route::view('/2022/08/seAgente', '2022/08/seAgente');
     Route::view('/2022/08/normatividadZZP', '2022/08/normatividadZZP');
     Route::view('/2022/08/preguntasZPP', '2022/08/preguntasZPP');
@@ -228,9 +228,22 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/08/convocatoriaMujer', '2022/08/convocatoriaMujer');
     Route::view('/2022/08/controlSocial', '2022/08/controlSocial');
     Route::view('/2022/08/adolecentes', '2022/08/adolecentes');
-    
+
     Route::view('/2022/08/participacion', '2022/08/participacion');
     Route::view('/2022/08/centrosLocales', '2022/08/centrosLocales');
     Route::view('/2022/08/pip', '2022/08/pip');
     Route::view('/2022/08/rendicion', '2022/08/rendicion');
     Route::view('/2022/08/agendasParticipativas', '2022/08/agendasParticipativas');
+
+    // Contenido agosto 2022
+    Route::view('/2022/09/cuentaRegresiva', '2022/09/cuentaRegresiva');
+    Route::view('/2022/09/bannerDinamico', '2022/09/bannerDinamico');
+    Route::view('/2022/09/bicicarga', '2022/09/bicicarga');
+    Route::view('/2022/09/politicas', '2022/09/politicas');
+    Route::view('/2022/09/semanaBici', '2022/09/semanaBici');
+    Route::view('/2022/09/sisben', '2022/09/sisben');
+    Route::view('/2022/09/sinCarro', '2022/09/sinCarro');
+    Route::view('/2022/09/seguridadVial', '2022/09/seguridadVial');
+    Route::view('/2022/09/biciCompartida', '2022/09/biciCompartida');
+
+
