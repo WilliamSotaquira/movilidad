@@ -182,15 +182,19 @@
 									<div aria-labelledby="headingDosUno" class="panel-collapse collapse" id="collapseDosUno" role="tabpanel">
 										<div class="panel-body">
 											<ol>
-												<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.1.</span>Leyes</a></li>
-												<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.2.</span>Decreto Único Reglamentario</a></li>
-												<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.3.</span>Normativa aplicable</a></li>
+												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.1.</span>Leyes</a></li>
+												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.2.</span>Decreto Único Reglamentario</a></li>
+												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.3.</span>Normativa aplicable</a></li>
 												<li><a href="https://registrodistrital.secretariageneral.gov.co/publico/actos-administrativos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.4.</span>Vínculo al Diario o Gaceta Oficial.</a></li>
 												<li><span class="enfasis_num">2.1.5.</span>Políticas, lineamientos y manuales.
 													<ul>
-														<li><a href="https://www.movilidadbogota.gov.co/web/politicas_lineamientos_y_manuales" rel="noopener noreferrer" target="_blank">Políticas, lineamientos y manuales</a></li>
+                                                        <!--<li><a href="https://www.movilidadbogota.gov.co/web/politicas_lineamientos_y_manuales" rel="noopener noreferrer" target="_blank">Políticas, lineamientos y manuales</a></li>Enlace Obsoleto-->
+														<li><a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales" rel="noopener noreferrer" target="_blank">Políticas Públicas Distritales</a></li>
+														<li><a href="https://www.movilidadbogota.gov.co/web/politicas_internas_y_lineamientos_sdm" rel="noopener noreferrer" target="_blank">Políticas Internas y Lineamientos SDM</a></li>
+														<li><a href="https://www.movilidadbogota.gov.co/web/manuales_sdm" rel="noopener noreferrer" target="_blank">Manuales</a></li>
+														<li><a href="https://www.movilidadbogota.gov.co/web/protocolos" rel="noopener noreferrer" target="_blank">Protocolos</a></li>
+
 														<li><a href="https://www.movilidadbogota.gov.co/web/POLITICAS_DE_SEGURIDAD_Y_PROTECCION_DE_DATOS_PERSONALES" rel="noopener noreferrer" target="_blank">Manual y políticas de seguridad de la información</a></li>
-														<li><a href="https://www.movilidadbogota.gov.co/web/protocolos_eticos" rel="noopener noreferrer" target="_blank">Protocolos éticos</a></li>
 														<li><a href="https://www.movilidadbogota.gov.co/web/conceptos-juridicos" rel="noopener noreferrer" target="_blank">Conceptos Jurídicos Secretaria Distrital de Movilidad</a></li>
 														<li><a href="https://www.movilidadbogota.gov.co/web/Plan%20Sectorial" rel="noopener noreferrer" target="_blank">Plan estratégico sectorial</a></li>
 													</ul>
@@ -217,7 +221,7 @@
 										<div class="panel-body">
 											<ol>
 												<li><a href="http://www.suin-juriscol.gov.co/" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.2.1.</span>Sistema Único de Información Normativa – SUIN</a></li>
-												<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2021/copia_de_formato_matriz_17_09_2021.xlsx" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.2.2.</span>Sistema de búsquedas de normas, propio de la entidad.</a></li>
+												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.2.2.</span>Sistema de búsquedas de normas, propio de la entidad.</a></li>
 											</ol>
 										</div>
 									</div>
@@ -317,7 +321,7 @@
 										<ul>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_gestion" rel="noopener noreferrer" target="_blank">Informe de Gestión</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/reportes_de_control_interno" rel="noopener noreferrer" target="_blank">Informe de rendición de cuentas ante la Contraloría General de la República, o a los organismos de Contraloría o Control territoriales</a></li>
-											<li><a href="https://www.movilidadbogota.gov.co/web/informes-rendicion-cuentas" rel="noopener noreferrer" target="_blank">Informe de rendición de cuentas a la ciudadanía</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/informes-rendicion-cuentas" rel="noopener noreferrer" target="_blank">Proceso de Rendición de Cuentas</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_entes_de_control" rel="noopener noreferrer" target="_blank">Informes a organismos de inspección, vigilancia y control</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/reportes_de_control_interno" rel="noopener noreferrer" target="_blank">Planes de mejoramiento</a></li>
 										</ul>
@@ -446,14 +450,15 @@
 									</li>
 									<li><a href="#"><span class="enfasis_num">8.2.</span>Información para Mujeres</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/informacion-poblacion-vulnerable"><span class="enfasis_num">8.3.</span>Información para población vulnerable</a></li>
-									<!-- <li><a href="#" target="_blank" rel="noopener noreferrer">8.3 Informes rendición de cuentas construcción de paz</a></li>
-                <li><a href="#" target="_blank" rel="noopener noreferrer">8.4 Informes de los indicadores de grupos étnicos de paz</a></li> -->
-									<li><span class="enfasis_num">8.4.</span>Otros Idiomas:
+                                    <li><a href="https://www.movilidadbogota.gov.co/web/programas-sociales" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.4.</span>Programas Sociales</a></li>
+
+									<li><span class="enfasis_num">8.5.</span>Otros Idiomas:
 										<ol>
 											<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-11-2020/idioma_kichwa.pdf" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.4.1.</span>Idioma Kichwa</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-12-2020/idioma-muisca.pdf" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.4.2.</span>Idioma Muisca</a></li>
 										</ol>
 									</li>
+
 								</ol>
 							</div>
 						</div>
@@ -480,7 +485,7 @@
 											<li><a href="https://www.movilidadbogota.gov.co/web/balance_anual_de_los_consejos_locales_de_la_bicicleta" rel="noopener noreferrer" target="_blank">Balance anual de los Consejos Locales de la Bicicleta</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/libros_y_cartillas" rel="noopener noreferrer" target="_blank">Libros y cartillas</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019" rel="noopener noreferrer" target="_blank">Encuesta de Movilidad - La Movilidad en Datos </a></li>
-											
+
 										</ul>
 									</li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/eliminaciones_documentales_trd" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.2.</span>Eliminaciones Documentales - TRD</a></li>
@@ -658,7 +663,7 @@
 		margin-top: 4px;
 	}
 
-	
+
 	.s2 ol>li {
 		margin-top: 10px;
 	}
