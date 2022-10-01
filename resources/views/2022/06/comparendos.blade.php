@@ -6,6 +6,7 @@
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <!-- Set Wrapper -->
+<hr>
 <div class='container-fluid comparendos'>
     <div class='box-wrp'>
         <div class='box-head'>
@@ -73,84 +74,6 @@
                 margin: 5px;
             }
         </style>
-        <div class="box-sliders">
-            <div class='row'>
-                <!-- xs -->
-                <div class='col-xs-12 visible-xs-12 visible-xs-block'>
-                    <!-- Carousel carousel_comparendos_xs -->
-                    <div class='box-carousel'>
-                        <div id='carousel_comparendos_xs' class='carousel slide' data-ride='carousel' data-interval="12000">
-                            <!-- Indicators -->
-                            <ol class='carousel-indicators'>
-                                <li data-target='#carousel_comparendos_xs' data-slide-to='0' class='active'></li>
-                                <li data-target='#carousel_comparendos_xs' data-slide-to='1'></li>
-                            </ol>
-
-                            <!-- Wrapper for slides -->
-                            <div class='carousel-inner'>
-                                <div class='item active'>
-                                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/16-06-2022/gif_1_800_x_800.gif' alt='' title=''>
-                                </div>
-                                <div class='item'>
-                                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/16-06-2022/gif_2_800_x_800.gif' alt='' title=''>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class='left carousel-control' href='#carousel_comparendos_xs' data-slide='prev'>
-                                <span class='glyphicon glyphicon-chevron-left'></span>
-                                <span class='sr-only'>Anterior</span>
-                            </a>
-                            <a class='right carousel-control' href='#carousel_comparendos_xs' data-slide='next'>
-                                <span class='glyphicon glyphicon-chevron-right'></span>
-                                <span class='sr-only'>Siguiente</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <!-- lg -->
-                <div class='col-sm-12 hidden-xs'>
-                    <!-- Carousel carousel_comparendos_lg -->
-                    <div class='box-carousel'>
-                        <div id='carousel_comparendos_lg' class='carousel slide' data-ride='carousel' data-interval="12000">
-                            <!-- Indicators -->
-                            <ol class='carousel-indicators'>
-                                <li data-target='#carousel_comparendos_lg' data-slide-to='0' class='active'></li>
-                                <li data-target='#carousel_comparendos_lg' data-slide-to='1'></li>
-                            </ol>
-
-                            <!-- Wrapper for slides -->
-                            <div class='carousel-inner'>
-                                <div class='item active'>
-                                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/16-06-2022/gif_1_940_x_450.gif' alt='' title=''>
-                                </div>
-                                <div class='item'>
-                                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/16-06-2022/gif_2_940_x_450_1.gif' alt='' title=''>
-                                </div>
-                            </div>
-
-                            <!-- Left and right controls -->
-                            <a class='left carousel-control' href='#carousel_comparendos_lg' data-slide='prev'>
-                                <span class='glyphicon glyphicon-chevron-left'></span>
-                                <span class='sr-only'>Anterior</span>
-                            </a>
-                            <a class='right carousel-control' href='#carousel_comparendos_lg' data-slide='next'>
-                                <span class='glyphicon glyphicon-chevron-right'></span>
-                                <span class='sr-only'>Siguiente</span>
-                            </a>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <style>
-            .box-sliders {
-                margin-top: 30px;
-            }
-        </style>
         <hr>
         <div class="box-mensaje">
             <div class="label">
@@ -211,14 +134,7 @@
                 padding-bottom: 25px;
             }
         </style>
-        <div class="box-infografia">
-            <div class='imagen'>
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/infografiamorosostransito_2022_.jpg" target="_blank" rel="noopener noreferrer">
-                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/infografiamorosostransito_2022_.jpg' alt='' title=''>
-                </a>
-            </div>
-        </div>
-        <hr>
+
         <div class="box-acuerdo">
             <div class='imagen'>
                 <!-- <img class='img-responsive w-100' src='' alt='funcionario de la Secretaría Distrital de Movilidad realizando acuerdo de pago con ciudadanos' title='funcionario de la Secretaría Distrital de Movilidad realizando acuerdo de pago con ciudadanos'> -->
