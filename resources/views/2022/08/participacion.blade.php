@@ -68,14 +68,14 @@
             <hr>
         </div>
         <div class="box-botones">
-            <a href="https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad" target="_blank" rel="noopener noreferrer">
-                <div class="boton-clm zoom">
-                    <h4>Centros Locales de Movilidad</h4>
-                </div>
-            </a>
-            <a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" target="_blank" rel="noopener noreferrer">
+            <a class="featured" href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_locales" target="_blank" rel="noopener noreferrer">
                 <div class="boton-clm zoom">
                     <h4>Rendición de Cuentas Locales</h4>
+                </div>
+            </a>
+            <a class="featured" href="https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad" target="_blank" rel="noopener noreferrer">
+                <div class="boton-clm zoom">
+                    <h4>Centros Locales de Movilidad</h4>
                 </div>
             </a>
             <a href="https://www.movilidadbogota.gov.co/web/agendas_participativas" target="_blank" rel="noopener noreferrer">
@@ -86,6 +86,16 @@
             <a href="https://www.movilidadbogota.gov.co/web/grupos_de_valor_partes_interesadas_sdm" target="_blank" rel="noopener noreferrer">
                 <div class="boton-clm zoom">
                     <h4>Grupos de Valor - Partes Interesadas</h4>
+                </div>
+            </a>
+            <a href="https://www.movilidadbogota.gov.co/web/barrios_vitales" target="_blank" rel="noopener noreferrer">
+                <div class="boton-clm zoom">
+                    <h4>Barrios Vitales</h4>
+                </div>
+            </a>
+            <a href="https://www.movilidadbogota.gov.co/web/ferias_de_servicio_movil" target="_blank" rel="noopener noreferrer">
+                <div class="boton-clm zoom">
+                    <h4>Ferias de Servicio Móvil</h4>
                 </div>
             </a>
         </div>
@@ -239,6 +249,7 @@
     .box-botones .boton-clm:hover h4 {
         color: rgba(25, 25, 25, 1);
     }
+
 </style>
 
 <!-- Styles -->
@@ -246,6 +257,10 @@
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
+    }
+
+    .featured{
+       grid-column: span 2;
     }
 
     .region-content {
@@ -303,3 +318,5 @@
     @media(min-width:1200px) {}
 </style>
 <!-- End Styles -->
+
+Wilmer Caro Ruiz <wilmer.caro@circulemosdigital.com.co>
