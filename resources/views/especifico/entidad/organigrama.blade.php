@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/organigrama_sept_2022.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-10-2022/organigrama_oct_18_2022_a.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -165,18 +165,19 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_jadyperezcruz.png" alt="Foto: Jady Marina Pérez Cruz" title="Foto: Jady Marina Pérez Cruz">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/leydy_yohana_pineda_afanador.png" alt="Foto: Leydy Yohana Pineda Afanador" title="Foto: Leydy Yohana Pineda Afanador">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <div>
-                                                                <h1>Jady Marina Pérez Cruz</h1>
+                                                                <h1>Leydy Yohana Pineda Afanador</h1>
                                                                 <h4>Jefe Oficina de Tecnologías de la Información y las Comunicaciones</h4>
                                                             </div>
                                                             <div class="descripcion-xs">
-                                                                <p>Es especialista en Gerencia de Proyectos, tiene más de seis años de experiencia en formulación, evaluación, gestión en gerencia de proyectos de ingeniería tanto tecnológicos como de obra civil en el sector público y privado, así como gestión de personal y procesos de contratación estatal.</p>
-                                                                <p>Es ingeniería Electrónica de la Universidad de Ibagué, con especialización en Gerencia de Proyectos de la Universidad del Tolima. Su experiencia profesional se centra en áreas como telemetría, telemática, telecomunicaciones, medicina, control, sistemas de seguridad en el área de la electrónica. En la Secretaría Distrital de Movilidad estaba al frente del Proyecto de Sistema Inteligente de Transporte para Bogotá (SIT).</p>
+                                                                <p>Ingeniera de Sistemas y Especialista en Tecnologías Avanzadas en Desarrollo de Software de la Universidad Autónoma de Bucaramanga, capacitada para crear soluciones informáticas que conlleven a la satisfacción de las necesidades de las organizaciones, teniendo en cuenta la investigación, los estándares y tecnologías de punta.</p>
+                                                                <p>Tiene experiencia en el desarrollo, ejecución y seguimiento de proyectos software, así como en la planeación de los mismos. Trabajó como Jefe de la Oficina TICS en la Caja de la Vivienda Popular, además, laboró en diferentes entidades públicas como el Ministerio de Salud y Protección Social, el Instituto de Desarrollo Urbano - IDU y la Secretaría de Desarrollo Social y Económico de Piedecuesta - Santander.</p>
+                                                                <p>Se describe como una profesional proactiva encaminada al análisis, obtención de resultados de calidad y mejoramiento continuo; con habilidades como la administración de infraestructura, seguridad de la información y gestión de proyectos, entre otras, con las cuales espera aportar de manera significativa a la SDM.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1174,7 +1175,7 @@
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
 
-                                                                    <div class="row">
+                                                                    <!-- <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
                                                                                 <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/sandragiraldo.png" alt="Foto: Sandra Patricia Giraldo Clavijo" title="Foto: Sandra Patricia Giraldo Clavijo">
@@ -1192,24 +1193,24 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                    </div>
+                                                                    </div> -->
 
-                                                                    <!-- <div class="row">
-                                                    <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_sergioraultovarfarfan.jpg" alt="Foto: Sergio Raúl Tovar Farfán" title="Foto: Sergio Raúl Tovar Farfán">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-8 ">
-                                                        <div class="descripcion">
-                                                            <h1>Sergio Raúl Tovar Farfán</h1>
-                                                            <h4>Subdirector de Semaforización (e)</h4>
-                                                            <div class="descripcion-xs">
-                                                                <p>Ingeniero Civil y Magister con énfasis en Transporte de la Universidad de los Andes. Durante sus más de 10 años de trayectoria profesional se ha desempeñado en diferentes ámbitos relacionados con el análisis de sistemas de transporte, gestión de tráfico, planeación y modelación del transporte. Su experiencia en la Secretaría de Movilidad ha sido como Subdirector técnico de Gestión en Vía, así como contratista en temas de gestión y modelación de transporte. También, se ha desempeñado como docente universitario, consultor de la firma Steer y modelador y entrenador certificado de PTV en la Universidad de los Andes.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div> -->
+                                                                    <div class="row">
+                                                                        <div class="col-xs-12 col-sm-4 text-center">
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_sergioraultovarfarfan.jpg" alt="Foto: Sergio Raúl Tovar Farfán" title="Foto: Sergio Raúl Tovar Farfán">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="col-xs-12 col-sm-8 ">
+                                                                            <div class="descripcion">
+                                                                                <h1>Sergio Raúl Tovar Farfán</h1>
+                                                                                <h4>Subdirector de Semaforización (e)</h4>
+                                                                                <div class="descripcion-xs">
+                                                                                    <p>Ingeniero Civil y Magister con énfasis en Transporte de la Universidad de los Andes. Durante sus más de 10 años de trayectoria profesional se ha desempeñado en diferentes ámbitos relacionados con el análisis de sistemas de transporte, gestión de tráfico, planeación y modelación del transporte. Su experiencia en la Secretaría de Movilidad ha sido como Subdirector técnico de Gestión en Vía, así como contratista en temas de gestión y modelación de transporte. También, se ha desempeñado como docente universitario, consultor de la firma Steer y modelador y entrenador certificado de PTV en la Universidad de los Andes.</p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
 
                                                                 </div>
                                                             </div>
@@ -1638,6 +1639,7 @@
                         </div>
 
                         <div class='panel-body-mapa'>
+
                             <div class="row">
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
@@ -1658,6 +1660,7 @@
                                     </div>
                                 </div>
                             </div>
+
                         </div>
 
                         <div class="panel-body-mapa">
@@ -1722,7 +1725,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/johannapaolarestreposierra.png" alt="Natalia Catalina Cogollo Uyaban" title="Natalia Catalina Cogollo Uyaban">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-10-2022/nataliacatalinacogollouyaban.png" alt="Natalia Catalina Cogollo Uyaban" title="Natalia Catalina Cogollo Uyaban">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -1761,25 +1764,26 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
-                                                <div class="row">
-                                                    <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/johannapaolarestreposierra.png" alt="Foto: Johanna Paola Restrepo Sierra" title="Foto: Johanna Paola Restrepo Sierra">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-8 ">
-                                                        <div class="descripcion">
-                                                            <h1>Johanna Paola Restrepo Sierra</h1>
-                                                            <h4>Directora de Contratación</h4>
-                                                            <div class="descripcion-xs">
-                                                                <p>Abogada titulada de la Facultad de Derecho de la Universidad Manuela Beltrán, especialista en Contratación Pública y especialista en Gerencia en Gobierno y Gestión Pública.</p>
-                                                                <p>Ha trabajado en diferentes entidades del sector público a nivel nacional y distrital en materia de contratación, gestión pública y ejecución de proyectos, entre las que se encuentran: el Ministerio de Defensa Nacional, Secretaría de Educación y la Secretaría Distrital de Integración Social; así mismo, asesorando entidades como KOICA Agencia de Cooperación Internacional de Corea.</p>
-                                                                <p>Entre su experiencia también se destaca su labor como docente en la Universidad Jorge Tadeo Lozano y en la Universidad Popular del Cesar; su paso por la Superintendencia de la Economía Solidaria en los roles de jefe de oficina, secretaria general y asesora de despacho. Recientemente, apoyó todos los temas jurídicos de la Subgerencia Técnica y de Servicios de Transmilenio S.A.</p>
-                                                                <p>Entre el 2016 y el 2019 nos acompañó en la Secretaría Distrital de Movilidad como contratista y ahora, regresa a la Entidad con el compromiso de trabajar por Bogotá.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                   <div class="row">
+                                <div class="col-xs-12 col-sm-4 text-center">
+                                    <div class="img-perfil w-100">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/pauloandresrincongaray.png" alt="Paulo Andrés Rincón Garay" title="Paulo Andrés Rincón Garay">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12 col-sm-8 ">
+                                    <div class="descripcion">
+                                        <h1>Paulo Andrés Rincón Garay</h1>
+                                        <h4>Director de Contratación (e)</h4>
+                                        <div class="descripcion-xs">
+                                            <p>Es abogado de la Universidad Externado de Colombia, especialista en Derecho Administrativo y Administración Pública de la Universidad de Buenos Aires, Argentina, y actualmente se encuentra cursando una Maestría en Ciudades Inteligentes en la misma universidad de donde es egresado.</p>
+                                            <p>Cuenta con más de doce años de experiencia profesional asesorando jurídicamente al sector público y privado, en temas como regulación normativa y elaboración de política pública, derecho público, derecho de transporte, defensa judicial ante la jurisdicción contencioso administrativa, civil y laboral.</p>
+                                            <p>Trabajó como asesor del Despacho y también fue Director de Normatividad y Conceptos en la Secretaría Distrital de Movilidad. En la firma GGC Abogados y Financieros fue coordinador jurídico, alrededor de cinco años.</p>
+                                            <p>En Departamento para la Prosperidad Social trabajó en la Subdirección de Programas Especiales, Grupo Paz, Desarrollo y Estabilización.</p>
+                                            <p>También representó a la firma CGG Abogados y Financieros Ltda., en el Hospital Simón Bolívar, en la Gobernación de Caldas y en la Industria Licorera de Caldas.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
                                             </div>
                                         </div>
@@ -2096,7 +2100,7 @@
                                                             <div class="descripcion-xs">
                                                                 <p>Abogada con especialización en Derecho Administrativo, Derecho Penal y Ciencias Forenses; con estudios de Maestría en Derecho Penal.</p>
                                                                 <p>Gracias a sus 20 años de experiencia y formación conoce la normativa y elementos básicos de la legislación laboral; el diseño, elaboración, ejecución y celebración de programas, proyectos y contratos en la administración pública.</p>
-                                                                <p>Trabajó en la Contraloría de Bogotá donde desempeñó cargos como: Subdirectora Bienestar Social, Subdirectora de Jurisdicción Coactiva de la Dirección de Responsabilidad Fiscal y Jurisdicción Coactiva, y Subdirectora de Infraestructura de la Dirección de Movilidad. Además, estuvo vinculada a entidades como:  Personería de Bogotá, Fiscalía General de la Nación, Procuraduría General de la Nación y Tribunal Superior de Bogotá.</p>
+                                                                <p>Trabajó en la Contraloría de Bogotá donde desempeñó cargos como: Subdirectora Bienestar Social, Subdirectora de Jurisdicción Coactiva de la Dirección de Responsabilidad Fiscal y Jurisdicción Coactiva, y Subdirectora de Infraestructura de la Dirección de Movilidad. Además, estuvo vinculada a entidades como: Personería de Bogotá, Fiscalía General de la Nación, Procuraduría General de la Nación y Tribunal Superior de Bogotá.</p>
                                                                 <p>Asume este cargo con el objetivo de aportar desde su conocimiento al bienestar del talento humano de la Secretaría, pues está convencida de que el sentido de pertenencia de los colaboradores de la entidad es clave para lograr todos los objetivos propuestos.</p>
                                                             </div>
                                                         </div>
