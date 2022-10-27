@@ -46,7 +46,7 @@
 
                     <!-- Tab panes -->
                     <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane fade in active" id="tp_uno">
+                        <div role="tabpanel" class="tab-pane fade" id="tp_uno">
                             <div class="pane-box">
                                 <video controls='' style='width: 100%;'>
                                     <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/braile_alta_v2.mp4' type='video/mp4'>
@@ -67,11 +67,19 @@
                                 </video>
                             </div>
                         </div>
+                        <div role="tabpanel" class="tab-pane fade in active" id="tp_cuatro">
+                            <div class="pane-box">
+                                <video controls='' style='width: 100%;'>
+                                    <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/subtitulado_sst.mp4' type='video/mp4'>
+                                </video>
+                            </div>
+                        </div>
                     </div>
 
                     <!-- Nav tabs -->
                     <ul class="nav nav-tabs" role="tablist">
-                        <li role="presentation" class="active"><a href="#tp_uno" aria-controls="tp_uno" role="tab" data-toggle="tab">Señalética en Braille </a></li>
+                        <li role="presentation" class="active"><a href="#tp_cuatro" aria-controls="tp_cuatro" role="tab" data-toggle="tab">¿Cuál es la labor del equipo de SST?</a></li>
+                        <li role="presentation"><a href="#tp_uno" aria-controls="tp_uno" role="tab" data-toggle="tab">Señalética en Braille </a></li>
                         <li role="presentation"><a href="#tp_dos" aria-controls="tp_dos" role="tab" data-toggle="tab">Día de la emergencia</a></li>
                         <li role="presentation"><a href="#tp_tres" aria-controls="tp_tres" role="tab" data-toggle="tab">Importancia de vacunarse</a></li>
                     </ul>
@@ -310,6 +318,7 @@
         max-width: 940px;
         font-family: 'Sora', sans-serif;
         background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/micrositio_sys_textura_azul_0.png');
+        font-size: 14px;
     }
 
     .seccion .s1,
@@ -589,7 +598,7 @@
     }
 
     .tab-box .nav-tabs>li {
-        width: 33.33333%;
+        width:25%;
         background-color: #27A6CF;
     }
 
