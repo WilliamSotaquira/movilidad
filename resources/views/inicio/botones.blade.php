@@ -102,7 +102,7 @@
     </div> -->
     <br>
 
-    
+
 
       <!-- Bloque Centro de Contacto -->
       <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -178,7 +178,7 @@
 
               <div class="row">
                   <div class="txt-footer">
-                      <p>Agende sus citas para <span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span> en nuestros<span class="enfasis"> canales virtuales</span> o comuníquese al<span class="enfasis"> <a href="tel:+576013649400">+57 (601) 364 9400</a>, opción 2, </span>o en la <span class="enfasis">línea <a href="tel:+57195">195</a></span></p>
+                      <p>Agende sus citas para <span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span> en nuestros<span class="enfasis"> canales virtuales</span> o comuníquese al<span class="enfasis"> <a href="tel:+576013649400">+57 (601) 364 9400</a>, opción 2.</span></p>
                   </div>
               </div>
           </div>
