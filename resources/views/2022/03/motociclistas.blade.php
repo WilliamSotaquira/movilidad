@@ -52,7 +52,7 @@
             padding: 25px;
             font-family: 'Montserrat', sans-serif;
             font-size: 16px;
-            font-weight: normal;
+            font-weight: 500;
             text-align: justify;
             line-height: 1.4;
             color: rgba(255, 255, 255, 1);
@@ -89,8 +89,7 @@
         </div>
         <div class='row'>
             <div class='col-xs-12 col-sm-4 col-sm-offset-4'>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdu3_YxQeIvzSsWJ-mBqpDgA-M1E6vjwJQDB-yfe9cphY3DSA/viewform">
-
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjfeza63HBDbYwMGOWONe5UMgTvoqzH6fV85_bpu980bCawQ/viewform" target="_blank" rel="noopener noreferrer">
                     <div>
                         <div class="btn-form">
                             Inscribete aquí
