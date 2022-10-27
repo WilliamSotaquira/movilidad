@@ -164,6 +164,7 @@
 					<!-- /#collapseUno -->
 					<!-- collapseDos -->
 
+
 					<div class="panel panel-default">
 						<div class="panel-heading ph-2" id="headingDos" role="tab">
 							<h4 class="panel-title"><a aria-controls="collapseDos" aria-expanded="true" data-parent="#accordion" data-toggle="collapse" href="#collapseDos" role="button">2. Normativa </a></h4>
@@ -172,78 +173,82 @@
 						<div aria-labelledby="headingDos" class="panel-collapse collapse" id="collapseDos" role="tabpanel">
 							<div class="panel-body">
 								<p class="p-panel">Esta sección encontrará el acceso a las normas correspondientes al sujeto obligado.</p>
-								<!-- collapseDosUno -->
 
-								<div class="panel panel-default">
-									<div class="panel-heading ph-3" id="headingDosUno" role="tab">
-										<h4 class="panel-title"><a aria-controls="collapseDosUno" aria-expanded="true" data-parent="#headingDos" data-toggle="collapse" href="#collapseDosUno" role="button">2.1. Normativa de la entidad o autoridad </a></h4>
-									</div>
 
-									<div aria-labelledby="headingDosUno" class="panel-collapse collapse" id="collapseDosUno" role="tabpanel">
-										<div class="panel-body">
-											<ol>
-												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.1.</span>Leyes</a></li>
-												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.2.</span>Decreto Único Reglamentario</a></li>
-												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.3.</span>Normativa aplicable</a></li>
-												<li><a href="https://registrodistrital.secretariageneral.gov.co/publico/actos-administrativos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.4.</span>Vínculo al Diario o Gaceta Oficial.</a></li>
-												<li><span class="enfasis_num">2.1.5.</span>Políticas, lineamientos y manuales.
-													<ul>
-                                                        <!--<li><a href="https://www.movilidadbogota.gov.co/web/politicas_lineamientos_y_manuales" rel="noopener noreferrer" target="_blank">Políticas, lineamientos y manuales</a></li>Enlace Obsoleto-->
-														<li><a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales" rel="noopener noreferrer" target="_blank">Políticas Públicas Distritales</a></li>
-														<li><a href="https://www.movilidadbogota.gov.co/web/politicas_internas_y_lineamientos_sdm" rel="noopener noreferrer" target="_blank">Políticas Internas y Lineamientos SDM</a></li>
-														<li><a href="https://www.movilidadbogota.gov.co/web/manuales_sdm" rel="noopener noreferrer" target="_blank">Manuales</a></li>
-														<li><a href="https://www.movilidadbogota.gov.co/web/protocolos" rel="noopener noreferrer" target="_blank">Protocolos</a></li>
+                    <!-- collapse -->
+                    <div class='panel-group' id='accordion_dos' role='tablist ' aria-multiselectable='true'>
 
-														<li><a href="https://www.movilidadbogota.gov.co/web/POLITICAS_DE_SEGURIDAD_Y_PROTECCION_DE_DATOS_PERSONALES" rel="noopener noreferrer" target="_blank">Manual y políticas de seguridad de la información</a></li>
-														<li><a href="https://www.movilidadbogota.gov.co/web/conceptos-juridicos" rel="noopener noreferrer" target="_blank">Conceptos Jurídicos Secretaria Distrital de Movilidad</a></li>
-														<li><a href="https://www.movilidadbogota.gov.co/web/Plan%20Sectorial" rel="noopener noreferrer" target="_blank">Plan estratégico sectorial</a></li>
-													</ul>
-												</li>
-												<li><span class="enfasis_num">2.1.6.</span>Agenda Regulatoria
-													<ul>
-														<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-08-2022/agenda_regulatoria_actualizada_sdm_02_08_2022.xlsx" rel="noopener noreferrer" target="_blank">Agenda Regulatoria 2022</a></li>
-														<li><a href="https://www.movilidadbogota.gov.co/web/proyecto_de_agenda_regulatoria_2022">Proyecto Agenda Regulatoria 2022</a></li>
-													</ul>
-												</li>
-											</ol>
-										</div>
-									</div>
-								</div>
-								<!-- /#collapseDosUno -->
-								<!-- collapseDosDos -->
+                                                        <!-- collapseDosUno -->
+                                                        <div class="panel panel-default">
+                                                            <div class="panel-heading ph-3" id="headingDosUno" role="tab">
+                                                                <h4 class="panel-title"><a aria-controls="collapseDosUno" aria-expanded="true" data-parent="#accordion_dos" data-toggle="collapse" href="#collapseDosUno" role="button">2.1. Normativa de la entidad o autoridad </a></h4>
+                                                            </div>
 
-								<div class="panel panel-default">
-									<div class="panel-heading ph-3" id="headingDosDos" role="tab">
-										<h4 class="panel-title"><a aria-controls="collapseDosDos" aria-expanded="true" data-parent="#headingDos" data-toggle="collapse" href="#collapseDosDos" role="button">2.2. Búsqueda de normas </a></h4>
-									</div>
+                                                            <div aria-labelledby="headingDosUno" class="panel-collapse collapse" id="collapseDosUno" role="tabpanel">
+                                                                <div class="panel-body">
+                                                                    <ol>
+                                                                        <li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.1.</span>Leyes</a></li>
+                                                                        <li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.2.</span>Decreto Único Reglamentario</a></li>
+                                                                        <li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.3.</span>Normativa aplicable</a></li>
+                                                                        <li><a href="https://registrodistrital.secretariageneral.gov.co/publico/actos-administrativos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.4.</span>Vínculo al Diario o Gaceta Oficial.</a></li>
+                                                                        <li><span class="enfasis_num">2.1.5.</span>Políticas, lineamientos y manuales.
+                                                                            <ul>
+                                                                                <!--<li><a href="https://www.movilidadbogota.gov.co/web/politicas_lineamientos_y_manuales" rel="noopener noreferrer" target="_blank">Políticas, lineamientos y manuales</a></li>Enlace Obsoleto-->
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales" rel="noopener noreferrer" target="_blank">Políticas Públicas Distritales</a></li>
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/politicas_internas_y_lineamientos_sdm" rel="noopener noreferrer" target="_blank">Políticas Internas y Lineamientos SDM</a></li>
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/manuales_sdm" rel="noopener noreferrer" target="_blank">Manuales</a></li>
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/protocolos" rel="noopener noreferrer" target="_blank">Protocolos</a></li>
 
-									<div aria-labelledby="headingDosDos" class="panel-collapse collapse" id="collapseDosDos" role="tabpanel">
-										<div class="panel-body">
-											<ol>
-												<li><a href="http://www.suin-juriscol.gov.co/" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.2.1.</span>Sistema Único de Información Normativa – SUIN</a></li>
-												<li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.2.2.</span>Sistema de búsquedas de normas, propio de la entidad.</a></li>
-											</ol>
-										</div>
-									</div>
-								</div>
-								<!-- /#collapseDosDos -->
-								<!-- collapseDosTres -->
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/POLITICAS_DE_SEGURIDAD_Y_PROTECCION_DE_DATOS_PERSONALES" rel="noopener noreferrer" target="_blank">Manual y políticas de seguridad de la información</a></li>
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/conceptos-juridicos" rel="noopener noreferrer" target="_blank">Conceptos Jurídicos Secretaria Distrital de Movilidad</a></li>
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/Plan%20Sectorial" rel="noopener noreferrer" target="_blank">Plan estratégico sectorial</a></li>
+                                                                            </ul>
+                                                                        </li>
+                                                                        <li><a href="https://www.movilidadbogota.gov.co/web/agenda_regulatoria" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.1.6.</span>Agenda Regulatoria</a></li>
 
-								<div class="panel panel-default">
-									<div class="panel-heading ph-3" id="headingDosTres" role="tab">
-										<h4 class="panel-title"><a aria-controls="collapseDosTres" aria-expanded="true" data-parent="#headingDos" data-toggle="collapse" href="#collapseDosTres" role="button">2.3. Proyectos de normas para comentarios </a></h4>
-									</div>
+                                                                    </ol>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /#collapseDosUno -->
 
-									<div aria-labelledby="headingDosTres" class="panel-collapse collapse" id="collapseDosTres" role="tabpanel">
-										<div class="panel-body">
-											<ol>
-												<li><a href="https://legalbog.secretariajuridica.gov.co/regimen-legal-publico#/acto-admin-publico" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.3.1.</span>Proyectos normativos</a></li>
-												<li><a href="https://legalbog.secretariajuridica.gov.co/regimen-legal-publico#/acto-admin-publico" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.3.2.</span>Comentarios y documento de respuesta a comentarios.</a></li>
-											</ol>
-										</div>
-									</div>
-								</div>
-								<!-- /#collapseDosTres -->
+                                                        <!-- collapseDosDos -->
+                                                        <div class="panel panel-default">
+                                                            <div class="panel-heading ph-3" id="headingDosDos" role="tab">
+                                                                <h4 class="panel-title"><a aria-controls="collapseDosDos" aria-expanded="true" data-parent="#accordion_dos" data-toggle="collapse" href="#collapseDosDos" role="button">2.2. Búsqueda de normas </a></h4>
+                                                            </div>
+
+                                                            <div aria-labelledby="headingDosDos" class="panel-collapse collapse" id="collapseDosDos" role="tabpanel">
+                                                                <div class="panel-body">
+                                                                    <ol>
+                                                                        <li><a href="http://www.suin-juriscol.gov.co/" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.2.1.</span>Sistema Único de Información Normativa – SUIN</a></li>
+                                                                        <li><a href="https://www.movilidadbogota.gov.co/web/normatividad_aplicable" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.2.2.</span>Sistema de búsquedas de normas, propio de la entidad.</a></li>
+                                                                    </ol>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /#collapseDosDos -->
+
+                                                        <!-- collapseDosTres -->
+                                                        <div class="panel panel-default">
+                                                            <div class="panel-heading ph-3" id="headingDosTres" role="tab">
+                                                                <h4 class="panel-title"><a aria-controls="collapseDosTres" aria-expanded="true" data-parent="#accordion_dos" data-toggle="collapse" href="#collapseDosTres" role="button">2.3. Proyectos de normas para comentarios </a></h4>
+                                                            </div>
+
+                                                            <div aria-labelledby="headingDosTres" class="panel-collapse collapse" id="collapseDosTres" role="tabpanel">
+                                                                <div class="panel-body">
+                                                                    <ol>
+                                                                        <li><a href="https://legalbog.secretariajuridica.gov.co/regimen-legal-publico#/acto-admin-publico" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.3.1.</span>Proyectos normativos</a></li>
+                                                                        <li><a href="https://legalbog.secretariajuridica.gov.co/regimen-legal-publico#/acto-admin-publico" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.3.2.</span>Comentarios y documento de respuesta a comentarios.</a></li>
+                                                                        <li><a href="https://legalbog.secretariajuridica.gov.co/regimen-legal-publico#/acto-admin-publico" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">2.3.2.</span>Participación ciudadana en la expedición de normas a través del SUCOP</a></li>
+                                                                    </ol>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- /#collapseDosTres -->
+
+                    </div>
+                    <!-- /#fin  -->
 							</div>
 						</div>
 					</div>
@@ -480,6 +485,7 @@
 									<li><span class="enfasis_num">9.1.</span>Informes, estudios, investigaciones y otras publicaciones
 										<ul>
 											<li><a href="https://www.movilidadbogota.gov.co/web/instancias_de_coordinacion" rel="noopener noreferrer" target="_blank">Instancias de Coordinación</a></li>
+                                            <li><a href="https://www.movilidadbogota.gov.co/web/informes_del_dia_sin_carro_y_sin_moto" target="_blank" rel="noopener noreferrer">Informes del Día sin Carro y sin Moto</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_siniestralidad_sitp_asociada_a_exceso_de_velocidad" rel="noopener noreferrer" target="_blank">Informes de siniestralidad SITP asociada a exceso de velocidad</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_ciclovias_temporales" rel="noopener noreferrer" target="_blank">Informes de Ciclovías Temporales</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/balance_anual_de_los_consejos_locales_de_la_bicicleta" rel="noopener noreferrer" target="_blank">Balance anual de los Consejos Locales de la Bicicleta</a></li>
