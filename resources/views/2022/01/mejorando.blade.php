@@ -2,9 +2,7 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link
-    href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'
-    rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 
@@ -1171,9 +1169,7 @@
         <div class="box-encabezado">
             <div class="img-encabezado">
                 <div class='logo-encabezado'>
-                    <img class='img-responsive w-100 '
-                        src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2022/img_lbqec_3.svg'
-                        alt='Logo Bogotá esta mejorando' title='Logo Bogotá esta mejorando'>
+                    <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2022/img_lbqec_3.svg' alt='Logo Bogotá esta mejorando' title='Logo Bogotá esta mejorando'>
                 </div>
             </div>
             <div>
@@ -1214,9 +1210,7 @@
                             <div class="box-btnbem">
                                 <div class="boton-bem">
                                     <div class='imagen'>
-                                        <img class='img-responsive w-100'
-                                            src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_1.png'
-                                            alt='icono película' title='icono película'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_1.png' alt='icono película' title='icono película'>
                                     </div>
                                 </div>
                                 <div class="txt-btn-bem">
@@ -1237,9 +1231,7 @@
                             <div class="box-btnbem">
                                 <div class="boton-bem">
                                     <div class='imagen'>
-                                        <img class='img-responsive w-100'
-                                            src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_2.png'
-                                            alt='icono película' title='icono película'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_2.png' alt='icono película' title='icono película'>
                                     </div>
                                 </div>
                                 <div class="txt-btn-bem">
@@ -1260,9 +1252,7 @@
                             <div class="box-btnbem">
                                 <div class="boton-bem">
                                     <div class='imagen'>
-                                        <img class='img-responsive w-100'
-                                            src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_3.png'
-                                            alt='icono película' title='icono película'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_3.png' alt='icono película' title='icono película'>
                                     </div>
                                 </div>
                                 <div class="txt-btn-bem">
@@ -1283,9 +1273,7 @@
                             <div class="box-btnbem">
                                 <div class="boton-bem">
                                     <div class='imagen'>
-                                        <img class='img-responsive w-100'
-                                            src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2022/menu-historias-tito.png'
-                                            alt='icono película' title='icono película'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-06-2022/menu-historias-tito.png' alt='icono película' title='icono película'>
                                     </div>
                                 </div>
                                 <div class="txt-btn-bem">
@@ -1306,9 +1294,7 @@
                             <div class="box-btnbem">
                                 <div class="boton-bem">
                                     <div class='imagen'>
-                                        <img class='img-responsive w-100'
-                                            src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_5.png'
-                                            alt='icono película' title='icono película'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_5.png' alt='icono película' title='icono película'>
                                     </div>
                                 </div>
                                 <div class="txt-btn-bem">
@@ -1349,10 +1335,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/xU90H0GTa3M'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/xU90H0GTa3M' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La Aló Sur es una realidad con la finanaciación de la Alcaldía de Bogotá y el Gobierno Nacional. Serán 24 kilómetros de longitud. Conoce todos los detalles en este video.</p>
@@ -1361,10 +1344,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/F1OenZoKjK4'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/F1OenZoKjK4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La Aló Sur será una nueva vía de acceso por el sur de la ciudad. Conoce todos los detalles de esta nueva obra en este video.</p>
@@ -1373,10 +1353,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/qIofUDfMIzw'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/qIofUDfMIzw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Para falicitar la salida al Norte de la ciudad y de municipios aledaños, la Alcaldía de Bogotá con el Gobierno Nacional ya tienen financiada la ampliación de la carrera séptima. Mira este video y entérate de más detalles.</p>
@@ -1385,10 +1362,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/mX62iPS_jO0'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/mX62iPS_jO0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p> En el barrio Perdomo Alto de la localidad de Ciudad Bolívar avanza las obras de infraestructura que serán entregadas a finales de Noviembre. Mira este video y enterate de más detalles.</p>
@@ -1397,10 +1371,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/vK3ze6kJU-8'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/vK3ze6kJU-8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La calle 13 se ampliará en el 2023. 11.4 kilómetros de carriles
@@ -1410,10 +1381,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/3NF_x3EyyI'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/3NF_x3EyyI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>A mediados del 2023 comenzará la ampliación de la Autopista Norte desde
@@ -1423,10 +1391,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/A__jzX-51f8'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/A__jzX-51f8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La movilidad de la ciudad mejorará con la ampliación de la Autopista
@@ -1435,10 +1400,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/8iQ0JXn19vg'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/8iQ0JXn19vg' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La localidad de Usaquén se beneficiará con la extensión de la Carrera
@@ -1447,10 +1409,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/gLNovOA1EBM'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/gLNovOA1EBM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La calle 13 ya se encuentra financiada por el Gobierno Nacional y ayudará
@@ -1460,10 +1419,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/Wq0cPUgTplM'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/Wq0cPUgTplM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La Primera Línea del Metro avanza en su construcción. Mira este video y
@@ -1473,10 +1429,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/bIu5_hdlnoI'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/bIu5_hdlnoI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Se abre licitación para la construcción del segundo cable aéreo en
@@ -1485,10 +1438,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/oP7EYbGxkyY'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/oP7EYbGxkyY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Avanza la obra de la prolongación de la Avenida Laureano Gómez. Conoce
@@ -1497,10 +1447,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/uGQj25Dkvi0'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/uGQj25Dkvi0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Conoce en este video cómo avanza el patio taller de la primera línea del
@@ -1509,10 +1456,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/HZuj-BX8ID8'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/HZuj-BX8ID8' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La Localidad de San Cristóbal tendrá una pronta solución para su
@@ -1521,10 +1465,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/dd5zonMBZtM'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/dd5zonMBZtM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La 116 está luciendo unos andenes seguros para los peatones. Conócelos en
@@ -1533,10 +1474,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/x7Pvc5Ph93M'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/x7Pvc5Ph93M' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La Av José Celestino Mutis será ampliada en dos calzadas, conoce los
@@ -1545,10 +1483,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/o3DDwDCz_-I'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/o3DDwDCz_-I' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>El intercambiador de la calle 72 avanza como parte de las obras de la
@@ -1557,10 +1492,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/oZH2jB8RWL0'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/oZH2jB8RWL0' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La Carrera séptima se transformará con el Corredor Verde. Conoce todos
@@ -1569,10 +1501,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/JYIX8JtdbEc'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/JYIX8JtdbEc' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>El Patio Taller avanza como columna vertebral del proyecto de la primera
@@ -1581,10 +1510,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/-F948HC9ZNw'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/-F948HC9ZNw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>La extensión de la Av Laureano Gómez es una realidad. Conoce los detalles
@@ -1594,10 +1520,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/cLsR1RteF4s"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/cLsR1RteF4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>En la localidad de Bosa se construye la institución educativa IED. La
@@ -1607,10 +1530,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/9F_d__v3T0g"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/9F_d__v3T0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>El metro beneficiará a 2.9 millones de personas y avanza rápidamente.
@@ -1620,10 +1540,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/QpzW-cbfuW0"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/QpzW-cbfuW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>280.000 huecos ha tapado la administración desde que inicio el plan de
@@ -1634,10 +1551,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/iNbQBHBr9Nk"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/iNbQBHBr9Nk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>Con la extensión de la Av Caracas desde Molinos hasta el Portal de Usme
@@ -1648,10 +1562,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/bDeliwBXFOg"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/bDeliwBXFOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>La extensión de la Av Ciudad de Cali conectará San Bernandino y el
@@ -1661,10 +1572,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/TY5qZivoKTI"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/TY5qZivoKTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>En este video te contaremos cómo la ampliación de la Av Rincón desde la
@@ -1675,10 +1583,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/AbtgM1ggChA"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/AbtgM1ggChA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>El barrio 12 de Octubre está en obra y la intervención de sus aceras y
@@ -1689,10 +1594,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/-Ij6-KQeCDQ"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/-Ij6-KQeCDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>La localidad de Kennedy y Bosa se beneficiará con la construcción de este
@@ -1703,10 +1605,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/jIl4l4om338"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/jIl4l4om338" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>El ciclo puente de los Molinos de 290 metros brindará seguridad a los
@@ -1717,10 +1616,7 @@
 
                                     <div class="video-beo">
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width="100%" src="https://www.youtube.com/embed/ZyJcky2uCeY"
-                                                title="YouTube video player" frameborder="0"
-                                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                                allowfullscreen></iframe>
+                                            <iframe width="100%" src="https://www.youtube.com/embed/ZyJcky2uCeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                         </div>
                                         <div class="paragraph-video">
                                             <p>La ciudad se encuentra construyendo la Av Guayacanes que ayudará a
@@ -1731,10 +1627,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/c5uK2fXthPk'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/c5uK2fXthPk' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Celebremos las obras que se están haciendo en Bogotá porque va a mejorar
@@ -1744,10 +1637,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/YLwNRyBb2bY'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/YLwNRyBb2bY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Celebremos la nueva Aló Sur. Mira este video</p>
@@ -1756,10 +1646,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/onM-dEO5GiE'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/onM-dEO5GiE' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Celebremos la ampliación de la Autopista Norte. Mira este video y celebra
@@ -1769,10 +1656,7 @@
 
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/wSSzNgw6cd4'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/wSSzNgw6cd4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Celebremos la nueva Calle 13. Mira este video y celebra con nosotros</p>
@@ -1780,10 +1664,7 @@
                                     </div>
                                     <div class='video-beo'>
                                         <div class='embed-responsive embed-responsive-4by3'>
-                                            <iframe width='100%' src='https://www.youtube.com/embed/Xmn8pd4pEnU'
-                                                title='YouTube video player' frameborder='0'
-                                                allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
-                                                allowfullscreen></iframe>
+                                            <iframe width='100%' src='https://www.youtube.com/embed/Xmn8pd4pEnU' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                         </div>
                                         <div class='paragraph-video'>
                                             <p>Celebremos la ampliación de la Cra Séptima. Mira este video y celebra con
@@ -1852,21 +1733,16 @@
                                         a través del sistema de transporte masivo de la ciudad, pues se conectará con la
                                         Primera Línea de Metro y con 5 troncales.</p>
                                     <br>
-                                    <p class="ver">Ver más sobre esta obra en ejecución: <a
-                                            href="https://www.idu.gov.co/page/avenida-68" target="_blank"
-                                            rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
+                                    <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
                                 </div>
                             </div>
                             <div class='col-xs-12 col-sm-6'>
                                 <div class='img-descripcion imgd-1'>
                                     <div>
-                                        <img class='img-responsive w-100 '
-                                            src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-2_metro-2.png'
-                                            alt='Mapa Avenida 68' title='Mapa Avenida 68'>
+                                        <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2022/03-seccion-2_metro-2.png' alt='Mapa Avenida 68' title='Mapa Avenida 68'>
                                     </div>
-                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/mapa_68_bem-logo.pdf"
-                                        target="_blank" rel="noopener noreferrer">
+                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-01-2022/mapa_68_bem-logo.pdf" target="_blank" rel="noopener noreferrer">
                                         <div class="boton-mapa">
                                             <div>
                                                 <p>Clic aquí para ver mapa Avenida 68 Alimentadora de la Linea Metro</p>
@@ -1892,9 +1768,7 @@
                                         a través del sistema de transporte masivo de la ciudad, pues se conectará con la
                                         Primera Línea de Metro y con 5 troncales.</p>
                                     <br>
-                                    <p class="ver">Ver más sobre esta obra en ejecución: <a
-                                            href="https://www.idu.gov.co/page/avenida-68" target="_blank"
-                                            rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
+                                    <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
                                 </div>
                             </div>
@@ -1962,21 +1836,14 @@
                                         glorieta vehicular a nivel para buses biarticulados y una ciclorruta
                                         bidireccional por el costado occidental.</p>
                                     <br>
-                                    <p class="ver">Ver más sobre esta obra en ejecución: <a
-                                            href="https://www.idu.gov.co/page/avenida-ciudad-de-cali" target="_blank"
-                                            rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-ciudad-de-cali</a>
+                                    <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-ciudad-de-cali" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-ciudad-de-cali</a>
                                     </p>
                                 </div>
                             </div>
 
                             <div class='col-xs-12 col-sm-6'>
                                 <div class='img-descripcion imgd-2'>
-                                    <iframe width="100%" height="100%"
-                                        src="https://www.youtube.com/embed/N-juJJ5tKMk"
-                                        title="Avenida Ciudad de Cali, Alimentadora de la Línea del Metro"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/N-juJJ5tKMk" title="Avenida Ciudad de Cali, Alimentadora de la Línea del Metro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -2009,11 +1876,7 @@
                             </div>
                             <div class='col-xs-12 col-sm-6'>
                                 <div class='img-descripcion imgd-4'>
-                                    <iframe width="100%" height="100%"
-                                        src="https://www.youtube.com/embed/_KSi20NK_Qk" title="YouTube video player"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/_KSi20NK_Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
 
 
@@ -2063,22 +1926,18 @@
 
                                     <div class="boxcordion">
 
-                                        <div class='panel-group ' id='accordion' role='tablist '
-                                            aria-multiselectable='true'>
+                                        <div class='panel-group ' id='accordion' role='tablist ' aria-multiselectable='true'>
 
                                             <!-- collapsePatio -->
                                             <div class='panel panel-default'>
                                                 <div class='panel-heading' role='tab' id='headingPatio'>
                                                     <h4 class='panel-title'>
-                                                        <a role='button' data-toggle='collapse'
-                                                            data-parent='#accordion' href='#collapsePatio'
-                                                            aria-expanded='true' aria-controls='collapsePatio'>
+                                                        <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapsePatio' aria-expanded='true' aria-controls='collapsePatio'>
                                                             Patio Taller
                                                         </a>
                                                     </h4>
                                                 </div>
-                                                <div id='collapsePatio' class='panel-collapse collapse'
-                                                    role='tabpanel' aria-labelledby='headingPatio'>
+                                                <div id='collapsePatio' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingPatio'>
                                                     <div class='panel-body'>
                                                         <div>
                                                             <p>El metro ya está en obra. El pasado 17 de agosto comenzó
@@ -2101,10 +1960,7 @@
                                                                 edificios administrativos, etc., de tal manera que
                                                                 asegure, día a día, la prestación del servicio.</p>
                                                             <br>
-                                                            <img class='img-responsive w-100 '
-                                                                src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-01-2022/patio_taller.webp'
-                                                                alt='Foto de Patio Taller'
-                                                                title='Foto de Patio Taller'>
+                                                            <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-01-2022/patio_taller.webp' alt='Foto de Patio Taller' title='Foto de Patio Taller'>
                                                             <br>
                                                             <p>De este modo, en la localidad de Bosa quedará el punto de
                                                                 partida de la Primera Línea del Metro de Bogotá. Durante
@@ -2122,16 +1978,12 @@
                                             <div class='panel panel-default'>
                                                 <div class='panel-heading' role='tab' id='headingIntercambiador'>
                                                     <h4 class='panel-title'>
-                                                        <a role='button' data-toggle='collapse'
-                                                            data-parent='#accordion' href='#collapseIntercambiador'
-                                                            aria-expanded='true'
-                                                            aria-controls='collapseIntercambiador'>
+                                                        <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapseIntercambiador' aria-expanded='true' aria-controls='collapseIntercambiador'>
                                                             Intercambiador vial calle 72
                                                         </a>
                                                     </h4>
                                                 </div>
-                                                <div id='collapseIntercambiador' class='panel-collapse collapse'
-                                                    role='tabpanel' aria-labelledby='headingIntercambiador'>
+                                                <div id='collapseIntercambiador' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingIntercambiador'>
                                                     <div class='panel-body'>
                                                         <p>El pasado 17 de septiembre comenzaron las obras del
                                                             intercambiador vial en el sector de la avenida Caracas con
@@ -2148,10 +2000,7 @@
                                                             y, en el futuro, el viaducto elevado de la Primera Línea del
                                                             Metro de Bogotá.</p>
                                                         <br>
-                                                        <img class='img-responsive w-100 '
-                                                            src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-01-2022/intercambiador_calle72.webp'
-                                                            alt=' Foto Intercambiador Calle 72'
-                                                            title=' Foto Intercambiador Calle 72'>
+                                                        <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-01-2022/intercambiador_calle72.webp' alt=' Foto Intercambiador Calle 72' title=' Foto Intercambiador Calle 72'>
                                                         <br>
                                                         <p>La obra del intercambiador vial de la calle 72, está
                                                             programada para su puesta en operación el primer semestre de
@@ -2184,16 +2033,14 @@
                                         <!-- Wrapper for slides -->
                                         <div class="carousel-inner" role="listbox">
                                             <div class="item active">
-                                                <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-01-2022/03-seccion-2_metro-3_a.webp"
-                                                    alt="...">
+                                                <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-01-2022/03-seccion-2_metro-3_a.webp" alt="...">
                                                 <div class="carousel-caption">
                                                     <!-- Obras en ... -->
                                                 </div>
                                             </div>
 
                                             <div class="item">
-                                                <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-01-2022/03-seccion-2_metro-1_a.webp"
-                                                    alt="...">
+                                                <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-01-2022/03-seccion-2_metro-1_a.webp" alt="...">
                                                 <!-- <div class="img5-2"></div> -->
                                                 <div class="carousel-caption">
                                                     <!-- Obras en ... -->
@@ -2202,13 +2049,11 @@
                                         </div>
 
                                         <!-- Controls -->
-                                        <a class="left carousel-control" href="#carousel-metro" role="button"
-                                            data-slide="prev">
+                                        <a class="left carousel-control" href="#carousel-metro" role="button" data-slide="prev">
                                             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                                             <span class="sr-only">Anterior</span>
                                         </a>
-                                        <a class="right carousel-control" href="#carousel-metro" role="button"
-                                            data-slide="next">
+                                        <a class="right carousel-control" href="#carousel-metro" role="button" data-slide="next">
                                             <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                                             <span class="sr-only">Siguiente</span>
                                         </a>
@@ -2239,19 +2084,13 @@
                                         242,58 m de ciclorruta reconstruida. La operación de transporte público por este
                                         corredor se hará con buses cero emisiones.</p>
                                     <br>
-                                    <p class="ver">Ver más sobre esta obra en ejecución: <a
-                                            href="https://www.idu.gov.co/page/avenida-68" target="_blank"
-                                            rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
+                                    <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
                                 </div>
                             </div>
                             <div class='col-xs-12 col-sm-6 col-md-6'>
                                 <div class='img-descripcion imgd-3'>
-                                    <iframe width="100%" height="100%"
-                                        src="https://www.youtube.com/embed/m1HTIgKAD2s" title="YouTube video player"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/m1HTIgKAD2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </div>
                             <div class='col-sm-6 hidden-xs'>
@@ -2273,9 +2112,7 @@
                                         242,58 m de ciclorruta reconstruida. La operación de transporte público por este
                                         corredor se hará con buses cero emisiones.</p>
                                     <br>
-                                    <p class="ver">Ver más sobre esta obra en ejecución: <a
-                                            href="https://www.idu.gov.co/page/avenida-68" target="_blank"
-                                            rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
+                                    <p class="ver">Ver más sobre esta obra en ejecución: <a href="https://www.idu.gov.co/page/avenida-68" target="_blank" rel="noopener noreferrer">https://www.idu.gov.co/page/avenida-68</a></p>
 
                                 </div>
                             </div>
@@ -2309,10 +2146,7 @@
                                     hacer mantenimiento a 18,7 km/carril (equivalentes a 117 calles de doble carril).
                                 </p>
                                 <br>
-                                <p class="ver">Ver más sobre el Plan Tapahuecos: <a
-                                        href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/"
-                                        target="_blank"
-                                        rel="noopener noreferrer">https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/</a>
+                                <p class="ver">Ver más sobre el Plan Tapahuecos: <a href="https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/" target="_blank" rel="noopener noreferrer">https://experience.arcgis.com/experience/a061a336dc2a4a8b9aebb57e2924f24d/</a>
                                 </p>
                             </div>
                         </div>
@@ -2353,9 +2187,7 @@
                             <div>
                                 <div class='video'>
                                     <div class='embed-responsive embed-responsive-4by3'>
-                                        <iframe
-                                            src="https://app.powerbi.com/view?r=eyJrIjoiYjEyMGQ1N2YtNDY4YS00ZTJjLTgwYWQtNDNkYjlhNWY2ODIzIiwidCI6IjFjMTg4ZWY2LTllOGYtNGQ5My04YjhjLWM4Njg4ZWFiYTAyYiIsImMiOjR9"
-                                            frameborder="0"></iframe>
+                                        <iframe src="https://app.powerbi.com/view?r=eyJrIjoiYjEyMGQ1N2YtNDY4YS00ZTJjLTgwYWQtNDNkYjlhNWY2ODIzIiwidCI6IjFjMTg4ZWY2LTllOGYtNGQ5My04YjhjLWM4Njg4ZWFiYTAyYiIsImMiOjR9" frameborder="0"></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -2421,10 +2253,7 @@
                         <div class='grid-videos-historias'>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/RfxRpoa4YAI"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/RfxRpoa4YAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>Bloqueo de intersecciones</h4>
                                 <p>Bloquear las intersecciones parece un acto inofensivo, pero no lo es tanto. Hacerlo
@@ -2432,10 +2261,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/T7xPeCBFgFs"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/T7xPeCBFgFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>Mal parqueados</h4>
                                 <p>Los mal parqueados una pesadilla que pone en riesgo a los peatones y pone en caos la
@@ -2443,10 +2269,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/Qa_1vnJzGfc"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/Qa_1vnJzGfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>25 mil ojos</h4>
                                 <p>Siéntete seguro en TransMilenio, ahora tienes 25 mil ojos cuidándote. En este vídeo
@@ -2454,10 +2277,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/wJPwr2E33NQ"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/wJPwr2E33NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>Transporte público</h4>
                                 <p>Ir en tu bici, dejarla parqueada en un lugar seguro, continuar en un TransMilenio tu
@@ -2466,10 +2286,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/8OB5vG487W8"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/8OB5vG487W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>Buses eléctricos</h4>
                                 <p>Se está respirando un nuevo aire en el sistema de Transporte público de Bogotá con la
@@ -2478,10 +2295,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/gDZlPbRP2wE"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/gDZlPbRP2wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>TransmiApp</h4>
                                 <p>TransMilenio la está sacando del estadio con TransmiApp, una aplicación que te brinda
@@ -2490,10 +2304,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/qgh2TDS5Py4"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/qgh2TDS5Py4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>Tu llave</h4>
                                 <p>Tu tienes la llave para no perder tu ritmo al usar el transporte público en la
@@ -2501,10 +2312,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width='100%' src="https://www.youtube.com/embed/ECspQF9KOCY"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width='100%' src="https://www.youtube.com/embed/ECspQF9KOCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>¿Cómo está mejorando Bogotá?</h4>
                                 <p>Moverte en Bogotá con medios de transporte alternativos, es una buena opción en
@@ -2513,11 +2321,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width="560" height="315"
-                                        src="https://www.youtube.com/embed/2IsHPlMG_V0" title="YouTube video player"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/2IsHPlMG_V0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>¿En que va el plan de choque?</h4>
                                 <p>La ciudad entró en obra y tapar los huecos es una prioridad . Mira este video y
@@ -2525,11 +2329,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width="560" height="315"
-                                        src="https://www.youtube.com/embed/kNSHg2uvDck" title="YouTube video player"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/kNSHg2uvDck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>Bogotá está mejorando construyendo la Troncal de la Av. 68</h4>
                                 <p>Cientos de obras se realizan hoy en Bogotá. La Av 68 es una de las más
@@ -2537,11 +2337,7 @@
                             </div>
                             <div class='video'>
                                 <div class='embed-responsive embed-responsive-16by9'>
-                                    <iframe width="560" height="315"
-                                        src="https://www.youtube.com/embed/SQtQltzt9fk" title="YouTube video player"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/SQtQltzt9fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <h4>Cómo aplicar a la excepción de carro compartido</h4>
                                 <p>Compartir el carro es una forma de ayudar a construir la ciudad que queremos.
@@ -2603,23 +2399,272 @@
                         <div class="box-boletines">
                             <div class='row'>
                                 <!-- collapse_boletines21 -->
-                                <div class='panel-group ' id='accordion_boletines21' role='tablist '
-                                    aria-multiselectable='true'>
+                                <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
+
+                                    <!-- collapse_Oct22 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_Oct22'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_Oct22' aria-expanded='true' aria-controls='collapse_Oct22'>
+                                                    Boletines Octubre 2022
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_Oct22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_Oct22'>
+                                            <div class='panel-body'>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Ukk_uO-W1-w8k3t7VAeuWJ-0gG8UyMSP/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 198</h4>
+                                                                <i>lunes, 10 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Dos servicios zonales contarán con buses de refuerzo. En la UMV se construyen espacios de respeto y tolerancia 5 datos de la obra Patio La Reforma</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1YTn99Wf4qAs0xFX9lUzOkskMCyyz3Kkd/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 197</h4>
+                                                                <i>viernes, 7 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Se inicia mantenimiento en San Cristóbal Norte. Este domingo habrá desvíos por desarrollo de la ‘Caminata de la Solidaridad’. Con masiva participación, se realizó el ‘Foro de Promotores Escolares en Seguridad Vial 2022’.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1t4sgwTeDvk-IxBUC7eGwCbb1itinm5RN/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 196</h4>
+                                                                <i>jueves, 6 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Así fueron las obras de parcheo que realizó la UMV en Teusaquillo, durante septiembre. Semana de la Seguridad Vial con los operadores del Sistema de Transporte de Bogotá. Planes del Sistema de Bicicletas Compartidas de Bogotá permiten realizar viajes desde $131.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1GVZxAB73JUeR3ZqTYblAdqAeRIWIFBWT/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 195</h4>
+                                                                <i>miércoles, 5 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres por obra en la avenida 68. Con material reciclado, la UMV mejora algunas vías de la ciudad. Feria de empleo en el ‘Portal El Dorado’.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1cWU-IARPBfRwcom6QZEoXEt8TZJzqwnk/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 194</h4>
+                                                                <i>martes, 4 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Trabajos nocturnos en la localidad de Tunjuelito. En el barrio El Rincón, de la localidad de Suba, la UMV realizó el cambio de losas de una importante vía. Gracias a 100 mil nuevos códigos QR, en buses de TransMilenio, más usuarios podrán acceder a la Biblioteca Digital de Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1HP6-MwfXHGdRKfATEQ_wMJHa1y8PZP6Y/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 193</h4>
+                                                                <i>lunes, 3 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>La UMV hace rehabilitación a una importante vía en Santa Teresa, Usaquén. Este lunes entra en operación una nueva ruta zonal en San Cristóbal y comienzan ajustes de otras rutas en Engativá. Conozca obra de la extensión de la Caracas Sur.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /#fin _Oct22 -->
 
                                     <!-- collapse_Sep22 -->
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_Sep22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse' data-parent='#accordion'
-                                                    href='#collapse_Sep22' aria-expanded='true'
-                                                    aria-controls='collapse_Sep22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_Sep22' aria-expanded='true' aria-controls='collapse_Sep22'>
                                                     Boletines Septiembre 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_Sep22' class='panel-collapse collapse in' role='tabpanel'
-                                            aria-labelledby='heading_Sep22'>
+                                        <div id='collapse_Sep22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_Sep22'>
                                             <div class='panel-body'>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1m_F-jR2c_ab6gnjMvmBGCzM3Mdua1sez/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 192</h4>
+                                                                <i>viernes, 30 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conozca el cierre total del andén y la ciclorruta de la Av. carrera 68 entre Av. calle 53 y Av. calle 63. En lo corrido de 2022, la UMV ha mejorado más de 3.000 segmentos viales en Bogotá. Este fin de semana habrá desvíos por carrera atlética en Bogotá y cierre por obras en una estación.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1qiwuw2bHeGxyWxEtygu8-wwHAr6avZxo/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 191</h4>
+                                                                <i>jueves, 29 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierre parcial de andén y ciclorruta en la autonorte. Cambios en la ruta zonal 488 Lomas – Rincón de Venecia y en las rutas alimentadoras 16-10 y 16-8. Así es el trabajo que realizamos en el barrio Santiago Pérez, Rafael Uribe Uribe.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/12yFQlkNItHXSTwS69tnUJdeBeNjwS53j/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 190</h4>
+                                                                <i>miércoles, 28 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conozca el cierre por carriles no simultáneos sobre el puente vehicular de la Autosur con Av. carrera 50. Cierres por avance de la obra en la avenida Boyacá. Cambio en horario de la ruta N16.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1C4EKUN1PsZqiYxKInlUlO8FHoLz1q5G6/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 189</h4>
+                                                                <i>martes, 27 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Mejoras en espacio público de la calle 80. Los habitantes del barrio Paso Ancho, Bosa, disfrutan de un mejor espacio público. Cambios en las rutas BD909 y C146.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1oq0bjyBdKB4EfBto6t8ViBLslNkI9DNV/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 188</h4>
+                                                                <i>lunes, 26 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Con música arrancó la ‘XV Semana de la Bici de Bogotá’. Así fue la participación de la UMV en el Venue de la Bici. Este lunes comienzan a aplicar cambios operativos en varias rutas en Engativá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1ionvYpioXyGTMF73X7dT_hjj-Lij6-ka/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 187</h4>
+                                                                <i>viernes, 23 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres por avance de obra en la avenida Ciudad de Cali. La UMV se une a la celebración de la Semana de la Bici. La ruta DH601 modifica su recorrido y cambia su nombre.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1npjzkt5CSg0RBdxW-j5i3U0Urv6gdkmw/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 186</h4>
+                                                                <i>jueves, 22 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>El IDU refuerza frentes de obra para mantenimiento vial. Actividades lúdicas y culturales se toman el Sistema de Transporte durante el ‘Día sin carro y sin moto’. Así es el trabajo de la UMV en el Casablanca, Suba.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1wzCRIkByAClIZvBxqguN4SRu1DVprgcS/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 185</h4>
+                                                                <i>miércoles, 21 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Los peatones del barrio Villa Alsacia, en Fontibón, contarán con un nuevo espacio público para transitar. Ahora se podrá activar la recarga web en más de 7.800 buses del Sistema. 5 cosas que debes saber de la construcción de la avenida Laureano Gómez.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1SHnC_OckDwZdHzrL-f69pNy6JG1455dR/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 184</h4>
+                                                                <i>martes, 20 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>‘Ojos en las vías, salvando vidas’ es la campaña que refuerza la ejecución de controles de tránsito, con el fin de disminuir la siniestralidad vial y hacer un llamado a la ciudadanía a tener conductas responsables. ✅ El fortalecimiento de los controles en vía, especialmente en corredores críticos, ha permitido alcanzar una reducción de 12% en el número de víctimas fatales cada semana. ✅ Entre enero y agosto de 2022 los controles aumentaron en un 221% comparado con el mismo periodo del año 2021. Tan solo entre junio y septiembre se ejecutaron 827 acciones de control, de las cuales 634 se enfocaron en velocidad y embriaguez.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1pv-raTi_Hs_lVWm6VFoCz_bOV-_qcG3G/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 183</h4>
+                                                                <i>lunes, 19 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Se transforma una importante vía de la localidad de Puente Aranda, gracias a las obras de la UMV. Dos rutas zonales ajustan su recorrido. ¿Qué es el Visor de Proyectos?</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/16MFIFSHDNRJKcchIezrkj44XUVb5QeAk/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 182</h4>
+                                                                <i>viernes, 16 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Finalizan obras en la calzada norte de la calle 80. Más de 4 millones de personas se han beneficiado, durante este año, con las obras de la UMV. Nuevo servicio zonal L819 entra en operación.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1W7DaBzzpvI_d0opX0iLvLftnzQxM8yd1/view?usp=sharing'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 181</h4>
+                                                                <i>jueves, 15 de septiembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Los comerciantes de la plazoleta ‘La Mariposa’ podrán disfrutar de un mejor espacio público, gracias al trabajo de la UMV. En Usme se realizan trabajos de mantenimiento vial. Servicio zonal H632 amplía su horario de operación.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
                                                 <div class='col-xs-12'>
                                                     <a class='enlace' href='https://drive.google.com/file/d/1Pj7nc9n-dSjy7V0l37bDQQMLfMwcRpzZ/view?usp=sharing'>
                                                         <div class='btn-boletin'>
@@ -2661,8 +2706,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/10aDDXnlpJBD7JpquFlH3F0HW6YhbS9lB/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/10aDDXnlpJBD7JpquFlH3F0HW6YhbS9lB/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 177</h4>
@@ -2678,8 +2722,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1zFEMqSuvh1TkEy8RNtrXQYePZqcZNjy_/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1zFEMqSuvh1TkEy8RNtrXQYePZqcZNjy_/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 176</h4>
@@ -2695,8 +2738,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1oQeA4MCODsbOfyyZZYstW5KkmIO1QO_a/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1oQeA4MCODsbOfyyZZYstW5KkmIO1QO_a/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 175</h4>
@@ -2713,8 +2755,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1u4yQkUxU78YkigyecznbjvDDr715Pi5s/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1u4yQkUxU78YkigyecznbjvDDr715Pi5s/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 174</h4>
@@ -2732,8 +2773,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1uKcC7Z3P9naIzLG01ZZNSKWhJ5zglD_6/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1uKcC7Z3P9naIzLG01ZZNSKWhJ5zglD_6/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 173</h4>
@@ -2750,14 +2790,8 @@
                                                     </a>
                                                 </div>
 
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore dolor
-                                                voluptatem aperiam illum doloremque iusto quae reiciendis optio
-                                                perspiciatis. Pariatur reiciendis rerum sequi! Magnam eos expedita
-                                                dicta, vero amet inventore.
-
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/120L0HlY-xXf7Tf-AruIer81bYwklccJH/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/120L0HlY-xXf7Tf-AruIer81bYwklccJH/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 172</h4>
@@ -2774,8 +2808,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1ucJ0q7nHfEU_pCDqv3AmOxAR0TcRGKGs/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1ucJ0q7nHfEU_pCDqv3AmOxAR0TcRGKGs/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 171</h4>
@@ -2800,20 +2833,16 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_Agos22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse' data-parent='#accordion'
-                                                    href='#collapse_Agos22' aria-expanded='true'
-                                                    aria-controls='collapse_Agos22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_Agos22' aria-expanded='true' aria-controls='collapse_Agos22'>
                                                     Boletines Agosto 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_Agos22' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_Agos22'>
+                                        <div id='collapse_Agos22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_Agos22'>
                                             <div class='panel-body'>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1_pRdHNSNOeH9ul2PB7xzQFP9wz95ExSV/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1_pRdHNSNOeH9ul2PB7xzQFP9wz95ExSV/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 170</h4>
@@ -2831,8 +2860,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1KO0KocR5zXujk_NTo0uZa-HtHgoPD7xC/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1KO0KocR5zXujk_NTo0uZa-HtHgoPD7xC/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 169</h4>
@@ -2848,8 +2876,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1FG4iL6UB0edhBziKSjhJYNXeMPGjw5VS/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1FG4iL6UB0edhBziKSjhJYNXeMPGjw5VS/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 168</h4>
@@ -2868,8 +2895,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1i_ROosDWlm8S6oiiQ77VP9y47F86dTYO/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1i_ROosDWlm8S6oiiQ77VP9y47F86dTYO/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 167</h4>
@@ -2888,8 +2914,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1Vv6m-yJT5RurRuZItZwqDLsDoqRphBXA/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Vv6m-yJT5RurRuZItZwqDLsDoqRphBXA/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 166</h4>
@@ -2907,8 +2932,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/14jJ8izExVAWk6I0_SZa8pC_F0qA4CG7t/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/14jJ8izExVAWk6I0_SZa8pC_F0qA4CG7t/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 165</h4>
@@ -2926,8 +2950,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1hBmbRj1x4RJO9JJXbnOoD_n1JrcNlQXS/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1hBmbRj1x4RJO9JJXbnOoD_n1JrcNlQXS/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 164</h4>
@@ -2945,8 +2968,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1iN-W_Gx-tltdjA0ISjf1MsG-jcPk2wmL/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1iN-W_Gx-tltdjA0ISjf1MsG-jcPk2wmL/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 163</h4>
@@ -2964,8 +2986,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1KDf129Z1lMILi3MiC0Uvv1OPvAwU1pwC/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1KDf129Z1lMILi3MiC0Uvv1OPvAwU1pwC/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 162</h4>
@@ -2984,8 +3005,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1IM9hSU6_zRYAtKS8leUPBblzRy0rXvVI/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1IM9hSU6_zRYAtKS8leUPBblzRy0rXvVI/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 161</h4>
@@ -3004,8 +3024,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1yHi5OQVepKQBIeoqkwRDQEyV4xp9HP6p/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1yHi5OQVepKQBIeoqkwRDQEyV4xp9HP6p/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 160</h4>
@@ -3024,8 +3043,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1mNv83THkL4fkk0wMUdp0LG00EpeTkJUe/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1mNv83THkL4fkk0wMUdp0LG00EpeTkJUe/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 159</h4>
@@ -3043,8 +3061,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/17doOUT0zzQ_aqtjtAUvhHdiTagds5fp8/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/17doOUT0zzQ_aqtjtAUvhHdiTagds5fp8/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 158</h4>
@@ -3062,8 +3079,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1udeDRRvPk0s8bnoEpGUZm7UAWsBQmUDB/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1udeDRRvPk0s8bnoEpGUZm7UAWsBQmUDB/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 157</h4>
@@ -3081,8 +3097,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1B5Rb-eHwgwsRpyj0CcmK25lSRbS6cCMp/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1B5Rb-eHwgwsRpyj0CcmK25lSRbS6cCMp/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 156</h4>
@@ -3101,8 +3116,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1_nxDamLKCmY0isG76eXdfJX2gvP_RHuD/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1_nxDamLKCmY0isG76eXdfJX2gvP_RHuD/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 155</h4>
@@ -3120,8 +3134,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1IxCY5Ev1gA8SZ5LzmxO8mB-Zr0jS6koQ/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1IxCY5Ev1gA8SZ5LzmxO8mB-Zr0jS6koQ/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 154</h4>
@@ -3138,8 +3151,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1DNCr6OJDUJP8To45hEVYajJh1_gzh8k2/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1DNCr6OJDUJP8To45hEVYajJh1_gzh8k2/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 153</h4>
@@ -3156,8 +3168,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1il5kqtp92Hcesd3T1yydNglYTLkU_97j/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1il5kqtp92Hcesd3T1yydNglYTLkU_97j/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 152</h4>
@@ -3176,8 +3187,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1GULEomMx5yIX8mlGTsr32BoYvvTOmGwR/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1GULEomMx5yIX8mlGTsr32BoYvvTOmGwR/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 151</h4>
@@ -3195,8 +3205,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/12N1ImVGbr8_ZJgUnmELzPbBo-UB4KJ0X/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/12N1ImVGbr8_ZJgUnmELzPbBo-UB4KJ0X/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 150</h4>
@@ -3215,8 +3224,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1fwWryxsPzeXXhZ36EqPlG77xhWmyiY1E/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1fwWryxsPzeXXhZ36EqPlG77xhWmyiY1E/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 149</h4>
@@ -3241,20 +3249,16 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_jul22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_jul22'
-                                                    aria-expanded='true' aria-controls='collapse_jul22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_jul22' aria-expanded='true' aria-controls='collapse_jul22'>
                                                     Boletines Julio 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_jul22' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_jul22'>
+                                        <div id='collapse_jul22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_jul22'>
                                             <div class='panel-body'>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1TFAQKR9DijKWdhMr1dSVOQXkkcUZ31_L/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1TFAQKR9DijKWdhMr1dSVOQXkkcUZ31_L/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 148</h4>
@@ -3271,8 +3275,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1brwxSOlzHFVml7Y3BibEiP5lZN4Ps-bo/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1brwxSOlzHFVml7Y3BibEiP5lZN4Ps-bo/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 147</h4>
@@ -3290,8 +3293,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1bYl0rP1VXsB158Xwo9b6zpItL7Fjr-kn/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1bYl0rP1VXsB158Xwo9b6zpItL7Fjr-kn/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 146</h4>
@@ -3309,8 +3311,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1W08PRyrKm9yv8YsAWGVoXBbWwZULzzMm/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1W08PRyrKm9yv8YsAWGVoXBbWwZULzzMm/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 145</h4>
@@ -3328,8 +3329,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1AdZfCon88C-RSSmxQ24OsGphS39-sqVs/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1AdZfCon88C-RSSmxQ24OsGphS39-sqVs/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 144</h4>
@@ -3348,8 +3348,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1zWSRU1IQa6LLYOoGyfHEX4XUN_AmEfXp/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1zWSRU1IQa6LLYOoGyfHEX4XUN_AmEfXp/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 143</h4>
@@ -3366,8 +3365,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1tHx5m-RCWul2sjFifLMjs1aZldNkrPuG/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1tHx5m-RCWul2sjFifLMjs1aZldNkrPuG/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 142</h4>
@@ -3385,8 +3383,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1v_rMgZiG0thLaIP0WBIhWKcEkjR3aYL_/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1v_rMgZiG0thLaIP0WBIhWKcEkjR3aYL_/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 141</h4>
@@ -3405,8 +3402,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/17DyTVIgUgoxFlp77NDa8msyjbpD-MUOf/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/17DyTVIgUgoxFlp77NDa8msyjbpD-MUOf/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 140</h4>
@@ -3422,8 +3418,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1TCNP2SzDjf6QdCrcAaTdlS3kFG7-GtpJ/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1TCNP2SzDjf6QdCrcAaTdlS3kFG7-GtpJ/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 139</h4>
@@ -3442,8 +3437,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1Z44GVYtURiwJV-5SCB5sJXlBEmJli2HP/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Z44GVYtURiwJV-5SCB5sJXlBEmJli2HP/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 138</h4>
@@ -3460,8 +3454,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1nezG6VmujpheSv_CCp58s1AfH8ARw2E9/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1nezG6VmujpheSv_CCp58s1AfH8ARw2E9/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 137</h4>
@@ -3479,8 +3472,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1y4LcaBjqQ6vOXFs4ldVNDrk8NnpvTKqz/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1y4LcaBjqQ6vOXFs4ldVNDrk8NnpvTKqz/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 136</h4>
@@ -3497,8 +3489,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/13hSfMRuGFwr14wNrqeTieIPfRPtndDKM/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/13hSfMRuGFwr14wNrqeTieIPfRPtndDKM/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 135</h4>
@@ -3515,8 +3506,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/16xfvWtrqEfzBjztZ8TO3m5sSAowrxCue/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/16xfvWtrqEfzBjztZ8TO3m5sSAowrxCue/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 134</h4>
@@ -3533,8 +3523,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/19DAQwlDjckOVqXZUrlyZYcIeVA-g5ufa/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/19DAQwlDjckOVqXZUrlyZYcIeVA-g5ufa/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 133</h4>
@@ -3551,8 +3540,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1S18ClperUw0gZ6MCTdGcBDXnDq57VWqq/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1S18ClperUw0gZ6MCTdGcBDXnDq57VWqq/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 132</h4>
@@ -3570,8 +3558,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1RXVCKgzGZl9FuL7UgpZ0hoSxw62LRFgM/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1RXVCKgzGZl9FuL7UgpZ0hoSxw62LRFgM/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 131</h4>
@@ -3588,8 +3575,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1ovcO2E6TtLWcAFMfd3Rkg46C-LtVK5vK/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1ovcO2E6TtLWcAFMfd3Rkg46C-LtVK5vK/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 130</h4>
@@ -3614,20 +3600,16 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_jun22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_jun22'
-                                                    aria-expanded='true' aria-controls='collapse_jun22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_jun22' aria-expanded='true' aria-controls='collapse_jun22'>
                                                     Boletines Junio 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_jun22' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_jun22'>
+                                        <div id='collapse_jun22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_jun22'>
                                             <div class='panel-body'>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/14anj3CylDXHDYqq3XpkRFGrNd_Q8EhuK/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/14anj3CylDXHDYqq3XpkRFGrNd_Q8EhuK/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 129</h4>
@@ -3644,8 +3626,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1r5PzExO-seYc8SYeVuiAyK1KJMKNyP__/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1r5PzExO-seYc8SYeVuiAyK1KJMKNyP__/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 128</h4>
@@ -3662,8 +3643,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/13xjtqCwWRXiWOGBEMZpbbPo3iNRfTGi4/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/13xjtqCwWRXiWOGBEMZpbbPo3iNRfTGi4/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 127</h4>
@@ -3680,8 +3660,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1R47UbvWdwx__IE5NkkDg-PvkrsxJDEeS/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1R47UbvWdwx__IE5NkkDg-PvkrsxJDEeS/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 126</h4>
@@ -3697,8 +3676,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1re7an4u_1YuHJRD8hfTOPyzDCFTQGVOR/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1re7an4u_1YuHJRD8hfTOPyzDCFTQGVOR/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 125</h4>
@@ -3716,8 +3694,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1Qj2KWk3Ls65TqCoiKsM5MI-tEqRbQyDO/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Qj2KWk3Ls65TqCoiKsM5MI-tEqRbQyDO/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 124</h4>
@@ -3734,8 +3711,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1VuZlHbKWyQdjKgPN1NAOThqnnqhsylyi/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1VuZlHbKWyQdjKgPN1NAOThqnnqhsylyi/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 123</h4>
@@ -3751,8 +3727,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1wc8MZHrAzey3hluuo2eXX2JgMGv1veDk/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1wc8MZHrAzey3hluuo2eXX2JgMGv1veDk/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 122</h4>
@@ -3772,8 +3747,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1kWRJU2rpR-FxwdIjLABIk3gjCH_MEF3Y/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1kWRJU2rpR-FxwdIjLABIk3gjCH_MEF3Y/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 121</h4>
@@ -3791,8 +3765,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1Lsw9Rh-dBGcd2apkLeDganV8Vxkn1mSz/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Lsw9Rh-dBGcd2apkLeDganV8Vxkn1mSz/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 120</h4>
@@ -3811,8 +3784,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/14B8YYl458Oze513o59U2EgJvQpPpbaXj/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/14B8YYl458Oze513o59U2EgJvQpPpbaXj/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 119</h4>
@@ -3832,8 +3804,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1Vu_AMxC6Xxjc2MNhf_qgPAaaz4czDlNP/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Vu_AMxC6Xxjc2MNhf_qgPAaaz4czDlNP/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 118</h4>
@@ -3851,8 +3822,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1HTQ1cS4FiA5o1chv0_MbxAEGk0kMjqLt/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1HTQ1cS4FiA5o1chv0_MbxAEGk0kMjqLt/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 117</h4>
@@ -3870,8 +3840,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://drive.google.com/file/d/1KXShzqz27gQK4627s_oaZrQH9hrZqS0z/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1KXShzqz27gQK4627s_oaZrQH9hrZqS0z/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 116</h4>
@@ -3889,8 +3858,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-08_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-08_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 115</h4>
@@ -3908,8 +3876,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-07_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-07_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 114</h4>
@@ -3927,8 +3894,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-06_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-06-2022/2022-06-06_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 113</h4>
@@ -3945,8 +3911,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-03_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-03_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 112</h4>
@@ -3963,8 +3928,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-02_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-02_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 111</h4>
@@ -3982,8 +3946,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-01_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-06-01_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 110</h4>
@@ -4010,20 +3973,16 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_may22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_may22'
-                                                    aria-expanded='true' aria-controls='collapse_may22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_may22' aria-expanded='true' aria-controls='collapse_may22'>
                                                     Boletines Mayo 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_may22' class='panel-collapse collapse ' role='tabpanel'
-                                            aria-labelledby='heading_may22'>
+                                        <div id='collapse_may22' class='panel-collapse collapse ' role='tabpanel' aria-labelledby='heading_may22'>
                                             <div class='panel-body'>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-31_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-31_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 109</h4>
@@ -4040,8 +3999,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-27_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-27_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 108</h4>
@@ -4059,8 +4017,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-26_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-26_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 107</h4>
@@ -4077,8 +4034,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-25_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-06-2022/2022-05-25_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 106</h4>
@@ -4095,8 +4051,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2022/2022-05-24_boletin_la_bogota_que_estamos_construyendo_compressed.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2022/2022-05-24_boletin_la_bogota_que_estamos_construyendo_compressed.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 105</h4>
@@ -4114,8 +4069,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-23_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-23_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 104</h4>
@@ -4133,8 +4087,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-20_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-20_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 103</h4>
@@ -4152,8 +4105,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-19_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-19_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 102</h4>
@@ -4173,8 +4125,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-18_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-18_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 101</h4>
@@ -4190,8 +4141,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-17_boletin_la_bogota_que_estamos_construyendo_1.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-17_boletin_la_bogota_que_estamos_construyendo_1.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 100</h4>
@@ -4209,8 +4159,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-16_boletin_la_bogota_que_estamos_construyendo_1.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-16_boletin_la_bogota_que_estamos_construyendo_1.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 99</h4>
@@ -4228,8 +4177,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-13_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2022/2022-05-13_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 98</h4>
@@ -4248,8 +4196,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-12_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-12_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 97</h4>
@@ -4264,8 +4211,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-11_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-11_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 96</h4>
@@ -4286,8 +4232,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-10_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-10_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 95</h4>
@@ -4306,8 +4251,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-09_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-05-2022/2022-05-09_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 94</h4>
@@ -4325,8 +4269,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-06_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-06_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 93</h4>
@@ -4345,8 +4288,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-05_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-05_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 92</h4>
@@ -4366,8 +4308,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-04_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2022/2022-05-04_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 91</h4>
@@ -4384,8 +4325,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2022/2022-05-03_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2022/2022-05-03_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 90</h4>
@@ -4407,8 +4347,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2022/2022-05-02_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2022/2022-05-02_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 89</h4>
@@ -4433,20 +4372,16 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_abr22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_abr22'
-                                                    aria-expanded='true' aria-controls='collapse_abr22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_abr22' aria-expanded='true' aria-controls='collapse_abr22'>
                                                     Boletines abril 2022
                                                 </a>
                                             </h4>
 
                                         </div>
-                                        <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_abr22'>
+                                        <div id='collapse_abr22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abr22'>
                                             <div class='panel-body'>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-04-2022/2022-04-29_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-04-2022/2022-04-29_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 88</h4>
@@ -4486,8 +4421,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-04-2022/2022-04-27_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-04-2022/2022-04-27_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 86</h4>
@@ -4505,8 +4439,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-04-2022/2022-04-26_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-04-2022/2022-04-26_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 85</h4>
@@ -4525,99 +4458,20 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-25_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-25_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 84</h4>
                                                                 <i>lunes, 25 de abril de 2022</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>En Usme la UMV adelanta trabajos de bioingeniería
-                                                                    para garantizar la conectividad de vías rurales.
-                                                                    Obras de mantenimiento vial en la localidad de San
-                                                                    Cristóbal. #LaBogotáQueEstamosConstruyendo Antes de
-                                                                    salir de casa, consulta Waze o TransMiApp para
-                                                                    conocer la mejor ruta a tu destino ¡Muévete bien
-                                                                    informado! Síguenos en Twitter @BogotaTransito En el
-                                                                    barrio San Rafael de la localidad de San Cristóbal
-                                                                    comenzaron la obras de mantenimiento periódico con
-                                                                    el fin de mejorar el estado actual de estas vías.
-                                                                    Las actividades consisten en el sello de fisuras,
-                                                                    reparación, limpieza y reposición de las losas
-                                                                    deterioradas, entre otras. Será intervenida la
-                                                                    Carrera 15 C este entre calles 58 Sur y 61 Sur, y en
-                                                                    la Carrera 15 A Este entre calles 57 A Sur y 58 Sur,
-                                                                    donde habrá cierre total de calzada para actividades
-                                                                    de mantenimiento periódico las 24 horas. La
-                                                                    localidad de San Cristóbal, en el suroriente de
-                                                                    Bogotá, cuenta con más de 394.000 habitantes quienes
-                                                                    se verán beneficiados de estas obras. La Unidad de
-                                                                    Mantenimiento Vial está con la comunidad de Usme. En
-                                                                    esta localidad la UMV realiza trabajos de
-                                                                    bioingeniería en siete sitios priorizados en el
-                                                                    Anillo Vial, con el fin de garantizar la
-                                                                    conectividad en vías rurales donde hay taludes y
-                                                                    laderas que presentan problemas por derrumbes,
-                                                                    conocidos técnicamente como procesos de remoción en
-                                                                    masa. BOLETÍN 25 DE ABRIL DE 2022 De acuerdo con
-                                                                    Jairo Augusto Rojas, ingeniero experto en
-                                                                    bioingeniería de suelos encargado de la ejecución de
-                                                                    estos trabajos, la bioingeniería es alternativa a
-                                                                    las obras duras como muros de contención que, además
-                                                                    de ser demasiado costosos, dificultan su
-                                                                    implementación por ser una zona de manejo ambiental
-                                                                    especial donde nace el río Tunjuelo, en la cuenca
-                                                                    alta del río Bogotá, siendo un páramo donde la
-                                                                    comunidad hace el esfuerzo por conservar el medio
-                                                                    ambiente. “La bioingeniería es muy amigable con el
-                                                                    medio ambiente, pues no genera residuos, no genera
-                                                                    escombros y lo que busca es el proceso de
-                                                                    revegetalización o restauración natural del suelo”,
-                                                                    señaló Rojas. En estas obras se utilizan dos
-                                                                    insumos, guadua y el material vegetal, y mano de
-                                                                    obra de personas de la comunidad, quienes en lugar
-                                                                    de usar maquinaria pesada emplean herramientas
-                                                                    manuales (picas, palas, hoyadoras). De acuerdo con
-                                                                    Jorge Navarro Wolff, coordinador de estas obras, con
-                                                                    el trabajo la Entidad está devolviéndole la conexión
-                                                                    al Anillo Vial de Usme que arranca desde la Troncal
-                                                                    Bolivariana y regresando a esta unos 8 km adelante,
-                                                                    pasando por las veredas El Hato, Andes, La Unión,
-                                                                    las Margaritas, sirviendo incluso como vía alterna a
-                                                                    la misma. “Actualmente se están haciendo 7 obras de
-                                                                    mantenimiento vial correctivo, pero también se
-                                                                    aprovecha la presencia para hacer obras de carácter
-                                                                    preventivo que no tienen mayores costos, pero sí
-                                                                    importantes efectos”, aseguró Navarro Finalmente,
-                                                                    este trabajo reviste una gran importancia ambiental
-                                                                    y social, por ser obras biológicas que se incorporan
-                                                                    al paisaje, que restauran el equilibrio natural del
-                                                                    suelo al generar bosques de sucesión natural que
-                                                                    reemplazan las obras bioingenieriles de madera, las
-                                                                    cuales se incorporan al suelo al degradarse,
-                                                                    desarrollando así un proceso de economía circular.
-                                                                    Socialmente, involucran a la comunidad al contratar
-                                                                    personas de la zona para hacer las obras,
-                                                                    capacitándolos en la conservación de los suelos,
-                                                                    aprendiendo a manejar el agua de escorrentía y así
-                                                                    cuando se presente algún problema puedan realizar
-                                                                    labores sencillas como: zanja de drenaje, limpieza
-                                                                    de alcantarilla, mantenimiento de cunetas u obras
-                                                                    con disipadores en madera, haciéndolos partícipes de
-                                                                    las soluciones, que reducen el riesgo de accidentes,
-                                                                    sobrecostos, en general afectaciones en su entorno y
-                                                                    calidad de vida; por el contrario impactarán de
-                                                                    forma positiva en sus labores diarias en armonía con
-                                                                    el medio ambiente. ¡Tú también haces parte de la
-                                                                    solución a los trancones de Bogotá!</p>
+                                                                <p>En Usme la UMV adelanta trabajos de bioingeniería para garantizar la conectividad de vías rurales, En Usme la UMV adelanta trabajos de bioingeniería para garantizar la conectividad de vías rurales Obras de mantenimiento vial en la localidad de San Cristóbal, ¡Tú también haces parte de la solución a los trancones de Bogotá!</p>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-22_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-22_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 83</h4>
@@ -4634,8 +4488,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-21_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/2022-04-21_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 82</h4>
@@ -4650,8 +4503,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-20_boletinlbqec_0.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-20_boletinlbqec_0.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 81</h4>
@@ -4667,8 +4519,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-19_boletinlbqec_0.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-04-2022/2022-04-19_boletinlbqec_0.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 80</h4>
@@ -4686,8 +4537,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-04-2022/2022-04-18_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-04-2022/2022-04-18_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 79</h4>
@@ -4703,8 +4553,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-04-2022/2022-04-13_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-04-2022/2022-04-13_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 78</h4>
@@ -4721,8 +4570,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-04-2022/2022-04-12_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-04-2022/2022-04-12_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 77</h4>
@@ -4739,8 +4587,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2022/2022-04-11_boletinlbqem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2022/2022-04-11_boletinlbqem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 76</h4>
@@ -4757,8 +4604,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2022/2022-04-08_boletinlbqem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2022/2022-04-08_boletinlbqem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 75</h4>
@@ -4775,8 +4621,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/2022-04-07_boletin_la_bogota_que_estamos_construyendo.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/2022-04-07_boletin_la_bogota_que_estamos_construyendo.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 74</h4>
@@ -4794,8 +4639,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-06_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-06_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 73</h4>
@@ -4811,8 +4655,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-05_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2022/2022-04-05_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 72</h4>
@@ -4830,8 +4673,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2022/2022-04-04_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2022/2022-04-04_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 71</h4>
@@ -4848,8 +4690,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-04-2022/2022-04-01_boletinlbqec.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-04-2022/2022-04-01_boletinlbqec.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 70</h4>
@@ -4875,22 +4716,18 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_mar22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_mar22'
-                                                    aria-expanded='true' aria-controls='collapse_mar22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_mar22' aria-expanded='true' aria-controls='collapse_mar22'>
                                                     Boletines marzo 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_mar22' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_mar22'>
+                                        <div id='collapse_mar22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_mar22'>
 
                                             <div class='panel-body'>
                                                 <div class="row">
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-31_boletinlbqec.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-31_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 69</h4>
@@ -4909,8 +4746,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-30_boletinlbqec.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-30_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 68</h4>
@@ -4929,8 +4765,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-29_boletinlbqec.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-29_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 67</h4>
@@ -4950,8 +4785,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-28_boletinlbqec.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-28_boletinlbqec.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 66</h4>
@@ -4969,8 +4803,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-24_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-24_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 65</h4>
@@ -4988,8 +4821,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-23_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-23_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 64</h4>
@@ -5006,8 +4838,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-22_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-22_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 63</h4>
@@ -5025,8 +4856,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-18_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-18_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 62</h4>
@@ -5045,8 +4875,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-17_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2022/2022-03-17_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 61</h4>
@@ -5064,8 +4893,7 @@
                                                     </div>
 
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-16_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-16_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 60</h4>
@@ -5083,8 +4911,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-15_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-15_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 59</h4>
@@ -5101,8 +4928,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-14_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-03-2022/2022-03-14_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 58</h4>
@@ -5120,8 +4946,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2022/2022-03-11_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2022/2022-03-11_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 57</h4>
@@ -5137,8 +4962,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-10_boletin_bogota_esta_mejorando_.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-10_boletin_bogota_esta_mejorando_.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 56</h4>
@@ -5156,8 +4980,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-09_boletin_bogota_esta_mejorando_.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-09_boletin_bogota_esta_mejorando_.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 55</h4>
@@ -5175,8 +4998,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-08_boletin_bogota_esta_mejorando_.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/2022-03-08_boletin_bogota_esta_mejorando_.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 54</h4>
@@ -5194,8 +5016,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/2022-03-07_boletinbem_0.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/2022-03-07_boletinbem_0.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 53</h4>
@@ -5214,8 +5035,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/2022-03-04_boletinbem_0.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/2022-03-04_boletinbem_0.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 52</h4>
@@ -5232,8 +5052,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-03-2022/2022-03-03_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-03-2022/2022-03-03_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 51</h4>
@@ -5250,8 +5069,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-03-2022/2022-03-02_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-03-2022/2022-03-02_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 50</h4>
@@ -5269,8 +5087,7 @@
                                                         </a>
                                                     </div>
                                                     <div class='col-xs-12'>
-                                                        <a class='enlace'
-                                                            href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-04-01_boletinbem.pdf'>
+                                                        <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-04-01_boletinbem.pdf'>
                                                             <div class='btn-boletin'>
                                                                 <div class='titulo-boletin'>
                                                                     <h4>BOLETÍN 49</h4>
@@ -5295,19 +5112,15 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_feb22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_feb22'
-                                                    aria-expanded='true' aria-controls='collapse_feb22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_feb22' aria-expanded='true' aria-controls='collapse_feb22'>
                                                     Boletines febrero 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_feb22' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_feb22'>
+                                        <div id='collapse_feb22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_feb22'>
                                             <div class='panel-body'>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-28_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-28_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 48</h4>
@@ -5324,8 +5137,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-25_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-25_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 47</h4>
@@ -5342,8 +5154,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-24_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-24_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 46</h4>
@@ -5359,8 +5170,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-23_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-23_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 45</h4>
@@ -5376,8 +5186,7 @@
                                                     </a>
                                                 </div>
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-22_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-22_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 44</h4>
@@ -5395,8 +5204,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-21_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-21_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 43</h4>
@@ -5414,8 +5222,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-18_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-18_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 42</h4>
@@ -5433,8 +5240,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace'
-                                                        href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-17_boletinbem.pdf'>
+                                                    <a class='enlace' href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-17_boletinbem.pdf'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
                                                                 <h4>BOLETÍN 41</h4>
@@ -5452,8 +5258,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-16_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-16_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 40</h4>
@@ -5471,8 +5276,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-02-2022/2022-02-15_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-02-2022/2022-02-15_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 39</h4>
@@ -5490,8 +5294,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-02-2022/2022-02-14_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-02-2022/2022-02-14_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 38</h4>
@@ -5510,8 +5313,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-02-2022/2022-02-11_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-02-2022/2022-02-11_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 37</h4>
@@ -5531,8 +5333,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-02-2022/2022-02-10_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-02-2022/2022-02-10_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 36</h4>
@@ -5551,8 +5352,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-02-2022/2022-02-09_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-02-2022/2022-02-09_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 35</h4>
@@ -5570,8 +5370,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2022-02-08_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2022-02-08_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 34</h4>
@@ -5589,8 +5388,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2022-02-07_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2022-02-07_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 33</h4>
@@ -5607,8 +5405,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-02-2022/2022-02-04_boletin_bem_25.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-02-2022/2022-02-04_boletin_bem_25.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 32</h4>
@@ -5626,8 +5423,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-02-2022/2022-02-03_boletin_bem_24.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-02-2022/2022-02-03_boletin_bem_24.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 31</h4>
@@ -5645,8 +5441,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-02_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-02_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 30</h4>
@@ -5664,8 +5459,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-01_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-02-01_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 29</h4>
@@ -5689,19 +5483,15 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_ene22'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_ene22'
-                                                    aria-expanded='true' aria-controls='collapse_ene22'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_ene22' aria-expanded='true' aria-controls='collapse_ene22'>
                                                     Boletines enero 2022
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_ene22' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_ene22'>
+                                        <div id='collapse_ene22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_ene22'>
                                             <div class='panel-body'>
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2022-01-31_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2022-01-31_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 28</h4>
@@ -5719,8 +5509,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-28_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-28_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 27</h4>
@@ -5738,8 +5527,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-27_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-27_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 26</h4>
@@ -5758,8 +5546,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-26_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-26_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 25</h4>
@@ -5777,8 +5564,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-25_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-25_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 24</h4>
@@ -5796,8 +5582,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-24_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-24_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 23</h4>
@@ -5816,8 +5601,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-21_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-21_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 22</h4>
@@ -5835,8 +5619,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-20_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-20_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 21</h4>
@@ -5853,8 +5636,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-19_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2022/2022-01-19_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 20</h4>
@@ -5873,8 +5655,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2021-12-18_boletinbem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2022/2021-12-18_boletinbem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 19</h4>
@@ -5891,8 +5672,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-01-15_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-03-2022/2022-01-15_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 18</h4>
@@ -5909,8 +5689,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-14_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-14_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 17</h4>
@@ -5928,8 +5707,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-13_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-13_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 16</h4>
@@ -5948,8 +5726,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-12_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-12_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 15</h4>
@@ -5967,8 +5744,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-07_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-07_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 14</h4>
@@ -5986,8 +5762,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-06_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-06_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 13</h4>
@@ -6005,8 +5780,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-05_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-05_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 12</h4>
@@ -6026,8 +5800,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-04_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-04_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 11</h4>
@@ -6046,8 +5819,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-03_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-01-03_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 10</h4>
@@ -6072,20 +5844,16 @@
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_dic21'>
                                             <h4 class='panel-title'>
-                                                <a role='button' data-toggle='collapse'
-                                                    data-parent='#accordion_boletines21' href='#collapse_dic21'
-                                                    aria-expanded='true' aria-controls='collapse_dic21'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_dic21' aria-expanded='true' aria-controls='collapse_dic21'>
                                                     Boletines diciembre 2021
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_dic21' class='panel-collapse collapse' role='tabpanel'
-                                            aria-labelledby='heading_dic21'>
+                                        <div id='collapse_dic21' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_dic21'>
                                             <div class='panel-body'>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-30_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-30_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 9</h4>
@@ -6104,8 +5872,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-29_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-29_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 8</h4>
@@ -6123,8 +5890,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-28_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-28_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 7</h4>
@@ -6142,8 +5908,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-26_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-26_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 6</h4>
@@ -6161,8 +5926,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-24_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-24_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 5</h4>
@@ -6180,8 +5944,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-23_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-23_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 4</h4>
@@ -6198,8 +5961,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-22_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-22_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 3</h4>
@@ -6218,8 +5980,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-21_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-21_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 2</h4>
@@ -6238,8 +5999,7 @@
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class="enlace"
-                                                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-20_boletin_bem.pdf">
+                                                    <a class="enlace" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2022/2021-12-20_boletin_bem.pdf">
                                                         <div class="btn-boletin">
                                                             <div class="titulo-boletin">
                                                                 <h4>BOLETÍN 1</h4>
