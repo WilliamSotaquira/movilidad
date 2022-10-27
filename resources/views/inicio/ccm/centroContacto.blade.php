@@ -27,7 +27,7 @@
                 <div class="descripcion-ccm">
                     <p>A través de nuestros canales de contacto <strong>podrás recibir asesoría e información de nuestros</strong> <span class="enfasis">trámites y servicios. </span></p>
                     <p>También <strong>podrás agendar tus citas para </strong><span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span>.</p>
-                    <p>Si no encuentras disponibilidad de citas, a través del aplicativo de agendamiento virtual, comunícate al <a href="tel:+6013649400"><span class="enfasis">601 364 9400</span></a>,<span class="enfasis"> opc. 2</span>, o en la línea <span class="enfasis">195</span>.</p>
+                    <p>Si no encuentras disponibilidad de citas, a través del aplicativo de agendamiento virtual, comunícate al <a href="tel:+6013649400"><span class="enfasis">601 364 9400</span></a>,<span class="enfasis"> opc. 2</span></p>
                 </div>
             </div>
         </div>
@@ -63,7 +63,7 @@
                         <div class='panel-body'>
                             <p>A través de este canal podrás agendar citas para realizar los cursos pedagógicos, salida de patios, impugnaciones, acuerdos de pago; solicitar información sobre trámites y servicios; radicar peticiones, quejas, reclamos y solicitudes.</p>
                             <ul>
-                                <li>Línea <a href="195">195</a></li>
+                                <!-- <li>Línea <a href="195">195</a></li> -->
                                 <li>PBX: <a href="6013649400">(601) 364 9400</a></li>
                                 <li>Lunes a viernes de 7 a.m. a 5 p.m. jornada continua y sábados de 8 a.m. a 12 m.</li>
                             </ul>
@@ -259,9 +259,9 @@
                     </div>
                     <div id='collapse15' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading15'>
                         <div class='panel-body'>
+
                             <div class='row'>
-                                <div class="col-sm-2"></div>
-                                <div class='col-xs-12 col-sm-8'>
+                                <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
                                     <div class='text-center'>
                                         <iframe width="100%" height="268" src="https://www.youtube.com/embed/bZm8XZFAYVo?autoplay=1&mute=1&enablejsapi=1&loop=1&playlist=bZm8XZFAYVo&controls=0&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     </div>
@@ -286,6 +286,14 @@
                     </div>
                     <div id='collapse16' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading16'>
                         <div class='panel-body'>
+                        <div class="row">
+                                <div class="col-sm-12">
+                                    <div class='imagen'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-09-2022/novedades_agendamiento_impugnacion_tw_1.png' alt='Impugnación de citas' title='Impugnación de citas'>
+                                    </div>
+                                </div>
+                            </div>
+<br>
                             <div class='row'>
                                 <div class="col-sm-2"></div>
                                 <div class='col-xs-12 col-sm-8'>
@@ -512,17 +520,17 @@
                 <h3>Paso a paso agendamiento virtual, <br> cancelación o reprogramación de citas</h3>
             </div>
         </div>
-        <div class='col-xs-12 col-sm-6'>
+        <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
             <div class='text-center'>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/F4YHT4B0B7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
 
-        <div class='col-xs-12 col-sm-6'>
+        <!-- <div class='col-xs-12 col-sm-6'>
             <div class='text-center'>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-5n-WiWIb80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-        </div>
+        </div> -->
     </div>
     <hr>
     <div class="row parrafo">
@@ -535,7 +543,7 @@
 </div>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-                                                        Fin Bloque Sección 
+                                                        Fin Bloque Sección
 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 
@@ -551,7 +559,7 @@
         font-family: 'Raleway', sans-serif;
         font-size: 14px !important;
         max-width: 940px;
-        margin: auto;        
+        margin: auto;
     }
 
     .seccion a{
