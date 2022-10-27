@@ -29,21 +29,34 @@
             </div>
         </div>
     </div>
-    <div class='s1'>
-        <div class='row'>
-            <div class='col-xs-12 col-sm-12 col-md-12'>
-                <div class="box-parrafos">
-                    <div class="titulo">
-                        <h3>Política del Sistema de Gestión Ambiental</h3>
-                    </div>
-                    <div class="parrafo">
-                        <p>La Secretaria Distrital de Movilidad consciente de la responsabilidad en la preservación del ambiente, está comprometida con la mejora continua de las condiciones ambientales de la entidad, por lo tanto, ejecuta estrategias que fomentan la cultura ambiental y fortalecen las buenas prácticas ambientales institucionales de acuerdo con la legislación ambiental vigente.</p>
-                        <p>En el marco de la presente política ambiental, la Secretaría Distrital de Movilidad se compromete a:</p>
-                    </div>
-                </div>
+    <div class='box-politicas'>
+        <div class='video_ambiental'>
+            <video controls='' style='width: 100%;'>
+                <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/ambiental_subtitulado.mp4' type='video/mp4'>
+        </div>
+        <style>
+            .video_ambiental {
+                /* height: px; */
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                margin: auto;
+                padding: 5% 5% 0%  5%;
+            }
+        </style>
+        <div class="box-parrafos">
+            <div class="titulo">
+                <h3>Política del Sistema de Gestión Ambiental</h3>
+            </div>
+            <div class="parrafo">
+                <p>La Secretaria Distrital de Movilidad consciente de la responsabilidad en la preservación del ambiente, está comprometida con la mejora continua de las condiciones ambientales de la entidad, por lo tanto, ejecuta estrategias que fomentan la cultura ambiental y fortalecen las buenas prácticas ambientales institucionales de acuerdo con la legislación ambiental vigente.</p>
+                <p>En el marco de la presente política ambiental, la Secretaría Distrital de Movilidad se compromete a:</p>
             </div>
         </div>
+    </div>
 
+    <div class='s1'>
         <div class='row box-compromisos'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
                 <div class="titulo">
@@ -265,6 +278,15 @@
 
         .s4 .box-parrafos {
             color: #fff;
+        }
+    </style>
+    <div class="box-equipoAmbiental">
+        <h4 class="text-center"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/equipo_sga.pdf" target="_blank" rel="noopener noreferrer">Haz clic aquí y conoce al equipo del Sistema de Gestión Ambiental </a></h4>
+        <p class="text-center">Es el encargado de ejecutar estrategias que fomentan la cultura ambiental en la SDM.</p>
+    </div>
+    <style>
+        .box-equipoAmbiental{
+            padding: 5% 5% 0% 5%;
         }
     </style>
     <div class="s5">
