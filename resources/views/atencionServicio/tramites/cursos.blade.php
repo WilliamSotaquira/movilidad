@@ -54,7 +54,7 @@
                                 <h3>Para mayor información:</h3>
                                 <p>Centro de contacto de Movilidad <strong>(601) 364-94-00 opción 2</strong>, o nuestros canales virtuales en <a href="http://www.movilidadbogota.gov.co" target="_blank" rel="noopener noreferrer">www.movilidadbogota.gov.co</a></p>
                                 <h3>Línea:</h3>
-                                <p><strong>195</strong></p>
+                                <p><strong>/strong></p>
                             </div>
                             <hr>
                             <div>
@@ -120,5 +120,5 @@
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
-               
+
 
