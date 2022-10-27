@@ -1,9 +1,14 @@
 @extends('welcome')
 @section('contenido')
 
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<link rel='preconnect' href='https://fonts.googleapis.com'>
+<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 <div class="container-fluid seccion">
     <div class="s1 fa">
@@ -31,8 +36,13 @@
             <p>La Secretaría Distrital de Movilidad adoptó el Sistema de Gestión Antisoborno, como una herramienta para luchar contra la corrupción.</p>
             <p>En la SDM cuentas con la fuerza Antisoborno que previene y te apoya contra el soborno.</p>
             <h3>¿QUÉ ES? </h3>
-            <p>El Sistema de Gestión Antisoborno bajo los estándares contemplados en la norma técnica ISO 37001:2016, es un instrumento que facilita la articulación de herramientas ya existentes en la entidad que permitirá mejorar la prevención, minimización de los riesgos asociados al soborno que conducen a prácticas y consolidación de hechos de corrupción.</p>
-        </div>
+            <div class='video_antisoborno'>
+                </div>
+                <p>El Sistema de Gestión Antisoborno bajo los estándares contemplados en la norma técnica ISO 37001:2016, es un instrumento que facilita la articulación de herramientas ya existentes en la entidad que permitirá mejorar la prevención, minimización de los riesgos asociados al soborno que conducen a prácticas y consolidación de hechos de corrupción.</p>
+            </div>
+            <video controls='' style='width: 100%; padding: 25px; '>
+                <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/v2_notijulio_antisoborno.mp4' type='video/mp4'>
+            </div>
     </div>
     <div class="s4">
         <div class="img-vista">
@@ -189,14 +199,17 @@
     }
 
     .seccion {
-        font-size: 8px;
-        line-height: 1.2;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Montserrat', sans-serif !important;
         word-wrap: break-word;
+        font-size: 16px !important;
+        font-weight: 400;
+        text-align: left;
+        line-height: 1.5 !important;
+        color: rgba(25, 25, 25, 1);
 
     }
 
-    .seccion [class*='col-'] {
+    /* .seccion [class*='col-'] {
         margin: 0px;
         padding-right: 0px;
         padding-left: 0px;
@@ -204,7 +217,7 @@
         outline: 0;
         font-size: 100%;
         vertical-align: baseline;
-    }
+    } */
 
     .w-100 {
         width: 100%;
@@ -224,7 +237,8 @@
 
     .seccion .enc-enfasis {
         font-weight: 700;
-        font-size: 1.1em;
+        font-size: 1.3em;
+        text-transform: uppercase !important;
     }
 
     .s1 {
@@ -253,16 +267,16 @@
     }
 
     .s3 .pg {
-        padding: 5vw;
+        padding: 8px;
         padding-top: 5vw;
         text-align: center;
-        font-size: calc(2em + 1vw);
+        font-size: 24px;
         color: #28285b;
     }
 
     .s3 .pn {
         padding: 0px 40px 20px 40px;
-        font-size: calc(0.4em + 1vw);
+        /* font-size: calc(0.4em + 1vw); */
         text-align: justify;
         color: #28285b;
 
@@ -288,7 +302,20 @@
         color: #fff;
         padding-left: 15px;
         padding-right: 15px;
+        font-size: 32px;
+        font-weight: 100;
     }
+
+    .s4 .fa h3 {
+        text-align: center;
+        margin: 2rem;
+        color: #fff;
+        padding-left: 15px;
+        padding-right: 15px;
+        font-size: 32px;
+        font-weight: 700;
+    }
+
 
     .s5 {
         text-align: center;
@@ -296,7 +323,7 @@
     }
 
     .s5 .numeral {
-        font-size: calc(1.5em +1vw);
+        /* font-size: calc(1.5em +1vw); */
         font-weight: 900;
         color: #de1b19;
     }
@@ -307,9 +334,10 @@
 
     .s5 .pn {
         padding: 0px 40px 20px 40px;
-        font-size: calc(0.4em + 1vw);
+        font-size: 16px;
         text-align: justify;
         color: #28285b;
+        line-height: 1.3;
 
     }
 
@@ -317,13 +345,13 @@
         background-color: #de1b19;
         color: #fff;
         padding: 2rem 5rem;
-        font-size: calc(1.2em + 1vw);
+        font-size: 20px;
         text-align: center;
     }
 
     .s7 .pn {
         padding: 3rem;
-        font-size: calc(0.4em + 1vw);
+        font-size: 20px;
         text-align: center;
         color: #28285b;
 
@@ -381,7 +409,8 @@
 
     .s10 .pn {
         padding: 3rem;
-        font-size: calc(0.4em + 1vw);
+        font-size: 16px;
+
         text-align: justify;
         color: #28285b;
 
@@ -391,19 +420,22 @@
         padding: 5vw;
         padding-top: 5vw;
         text-align: center;
-        font-size: calc(2em + 1vw);
+        font-size: 16px;
+
         color: #28285b;
     }
 
     .pn h3 {
         padding-top: 25px;
+        font-weight: 700;
+        text-transform: uppercase;
     }
 
     .s11 {
         background-color: #de1b19;
         color: #fff;
         padding: 2rem 5rem;
-        font-size: calc(0.4em + 1vw);
+        font-size: 20px;
         text-align: center;
     }
 
@@ -427,7 +459,8 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        font-size: calc(0.4em + 1vw);
+        font-size: 20px;
+
     }
 
     .s12 .text-mail a {
@@ -442,7 +475,7 @@
     }
 
     .s13 ul>li {
-        font-size: calc(0.4em + 1vw);
+        font-size: 16px;
         color: #28285b;
         margin-left: 3rem;
     }
@@ -460,14 +493,15 @@
      padding-top: 35px;
 
     }
-    
+
     .s14 .text-mail {
         height: 22rem;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        font-size: calc(0.4em + 1vw);
+        font-size: 16px;
+
     }
 
     .s14 .text-mail a {
