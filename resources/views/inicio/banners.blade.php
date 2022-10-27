@@ -6,22 +6,19 @@
 <div class='container-fluid box-banners-short'>
 
     <hr>
-
     <div class="row">
         <div class="col-xs-12 visible-xs-12 visible-xs-block">
-            <a href="https://www.movilidadbogota.gov.co/web/semana_de_la_seguridad_vial_2022" target="_blank" rel="noopener noreferrer">
-                <img alt="Click aquí para acceder a la semana de la seguridad vial" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2022/banners_ii_900x300.png" title="Click aquí para acceder a la semana de la seguridad vial">
+            <a href="https://tembici.com.co/" target="_blank" rel="noopener noreferrer">
+                <img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2022/sbcb_900x300.png" title="Click aquí para acceder al sistema de bicicletas compartidas">
             </a>
         </div>
         <div class="col-sm-12 hidden-xs">
-            <a href="https://www.movilidadbogota.gov.co/web/semana_de_la_seguridad_vial_2022" target="_blank" rel="noopener noreferrer">
-                <img alt="Click aquí para acceder a la semana de la seguridad vial" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2022/banners_ii_1920x320.png" title="Click aquí para acceder a la semana de la seguridad vial">
+            <a href="https://tembici.com.co/" target="_blank" rel="noopener noreferrer">
+                <img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_980x220_.jpg" title="Click aquí para acceder a la semana de la seguridad vial">
             </a>
         </div>
     </div>
-
     <hr>
-
 
     <div class="row">
         <div class="col-sm-6">
@@ -56,24 +53,18 @@
             </a>
         </div>
         <div class="col-sm-6">
-            <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/convocatoria_eco_conductoras">
-                <img alt="Abecé segunda convocatoria Eco Conductoras" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2022/2022-08-19_convocatoria-eco-conductoras_banner-_900x-300_2.png" title="Abecé segunda convocatoria Eco Conductoras">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas">
+                <img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto">
             </a>
         </div>
     </div>
 
     <div class="row">
-        <!-- <div class="col-sm-6">
+        <div class="col-sm-6">
             <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota">
                 <img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2022/2022-06-16_banner-mapa-ciclorrutas_1.png" title="Mapa de Ciclorrutas de Bogotá">
             </a>
-        </div> -->
-        <div class="col-sm-6">
-            <a target="_blank" rel="noopener noreferrer" href="https://tembici.com.co/">
-                <img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2022/sbcb_900x300.png" title="Click aquí para acceder al sistema de bicicletas compartidas de Bogotá">
-            </a>
         </div>
-
 
         <div class="col-sm-6">
             <a href="http://zonadeparqueopago.gov.co/" target="_blank" rel="noopener noreferrer">
@@ -104,11 +95,11 @@
                     <li data-slide-to="10" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="11" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="12" data-target="#carousel_banner_lg">&nbsp;</li>
-                    <li data-slide-to="13" data-target="#carousel_banner_lg">&nbsp;</li>
+                    <!-- <li data-slide-to="13" data-target="#carousel_banner_lg">&nbsp;</li> -->
                 </ol>
                 <div class="carousel-inner" role="listbox">
-                    <div class="item active"><a target="_blank" rel="noopener noreferrer" href=""><img alt="Clic aqui para ingresar tus acciones salvan vidas" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/banners_banner1_980x250_0.png" title="Clic aqui para ingresar tus acciones salvan vidas"></a></div>
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_sm.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
+                    <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/tus_acciones_salvan_vidas"><img alt="Clic aqui para ingresar tus acciones salvan vidas" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2022/banners_banner1_980x250_0.png" title="Clic aqui para ingresar tus acciones salvan vidas"></a></div>
+                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_sm.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div> -->
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento_excelencia_logistica_2022"><img alt="Reconocimiento Excelencia Logística 2022" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/excelencia2022_1920_x_320.png" title="Reconocimiento Excelencia Logística 2022"></a></div>
                     <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mes_del_taxista"><img alt="Clic aqui para ingresar a Agosto: Mes del taxista en Bogotá" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/p4_mes_taxistas_p4.png" title="Clic aqui para ingresar a Agosto: Mes del taxista en Bogotá"></a></div> -->
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_lg.png" title="Ingresa aquí encuesta Transporte Público"></a></div>
@@ -145,11 +136,11 @@
                     <li data-slide-to="10" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="11" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="12" data-target="#carousel-sdm-xs">&nbsp;</li>
-                    <li data-slide-to="13" data-target="#carousel-sdm-xs">&nbsp;</li>
+                    <!-- <li data-slide-to="13" data-target="#carousel-sdm-xs">&nbsp;</li> -->
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
+                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div> -->
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento_excelencia_logistica_2022"><img alt="Reconocimiento Excelencia Logística 2022" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/excelencia2022_900_x_300.png" title="Reconocimiento Excelencia Logística 2022"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_xs.png" title="Ingresa aquí encuesta Transporte Público"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_b.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
@@ -252,37 +243,3 @@
         height: 250px;
     }
 </style>
-
-<script>
-    // Set the date we're counting down to
-    var countDownDate = new Date("Sept 14, 2022 23:59:59").getTime();
-
-    // Update the count down every 1 second
-    var x = setInterval(function() {
-
-        // Get today's date and time
-        var now = new Date().getTime();
-
-        // Find the distance between now and the count down date
-        var distance = countDownDate - now;
-
-        // Time calculations for days, hours, minutes and seconds
-        var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-        var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-        var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-        var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-        // Display the result in the element with id="contador"
-        document.getElementById("contador").innerHTML = +" " + days + " días";
-
-        // Display the result in the element with id="reloj"
-        document.getElementById("reloj").innerHTML = hours + ":" + minutes + ":" + seconds + " ";
-
-        // If the count down is finished, write some text
-        if (distance < 0) {
-            clearInterval(x);
-            document.getElementById("contador").innerHTML = "Finalizado";
-            // document.getElementById("reloj").innerHTML = "";
-        }
-    }, 1000);
-</script>
