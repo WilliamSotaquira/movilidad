@@ -519,7 +519,7 @@
                     <i class="fa fa-phone fa-4x" aria-hidden="true"></i>
                 </div>
                 <div>
-                    <p class="p-btn-icon">Linea <strong>195</strong> <br> Teléfono <br><strong><a href="6013649400">(601) 364 9400</a>, opción 2</strong></p>
+                    <p class="p-btn-icon">Teléfono <br><strong><a href="6013649400">(601) 364 9400</a>, opción 2</strong></p>
                 </div>
             </div>
         </div>
@@ -718,7 +718,7 @@
         </div>
 
     </div>
-    
+
 
 </div>
 
