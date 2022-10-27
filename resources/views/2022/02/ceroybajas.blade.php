@@ -5,8 +5,10 @@
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
 <!-- Set Wrapper -->
 <div class='container-fluid ceroybajas'>
+
     <div class='box-wrp'>
         <div class='row box-head'>
             <div class='col-xs-12 col-sm-6 col-sm-offset-6'>
@@ -917,7 +919,7 @@
                             <div class="col-xs-12 col-sm-5">
                                 <div class="txt-tarjeta">
                                     <h4 class="media-heading">Diésel Euro VI</h4>
-                                    <p>Euro VI corresponde al estándar más reciente y limpio de la norma europea que regula los límites aceptables para las emisiones de gases y material particulado de de los vehículos de combustión, este estándar se adoptó en Colombia por medio de la Ley 1972 de 2019. Se estima que un bus diésel Euro VI reduciría las emisiones de material particulado en al menos 95% si se compara con un bus Euro V (<a href="https://www.transmilenio.gov.co/publicaciones/151941/abce-de-los-nuevos-buses-euro-vi/" target="_blank" rel="noopener noreferrer">Transmilenio S.A</a>, 2020).</p>
+                                    <p>Euro VI corresponde al estándar más reciente y limpio de la norma europea que regula los límites aceptables para las emisiones de gases y material particulado de los vehículos de combustión, este estándar se adoptó en Colombia por medio de la Ley 1972 de 2019. Se estima que un bus diésel Euro VI reduciría las emisiones de material particulado en al menos 95% si se compara con un bus Euro V (<a href="https://www.transmilenio.gov.co/publicaciones/151941/abce-de-los-nuevos-buses-euro-vi/" target="_blank" rel="noopener noreferrer">Transmilenio S.A</a>, 2020).</p>
                                 </div>
                             </div>
                             <div class="col-xs-12 col-sm-7 hidden-xs">
@@ -967,7 +969,7 @@
                     }
 
                     .menu3 .img-card-6 {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-08-2022/volkswagen-transmilenio-2.jpg');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-10-2022/euroiv.png');
                     }
 
                     .menu3 .img-card {
@@ -1513,7 +1515,7 @@
                                                         <td><strong>Distrito:</strong> <br> Decreto 552 de 2018</td>
                                                         <td>EDS</td>
                                                         <td>1 rápida y 56 semi</td>
-                                                        <td>EDS + Eléctricas</td>
+                                                        <td>Estaciones de servicio (EDS) + Eléctricas</td>
                                                     </tr>
                                                     <tr>
                                                         <td><strong>Beneficios técnico mecánica</strong></td>
@@ -1756,7 +1758,7 @@
 
                                     <div class='row'>
                                         <div class='col-xs-12 col-sm-12'>
-                                            <p>Nos unimos con el PNUMA para <strong>invitar a las organizaciones a que definan compromisos específicos por la movilidad eléctrica</strong> en alguno de los siguientes ejes:</p>
+                                            <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para <strong>invitar a las organizaciones a que definan compromisos específicos por la movilidad eléctrica</strong> en alguno de los siguientes ejes:</p>
                                         </div>
                                     </div>
 
@@ -2186,12 +2188,12 @@
                                                         <ul>
                                                             <li class="li_1">Ley 2099 de 2021 (Disposiciones para la transición energética) <a href="https://dapre.presidencia.gov.co/normativa/normativa/LEY%202099%20DEL%2010%20DE%20JULIO%20DE%202021.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
                                                             <li class="li_1">Decreto 191 de 2021 (Estacionamientos preferenciales para Vehículos Eléctricos) <a href="https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20191%20DEL%2023%20DE%20FEBRERO%20DE%202021.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Resolución 40223 de 2021 (Estandarización de Conectores) <a href="https://www.minenergia.gov.co/documents/10180//23517//48995-40223.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
+                                                            <li class="li_1">Resolución 40223 de 2021 (Estandarización de Conectores) <a href="https://gestornormativo.creg.gov.co/gestor/entorno/docs/resolucion_minminas_40223_2021.htm#:~:text=Por%20la%20cual%20se%20establecen,veh%C3%ADculos%20el%C3%A9ctricos%20e%20h%C3%ADbridos%20enchufables" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
                                                             <li class="li_1">Ley 1964 de 2019 (Promoción de vehículos eléctricos en Colombia)<a href="https://dapre.presidencia.gov.co/normativa/normativa/LEY%201964%20DEL%2011%20DE%20JULIO%20DE%202019.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
                                                             <li class="li_1">Estrategia Nacional de Movilidad Eléctrica <a href="https://www1.upme.gov.co/DemandaEnergetica/ENME.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
                                                             <li class="li_1">Plan Energético Nacional (2020-2050)<a href="https://www1.upme.gov.co/DemandayEficiencia/Documents/PEN_2020_2050/Plan_Energetico_Nacional_2020_2050.pdf" target="_blank" rel="noopener noreferrer">(.pdf), </a><a href="https://www1.upme.gov.co/DemandayEficiencia/Paginas/PEN.aspx" target="_blank" rel="noopener noreferrer">Enlace Documentos Relacionados.</a></li>
                                                             <li class="li_1">Política de Crecimiento Verde <a href="https://www.dnp.gov.co/Crecimiento-Verde/Documents/Pol%C3%ADtica CONPES 3934/CONPES 3934 - Pol%C3%ADtica de Crecimiento Verde.pdf" target="_blank" rel="noopener noreferrer">(.pdf), </a><a href="https://www.dnp.gov.co/Crecimiento-Verde/Paginas/Politica-crecimiento-verde.aspx" target="_blank" rel="noopener noreferrer">Enlace Documentos Relacionados.</a></li>
-                                                            <li class="li_1">Contribución Determinada a nivel Nacional (NDC Colombia actualizada) <a href="https://www.minambiente.gov.co/wp-content/uploads/2021/10/informe-actualizacion-contribucion-determinada-Colombia-ndc-2020.pdf" target="_blank" rel="noopener noreferrer">(.pdf), </a><a href="https://www.minambiente.gov.co/index.php/ndc-actualizada" target="_blank" rel="noopener noreferrer">Enlace Documentos Relacionados.</a></li>
+                                                            <li class="li_1">Contribución Determinada a nivel Nacional (NDC Colombia actualizada) <a href="https://www.minambiente.gov.co/cambio-climatico-y-gestion-del-riesgo/actualizacion-de-la-contribucion-determinada-a-nivel-nacional-ndc/" target="_blank" rel="noopener noreferrer">(.pdf), </a><a href="https://www.minambiente.gov.co/index.php/ndc-actualizada" target="_blank" rel="noopener noreferrer">Enlace Documentos Relacionados.</a></li>
                                                         </ul>
 
                                                     </div>
