@@ -79,11 +79,15 @@
                 </div>
                 <div class='col-xs-12 col-sm-8 col-md-8'>
                     <ul>
-                        <li><span class="txt-enfasis-2">Ser vocero</span> de los ciudadanos o usuarios, para la protección de sus derechos y hacer conocer sus deberes.</li>
-                        <li><span class="txt-enfasis-2">Conocer y hacer seguimiento</span> de manera objetiva a los <span class="txt-enfasis-2">requerimientos, quejas, reclamos o solicitudes</span> de los ciudadanos por el posible <span class="txt-enfasis-2">incumplimiento</span> de la normatividad vigente, <span class="txt-enfasis-2">dentro de los tiempos establecidos;</span> que rigen el desarrollo de los trámites y servicios que presta la Entidad.</li>
-                        <li><span class="txt-enfasis-2">Promover y divulgar</span> la figura del Defensor del Ciudadano y el alcance de sus actividades a la ciudadanía.</li>
-                        <li><span class="txt-enfasis-2">Diseñar e Implementar</span> estrategias acerca de los derechos y deberes de la ciudadanía.</li>
-                        <li><span class="txt-enfasis-2">Ser mediador entre la ciudadanía y la entidad</span> en pro de solucionar de manera oportuna, clara y efectiva las diferencias que se presentan en la relación Estado-ciudadano.</li>
+                        <li><span class="txt-enfasis-2">Velar porque la entidad cumpla</span> con las disposiciones normativas referentes al servicio a la ciudadanía. </li>
+                        <li><span class="txt-enfasis-2">Formular recomendaciones al Representante Legal</span> de la entidad para facilitar la interacción entre la entidad y la ciudadanía, contribuyendo a fortalecer la confianza en la administración.</li>
+                        <li><span class="txt-enfasis-2">Analizar el consolidado de las peticiones</span> que presente la ciudadanía sobre la prestación de trámites y servicios, con base en el informe que sobre el particular elabore la Oficina de Servicio a la Ciudadanía o quien haga sus veces, e identificar las problemáticas que deban ser resueltas por la entidad. </li>
+                        <li><span class="txt-enfasis-2">Diseñar e implementar estrategias</span> de promoción de derechos y deberes de la ciudadanía, así como de los canales de interacción con la administración distrital disponibles, dirigidos a servidores públicos y ciudadanía en general. </li>
+                        <li><span class="txt-enfasis-2">Promover la utilización de diferentes canales de servicio a la ciudadanía</span>, su integración y la utilización de Tecnologías de Información y Comunicaciones para mejorar la experiencia de los ciudadanos. </li>
+                        <li><span class="txt-enfasis-2">Elaborar y presentar los informes</span> relacionados con las funciones del Defensor de la Ciudadanía que requiera la Secretaría General de la Alcaldía Mayor de Bogotá, D.C., y la Veeduría Distrital. </li>
+                        <li>Las demás que se requieran para <span class="txt-enfasis-2">el ejercicio eficiente de las funciones asignadas.</span></li>
+
+
                     </ul>
                 </div>
             </div>
