@@ -28,16 +28,10 @@
         </div>
     </div>
     <br>
-    <div>
-        <iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=tn3bflfcjl" width="100%" height="480" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen allow="autoplay; clipboard-read; clipboard-write"></iframe>
-    </div>
-    <br>
     <div class="s2">
         <div class='row'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
-                <!-- <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-04-2022/volante_20220409.png" target="_blank" rel="noopener noreferrer">
-                    <img class='img-responsive bs w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-04-2022/volante_20220409.png' alt='Volante del Pico y Placa Regional 2022' title='Volante del Pico y Placa Regional 2022'>
-                </a> -->
+
                 <!-- <div class='row'>
                     <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
                         <div class='text-center'>
@@ -58,7 +52,7 @@
                     <!-- collapse -->
                     <div class='panel-group ' id='accordion_pp' role='tablist ' aria-multiselectable='true'>
 
-                        <div class='panel panel-default'>
+                        <div class='panel panel-default  panel-region'>
                             <div class='panel-heading hp' role='tab' id='heading'>
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pp' href='#collapse' aria-expanded='true' aria-controls='collapse'>
@@ -185,6 +179,11 @@
                                             </div>
                                         </div>
                                         <!-- /#fin _pyp12 -->
+<hr>
+                                        <!-- 4:3 aspect ratio -->
+                                        <div class="embed-responsive embed-responsive-4by3">
+                                            <iframe src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/junio_final_volante_de_pyp_regional_carrocompartido.pdf" width="640" height="480" allow="autoplay"></iframe>
+                                        </div>
 
                                     </div>
                                 </div>
@@ -192,7 +191,7 @@
                         </div>
 
                         <!-- collapseBogota -->
-                        <div class='panel panel-default'>
+                        <div class='panel panel-default  panel-bogota'>
                             <div class='panel-heading hp' role='tab' id='headingBogota'>
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pp' href='#collapseBogota' aria-expanded='true' aria-controls='collapseBogota'>
@@ -222,8 +221,9 @@
                                                     <ul>
                                                         <li>Centro de Servicio Movilidad Calle 13 (Calle 13 # 37-35).</li>
                                                         <li>Centro de Servicio Movilidad Paloquemao (Carrera 28 # 17 A 20).</li>
-                                                        <li>RedCADE Américas, Suba, 20 de Julio y Fontibón.</li>
+                                                        <!-- <li>RedCADE Américas, Suba, 20 de Julio y Fontibón.</li> -->
                                                     </ul>
+                                                    <p>Si requiere información o asesoría, comuníquese con nosotros a través de nuestros canales de contacto del <strong><a href="https://www.movilidadbogota.gov.co/web/canales_de_atencion_al_ciudadano" target="_blank" rel="noopener noreferrer">Centro de Contacto de Movilidad</a></strong> o llame a la línea <strong><a href="tel:+6013649400">601 - 364 9400</a></strong>, opción 2.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1083,7 +1083,23 @@
                                             </div>
                                         </div>
                                         <!-- /#fin _pyp25 -->
-                                        <br>
+                                        <hr>
+<div class="row">
+<div class="col-xs-12 col-sm-3 col-sm-offset-3">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/resolucion_numero_118139_de_2021.pdf">
+                        <div class="btn-nm">
+                            Resolución 118139 de 2021
+                        </div>
+                    </a>
+                </div>
+                <div class="col-xs-12 col-sm-3">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/abc_pico_y_placa.pdf">
+                        <div class="btn-nm">
+                            Abecé de las Excepciones de Pico y Placa
+                        </div>
+                    </a>
+                </div>
+</div>
 
 
 
@@ -1198,7 +1214,7 @@
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
-        
+
     }
 
     .region-content {
@@ -1267,33 +1283,39 @@
 
     }
 
-    .s2 .panel-default .hp {
+    .s2 .panel-region .hp {
         color: #f4b300;
         background-color: #252525;
-        color: #151515;
         border-color: #191C3A;
     }
 
-    .s2 .panel-default .hp a {
+    .s2 .panel-region .hp a {
         color: #f4b300;
 
     }
-
-    .s2 .panel-default>.panel-heading:hover,
-    .s2 .panel-default>.panel-heading:focus,
-    .s2 .panel-default>.panel-heading:active,
-    .s2 .panel-default .panel-heading .panel-collapse .in {
-        color: #f4b300;
-        background-color: #252525 !important;
+    .s2 .panel-bogota .hp {
+        color: #151515;
+        background-color: #f4b300;
+        border-color: #191C3A;
     }
 
-    .s2 .panel-default>.panel-heading:hover a,
-    .s2 .panel-default>.panel-heading:focus a,
-    .s2 .panel-default>.panel-heading:active a {
-        color: #f4b300;
-        background-color: #252525 !important;
-    }
+    .s2 .panel-bogota .hp a {
+        color: #151515;
 
+    }
+.s2 .panel-default > .panel-heading{
+    background-image: none !important;
+}
+.s2 .panel-region > .panel-heading{
+    background-color: #252525 !important;
+    color: #f4b300;
+
+
+}
+.s2 .panel-bogota> .panel-heading{
+    background-color: #f4b300 !important;
+    color: #151515;
+    }
 
     .s2 .panel-title {
         font-weight: 501;
@@ -1373,6 +1395,35 @@
     .bs {
         -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
         box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+    }
+
+    .btn-nm {
+        background-color: #c91719;
+        color: #fff;
+        padding: 15px 10px;
+        text-align: center;
+        border-radius: 6px;
+        height: 60px;
+        font-weight: 900;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        justify-items: center;
+    }
+
+    .btn-nm:hover {
+        background-color: #f4a500;
+        color: #c91719;
+    }
+
+    .botones a {
+        color: #f4a500;
+        font-size: 1.15em;
+        text-decoration: none;
+    }
+
+    .botones a .btn-nm:hover {
+        color: #151515;
     }
 </style>
 <style>
