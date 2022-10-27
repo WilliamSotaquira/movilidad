@@ -4,7 +4,7 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'> 
+<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 
@@ -21,12 +21,17 @@
     <div class="s2">
         <div class="row">
             <div class="col-xs-12 col-sm-6">
+                <div class='video_SGC'>
+                    <video controls='' style='width: 100%;'>
+                        <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/sistemas_de_gestion.mp4' type='video/mp4'>
+                </div>
                 <div class="txt-description">
                     <div class="parrafos">
-                        <p>El Sistema Integrado de Gestión de la Secretaría de Movilidad, está conformado por cinco sistemas de gestión que tienen como propósito la mejora continua y el fortalecimiento del desempeño institucional de la Entidad, permitiendo asegurar una excelente gestión en temas como:<strong> Seguridad y Salud en el Trabajo, Gestión Ambiental, Gestión Antisoborno, Gestión de Calidad y Gestión de bienestar institucional,</strong>  esto en el marco del  cumplimiento de los requisitos establecidos para cada sistema en la normas ISO y bajo el estándar del <strong>Modelo Integrado de Planeación y Gestión (MIPG)</strong>.</p>
+                        <p>En consistencia con el estándar del Modelo Integrado de Planeación y Gestión (MIPG), el Sistema Integrado de Gestión de la Secretaría de Movilidad está conformado por cinco sistemas que tienen como propósito la <strong>mejora continua y el fortalecimiento del desempeño institucional de la Entidad.</strong></p>
                     </div>
                 </div>
             </div>
+
             <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0">
                 <div class="botones">
 
@@ -40,7 +45,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn1">
-                                            <span>Sistema de Gestión de Calidad</span>
+                                        <span>Sistema de Gestión de Calidad</span>
                                     </div>
                                 </div>
                             </div>
@@ -57,7 +62,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn2">
-                                            <span>Sistema de Gestión Antisoborno</span>
+                                        <span>Sistema de Gestión Antisoborno</span>
                                     </div>
                                 </div>
                             </div>
@@ -74,7 +79,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn3">
-                                            <span>Sistema de Gestión de Seguridad y Salud en el Trabajo</span>
+                                        <span>Sistema de Gestión de Seguridad y Salud en el Trabajo</span>
                                     </div>
                                 </div>
                             </div>
@@ -91,7 +96,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn4">
-                                            <span>Sistema de Gestión Ambiental</span>
+                                        <span>Sistema de Gestión Ambiental</span>
                                     </div>
                                 </div>
                             </div>
@@ -108,7 +113,7 @@
                                 </div>
                                 <div class="col-xs-12 col-sm-8 pl0">
                                     <div class="txt-boton btn5">
-                                            <span>Empresa Familiarmente Responsable</span>
+                                        <span>Empresa Familiarmente Responsable</span>
                                     </div>
                                 </div>
                             </div>
@@ -119,6 +124,27 @@
             </div>
         </div>
     </div>
+
+    <hr>
+    <div class="s4">
+        <div class="row">
+
+            <div class="recuadro col-xs-6 col-sm-3 col-md-4">
+                <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/btn1.png" alt="¿Cuáles son los beneficios de tener un SGC?">
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/solicitud_nuevas_piezas_sgc_pieza1-mailing.png" target="_blank" rel="noopener noreferrer" tabindex="1">¿Cuáles son los beneficios de tener un SGC?</a></h3>
+            </div>
+            <div class="recuadro col-xs-6 col-sm-3 col-md-4">
+                <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/btn2.png" alt="¿Cómo puedo aportar al SGC?">
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/solicitud_nuevas_piezas_sgc_pieza2_mailing.png" target="_blank" rel="noopener noreferrer" tabindex="2">¿Cómo puedo aportar al SGC?</a></h3>
+            </div>
+            <div class="recuadro col-xs-6 col-sm-3 col-md-4">
+                <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/btn3.png" alt="Impacto de no cumplir con los lineamientos del SGC">
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/03solicitud_nuevas_piezas_sgc_pieza3-mailing.png" target="_blank" rel="noopener noreferrer" tabindex="3">Impacto de no cumplir con los lineamientos del SGC</a></h3>
+            </div>
+
+        </div>
+    </div>
+
 </div>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -218,17 +244,19 @@
 
 
     .s2 .botones {
-        padding: 10px;
+        padding: 0px;
     }
+
+
 
     .boton {
         border: solid 1px #fdfdfd;
         /* border-radius: 19px; */
         height: 400px;
-        margin-bottom: 30px;
+        margin-bottom: 10px;
     }
 
-    .boton a{
+    .boton a {
         color: #fff;
     }
 
@@ -283,7 +311,7 @@
         font-size: 1.2em;
     }
 
-  
+
     .btn4 {
         background-color: #a7cd00;
         color: #252525;
@@ -298,20 +326,114 @@
         font-weight: 700;
         font-size: 1.2em;
     }
+</style>
+<style>
+    .recuadro {
+        position: relative;
+        min-height: 50px;
+        background-color: #A25FA4;
+        background-clip: content-box;
+        color: #fff;
+        margin-bottom: 15px;
+    }
 
+    .recuadro:hover {
+        position: relative;
+        margin-bottom: 15px;
+        min-height: 50px;
+        background-color: #4d541f;
+        background-clip: content-box;
+        color: #fff;
+    }
+
+    .recuadro img {
+        width: 100%;
+        vertical-align: middle;
+        border-style: none;
+        box-shadow: 0px 0px 16px #00000050;
+    }
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .titulo {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        display: flex;
+        align-items: end;
+        justify-content: center;
+        padding: 15px;
+        right: 10px;
+        left: 10px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+
+    .recuadro:hover .titulo {
+        background-color: #4d541f;
+        margin: 0px 15px;
+        right: 0px;
+        left: 0px;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+    .recuadro h3 {
+        font-family: 'Sora', sans-serif;
+        font-weight: 500;
+        color: #0066cd;
+        font-size: 15px;
+
+    }
+
+    .recuadro a {
+        font-weight: 600;
+        color: #4d541f;
+        font-size: 1.1rem;
+        text-align: center;
+        line-height: 1.2;
+        background-color: #f5f5f5;
+        padding: 5px;
+        font-size: 15px;
+
+    }
+
+    .recuadro a:focus {
+        color: #fff;
+    }
+
+    .recuadro:hover a {
+        font-weight: 700;
+        color: #fff;
+        /* font-size: 12px; */
+        text-align: center;
+        line-height: 1;
+        background-color: #4d541f;
+        padding: 9px 15px;
+        text-decoration: none;
+    }
 </style>
 <style>
     @media(max-width:767px) {}
 
     @media(min-width:768px) {
 
+        .s2 .video_SGC{
+            padding-top: 30px;
+        }
+
         .s2 .txt-description {
-            height: 850px;
+            /* height: 850px; */
             display: flex;
             justify-content: center;
             align-items: center;
             font-size: 1.3em;
-        padding: 3rem;
+            padding: 30px 0px;
 
         }
 
@@ -320,19 +442,19 @@
         }
 
         .boton {
-            height: 130px;
+            height: 118px;
             /* border-radius: 16px; */
         }
 
         .boton .txt-boton {
             /* border-radius: 0px 15px 15px 0px; */
-            height: 128px;
+            height: 116px;
             justify-content: center;
 
         }
 
         .boton .img-boton {
-            height: 130px;
+            height: 118px;
         }
 
         .pr0 {
@@ -347,8 +469,9 @@
         .s2 .botones {
             margin-top: 30px;
         }
-        .s2 .parrafos{
-        padding: 50px;
+
+        .s2 .parrafos {
+            padding: 50px;
         }
 
     }
