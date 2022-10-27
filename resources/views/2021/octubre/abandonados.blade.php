@@ -69,7 +69,7 @@
             <br>
             <p><strong>Para realizar el registro inicial, debe seguir el siguiente paso a paso.</strong></p>
             <ol>
-                <li>Ingresar al portal <a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-14-cto-2021-2091-hora-300-222125?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc" target="_blank" rel="noopener noreferrer">www.superbid.com.co</a> y hacer clic en “Registro.</li>
+                <li>Ingresar al portal <a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-15-cto-2021-2091-hora-11-223209?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer">www.superbid.com.co</a> y hacer clic en “Registro.</li>
                 <li>Luego debe elegir su contraseña y usuario (login).</li>
                 <li>Lo siguiente es validar su login, pues este le permitirá identificarlo a la hora de realizar sus ofertas</li>
                 <li>Finalmente para terminar el registro, debe leer y aceptar el “Procedimiento de Utilización del Portal Superbid Colombia”, haciendo clic en “CONFIRMAR”, enviando la fotocopia de su cédula y el RUT y 24 horas después tendrá la activación de su registro.</li>
@@ -88,7 +88,7 @@
         <div class="b3-texto">
             <p><strong>Si desea participar en las subastas de la Secretaría Distrital de Movilidad, siga estos pasos:</strong></p>
             <ol>
-                <li><a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-14-cto-2021-2091-hora-300-222125?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc" target="_blank" rel="noopener noreferrer"><strong>Regístrese e ingrese aquí.</strong></a></li>
+                <li><a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-15-cto-2021-2091-hora-11-223209?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer"><strong>Regístrese e ingrese aquí.</strong></a></li>
                 <li>Habilítese para participar en la subasta.</li>
                 <li>Oferte por el lote de su interés.</li>
                 <li>Esté pendiente el día de cierre de la subasta.</li>
