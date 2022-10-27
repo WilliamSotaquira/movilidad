@@ -235,15 +235,21 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/08/rendicion', '2022/08/rendicion');
     Route::view('/2022/08/agendasParticipativas', '2022/08/agendasParticipativas');
 
-    // Contenido agosto 2022
+    // Contenido septiembre 2022
     Route::view('/2022/09/cuentaRegresiva', '2022/09/cuentaRegresiva');
     Route::view('/2022/09/bannerDinamico', '2022/09/bannerDinamico');
     Route::view('/2022/09/bicicarga', '2022/09/bicicarga');
     Route::view('/2022/09/politicas', '2022/09/politicas');
     Route::view('/2022/09/semanaBici', '2022/09/semanaBici');
-    Route::view('/2022/09/sisben', '2022/09/sisben');
     Route::view('/2022/09/sinCarro', '2022/09/sinCarro');
     Route::view('/2022/09/seguridadVial', '2022/09/seguridadVial');
     Route::view('/2022/09/biciCompartida', '2022/09/biciCompartida');
 
+    // Contenido actubre 2022
+    Route::view('/2022/10/ferias', '2022/10/ferias');
+    Route::view('/2022/10/publicaciones', '2022/10/publicaciones');
+    Route::view('/2022/10/regulatoria', '2022/10/regulatoria');
+    Route::view('/2022/10/sisben', '2022/10/sisben');
+    Route::view('/2022/10/esquema', '2022/10/esquema');
+    Route::view('/2022/10/infDiasinCarro', '2022/10/infDiasinCarro');
 
