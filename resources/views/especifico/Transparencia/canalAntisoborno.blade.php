@@ -10,7 +10,7 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 
-<div class="container-fluid seccion">
+<div class="container-fluid seccion antisoborno">
     <div class="s1 fa">
         <div class="enc">
             <h3>canal de denuncias antisobor<span class="enc-enfasis">no</span></h3>
@@ -42,7 +42,6 @@
             </div>
             <video controls='' style='width: 100%; padding: 25px; '>
                 <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/v2_notijulio_antisoborno.mp4' type='video/mp4'>
-            </div>
     </div>
     <div class="s4">
         <div class="img-vista">
@@ -95,8 +94,8 @@
             <div class="col-xs-1"></div>
             <div class="col-xs-12 col-sm-2 col-xs-offset-1 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-01-2021/resolucion_no._190_de_2020.pdf" target="_blank">Resolución No. 190 de 2020</a></div>
             <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/pa02-m03_manual_integridad_v._2.0_28-10-2021_1.pdf" target="_blank">Manual de Integridad</a></div>
-            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/manual-modelo-integrado-de-planeacion-y-gestion-version-80-de-29-10-2021_1.pdf" target="_blank">Manual MIPG<br>SDM</a></div>
-            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-11-2021/pa02-m03-pt01_protocolo_de_denuncias_por_actos_de_soborno_v1.0_-_28-10-2021.pdf" target="_blank">Protocolo<br>denuncias soborno</a></div>
+            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/intranet/sites/default/files/2022-07-11/pe01-m01_manual_mipg_v_11.0_de_11-07-2022.pdf" target="_blank">Manual MIPG<br>SDM</a></div>
+            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/intranet/sites/default/files/2022-07-28/pa02-m03-pt01_protocolo_de_denuncias_por_actos_de_soborno_v3.0_de_13-07-2022_1.pdf" target="_blank">Protocolo<br>denuncias soborno</a></div>
             <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/pa02-m03-pt02_protocolo_de_denuncias_por_corrupcion_v_1.0_28-10-2021.pdf" target="_blank">Protocolo<br>denuncias corrupción</a></div>
         </div>
     </div>
@@ -206,6 +205,12 @@
         text-align: left;
         line-height: 1.5 !important;
         color: rgba(25, 25, 25, 1);
+
+    }
+
+    .antisoborno{
+        max-width: 980px !important;
+        margin: auto;
 
     }
 
