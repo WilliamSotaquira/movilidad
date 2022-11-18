@@ -9,6 +9,8 @@
 <div class='container-fluid seguridadVial'>
     <div class="box-modals">
 
+
+
     <!-- Modal Susan Galeano Vásquez -->
     <div class='modal fade' id='modalSusanGaleano' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
         <div class='modal-dialog' role='document'>
