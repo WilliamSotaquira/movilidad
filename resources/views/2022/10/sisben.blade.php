@@ -195,7 +195,7 @@
                                         </div>
                                         <div class="texto">
                                             <h3>CONSULTA</h3>
-                                            <p>En Sisbén IV si perteneces a uno de los grupos beneficiados</p>
+                                            <p>en Sisbén IV si perteneces a uno de los grupos beneficiados</p>
                                         </div>
                                     </div>
                                 </a>
@@ -218,7 +218,7 @@
                                         </div>
                                         <div class="texto">
                                             <h3>SOLICITA</h3>
-                                            <p>Tu encuesta Sisbén IV si aún no estás registrado</p>
+                                            <p>tu encuesta Sisbén IV si aún no estás registrado</p>
                                         </div>
                                     </div>
                                 </a>
@@ -241,7 +241,7 @@
                                         </div>
                                         <div class="texto">
                                             <h3>ACCEDE</h3>
-                                            <p>Con tu tarjeta Tu Llave personalizada, si eres beneficiario</p>
+                                            <p>con tu tarjeta Tu Llave personalizada, si eres beneficiario</p>
                                         </div>
                                     </div>
                                 </a>
@@ -667,10 +667,10 @@
                                             <h3>SOLICITA</h3>
                                         </div>
                                         <div class="parrafo">
-                                            <p>si no estás registrado, a la Secretaría Distrital de Planeación la aplicación de la encuesta Sisbén IV en la Red CADE o <a href="https://sisbensol.sdp.gov.co/registro-solicitudes" target="_blank" rel="noopener noreferrer">aquí</a></p>
+                                            <p>a la Secretaría Distrital de Planeación la aplicación de la encuesta Sisbén IV en la Red CADE o <a href="https://sisbensol.sdp.gov.co" target="_blank" rel="noopener noreferrer">aquí</a></p>
                                         </div>
                                         <div>
-                                            <a href="https://sisbensol.sdp.gov.co/registro-solicitudes" target="_blank" rel="noopener noreferrer">https://sisbensol.sdp.gov.co/registro-solicitudes</a>
+                                            <a href="https://sisbensol.sdp.gov.co" target="_blank" rel="noopener noreferrer">https://sisbensol.sdp.gov.co/registro-solicitudes</a>
                                         </div>
 
                                     </div>
@@ -1048,20 +1048,6 @@
     @media(max-width:767px) {}
 
     @media(min-width:768px) {
-
-
-        /* .box-tabpills .box-inicio {
-            padding: 30px;
-            grid-template-columns: 1fr;
-        } */
-
-        .seccion2 .subsidioSitp {
-            /* gap: 30px;
-                grid-template-columns: repeat(3, 1fr);
-                grid-template-areas:
-                    'titulo titulo titulo'
-                    'consulta solicita accede'; */
-        }
 
         .box-content-consulta {
 
