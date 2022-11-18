@@ -2414,6 +2414,199 @@
                                             <div class='panel-body'>
 
                                                 <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1QnrNZ7eTrVXNVUYS7QhOOC4SOtZdafdf/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 212</h4>
+                                                                <i>lunes, 31 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres por obra en la carrera 91 de la localidad de Suba. Este lunes entra en operación una nueva ruta zonal para conectar a las localidades Rafael Uribe Uribe y Bosa. La UMV hace parte de las 8 entidades distritales más comprometidas con el medio ambiente.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/10JXodPdrISdi0n9AwkKJaPzigzYW-voA/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 211</h4>
+                                                                <i>viernes, 28 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Puente vehicular de la calle 127 será reparado. La UMV atendió con éxito dos emergencias, producto de las fuertes lluvias. Feria de empleo en estación de Integración San Mateo.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1gNNIKX-tj9TNy6_Ghrn92gCOqamG8tvz/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 210</h4>
+                                                                <i>jueves, 27 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Conservación vial en Engativá y Teusaquillo. ¡Ya son 15 obras de bioingeniería las que ha realizado la UMV y que garantizan conectividad de vías rurales! A jugar en TransMi.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1v99QB-Lijh9wNOkhE0Os9I8g-2NPwZGN/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 209</h4>
+                                                                <i>miércoles, 26 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Avanzamos en la conservación de espacio público en la ciudad. La UMV presta apoyo al Distrito cuando se presentan emergencias por lluvias. TRANSMILENIO S.A. invita a participar en el tercer Diálogo Ciudadano.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1gXC192LVPvu_Y2xLSQ6nMlzwycj1knJU/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 208</h4>
+                                                                <i>martes, 25 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierre en la NQS por obras de mantenimiento. El Director de la UMV explica las medidas que toma la entidad, para proteger el medio ambiente. Estación Museo Nacional se viste de Cine Colombiano.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1HtyzF5FrzpSzeln1jClR_LMehdbHopik/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 207</h4>
+                                                                <i>lunes, 24 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>¿Cómo va la avenida Guayacanes? Ajustes operacionales en varias rutas zonales. Conozca el cierre de un carril de la calzada lenta de la Av. NQS, entre calles 70 y Av. calle 68.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1I_8NAbpoUO34RjZpopLko2Rv1zcfMPT4/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 206</h4>
+                                                                <i>viernes, 21 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Mantenimiento en andenes y ciclorruta en la Autonorte. La UMV adelanta obras de mejora del espacio público en el barrio Santa Bárbara, de la localidad Santa Fe. Continúa la II Feria de Servicios y Empleabilidad en el Portal Tunal.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/19QQuYcU_6xLVmfW2TypdRpq4bg0Iv1m9/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 205</h4>
+                                                                <i>jueves, 20 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Inician trabajos de conservación vial en Kennedy. En lo corrido del año 2022, la UMV ha mejorado más de 550 calles en el centro de la ciudad. TransMilenio y Metro Cali comparten experiencias.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1CcK1zhKbvKFIyF3dnV70NWRw-qSPFozG/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 204</h4>
+                                                                <i>miércoles, 19 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Nuevos cierres en andenes de la avenida Ciudad de Cali. El Director de la UMV explica las medidas que toma la entidad para proteger el medio ambiente. Feria de Servicios y Empleabilidad.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/196o59zLinjBm5WIonQAM8mBoycM-jQhC/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 203</h4>
+                                                                <i>martes, 18 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Inician obras para mejorar el espacio público en Suba. Este lunes entra en operación una nueva ruta zonal en Puente Aranda y se ajusta la ruta AH605. La UMV adquirió un nuevo equipo medidor de gases, que será determinante para el funcionamiento de la sede de producción.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1VpC7KZanEyoDLJu49MCDH6TYQF50aD4f/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 202</h4>
+                                                                <i>viernes, 14 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Inician obras de espacio público por construcción de la avenida Ciudad de Cali. La ruta HA617 cambia su nombre y ajusta su recorrido. En Sumapaz, la UMV brindó una jornada de sensibilización a la comunidad, para proteger la flora de la zona.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1kJHzaA9B3W1PGzKmDBZFOfeYR9xKtd7l/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 201</h4>
+                                                                <i>jueves, 13 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Gracias al trabajo de la UMV, se mejora la movilidad en el barrio Veraguas, de la localidad Los Mártires. Conozca el cierre total del andén oriental de la Av. Caracas, entre calles 61 y 61 A. Feria de empleo en el Portal Sur.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1JdRC5Wy-0cdXE6kVwrCnw0u3jmdgJtja/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 200</h4>
+                                                                <i>miércoles, 12 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Mejores vías en la localidad de Usaquén Plan retorno en TM por conciertos de Guns N’ Roses en el Campín La UMV continúa mejorando vías en el noroccidente de Bogotá</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1u2we5bKP2Jes6J61YuwJJoG4gDxGY4Bb/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 199</h4>
+                                                                <i>martes, 11 de octubre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Trabajos de mantenimiento en andenes. La UMV recibe condecoración por buenas prácticas en seguridad vial. Ajustes operacionales en la ruta BL919</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
                                                     <a class='enlace' href='https://drive.google.com/file/d/1Ukk_uO-W1-w8k3t7VAeuWJ-0gG8UyMSP/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
@@ -6037,7 +6230,6 @@
 
 
     </div>
-</div>
 </div>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
