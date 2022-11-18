@@ -527,7 +527,10 @@
 
 		<hr>
 		<div class="row">
-			<div class="col-xs-12"><img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-11-2019/encuesta-transparencia.jpg"></div>
+			<div class="col-xs-12">
+                <a href="https://docs.google.com/forms/d/1wOiMxHf2IKU_xzBZ9KN_a2ZoxZMTUkrBYFEr08jLCec/" target="_blank" rel="noopener noreferrer">
+                    <img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-11-2019/encuesta-transparencia.jpg"></div>
+                </a>
 		</div>
 	</div>
 </div>
