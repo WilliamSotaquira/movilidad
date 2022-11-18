@@ -8,7 +8,7 @@
 <!-- Set Wrapper -->
 <hr>
 <div class='container-fluid comparendos'>
-    <div class='box-wrp'>
+    <div class='set-wrapper'>
         <div class='box-head'>
             <div class='logo'>
                 <!-- <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/07-03-2022/comparendos_20220307_sm.jpg' alt='logo' title='logo'> -->
@@ -23,7 +23,7 @@
         </div>
 
         <style>
-            .box-wrp {}
+            .set-wrapper {}
 
             .box-head {
                 /* grid-area: logo; */
@@ -80,10 +80,10 @@
                 <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/icono-vehiculos_comparendos.png' alt='' title=''>
             </div>
             <div class="mensaje">
-                <h3>Ahora <strong>desde la comodidad de tu casa</strong> podrás consultar el <strong>pago de comparendos, acuerdos de pago, embargos y prescripciones</strong></h3>
+                <h3>Ahora <strong>desde la comodidad de tu casa</strong> podrás consultar el <strong>pago de comparendos, acuerdos de pago y embargos.</strong></h3>
             </div>
             <div class="box-boton">
-                <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" class="btn btn-nm btn-lg btn-block" target="_blank" rel="noopener noreferrer">Consulte aquí <strong>comparendos, acuerdos de pago, embargos y prescripciones</strong></a>
+                <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" class="btn btn-nm btn-lg btn-block" target="_blank" rel="noopener noreferrer">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a>
             </div>
         </div>
         <hr>
@@ -192,10 +192,10 @@
             }
         </style>
         <div class="box-normativo">
-            <p>Según el artículo 2 del Código Nacional de Tránsito, el comparendo es una orden formal de notificación para que el presunto contraventor o implicado se presente ante la autoridad de tránsito por la comisión de una infracción. Aquí podrá consultar con su número de cedula y placa del vehículo los comparendos que tenga pendientes, acuerdos de pago, embargos y prescripción.</p>
+            <p>Según el artículo 2 del Código Nacional de Tránsito, el comparendo es una orden formal de notificación para que el presunto contraventor o implicado se presente ante la autoridad de tránsito por la comisión de una infracción. Aquí podrá consultar con su número de cedula y placa del vehículo los comparendos que tenga pendientes, acuerdos de pago y embargos.</p>
         </div>
         <div class="box-boton">
-            <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" class="btn btn-lg btn-nm" target="_blank" rel="noopener noreferrer">Consulte aquí <strong>comparendos, acuerdos de pago, embargos y prescripciones</strong></a>
+            <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" class="btn btn-lg btn-nm" target="_blank" rel="noopener noreferrer">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a>
         </div>
         <hr>
         <style>
@@ -211,8 +211,36 @@
                 color: rgba(25, 25, 25, 1);
             }
         </style>
+        <!-- PDF 4:3 aspect ratio -->
+        <div class='box-pdf'>
+            <div class="title title-h3">
+                <h3>SISTEMA DE GESTIÓN ANTISOBORNO</h3>
+                <h4>Dirección de Gestión de Cobro</h4>
+            </div>
+            <div class='embed-responsive embed-responsive-4by3'>
+                <iframe src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-11-2022/gestion_antisoborno-3.pdf' width='640' height='480' allow='autoplay'></iframe>
+            </div>
+            <br>
+            <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-11-2022/gestion_antisoborno-3.pdf" target="_blank" rel="noopener noreferrer" download>Descargue aquí documento de la POLÍTICA ANTISOBORNO DE LA SDM (.pdf)</a>
+        </div>
+        <style>
+            .box-pdf .title {
+                padding: 16px 16px 32px 16px;
+
+            }
+
+            .box-pdf h3,
+            .box-pdf h4 {
+                text-align: center;
+                color: rgba(25, 28, 58, 1);
+            }
+            .box-pdf a{
+                display: inline-block;
+            }
+        </style>
     </div>
 </div>
+<br>
 <!-- End Set Wrapper -->
 
 <!-- Styles -->
@@ -319,8 +347,5 @@
 
     }
 
-    @media(min-width:992px) {}
-
-    @media(min-width:1200px) {}
 </style>
 <!-- End Styles -->
