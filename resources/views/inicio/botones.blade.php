@@ -93,17 +93,7 @@
           </div>
       </div>
       <!-- Fin Seccion Botones Pico y Placa  -->
-
-      <!-- <br>
-      <div class="row">
-          <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="http://bogota.tembici.com.co/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_320x300.jpg" title="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá"></a></div>
-          <div class="col-sm-12 hidden-xs"><a href="http://bogota.tembici.com.co/" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder a Sistema de Bicicletas Compartidas de Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_980x220_.jpg" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
-        </div>
-    </div> -->
-    <br>
-
-
-
+      <br>
       <!-- Bloque Centro de Contacto -->
       <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
       <div class="row">
@@ -116,10 +106,10 @@
                   <div class="tabs">
                       <div class="col-xs-6 col-sm-4 col-md-2">
                           <div class="tab zoom">
-                              <div class="img-tab"><a href="https://agendamiento.movilidadbogota.gov.co/AConect/"><img alt="Dar clic aquí para acceder a Agendamiento de citas" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/agendamiento_20211117.webp" title="Dar clic aquí para acceder a Agendamiento de citas"> </a></div>
+                              <div class="img-tab"><a href="https://vus.circulemosdigital.com.co/#/login"><img alt="Dar clic aquí para acceder a Agendamiento de citas" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/agendamiento_20211117.webp" title="Dar clic aquí para acceder a Agendamiento de citas"> </a></div>
 
                               <div class="txt-tab">
-                                  <h4><a href="https://agendamiento.movilidadbogota.gov.co/AConect/">Agendamiento de Citas</a></h4>
+                                  <h4><a href="https://vus.circulemosdigital.com.co/#/login">Agendamiento de Citas</a></h4>
                               </div>
                           </div>
                       </div>
@@ -183,6 +173,13 @@
               </div>
           </div>
       </div>
+<!-- <hr>
+      <div class="row">
+          <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_2022" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder al Abecé del Pico y Placa 2022 en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2022/pyp_regional_banner_web_900x300.png" title="Aquí puede acceder al Abecé del Pico y Placa 2022 en Bogotá"></a></div>
+          <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_2022" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder al Abecé del Pico y Placa 2022 en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2022/pyp_regional_banner_web_1920x320.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
+        </div>
+    </div>
+    <br> -->
 
       <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
       <!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
