@@ -52,6 +52,7 @@ Route::view('/atencionServicio/tramites/cursos', 'atencionServicio/tramites/curs
 
 Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cursos');
 
+Route::view('/atencionServicio/principal', 'atencionServicio/principal');
 
 
 
@@ -252,4 +253,12 @@ Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cu
     Route::view('/2022/10/sisben', '2022/10/sisben');
     Route::view('/2022/10/esquema', '2022/10/esquema');
     Route::view('/2022/10/infDiasinCarro', '2022/10/infDiasinCarro');
+
+
+    // Contenido noviembre 2022
+    Route::view('/2022/11/administrativos', '2022/11/administrativos');
+    Route::view('/2022/11/procesosAdmin', '2022/11/procesosAdmin');
+    Route::view('/2022/11/contravenciones', '2022/11/contravenciones');
+    Route::view('/2022/11/investigacionesTP', '2022/11/investigacionesTP');
+    Route::view('/2022/11/noticias', '2022/11/noticias');
 
