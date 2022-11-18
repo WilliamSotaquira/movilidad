@@ -237,7 +237,7 @@
                             <br>
                             <p>Ahora puedes gestionar directamente tus citas para los Cursos Pedagógicos.</p>
                             <!-- <p><a href="https://www.movilidadbogota.gov.co/web/content/agendamiento_cursos" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p> -->
-                            <p><a href="https://agendamiento.movilidadbogota.gov.co/AConect/" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
+                            <p><a href="https://vus.circulemosdigital.com.co/#/login" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
                             <p><strong>Comparendos notificados en vía: </strong>50 % de descuento en el valor de la sanción, si realiza el curso y el pago dentro de los cinco (5) días hábiles siguientes a la imposición, o el 25 % de descuento si realiza el curso y el pago entre los seis (6) y veinte (20) días hábiles siguientes.</p>
                             <p><strong>Comparendos impuestos por medios electrónicos: </strong>50 % de descuento en el valor de la sanción, si realiza el curso y el pago entre los días 1 y 11 hábiles siguientes a la fecha de detección de la infracción, o el 25 % de descuento si realiza el curso y el pago entre los días 12 y 26 hábiles siguiente a la fecha de detección de la infracción.</p>
                             <br>
@@ -269,7 +269,7 @@
                             </div>
                             <br>
                             <p>Ahora puedes gestionar directamente tus citas para sacar tu vehículo de patios.</p>
-                            <p><a href="https://agendamiento.movilidadbogota.gov.co/AConect/" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
+                            <p><a href="https://vus.circulemosdigital.com.co/#/login" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
                         </div>
                     </div>
                 </div>
@@ -315,7 +315,7 @@
                             <p>Ahora puedes gestionar directamente tus citas para impugnar comparendos. Recuerda que la solicitud de agendamiento debe ser solicitada a nombre de la persona que aparece en el comparendo.</p>
                             <ul>
                                 <li>
-                                    <p><a href="https://agendamiento.movilidadbogota.gov.co/AConect/" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
+                                    <p><a href="https://vus.circulemosdigital.com.co/#/login" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
                                 </li>
                             </ul>
                         </div>
@@ -345,7 +345,7 @@
                             <br>
                             <p>Ahora puedes gestionar directamente tus citas para solicitar un Acuerdo de Pago</p>
                             <!-- <p><a href="https://www.movilidadbogota.gov.co/web/content/agendamiento_facilidades_de_pago" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p> -->
-                            <p><a href="https://agendamiento.movilidadbogota.gov.co/AConect/" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
+                            <p><a href="https://vus.circulemosdigital.com.co/#/login" target="_blank" rel="noopener noreferrer">Clic aquí para hacer el agendamiento</a></p>
 
 
                         </div>
@@ -513,32 +513,7 @@
             </div>
         </div>
     </div>
-    <hr>
-    <div class='row'>
-        <div class='col-xs-12'>
-            <div class="titulo2-ccm">
-                <h3>Paso a paso agendamiento virtual, <br> cancelación o reprogramación de citas</h3>
-            </div>
-        </div>
-        <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
-            <div class='text-center'>
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/F4YHT4B0B7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div>
 
-        <!-- <div class='col-xs-12 col-sm-6'>
-            <div class='text-center'>
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/-5n-WiWIb80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </div> -->
-    </div>
-    <hr>
-    <div class="row parrafo">
-        <div class='col-xs-12 col-sm-12 col-md-12'>
-
-            <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2022/2022-01-25_instructivo_tramites_csm_calle_13_carta.pdf" target="_blank" rel="noopener noreferrer">Clic aquí para ver el Instructivo de Trámites del Centro de Servicios de la Movilidad Calle 13</a></p>
-        </div>
-    </div>
     <br>
 </div>
 
