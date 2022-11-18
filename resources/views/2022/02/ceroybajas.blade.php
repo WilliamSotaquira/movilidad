@@ -108,7 +108,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>1.290</h3>
+                                <h3>1.485</h3>
                                 <p>Buses en operación</p>
                             </div>
                         </div>
@@ -165,7 +165,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>454</h3>
+                                <h3>463</h3>
                                 <p>Motos registradas</p>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>4.513</h3>
+                                <h3>2.630</h3>
                                 <p>Carros Registrados</p>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>15.556</h3>
+                                <h3>17.161</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
