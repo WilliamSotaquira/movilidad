@@ -7,6 +7,379 @@
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
+
+<!-- Modal demo -->
+<div class='modal fade' id='modalIvonVeloza' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/ivon_veloza.png' alt='Foto: demo' title='Foto: demo'>
+                </div>
+                <div class='texto'>
+                    <h3>Ivon Veloza</h3>
+                    <p>Ingeniera industrial, especialista en seguridad y prevención de riesgos profesionales, es la responsable del SG-SST, realiza la consolidación y análisis de indicadores del SGSST, planes de mejoramiento, gestión de los riesgos e informes a la alta dirección.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal ZulmaPenha -->
+<div class='modal fade' id='modalZulmaPenha' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/zulma_tatiana_pena.png' alt='Foto: ZulmaPenha' title='Foto: ZulmaPenha'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>ZulmaPenha</h3>
+                    <!-- <h4></h4> -->
+                    <p>Profesional en seguridad y salud en el trabajo, apoya los temas relacionados a higiene y seguridad industrial, planes para la prevención y control de emergencias y el equipo de la Brigada de Emergencias.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal JulioCastillo -->
+<div class='modal fade' id='modalJulioCastillo' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/julio_cesar_castillo.png' alt='Foto: JulioCastillo' title='Foto: JulioCastillo'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Julio Cesar Castillo</h3>
+                    <p>Ingeniero de producción industrial, especialista en seguridad, salud e higiene en el trabajo y en el equipo apoya los temas relacionados a la identificación de peligros, valoración de riesgos e implementación de controles, seguimiento a criterios de SST a contratistas y terceros.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Valentina Corredor -->
+<div class='modal fade' id='modalValentinaCorredor' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/valentina_corredor.png' alt='Foto: Valentina Corredor' title='Foto: Valentina Corredor'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Valentina Corredor</h3>
+                    <p>Tecnóloga en seguridad y salud en el trabajo, apoya el programa de medicina preventiva e investigaciones de incidentes y accidentes de trabajo.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Diana Herrera -->
+<div class='modal fade' id='modalDianaHerrera' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/diana_herrera.png' alt='Foto: Diana Herrera' title='Foto: Diana Herrera'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Diana Herrera</h3>
+                    <p>Técnica en administración de recursos humanos, apoya los temas relacionados a capacitación, asesores de la ARL e intermediarios y las actividades que se requieran para el cumplimiento de los objetivos del sistema.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Emilse Payanene -->
+<div class='modal fade' id='modalEmilsePayanene' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/emilse_payanene.png' alt='Foto: Emilse Payanene' title='Foto: Emilse Payanene'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Emilse Payanene</h3>
+                    <p>Auxiliar de enfermería, apoya los temas relacionados a gestión documental, atención al punto de primeros auxilios de acuerdo a necesidad y las labores operativas que requiera el equipo.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Fabiola Fandiño -->
+<div class='modal fade' id='modalFabiolaFandinho' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/fabiola_fandino.png' alt='Foto: Fabiola Fandiño' title='Foto: Fabiola Fandiño'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Fabiola Fandiño</h3>
+                    <p>Auxiliar de enfermería, en el equipo realiza la atención a los puntos de primeros auxilios, apoyo labores enfocadas al programa de medicina preventiva e inspecciones de seguridad.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Jessica Mora -->
+<div class='modal fade' id='modalJessicaMora' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/jessica_mora.png' alt='Foto: Jessica Mora' title='Foto: Jessica Mora'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Jessica Mora</h3>
+                    <p>Auxiliar de enfermería, en el equipo realiza la atención a los puntos de primeros auxilios, apoyo labores enfocadas al programa de medicina preventiva e inspecciones de seguridad.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Astrid Fuentes -->
+<div class='modal fade' id='modalAstridFuentes' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/astrid_fuentes.png' alt='Foto: Astrid Fuentes' title='Foto: Astrid Fuentes'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Astrid Fuentes</h3>
+                    <p>Técnico en auxiliar de enfermería, realiza la atención a los puntos de primeros auxilios, apoyo labores enfocadas al programa de medicina preventiva e inspecciones de seguridad.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Juan Harvey Gómez -->
+<div class='modal fade' id='modalJuanGomez' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/juan_harvey_gomez.png' alt='Foto: Juan Harvey Gómez' title='Foto: Juan Harvey Gómez'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Juan Harvey Gómez</h3>
+                    <p>Psicólogo, especialista en gerencia en salud ocupacional, asesor de <strong>ARL Positiva</strong> y en el equipo apoya los temas relacionados con las estrategias para la intervención y promoción del riesgo psicosocial.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Daires Guerrero -->
+<div class='modal fade' id='modalDairesGuerrero' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/daires_guerrero.png' alt='Foto: Daires Guerrero' title='Foto: Daires Guerrero'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Daires Guerrero</h3>
+                    <p>Fisioterapeuta, especialista en seguridad y salud en el trabajo, asesor de la <strong>ARL Positiva</strong> y apoya los temas relacionados con el desarrollo del sistema de vigilancia epidemiológica en desórdenes músculo esqueléticos, en la prevención y promoción del riesgo biomecánico.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Sergio Rodríguez -->
+<div class='modal fade' id='modalSergioRodriguez' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/sergio_rodriguez.png' alt='Foto: Sergio Rodríguez' title='Foto: Sergio Rodríguez'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Sergio Rodríguez</h3>
+                    <p>Médico especialista en seguridad y salud en el trabajo, asesor de la ARL Positiva y en el equipo apoya los temas relacionados a seguimientos a condiciones de salud, estructuración de programas de salud laboral y actividades de promoción y prevención.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Liliana León -->
+<div class='modal fade' id='modalLilianaLeon' tabindex='-1' role='dialog' aria-labelledby='exampleModalLongTitle' aria-hidden='true'>
+    <div class='modal-dialog' role='document'>
+        <div class='modal-content'>
+            <div class='modal-body'>
+                <div class='foto'>
+                    <div class='imagen'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/liliana_leon.png' alt='Foto: Liliana León' title='Foto: Liliana León'>
+                    </div>
+                </div>
+                <div class='texto'>
+                    <h3>Liliana León</h3>
+                    <p>Ingeniera industrial, especialista en seguridad y salud en el trabajo, asesor de ARL Positiva y en el equipo apoya los temas relacionados a prevención de riesgos y criterios frente a la ISO 45001.</p>
+                </div>
+                <div class='sub-close'>
+                    <button type='button' class='btn btn-secondary' data-dismiss='modal'>Cerrar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .modal-body {
+        background-color: #0066cd;
+        border-radius: 4px;
+    }
+
+    .box-modal {
+        display: grid;
+        gap: 8px;
+        grid-auto-flow: dense;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+            'foto'
+            'texto'
+            'sub-close';
+    }
+
+    @media(min-width:768px) {
+        .box-modal {
+            grid-template-columns: 35% 65%;
+            grid-template-rows: auto;
+            grid-template-areas:
+                'foto texto'
+                'foto sub-close';
+        }
+    }
+
+    .foto {
+        grid-area: foto;
+        max-width: 300px;
+        padding: 8px;
+        margin: auto;
+    }
+
+    .foto img {
+        border-radius: 4px;
+    }
+
+    .texto {
+        grid-area: texto;
+    }
+
+    .texto h3 {
+        font-size: 28px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 1.5;
+        color: #fff;
+        margin: 0px;
+        /* padding: 32px 16px 0px 16px ; */
+        -webkit-text-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+        text-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+    }
+
+    .texto p {
+        margin: 16px 16px 16px 16px;
+        padding: 16px;
+        font-size: 16px 0px;
+        font-weight: 500;
+        text-align: center;
+        line-height: 1.3;
+        color: #fff;
+        border-top: 1px solid #c5c5c5;
+        border-bottom: 1px solid #c5c5c5;
+    }
+
+    .sub-close {
+        grid-area: sub-close;
+        text-align: center;
+        margin-bottom: 16px;
+        max-width: 30%;
+        margin: auto;
+    }
+
+    .sub-close button {
+        background-color: #fff;
+        color: #252525;
+        font-weight: 600;
+    }
+
+    .sub-close button:hover {
+        background-color: #27A6CF;
+        color: #f5f5f5;
+    }
+</style>
+
 <div class='container-fluid seccion'>
     <div class='s1'>
         <div class="encabezado">
@@ -78,7 +451,7 @@
 
                     <!-- Nav tabs -->
                     <ul class="nav nav-tabs" role="tablist">
-                        <li role="presentation" class="active"><a href="#tp_cuatro" aria-controls="tp_cuatro" role="tab" data-toggle="tab">¿Cuál es la labor del equipo de SST?</a></li>
+                        <li role="presentation" class="active"><a href="#tp_cuatro" aria-controls="tp_cuatro" role="tab" data-toggle="tab">Conoce al equipo SST</a></li>
                         <li role="presentation"><a href="#tp_uno" aria-controls="tp_uno" role="tab" data-toggle="tab">Señalética en Braille </a></li>
                         <li role="presentation"><a href="#tp_dos" aria-controls="tp_dos" role="tab" data-toggle="tab">Día de la emergencia</a></li>
                         <li role="presentation"><a href="#tp_tres" aria-controls="tp_tres" role="tab" data-toggle="tab">Importancia de vacunarse</a></li>
@@ -98,7 +471,7 @@
                 <li role="presentation" class="active">
                     <a href="#politica" aria-controls="politica" role="tab" data-toggle="tab">
                         <div class="sgsst-boton">
-                            <div class="sgsst-icono hidden-xs zoom">
+                            <div class="sgsst-icono hidden-xs">
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/micrositio_sys_politica_0.png" alt="Política">
                             </div>
                             <div class="sgsst-titulo">
@@ -110,7 +483,7 @@
                 <li role="presentation">
                     <a href="#objetivos" aria-controls="objetivos" role="tab" data-toggle="tab">
                         <div class="sgsst-boton">
-                            <div class="sgsst-icono hidden-xs zoom">
+                            <div class="sgsst-icono hidden-xs">
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/micrositio_sys_objetivo_0.png" alt="Objetivos">
                             </div>
                             <div class="sgsst-titulo">
@@ -122,7 +495,7 @@
                 <li role="presentation">
                     <a href="#alcance" aria-controls="alcance" role="tab" data-toggle="tab">
                         <div class="sgsst-boton">
-                            <div class="sgsst-icono hidden-xs zoom">
+                            <div class="sgsst-icono hidden-xs">
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/micrositio_sys_alcance_0.png" alt="Alcance">
                             </div>
                             <div class="sgsst-titulo">
@@ -134,11 +507,36 @@
                 <li role="presentation">
                     <a href="#beneficios" aria-controls="beneficios" role="tab" data-toggle="tab">
                         <div class="sgsst-boton">
-                            <div class="sgsst-icono hidden-xs zoom">
+                            <div class="sgsst-icono hidden-xs">
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-12-2021/micrositio_sys_beneficio_0.png" alt="Beneficios">
                             </div>
                             <div class="sgsst-titulo">
                                 <h4>Beneficios</h4>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li role="presentation">
+                    <a href="#equipo" aria-controls="equipo" role="tab" data-toggle="tab">
+                        <div class="sgsst-boton">
+                            <div class="sgsst-icono hidden-xs">
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/sst_equipo.png" alt="Equipo SG-SST">
+                            </div>
+                            <div class="sgsst-titulo">
+                                <h4>Conoce al equipo SST</h4>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+
+                <li role="presentation">
+                    <a href="https://www.huelladeconfianza.com/certificado/f8b3vjdr-ce-elg1-3ngy-62d1ce5be7840/" target="_blank" rel="noopener noreferrer">
+                        <div class="sgsst-boton">
+                            <div class="sgsst-icono hidden-xs">
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/sst_certificacion_icontec.png" alt="Certificacion">
+                            </div>
+                            <div class="sgsst-titulo">
+                                <h4>Certificación Icontec</h4>
                             </div>
                         </div>
                     </a>
@@ -230,6 +628,232 @@
                         </ul>
                     </div>
                 </div>
+                <div role="tabpanel" class="tab-pane fade" id="equipo">
+                    <div class="box-tab">
+                        <h4>Conoce al Equipo de Seguridad y Salud en el Trabajo</h4>
+                        <p>Es el equipo que se encarga de cuidarnos, previniendo lesiones y manteniendo el bienestar físico, mental y social de todos los colaboradores.</p>
+                        <div class="box-equipo">
+
+                            <a data-toggle="modal" data-target="#modalIvonVeloza">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/ivon_veloza.png' alt='Ivon Veloza' title='Ivon Veloza'>
+                                    </div>
+                                    <h4>Ivon Veloza</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalZulmaPenha">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/zulma_tatiana_pena.png' alt='Zulma Tatiana Peña' title='Zulma Tatiana Peña'>
+                                    </div>
+                                    <h4>Zulma Tatiana Peña</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalJulioCastillo">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/julio_cesar_castillo.png' alt='Julio Cesar Castillo' title='Julio Cesar Castillo'>
+                                    </div>
+                                    <h4>Julio Cesar Castillo</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalValentinaCorredor">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/valentina_corredor.png' alt='Valentina Corredor' title='Valentina Corredor'>
+                                    </div>
+                                    <h4>Valentina Corredor</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalDianaHerrera">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/diana_herrera.png' alt='Diana Herrera' title='Diana Herrera'>
+                                    </div>
+                                    <h4>Diana Herrera</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalEmilsePayanene">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/emilse_payanene.png' alt='Emilse Payanene' title='Emilse Payanene'>
+                                    </div>
+                                    <h4>Emilse Payanene</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalFabiolaFandinho">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/fabiola_fandino.png' alt='Fabiola Fandiño' title='Fabiola Fandiño'>
+                                    </div>
+                                    <h4>Fabiola Fandiño</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalJessicaMora">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/jessica_mora.png' alt='Jessica Mora' title='Jessica Mora'>
+                                    </div>
+                                    <h4>Jessica Mora</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalAstridFuentes">
+                                <div class="card-profile">
+                                    <div class="foto-perfil ">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/astrid_fuentes.png' alt='Astrid Fuentes' title='Astrid Fuentes'>
+                                    </div>
+                                    <h4>Astrid Fuentes</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalJuanGomez">
+                                <div class="card-profile">
+                                    <div class="foto-perfil">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/juan_harvey_gomez.png' alt='Juan Harvey Gómez' title='Juan Harvey Gómez'>
+                                    </div>
+                                    <h4>Juan Harvey Gómez</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalDairesGuerrero">
+                                <div class="card-profile">
+                                    <div class="foto-perfil">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/daires_guerrero.png' alt='Daires Guerrero' title='Daires Guerrero'>
+                                    </div>
+                                    <h4>Daires Guerrero</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalSergioRodriguez">
+                                <div class="card-profile">
+                                    <div class="foto-perfil">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/sergio_rodriguez.png' alt='Sergio Rodríguez' title='Sergio Rodríguez'>
+                                    </div>
+                                    <h4>Sergio Rodríguez</h4>
+                                </div>
+                            </a>
+
+                            <a data-toggle="modal" data-target="#modalLilianaLeon">
+                                <div class="card-profile">
+                                    <div class="foto-perfil">
+                                        <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/liliana_leon.png' alt='Liliana León' title='Liliana León'>
+                                    </div>
+                                    <h4>Liliana León</h4>
+                                </div>
+                            </a>
+
+                            <style>
+                                .card-profile {
+                                    display: grid;
+                                    /* gap: 8px; */
+                                    grid-auto-flow: dense;
+                                    grid-template-columns: 1fr;
+                                    grid-template-rows: auto;
+                                    padding: 8px;
+                                }
+
+                                .card-profile .foto-perfil {
+                                    /* margin: 16px 32px; */
+                                    max-width: 250px;
+                                    /* margin: auto; */
+                                }
+
+                                .card-profile .foto-perfil img {
+                                    border-radius: 4px;
+                                }
+
+                                .card-profile h4 {
+                                    margin: 0px;
+                                    /* border-bottom: none !important; */
+                                    padding-bottom: 0px;
+                                    margin: 8px;
+                                    transition: all ease-in 0.3s;
+                                }
+
+                                .card-profile:hover h4 {
+                                    padding-top: 8px;
+                                    border-bottom: solid 3px #0066cd !important;
+                                    margin-bottom: -1px !important;
+                                }
+
+                                .zoom {
+                                    transition: 0.5s ease;
+                                    -moz-transition: 0.5s ease;
+                                    /* Firefox */
+                                    -webkit-transition: 0.5s ease;
+                                    /* Chrome - Safari */
+                                    -o-transition: 0.5s ease;
+                                    /* Opera */
+                                    -ms-transition: 0.5s ease;
+                                }
+
+                                .zoom:hover {
+                                    -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+                                    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+                                    transform: scale(1.05);
+                                    -moz-transform: scale(1.05);
+                                    /* Firefox */
+                                    -webkit-transform: scale(1.05);
+                                    /* Chrome - Safari */
+                                    -o-transform: scale(1.05);
+                                    /* Opera */
+                                    -ms-transform: scale(1.05);
+
+                                }
+
+                                /* IE9 */
+
+                                @media(min-width:768px) {
+                                    .card-profile {
+                                        grid-template-columns: 1fr;
+                                    }
+                                }
+
+                                @media(min-width:992px) {}
+                            </style>
+
+                        </div>
+                        <style>
+                            .box-equipo {
+                                display: grid;
+                                gap: 32px;
+                                grid-auto-flow: dense;
+                                grid-template-columns: repeat(2, 1fr);
+                                grid-template-rows: auto;
+                            }
+
+                            @media(min-width:768px) {
+                                .box-equipo {
+                                    grid-template-columns: repeat(4, 1fr);
+                                    grid-template-rows: auto;
+                                }
+                            }
+
+                            @media(min-width:992px) {}
+                        </style>
+                        <div class="contacto">
+                            <p class="">Para comunicarte con ellos puedes escribir al correo <a href="mailto:sst@movilidadbogota.gov.co">sst@movilidadbogota.gov.co</a></p>
+                        </div>
+                        <style>
+                            .box-tab .contacto p {
+                                text-align: left !important;
+                                word-break: break-word;
+                                word-wrap: break-word;
+                            }
+                        </style>
+
+                    </div>
+                </div>
+
             </div>
 
         </div>
@@ -325,7 +949,7 @@
     .seccion .s2,
     .seccion .s3,
     .seccion .s4 {
-        font-size: 13px !important;
+        font-size: 14px !important;
 
     }
 
@@ -393,7 +1017,7 @@
     .s2 .parrafo p {
         text-align: justify;
         line-height: 1.2;
-        font-size: 1rem;
+        /* font-size: 1rem; */
     }
 
     .s2 .img-s2 {
@@ -598,7 +1222,7 @@
     }
 
     .tab-box .nav-tabs>li {
-        width:25%;
+        width: 25%;
         background-color: #27A6CF;
     }
 
@@ -635,28 +1259,30 @@
         background-color: #fff !important;
         color
     }
-    .ol-docs li{
+
+    .ol-docs li {
         padding-bottom: 10px;
     }
-    .ol-docs li a{
+
+    .ol-docs li a {
         color: #252525;
         text-decoration: none
     }
-    .ol-docs li a:hover{
+
+    .ol-docs li a:hover {
         color: #A25FA4;
     }
 </style>
 <style>
-    @media(max-width:767px) {}
+    @media(max-width:767px) {
+        .tab-box .nav-tabs>li {
+            width: 100%;
+            background-color: #27A6CF;
+        }
+    }
 
     @media(min-width:768px) {
 
-        .seccion .s1,
-        .seccion .s2,
-        .seccion .s3,
-        .seccion .s4 {
-            /* font-size: 14px; */
-        }
 
         .pr0 {
             padding-right: 0px !important;
@@ -687,7 +1313,9 @@
         }
 
         .s3 .nav-tabs>li {
-            width: 25%;
+            /* width: 25%; */
+            width: 16.66667%;
+
         }
 
         .sgsst-icono {
@@ -710,7 +1338,7 @@
 
         .s2 .parrafo p {
             line-height: 1.4;
-            font-size: 1.2rem;
+            font-size: 14px;
         }
 
 
@@ -736,7 +1364,6 @@
             font-family: sora;
         }
 
-
         .tab-box {
             height: 550px;
             display: flex;
@@ -745,17 +1372,13 @@
             align-items: center;
         }
 
-
         .s3 .box-tab {
             padding: 3vw 5vw;
         }
 
-
-
     }
 
     @media(min-width:992px) {
-
 
         .tab-box {
             height: 450px;
