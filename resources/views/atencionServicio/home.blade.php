@@ -124,12 +124,12 @@
     }
 
     .box-boton .titulo {
-        height: 178px;
+        height: 150px;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 20px;
+        padding: 8px;
     }
 
     .box-boton h3 {
