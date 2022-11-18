@@ -31,6 +31,7 @@
             padding: 0px !important;
         }
 
+
         .encabezado {
             background: rgba(31, 34, 62, 1);
             margin: 0px;
@@ -244,9 +245,11 @@
                                         <li>Ejecutar controles de velocidad, operativos de embriaguez, de invasión del espacio público entre otros.</li>
                                         <!-- <li>Realizar la grabación de todos los procedimientos mediante la cámara corporal (bodycam).</li> -->
                                     </ul>
+
                                     </p>
                                 </div>
                             </div>
+
                         </div>
                         <div class="col-xs-12">
                             <div class="tt-footer-izq"></div>
