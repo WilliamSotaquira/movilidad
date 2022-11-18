@@ -15,6 +15,7 @@
             <style>
                 .box-wrp .box-head {
                     grid-area: encabezado;
+                    background-color: var(--color-primario);
                 }
             </style>
         </div>
@@ -41,7 +42,7 @@
                 <div class='panel panel-default'>
                     <div class='panel-heading' role='tab' id='heading_queEs'>
                         <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse_queEs' aria-expanded='false' aria-controls='collapse_queEs'>
+                            <a role='button' data-toggle='collapse' data-parent='#accordion_bicicarga' href='#collapse_queEs' aria-expanded='false' aria-controls='collapse_queEs'>
                                 ¿Qué es BiciCarga?
                             </a>
                         </h4>
@@ -63,7 +64,7 @@
                                         font-weight: 700;
                                         text-align: center;
                                         line-height: 1.2;
-                                        color: rgba(1, 30, 65, 1);
+                                        color: var(--color-bc-azul);
                                         padding: 32px 16px 0px 16px !important;
                                     }
                                 </style>
@@ -85,10 +86,29 @@
                                         font-weight: 500;
                                         text-align: justify;
                                         line-height: 1.3;
-                                        color: rgba(25, 25, 25, 1);
-                                        padding: 16px 16px 0px 16px !important;
+                                        color: var(--color-bc-text);
+                                        padding: 16px 16px 0px 16px;
                                         margin: 0px;
                                     }
+
+                                    @media(min-width:768px) {
+                                        .box-queEs-definicion {
+                                            padding: 0px 48px 32px 0px;
+                                        }
+
+                                        .box-queEs-definicion p {
+                                            padding: 0px 16px 0px 16px !important;
+                                        }
+
+                                        .box-queEs-titulo h3 {
+                                            padding: 32px 64px 0px 16px !important;
+                                        }
+
+                                    }
+
+                                    @media(min-width:992px) {}
+
+                                    @media(min-width:1200px) {}
                                 </style>
 
                                 <!-- box seccion queEs-imagen -->
@@ -106,7 +126,7 @@
 
                             </div>
                             <style>
-                                .box-wrp .box-collapseds .box-queEs {
+                                .box-wrp .box-acordeon .box-queEs {
                                     display: grid;
                                     gap: 10px;
                                     grid-auto-flow: dense;
@@ -117,6 +137,38 @@
                                         'box-queEs-definicion'
                                         'box-queEs-imagen';
                                 }
+
+
+                                @media(min-width:768px) {
+                                    .box-wrp .box-acordeon .box-queEs {
+                                        grid-template-columns: 1fr 1fr;
+                                        gap: 0px;
+                                        grid-template-areas:
+                                            'box-queEs-imagen box-queEs-titulo'
+                                            'box-queEs-imagen box-queEs-definicion';
+                                    }
+
+                                    .box-queEs-definicion {
+                                        /* height: px; */
+                                        display: flex;
+                                        flex-direction: column;
+                                        justify-content: center;
+                                        align-items: center;
+                                        padding: 32px 48px 32px 0px;
+                                    }
+
+                                    .box-queEs-imagen {
+                                        padding: 16px 0px 16px 32px;
+                                        /* padding: 16px 32px; */
+                                        /* max-width: 500px; */
+                                        max-width: 350px !important;
+                                        padding: 0px 0px 0px 32px;
+                                    }
+
+                                    .box-queEs-definicion p {
+                                        line-height: 1.5;
+                                    }
+                                }
                             </style>
                         </div>
 
@@ -124,11 +176,11 @@
                 </div>
 
                 <!-- collapse queBusco -->
-                <div class='panel panel-primary'>
+                <div class='panel panel-default'>
                     <div class='panel-heading' role='tab' id='heading_queBusco'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_bicicarga' href='#collapse_queBusco' aria-expanded='false' aria-controls='collapse_queBusco'>
-                                ¿Qué busco?
+                                ¿Qué buscó?
                             </a>
                         </h4>
                     </div>
@@ -202,7 +254,7 @@
                     <style>
                         .box-queBusco {
                             grid-area: queBusco;
-                            background-color: rgba(1, 30, 65, 1) !important;
+                            background-color: var(--color-bc-azul);
 
                         }
 
@@ -213,7 +265,7 @@
                             font-weight: 700;
                             text-align: center;
                             line-height: 1.2;
-                            color: rgba(255, 255, 255, 1);
+                            color: var(--color-bc-blanco);
                         }
 
                         .box-queBusco p {
@@ -222,13 +274,13 @@
                             font-weight: 500;
                             text-align: center;
                             line-height: 1.2;
-                            color: rgba(255, 255, 255, 1);
+                            color: var(--color-bc-blanco);
                         }
 
 
 
                         .box-queBusco .card-atributo {
-                            border-top: 1px rgba(255, 255, 255, 1) dashed;
+                            border-top: 1px var(--color-bc-blanco) dashed;
                             /* height: px; */
                             display: grid;
                             gap: 10px;
@@ -249,7 +301,7 @@
                             font-weight: 500;
                             text-align: left;
                             line-height: 1.3;
-                            color: rgba(255, 255, 255, 1);
+                            color: var(--color-bc-blanco);
                         }
 
                         .box-queBusco .card-atributo .texto ul>li {
@@ -261,7 +313,7 @@
                             font-weight: 700;
                             text-align: center;
                             line-height: 1.2;
-                            color: rgba(255, 255, 255, 1);
+                            color: var(--color-bc-blanco);
                             padding: 16px 16px 0px 16px;
                             margin: 0px;
                         }
@@ -275,96 +327,204 @@
                         .box-acordeon .panel-body {
                             padding: 0px !important;
                         }
+
+                        @media(min-width:768px) {
+
+                            /* En línea #7 | http://localhost:8000/2022/09/bicicarga#collapse_queEs */
+
+                            .box-queBusco .card-atributo {
+                                /* grid-template-columns: 1fr; */
+                                grid-template-columns: 33% auto;
+                            }
+
+                            .box-queBusco .card-atributo .imagen img {
+                                /* max-width: 120px; */
+                                max-width: 99px;
+                                padding-top: 16px;
+                                padding-bottom: 16px;
+                            }
+
+                        }
                     </style>
                 </div>
 
                 <!-- collapse como -->
-                <div class='panel panel-primary'>
+                <div class='panel panel-default'>
                     <div class='panel-heading' role='tab' id='heading_como'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_bicicarga' href='#collapse_como' aria-expanded='false' aria-controls='collapse_como'>
                                 ¿Cómo se desarrolló?
-
                             </a>
                         </h4>
                     </div>
                     <div id='collapse_como' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_como' aria-expanded='false'>
                         <div class='panel-body'>
                             <div class='box-como'>
-                                <div class="content2">
-                                    <div>
-                                        <h3>¿Cómo se desarrolló el piloto?</h3>
-                                        <p>El piloto tuvo una duración de seis meses para validar dos modelos de operación: el
-                                            primer modelo se trabajó con flota propia desde los centros de distribución de cada
-                                            empresa, y el segundo con operación usando una plataforma colaborativa de cross
-                                            docking (un espacio de recepción y almacenamiento temporal de mercancía).</p>
-                                    </div>
-                                    <div class='imagen'>
+
+                                <div class="title title-h3">
+                                    <h3>¿Cómo se desarrolló el piloto?</h3>
+                                </div>
+                                <div class="paragraph ph-1">
+                                    <p>El piloto se desarrolló en <strong>dos fases</strong>:</p>
+                                </div>
+                                <div class='imagen'>
+                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-12-2020/micrositio-bicicarga.jpg" target="_blank" rel="noopener noreferrer">
                                         <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-12-2020/micrositio-bicicarga.jpg' alt='imagen comparación de modelos' title='imagen comparación de modelos'>
+                                    </a>
+                                </div>
+
+                                <div class="box-collapse">
+
+                                    <!-- collapse_fases -->
+                                    <div class='panel-group' id='accordion_fases' role='tablist ' aria-multiselectable='true'>
+
+                                        <!-- collapse fase1 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_fase1'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordion_fases' href='#collapse_fase1' aria-expanded='false' aria-controls='collapse_fase1'>
+                                                        Fase 1
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_fase1' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_fase1' aria-expanded='false'>
+                                                <div class='panel-body'>
+                                                    <div class='box-fase1'>
+
+                                                        <div class="paragraph ph-1">
+                                                            <p><strong>Fase 1:</strong> Empezó en diciembre de 2020 hasta mayo 2021 con la participación de cuatro empresas en la que se desarrollaron los dos modelos de operación.</p>
+                                                        </div>
+                                                        <div class="modelo1">
+                                                            <div class="title title-h4">
+                                                                <h4>Modelo 1: Operación centralizada</h4>
+                                                            </div>
+                                                            <div class="paragraph ph-1">
+                                                                <p>Este involucró empresas con un centro de acopio ubicado en Bogotá, que se usó para distribuir su mercancía en un radio menor a 5 km con bicicletas o triciclos eléctricos propios. El piloto se desarrolló con tres empresas, dos del sector industrial de consumo masivo y un operador logístico.</p>
+                                                            </div>
+                                                            <div class='imagen'>
+                                                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa2.jpg" target="_blank" rel="noopener noreferrer">
+                                                                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa2.jpg' alt='Imagen Modelo 1: Operación centralizada' title='Imagen Modelo 1: Operación centralizada'>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="modelo2">
+                                                            <div class="title title-h4">
+                                                                <h4>Modelo 2: Plataforma de cross docking colaborativa</h4>
+                                                            </div>
+                                                            <div class="paragraph ph-1">
+                                                                <p>Este involucró a empresas que hicieron uso de una plataforma colaborativa para distribuir sus mercancías partiendo de un único punto de acopio ubicado en una zona estratégica de la ciudad. En ella se recibían los pedidos para distribuirlos en bicicletas o triciclos eléctricos a su destino final. La razón fundamental detrás de la ubicación del centro es que permitió que las entregas de última milla se hicieran en bicicleta, eliminando al menos una parte de los movimientos realizados en la zona por vehículos de carga convencionales.</p>
+                                                            </div>
+                                                            <div class='imagen'>
+                                                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa1.jpg" target="_blank" rel="noopener noreferrer">
+                                                                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa1.jpg' alt='Imagen Modelo 2: Plataforma de cross docking colaborativa' title='Imagen Modelo 2: Plataforma de cross docking colaborativa'>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .box-fase1 {
+                                                    grid-area: fase1;
+                                                }
+                                            </style>
+                                        </div>
+
+                                        <!-- collapse fase2 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_fase2'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordion_fases' href='#collapse_fase2' aria-expanded='false' aria-controls='collapse_fase2'>
+                                                        Fase 2
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_fase2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_fase2' aria-expanded='false'>
+                                                <div class='panel-body'>
+                                                    <div class='box-fase2'>
+
+                                                        <div class="paragraph ph-1">
+                                                            <p><strong>Fase 2:</strong> Ejecutada entre diciembre de 2021 y mayo de 2022, únicamente bajo el segundo modelo de operación y en el que participaron dos empresas. Esta última fase adicionalmente tuvo como factor agregado la recarga de las bicicletas mediante paneles solares.</p>
+                                                        </div>
+                                                        <div class="modelo2">
+                                                            <div class="title title-h4">
+                                                                <h4>Modelo 2: Plataforma de cross docking colaborativa</h4>
+                                                            </div>
+                                                            <div class="paragraph ph-1">
+                                                                <p>Este involucró a empresas que hicieron uso de una plataforma colaborativa para distribuir sus mercancías partiendo de un único punto de acopio ubicado en una zona estratégica de la ciudad. En ella se recibieron los pedidos para distribuirlos en bicicletas o triciclos eléctricos a su destino final. La razón fundamental detrás de la ubicación del centro es que permitió que las entregas de última milla se hicieran en bicicleta, eliminando al menos una parte de los movimientos realizados en la zona por vehículos de carga convencionales.</p>
+                                                            </div>
+                                                            <div class='imagen'>
+                                                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa1.jpg" target="_blank" rel="noopener noreferrer">
+                                                                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa1.jpg' alt='Imagen Modelo 2: Plataforma de cross docking colaborativa' title='Imagen Modelo 2: Plataforma de cross docking colaborativa'>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .box-fase2 {
+                                                    grid-area: fase2;
+                                                }
+                                            </style>
+                                        </div>
+
                                     </div>
-                                    <div>
-                                        <h4>Modelo 1: Operación centralizada</h4>
-                                        <p>Este involucró empresas con un centro de acopio ubicado en Bogotá, que se usó para
-                                            distribuir su mercancía en un radio menor a 5 km con bicicletas o triciclos
-                                            eléctricos propios. El piloto se desarrolló con tres empresas, dos del sector
-                                            industrial de consumo masivo y un operador logístico.</p>
-                                    </div>
-                                    <div class='imagen'>
-                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa2.jpg' alt='Imagen Modelo 1: Operación centralizada' title='Imagen Modelo 1: Operación centralizada'>
-                                    </div>
-                                    <div>
-                                        <h4>Modelo 2: Plataforma de cross docking colaborativa</h4>
-                                        <p>Este involucró a empresas que hicieron uso de una plataforma colaborativa para
-                                            distribuir sus mercancías partiendo de un único punto de acopio ubicado en una zona
-                                            estratégica de la ciudad. En ella se recibieron los pedidos para distribuirlos en
-                                            bicicletas o triciclos eléctricos a su destino final. La razón fundamental detrás de
-                                            la ubicación del centro es que permitió que las entregas de última milla se hicieran
-                                            en bicicleta, eliminando al menos una parte de los movimientos realizados en la zona
-                                            por vehículos de carga convencionales.</p>
-                                    </div>
-                                    <div class='imagen'>
-                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-02-2022/mapa1.jpg' alt='Imagen Modelo 2: Plataforma de cross docking colaborativa' title='Imagen Modelo 2: Plataforma de cross docking colaborativa'>
-                                    </div>
+                                    <!-- /#fin _fases -->
+
+                                </div>
+                                <style>
+                                    .box-como .box-collapse {
+                                        grid-area: cpte-collapse;
+                                    }
+                                </style>
+
+                                <div class="">
+
                                 </div>
                             </div>
+                            <style>
+                                .box-acordeon .box-como {
+                                    grid-area: box-como;
+                                    padding: 8px;
+                                }
+
+                                .box-wrp .box-como .title-h3 h3 {
+                                    /* font-size: 18px; */
+                                    font-weight: 700;
+                                    text-align: center;
+                                    line-height: 1.2;
+                                    color: var(--color-bc-verde);
+                                    padding: 32px 16px 0px 16px;
+                                }
+
+                                .box-wrp .box-como .title-h4 h4 {
+                                    font-size: 18px;
+                                    font-weight: 700;
+                                    text-align: left;
+                                    line-height: 1.2;
+                                    color: var(--color-bc-verde);
+                                    margin: 16px;
+                                }
+
+                                .box-wrp .box-como p {
+                                    font-size: 15px;
+                                    font-weight: 500;
+                                    text-align: justify;
+                                    line-height: 1.3;
+                                    color: var(--color-bc-text);
+                                    padding: 16px;
+                                    margin: 0px;
+                                }
+                            </style>
                         </div>
                     </div>
-                    <style>
-                        .box-como {
-                            grid-area: como;
-                        }
-
-                        .box-wrp .box-como .content2 h3 {
-                            /* font-size: 18px; */
-                            font-weight: 700;
-                            text-align: center;
-                            line-height: 1.2;
-                            color: rgba(0, 168, 78, 1);
-                            padding: 32px 16px 0px 16px;
-                        }
-
-                        .box-wrp .box-como .content2 h4 {
-                            font-size: 18px;
-                            font-weight: 700;
-                            text-align: left;
-                            line-height: 1.2;
-                            color: rgba(0, 168, 78, 1);
-                            margin: 16px;
-                        }
-
-                        .box-wrp .box-como .content2 p {
-                            font-size: 15px;
-                            font-weight: 500;
-                            text-align: justify;
-                            line-height: 1.3;
-                            color: rgba(25, 25, 25, 1);
-                            padding: 15px;
-                        }
-                    </style>
                 </div>
 
                 <!-- collapse seMidio -->
-                <div class='panel panel-primary'>
+                <div class='panel panel-default'>
                     <div class='panel-heading' role='tab' id='heading_seMidio'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_bicicarga' href='#collapse_seMidio' aria-expanded='false' aria-controls='collapse_seMidio'>
@@ -388,7 +548,7 @@
                                 </div>
                                 <style>
                                     .box-acordeon .content3 {
-                                        background-color: rgba(0, 168, 78, 1);
+                                        background-color: var(--color-bc-verde);
                                     }
 
                                     .box-acordeon .content3 h3 {
@@ -396,7 +556,7 @@
                                         font-weight: 700;
                                         text-align: center;
                                         line-height: 1.2;
-                                        color: rgba(255, 255, 255, 1);
+                                        color: var(--color-bc-blanco);
                                         padding: 16px;
                                         margin: 0px;
                                     }
@@ -406,7 +566,7 @@
                                         font-weight: 700;
                                         text-align: left;
                                         line-height: 1.2;
-                                        color: rgba(255, 255, 255, 1);
+                                        color: var(--color-bc-blanco);
                                         margin: 16px;
                                     }
 
@@ -415,8 +575,14 @@
                                         font-weight: 500;
                                         text-align: justify;
                                         line-height: 1.3;
-                                        color: rgba(255, 255, 255, 1);
+                                        color: var(--color-bc-blanco);
                                         padding: 0px 15px 15px 15px;
+                                    }
+
+                                    @media(min-width:768px) {
+                                        .box-acordeon .content3 p {
+                                            padding: 0px 96px 32px 96px;
+                                        }
                                     }
                                 </style>
                                 <div class="content4">
@@ -495,7 +661,7 @@
                                         font-weight: 700;
                                         text-align: center;
                                         line-height: 1.2;
-                                        color: rgba(0, 168, 78, 1);
+                                        color: var(--color-bc-verde);
                                         margin: 0px;
 
                                         padding: 16px 16px 0px 16px;
@@ -503,6 +669,21 @@
 
                                     .box-acordeon .content4 .list-content4 {
                                         padding: 16px 16px 0px 16px;
+                                    }
+
+                                    .box-acordeon .content4 .list-content4 ul>li {
+                                        text-align: left;
+                                        padding-bottom: 8px;
+                                    }
+
+                                    @media(min-width:768px) {
+                                        .box-acordeon .content4 {
+                                            display: grid;
+                                            gap: 20px;
+                                            grid-auto-flow: dense;
+                                            grid-template-columns: 1fr 1fr;
+                                            grid-template-rows: auto;
+                                        }
                                     }
                                 </style>
                             </div>
@@ -516,7 +697,7 @@
                 </div>
 
                 <!-- collapse resultados -->
-                <div class='panel panel-primary'>
+                <div class='panel panel-default'>
                     <div class='panel-heading' role='tab' id='heading_resultados'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_bicicarga' href='#collapse_resultados' aria-expanded='false' aria-controls='collapse_resultados'>
@@ -524,8 +705,9 @@
                             </a>
                         </h4>
                     </div>
-                    <div id='collapse_resultados' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_resultados' aria-expanded='false'>
+                    <div id='collapse_resultados' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_resultados' aria-expanded='false'>
                         <div class='panel-body'>
+                            desde aqui
                             <div class='box-resultados'>
 
                                 <div class="box-eficiencia">
@@ -562,11 +744,18 @@
                                                     grid-area: box-img;
                                                     padding-top: 8px;
                                                 }
+
+                                                @media(min-width:768px) {
+                                                    .box-eo-head .box-img {
+                                                        max-width: 490px;
+                                                        margin: auto;
+                                                    }
+                                                }
                                             </style>
                                         </div>
                                         <style>
                                             .box-eo .box-eo-head {
-                                                grid-area: box-oe-head;
+                                                grid-area: box-eo-head;
                                                 display: grid;
                                                 gap: 8px;
                                                 grid-auto-flow: dense;
@@ -576,19 +765,32 @@
                                                     'box-title'
                                                     'box-img';
                                                 padding-bottom: 16px;
-                                                border-bottom: 1px dashed #ffffff;
+                                                border-bottom: 1px dashed var(--color-bc-blanco);
                                             }
                                         </style>
 
-                                        <div class="box-oe-1">
+                                        <div class="box-eo-1">
 
                                             <div class="box-eo-1-2">
                                                 <h3 class="enfb1">Distancia recorrida:</h3>
+                                                <p><span class="enfv2">17.000 Km</span></p>
+
                                             </div>
                                             <style>
                                                 .box-eo .box-eo-1-2 {
                                                     grid-area: box-eo-1-2;
+                                                    padding: 16px 0px 0px 0px;
+                                                }
+
+                                                .box-eo .box-eo-1-2 p {
                                                     padding-top: 16px;
+                                                    /* text-align: left; */
+                                                }
+
+                                                @media(min-width:768px) {
+                                                    .box-eo .box-eo-1-2 {
+                                                        padding: 16px 0px 8px 0px;
+                                                    }
                                                 }
                                             </style>
 
@@ -613,27 +815,11 @@
                                                         max-width: 120px;
                                                         margin: auto;
                                                     }
-                                                </style>
 
-                                                <!-- box seccion eo-1-1-2 -->
-                                                <div class="box-eo-1-1-2">
-                                                    <div>
-                                                        <p><span class="enfv2">17.000 Km</span></p>
-                                                    </div>
-                                                </div>
-                                                <style>
-                                                    .box-eo-1-1-2 {
-                                                        grid-area: box-eo-1-1-2;
-                                                        /* height: px; */
-                                                        display: flex;
-                                                        flex-direction: column;
-                                                        justify-content: center;
-                                                        align-items: center;
-                                                        padding: 8px;
-                                                    }
-
-                                                    .box-eo .box-eo-1-1-2 .enfv2 {
-                                                        text-align: center;
+                                                    @media(min-width:768px) {
+                                                        .box-eo-1-1-1 img {
+                                                            margin-bottom: 0px;
+                                                        }
                                                     }
                                                 </style>
 
@@ -664,7 +850,7 @@
                                                     padding: 16px 0px;
                                                 }
 
-                                                .box-eo .box-eo-1-3 .enfv2 {
+                                                .box-eo .box-eo-1-3 p {
                                                     text-align: center;
                                                 }
                                             </style>
@@ -678,8 +864,8 @@
                                             </style>
                                         </div>
                                         <style>
-                                            .box-oe-1 {
-                                                grid-area: box-oe-1;
+                                            .box-eo-1 {
+                                                grid-area: box-eo-1;
                                                 display: grid;
                                                 gap: 8px;
 
@@ -692,18 +878,67 @@
                                                     'box-eo-1-3'
                                                     'box-eo-1-4';
                                                 padding: 16px 0px;
-                                                border-bottom: 1px dashed #ffffff;
+                                                border-bottom: 1px dashed var(--color-bc-blanco);
+
+                                            }
+
+                                            @media(min-width:768px) {
+                                                .box-eo-1 {
+                                                    grid-area: box-eo-1;
+                                                    display: grid;
+                                                    gap: 8px;
+
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'box-eo-1-2 box-eo-1-3'
+                                                        'box-eo-1-1 box-eo-1-4';
+                                                    padding: 16px 0px;
+                                                    border-bottom: 1px dashed var(--color-bc-blanco);
+                                                }
+
+                                                .box-eo .box-eo-1-1 {
+                                                    grid-area: box-eo-1-1;
+                                                    display: grid;
+                                                    gap: 8px;
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'box-eo-1-1-1 box-eo-1-1-2 ';
+                                                    padding: 0px 16px;
+                                                }
+                                            }
+
+                                            @media(min-width:992px) {
+                                                .box-eo-1 {
+                                                    padding: 16px 96px;
+                                                }
+
                                             }
                                         </style>
 
                                         <div class="box-eo-2">
                                             <div class="box-eo-2-2">
                                                 <h3 class="enfb1">Pedidos entregados:</h3>
+                                                <p><span class="enfv2">62.000</span></p>
                                             </div>
                                             <style>
                                                 .box-eo-2 .box-eo-2-2 {
                                                     grid-area: box-eo-2-2;
+                                                    padding: 16px 0px 0px 0px;
+                                                }
+
+                                                .box-eo .box-eo-2-2 p {
                                                     padding-top: 16px;
+                                                    /* text-align: left; */
+                                                }
+
+                                                @media(min-width:768px) {
+                                                    .box-eo .box-eo-1-2 {
+                                                        padding: 16px 0px 8px 0px;
+                                                    }
                                                 }
                                             </style>
 
@@ -727,31 +962,13 @@
                                                         max-width: 120px;
                                                         margin: auto;
                                                     }
-                                                </style>
 
-                                                <!-- box seccion eo-2-1-2 -->
-                                                <div class="box-eo-2-1-2">
-                                                    <div>
-                                                        <p><span class="enfv2">62.000</span></p>
-                                                    </div>
-
-                                                </div>
-                                                <style>
-                                                    .box-eo-2-1-2 {
-                                                        grid-area: box-eo-2-1-2;
-                                                        /* height: px; */
-                                                        display: flex;
-                                                        flex-direction: column;
-                                                        justify-content: center;
-                                                        align-items: center;
-                                                        padding: 8px;
-                                                    }
-
-                                                    .box-eo-2-1-2 .enfv2 {
-                                                        text-align: center;
+                                                    @media(min-width:768px) {
+                                                        .box-eo-1-1-1 img {
+                                                            margin-bottom: 0px;
+                                                        }
                                                     }
                                                 </style>
-
 
                                             </div>
                                             <style>
@@ -769,6 +986,7 @@
 
                                                 }
                                             </style>
+
                                             <div class="box-eo-2-3">
                                                 <h3 class="enfb1">Equivale a:</h3>
                                                 <p class="enfb2"><span class="enfv2">160 clientes</span> recibiendo pedidos todos los días durante un año.</p>
@@ -783,6 +1001,7 @@
                                                     text-align: center;
                                                 }
                                             </style>
+
                                             <div class="box-eo-2-4 box-img">
                                                 <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-04-2022/recurso_23_0.png' alt='imagen motos y almacenamiento' title='imagen motos y almacenamiento'>
                                             </div>
@@ -791,10 +1010,11 @@
                                                     grid-area: box-eo-2-4;
                                                 }
                                             </style>
+
                                         </div>
                                         <style>
                                             .box-eo-2 {
-                                                grid-area: box-oe-2;
+                                                grid-area: box-eo-2;
                                                 display: grid;
                                                 gap: 8px;
                                                 grid-auto-flow: dense;
@@ -806,18 +1026,66 @@
                                                     'box-eo-2-3'
                                                     'box-eo-2-4';
                                                 padding: 16px 0px;
-                                                border-bottom: 1px dashed #ffffff;
+                                                border-bottom: 1px dashed var(--color-bc-blanco);
+                                            }
+
+                                            @media(min-width:768px) {
+                                                .box-eo-2 {
+                                                    grid-area: box-eo-2;
+                                                    display: grid;
+                                                    gap: 8px;
+
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'box-eo-2-2 box-eo-2-3'
+                                                        'box-eo-2-1 box-eo-2-4';
+                                                    padding: 16px 0px;
+                                                    border-bottom: 1px dashed var(--color-bc-blanco);
+                                                }
+
+                                                .box-eo .box-eo-2-1 {
+                                                    grid-area: box-eo-2-1;
+                                                    display: grid;
+                                                    gap: 8px;
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'box-eo-2-1-1 box-eo-2-1-2 ';
+                                                    padding: 0px 16px;
+                                                }
+                                            }
+
+                                            @media(min-width:992px) {
+                                                .box-eo-2 {
+                                                    padding: 16px 96px;
+                                                }
+
                                             }
                                         </style>
 
                                         <div class="box-eo-3">
                                             <div class="box-eo-3-2">
                                                 <h3 class="enfb1">Mercancia entregada:</h3>
+                                                <p><span class="enfv2">93 Toneladas</span></p>
                                             </div>
                                             <style>
                                                 .box-eo-3 .box-eo-3-2 {
                                                     grid-area: box-eo-3-2;
                                                     padding-top: 16px;
+                                                }
+
+                                                .box-eo .box-eo-3-2 p {
+                                                    padding-top: 16px;
+                                                    /* text-align: left; */
+                                                }
+
+                                                @media(min-width:768px) {
+                                                    .box-eo .box-eo-3-2 {
+                                                        padding: 16px 0px 8px 0px;
+                                                    }
                                                 }
                                             </style>
                                             <div class="box-eo-3-1">
@@ -841,26 +1109,14 @@
                                                         max-width: 120px;
                                                         margin: auto;
                                                     }
-                                                </style>
-                                                <!-- box seccion eo-3-1-2 -->
-                                                <div class="box-eo-3-1-2">
-                                                    <p><span class="enfv2">93 Toneladas</span></p>
-                                                </div>
-                                                <style>
-                                                    .box-eo-3-1-2 {
-                                                        grid-area: box-eo-3-1-2;
-                                                        /* height: px; */
-                                                        display: flex;
-                                                        flex-direction: column;
-                                                        justify-content: center;
-                                                        align-items: center;
-                                                        padding: 8px;
-                                                    }
 
-                                                    .box-eo .box-eo-3-1-2 .enfv2 {
-                                                        text-align: center;
+                                                    @media(min-width:768px) {
+                                                        .box-eo-3-1-1 img {
+                                                            margin-bottom: 0px;
+                                                        }
                                                     }
                                                 </style>
+
                                             </div>
 
                                             <style>
@@ -903,7 +1159,7 @@
                                         </div>
                                         <style>
                                             .box-acordeon .box-eo-3 {
-                                                grid-area: box-oe-3;
+                                                grid-area: box-eo-3;
                                                 display: grid;
                                                 gap: 8px;
                                                 grid-auto-flow: dense;
@@ -915,15 +1171,49 @@
                                                     'box-eo-3-3'
                                                     'box-eo-3-4';
                                                 padding: 16px 0px;
-                                                border-bottom: 1px dashed #ffffff;
+                                                border-bottom: 1px dashed var(--color-bc-blanco);
 
+                                            }
+
+                                            @media(min-width:768px) {
+                                                .box-acordeon .box-eo-3 {
+                                                    grid-area: box-eo-3;
+                                                    display: grid;
+                                                    gap: 8px;
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'box-eo-3-2 box-eo-3-3'
+                                                        'box-eo-3-1 box-eo-3-4';
+                                                    padding: 16px 0px;
+                                                    border-bottom: 1px dashed var(--color-bc-blanco);
+                                                }
+
+                                                .box-eo .box-eo-3-1 {
+                                                    grid-area: box-eo-3-1;
+                                                    display: grid;
+                                                    gap: 8px;
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'box-eo-3-1-1 box-eo-3-1-2 ';
+                                                    padding: 0px 16px;
+                                                }
+                                            }
+
+                                            @media(min-width:992px) {
+                                                .box-eo-3 {
+                                                    padding: 16px 96px !important;
+                                                }
                                             }
                                         </style>
                                     </div>
                                 </div>
                                 <style>
                                     .box-acordeon .box-eo {
-                                        background-color: rgba(1, 30, 65, 1);
+                                        background-color: var(--color-bc-azul);
                                         padding: 16px;
                                         display: grid;
                                         gap: 8px;
@@ -931,10 +1221,10 @@
                                         grid-template-columns: 1fr;
                                         grid-template-rows: auto;
                                         grid-template-areas:
-                                            'box-oe-head'
-                                            'box-oe-1'
-                                            'box-oe-2'
-                                            'box-oe-3';
+                                            'box-eo-head'
+                                            'box-eo-1'
+                                            'box-eo-2'
+                                            'box-eo-3';
                                     }
                                 </style>
 
@@ -975,6 +1265,13 @@
                                                 grid-area: box-image;
                                                 padding-top: 8px;
                                             }
+
+                                            @media(min-width:768px) {
+                                                .box-amb-head .box-image {
+                                                    max-width: 490px;
+                                                    margin: auto;
+                                                }
+                                            }
                                         </style>
                                     </div>
                                     <style>
@@ -989,7 +1286,7 @@
                                                 'box-title'
                                                 'box-image';
                                             padding-bottom: 16px;
-                                            border-bottom: 1px dashed #ffffff;
+                                            border-bottom: 1px dashed var(--color-bc-blanco);
                                         }
                                     </style>
 
@@ -997,11 +1294,23 @@
 
                                         <div class="box-amb-1-1">
                                             <h3 class="enfb1"><strong>CO<sub>2</sub></strong> reducido:</h3>
+                                            <p><span class="enfa2">3.47 Ton CO<sub>2</sub></span></p>
                                         </div>
                                         <style>
                                             .box-ambiental .box-amb-1-1 {
                                                 grid-area: box-amb-1-1;
+                                                padding: 16px 0px 0px 0px;
+                                            }
+
+                                            .box-ambiental .box-amb-1-1 p {
                                                 padding-top: 16px;
+                                                /* text-align: left; */
+                                            }
+
+                                            @media(min-width:768px) {
+                                                .box-ambiental .box-amb-1-1 {
+                                                    padding: 16px 0px 8px 0px;
+                                                }
                                             }
                                         </style>
 
@@ -1026,25 +1335,11 @@
                                                     max-width: 150px;
                                                     margin: auto;
                                                 }
-                                            </style>
 
-                                            <!-- box seccion amb-1-2-2 -->
-                                            <div class="box-amb-1-2-2">
-                                                <p><span class="enfa2">1.97 Ton CO<sub>2</sub></span></p>
-                                            </div>
-                                            <style>
-                                                .box-amb-1-2-2 {
-                                                    grid-area: box-amb-1-2-2;
-                                                    /* height: px; */
-                                                    display: flex;
-                                                    flex-direction: column;
-                                                    justify-content: center;
-                                                    align-items: center;
-                                                    padding: 8px;
-                                                }
-
-                                                .box-eo .box-amb-1-2-2 .enfa2 {
-                                                    text-align: center;
+                                                @media(min-width:768px) {
+                                                    .box-amb-1-2-1 img {
+                                                        margin-bottom: 0px;
+                                                    }
                                                 }
                                             </style>
 
@@ -1066,7 +1361,7 @@
 
                                         <div class="box-amb-1-3">
                                             <h3 class="enfb1">Equivale a:</h3>
-                                            <p class="enfb2">La absorción del <span class=""><strong>CO<sub>2</sub></strong></span> de <span class="enfa2">98 árboles</span> <span class=""> al año</span> </p>
+                                            <p class="enfb2">La absorción del <span class=""><strong>CO<sub>2</sub></strong></span> de <span class="enfa2">167 árboles</span> <span class=""> al año</span> </p>
                                         </div>
                                         <style>
                                             .box-amb-1 .box-amb-1-3 {
@@ -1077,21 +1372,6 @@
                                             .box-amb-1 .box-amb-1-3 .enfv2 {
                                                 text-align: center;
                                             }
-
-                                            /* .box-ambiental .box-amb-1-3 {
-                                                grid-area: box-amb-1-3;
-                                                padding-top: 32px;
-                                                display: grid;
-                                                gap: 8px;
-                                                grid-auto-flow: dense;
-                                                grid-template-columns: 1fr;
-                                                grid-template-rows: auto;
-                                                grid-template-areas:
-                                                    'box-amb-1-3-1'
-                                                    'box-amb-1-3-2'
-                                                    'box-amb-1-3-3'
-                                                    'box-amb-1-3-4';
-                                            } */
                                         </style>
 
                                         <!-- box seccion amb-1-4 -->
@@ -1119,7 +1399,43 @@
                                                 'box-amb-1-3'
                                                 'box-amb-1-4';
                                             padding: 16px 0px;
-                                            border-bottom: 1px dashed #ffffff;
+                                            border-bottom: 1px dashed var(--color-bc-blanco);
+
+                                        }
+
+                                        @media(min-width:768px) {
+                                            .box-amb-1 {
+                                                grid-area: box-amb-1;
+                                                display: grid;
+                                                gap: 8px;
+
+                                                grid-auto-flow: dense;
+                                                grid-template-columns: 1fr 1fr;
+                                                grid-template-rows: auto;
+                                                grid-template-areas:
+                                                    'box-amb-1-1 box-amb-1-3'
+                                                    'box-amb-1-2 box-amb-1-4';
+                                                padding: 16px 0px;
+                                                border-bottom: 1px dashed var(--color-bc-blanco);
+                                            }
+
+                                            .box-ambiental .box-amb-1-2 {
+                                                grid-area: box-amb-1-2;
+                                                display: grid;
+                                                gap: 8px;
+                                                grid-auto-flow: dense;
+                                                grid-template-columns: 1fr;
+                                                grid-template-rows: auto;
+                                                grid-template-areas:
+                                                    'box-amb-1-2-1 box-amb-1-2-2 ';
+                                                padding: 0px 16px;
+                                            }
+                                        }
+
+                                        @media(min-width:992px) {
+                                            .box-amb-1 {
+                                                padding: 16px 96px;
+                                            }
 
                                         }
                                     </style>
@@ -1130,32 +1446,89 @@
 
                                         <!-- box seccion amb-2-1 -->
                                         <div class="box-amb-2-1">
-                                            <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/recurso_56n.png' alt='icono relámpago' title='icono relámpago'>
+                                            <span class="enfb1">Consumo energético:</span>
+                                            <p><span class="enfa2">2.423 kWh</span></p>
                                         </div>
                                         <style>
                                             .box-amb-2-1 {
                                                 grid-area: box-amb-2-1;
+                                                padding-top: 16px;
+                                            }
+
+                                            .box-ambiental .box-amb-2-1 p {
+                                                padding-top: 16px;
+                                                /* text-align: left; */
+                                            }
+
+                                            @media(min-width:768px) {
+                                                .box-ambiental .box-amb-2-1 {
+                                                    padding: 16px 0px 8px 0px;
+                                                }
                                             }
                                         </style>
                                         <!-- box seccion amb-2-2 -->
                                         <div class="box-amb-2-2">
-                                            <span class="enf2 bcb">Consumo energético:</span>
-                                            <span class="enf3 bcn2">2.423 kWh</span>
+
+                                            <!-- box seccion amb-2-2-1 -->
+                                            <div class="box-amb-2-2-1">
+                                                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-04-2022/recurso_56n.png' alt='icono relámpago' title='icono relámpago'>
+                                            </div>
+                                            <style>
+                                                .box-amb-2-2-1 {
+                                                    grid-area: box-amb-2-2-1;
+                                                    /* height: px; */
+                                                    display: flex;
+                                                    flex-direction: column;
+                                                    justify-content: center;
+                                                    align-items: center;
+                                                }
+
+                                                .box-amb-2-2-1 img {
+                                                    /* padding: 16px; */
+                                                    max-width: 70px;
+                                                    margin: auto;
+                                                }
+
+                                                @media(min-width:768px) {
+                                                    .box-amb-2-2-1 img {
+                                                        margin-bottom: 0px;
+                                                    }
+                                                }
+                                            </style>
+
+
                                         </div>
                                         <style>
                                             .box-amb-2-2 {
                                                 grid-area: box-amb-2-2;
+                                                display: grid;
+                                                gap: 8px;
+                                                grid-auto-flow: dense;
+                                                grid-template-columns: 1fr;
+                                                grid-template-rows: auto;
+                                                grid-template-areas:
+                                                    'box-amb-2-2-2'
+                                                    'box-amb-2-2-1';
+                                                padding: 0px 16px;
                                             }
                                         </style>
 
                                         <!-- box seccion amb-2-3 -->
                                         <div class="box-amb-2-3">
-                                            <p><span class="enf1 bca">Equivale a:</span></p>
-                                            <p>Consumo promedio mensual de <span class="enf2 bcn2">16 familias</span> conformadas por cuatro personas colombianas.</p>
+                                            <h3 class="enfb1">Equivale a:</h3>
+                                            <p class="enfb2">Consumo promedio mensual de <strong class="str-bca">16 familias</strong> conformadas por 4 personas.</p>
                                         </div>
                                         <style>
                                             .box-amb-2-3 {
                                                 grid-area: box-amb-2-3;
+                                                padding: 16px 0px;
+
+                                            }
+
+                                            .box-amb-2 .box-amb-2-3 .str-bca {
+                                                text-align: center;
+                                                color: var(--color-bc-azul);
+                                                font-size: 1.2em;
                                             }
                                         </style>
 
@@ -1166,13 +1539,14 @@
                                         <style>
                                             .box-amb-2-4 {
                                                 grid-area: box-amb-2-4;
+
                                             }
                                         </style>
 
                                     </div>
                                     <style>
                                         .box-amb-2 {
-                                            background-color: #01a850;
+                                            background-color: var(--color-bc-verde);
                                             grid-area: box-amb-2;
                                             display: grid;
                                             gap: 8px;
@@ -1184,6 +1558,44 @@
                                                 'box-amb-2-2'
                                                 'box-amb-2-3'
                                                 'box-amb-2-4';
+                                            padding: 16px 0px;
+                                            border-bottom: 1px dashed var(--color-bc-blanco);
+                                        }
+
+                                        @media(min-width:768px) {
+                                            .box-amb-2 {
+                                                grid-area: box-amb-2;
+                                                display: grid;
+                                                gap: 8px;
+
+                                                grid-auto-flow: dense;
+                                                grid-template-columns: 1fr 1fr;
+                                                grid-template-rows: auto;
+                                                grid-template-areas:
+                                                    'box-amb-2-1 box-amb-2-3'
+                                                    'box-amb-2-2 box-amb-2-4';
+                                                padding: 16px 0px;
+                                                border-bottom: 1px dashed var(--color-bc-blanco);
+                                            }
+
+                                            .box-ambiental .box-amb-2-2 {
+                                                grid-area: box-amb-2-2;
+                                                display: grid;
+                                                gap: 8px;
+                                                grid-auto-flow: dense;
+                                                grid-template-columns: 1fr;
+                                                grid-template-rows: auto;
+                                                grid-template-areas:
+                                                    'box-amb-2-2-1 box-amb-2-2-2';
+                                                padding: 0px 16px;
+                                            }
+                                        }
+
+                                        @media(min-width:992px) {
+                                            .box-amb-2 {
+                                                padding: 16px 96px;
+                                            }
+
                                         }
                                     </style>
 
@@ -1191,7 +1603,7 @@
                                 </div>
                                 <style>
                                     .box-resultados .box-ambiental {
-                                        background-color: #01a850;
+                                        background-color: var(--color-bc-verde);
                                         padding: 16px;
                                         display: grid;
                                         gap: 8px;
@@ -1202,8 +1614,72 @@
                                             'box-amb-head'
                                             'box-amb-1'
                                             'box-amb-2';
+                                    }
+                                </style>
+
+                                <div class="box-descargable">
+                                    <a class="zoom" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/06-09-2022/2022-09-05_reporteindicadores_bicicarga-v5.pdf" target="_blank" rel="noopener noreferrer" download>Descargar resultados</a>
+                                </div>
+                                <style>
+                                    .box-descargable {
+                                        padding: 32px;
+                                        margin: auto;
+                                        text-align: center;
+                                    }
+
+
+                                    .box-descargable a:hover {
+                                        background-color: var(--color-bc-gris);
+                                        color: var(--color-bc-text);
+                                        border: var(--color-bc-verde) 2px solid;
+                                        font-weight: 600;
+                                        text-decoration: none !important;
+                                        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+                                        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+                                    }
+
+                                    .box-descargable a:focus,
+                                    .box-descargable::before {
+                                        color: var(--color-bc-verde);
+                                        font-weight: 600;
 
                                     }
+
+                                    .box-descargable a {
+                                        display: inline-block;
+                                        background-color: var(--color-bc-azul);
+                                        border: var(--color-bc-azul) 2px solid;
+                                        color: var(--color-bc-blanco);
+                                        padding: 8px 16px;
+                                        border-radius: 4px;
+                                        text-decoration: none !important;
+                                    }
+
+
+                                    .zoom {
+                                        transition: 0.5s ease;
+                                        -moz-transition: 0.5s ease;
+                                        /* Firefox */
+                                        -webkit-transition: 0.5s ease;
+                                        /* Chrome - Safari */
+                                        -o-transition: 0.5s ease;
+                                        /* Opera */
+                                        -ms-transition: 0.5s ease;
+                                    }
+
+                                    .zoom:hover {
+                                        transform: scale(1.05);
+                                        -moz-transform: scale(1.05);
+                                        /* Firefox */
+                                        -webkit-transform: scale(1.05);
+                                        /* Chrome - Safari */
+                                        -o-transform: scale(1.05);
+                                        /* Opera */
+                                        -ms-transform: scale(1.05);
+
+                                    }
+
+                                    /* IE9 */
                                 </style>
 
                             </div>
@@ -1245,11 +1721,11 @@
                             font-weight: 500;
                             text-align: left;
                             line-height: 1.5;
-                            color: rgba(255, 255, 255, 1);
+                            color: var(--color-bc-blanco);
                         }
 
                         .box-resultados .enfb1 {
-                            color: rgba(255, 255, 255, 1);
+                            color: var(--color-bc-blanco);
                             font-size: 24px;
                             font-weight: 700;
                             text-align: left;
@@ -1257,7 +1733,7 @@
                         }
 
                         .box-resultados .enfb2 {
-                            color: rgba(255, 255, 255, 1);
+                            color: var(--color-bc-blanco);
                             font-size: 18px;
                             font-weight: 600;
                             text-align: left;
@@ -1265,7 +1741,7 @@
                         }
 
                         .box-resultados .enfv1 {
-                            color: #01a850;
+                            color: var(--color-bc-verde);
                             font-size: 24px;
                             font-weight: 500;
                             text-align: left;
@@ -1273,7 +1749,7 @@
                         }
 
                         .box-resultados .enfv2 {
-                            color: #01a850;
+                            color: var(--color-bc-verde);
                             font-size: 32px;
                             font-weight: 500;
                             text-align: left;
@@ -1281,7 +1757,7 @@
                         }
 
                         .box-resultados .enfa1 {
-                            color: #011e41;
+                            color: var(--color-bc-azul);
                             font-size: 24px;
                             font-weight: 500;
                             text-align: left;
@@ -1289,7 +1765,7 @@
                         }
 
                         .box-resultados .enfa2 {
-                            color: #011e41;
+                            color: var(--color-bc-azul);
                             font-size: 28px;
                             font-weight: 600;
                             text-align: left;
@@ -1298,34 +1774,37 @@
                     </style>
                 </div>
 
-
-
             </div>
             <!-- /#fin _bicicarga -->
 
             <style>
+                .box-wrp .panel-group {
+                    margin-bottom: 0px !important;
+                }
+
                 .box-wrp .box-acordeon {
                     grid-area: acordeon;
-                    padding-top: 5px;
+                    padding: 8px 0px;
+
                 }
 
                 .box-acordeon .glyphicon-chevron-right::before {
-                    color: rgba(25, 25, 25, 1) !important;
+                    color: var(--color-bc-text) !important;
                 }
 
                 .box-acordeon .glyphicon-chevron-left::before {
-                    color: rgba(25, 25, 25, 1) !important;
+                    color: var(--color-bc-text) !important;
                 }
 
                 .box-acordeon .panel-heading {
-                    border-color: #e5e5e5 !important;
-                    background-color: #e5e5e5 !important;
+                    border-color: var(--color-bc-gris) !important;
+                    background-color: var(--color-bc-gris) !important;
                     background-image: none !important;
                 }
 
                 .box-acordeon .panel-heading .panel-title a {
                     text-decoration: none;
-                    color: rgba(25, 25, 25, 1) !important;
+                    color: var(--color-bc-text) !important;
                     font-size: 18px;
                     font-weight: 600;
                     letter-spacing: 1px;
@@ -1335,17 +1814,370 @@
                     font-family: 'Glyphicons Halflings';
                     content: "\e080";
                     float: right;
-                    color: rgba(25, 25, 25, 1);
+                    color: var(--color-bc-text);
                     font-size: 18px;
                 }
 
                 .box-acordeon .panel-heading .panel-title a.collapsed:after {
                     content: "\e114";
                 }
+
+
+                .box-acordeon .panel-heading:focus-within {
+                    border-color: var(--color-bc-azul) !important;
+                    background-color: var(--color-bc-azul) !important;
+                    background-image: none !important;
+                }
+
+                .box-acordeon .panel-heading:focus-within .panel-title a {
+                    color: var(--color-bc-blanco) !important;
+                }
+
+                .box-acordeon .panel-heading:focus-within .panel-title a:after {
+                    color: var(--color-bc-verde);
+                }
+
+                .box-acordeon .panel-heading:hover {
+                    border-color: var(--color-bc-blanco) !important;
+                    background-color: var(--color-bc-blanco) !important;
+                    background-image: none !important;
+                }
+
+                .box-acordeon .panel-heading:hover .panel-title a {
+                    color: var(--color-bc-text) !important;
+                }
+
+                .box-acordeon .panel-heading:hover .panel-title a:after {
+                    color: var(--color-bc-verde);
+                }
+
+
+
+                @media(min-width:768px) {
+                    .box-wrp .box-acordeon {
+                        padding: 32px;
+                    }
+                }
             </style>
         </div>
 
+        <div class="box-empresas">
+            <h3>Empresas que participaron en BiciCarga</h3>
+            <p>El piloto contó con la participación de empresas de los sectores de alimentos, paquetería y consumo masivo que implementaron un esquema de distribución con bicicletas/triciclos eléctricos de carga, el cual permitió la conformación de una red de valor en ciclo logística para Bogotá y que puede ser replicado y escalado en otras ciudades del país.</p>
+        </div>
+        <style type="text/css">
+            .box-wrp .box-empresas {
+                /* margin-top: 30px; */
+                grid-area: empresas;
+                background-color: var(--color-bc-azul);
 
+            }
+
+            .box-wrp .box-empresas h3 {
+                /* font-size: 18px; */
+                font-weight: 700;
+                text-align: center;
+                line-height: 1.2;
+                color: var(--color-bc-blanco);
+                padding: 16px;
+            }
+
+            .box-wrp .box-empresas p {
+                grid-area: resultados;
+                padding: 0px 15px 15px 15px;
+                font-size: 15px;
+                font-weight: 500;
+                text-align: justify;
+                line-height: 1.3;
+                color: var(--color-bc-blanco);
+            }
+        </style>
+
+        <!-- Carousel carousel -->
+        <div class="box-carousel-empresas">
+            <div class="carousel slide" data-ride="carousel" id="carousel">
+                <!-- Indicators -->
+                <!-- <ol class='carousel-indicators'>
+                        <li data-target='#carousel' data-slide-to='0' class='active'></li>
+                        <li data-target='#carousel' data-slide-to='1'></li>
+                        <li data-target='#carousel' data-slide-to='2'></li>
+                        <li data-target='#carousel' data-slide-to='3'></li>
+                        <li data-target='#carousel' data-slide-to='4'></li>
+                        <li data-target='#carousel' data-slide-to='5'></li>
+                        <li data-target='#carousel' data-slide-to='6'></li>
+                        <li data-target='#carousel' data-slide-to='7'></li>
+                        <li data-target='#carousel' data-slide-to='8'></li>
+                    </ol> -->
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                    <div class="item active"><img alt="logo la colmena" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/lacolmena.webp">
+                        <p><small>Generadores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo comercial nutresa" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/nutresa.webp">
+                        <p><small>Generadores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo cvas" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/cvas.webp">
+                        <p><small>Operadores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo quick" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/quick.webp">
+                        <p><small>Operadores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo servientrega" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/servientrega.webp">
+                        <p><small>Operadores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo pargal" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/pargal.webp">
+                        <p><small>Proveedores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo ecotriciclos" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/ecotriciclos.webp">
+                        <p><small>Proveedores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo cityparking" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/cityparking.webp">
+                        <p><small>Proveedores</small></p>
+                    </div>
+
+                    <div class="item"><img alt="logo lola" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/10-03-2022/lola.webp">
+                        <p><small>Proveedores</small></p>
+                    </div>
+                </div>
+                <!-- Left and right controls --><a class="left carousel-control" data-slide="prev" href="#carousel"><span class="sr-only">Anterior</span> </a> <a class="right carousel-control" data-slide="next" href="#carousel"> <span class="sr-only">Siguinente</span> </a>
+            </div>
+        </div>
+        <style type="text/css">
+            .box-wrp .nav>li>a:focus,
+            .box-wrp .nav>li>a:hover {
+                /* background-color: var(--color-bc-gris); */
+                background-color: var(--color-bc-verde);
+                color: var(--color-bc-blanco);
+            }
+
+            .box-wrp .nav-justified>li {
+                background: var(--color-bc-gris) !important;
+            }
+
+            .box-wrp .nav-pills>li.active>a,
+            .box-wrp .nav-pills>li.active>a:focus,
+            .box-wrp .nav-pills>li.active>a:hover {
+                color: var(--color-bc-blanco);
+                background-color: var(--color-bc-azul);
+            }
+
+            .box-wrp .carousel-control.left {
+                background-image: none !important;
+            }
+
+            .box-wrp .carousel-control.right {
+                background-image: none !important;
+
+            }
+
+            .box-wrp .glyphicon-chevron-right::before {
+                color: var(--color-bc-verde) !important;
+            }
+
+            .box-wrp .glyphicon-chevron-left::before {
+                color: var(--color-bc-verde) !important;
+            }
+
+
+            .box-wrp .box-carousel-empresas {
+                grid-area: carousel-empresas;
+            }
+
+            .box-carousel-empresas .item img {
+                padding: 16px;
+                max-width: 250px !important;
+                margin: auto;
+            }
+
+            .box-carousel-empresas .item p {
+                text-align: center;
+            }
+
+            .box-wrp .box-carousel-empresas {
+                padding: 2%;
+            }
+
+            .box-wrp .box-carousel-empresas {
+                position: relative;
+            }
+
+            .box-wrp .carousel {
+                position: relative;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: 100%;
+            }
+
+            .box-carousel-empresas .item img {
+                /* max-width: 250px !important; */
+                max-width: 350px !important;
+            }
+
+            @media(min-width:768px) {
+                .box-wrp .carousel {
+                    position: absolute;
+                }
+            }
+        </style>
+
+        <div class="box-socios">
+            <h3>Socios del proyecto</h3>
+
+            <p>Conoce al equipo multidisciplinario que trabajó para implementar un piloto de distribución de última milla con bicicletas eléctricas de carga.</p>
+        </div>
+        <style type="text/css">
+            .box-wrp .box-socios {
+                grid-area: socios;
+                /* background-color: var(--color-bc-verde) */
+            }
+
+            .box-wrp .box-socios h3 {
+                /* font-size: 18px; */
+                font-weight: 700;
+                text-align: center;
+                line-height: 1.2;
+                color: var(--color-bc-azul);
+                padding: 16px;
+            }
+
+            .box-wrp .box-socios p {
+                padding: 0px 15px 15px 15px;
+                font-size: 15px;
+                font-weight: 500;
+                text-align: justify;
+                line-height: 1.3;
+                color: var(--color-bc-text);
+            }
+        </style>
+
+        <div class="box-socios-btn">
+            <div class="btn-socio"><img alt="Avatar" class="image" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logo-bogota.png">
+                <div class="overlay">
+                    <div class="text">La <strong>Secretaría Distrital de Movilidad</strong> cumple el rol de ser el ente articulador del piloto, el formulador de política pública y de recomendaciones a la norma para apoyar la ampliación y la adopción acelerada de las bicicletas de carga eléctricas para el movimiento de mercancías en Bogotá.</div>
+                </div>
+            </div>
+
+            <div class="btn-socio"><img alt="Avatar" class="image" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logo-logyca.png">
+                <div class="overlay">
+                    <div class="text">LOGYCA, en alianza con el MIT FaROL LAB, fueron los expertos técnicos del proyecto, quienes adelantaron el diseño metodológico y de estrategias para el análisis de la información.</div>
+                </div>
+            </div>
+
+            <div class="btn-socio"><img alt="Avatar" class="image" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-06-2021/despacio_logo.png">
+                <div class="overlay">
+                    <div class="text">Despacio fue el socio técnico responsable de la implementación y recolección de la información del proyecto, así como del montaje y funcionamiento del modelo colaborativo que se realizó mediante la plataforma de cross-docking de BiciCarga.</div>
+                </div>
+            </div>
+
+            <div class="btn-socio"><img alt="Avatar" class="image" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2020/logo-banco-mundial.png">
+                <div class="overlay">
+                    <div class="text">El Banco Mundial y la Corporación Financiera Internacional participan activamente en el sector del transporte urbano de Bogotá, brindando la asistencia financiera y técnica para contribuir con la escalabilidad del proyecto.</div>
+                </div>
+            </div>
+        </div>
+        <style type="text/css">
+            .box-socios-btn {
+                grid-area: boton-socios;
+                display: grid;
+                gap: 15px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                padding: 30px;
+            }
+
+            .btn-socio {
+                position: relative;
+                height: 250px;
+                /* width: 50%; */
+                padding: 14px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .btn-socio .image {
+                display: block;
+                width: 100%;
+                height: auto;
+            }
+
+            .btn-socio .overlay {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                height: 100%;
+                width: 100%;
+                opacity: 0;
+                transition: .5s ease;
+                background-color: var(--color-bc-verde);
+            }
+
+            .btn-socio:hover .overlay {
+                opacity: 1;
+            }
+
+            .btn-socio .text {
+                max-height: 250px;
+                color: white;
+                font-size: 14px;
+                position: absolute;
+                top: 23%;
+                left: 15%;
+                -webkit-transform: translate(-10%, -15%);
+                -ms-transform: translate(-10%, -15%);
+                transform: translate(-10%, -15%);
+                text-align: center;
+            }
+
+            @media(max-width:767px) {
+
+                .btn-socio {
+                    position: relative;
+                    height: 250px;
+                    /* width: 50%; */
+                    padding: 14px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    max-width: 250px;
+                    margin: auto;
+                }
+
+                .btn-socio .image {
+                    max-width: 200px;
+                }
+
+            }
+
+            @media(min-width:768px) {
+                .box-socios-btn {
+                    grid-template-columns: 1fr 1fr;
+                    padding: 32px 64px;
+                }
+            }
+
+            @media(min-width:992px) {
+                .box-socios-btn {
+                    grid-template-columns: 1fr 1fr 1fr 1fr;
+                    padding: 0px;
+                }
+            }
+
+            @media(min-width:1200px) {}
+        </style>
 
     </div>
     <style>
@@ -1357,7 +2189,25 @@
             grid-template-areas:
                 'encabezado'
                 'video'
-                'acordeon';
+                'acordeon'
+                'empresas'
+                'carousel-empresas'
+                'socios'
+                'boton-socios';
+        }
+
+        @media(min-width:768px) {
+            .box-wrp {
+                row-gap: 24px;
+                grid-template-columns: 1fr 1fr;
+                grid-template-areas:
+                    'encabezado video'
+                    /* 'video video' */
+                    'acordeon acordeon'
+                    'empresas carousel-empresas'
+                    'socios socios'
+                    'boton-socios boton-socios';
+            }
         }
     </style>
     <!-- End Set Wrapper -->
@@ -1366,6 +2216,16 @@
 
 <!-- Styles -->
 <style type='text/css'>
+    :root {
+        --color-bc-azul: rgba(1, 30, 65, 1);
+        --color-bc-verde: rgba(0, 168, 78, 1);
+        --color-bc-blanco: rgba(255, 255, 255, 1);
+        --color-bc-gris: #e5e5e5;
+        --color-bc-text: rgba(25, 25, 25, 1);
+    }
+
+
+
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
@@ -1386,7 +2246,7 @@
         font-weight: 500;
         text-align: justify;
         line-height: 1.3;
-        color: rgba(25, 25, 25, 1);
+        color: var(--color-bc-text);
         padding-right: 0px !important;
         padding-left: 0px !important;
     }
