@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-10-2022/organigrama_oct_18_2022_a.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2022/organigrama9nov2022.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -639,18 +639,19 @@
 
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/rafaelalbertogonzalezrodriguez.png" alt="Rafael Alberto González Rodríguez">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2022/ruthdaryborrerogomez.png" alt="Ruth Dary Borrero Gómez">
                                                                             </div>
                                                                         </div>
 
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Rafael Alberto González Rodríguez</h1>
-                                                                                <h4>Subdirector de Transporte Público</h4>
+                                                                                <h1>Ruth Dary Borrero Gómez</h1>
+                                                                                <h4>Subdirectora de Transporte Público</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Ingeniero Civil egresado de la Universidad Nacional de Colombia, especialista en Gerencia de Proyectos de la Universidad del Tolima y magíster en Ingeniería Civil de la Pontificia Universidad Javeriana.</p>
-                                                                                    <p>Tiene más de 15 años de experiencia en transporte urbano, ingeniería de tránsito, seguridad vial, control y fiscalización, liderando proyectos tanto en el sector público como en el privado, formulando estrategias y dirigiendo la ejecución de programas enfocados a mejorar las condiciones de movilidad.</p>
-                                                                                    <p>Trabajó en la Secretaría Distrital de Movilidad desde el año 2017 a 2021 desempeñándose en cargos como: director de Gestión de Tránsito y Control de Tránsito y Transporte, subdirector de Control de Tránsito y Transporte y asesor de la Dirección de Control y Vigilancia; y regresa con el fin de aportar al planteamiento de la política pública de transporte y de asumir los retos que se lideran desde esta subdirección. Rafael afirma que la SDM tiene un equipo humano dispuesto a responder a las necesidades de la ciudadanía, entre ellos, a la reactivación económica como un tema fuerte para estos próximos años de gestión.</p>
+                                                                                    <p>Ingeniera de Transporte y Vías de la Universidad Pedagógica y Tecnológica de Colombia (UPTC), con especializaciones en Gerencia de Empresas y en Diseño de Vías Urbanas Tránsito y Transporte, y Auditora Interna en el Sistema de Gestión de la Calidad ISO 9001-:2015.</p>
+                                                                                    <p>Con más de 15 años de experiencia en el sector público, enfocados principalmente en transporte urbano, ingeniería de tránsito, planeación y operación del transporte público; ha participado en el proceso de implementación del SITP en Bogotá, apoyando los diferentes procesos desde el área técnica de la Secretaría de Movilidad como el análisis, estudios y conceptos que sirven de base para la toma de decisiones.</p>
+                                                                                    <p>Ha sido supervisora de diferentes contratos, entre ellos, en el marco de la implementación del SITP, el acceso al transporte de personas con discapacidad y el análisis del transporte ilegal en la ciudad. Ha sido encargada de la Subdirección de Transporte Público y Asesora de Despacho de la SDM.</p>
+                                                                                    <p>Está orgullosa de pertenecer a esta Entidad y desde su gestión espera contribuir al Sistema Interoperable de Recaudo, al manejo del Fondo de Estabilización Tarifaria y en general a mejorar los diferentes medios de transporte público.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -789,13 +790,13 @@
 
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_diegoandressuerezgomez.jpg" alt="Foto: Diego Andrés Suérez Gómez" title="Foto: Diego Andrés Suérez Gómez">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_diegoandressuerezgomez.jpg" alt="Foto: Diego Andrés Suárez Gómez" title="Foto: Diego Andrés Suárez Gómez">
                                                                             </div>
                                                                         </div>
 
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Diego Andrés Suérez Gómez</h1>
+                                                                                <h1>Diego Andrés Suárez Gómez</h1>
                                                                                 <h4>Subdirector de Infraestructura</h4>
                                                                                 <div class="descripcion-xs">
                                                                                     <p>El Subdirector de Infraestructura es Ingeniero de Transporte, con especialización en Tránsito y Transporte, y tiene un Magíster en Ingeniería, con énfasis en transporte, en la Universidad Tecnológica y Pedagógica de Colombia, -UPTC- en Tunja. En otros cursos complementarios, se destaca el de Modelos de Elección para Análisis Econométricos en Transporte, adelantado en la Universidad de los Andes.</p>
@@ -1139,7 +1140,7 @@
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Nathaly Patiño González</h1>
-                                                                                <h4>Subdirectora de Gestion en Vía</h4>
+                                                                                <h4>Subdirectora de Gestión en Vía</h4>
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Ingeniera Civil de la Universidad Nacional de Colombia, con experiencia en tránsito y transporte, especialmente temas relacionados con gestión en vía en la Secretaría Distrital de Movilidad y en proyectos de consultoría y tiene una especialización en Tránsito y Transporte de la Universidad Pedagógica y Tecnológica de Colombia.</p>
                                                                                     <p>Fue contratista en la misma subdirección de la Secretaría de Movilidad, donde era gerente de las Localidades de Santa Fe, Candelaria, Chapinero y de la avenida Caracas. Su mayor meta es lograr que la ciudadanía reconozca a la entidad como una mano amiga en la vía, y que la misma comunidad ayude a mejorar los tiempos de atención y de respuesta a los eventos en vía, subiendo fotos o reportando a las redes sociales de movilidad.</p>
@@ -1764,26 +1765,24 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
-                   <div class="row">
-                                <div class="col-xs-12 col-sm-4 text-center">
-                                    <div class="img-perfil w-100">
-                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/pauloandresrincongaray.png" alt="Paulo Andrés Rincón Garay" title="Paulo Andrés Rincón Garay">
-                                    </div>
-                                </div>
-                                <div class="col-xs-12 col-sm-8 ">
-                                    <div class="descripcion">
-                                        <h1>Paulo Andrés Rincón Garay</h1>
-                                        <h4>Director de Contratación (e)</h4>
-                                        <div class="descripcion-xs">
-                                            <p>Es abogado de la Universidad Externado de Colombia, especialista en Derecho Administrativo y Administración Pública de la Universidad de Buenos Aires, Argentina, y actualmente se encuentra cursando una Maestría en Ciudades Inteligentes en la misma universidad de donde es egresado.</p>
-                                            <p>Cuenta con más de doce años de experiencia profesional asesorando jurídicamente al sector público y privado, en temas como regulación normativa y elaboración de política pública, derecho público, derecho de transporte, defensa judicial ante la jurisdicción contencioso administrativa, civil y laboral.</p>
-                                            <p>Trabajó como asesor del Despacho y también fue Director de Normatividad y Conceptos en la Secretaría Distrital de Movilidad. En la firma GGC Abogados y Financieros fue coordinador jurídico, alrededor de cinco años.</p>
-                                            <p>En Departamento para la Prosperidad Social trabajó en la Subdirección de Programas Especiales, Grupo Paz, Desarrollo y Estabilización.</p>
-                                            <p>También representó a la firma CGG Abogados y Financieros Ltda., en el Hospital Simón Bolívar, en la Gobernación de Caldas y en la Industria Licorera de Caldas.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-4 text-center">
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2022/yazminandreagomezcastro.png" alt="Yazmín Andrea Gómez Castro" title="Yazmín Andrea Gómez Castro">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-8 ">
+                                                        <div class="descripcion">
+                                                            <h1>Yazmín Andrea Gómez Castro</h1>
+                                                            <h4>Directora de Contratación</h4>
+                                                            <div class="descripcion-xs">
+                                                                <p>Abogada y especialista en Derecho y Nuevas Tecnologías para la Vida de la Universidad Externado de Colombia, con conocimientos en negocios internacionales con énfasis en negocios chinos del Instituto de Altos Estudios de Barcelona, candidata a Doctorado en Derecho de Universidad Externado de Colombia, conciliadora y arbitro, docente investigadora y de posgrados, autora de varios libros y artículos.</p>
+                                                                <p>Tiene experiencia en diferentes entidades entre las cuales se desempeñó como: Directora - Conciliadora y Arbitro del Centro de Conciliación y Arbitraje del Club de Abogados, con amplios conocimientos en manejo de conflictos; Consultora de la GIZ para temas migratorios; Asesora Jurídica Nacional de la Dirección para el Desarrollo y la Integración Fronteriza del Ministerio de Relaciones Exteriores; Asesora Jurídica para la Contratación Pública de la Dirección de Servicio al Ciudadano del Instituto de Bienestar Familiar; Asesora Jurídica del PNUD delegada para la Dirección de Asuntos Étnicos de la Unidad de Restitución de Tierras (Fondo de Justicia Transicional del Programa del Programa de Naciones Unidas para el Desarrollo – PNUD), con experiencia en terreno con comunidades afro e indígenas, manejo legislativo de minorías.</p>
+                                                                <p>Asume esta dirección como un reto profesional y quiere enfocar su gestión a darle cumplimiento al Plan de Adquisiciones, y en cuanto al tema de liquidaciones se propone solventar los contratos dentro de los términos estipulados en los mismos.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
 
                                             </div>
                                         </div>
@@ -1827,12 +1826,12 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/hernancortes.png" alt="Hernan Sebastian Cortés Osorio" title="Hernan Sebastian Cortés Osorio">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/hernancortes.png" alt="Hernan Sebastián Cortés Osorio" title="Hernan Sebastián Cortés Osorio">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Hernan Sebastian Cortés Osorio</h1>
+                                                            <h1>Hernan Sebastián Cortés Osorio</h1>
                                                             <h4>Director de Gestión de Cobro</h4>
                                                             <div class="descripcion-xs">
                                                                 <p>Abogado de la Universidad la Gran Colombia, conciliador extrajudicial en derecho, con estudios específicos y afianzados en contratación internacional, además, especialista en Instituciones Jurídico Procesales de la Universidad Nacional de Colombia. Experiencia particular en procesos de cobro jurídico civil y cobro coactivo administrativo, en análisis probatorio, en procesos disciplinarios, emisión de actos administrativos decisorios y conceptos jurídicos dentro de las ramas civil y administrativa.</p>
@@ -1898,7 +1897,7 @@
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
                                         <h1>Paula Tatiana Arenas González</h1>
-                                        <h4>Subsecretaría de Gestión Corporativa</h4>
+                                        <h4>Subsecretaria de Gestión Corporativa</h4>
                                         <div class="descripcion-xs">
                                             <p>Es abogada de la Universidad Católica y Profesional en Relaciones Internacionales de la Universidad Jorge Tadeo Lozano, donde también cursó la especialización en Gestión Pública. Además, es especialista en Derecho Administrativo de la Universidad Santo Tomás, y tiene una maestría en Derecho en la Universidad Sergio Arboleda.</p>
                                             <p>Su más reciente cargo fue como Subdirectora de Recursos Humanos del IDU, donde estuvo por espacio de tres años. Durante siete años estuvo en la Comisión Nacional del Servicio Civil, donde fue Gerente de Provisión del Empleo, y también se desempeñó como asesora de despacho. A su experiencia laboral se le suma empleos en la Fiscalía General de la Nación, y en una caja de compensación familiar.</p>
