@@ -180,11 +180,13 @@
         <div class="titulo">
             <h3>Compromiso de la dirección con el Sistema de Gestión <span class="enfasis2">efr</span></h3>
         </div>
-        <div class="pdf">
-            <div class='embed-responsive embed-responsive-4by3'>
-                <iframe src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/compromiso_por_la_direccion_2022.pdf' width='640' height='100%' allow='autoplay'></iframe>
-            </div>
+        <div class='imagen'>
+            <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-11-2022/efr_landing.png" target="_blank" rel="noopener noreferrer">
+                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-11-2022/efr_landing.png' alt='documento compromiso EFR' title='documento compromiso EF'>
+            </a>
         </div>
+        <br>
+        <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/compromiso_por_la_direccion_2022.pdf" target="_blank" rel="noopener noreferrer" download>De clic aquí y descargue aquí el documento .pdf "Compromiso de la Dirección con el Sistema de Gestión - efr"</a></p>
     </div>
     <style>
         .box-pdf {
@@ -193,6 +195,11 @@
 
         .box-pdf .pdf {
             padding: 0px 32px;
+        }
+        .box-pdf .imagen{
+            max-width: 80%;
+            width: 80%;
+            margin: auto;
         }
     </style>
 
@@ -652,8 +659,7 @@
 
     @media(max-width:767px) {
 
-        .box-parrafo {
-        }
+        .box-parrafo {}
     }
 
     @media(min-width:768px) {
