@@ -593,7 +593,6 @@
                                         <h4>Eficiencia Operacional</h4>
                                         <div class="list-content4">
                                             <ul>
-                                                <li>OTIF y Fill-Rate</li>
                                                 <li>Kg, m3 entregados</li>
                                                 <li>% devoluciones</li>
                                                 <li>Índice de satisfacción cliente</li>
@@ -707,7 +706,6 @@
                     </div>
                     <div id='collapse_resultados' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_resultados' aria-expanded='false'>
                         <div class='panel-body'>
-                            desde aqui
                             <div class='box-resultados'>
 
                                 <div class="box-eficiencia">
@@ -1598,8 +1596,6 @@
 
                                         }
                                     </style>
-
-
                                 </div>
                                 <style>
                                     .box-resultados .box-ambiental {
@@ -1616,6 +1612,17 @@
                                             'box-amb-2';
                                     }
                                 </style>
+
+                                <!-- Sección box social -->
+                                <div class="box-social">
+
+                                </div>
+                                <style>
+                                    .box-resultados .box-social {
+                                        grid-area: box-social;
+                                    }
+                                </style>
+
 
                                 <div class="box-descargable">
                                     <a class="zoom" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/06-09-2022/2022-09-05_reporteindicadores_bicicarga-v5.pdf" target="_blank" rel="noopener noreferrer" download>Descargar resultados</a>
