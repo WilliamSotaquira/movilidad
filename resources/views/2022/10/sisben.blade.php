@@ -138,7 +138,7 @@
                                 .box-wrp .box-inicio img {
                                     margin: auto;
                                     padding: 32px;
-                                    max-width: 320px;
+                                    max-width: 400px;
                                 }
 
                                 .box-wrp .box-inicio .texto p {
@@ -166,7 +166,7 @@
                         </div>
                         <style>
                             .box-wrp .box-collapsable .titulo {
-                                padding: 0px 16px;
+                                padding: 16px 16px 32px 16px;
                             }
 
                             .box-wrp .box-collapsable .titulo h3 {
@@ -183,35 +183,13 @@
                         <!-- controls -->
                         <div class='box-botones nav nav-pills nav-justified'>
 
-                            <!-- control-consulta -->
-                            <div class="card btn-consulta control-consulta">
-                                <a data-toggle="tab" href="#consulta">
-                                    <div class="card-sisben zoom consulta">
-                                        <div class='icono-numero'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_1.png' alt='icono numero uno' title='icono numero uno'>
-                                        </div>
-                                        <div class='imagen'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/consulta_220916.png' alt='grafica con icono de buscador' title='grafica con icono de buscador'>
-                                        </div>
-                                        <div class="texto">
-                                            <h3>CONSULTA</h3>
-                                            <p>en Sisbén IV si perteneces a uno de los grupos beneficiados</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <style>
-                                    .box-botones .control-consulta {
-                                        grid-area: control-consulta;
-                                    }
-                                </style>
-                            </div>
 
                             <!-- control-solicita -->
                             <div class="card btn-solicita control-solicita">
                                 <a data-toggle="tab" href="#solicita">
                                     <div class="card-sisben zoom solicita">
                                         <div class='icono-numero'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_3.png' alt='icono numero dos' title='icono numero dos'>
+                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_1.png' alt='icono numero tres' title='icono numero tres'>
                                         </div>
                                         <div class='imagen'>
                                             <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/solicita_220916.png' alt='grafico con icono de registro de formulario' title='grafico con icono de registro de formulario'>
@@ -225,6 +203,29 @@
                                 <style>
                                     .box-botones .control-solicita {
                                         grid-area: control-solicita;
+                                    }
+                                </style>
+                            </div>
+
+                            <!-- control-consulta -->
+                            <div class="card btn-consulta control-consulta">
+                                <a data-toggle="tab" href="#consulta">
+                                    <div class="card-sisben zoom consulta">
+                                        <div class='icono-numero'>
+                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_3.png' alt='icono numero dos' title='icono numero dos'>
+                                        </div>
+                                        <div class='imagen'>
+                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/consulta_220916.png' alt='grafica con icono de buscador' title='grafica con icono de buscador'>
+                                        </div>
+                                        <div class="texto">
+                                            <h3>CONSULTA</h3>
+                                            <p>en Sisbén IV si perteneces a uno de los grupos beneficiados</p>
+                                        </div>
+                                    </div>
+                                </a>
+                                <style>
+                                    .box-botones .control-consulta {
+                                        grid-area: control-consulta;
                                     }
                                 </style>
                             </div>
@@ -261,8 +262,8 @@
                                     grid-template-columns: 1fr;
                                     grid-template-rows: auto;
                                     grid-template-areas:
-                                        'control-consulta'
                                         'control-solicita'
+                                        'control-consulta'
                                         'control-accede';
                                 }
 
@@ -359,7 +360,7 @@
                                     .box-wrp .box-botones {
                                         grid-template-columns: repeat(3, 1fr);
                                         grid-template-areas:
-                                            'control-consulta control-solicita control-accede';
+                                            'control-solicita control-consulta control-accede';
                                     }
                                 }
                             </style>
@@ -371,23 +372,19 @@
                             <!-- content-consulta -->
                             <div id="consulta" class="tab-pane fade">
 
-                                <div class="box-consulta">
 
-                                    <div class="box-ppal-consulta">
-                                        <div class='imagen'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_15.png' alt='Consulta tu grupo Sisbén' title='Consulta tu grupo Sisbén'>
+                                <!-- Sección box enlace -->
+                                <div class="box-enlace">
+                                    <div class="imagen img-principal">
+                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_15.png" alt="icono de Grupo de Sisben" title="icono de Grupo de Sisben">
+                                    </div>
+                                    <div class="texto">
+                                        <div class="title title-h3 solicita-btn">
+                                            <h3>Consulta</h3>
                                         </div>
-                                        <div class="texto">
-                                            <div class="solicita-btn">
-                                                <h3>CONSULTA</h3>
-                                            </div>
-                                            <!-- <div class="consulta-boton">
-                                                <h3>CONSULTA</h3>
-                                            </div> -->
-                                            <div class="parrafo">
-                                                <p>si cuentas con clasificación Sisbén IV y a qué grupo perteneces.</p>
-                                            </div>
-                                            <div>
+                                        <div class="paragraph ph-1 parrafo">
+                                            <p>si cuentas con clasificación Sisbén IV y a qué grupo perteneces.</p>
+                                            <div class="boton enlace-consulta">
                                                 <a href="https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx" target="_blank" rel="noopener noreferrer">
                                                     <div class='banner zoom'>
                                                         <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_8.png' alt='Botón que direcciona a la consulta de grupo Sisbén' title='Botón que direcciona a la consulta de grupo Sisbén'>
@@ -395,263 +392,216 @@
                                                 </a>
                                             </div>
                                         </div>
-
-
-                                        <style>
-                                            .box-ppal-consulta {
-                                                display: grid;
-                                                gap: 10px;
-                                                grid-auto-flow: dense;
-                                                grid-template-columns: 1fr;
-                                                grid-template-rows: auto;
-                                                grid-template-areas:
-                                                    'texto-content-consulta'
-                                                    'imagen-content-consulta';
-                                            }
-
-                                            .box-ppal-consulta .imagen {
-                                                padding: 5%;
-                                                grid-area: imagen-content-consulta;
-                                            }
-
-                                            .box-ppal-consulta .imagen img {
-                                                max-width: 320px;
-                                                margin: auto;
-                                                padding: 8px 32px;
-                                            }
-
-                                            .box-ppal-consulta .texto {
-                                                grid-area: texto-content-consulta;
-                                                padding: 5%;
-                                                /* height: px; */
-                                                display: flex;
-                                                flex-direction: column;
-                                                justify-content: space-evenly;
-                                                align-items: center;
-                                            }
-
-                                            .box-ppal-consulta .texto .parrafo {
-                                                padding-top: 16px;
-                                                padding-bottom: 16px;
-                                            }
-
-                                            .box-ppal-consulta .consulta-boton {
-                                                background-color: #315002;
-                                                border: solid 2px rgba(255, 255, 255, 1);
-                                                border-radius: 15px;
-                                                width: 100%;
-                                                -webkit-box-shadow: -2px 5px 0px 0px rgba(0, 0, 0, 0.10);
-                                                box-shadow: -2px 5px 0px 0px rgba(0, 0, 0, 0.10);
-                                            }
-
-                                            .box-ppal-consulta .consulta-boton h3 {
-                                                font-size: 28px;
-                                                font-weight: 700;
-                                                text-align: center;
-                                                line-height: 1.2;
-                                                color: rgba(255, 255, 255, 1);
-                                                margin: 8px;
-                                                padding: 5px 16px;
-                                                /* margin-bottom: 30px; */
-                                            }
-
-                                            .box-ppal-consulta .consulta-boton:hover {
-                                                background-color: rgba(255, 255, 255, 1);
-                                                border: solid 2px #315002;
-                                            }
-
-                                            .box-ppal-consulta .consulta-boton:hover h3 {
-                                                color: #315002;
-                                            }
-
-                                            .box-wrp .enfasis {
-                                                border: solid 2px #315002;
-                                                border-radius: 16px;
-                                                padding: 8px;
-                                                grid-column: span 2;
-                                                margin: 16px;
-                                            }
-
-                                            .box-wrp .enfasis h3 {
-                                                font-size: 24px;
-                                                font-weight: 700;
-                                                text-align: left;
-                                                line-height: 1.5;
-                                                color: #315002;
-                                                padding: 8px;
-                                                margin: 0px;
-                                            }
-
-                                            .box-wrp .enfasis p {
-
-                                                padding: 8px;
-                                                margin: 0px;
-                                            }
-
-
-                                            @media(min-width:768px) {
-                                                .box-ppal-consulta {
-                                                    display: grid;
-                                                    gap: 10px;
-                                                    grid-auto-flow: dense;
-                                                    grid-template-columns: 1fr 1fr;
-                                                    grid-template-rows: auto;
-                                                    grid-template-areas:
-                                                        'imagen-content-consulta texto-content-consulta';
-                                                }
-                                            }
-
-                                            @media(min-width:992px) {}
-
-                                            @media(min-width:1200px) {}
-                                        </style>
                                     </div>
+                                    <style>
+                                        .box-enlace .img-principal {
+                                            padding: 3em;
+                                        }
 
-                                    <div class="seccion4">
-                                        <div class="titulo">
-                                            <hr>
-                                            <div class="enfasis">
-                                                <h3>IMPORTANTE:</h3>
-                                                <p>Si haces parte del <strong>grupo poblacional indígena</strong>, puedes acceder al subsidio teniendo en cuenta que:</p>
+                                        .box-enlace .texto {
+                                            /* height: px; */
+                                            display: flex;
+                                            flex-direction: column;
+                                            justify-content: center;
+                                            align-items: center;
+                                        }
+
+                                        .box-enlace .texto .title {
+                                            margin-bottom: 16px;
+                                        }
+
+                                        .box-enlace .solicita-btn h3 {
+                                            text-transform: uppercase;
+                                        }
+
+                                        .box-enlace .texto .enlace-consulta {
+                                            padding: 16px;
+                                        }
+
+                                        .box-enlace .texto .paragraph {
+                                            padding: 8px;
+                                        }
+                                    </style>
+                                </div>
+                                <style>
+                                    #consulta .box-enlace {
+                                        grid-area: box-enlace;
+                                        display: grid;
+                                        gap: 8px;
+                                        grid-auto-flow: dense;
+                                        grid-template-columns: 1fr;
+                                        grid-template-rows: auto;
+                                        grid-template-areas:
+                                            '';
+                                    }
+
+                                    @media(min-width:768px) {
+                                        #consulta .box-enlace {
+                                            padding: 32px;
+                                            grid-template-columns: 1fr 1fr;
+                                            grid-template-areas:
+                                                'img-principal texto';
+                                        }
+                                    }
+                                </style>
+
+
+
+                                <!-- Sección box mensaje -->
+                                <div class="box-mensaje">
+                                    <div class="enfasis">
+                                        <h3>Importante</h3>
+                                        <!-- <p>Si haces parte del <strong>grupo poblacional indígena</strong>, puedes acceder al subsidio teniendo en cuenta que:</p> -->
+                                    </div>
+                                </div>
+                                <style>
+                                    #consulta .box-mensaje {
+                                        grid-area: box-mensaje;
+                                        padding: 16px 3em;
+                                        background-color: #BCCF14;
+                                        margin-bottom: 8px;
+                                    }
+
+                                    #consulta .box-mensaje .enfasis h3 {
+                                        /* font-size: 15px; */
+                                        font-weight: 700;
+                                        text-align: center;
+                                        line-height: 1.3;
+                                        color: rgba(25, 25, 25, 1);
+                                        text-transform: uppercase;
+                                        margin: 0px;
+                                    }
+                                </style>
+
+
+                                <!-- Sección box collapse -->
+                                <div class="box-collapse">
+
+                                    <!-- collapseGrupo -->
+                                    <div class='panel-group' id='accordionGrupo' role='tablist ' aria-multiselectable='true'>
+
+                                        <!-- collapse indigena -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_indigena'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionGrupo' href='#collapse_indigena' aria-expanded='false' aria-controls='collapse_indigena'>
+                                                        Grupo Poblacional Indígena
+                                                    </a>
+                                                </h4>
                                             </div>
-                                        </div>
-                                        <div class="card-sisben zoom unoseis">
-                                            <div class='icono-numero'>
-                                                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_1.png' alt='icono numero uno' title='icono numero uno'>
+                                            <div id='collapse_indigena' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_indigena' aria-expanded='false'>
+                                                <div class='panel-body'>
+                                                    <div class='box-indigena'>
+                                                        <div class="paragraph ph-2">
+                                                            <p>Si haces parte del <strong>grupo poblacional indígena</strong>, puedes acceder al subsidio teniendo en cuenta que:</p>
+                                                            <ul>
+                                                                <li>Debes ser mayor de 16 años y estar radicado en Bogotá.</li>
+                                                                <li>No es necesario que estés registrado en el Sisbén IV.</li>
+                                                                <li>Debes estar incluido en el listado censal realizado por el Resguardo y/o Cabildo respectivo, remitido a la Secretaría Distrital de Gobierno, y posteriormente al Ministerio del Interior.</li>
+                                                                <li>Si no tienes la tarjeta Tu Llave personalizada, solicítala para acceder con ella al incentivo en los pasajes del SITP.</li>
+                                                            </ul>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
                                             </div>
-                                            <div class='imagen'>
-                                                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_11.png' alt='grafica con icono de buscador' title='grafica con icono de buscador'>
-                                            </div>
-                                            <div class="texto">
-                                                <h3>+16</h3>
-                                                <p>Debes <strong>ser mayor de 16 años y estar radicado en Bogotá.</strong></p>
-                                                <p>No es necesario que estés registrado en el Sisbén IV.</p>
-                                            </div>
-                                        </div>
-                                        <div class="card-sisben zoom listado">
-                                            <div class='icono-numero'>
-                                                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_3.png' alt='icono numero dos' title='icono numero dos'>
-                                            </div>
-                                            <div class='imagen'>
-                                                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_12.png' alt='grafico con icono de registro de formulario' title='grafico con icono de registro de formulario'>
-                                            </div>
-                                            <div class="texto">
-                                                <h3>Listado Censal</h3>
-                                                <p>Debes estar incluido en el <strong>listado censal realizado por el Resguardo
-                                                        y/o Cabildo respectivo,</strong> remitido a la Secretaria Distrital de
-                                                    Gobierno, y posteriormente al Ministerio del Interior</p>
-                                            </div>
-                                        </div>
-                                        <div class="card-sisben zoom tarjeta">
-                                            <div class='icono-numero'>
-                                                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_6.png' alt='icono numero tres' title='icono numero tres'>
-                                            </div>
-                                            <div class='imagen'>
-                                                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_13.png' alt='grafico con lector y tarjeta tu llave' title='grafico con lector y tarjeta tu llave'>
-                                            </div>
-                                            <div class="texto">
-                                                <h3>Tarjeta Tu Llave</h3>
-                                                <p>Si no tienes la tarjeta Tu Llave personalizada, solicítala para acceder con
-                                                    ella al incentivo en los pasajes del SITP</p>
-                                            </div>
-                                        </div>
-                                        <style>
-                                            .seccion4 {
-                                                display: grid;
-                                                column-gap: 30px;
-                                                grid-auto-flow: dense;
-                                                grid-template-columns: 1fr;
-                                                grid-template-rows: auto;
-                                                grid-template-areas:
-                                                    'titulo'
-                                                    'unoseis'
-                                                    'listado'
-                                                    'tarjeta';
-                                            }
-
-                                            .seccion4 .card-sisben {
-                                                padding: 16px;
-                                            }
-
-                                            .seccion4 .card-sisben .texto {
-                                                /* height: px; */
-                                                display: flex;
-                                                flex-direction: column;
-                                                justify-content: space-between;
-                                                align-items: center;
-                                            }
-
-                                            .seccion4 .card-sisben .texto h3 {
-                                                font-size: 24px;
-                                                font-weight: 700;
-                                                text-align: center;
-                                                line-height: 1;
-                                                color: #315002;
-                                                margin: 16px 8px;
-                                            }
-
-                                            .seccion4 .card-sisben .texto p {
-                                                text-align: center;
-                                                line-height: 1.5;
-                                                color: rgba(25, 25, 25, 1);
-                                            }
-
-
-
-                                            .unoseis {
-                                                grid-area: unoseis;
-                                            }
-
-                                            .seccion4 .titulo {
-                                                grid-area: titulo;
-                                            }
-
-                                            .seccion4 .titulo>h3 {
-                                                font-size: 28px;
-                                                font-weight: 700;
-                                                text-align: center;
-                                                line-height: 1.2;
-                                                color: #315002;
-                                                margin: 30px;
-                                                text-transform: uppercase;
-                                            }
-
-                                            .seccion4 .card-sisben .icono-numero img {
-                                                max-width: 80px;
-                                                margin: auto;
-                                            }
-
-                                            .seccion4 .card-sisben .imagen img {
-                                                max-width: 100px;
-                                                margin: auto;
-                                                border-radius: 25px;
-                                                border: solid 1px #c5c5c5;
-                                                margin-top: 16px;
-                                                -webkit-box-shadow: -2px 5px 0px 0px rgba(0, 0, 0, 0.10);
-                                                box-shadow: -2px 5px 0px 0px rgba(0, 0, 0, 0.10);
-                                            }
-
-                                            .seccion4 .card-sisben .texto {
-                                                text-align: center;
-                                            }
-
-                                            @media(min-width:768px) {
-
-                                                .seccion4 .card-sisben .imagen img {
-                                                    max-width: 160px;
-                                                    margin: auto;
-                                                    border-radius: 25px;
-                                                    border: solid 1px #c5c5c5;
-                                                    margin-top: 55px;
-                                                    -webkit-box-shadow: -2px 5px 0px 0px rgba(0, 0, 0, 0.10);
-                                                    box-shadow: -2px 5px 0px 0px rgba(0, 0, 0, 0.10);
+                                            <style>
+                                                .box-indigena {
+                                                    grid-area: indigena;
                                                 }
-                                            }
-                                        </style>
+                                            </style>
+                                        </div>
+
+                                        <!-- collapse mayor -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_mayor'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionGrupo' href='#collapse_mayor' aria-expanded='false' aria-controls='collapse_mayor'>
+                                                        Adulto Mayor
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_mayor' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_mayor' aria-expanded='false'>
+                                                <div class='panel-body'>
+                                                    <div class='box-mayor'>
+                                                        <div class="paragraph ph-1">
+                                                            <p>Si actualmente tienes descuento en los pasajes del SITP por ser <strong>adulto mayor</strong> no puedes acceder a otro subsidio al mismo tiempo.</p>
+                                                            <p>Por tanto, si además estás en los grupos desde el A1 hasta el C4 en la clasificación del Sisbén IV, y quieres optar por el subsidio en las tarifas del SITP a estos grupos:</p>
+                                                            <ul>
+                                                                <li>Acércate a una caseta de personalización de tarjeta Tu Llave</li>
+                                                                <li>Solicita ser beneficiario del subsidio y anular el subsidio de adulto mayor</li>
+                                                                <li>Obtén el nuevo beneficio, después de 24 horas de haber hecho la solicitud</li>
+                                                                <li>Para volver al beneficio anterior debes esperar un mes para hacer la solicitud</li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <style>
+                                                .box-mayor {
+                                                    grid-area: mayor;
+                                                }
+                                            </style>
+                                        </div>
 
                                     </div>
+                                    <!-- /#fin Grupo -->
 
                                 </div>
+                                <style>
+                                    #consulta .box-collapse {
+                                        grid-area: box-collapse;
+                                        padding-bottom: 8px 4px;
+
+                                    }
+
+                                    #consulta .box-collapse ul>li {
+                                        padding-bottom: 8px;
+                                    }
+
+                                    #consulta .glyphicon-chevron-right::before {
+                                        color: #BCCF14 !important;
+                                    }
+
+                                    #consulta .glyphicon-chevron-left::before {
+                                        color: #BCCF14 !important;
+                                    }
+
+                                    #consulta .panel-heading {
+                                        border-color: #315002 !important;
+                                        background-color: #315002 !important;
+                                        background-image: none !important;
+                                    }
+
+                                    #consulta .panel-heading .panel-title a {
+                                        text-decoration: none;
+                                        color: #f5f5f5 !important;
+                                        font-size: 18px;
+                                        font-weight: 600;
+                                        /* letter-spacing: 1px; */
+                                    }
+
+
+
+                                    @media(min-width:768px) {
+                                        #consulta .box-collapse {
+                                            grid-area: box-collapse;
+                                            padding: 16px 3em;
+                                        }
+
+                                        #consulta .panel-heading .panel-title a:after {
+                                            font-family: 'Glyphicons Halflings';
+                                            content: "\e080";
+                                            float: right;
+                                            color: #BCCF14;
+                                            font-size: 18px;
+                                        }
+
+                                        #consulta .panel-heading .panel-title a.collapsed:after {
+                                            content: "\e114";
+                                        }
+                                    }
+                                </style>
 
                             </div>
 
@@ -1062,6 +1012,7 @@
 
             grid-template-columns: repeat(3, 1fr);
             grid-template-areas:
+                'box-grupos box-grupos box-grupos'
                 'titulo titulo titulo'
                 'unoseis listado tarjeta';
         }
