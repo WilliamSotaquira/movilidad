@@ -53,6 +53,9 @@
         <style>
             .set-wrapper .box-video {
                 grid-area: box-video;
+                display: grid;
+                align-content: center;
+                padding: 8px;
             }
         </style>
 
@@ -67,29 +70,54 @@
                 .box-noticias .title-h2 {
                     /* grid-area: cpte-titulo; */
                 }
+
+                .box-noticias .title-h2 h2 {
+                    font-size: 22px;
+                    font-weight: 700;
+                    color: var(--color-primario);
+                    text-transform: uppercase;
+                    margin-top: 8px;
+                    margin-bottom: 16px;
+                    padding-bottom: 8px;
+                    border-bottom: solid 1px var(--color-primario);
+                }
             </style>
 
 
-            <div class="box-noticia">
+            <div class="box-noticia ">
                 <h3>Noticia 1 </h3>
                 <i>Fecha desde hasta</i>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam eius quam iure adipisci error impedit placeat odit, eum minus, omnis minima sit. Itaque facilis modi ea nulla voluptates tenetur voluptate.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta et voluptatem voluptatum fuga ipsum nemo. <strong>(ver más)</strong></p>
             </div>
             <div class="box-noticia">
-                <h3>Noticia 1 </h3>
+                <h3>Noticia 2 </h3>
                 <i>Fecha desde hasta</i>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam eius quam iure adipisci error impedit placeat odit, eum minus, omnis minima sit. Itaque facilis modi ea nulla voluptates tenetur voluptate.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A quas quasi facilis, saepe animi rem molestiae quam. <strong>(ver más)</strong></p>
             </div>
             <div class="box-noticia">
-                <h3>Noticia 1 </h3>
+                <h3>Noticia 3 </h3>
                 <i>Fecha desde hasta</i>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam eius quam iure adipisci error impedit placeat odit, eum minus, omnis minima sit. Itaque facilis modi ea nulla voluptates tenetur voluptate.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime culpa, libero asperiores sunt labore id at! <strong>(ver más)</strong></p>
             </div>
 
 
             <style>
                 .box-noticias .box-noticia {
                     /* grid-area: box-noticia; */
+                    padding: 8px;
+                    border-radius: 4px;
+                    border: solid 2px transparent;
+
+
+                }
+
+                .box-noticias .box-noticia:hover {
+                    /* grid-area: box-noticia; */
+                    background-color: #e5e5e5;
+                    -webkit-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+                    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+                    border: solid 2px var(--color-gris);
+
                 }
             </style>
 
@@ -98,12 +126,21 @@
         <style>
             .set-wrapper .box-noticias {
                 grid-area: box-noticias;
+                padding: 2em;
                 display: grid;
-                gap: 8px;
+                gap: 4px;
                 grid-auto-flow: dense;
                 grid-template-columns: 1fr;
                 grid-template-rows: auto;
+            }
 
+            .box-noticia h3 {
+                margin: 0px;
+            }
+
+            .box-noticia p {
+                margin: 0px;
+            }
         </style>
 
 
