@@ -2401,6 +2401,112 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
+                                    <!-- collapse Nov22 -->
+                                    <div class='panel panel-primary'>
+                                       <div class='panel-heading' role='tab' id='heading_Nov22'>
+                                        <h4 class='panel-title'>
+                                           <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_Nov22' aria-expanded='false' aria-controls='collapse_Nov22'>
+                                            Boletines Noviembre 2022
+                                           </a>
+                                        </h4>
+                                       </div>
+                                       <div id='collapse_Nov22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_Nov22' aria-expanded='false'>
+                                        <div class='panel-body'>
+                                            <div class='box-Nov22'>
+
+
+                                            <div class='col-xs-12'>
+                                                <a class='enlace' href='https://drive.google.com/file/d/1diH7FZFuejk5y8AsIGHFy59uAVlT2qd9/view?usp=share_link'>
+                                                    <div class='btn-boletin'>
+                                                        <div class='titulo-boletin'>
+                                                            <h4>BOLETÍN 218</h4>
+                                                            <i>viernes, 18 de noviembre de 2022</i>
+                                                        </div>
+                                                        <div class='descripcion-boletin'>
+                                                            <p>Cierre nocturno en la avenida Boyacá. La UMV mejorará más de 2.000 m2 de espacio público alrededor del estadio ‘El Campín’. Por arreglos en la malla vial, la estación Flores modifica su funcionamiento los próximos dos domingos.</p>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                            <div class='col-xs-12'>
+                                                <a class='enlace' href='https://drive.google.com/file/d/1diKWMjMRdypCZSKecqzVcX5Ys03UrwyB/view?usp=share_link'>
+                                                    <div class='btn-boletin'>
+                                                        <div class='titulo-boletin'>
+                                                            <h4>BOLETÍN 217</h4>
+                                                            <i>viernes, 11 de noviembre de 2022</i>
+                                                        </div>
+                                                        <div class='descripcion-boletin'>
+                                                            <p>Reconstruimos la antigua vía al Llano. La UMV acompañó el encuentro ferial de Rendición de Cuentas del sector Movilidad, en la localidad de Sumapaz. Desde este fin de semana aplican ajustes en rutas zonales, para facilitar el desplazamiento de nuestros usuarios.</p>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class='col-xs-12'>
+                                                <a class='enlace' href='https://drive.google.com/file/d/1OcHzVbrz5cMbFd0Yv4IVL65UgSVdiDqW/view?usp=share_link'>
+                                                    <div class='btn-boletin'>
+                                                        <div class='titulo-boletin'>
+                                                            <h4>BOLETÍN 216</h4>
+                                                            <i>viernes, 4 de noviembre de 2022</i>
+                                                        </div>
+                                                        <div class='descripcion-boletin'>
+                                                            <p>Durante los últimos días, la UMV prestó apoyo en la atención de emergencias causadas por las lluvias en Usaquén. ¿Cómo implementamos la metodología BIM en el IDU? Por arreglos en la malla vial, las estaciones Calle 22 y Calle 57 modifican su funcionamiento durante el fin de semana.</p>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                            <div class='col-xs-12'>
+                                                <a class='enlace' href='https://drive.google.com/file/d/1in3LFUbUCca8ugAfU2pAxTs7Sm5sd6A3/view?usp=share_link'>
+                                                    <div class='btn-boletin'>
+                                                        <div class='titulo-boletin'>
+                                                            <h4>BOLETÍN 215</h4>
+                                                            <i>jueves, 3 de noviembre de 2022</i>
+                                                        </div>
+                                                        <div class='descripcion-boletin'>
+                                                            <p>Cierres por obra en la Zona Rosa. La UMV adquirió nuevas volquetas, que llegan para apoyar las obras en Sumapaz. Portal 80 se transforma con grafitis, color y ancestralidad.</p>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                            <div class='col-xs-12'>
+                                                <a class='enlace' href='https://drive.google.com/file/d/1968EoVvoV6kmJ95WkHhEaivQmIPF3Vdv/view?usp=share_link'>
+                                                    <div class='btn-boletin'>
+                                                        <div class='titulo-boletin'>
+                                                            <h4>BOLETÍN 214</h4>
+                                                            <i>miércoles, 2 de noviembre de 2022</i>
+                                                        </div>
+                                                        <div class='descripcion-boletin'>
+                                                            <p>La UMV ha realizado 15 obras de bioingeniería para conectar las vías rurales del sur de Bogotá. Nuevos servicios expresos en el Portal Américas. Cómo consultar las obras del IDU.</p>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1eBr3kO1XV0nY3gAhnLlmroejGwAaoX0l/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 213</h4>
+                                                                <i>martes, 1 de noviembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Cierres por obra de la extensión Caracas Sur. Los habitantes del norte de Bogotá tendrán mejor espacio público para sus trayectos. TransMilenio conmemoró el mes de la disCAPACIDAD, promoviendo un Sistema accesible e incluyente.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                       </div>
+                                       <style>
+                                            .box-Nov22 {
+                                              grid-area: Nov22;
+                                            }
+                                       </style>
+                                    </div>
+
                                     <!-- collapse_Oct22 -->
                                     <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_Oct22'>
