@@ -23,23 +23,25 @@
           </div>
           <div class='col-xs-12 col-sm-9 col-md-9'>
               <div class='row box-botones'>
+
+                  <div class='col-xs-6 col-sm-4 col-md-2'>
+                      <!-- <a href="https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular" target="_blank" rel="noopener noreferrer">
+                          <div class="box-pyp">
+                              <div class="txt-pyp">
+                                  <div>
+                                      <h3><span>Movilidad</span> Compartida</h3>
+                                  </div>
+                              </div>
+                          </div>
+                      </a> -->
+                  </div>
+
                   <div class='col-xs-6 col-sm-4 col-md-2'>
                       <a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" target="_blank" rel="noopener noreferrer">
                           <div class="box-pyp">
                               <div class="txt-pyp">
                                   <div>
                                       <h3><span>Pico y Placa</span> Solidario</h3>
-                                  </div>
-                              </div>
-                          </div>
-                      </a>
-                  </div>
-                  <div class='col-xs-6 col-sm-4 col-md-2'>
-                      <a href="https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular" target="_blank" rel="noopener noreferrer">
-                          <div class="box-pyp">
-                              <div class="txt-pyp">
-                                  <div>
-                                      <h3><span>Movilidad</span> Compartida</h3>
                                   </div>
                               </div>
                           </div>
@@ -68,7 +70,7 @@
                       </a>
                   </div>
                   <div class='col-xs-6 col-sm-4 col-md-2'>
-                      <a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_2022" target="_blank" rel="noopener noreferrer">
+                      <a href="https://www.movilidadbogota.gov.co/web/abece_del_pico_y_placa" target="_blank" rel="noopener noreferrer">
                           <div class="box-pyp">
                               <div class="txt-pyp">
                                   <div>
@@ -173,13 +175,7 @@
               </div>
           </div>
       </div>
-<!-- <hr>
-      <div class="row">
-          <div class="col-xs-12 visible-xs-12 visible-xs-block"><a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_2022" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder al Abecé del Pico y Placa 2022 en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2022/pyp_regional_banner_web_900x300.png" title="Aquí puede acceder al Abecé del Pico y Placa 2022 en Bogotá"></a></div>
-          <div class="col-sm-12 hidden-xs"><a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_2022" target="_blank" rel="noopener noreferrer"><img alt="Aquí puede acceder al Abecé del Pico y Placa 2022 en Bogotá" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2022/pyp_regional_banner_web_1920x320.png" title="Aquí puede acceder a Bogotá está mejorando con arreglo de calles y vías"></a>
-        </div>
-    </div>
-    <br> -->
+
 
       <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
       <!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
@@ -189,7 +185,7 @@
           }
 
           .box-banners-length {
-              font-size: 14px !important;
+              font-size: 16px !important;
               line-height: 1 !important;
               margin-top: 20px;
               max-width: 980px;
@@ -216,8 +212,8 @@
               white-space: normal;
               background-color: #191C3A;
               border-radius: 6px;
-              padding-left: 15px !important;
-              padding-right: 15px !important;
+              /* padding-left: 15px !important;
+              padding-right: 15px !important; */
 
           }
 
@@ -294,16 +290,16 @@
           .contacto-div .txt-footer p {
               width: 100%;
               color: #fff !important;
-              font-weight: 900;
-              font-size: 9px;
+              /* font-weight: 900; */
+              /* font-size: 9px; */
               margin: 0px;
-              line-height: 1.3;
+              line-height: 1;
               padding: 0px 15px;
           }
 
           .contacto-div .txt-footer .enfasis {
               color: #66e026;
-              font-weight: 900;
+              font-weight: 600;
           }
 
           .zoom {
@@ -338,7 +334,7 @@
               }
 
               .contacto-div .txt-footer p {
-                  font-size: 12px !important;
+                  /* font-size: 12px !important; */
               }
           }
 
@@ -349,7 +345,7 @@
                   font-weight: 900;
                   text-transform: uppercase;
                   font-size: calc(1vw + 0.3rem);
-                  margin: 0px 5px 5px 5px;
+                  margin: 5px 5px 5px 5px;
               }
           }
 
@@ -381,7 +377,7 @@
 
               .contacto-div .txt-footer p {
                   /* font-size: 6px; */
-                  font-size: 13px;
+                  /* font-size: 13px; */
               }
 
           }
@@ -389,7 +385,7 @@
           @media(min-width:992px) {
               .contacto-div .txt-footer p {
                   /* font-size: 6px; */
-                  font-size: 12px;
+                  /* font-size: 12px; */
               }
           }
 
@@ -553,6 +549,10 @@
               font-weight: 700;
               margin: 5px;
               font-size: 1em;
+          }
+
+          .box-botones a {
+              color: #fff;
           }
 
           .botones-pyp .txt-pyp span {
