@@ -1559,7 +1559,7 @@
                                             <div class="txt-seccion-6">
                                                 <p><strong>Le apostamos a tener 20 puntos de carga rápida para uso público en la ciudad a 2022.</strong> Conoce la infraestructura que existe hoy.</p>
                                             </div>
-                                            <div class='images-map'>
+                                            <!-- <div class='images-map'>
                                                 <div class="img-map">
                                                     <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/1200x680.png' alt='Mapa de infraestructura existente' title='Mapa de infraestructura existente'>
                                                 </div>
@@ -1568,7 +1568,35 @@
                                                         <div class="text-map">Conoce más detalles aquí</div>
                                                     </a>
                                                 </div>
-                                            </div>
+                                            </div> -->
+                                            <style>
+                                                .embed-container {
+                                                    position: relative;
+                                                    padding-bottom: 80%;
+                                                    height: 0;
+                                                    max-width: 100%;
+                                                }
+
+                                                .embed-container iframe,
+                                                .embed-container object,
+                                                .embed-container iframe {
+                                                    position: absolute;
+                                                    top: 0;
+                                                    left: 0;
+                                                    width: 100%;
+                                                    height: 100%;
+                                                }
+
+                                                small {
+                                                    position: absolute;
+                                                    z-index: 40;
+                                                    bottom: 0;
+                                                    margin-bottom: -15px;
+                                                }
+                                            </style>
+                                            <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://movilidadbogota.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b6bdb3be323f48acaf9486e6b3b9b573"></iframe></div>
+                                                <br>
+                                            <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://arcg.is/WmXy00"></iframe></div>
                                             <br>
                                             <div class="txt-seccion-6">
                                                 <p>Si tienes un vehículo eléctrico o una flota de vehículos eléctricos y consideras que no hay suficientes puntos de recarga en tu zona, envíanos un correo a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y lo tendremos en cuenta para la expansión de la Red.</p>
@@ -2084,7 +2112,7 @@
                         .btn-transicion .imagen {}
 
                         .btn-transicion .imagen img {
-                            max-width: 180px;
+                            max-width: 120px;
                             margin: auto;
                             padding: 15px;
                         }
