@@ -1615,7 +1615,150 @@
 
                                 <!-- Sección box social -->
                                 <div class="box-social">
+                                    <div class="cards">
+                                        <div class="card card1">
+                                            <div class="icon ico-mensajero">
+                                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/01-12-2022/mensajero_a.png ">
+                                                <hr class="line-card">
+                                                </hr>
+                                            </div>
+                                            <div class="paragraph ph-card">
+                                                <p>Más oportunidades de empleo formal y mejor calidad de vida de los conductores.</p>
+                                            </div>
+                                        </div>
+                                        <div class="card card2">
+                                            <div class="icon ico-mensajero">
+                                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/01-12-2022/cronometro_a.png">
+                                                <hr class="line-card">
+                                                </hr>
+                                            </div>
+                                            <div class="paragraph ph-card">
+                                                <p>Menor tiempo de entrega.</p>
+                                            </div>
+                                        </div>
+                                        <div class="card card3">
+                                            <div class="icon ico-mensajero">
+                                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/01-12-2022/co2_a.png">
+                                                <hr class="line-card">
+                                                </hr>
+                                            </div>
+                                            <div class="paragraph ph-card">
+                                                <p>Menos emisiones de gases contaminantes, reducción de ruido y aire de calidad.</p>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .cards .card1 {
+                                                grid-area: card1;
+                                            }
 
+                                            .cards .card2 {
+                                                grid-area: card2;
+                                            }
+
+                                            .cards .card3 {
+                                                grid-area: card3;
+                                            }
+
+                                            .cards .card {
+                                                /* height: px; */
+
+                                            }
+
+                                            .box-social .card {
+                                                /* padding: 16px; */
+                                                border: solid 1px transparent;
+                                                transition: all ease-in 0.5s;
+
+                                            }
+
+                                            .box-social .card:hover {
+                                                -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.05);
+                                                box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.05);
+                                                border: solid 1px var(--color-bc-gris);
+                                                border-radius: 15px;
+                                            }
+
+                                            .box-social .card .icon img {
+                                                max-width: 150px;
+                                                margin: auto;
+                                                padding: 30px;
+                                                transition: all ease-in 0.4s;
+                                            }
+
+                                            .box-social .card:hover .icon img {
+                                                /* max-width: 160px; */
+                                                padding: 10px;
+                                            }
+
+                                            .box-social .card .ph-card {
+                                                height: 100px;
+                                                display: flex;
+                                                flex-direction: column;
+                                                justify-content: center;
+                                                align-items: center;
+                                            }
+
+                                            .box-social .card .line-card {
+                                                max-width: 80%;
+                                                margin: 0 auto;
+                                                border-top: 2px solid var(--color-bc-verde);
+                                            }
+
+                                            .box-social .card .ph-card p {
+                                                padding: 16px;
+                                                font-size: 16px;
+                                                font-weight: 500;
+                                                text-align: center;
+                                                line-height: 1.2;
+                                                color: var(--color-bc-gris-str);
+                                            }
+                                        </style>
+                                    </div>
+                                    <style>
+                                        .box-social .cards {
+                                            grid-area: cpte-cards;
+                                            display: grid;
+                                            gap: 8px;
+                                            grid-auto-flow: dense;
+                                            grid-template-columns: repeat(3, 1fr);
+                                            grid-template-rows: auto;
+                                            grid-template-areas:
+                                                'card1 card2 card3';
+                                            padding: 16px;
+                                        }
+                                    </style>
+
+                                    <!-- Sección box lista -->
+                                    <div class="cpte-lista">
+                                        <p>Impactos en la percepción de clientes o receptores finales de carga</p>
+                                        <ul>
+                                            <li>El <strong>80%</strong> dijeron sentirse satisfechos o muy satisfechos al saber que la mercancía que iban a recibir es transportada en triciclos eléctricos.</li>
+                                            <li><strong>88%</strong> consideraron que recibían los productos en muy buen estado.</li>
+                                            <li>El <strong>76%</strong> de los clientes afirma que el uso de las bicicletas de carga genera un impacto positivo en la disminución de la contaminación de la ciudad.</li>
+                                        </ul>
+                                        <p>Impactos en la percepción de transeúntes:</p>
+                                        <ul>
+                                            <li>El <strong>82%</strong> considera que tiene un beneficio con el cuidado del medio ambiente.</li>
+                                            <li>El <strong>70%</strong> considera que aporta a la disminución de ruido.</li>
+
+                                        </ul>
+                                    </div>
+                                    <style>
+                                        .box-social .cpte-lista {
+                                            grid-area: cpte-lista;
+                                            padding: 24px;
+                                        }
+
+                                        .box-social .cpte-lista p {
+                                            font-size: 15px;
+                                            font-weight: 500;
+                                            text-align: left;
+                                            line-height: 1.5;
+                                            color: var(--color-bc-gris-str);
+                                            margin: 0px;
+                                            padding: 8px;
+                                        }
+                                    </style>
                                 </div>
                                 <style>
                                     .box-resultados .box-social {
@@ -1623,71 +1766,6 @@
                                     }
                                 </style>
 
-
-                                <div class="box-descargable">
-                                    <a class="zoom" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/06-09-2022/2022-09-05_reporteindicadores_bicicarga-v5.pdf" target="_blank" rel="noopener noreferrer" download>Descargar resultados</a>
-                                </div>
-                                <style>
-                                    .box-descargable {
-                                        padding: 32px;
-                                        margin: auto;
-                                        text-align: center;
-                                    }
-
-
-                                    .box-descargable a:hover {
-                                        background-color: var(--color-bc-gris);
-                                        color: var(--color-bc-text);
-                                        border: var(--color-bc-verde) 2px solid;
-                                        font-weight: 600;
-                                        text-decoration: none !important;
-                                        -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-                                        box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
-                                    }
-
-                                    .box-descargable a:focus,
-                                    .box-descargable::before {
-                                        color: var(--color-bc-verde);
-                                        font-weight: 600;
-
-                                    }
-
-                                    .box-descargable a {
-                                        display: inline-block;
-                                        background-color: var(--color-bc-azul);
-                                        border: var(--color-bc-azul) 2px solid;
-                                        color: var(--color-bc-blanco);
-                                        padding: 8px 16px;
-                                        border-radius: 4px;
-                                        text-decoration: none !important;
-                                    }
-
-
-                                    .zoom {
-                                        transition: 0.5s ease;
-                                        -moz-transition: 0.5s ease;
-                                        /* Firefox */
-                                        -webkit-transition: 0.5s ease;
-                                        /* Chrome - Safari */
-                                        -o-transition: 0.5s ease;
-                                        /* Opera */
-                                        -ms-transition: 0.5s ease;
-                                    }
-
-                                    .zoom:hover {
-                                        transform: scale(1.05);
-                                        -moz-transform: scale(1.05);
-                                        /* Firefox */
-                                        -webkit-transform: scale(1.05);
-                                        /* Chrome - Safari */
-                                        -o-transform: scale(1.05);
-                                        /* Opera */
-                                        -ms-transform: scale(1.05);
-
-                                    }
-
-                                    /* IE9 */
-                                </style>
 
                             </div>
                         </div>
@@ -1867,6 +1945,134 @@
                 }
             </style>
         </div>
+
+        <div class="box-descargable">
+            <div class="descripcion">
+                <p>Descargue aquí el <span class="enfasis">REPORTE FINAL DE INDICADORES PILOTO BICICARGA</span></p>
+            </div>
+            <div class="boton">
+                <a class="zoom" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/06-09-2022/2022-09-05_reporteindicadores_bicicarga-v5.pdf" target="_blank" rel="noopener noreferrer" download>Descargar resultados</a>
+            </div>
+            <style>
+                .box-descargable .descripcion {
+                    grid-area: cpte-descripcion;
+                    background: var(--color-bc-verde);
+                    padding: 16px;
+                }
+                .box-descargable .descripcion p{
+                    font-size: 24px;
+                    font-weight: 700;
+                    text-align: center;
+                    line-height: 1.5;
+                    color: var(--color-bc-text);
+                    margin: 0px;
+                }
+
+                .box-descargable .descripcion .enfasis{
+                    font-size: 28px;
+                    font-weight: 700;
+                    text-align: center;
+                    line-height: 1.5;
+                    color: var(--color-bc-blanco);
+                }
+                .box-descargable .boton {
+                    grid-area: cpte-descargable-boton;
+                    /* height: px; */
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+            </style>
+        </div>
+        <style>
+            .box-descargable {
+                background: #F5F5F5;
+                grid-area: descargable;
+                margin-top: 16px;
+                margin-bottom: 16px;
+                padding-top: 16px;
+                padding-bottom: 16px;
+                margin: auto;
+                text-align: center;
+                border-top: solid 1px var(--color-bc-gris);
+                border-bottom: solid 1px var(--color-bc-gris);
+
+                display: grid;
+                gap: 8px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                grid-template-areas:
+                'cpte-descripcion'
+                'cpte-descargable-boton';
+            }
+
+
+            .box-descargable a:hover {
+                background-color: var(--color-bc-gris);
+                color: var(--color-bc-text);
+                border: var(--color-bc-verde) 2px solid;
+                font-weight: 600;
+                text-decoration: none !important;
+                -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+                box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            }
+
+            .box-descargable a:focus,
+            .box-descargable::before {
+                color: var(--color-bc-verde);
+                font-weight: 600;
+
+            }
+
+            .box-descargable a {
+                display: inline-block;
+                background-color: var(--color-bc-azul);
+                border: var(--color-bc-azul) 2px solid;
+                color: var(--color-bc-blanco);
+                padding: 8px 16px;
+                border-radius: 4px;
+                text-decoration: none !important;
+            }
+
+
+            .zoom {
+                transition: 0.5s ease;
+                -moz-transition: 0.5s ease;
+                /* Firefox */
+                -webkit-transition: 0.5s ease;
+                /* Chrome - Safari */
+                -o-transition: 0.5s ease;
+                /* Opera */
+                -ms-transition: 0.5s ease;
+            }
+
+            .zoom:hover {
+                transform: scale(1.05);
+                -moz-transform: scale(1.05);
+                /* Firefox */
+                -webkit-transform: scale(1.05);
+                /* Chrome - Safari */
+                -o-transform: scale(1.05);
+                /* Opera */
+                -ms-transform: scale(1.05);
+
+            }
+
+            @media(min-width:768px){
+                .box-descargable {
+
+                gap: 8px;
+                grid-template-columns: 70% 30%;
+                grid-template-areas:
+                'cpte-descripcion cpte-descargable-boton';
+            }
+            }
+            @media(min-width:992px){}
+
+            /* IE9 */
+        </style>
 
         <div class="box-empresas">
             <h3>Empresas que participaron en BiciCarga</h3>
@@ -2197,6 +2403,7 @@
                 'encabezado'
                 'video'
                 'acordeon'
+                'descargable'
                 'empresas'
                 'carousel-empresas'
                 'socios'
@@ -2211,6 +2418,7 @@
                     'encabezado video'
                     /* 'video video' */
                     'acordeon acordeon'
+                    'descargable descargable'
                     'empresas carousel-empresas'
                     'socios socios'
                     'boton-socios boton-socios';
@@ -2224,10 +2432,11 @@
 <!-- Styles -->
 <style type='text/css'>
     :root {
-        --color-bc-azul: rgba(1, 30, 65, 1);
+        --color-bc-azul: #011e40;
         --color-bc-verde: rgba(0, 168, 78, 1);
         --color-bc-blanco: rgba(255, 255, 255, 1);
         --color-bc-gris: #e5e5e5;
+        --color-bc-gris-str: #353535;
         --color-bc-text: rgba(25, 25, 25, 1);
     }
 
