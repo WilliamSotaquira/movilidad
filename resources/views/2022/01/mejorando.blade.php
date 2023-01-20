@@ -1,3 +1,5 @@
+obras_para_la_movilidad_sostenible
+
 @extends('welcome')
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
@@ -168,6 +170,19 @@
 
     /* botones navtabs bem */
 
+    .botones .btn0 {
+        background: #B32428;
+        background: -moz-linear-gradient(-45deg, #B32428 0%, #B32428 34%, #2C5B02 100%);
+        background: -webkit-linear-gradient(-45deg, #B32428 0%, #B32428 34%, #2C5B02 100%);
+        background: linear-gradient(135deg, #B32428 0%, #B32428 34%, #2C5B02 100%);
+        transition: all ease-in 0.8s;
+    }
+
+    .botones .btn0:hover {
+        background: rgba(228, 238, 187, 1) !important;
+
+    }
+
     .botones .btn1 {
         background-color: #c10000;
     }
@@ -188,7 +203,7 @@
         background-color: #475211;
     }
 
-    .colorpper-btnbem :hover {
+    .colorpper-btnbem:hover {
         background-color: rgba(228, 238, 187, 1) !important;
     }
 
@@ -1195,16 +1210,34 @@
             </div>
         </div>
 
-        <style>
-
-        </style>
     </div>
     <div class="s2">
 
         <div class="botones">
             <div class='row'>
 
-                <div class='col-sm-5ths'>
+                <div class='col-btn col-xs-6 col-sm-2'>
+                    <div class="wrapper-btnbem zoom btn0">
+                        <a href="#obras2023" aria-controls="obras2023" role="tab" data-toggle="tab">
+                            <div class="box-btnbem">
+                                <!-- <div class="boton-bem">
+                                    <div class='imagen'>
+                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-05-2022/2022-05-27_iconos_bec_1.png' alt='icono película' title='icono película'>
+                                    </div>
+                                </div> -->
+                                <div class="txt-btn-bem">
+                                    <div>
+                                        <h3>
+                                            Obras para el año 2023
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class='col-btn col-xs-6 col-sm-2'>
                     <div class="wrapper-btnbem zoom btn1">
                         <a href="#infraestructura" aria-controls="infraestructura" role="tab" data-toggle="tab">
                             <div class="box-btnbem">
@@ -1225,7 +1258,7 @@
                     </div>
                 </div>
 
-                <div class='col-sm-5ths'>
+                <div class='col-btn col-xs-6 col-sm-2'>
                     <div class="wrapper-btnbem zoom btn2">
                         <a href="#alternativas" aria-controls="alternativas" role="tab" data-toggle="tab">
                             <div class="box-btnbem">
@@ -1246,7 +1279,7 @@
                     </div>
                 </div>
 
-                <div class='col-sm-5ths'>
+                <div class='col-btn col-xs-6 col-sm-2'>
                     <div class="wrapper-btnbem zoom btn3">
                         <a href="#comportamientos" aria-controls="comportamientos" role="tab" data-toggle="tab">
                             <div class="box-btnbem">
@@ -1258,7 +1291,7 @@
                                 <div class="txt-btn-bem">
                                     <div>
                                         <h3>
-                                            Plan tapahuecos
+                                            Plan tapa-<br>huecos
                                         </h3>
                                     </div>
                                 </div>
@@ -1267,7 +1300,7 @@
                     </div>
                 </div>
 
-                <div class='col-sm-5ths'>
+                <div class='col-btn col-xs-6 col-sm-2'>
                     <div class="wrapper-btnbem zoom btn4">
                         <a href="#actualidad" aria-controls="actualidad" role="tab" data-toggle="tab">
                             <div class="box-btnbem">
@@ -1288,7 +1321,7 @@
                     </div>
                 </div>
 
-                <div class='col-sm-5ths'>
+                <div class='col-btn col-xs-6 col-sm-2'>
                     <div class="wrapper-btnbem zoom btn5">
                         <a href="#clips" aria-controls="clips" role="tab" data-toggle="tab">
                             <div class="box-btnbem">
@@ -1311,11 +1344,237 @@
 
             </div>
         </div>
+        <style>
+            .botones {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+
+            .botones .col-btn {
+                padding: 0px !important;
+
+            }
+        </style>
         <hr>
         <div class="tabs">
             <div>
                 <!-- Tab panes -->
                 <div class="tab-content">
+
+                    <div role="tabpanel" class="tab-pane fade in" id="obras2023">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <div class="img-o-ppal">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-12-2022/arte-final-pasacalle-9-dic.png" alt="Banner de obras principal" title="Banner de obras principal">
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6">
+                                <div class="video-o-ppal">
+                                    <video controls style="width: 100%;">
+                                        <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-12-2022/mantenimiento_vial_v4.mp4" type="video/mp4" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-12-2022/sxcv-imagen_221221_gr.png" preload>
+                                    </video>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 d-flex">
+                                <div class="ph-o-ppal">
+                                    <p>Trabajamos en mantenimiento vial para este Año Nuevo 2023 . El IDU , la UMV y la Secretaría de Movilidad , vamos a mejorar la malla vial y la señalización de nuestra ciudad . Intervendremos 522 calles , 255 km carril en diferentes localidades , adicional que las obras que están en desarrollo .</p>
+                                    <p>Mira este video y conoce más detalles</p>
+                                </div>
+                            </div>
+
+                        </div>
+                        <style>
+                            .img-o-ppal {
+                                margin-bottom: 32px;
+                            }
+
+                            .d-flex {
+                                /* height: px; */
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: center;
+                                align-items: center;
+                            }
+
+                            .ph-o-ppal{
+                                padding: 32px;
+                            }
+
+                            .ph-o-ppal p {
+                                font-size: 15px;
+                                font-weight: 500;
+                                text-align: center;
+                                line-height: 1.5;
+                                /* color: var(--color-); */
+                            }
+                        </style>
+
+                        <!-- Sección box obras-body -->
+                        <div class="box-obras-body">
+
+                            <!-- collapse_obras2023 -->
+                            <div class='panel-group' id='accordion_obras2023' role='tablist ' aria-multiselectable='true'>
+
+                                <!-- collapse collapse_o23_idu -->
+                                <div class='panel panel-primary'>
+                                    <div class='panel-heading' role='tab' id='heading_collapse_o23_idu'>
+                                        <h4 class='panel-title'>
+                                            <a role='button' data-toggle='collapse' data-parent='#accordion_obras2023' href='#collapse_collapse_o23_idu' aria-expanded='false' aria-controls='collapse_collapse_o23_idu'>
+                                                IDU
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id='collapse_collapse_o23_idu' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_collapse_o23_idu' aria-expanded='false'>
+                                        <div class='panel-body'>
+
+                                            <div class='box-collapse_o23_idu'>
+                                                <div class="title title-h3">
+                                                    <h3>IDU intensifica trabajos para el mantenimiento de la malla vial y de ciclorrutas durante fin de año</h3>
+                                                </div>
+                                                <div class="paragraph ph-1">
+                                                    <p>Con una inversión de $17.938 millones y 105 frentes de obra diurnos y nocturnos, el Instituto de Desarrollo Urbano -IDU- realiza actividades de conservación en 26 kilómetros- carril de vías (equivalentes a 159 calles) en varios corredores de la ciudad, como parte del Plan de Mantenimiento Vial de fin de año. También interviene más de 5 kilómetros de ciclorruta y 2.533 metros cuadrados de espacio público.</p>
+                                                </div>
+                                                <div class="imagen img-1">
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-12-2022/221221_obras_1.png" alt="Personal de la UMA realizando trabajos de mejora a los andenes" title="Personal de la UMA realizando trabajos de mejora a los andenes">
+                                                </div>
+                                                <div class="paragraph ph-2">
+                                                    <p>Alrededor de 2.480 personas estarán trabajando en el mantenimiento de la malla vial, espacio público y ciclorrutas con actividades que van desde mantenimiento periódico hasta parcheos y bacheos localizados en las vías. Buscamos generar mejores condiciones de movilidad para los peatones, ciclistas y para el transporte público y privado al regresar de la temporada de fin de año.</p>
+                                                    <p>En malla vial arterial troncal, 5,25 km-carril (33 calles) en la Autopista Norte, calles 80 y 26, NQS, avenidas Caracas y Las Américas, entre otras. En malla vial arterial no troncal, el IDU intervendrá 10,75 km-carril (67 calles), principalmente en las avenidas Boyacá, Ciudad de Cali, Las Américas, La Esperanza, Circunvalar, Primera de Mayo y en las calles 170 y 138. En las vías que soportan las rutas SITP, serán intervenidos 3,59 km-carril (22 calles), en diferentes segmentos viales de 17 localidades de Bogotá.</p>
+                                                </div>
+                                                <div class="imagen img-2">
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-12-2022/221221_obras_3.png" alt="Fotografía personal de obra adelantando acciones de mejoras a cazada en la noche" title="Fotografía personal de obra adelantando acciones de mejoras a cazada en la noche">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <style>
+                                        .box-collapse_o23_idu {
+                                            grid-area: collapse_o23_idu;
+                                        }
+                                    </style>
+                                </div>
+
+                                <!-- collapse umv -->
+                                <div class='panel panel-primary'>
+                                    <div class='panel-heading' role='tab' id='heading_umv'>
+                                        <h4 class='panel-title'>
+                                            <a role='button' data-toggle='collapse' data-parent='#accordion_obras2023' href='#collapse_umv' aria-expanded='false' aria-controls='collapse_umv'>
+                                                UMV
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id='collapse_umv' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_umv' aria-expanded='false'>
+                                        <div class='panel-body'>
+                                            <div class='box-umv'>
+                                                <div class="title title-h3">
+                                                    <h3>Plan de Mantenimiento Vial Diciembre - Enero</h3>
+                                                </div>
+                                                <div class="paragraph ph-3">
+                                                    <p>La UMV realizará tres estrategias para el plan de Mantenimiento Vial en Bogotá desde el 5 de diciembre de 2022 hasta el 30 de enero de 2023.Las intervenciones nocturnas que se realizarán durante ese mes serán: Carrera séptima: desde la calle 183 hasta la calle 32, Calle 170 desde la Autopista Norte hasta la Avenida Boyacá, Avenida Circunvalar desde la Calle 39 hasta la calle 6ta y la Carrera 5ta desde la calle72 hasta la calle 26.</p>
+                                                </div>
+                                                <div class="imagen img-3">
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-12-2022/221221_obras_5.png" alt="Personal de la UMV haciendo separación de calzada en la noche" title="Personal de la UMV haciendo reparación de calzada en la noche">
+                                                </div>
+                                                <div class="paragraph ph-4">
+                                                    <p>La UMV también priorizó intervenciones diurnas y ha establecido una estrategia para atender más de 30 mil metros cuadrados de vías reportadas en la plataforma Gobierno Abierto Bogotá, trabajará en 3 sectores diferentes de la ciudad, en el primero atenderá 23 calles de las localidades de Chapinero, Suba y Usaquén, 23 calles en el segundo sector localizado en Teusaquillo, y en el tercer sector intervendrá 15 calles en Rafael Uribe Uribe y Tunjuelito. Además contará para este plan con más de 800 personas distribuidas en 40 unidades operativas, 7 de topografía y un equipo de diagnóstico, plantas de asfalto en caliente y mezcla en frío, unidades móviles de parcheo y equipo menor.</p>
+                                                </div>
+                                                <div class="imagen img-4">
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-12-2022/221221_obras_7.png" alt="Cuadrilla de la UMV reparando loza de hormigón" title="Cuadrilla de la UMV reparando loza de hormigón">
+                                                </div>
+                                                <div class="paragraph ph-5">
+                                                    <p>La entidad dispondrá de un equipo completo con personal y maquinaria para la atención de emergencias que afecten la movilidad en Bogotá. Adicionalmente estará en operación la sala de monitoreo y control de obras, para revisar en tiempo real el avance de los trabajos.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <style>
+                                        .box-umv {
+                                            grid-area: umv;
+                                        }
+                                    </style>
+                                </div>
+
+                            </div>
+                            <!-- /#fin _obras2023 -->
+                            <style>
+                                .box-obras-body .title-h3 h3 {
+                                    font-size: 18px;
+                                    font-weight: 900 !important;
+                                    text-align: center;
+                                    line-height: 1.3;
+                                    color: #4c531e;
+                                    margin: 10px 5vh;
+                                    text-transform: uppercase;
+                                }
+
+                                .box-obras-body .imagen {
+                                    padding: 16px 5vh;
+                                }
+
+                                .box-obras-body .paragraph {
+                                    padding: 1vh 5vh;
+                                }
+
+                                .box-obras-body .paragraph p {
+                                    font-size: 15px;
+                                    font-weight: 500;
+                                    text-align: left;
+                                    line-height: 1.5;
+                                    /* color: var(--color-); */
+                                }
+                            </style>
+
+                        </div>
+                        <style>
+                            .box-obras-body {
+                                grid-area: box-obras-body;
+                                padding: 16px;
+                            }
+
+                            .box-obras-body .img-o-ppal {
+                                margin-bottom: 32px;
+                            }
+
+                            .box-obras-body .video-o-ppal {
+                                margin: 0 0 32px 0;
+                            }
+
+                            .box-obras-body .glyphicon-chevron-right::before {
+                                color: rgba(255, 255, 255, 1) !important;
+                            }
+
+                            .box-obras-body .glyphicon-chevron-left::before {
+                                color: rgba(255, 255, 255, 1) !important;
+                            }
+
+                            .box-obras-body .panel-heading {
+                                border-color: rgba(77, 84, 31, 1) !important;
+                                background-color: rgba(77, 84, 31, 1) !important;
+                                background-image: none !important;
+                            }
+
+                            .box-obras-body .panel-heading .panel-title a {
+                                text-decoration: none;
+                                color: rgba(255, 255, 255, 1) !important;
+                                font-size: 18px;
+                                font-weight: 500;
+                                letter-spacing: 1px;
+                            }
+
+                            .box-obras-body .panel-heading .panel-title a:after {
+                                font-family: 'Glyphicons Halflings';
+                                content: "\e080";
+                                float: right;
+                                color: rgba(255, 255, 255, 1);
+                                font-size: 18px;
+                            }
+
+                            .box-obras-body .panel-heading .panel-title a.collapsed:after {
+                                content: "\e114";
+                            }
+                        </style>
+
+                    </div>
 
                     <div role="tabpanel" class="tab-pane fade in" id="infraestructura">
 
@@ -2401,98 +2660,43 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
-                                    <!-- collapse Nov22 -->
+                                    <!-- collapse enero23 -->
                                     <div class='panel panel-primary'>
-                                       <div class='panel-heading' role='tab' id='heading_Nov22'>
+                                       <div class='panel-heading' role='tab' id='heading_enero23'>
                                         <h4 class='panel-title'>
-                                           <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_Nov22' aria-expanded='false' aria-controls='collapse_Nov22'>
-                                            Boletines Noviembre 2022
+                                           <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_enero23' aria-expanded='false' aria-controls='collapse_enero23'>
+                                           Boletines enero 2023
                                            </a>
                                         </h4>
                                        </div>
-                                       <div id='collapse_Nov22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_Nov22' aria-expanded='false'>
+                                       <div id='collapse_enero23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_enero23' aria-expanded='false'>
                                         <div class='panel-body'>
-                                            <div class='box-Nov22'>
+                                            <div class='box-enero23'>
 
-
-                                            <div class='col-xs-12'>
-                                                <a class='enlace' href='https://drive.google.com/file/d/1diH7FZFuejk5y8AsIGHFy59uAVlT2qd9/view?usp=share_link'>
-                                                    <div class='btn-boletin'>
-                                                        <div class='titulo-boletin'>
-                                                            <h4>BOLETÍN 218</h4>
-                                                            <i>viernes, 18 de noviembre de 2022</i>
-                                                        </div>
-                                                        <div class='descripcion-boletin'>
-                                                            <p>Cierre nocturno en la avenida Boyacá. La UMV mejorará más de 2.000 m2 de espacio público alrededor del estadio ‘El Campín’. Por arreglos en la malla vial, la estación Flores modifica su funcionamiento los próximos dos domingos.</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-
-                                            <div class='col-xs-12'>
-                                                <a class='enlace' href='https://drive.google.com/file/d/1diKWMjMRdypCZSKecqzVcX5Ys03UrwyB/view?usp=share_link'>
-                                                    <div class='btn-boletin'>
-                                                        <div class='titulo-boletin'>
-                                                            <h4>BOLETÍN 217</h4>
-                                                            <i>viernes, 11 de noviembre de 2022</i>
-                                                        </div>
-                                                        <div class='descripcion-boletin'>
-                                                            <p>Reconstruimos la antigua vía al Llano. La UMV acompañó el encuentro ferial de Rendición de Cuentas del sector Movilidad, en la localidad de Sumapaz. Desde este fin de semana aplican ajustes en rutas zonales, para facilitar el desplazamiento de nuestros usuarios.</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div class='col-xs-12'>
-                                                <a class='enlace' href='https://drive.google.com/file/d/1OcHzVbrz5cMbFd0Yv4IVL65UgSVdiDqW/view?usp=share_link'>
-                                                    <div class='btn-boletin'>
-                                                        <div class='titulo-boletin'>
-                                                            <h4>BOLETÍN 216</h4>
-                                                            <i>viernes, 4 de noviembre de 2022</i>
-                                                        </div>
-                                                        <div class='descripcion-boletin'>
-                                                            <p>Durante los últimos días, la UMV prestó apoyo en la atención de emergencias causadas por las lluvias en Usaquén. ¿Cómo implementamos la metodología BIM en el IDU? Por arreglos en la malla vial, las estaciones Calle 22 y Calle 57 modifican su funcionamiento durante el fin de semana.</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-
-                                            <div class='col-xs-12'>
-                                                <a class='enlace' href='https://drive.google.com/file/d/1in3LFUbUCca8ugAfU2pAxTs7Sm5sd6A3/view?usp=share_link'>
-                                                    <div class='btn-boletin'>
-                                                        <div class='titulo-boletin'>
-                                                            <h4>BOLETÍN 215</h4>
-                                                            <i>jueves, 3 de noviembre de 2022</i>
-                                                        </div>
-                                                        <div class='descripcion-boletin'>
-                                                            <p>Cierres por obra en la Zona Rosa. La UMV adquirió nuevas volquetas, que llegan para apoyar las obras en Sumapaz. Portal 80 se transforma con grafitis, color y ancestralidad.</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
-
-                                            <div class='col-xs-12'>
-                                                <a class='enlace' href='https://drive.google.com/file/d/1968EoVvoV6kmJ95WkHhEaivQmIPF3Vdv/view?usp=share_link'>
-                                                    <div class='btn-boletin'>
-                                                        <div class='titulo-boletin'>
-                                                            <h4>BOLETÍN 214</h4>
-                                                            <i>miércoles, 2 de noviembre de 2022</i>
-                                                        </div>
-                                                        <div class='descripcion-boletin'>
-                                                            <p>La UMV ha realizado 15 obras de bioingeniería para conectar las vías rurales del sur de Bogotá. Nuevos servicios expresos en el Portal Américas. Cómo consultar las obras del IDU.</p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                            </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1eBr3kO1XV0nY3gAhnLlmroejGwAaoX0l/view?usp=share_link'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1AlLMx5_sXYE1uK398mQtnIPM6eF7puRc/view?usp=sharing'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 213</h4>
-                                                                <i>martes, 1 de noviembre de 2022</i>
+                                                                <h4>BOLETÍN 226</h4>
+                                                                <i>20 de enero de 2023</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Cierres por obra de la extensión Caracas Sur. Los habitantes del norte de Bogotá tendrán mejor espacio público para sus trayectos. TransMilenio conmemoró el mes de la disCAPACIDAD, promoviendo un Sistema accesible e incluyente.</p>
+                                                                <p>Puente vehicular beneficiará a más de 153 mil personas. La UMV ha tapado más de 22 mil daños viales, en el Plan de Mantenimiento Vial. Cierre temporal de entrada norte en la estación CAD.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1Ob9HUlWP6vjdVeF6FggEKKNeN0-6oBRj/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 225</h4>
+                                                                <i>6 de enero de 2023</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Así avanzan las obras de la Extensión Caracas Sur. La UMV ha cumplido con el 50% de la meta propuesta en el Plan de Mantenimiento Vial de fin e inicio de año. Por arreglos en la malla vial, la estación Flores no prestará servicio, en el sentido sur–norte,este domingo y lunes.</p>
                                                             </div>
                                                         </div>
                                                     </a>
@@ -2501,10 +2705,225 @@
                                         </div>
                                        </div>
                                        <style>
-                                            .box-Nov22 {
-                                              grid-area: Nov22;
+                                            .box-enero23 {
+                                              grid-area: enero23;
                                             }
                                        </style>
+                                    </div>
+
+                                    <!-- collapse diciembre22 -->
+                                    <div class='panel panel-primary'>
+                                        <div class='panel-heading' role='tab' id='heading_diciembre22'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_diciembre22' aria-expanded='false' aria-controls='collapse_diciembre22'>
+                                                    Boletines Diciembre 2022
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_diciembre22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_diciembre22' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-diciembre22'>
+
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1w1PN3ERS-PjTVWCRWjDmL-A9HmLC513W/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 224</h4>
+                                                                <i>30 de diciembre de 2022</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Así avanzan los trabajos de la megaobra de la Av.68 a cargo de Instituto de Desarrollo Urbano Seguimos cumpliendo nuestro Plan de Mantenimiento Vial de fin de año: ya se ha mejorado 7,5 km-carril gracias a la UMV Atención usuarios: la estación Calle 45 no prestará servicio la próxima semana y estaciones Calle 100 y La Castellana tendrán restricciones.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/13f3Ig6sUEswnhOftXo7wtSJlBUt8_xnU/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 223</h4>
+                                                                    <i>23 de diciembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>IDU intensifica trabajos para el mantenimiento de vías durante la temporada de fin de año. Seguimos cumpliendo nuestro Plan de Mantenimiento Vial de fin de año, la UMV inició labores en la Avenida Carrera Séptima. Celebra la navidad en TransMiCable.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1C75cpQ3m9GP-ijXoad6p-UQPrYy3D4Lt/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 222</h4>
+                                                                    <i>16 de diciembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La Unidad de Mantenimiento Vial intervendrá 190 calles entre Diciembre 2022 y Enero 2023. En marcha proceso de licitación para la construcción de la cicloalameda 'Medio Milenio'. Este sábado entra en operación una nueva ruta zonal para conectar a las localidades de Ciudad Bolívar y Fontibón.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1nUHnZfOpeSuYEFmsO5ExbYoJsIEeJfJX/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 221</h4>
+                                                                    <i>9 de diciembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>¡No se deje engañar! El IDU no utiliza intermediarios para trámites ni gestión de predios. La UMV le rindió cuentas a la ciudadanía sobre su gestión durante el último año. Entra en operación el vagón 1 de la renovada estación Suba - Calle 100.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1OJex9kbtHqae3-ab8L-g9wGIuJ3EDtFi/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 220</h4>
+                                                                    <i>2 de diciembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Invertimos millonarios recursos en las vías de Sumapaz. Durante noviembre, la UMV prestó apoyo a más de 30 emergencias presentadas en Bogotá, a causa de las fuertes lluvias. Modificación temporal de funcionamiento en estación Hortúa y nuevos servicios zonales en el Sistema de Transporte de Bogotá.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .box-diciembre22 {
+                                                grid-area: diciembre22;
+                                            }
+                                        </style>
+                                    </div>
+
+                                    <!-- collapse Nov22 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_Nov22'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_Nov22' aria-expanded='false' aria-controls='collapse_Nov22'>
+                                                    Boletines Noviembre 2022
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_Nov22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_Nov22' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-Nov22'>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1dYmt2w55-1ZVTck9g4gfMu0IUmIQ3cuj/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 219</h4>
+                                                                    <i>25 de noviembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Intervención de malla vial en 19 localidades. La UMV ha intervenido más de 1.500 daños viales reportados por los motociclistas en Bogotá. Bogotá será epicentro del primer ‘Congreso Internacional de Transporte por Cable Urbano’.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1diH7FZFuejk5y8AsIGHFy59uAVlT2qd9/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 218</h4>
+                                                                    <i>viernes, 18 de noviembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Cierre nocturno en la avenida Boyacá. La UMV mejorará más de 2.000 m2 de espacio público alrededor del estadio ‘El Campín’. Por arreglos en la malla vial, la estación Flores modifica su funcionamiento los próximos dos domingos.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1diKWMjMRdypCZSKecqzVcX5Ys03UrwyB/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 217</h4>
+                                                                    <i>viernes, 11 de noviembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Reconstruimos la antigua vía al Llano. La UMV acompañó el encuentro ferial de Rendición de Cuentas del sector Movilidad, en la localidad de Sumapaz. Desde este fin de semana aplican ajustes en rutas zonales, para facilitar el desplazamiento de nuestros usuarios.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1OcHzVbrz5cMbFd0Yv4IVL65UgSVdiDqW/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 216</h4>
+                                                                    <i>viernes, 4 de noviembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Durante los últimos días, la UMV prestó apoyo en la atención de emergencias causadas por las lluvias en Usaquén. ¿Cómo implementamos la metodología BIM en el IDU? Por arreglos en la malla vial, las estaciones Calle 22 y Calle 57 modifican su funcionamiento durante el fin de semana.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1in3LFUbUCca8ugAfU2pAxTs7Sm5sd6A3/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 215</h4>
+                                                                    <i>jueves, 3 de noviembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Cierres por obra en la Zona Rosa. La UMV adquirió nuevas volquetas, que llegan para apoyar las obras en Sumapaz. Portal 80 se transforma con grafitis, color y ancestralidad.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1968EoVvoV6kmJ95WkHhEaivQmIPF3Vdv/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 214</h4>
+                                                                    <i>miércoles, 2 de noviembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La UMV ha realizado 15 obras de bioingeniería para conectar las vías rurales del sur de Bogotá. Nuevos servicios expresos en el Portal Américas. Cómo consultar las obras del IDU.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1eBr3kO1XV0nY3gAhnLlmroejGwAaoX0l/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 213</h4>
+                                                                    <i>martes, 1 de noviembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Cierres por obra de la extensión Caracas Sur. Los habitantes del norte de Bogotá tendrán mejor espacio público para sus trayectos. TransMilenio conmemoró el mes de la disCAPACIDAD, promoviendo un Sistema accesible e incluyente.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .box-Nov22 {
+                                                grid-area: Nov22;
+                                            }
+                                        </style>
                                     </div>
 
                                     <!-- collapse_Oct22 -->
@@ -2516,7 +2935,7 @@
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_Oct22' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_Oct22'>
+                                        <div id='collapse_Oct22' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_Oct22'>
                                             <div class='panel-body'>
 
                                                 <div class='col-xs-12'>
