@@ -61,15 +61,13 @@
             <h4>¿Cómo participar en la subasta?</h4>
         </div>
         <div class="b3-texto">
-            <!-- <p>Una vez establecido el valor de la subasta, los interesados que cumplan los requisitos habilitantes, deberán ingresar al enlace habilitado.</p> -->
             <p>Una vez el intermediario comercial dé apertura de la subasta, los ciudadanos podrán verificar los detalles del lote a subastar, hacer sus pujas y consultar en tiempo real el proceso de compra a través de la página web: <a href="https://www.movilidadbogota.gov.co/web/subasta-abandonados" target="_blank" rel="noopener noreferrer">https://www.movilidadbogota.gov.co/web/subasta-abandonados</a>.</p>
             <p>Con el dinero obtenido de la enajenación del bien, se cancelarán los valores generados por la misma, y lo adeudado por concepto de patios y/o servicio de grúas.</p>
-            <!-- <p>Vale la pena recordar que los predios donde se encuentran estos vehículos declarados en abandono están destinados a la construcción de la futura Avenida Longitudinal de Occidente-ALO, que beneficiará a los habitantes de las localidades de Suba, Engativá, Bosa, Fontibón y Kennedy.</p> -->
             <p>La implementación de la Ley 1730 de 2014, contribuye con el propósito 2 del Plan Distrital de Desarrollo 2020-2024, a través del cual la administración distrital busca mitigar el cambio climático. Del lote de vehículos declarados en abandono y que se encuentran próximos a subastar, se encuentran automóviles, camionetas, camperos y motocicletas. Estos vehículos deberán ser destinados para labores de fundición y disposición final de los residuos y, en consecuencia, no pueden ser usados para autopartes.</p>
             <br>
             <p><strong>Para realizar el registro inicial, debe seguir el siguiente paso a paso.</strong></p>
             <ol>
-                <li>Ingresar al portal <a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-15-cto-2021-2091-hora-11-223209?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer">www.superbid.com.co</a> y hacer clic en “Registro.</li>
+                <li>Ingresar al portal <a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-16-cto-2021-2091-1-1000-am-225329?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer">www.superbid.com.co</a> y hacer clic en “Registro.</li>
                 <li>Luego debe elegir su contraseña y usuario (login).</li>
                 <li>Lo siguiente es validar su login, pues este le permitirá identificarlo a la hora de realizar sus ofertas</li>
                 <li>Finalmente para terminar el registro, debe leer y aceptar el “Procedimiento de Utilización del Portal Superbid Colombia”, haciendo clic en “CONFIRMAR”, enviando la fotocopia de su cédula y el RUT y 24 horas después tendrá la activación de su registro.</li>
@@ -88,7 +86,16 @@
         <div class="b3-texto">
             <p><strong>Si desea participar en las subastas de la Secretaría Distrital de Movilidad, siga estos pasos:</strong></p>
             <ol>
-                <li><a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-15-cto-2021-2091-hora-11-223209?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer"><strong>Regístrese e ingrese aquí.</strong></a></li>
+                <li>
+                    <a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-16-cto-2021-2091-1-1000-am-225329?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer">
+                        <strong>Regístrese e ingrese aquí</strong>
+                    </a>
+                    para la subasta de vehículos para chatarra o
+                    <a href="https://www.superbid.com.co/evento/secretaria-movilidad-custodia-17-cto2021-2091-hora-200-pm-225336?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer">
+                        <strong>regístrese e ingrese aquí</strong>
+                    </a>
+                    para la subasta de vehículos de uso.
+            </li>
                 <li>Habilítese para participar en la subasta.</li>
                 <li>Oferte por el lote de su interés.</li>
                 <li>Esté pendiente el día de cierre de la subasta.</li>
