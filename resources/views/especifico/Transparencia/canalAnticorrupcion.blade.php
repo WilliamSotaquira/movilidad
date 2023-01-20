@@ -119,8 +119,8 @@
             <img class="img-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-07-2021/icono_telefono.png" alt="" width="50px">
         </div>
         <div class="col-xs-12 col-sm-6">
-            <h3 class="text-icon">Línea 195</h3>
-            <h3 class="text-icon">Centro de Contacto de Movilidad (601) 364 94 00 opción 2</h3>
+            <!-- <h3 class="text-icon">Línea 195</h3> -->
+            <h3 class="text-icon">Centro de Contacto de Movilidad <br> (601) 364 94 00 opción 2</h3>
         </div>
     </div>
     <div class="row ry">
@@ -139,7 +139,7 @@
                 <li>Centros Locales de Movilidad (ubicados en 19 Localidades)</li>
                 <li>Centro de Servicios de Movilidad (Calle 13 # 37 - 35)</li>
                 <li>Sede Paloquemao (Carrera 28 A # 17 A - 20)</li>
-                <li><strong>Red CADE:</strong> SuperCADE Américas, SuperCADE 20 de Julio, SuperCADE Suba y SuperCADE Manitas</li>
+                <!-- <li><strong>Red CADE:</strong> SuperCADE Américas, SuperCADE 20 de Julio, SuperCADE Suba y SuperCADE Manitas</li> -->
             </ul>
         </div>
     </div>
@@ -163,7 +163,7 @@
         </div>
         <div class="col-xs-12 col-sm-6">
             <p class="text-icon">Sistema Distrital para la Gestión de Peticiones Ciudadanas – <strong>“Bogotá te escucha”</strong></p>
-            <a href="https://bogota.gov.co/sdqs/denuncias-por-actos-de-corrupcion" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.movilidadbogota.gov.co/web/formulario_de_denuncias" target="_blank" rel="noopener noreferrer">
                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2021/botonanticorrupcionaprobado_mesa_de_trabajo_1.png" alt="">
             </a>
         </div>
