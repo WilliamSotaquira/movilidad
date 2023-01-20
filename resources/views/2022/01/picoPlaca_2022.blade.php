@@ -17,7 +17,7 @@
                 <div class='col-xs-12 col-sm-6 col-md-6'>
                     <div class="text-encabezado">
                         <div class="text-center">
-                            <h3><span class="enfasis">Abecé</span> del <span class="enfasis">Pico y Placa</span> 2022 en <span class="enfasis">Bogotá</span></h3>
+                            <h3><span class="enfasis">Abecé</span> del <span class="enfasis">Pico y Placa</span> en <span class="enfasis">Bogotá</span></h3>
                         </div>
                     </div>
                 </div>
@@ -27,7 +27,24 @@
             </div>
         </div>
     </div>
-    <br>
+    <div class="paragraph ph-descripcion">
+        <p>Conozca todo lo concerniente a las medidas de pico y placa que aplican en Bogotá para vehículos particulares.</p>
+    </div>
+    <style>
+        .ph-descripcion {
+            margin: 8px;
+            font-size: 12pt;
+            font-weight: 500;
+            text-align: left;
+            line-height: 1.5;
+        }
+
+        @media(min-width:768px) {
+            .ph-descripcion {
+                margin: 32px;
+            }
+        }
+    </style>
     <div class="s2">
         <div class='row'>
             <div class='col-xs-12 col-sm-12 col-md-12'>
@@ -39,8 +56,7 @@
                         </div>
                     </div>
                 </div> -->
-                <br>
-                <br>
+
                 <style>
                     .glyphicon {
                         position: absolute;
@@ -48,158 +64,19 @@
                     }
                 </style>
                 <div>
-
                     <!-- collapse -->
                     <div class='panel-group ' id='accordion_pp' role='tablist ' aria-multiselectable='true'>
-
-                        <div class='panel panel-default  panel-region'>
-                            <div class='panel-heading hp' role='tab' id='heading'>
-                                <h4 class='panel-title'>
-                                    <a role='button' data-toggle='collapse' data-parent='#accordion_pp' href='#collapse' aria-expanded='true' aria-controls='collapse'>
-                                        Pico y Placa Regional
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id='collapse' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading'>
-                                <div class='panel-body'>
-
-                                    <div class='panel-group ' id='accordionRegional' role='tablist ' aria-multiselectable='true'>
-
-                                        <!-- collapse_pyp5 -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_pyp5'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp5' aria-expanded='true' aria-controls='collapse_pyp5'>
-                                                        1. ¿Cómo funciona el Pico y Placa Regional?
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_pyp5' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp5'>
-                                                <div class='panel-body'>
-                                                    <p>El Pico y Placa Regional funciona el último día de todos los puentes festivos en los 9 corredores de ingreso a Bogotá. Para el retorno hasta el mediodía, no hay restricción. A partir de las 12:00 del mediodía se permite el ingreso a Bogotá de los vehículos con placas pares hasta las 4:00 p.m. y luego, de 4:00 p.m. a 8:00 p.m. se permite el ingreso de los vehículos con placas impares.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /#fin _pyp5 -->
-
-
-                                        <!-- collapse_pyp6 -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_pyp6'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp6' aria-expanded='true' aria-controls='collapse_pyp6'>
-                                                        2. ¿Cuáles son los nueve corredores donde aplica el Pico y Placa Regional?
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_pyp6' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp6'>
-                                                <div class='panel-body'>
-                                                    <p>Los corredores de ingreso donde aplica la medida de Pico y Placa Regional el último día de puentes festivos son:</p>
-                                                    <ul>
-                                                        <li>Autopista Norte: desde el peaje Andes hasta el portal Norte, sentido norte – sur.</li>
-                                                        <li>Autopista Sur: desde el límite municipal de Soacha hasta la avenida Boyacá, sentido sur – norte.</li>
-                                                        <li>Avenida Centenario (calle 13): desde el río Bogotá hasta la avenida Ciudad de Cali (avenida carrera 86), sentido occidente – oriente.</li>
-                                                        <li>Avenida Calle 80: desde el puente de Guadua hasta el portal 80, sentido occidente – oriente.</li>
-                                                        <li>Avenida Carrera 7: desde la calle 245 hasta la calle 183, sentido norte – sur.</li>
-                                                        <li>Avenida Boyacá vía al Llano: desde el túnel Argelino Durán Quintero hasta la antigua vía al Llano, sentido sur – norte.</li>
-                                                        <li>Vía Suba Cota: desde el río Bogotá hasta la avenida calle 170, sentido norte – sur.</li>
-                                                        <li>Vía la Calera: desde el peaje Patios hasta la avenida carrera 7, sentido oriente – occidente.</li>
-                                                        <li>Vía a Choachí: desde la vía a Monserrate hasta la avenida circunvalar, sentido oriente – occidente.</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /#fin _pyp6 -->
-
-                                        <!-- collapse_pyp7 -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_pyp7'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp7' aria-expanded='true' aria-controls='collapse_pyp7'>
-                                                        3. ¿La medida de Pico y Placa Regional para el ingreso a Bogotá fue concertada con los municipios aledaños?
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_pyp7' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp7'>
-                                                <div class='panel-body'>
-                                                    <p>Sí. La Alcaldesa de Bogotá y el Secretario Distrital de Movilidad se reunieron con el Gobernador de Cundinamarca y los alcaldes de los municipios aledaños para concertar la medida y agilizar el tránsito en los puentes festivos en beneficio de los usuarios.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /#fin _pyp7 -->
-
-                                        <!-- collapse_pyp8 -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_pyp8'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp8' aria-expanded='true' aria-controls='collapse_pyp8'>
-                                                        4. ¿Cuáles son las sanciones por incumplir el Pico y Placa?
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_pyp8' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp8'>
-                                                <div class='panel-body'>
-                                                    <p>Las sanciones por el incumplimiento de la medida de Pico y Placa están estipuladas en el Código Nacional de Tránsito para la infracción C.14: “Transitar por sitios restringidos o en horas prohibidas por la autoridad competente. Además, el vehículo será inmovilizado”.</p>
-                                                    <p>La multa equivale en el 2022 a $468.500.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /#fin _pyp8 -->
-
-                                        <!-- collapse_pyp9 -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_pyp9'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp9' aria-expanded='true' aria-controls='collapse_pyp9'>
-                                                        5. ¿Se hará monitoreo a la medida de Pico y Placa?
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_pyp9' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp9'>
-                                                <div class='panel-body'>
-                                                    <p>La secretaría Distrital de Movilidad hace monitoreo permanente a la medida con el personal de Gerencia en Vía, la Policía de Tránsito y el sistema de cámaras del centro de Gestión de Tránsito de Bogotá</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /#fin _pyp9 -->
-
-                                        <!-- collapse_pyp12 -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_pyp12'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp12' aria-expanded='true' aria-controls='collapse_pyp12'>
-                                                        6. ¿Qué sucede con las excepciones por Pico y Placa Solidario y Carro Compartido durante el Pico y Placa Regional?
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_pyp12' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp12'>
-                                                <div class='panel-body'>
-                                                    <p>Para la medida de Pico y Placa Regional en Bogotá en retorno de puentes festivos durante el ingreso a Bogotá: no aplican las excepciones por 3 o más ocupantes y tampoco aplica la excepción de "Pico y Placa Solidario".</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- /#fin _pyp12 -->
-<hr>
-                                        <!-- 4:3 aspect ratio -->
-                                        <div class="embed-responsive embed-responsive-4by3">
-                                            <iframe src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/junio_final_volante_de_pyp_regional_carrocompartido.pdf" width="640" height="480" allow="autoplay"></iframe>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
 
                         <!-- collapseBogota -->
                         <div class='panel panel-default  panel-bogota'>
                             <div class='panel-heading hp' role='tab' id='headingBogota'>
                                 <h4 class='panel-title'>
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pp' href='#collapseBogota' aria-expanded='true' aria-controls='collapseBogota'>
-                                        Pico y Placa Extendido en días hábiles en Bogotá
+                                        Pico y Placa en Bogotá
                                     </a>
                                 </h4>
                             </div>
-                            <div id='collapseBogota' class='panel-collapse collapse' role='tabpanel' aria-labelledby='headingBogota'>
+                            <div id='collapseBogota' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='headingBogota'>
                                 <div class='panel-body'>
                                     <div class='panel-group ' id='accordion_pypabc' role='tablist ' aria-multiselectable='true'>
 
@@ -215,7 +92,7 @@
                                             <div id='collapse_pyp1' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp1'>
                                                 <div class='panel-body'>
                                                     <p>La Secretaría Distrital de Movilidad ha dispuesto como único canal de radicación, la Página web www.movilidadbogota.gov.co, en el aviso: Pico y Placa, todo lo que debe saber.</p>
-                                                    <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-01-2022/banner_del_home_pico_y_placa_en_bogota.webp' alt='Fotografiá banner del home Pico y Placa en Bogota - Todo lo que debes saber' title='Fotografia banner del home Pico y Placa en Bogota - Todo lo que debes saber'>
+                                                    <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/sxcv-imagen_230108_hc.png' alt='Fotografiá banner del home Pico y Placa en Bogota - Todo lo que debes saber' title='Fotografia banner del home Pico y Placa en Bogota - Todo lo que debes saber'>
                                                     <p>El ciudadano, deberá adjuntar en un solo archivo, los documentos soportes de su solicitud en formato pdf.</p>
                                                     <p>Las personas con discapacidad podrán acercarse a los siguientes puntos de atención para recibir orientación y facilitar el cargue de la solicitud a través de la página web de la Entidad:</p>
                                                     <ul>
@@ -240,9 +117,9 @@
                                             </div>
                                             <div id='collapse_pyp2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp2'>
                                                 <div class='panel-body'>
-                                                    <p>El Pico y Placa tiene dos cambios importantes para la ciudadanía:</p>
-                                                    <p>Amplió el horario de restricción para los vehículos particulares en días hábiles desde las 6:00 a.m. hasta las 9:00 p.m. de acuerdo con el número de la placa.</p>
-                                                    <p>Amplió la restricción a los nueve corredores de ingreso a Bogotá los días de retorno a la ciudad en puentes festivos distribuyendo la entrada entre placas pares e impares después del mediodía.</p>
+                                                    <p>El Pico y Placa tiene un cambio importante para la ciudadanía:</p>
+                                                    <p>La restricción cambió de acuerdo al último de la placa. Desde el 10 de enero, los vehículos podrán circular así: los días pares placas terminadas en 6, 7, 8, 9 y 0, y en los días impares los terminados en 1, 2, 3, 4 y 5.</p>
+                                                    <p>El horario en que aplicará la medida de restricción es de lunes a viernes, de 6:00 a.m. a 9:00 p.m.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -259,8 +136,8 @@
                                             </div>
                                             <div id='collapse_pyp3' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp3'>
                                                 <div class='panel-body'>
-                                                    <p>La restricción de circulación por Pico y Placa en días hábiles comenzó a regir el martes, 11 de enero de 2022.</p>
-                                                    <p>El Pico y Placa Regional en los días de retorno en puentes festivos inició en los nueve corredores de ingreso a la ciudad el lunes, 10 de enero de 2022.</p>
+                                                    <p>La restricción de circulación por Pico y Placa en días hábiles rige a partir del martes, 10 de enero de 2023.</p>
+                                                    <p>Del 10 al 16 de enero, la medida es pedagógica. Desde el 17 de enero ya se sanciona la infracción.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -277,7 +154,11 @@
                                             </div>
                                             <div id='collapse_pyp4' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp4'>
                                                 <div class='panel-body'>
-                                                    <p>El funcionamiento por número de placa par o impar es igual. La restricción de movilidad aplica para las placas pares los días pares y para las impares los días impares.</p>
+                                                    <p>A partir del 10 de enero, los vehículos podrán circular así:</p>
+                                                    <ul>
+                                                        <li>Días pares: 6, 7, 8, 9 y 0</li>
+                                                        <li>Días impares: 1, 2, 3, 4 y 5</li>
+                                                    </ul>
                                                 </div>
                                             </div>
                                         </div>
@@ -295,7 +176,7 @@
                                             </div>
                                             <div id='collapse_pyp10' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp10'>
                                                 <div class='panel-body'>
-                                                    <p>Los vehículos exceptuados de la medida de Pico y Placa en Bogotá según <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/resolucion_numero_118139_de_2021.pdf" target="_blank" rel="noopener noreferrer">Resolución 118139 de 2021 </a>son:</p>
+                                                    <p>Los vehículos exceptuados de la medida de Pico y Placa en Bogotá, según <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/decreto-003-de-2023_0.pdf">Decreto 003 de 2023</a>, son:</p>
 
                                                     <div class='panel-group ' id='accordion_excepcion' role='tablist ' aria-multiselectable='true'>
 
@@ -671,7 +552,7 @@
                                                             <div class='panel-heading' role='tab' id='heading_exc17'>
                                                                 <h4 class='panel-title'>
                                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_excepcion' href='#collapse_exc17' aria-expanded='true' aria-controls='collapse_exc17'>
-                                                                        q. Vehículos híbridos cuya motorización sea por combustión (diésel o gasolina) y funcionen, alternada o simultáneamente, con motor eléctrico. **
+                                                                        q. Vehículos híbridos cuya motorización sea por combustión (diésel o gasolina) y funcionen, alternada o simultáneamente, con motor eléctrico.
                                                                     </a>
                                                                 </h4>
                                                             </div>
@@ -683,29 +564,6 @@
                                                         </div>
                                                         <!-- /#fin _exc17 -->
 
-                                                        <!-- collapse_exc18 -->
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='heading_exc18'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordion_excepcion' href='#collapse_exc18' aria-expanded='true' aria-controls='collapse_exc18'>
-                                                                        r. Vehículos con una ocupación de tres (3) o más personas incluyendo el conductor. **
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapse_exc18' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_exc18'>
-                                                                <div class='panel-body'>
-                                                                    <p>De manera general, todo vehículo que quiera ser exceptuado de la medida de Pico y Placa debe tener actualizado y vigente en el RUNT.</p>
-                                                                    <ol>
-                                                                        <li>Seguro Obligatorio de Accidentes de Tránsito.</li>
-                                                                        <li>Revisión Técnico Mecánica.</li>
-                                                                        <p>Adicional debe realizar la solicitud de excepción de pico y placa por la página web de la SDM <a href="https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular" target="_blank" rel="noopener noreferrer">https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular</a></p>
-                                                                        <li>Vehículo matriculado en Bogotá.</li>
-                                                                        <li>Se verificará en vía el cumplimiento de la ocupación del vehículo.</li>
-                                                                    </ol>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <!-- /#fin _exc18 -->
 
                                                         <!-- collapse_exc19 -->
                                                         <div class='panel panel-default'>
@@ -723,9 +581,6 @@
                                                             </div>
                                                         </div>
                                                         <!-- /#fin _exc19 -->
-
-                                                        <p>*Según lo señalado en el Decreto 575 de 2013 modificado por el Decreto 846 de 2019.</p>
-                                                        <p>** Según Decreto 073 de 2021.</p>
 
                                                     </div>
 
@@ -758,13 +613,15 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp13'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp13' aria-expanded='true' aria-controls='collapse_pyp13'>
-                                                        7. ¿Cuáles excepciones son automáticas y semiautomáticas?
+                                                        6. ¿Cuáles excepciones son automáticas y semiautomáticas?
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id='collapse_pyp13' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp13'>
                                                 <div class='panel-body'>
-                                                    <p>Serán de trámites automáticos aquellos en que el ciudadano realice la inscripción del vehículo para consulta inmediata. Despliegue las excepciones contempladas.</p>
+                                                    <p>El acto administrativo que define que es automático y semiautomático es la resolución 118139, el acto administrativo que establece las excepciones es el decreto 003 de 2023</p>
+                                                    <p>Despliegue las excepciones contempladas.</p>
+                                                    <!-- <p>Serán de trámites automáticos aquellos en que el ciudadano realice la inscripción del vehículo para consulta inmediata. Despliegue las excepciones contempladas.</p> -->
 
                                                     <div class='panel-group ' id='accordion_auto' role='tablist ' aria-multiselectable='true'>
 
@@ -785,7 +642,6 @@
                                                                         <li>Los vehículos escolares de propiedad de establecimientos educativos públicos y privados de la ciudad de Bogotá, los cuales se inscribirán automáticamente con el listado que trata el artículo 6º del Decreto Distrital 036 de 2009 o con la norma que la modifique, adicione o sustituya.</li>
                                                                         <li>Vehículos utilizados para el transporte de personas con discapacidad que se encuentren en el RLCPD de conformidad con lo establecido en la Resolución 113 de 2020 expedida por el Ministerio de Salud, o con la norma que la modifique, adicione o sustituya. <br>También aplicará para los vehículos dispuestos para el transporte de personas con discapacidad, que se encuentren inscritos en la base de datos histórica del RLCPD de la Secretaría Distrital de Salud, solo durante el periodo de transitoriedad de la Resolución 113 de 2020 del Ministerio de Salud y Protección social, o por el periodo contemplado en la norma que la adicione, modifique o sustituya.</li>
                                                                         <li>Vehículos con una ocupación de tres (3) o más personas incluyendo el conductor.</li>
-
                                                                     </ol>
                                                                 </div>
                                                             </div>
@@ -834,7 +690,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp14'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp14' aria-expanded='true' aria-controls='collapse_pyp14'>
-                                                        8. ¿Cuáles son los pasos para solicitar la inscripción?
+                                                        7. ¿Cuáles son los pasos para solicitar la inscripción?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -860,7 +716,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp15'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp15' aria-expanded='true' aria-controls='collapse_pyp15'>
-                                                        9. ¿Cómo sé si fue aprobada la inscripción de mi vehículo?
+                                                        8. ¿Cómo sé si fue aprobada la inscripción de mi vehículo?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -879,7 +735,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp16'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp16' aria-expanded='true' aria-controls='collapse_pyp16'>
-                                                        10. ¿Cuál es el término de respuesta a la solicitud de inscripción?
+                                                        9. ¿Cuál es el término de respuesta a la solicitud de inscripción?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -897,7 +753,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp17'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp17' aria-expanded='true' aria-controls='collapse_pyp17'>
-                                                        11. para realizar la solicitud de inscripción a la excepción, ¿debo adjuntar copia del soat, revisión tecnicomecánica y licencia de tránsito?
+                                                        10. Para realizar la solicitud de inscripción a la excepción, ¿debo adjuntar copia del soat, revisión técnico mecánica y licencia de tránsito?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -919,7 +775,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp18'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp18' aria-expanded='true' aria-controls='collapse_pyp18'>
-                                                        12. ¿Qué significa que un vehículo está Preinscrito?
+                                                        11. ¿Qué significa que un vehículo está Preinscrito?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -937,13 +793,13 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp19'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp19' aria-expanded='true' aria-controls='collapse_pyp19'>
-                                                        13. ¿La Secretaría Distrital de Movilidad entrega algún documento o permiso para el tránsito en horario de Pico y Placa?
+                                                        12. ¿La Secretaría Distrital de Movilidad entrega algún documento o permiso para el tránsito en horario de Pico y Placa?
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id='collapse_pyp19' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp19'>
                                                 <div class='panel-body'>
-                                                    <p>No, la información podrá ser consultada únicamente en línea. La entidad no entregará ningún documento o permiso, ya que todo el trámite será en línea (en cumplimiento con lo dispuesto en el parágrafo 2 del Decreto 575 de 2015 modificado por el Decreto 846 de 2019).</p>
+                                                    <p>No, la información podrá ser consultada únicamente en línea. La entidad no entregará ningún documento o permiso, ya que todo el trámite es en línea.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -954,7 +810,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp20'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp20' aria-expanded='true' aria-controls='collapse_pyp20'>
-                                                        14. ¿Puedo inscribir un vehículo matriculado fuera de Bogotá?
+                                                        13. ¿Puedo inscribir un vehículo matriculado fuera de Bogotá?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -971,13 +827,13 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp21'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp21' aria-expanded='true' aria-controls='collapse_pyp21'>
-                                                        15. Si no tengo acceso a un computador ¿Cómo puedo realizar la solicitud de inscripción de mi automotor para la Excepción de Pico y Placa?
+                                                        14. Si no tengo acceso a un computador ¿Cómo puedo realizar la solicitud de inscripción de mi automotor para la Excepción de Pico y Placa?
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id='collapse_pyp21' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp21'>
                                                 <div class='panel-body'>
-                                                    <p>Desde cualquier dispositivo fijo o móvil podrá realizar el proceso de solicitud de registro en la base de vehículos exceptuados, tenga en cuenta que debe tener los documentos que requiere aportar de acuerdo al tipo de excepción.</p>
+                                                    <p>Desde cualquier dispositivo con conexión a internet podrá realizar el proceso de solicitud de registro en la base de vehículos exceptuados, tenga en cuenta que debe tener los documentos que requiere aportar de acuerdo al tipo de excepción.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -988,7 +844,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp22'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp22' aria-expanded='true' aria-controls='collapse_pyp22'>
-                                                        16. ¿Qué es el registro de localización y caracterización de personas con discapacidad (el RLCPD)? y ¿Qué puedo hacer si no estoy inscrito?
+                                                        15. ¿Qué es el registro de localización y caracterización de personas con discapacidad (el RLCPD)? y ¿Qué puedo hacer si no estoy inscrito?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -1007,7 +863,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp23'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp23' aria-expanded='true' aria-controls='collapse_pyp23'>
-                                                        17. ¿Qué vigencia tiene el registro en la base de datos de Vehículos Exceptuados?
+                                                        16. ¿Qué vigencia tiene el registro en la base de datos de vehículos exceptuados?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -1020,7 +876,8 @@
                                                         <li>Vehículos para el uso o transporte de personas con discapacidad. </li>
                                                         <li>Carrozas fúnebres.</li>
                                                     </ul>
-                                                    <p>Es importante tener presente que, la inscripción en el registro de vehículos exceptuados de la restricción de circulación vehicular será válida mientras subsistan las condiciones que configuran la excepción y estará sujeta a la verificación y depuración de conformidad con lo señalado en el Decreto 846 de 2019 y/o la norma que la modifique, adicione, sustituya o derogue.</p>
+                                                    <!-- <p>Es importante tener presente que, la inscripción en el registro de vehículos exceptuados de la restricción de circulación vehicular será válida mientras subsistan las condiciones que configuran la excepción y estará sujeta a la verificación y depuración de conformidad con lo señalado en el Decreto 846 de 2019 y/o la norma que la modifique, adicione, sustituya o derogue.</p> -->
+                                                    <p>La inscripción en el registro de vehículos exceptuados es válida mientras las condiciones que configuran la excepción estén vigentes y está sujeta a verificación y depuración, de conformidad con lo señalado en el Decreto 846 de 2019.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1031,14 +888,13 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp24'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp24' aria-expanded='true' aria-controls='collapse_pyp24'>
-                                                        18. ¿A partir de cuando empieza a regir la Resolución 118139 de 2021?
+                                                        17. ¿A partir de cuando empieza a regir la Resolución 118139 de 2021?
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id='collapse_pyp24' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp24'>
                                                 <div class='panel-body'>
-                                                    <p>Comenzará a regir sesenta (60) días calendario, posteriores a la fecha de su promulgación.</p>
-                                                    <p>Las solicitudes radicadas antes de esta fecha seguirán rigiéndose por lo dispuesto en la Resolución 011 de 2018.</p>
+                                                    <p>Comenzará a regir sesenta (60) días calendario, posteriores a la fecha de su promulgación. Las solicitudes radicadas antes de esta fecha seguirán rigiéndose por lo dispuesto en la Resolución 011 de 2018.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1049,7 +905,7 @@
                                             <div class='panel-heading' role='tab' id='heading_pyp25'>
                                                 <h4 class='panel-title'>
                                                     <a role='button' data-toggle='collapse' data-parent='#accordion_pypabc' href='#collapse_pyp25' aria-expanded='true' aria-controls='collapse_pyp25'>
-                                                        19. ¿Si ya tengo mi vehículo con un registro activo, debe registrarse nuevamente?
+                                                        18. ¿Si ya tengo mi vehículo con un registro activo, debe registrarse nuevamente?
                                                     </a>
                                                 </h4>
                                             </div>
@@ -1057,49 +913,100 @@
                                                 <div class='panel-body'>
                                                     <p>No, siempre y cuando el registro de inscripción esté vigente.</p>
 
-                                                    <!-- collapse_PESV -->
-                                                    <div class='panel-group ' id='accordion_PESV  ' role='tablist ' aria-multiselectable='true'>
-                                                        <div class='panel panel-default'>
-                                                            <div class='panel-heading' role='tab' id='heading_PESV'>
-                                                                <h4 class='panel-title'>
-                                                                    <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse_PESV ' aria-expanded='true' aria-controls='collapse_PESV  '>
-                                                                        Conozca qué es el Plan Estratégico de Seguridad Vial (PESV)
-                                                                    </a>
-                                                                </h4>
-                                                            </div>
-                                                            <div id='collapse_PESV' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_PESV '>
-                                                                <div class='panel-body'>
-                                                                    <p>Es el Plan Estratégico de Seguridad Vial (PESV) , es una herramienta de gestión que contiene las acciones, mecanismos, estrategias y medidas de planificación, implementación, seguimiento y mejora que deben aportar las diferentes entidades, organizaciones o empresas del sector público o privado de conformidad con el Art. 110 del Decreto Ley 2106 de 2019, encaminadas a generar hábitos, comportamientos y conductas seguras en las vías para prevenir riesgos, reducir la accidentalidad vial y disminuir sus efectos nocivos. Art. 1° del Decreto 1252 de 2021.</p>
-                                                                    <p>El PESV debe presentarse de manera digital a través del correo <a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a></p>
-                                                                    <p>Dentro de los 15 días hábiles siguientes a la radicación, la Dirección de Planeación de la Movilidad emitirá un oficio con observaciones de validación o no.</p>
-                                                                    <p>Cualquier información adicional relacionado con el diseño e implementación del PESV puede solicitarla a través del correo <a href="mailto:pesv@movilidadbogota.gov.co">pesv@movilidadbogota.gov.co</a>, o puede ingresar a la pagina <a href="https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/planes-estrategicos-de-seguridad-vial-pesv-sdm" target="_blank" rel="noopener noreferrer">https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/planes-estrategicos-de-seguridad-vial-pesv-sdm</a></p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- /#fin _PESV   -->
+                                                    <hr>
+
+                                                    <h4>Conozca qué es el Plan Estratégico de Seguridad Vial (PESV)</h4>
+
+                                                    <p>Es el Plan Estratégico de Seguridad Vial (PESV) , es una herramienta de gestión que contiene las acciones, mecanismos, estrategias y medidas de planificación, implementación, seguimiento y mejora que deben aportar las diferentes entidades, organizaciones o empresas del sector público o privado de conformidad con el Art. 110 del Decreto Ley 2106 de 2019, encaminadas a generar hábitos, comportamientos y conductas seguras en las vías para prevenir riesgos, reducir la accidentalidad vial y disminuir sus efectos nocivos. Art. 1° del Decreto 1252 de 2021.</p>
+                                                    <p>El PESV debe presentarse de manera digital a través del correo <a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a></p>
+                                                    <p>Dentro de los 15 días hábiles siguientes a la radicación, la Dirección de Planeación de la Movilidad emitirá un oficio con observaciones de validación o no.</p>
+                                                    <p>Cualquier información adicional relacionado con el diseño e implementación del PESV puede solicitarla a través del correo <a href="mailto:pesv@movilidadbogota.gov.co">pesv@movilidadbogota.gov.co</a>, o puede ingresar a la pagina <a href="https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/planes-estrategicos-de-seguridad-vial-pesv-sdm" target="_blank" rel="noopener noreferrer">https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/planes-estrategicos-de-seguridad-vial-pesv-sdm</a></p>
 
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- /#fin _pyp25 -->
                                         <hr>
-<div class="row">
-<div class="col-xs-12 col-sm-3 col-sm-offset-3">
-                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/resolucion_numero_118139_de_2021.pdf">
-                        <div class="btn-nm">
-                            Resolución 118139 de 2021
-                        </div>
-                    </a>
-                </div>
-                <div class="col-xs-12 col-sm-3">
-                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/abc_pico_y_placa.pdf">
-                        <div class="btn-nm">
-                            Abecé de las Excepciones de Pico y Placa
-                        </div>
-                    </a>
-                </div>
-</div>
+                                        <div class="documentos">
+                                            <div class="title title-h3">
+                                                <h4>Descargables</h4>
+                                            </div>
+                                            <div class="media">
+                                                <div class="media-left">
+                                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/decreto-003-de-2023_0.pdf" target="_blank" rel="noopener noreferrer" download="" title="Decreto No. 003 de 06 de enero de 2023">
+                                                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                                                    </a>
+                                                </div>
+                                                <div class="media-body">
+                                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/decreto-003-de-2023_0.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de Decreto No. 003 de 06 de enero de 2023">
+                                                        <h4 class="media-heading">Decreto No. 003 de 06 de enero de 2023</h4>
+                                                    </a>
+                                                    <p>"Por medio del cual se dictan disposiciones para el melor ordenamiento del tránsito de vehículos automotores de servicio particular dentro del perímetro urbano de Bogotá y se dictan otras disposiciones."</p>
+                                                </div>
+                                            </div>
+                                            <div class="media">
+                                                <div class="media-left">
+                                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/resolucion_numero_118139_de_2021.pdf" target="_blank" rel="noopener noreferrer" download="" title="Decreto No. 003 de 06 de enero de 2023">
+                                                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                                                    </a>
+                                                </div>
+                                                <div class="media-body">
+                                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/resolucion_numero_118139_de_2021.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de Decreto No. 003 de 06 de enero de 2023">
+                                                        <h4 class="media-heading">Resolución 118139 de 2021</h4>
+                                                    </a>
+                                                    <p>“Mediante la cual se definen las condiciones para el trámite de inscripción de los vehículos particulares exceptuados de la restricción de circulación vehicular en la ciudad de Bogotá”</p>
+                                                </div>
+                                            </div>
+                                            <div class="media">
+                                                <div class="media-left">
+                                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/abc_pico_y_placa.pdf" target="_blank" rel="noopener noreferrer" download="" title="Decreto No. 003 de 06 de enero de 2023">
+                                                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                                                    </a>
+                                                </div>
+                                                <div class="media-body">
+                                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-01-2022/abc_pico_y_placa.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de Decreto No. 003 de 06 de enero de 2023">
+                                                        <h4 class="media-heading">Abecé de las Excepciones de Pico y Placa</h4>
+                                                    </a>
+                                                    <p>Abecé de las excepciones de Pico y Placa - Resolución 118139 de 2021</p>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <style>
+                                            .documentos {
+                                                font-size: 12pt;
+                                                font-weight: 400;
+                                                text-align: left;
+                                                line-height: 1.3;
+                                                font-style: normal;
+                                                color: var(--color-negro);
+                                            }
+
+                                            .title-h3 h4 {
+                                                font-size: 20px;
+                                                font-weight: 700;
+                                            }
+
+                                            .documentos .media-left {
+                                                padding: 8px;
+                                            }
+
+                                            .documentos .media-body {
+                                                padding: 8px;
+                                            }
+
+                                            .documentos .media-body h4 {
+                                                margin: 0px;
+                                                font-size: 16px;
+                                                font-weight: 700;
+
+                                            }
+
+                                            .documentos .media-body p {
+                                                line-height: 1.2 !important;
+                                                padding: 0px;
+                                            }
+                                        </style>
 
 
 
@@ -1109,12 +1016,151 @@
                         </div>
                         <!-- /#fin Bogota -->
 
+
+                        <!-- collapse Región -->
+                        <div class='panel panel-default  panel-region'>
+                            <div class='panel-heading hp' role='tab' id='heading'>
+                                <h4 class='panel-title'>
+                                    <a role='button' data-toggle='collapse' data-parent='#accordion_pp' href='#collapse' aria-expanded='true' aria-controls='collapse'>
+                                        Pico y Placa Regional
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id='collapse' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading'>
+                                <div class='panel-body'>
+
+                                    <div class='panel-group ' id='accordionRegional' role='tablist ' aria-multiselectable='true'>
+
+                                        <!-- collapse_pyp5 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_pyp5'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp5' aria-expanded='true' aria-controls='collapse_pyp5'>
+                                                        1. ¿Cómo funciona el Pico y Placa Regional?
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_pyp5' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp5'>
+                                                <div class='panel-body'>
+                                                    <p>El Pico y Placa Regional funciona el último día de todos los puentes festivos en los 9 corredores de ingreso a Bogotá. Para el retorno hasta el mediodía, no hay restricción. A partir de las 12:00 del mediodía se permite el ingreso a Bogotá de los vehículos con placas pares hasta las 4:00 p.m. y luego, de 4:00 p.m. a 8:00 p.m. se permite el ingreso de los vehículos con placas impares.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /#fin _pyp5 -->
+
+
+                                        <!-- collapse_pyp6 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_pyp6'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp6' aria-expanded='true' aria-controls='collapse_pyp6'>
+                                                        2. ¿Cuáles son los nueve corredores donde aplica el Pico y Placa Regional?
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_pyp6' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp6'>
+                                                <div class='panel-body'>
+                                                    <p>Los corredores de ingreso donde aplica la medida de Pico y Placa Regional el último día de puentes festivos son:</p>
+                                                    <ul>
+                                                        <li>Autopista Norte: desde el peaje Andes hasta el portal Norte, sentido norte – sur.</li>
+                                                        <li>Autopista Sur: desde el límite municipal de Soacha hasta la avenida Boyacá, sentido sur – norte.</li>
+                                                        <li>Avenida Centenario (calle 13): desde el río Bogotá hasta la avenida Ciudad de Cali (avenida carrera 86), sentido occidente – oriente.</li>
+                                                        <li>Avenida Calle 80: desde el puente de Guadua hasta el portal 80, sentido occidente – oriente.</li>
+                                                        <li>Avenida Carrera 7: desde la calle 245 hasta la calle 183, sentido norte – sur.</li>
+                                                        <li>Avenida Boyacá vía al Llano: desde el túnel Argelino Durán Quintero hasta la antigua vía al Llano, sentido sur – norte.</li>
+                                                        <li>Vía Suba Cota: desde el río Bogotá hasta la avenida calle 170, sentido norte – sur.</li>
+                                                        <li>Vía la Calera: desde el peaje Patios hasta la avenida carrera 7, sentido oriente – occidente.</li>
+                                                        <li>Vía a Choachí: desde la vía a Monserrate hasta la avenida circunvalar, sentido oriente – occidente.</li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /#fin _pyp6 -->
+
+                                        <!-- collapse_pyp7 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_pyp7'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp7' aria-expanded='true' aria-controls='collapse_pyp7'>
+                                                        3. ¿La medida de Pico y Placa Regional para el ingreso a Bogotá fue concertada con los municipios aledaños?
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_pyp7' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp7'>
+                                                <div class='panel-body'>
+                                                    <p>Sí. La Alcaldesa de Bogotá y el Secretario Distrital de Movilidad se reunieron con el Gobernador de Cundinamarca y los alcaldes de los municipios aledaños para concertar la medida y agilizar el tránsito en los puentes festivos en beneficio de los usuarios.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /#fin _pyp7 -->
+
+                                        <!-- collapse_pyp8 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_pyp8'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp8' aria-expanded='true' aria-controls='collapse_pyp8'>
+                                                        4. ¿Cuáles son las sanciones por incumplir el Pico y Placa?
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_pyp8' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp8'>
+                                                <div class='panel-body'>
+                                                    <p>Las sanciones por el incumplimiento de la medida de Pico y Placa están estipuladas en el Código Nacional de Tránsito para la infracción C.14: “Transitar por sitios restringidos o en horas prohibidas por la autoridad competente. Además, el vehículo será inmovilizado”.</p>
+                                                    <p>La multa equivale en el 2022 a $468.500.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /#fin _pyp8 -->
+
+                                        <!-- collapse_pyp9 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_pyp9'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp9' aria-expanded='true' aria-controls='collapse_pyp9'>
+                                                        5. ¿Se hará monitoreo a la medida de Pico y Placa?
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_pyp9' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp9'>
+                                                <div class='panel-body'>
+                                                    <p>La secretaría Distrital de Movilidad hace monitoreo permanente a la medida con el personal de Gerencia en Vía, la Policía de Tránsito y el sistema de cámaras del centro de Gestión de Tránsito de Bogotá</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /#fin _pyp9 -->
+
+                                        <!-- collapse_pyp12 -->
+                                        <div class='panel panel-default'>
+                                            <div class='panel-heading' role='tab' id='heading_pyp12'>
+                                                <h4 class='panel-title'>
+                                                    <a role='button' data-toggle='collapse' data-parent='#accordionRegional' href='#collapse_pyp12' aria-expanded='true' aria-controls='collapse_pyp12'>
+                                                        6. ¿Qué sucede con las excepciones por Pico y Placa Solidario y Carro Compartido durante el Pico y Placa Regional?
+                                                    </a>
+                                                </h4>
+                                            </div>
+                                            <div id='collapse_pyp12' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_pyp12'>
+                                                <div class='panel-body'>
+                                                    <p>Para la medida de Pico y Placa Regional en Bogotá en retorno de puentes festivos durante el ingreso a Bogotá: no aplican las excepciones por 3 o más ocupantes y tampoco aplica la excepción de "Pico y Placa Solidario".</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- /#fin _pyp12 -->
+                                        <hr>
+                                        <!-- 4:3 aspect ratio -->
+                                        <div class="embed-responsive embed-responsive-4by3">
+                                            <iframe src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/junio_final_volante_de_pyp_regional_carrocompartido.pdf" width="640" height="480" allow="autoplay"></iframe>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- fin collapse Región-->
+
                     </div>
                     <!-- /#fin  -->
 
                 </div>
-
-
                 <!-- <h5>Oficina Asesora de Comunicaciones y Cultura para la Movilidad <br>Secretaría Distrital de Movilidad</h5> -->
 
             </div>
@@ -1211,6 +1257,18 @@
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <style type='text/css'>
+    :root {
+        --color-primario: #f4b300;
+        --color-secundario: #c91719;
+        --color-terciario: #191C3A;
+        /* --color-cuaternario: #98A520; */
+        --color-gris: #e5e5e5;
+        --color-gris-fuerte: #c5c5c5;
+        --color-blanco: #ffffff;
+        --color-negro: #191919;
+        --color-fondo: #333333;
+    }
+
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
@@ -1223,8 +1281,8 @@
     }
 
     .seccion {
-        font-size: 12px !important;
-        line-height: 1 !important;
+        font-size: 12pt !important;
+        line-height: 1.4 !important;
         max-width: 940px;
         font-family: 'Sora', sans-serif;
     }
@@ -1283,38 +1341,40 @@
 
     }
 
-    .s2 .panel-region .hp {
+    .s2 .panel-bogota .hp {
         color: #f4b300;
         background-color: #252525;
         border-color: #191C3A;
     }
 
-    .s2 .panel-region .hp a {
+    .s2 .panel-bogota .hp a {
         color: #f4b300;
 
     }
-    .s2 .panel-bogota .hp {
+
+    .s2 .panel-region .hp {
         color: #151515;
         background-color: #f4b300;
         border-color: #191C3A;
     }
 
-    .s2 .panel-bogota .hp a {
+    .s2 .panel-region .hp a {
         color: #151515;
 
     }
-.s2 .panel-default > .panel-heading{
-    background-image: none !important;
-}
-.s2 .panel-region > .panel-heading{
-    background-color: #252525 !important;
-    color: #f4b300;
 
+    .s2 .panel-default>.panel-heading {
+        background-image: none !important;
+    }
 
-}
-.s2 .panel-bogota> .panel-heading{
-    background-color: #f4b300 !important;
-    color: #151515;
+    .s2 .panel-region>.panel-heading {
+        background-color: #f4b300 !important;
+        color: #151515;
+    }
+
+    .s2 .panel-bogota>.panel-heading {
+        background-color: #252525 !important;
+        color: #f4b300;
     }
 
     .s2 .panel-title {
@@ -1322,7 +1382,7 @@
     }
 
     .s2 {
-        padding: 4%;
+        /* padding: 4%; */
     }
 
     .s2 ol {
@@ -1385,7 +1445,7 @@
     }
 
     .s3 a {
-        text-decoration: none !important;
+        /* text-decoration: none !important; */
     }
 
     .panel-body {
@@ -1419,18 +1479,31 @@
     .botones a {
         color: #f4a500;
         font-size: 1.15em;
-        text-decoration: none;
+        /* text-decoration: none; */
     }
 
     .botones a .btn-nm:hover {
         color: #151515;
+    }
+
+    .seccion .icono-pdf::before {
+        display: inline-block;
+        font-style: normal;
+        font-variant: normal;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        content: "\f007";
+
+
     }
 </style>
 <style>
     @media(max-width:767px) {
 
         .seccion {
-            font-size: 12px !important;
+            font-size: 12pt !important;
         }
 
 
@@ -1444,7 +1517,7 @@
         }
 
         .s2 {
-            font-size: 14px !important;
+            font-size: 12pt !important;
         }
 
         .s2 h3 {
