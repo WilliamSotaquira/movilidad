@@ -15,17 +15,21 @@
                         <div class="footer-h5">Síguenos en nuestras Redes Sociales</div>
                         <div class="redes">
                             <div class="row">
+
+
+
+
                                 <div class="col-xs-3">
-                                    <a href="https://www.facebook.com/secretariamovilidadbogota"><img alt="facebook" class="footer-facebook footer-redes-ico-sp footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_fb.png"></a>
+                                    <a href="https://www.facebook.com/secretariamovilidadbogota"><img alt="icono facebook" aria-label="Visita la cuenta oficial de Facebook de la SDM" class="footer-facebook footer-redes-ico-sp footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_fb.png"></a>
                                 </div>
                                 <div class="col-xs-3">
-                                    <a href="https://twitter.com/SectorMovilidad"><img alt="twitter" class="footer-twiter footer-redes-ico-sp footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_tw.png"></a>
+                                    <a href="https://twitter.com/SectorMovilidad"><img alt="icono twitter" aria-label="Visita la cuenta oficial de Twitter de la SDM" class="footer-twiter footer-redes-ico-sp footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_tw.png"></a>
                                 </div>
                                 <div class="col-xs-3">
-                                    <a href="https://www.youtube.com/user/secretariamovilidad?feature=guide"><img alt="youtube" class="footer-youtube footer-redes-ico-sp footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_you.png"></a>
+                                    <a href="https://www.youtube.com/user/secretariamovilidad?feature=guide"><img alt="icono youtube" aria-label="Visita la cuenta oficial de YouTube de la SDM" class="footer-youtube footer-redes-ico-sp footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_you.png"></a>
                                 </div>
                                 <div class="col-xs-3">
-                                    <a href="https://www.instagram.com/sectormovilidad/"><img alt="instagram" class="footer-instagram footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_inst.png"></a>
+                                    <a href="https://www.instagram.com/sectormovilidad/"><img alt="icono instagram" aria-label="Visita la cuenta oficial de Instagram de la SDM" class="footer-instagram footer-redes-ico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-10-2021/botones_redes_sociales_-_pie_de_pagina_entidad_inst.png"></a>
                                 </div>
                             </div>
                         </div>
@@ -85,7 +89,7 @@
                     </div>
                     <div class="footer-h5">&nbsp;</div>
                     <div class="footer-h5" align="center">
-                        <p>&nbsp;</p><a class="hvr-float" href="http://tablerocontrolciudadano.veeduriadistrital.gov.co:3838/TCC/"><img alt="" class="img-rounded img-responsive" src="/web/sites/default/files/Paginas/09-08-2019/boton-tablero-de-control.jpg"></a>
+                        <p>&nbsp;</p><a class="hvr-float" href="http://tablerocontrolciudadano.veeduriadistrital.gov.co:3838/TCC/"><img alt="Logo Tablero Control Ciudadano" class="img-rounded img-responsive" src="/web/sites/default/files/Paginas/09-08-2019/boton-tablero-de-control.jpg"></a>
                     </div>
                 </div>
             </div>
@@ -112,34 +116,29 @@
                             }
                         </style>
                         <div class="footer-h4 text-left">Secretaría Distrital de Movilidad</div>
-                        <div class="footer-h7 text-left"><strong>NIT</strong> 899.999.061-9</div><!-- <div class="footer-h6 text-left"> Horario de Atención al Público</div>-->
-                        <!-- <div class="footer-h7 text-left"> Lunes a viernes de 7:00am a 4:30pm </div>-->
+                        <div class="footer-h7 text-left"><strong>NIT</strong> 899.999.061-9</div>
                         <div class="footer-h7 text-left"><strong>Correo Institucional: <kbd><a href="https://www.movilidadbogota.gov.co/web/govi-sdqs/crear">Bogotá te escucha</a></kbd></strong></div>
-                        <div class="footer-h7 text-left"><strong>Radicación documentos</strong> <strong><a href="https://www.movilidadbogota.gov.co/web/content/contacto_ciudadano">contactociudadano@movilidadbogota.gov.co</a></strong></div>
-                        <div class="footer-h7 text-left"><strong>E-mail exclusivo para notificaciones judiciales</strong><strong><a href="mailto:judicial@movilidadbogota.gov.co">judicial@movilidadbogota.gov.co</a></strong></div>
+                        <div class="footer-h7 text-left"><strong>Radicación documentos: </strong> <strong><a href="https://www.movilidadbogota.gov.co/web/content/contacto_ciudadano">contactociudadano@movilidadbogota.gov.co</a></strong></div>
+                        <div class="footer-h7 text-left"><strong>E-mail exclusivo para notificaciones judiciales: </strong><strong><a href="mailto:judicial@movilidadbogota.gov.co">judicial@movilidadbogota.gov.co</a></strong></div>
                         <div class="footer-h7 text-left"><strong>Centro de Contacto de Movilidad:</strong> <a href="tel:+576013649400">+57 (601) 364 9400 opción 2</a> </div>
                         <div class="footer-h7 text-left"><strong><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion">Denuncias por actos de corrupción</a></strong></div>
                     </div>
                     <div class="col-md-4  col-sm-12 col-xs-12 ">
                         <div class="text-center footer_direccion footer-h2">
                             <div class="row">
-                                <div class="col-xs-12">
-                                    <a href="tel:+57195">
-                                        <img class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2020/linea-195_0.png">
-                                    </a>
-                                </div>
+
                                 <div class="col-xs-12">
                                     <a href="http://www.bogota.gov.co/sdqs">
-                                        <img class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2020/buzon-sugerencias.png">
+                                        <img alt="icono carta abierta" class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2020/buzon-sugerencias.png">
                                     </a>
                                 </div>
                                 <div class="col-xs-12">
                                     <a href="https://supercade.bogota.gov.co/">
-                                        <img class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-08-2020/boton_supercade_virtual_3.png">
+                                        <img alt="icono RSS" class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-08-2020/boton_supercade_virtual_3.png">
                                     </a>
                                 </div>
                                 <div class="col-xs-12">
-                                    <img class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2020/ubicacion-texto.png">
+                                    <img alt="icono coordenada" class="footer-tel img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2020/ubicacion-texto.png">
                                 </div>
                             </div>
                             <style>
@@ -152,16 +151,17 @@
                 </div>
             </div>
         </div>
+        <html></html>
         <div class="row">
             <div class="box-co">
                 <div class="ico-co">
                     <a href="https://www.gov.co/" target="blank">
-                        <img class="img-responsive img-footer-2" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2021/co-colombia.png" height="65">
+                        <img alt="icono marca CO" class="img-responsive img-footer-2" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2021/co-colombia.png" height="65">
                     </a>
                 </div>
                 <div class="ico-co">
                     <a href="https://www.gov.co/" target="blank">
-                        <img class="img-responsive img-footer-2" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2021/geadergov.png">
+                        <img alt="icono .GOV" class="img-responsive img-footer-2" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2021/geadergov.png">
                     </a>
                 </div>
             </div>
@@ -206,3 +206,6 @@ div.container:nth-child(11) > div:nth-child(5) {
 
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+
+
+
