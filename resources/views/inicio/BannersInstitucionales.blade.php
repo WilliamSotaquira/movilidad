@@ -3,8 +3,8 @@
 
 
     <div class="row">
-        <div class="col-xs-6 col-sm-offset-2 col-sm-4"><a href="https://bogota.gov.co/sdqs/denuncias-por-actos-de-corrupcion" target="_blank" rel="noopener noreferrer"><img class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-03-2022/botonanticorrupcionaprobado.webp" alt="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá" title="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá"></a></div>
-        <div class="col-xs-6 col-sm-4"><a href="https://www.ideca.gov.co/" target="_blank" rel="noopener noreferrer"><img class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-03-2022/ideca_logo.png" alt=""></a></div>
+        <div class="col-xs-6 col-sm-offset-2 col-sm-4"><a href="https://www.movilidadbogota.gov.co/web/formulario_de_denuncias" target="_blank" rel="noopener noreferrer"><img class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-03-2022/botonanticorrupcionaprobado.webp" alt="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá" title="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá"></a></div>
+        <div class="col-xs-6 col-sm-4"><a href="https://www.ideca.gov.co/" target="_blank" rel="noopener noreferrer"><img alt="Logo Ideca" class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-03-2022/ideca_logo.png"></a></div>
     </div>
     <div class="row">
         <div class="col-xs-4 col-sm-2"><a href="http://www.contraloria.gov.co/" target="_blank"><img alt="Enlace a Contraloría General de la Nación" class="img-responsive w-100 center-block" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-06-2021/logo-contraloriagral_120.png" title="Enlace a Contraloría General de la Nación"></a></div>
@@ -30,7 +30,7 @@
         </div>
     </div>
     <hr>
- 
+
 
     <style>
         .center-block {
@@ -41,43 +41,3 @@
             padding: 10%;
         }
     </style>
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-    
-    
-    
-
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
