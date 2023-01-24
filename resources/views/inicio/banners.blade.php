@@ -19,19 +19,6 @@
         </div>
     </div> -->
     <div class="row">
-        <div class="col-xs-12 visible-xs-12 visible-xs-block">
-            <a href="https://docs.google.com/forms/d/1vcDJwwadfvxEAYuo-YKztpnP9e9U9o6XenXOmdcBmYk/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer" >
-                <img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-01-2023/workshoptp_banner.jpg" title="Click aquí para acceder al sistema de bicicletas compartidas">
-            </a>
-        </div>
-        <div class="col-sm-12 hidden-xs">
-            <a href="https://docs.google.com/forms/d/1vcDJwwadfvxEAYuo-YKztpnP9e9U9o6XenXOmdcBmYk/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer">
-                <img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-01-2023/workshoptp_banner.jpg" title="Click aquí para acceder a la semana de la seguridad vial">
-            </a>
-        </div>
-    </div>
-    <hr>
-    <div class="row">
         <div class="col-sm-6">
             <a href="https://www.movilidadbogota.gov.co/web/ventanilla_unica_de_servicios" target="_blank" rel="noopener noreferrer" title="Click aquí para acceder a la Ventanilla Unica de Servicios">
                 <img alt="Clic aquí para Consulta y pagos de comparendos" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-07-2022/2022-02-21_banner-vus.png">
@@ -102,7 +89,6 @@
                     <li data-slide-to="10" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="11" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="12" data-target="#carousel_banner_lg">&nbsp;</li>
-                    <li data-slide-to="13" data-target="#carousel_banner_lg">&nbsp;</li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://tembici.com.co/"><img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-07-2022/banners_bicicleta_compartida_980x220_.jpg" title="Click aquí para acceder al sistema de bicicletas compartidas"></a></div>
@@ -111,7 +97,7 @@
                     <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_sm.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div> -->
                     <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento_excelencia_logistica_2022"><img alt="Reconocimiento Excelencia Logística 2022" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/excelencia2022_1920_x_320.png" title="Reconocimiento Excelencia Logística 2022"></a></div> -->
                     <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mes_del_taxista"><img alt="Clic aqui para ingresar a Agosto: Mes del taxista en Bogotá" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/p4_mes_taxistas_p4.png" title="Clic aqui para ingresar a Agosto: Mes del taxista en Bogotá"></a></div> -->
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_lg.png" title="Ingresa aquí encuesta Transporte Público"></a></div>
+                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_lg.png" title="Ingresa aquí encuesta Transporte Público"></a></div> -->
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_a.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Ingresa aquí para ir a Notificaciones Procesos Disciplinarios" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_sm.png" title="Ingresa aquí para ir a Notificaciones Procesos Disciplinarios"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_lg.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
@@ -144,7 +130,6 @@
                     <li data-slide-to="9" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="10" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="11" data-target="#carousel-sdm-xs">&nbsp;</li>
-                    <li data-slide-to="12" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <!-- <li data-slide-to="13" data-target="#carousel-sdm-xs">&nbsp;</li> -->
                 </ol>
                 <div class="carousel-inner">
@@ -153,7 +138,7 @@
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div>
                     <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/curso_motociclistas_xs.jpg" title="Cursos Teórico Prácticos de Conducción en Moto"></a></div> -->
                     <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/reconocimiento_excelencia_logistica_2022"><img alt="Reconocimiento Excelencia Logística 2022" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/excelencia2022_900_x_300.png" title="Reconocimiento Excelencia Logística 2022"></a></div> -->
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_xs.png" title="Ingresa aquí encuesta Transporte Público"></a></div>
+                    <!-- <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSfSdt5KzBEY2cHv7-uaPGv3Ql7u13QYCNwMT5vZZjhawhxEIQ/viewform"><img alt="Ingresa aquí encuesta Transporte Público" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-08-2022/encuestatransportepublico_xs.png" title="Ingresa aquí encuesta Transporte Público"></a></div> -->
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones"><img alt="Ingresa aquí ir a Cero y Bajas Emisiones" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-05-2022/banner_ceroybajas_b.jpg" title="Ingresa aquí ir a Cero y Bajas Emisiones"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/avisos_electronicos"><img alt="Ingresa aquí para ir a " class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-03-2022/diciplinarios_xs.png" title="" Ingresa aquí para ir a Notificaciones Procesos Disciplinario"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/transparencia/conoce_propone_y_prioriza"><img alt="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2022/conoceproponeprioriza_xs.webp" title="Aquí puede acceder a la información clave sibre Bogotá, Conoce, Propone y Prioriza"></a></div>
