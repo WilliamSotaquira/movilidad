@@ -126,15 +126,12 @@
                 <li data-target="#carrusel_avisos_xs" data-slide-to="0" class="active"></li>
                 <li data-target="#carrusel_avisos_xs" data-slide-to="1"></li>
                 <li data-target="#carrusel_avisos_xs" data-slide-to="2"></li>
+                <li data-target="#carrusel_avisos_xs" data-slide-to="3"></li>
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
 
-
-                <!-- <div class="item active">
-                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-01-2023/aviso_suspension_de_servicios_benner_900x300_230113.jpg" alt="Aviso de Mantenimiento ">
-                </div> -->
                 <div class="item active">
                     <a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" target="_blank" rel="noopener noreferrer">
                         <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-01-2023/piezas_pyp_tramitadores_banner_900x300_1.jpg" alt="Banner - El trámite del pico y placa no requiere intermediarios">
@@ -147,6 +144,9 @@
                 </div>
                 <div class="item">
                     <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2022/banner_600x300.png" alt="Información acerca de la sanciono en las investigaciones por infracciones de transito">
+                </div>
+                <div class="item">
+                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-01-2023/aviso_de_suspencion_de_servicios_25_enero_benner_900x300.jpg" alt="Aviso de Mantenimiento ">
                 </div>
 
             </div>
@@ -171,14 +171,11 @@
                 <li data-target="#carrusel_avisos_lg" data-slide-to="0" class="active"></li>
                 <li data-target="#carrusel_avisos_lg" data-slide-to="1"></li>
                 <li data-target="#carrusel_avisos_lg" data-slide-to="2"></li>
+                <li data-target="#carrusel_avisos_lg" data-slide-to="3"></li>
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-
-                <!-- <div class="item active">
-                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-01-2023/aviso_suspension_de_servicios_banner_1920x640_230113.jpg" alt="Aviso de Mantenimiento ">
-                </div> -->
 
                 <div class="item active">
                     <a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" target="_blank" rel="noopener noreferrer">
@@ -192,6 +189,9 @@
                 </div>
                 <div class="item">
                     <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2022/banner_1920x640.png" alt="Información acerca de la sanción en las investigaciones por infracciones de transito">
+                </div>
+                <div class="item">
+                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-01-2023/aviso_de_suspencion_de_servicios_25_enero_banner_1920x640.jpg" alt="Aviso de Mantenimiento ">
                 </div>
 
             </div>
