@@ -330,10 +330,151 @@
         </style>
     </div>
     <div class="row box-video">
-        <div class='embed-responsive embed-responsive-16by9'>
+        <!-- <div class='embed-responsive embed-responsive-16by9'>
             <iframe width="100%" height="" src="https://www.youtube.com/embed/y6p8cYbbZWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div> -->
+        <div class='set-noticias'>
+
+            <!-- Sección box video -->
+            <div class="box-video">
+                <div class='video video-ppal video-4by3'>
+                    <div class='embed-responsive embed-responsive-4by3'>
+                        <iframe width='100%' src='https://www.youtube.com/embed/y6p8cYbbZWI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+            <style>
+                .set-noticias .box-video {
+                    grid-area: box-video;
+                    display: grid;
+                    align-content: center;
+                    padding: 8px;
+                }
+            </style>
+
+
+            <!-- Sección box noticias -->
+            <div class="box-noticias">
+
+                <div class="title title-h2">
+                    <h3>Noticias</h3>
+                </div>
+                <style>
+                    .box-noticias .title-h2 {
+                        /* grid-area: cpte-titulo; */
+                    }
+
+                    .box-noticias .title-h2 h3 {
+                        font-size: 22px;
+                        font-weight: 700;
+                        color: rgba(77, 84, 31, 1);
+                        text-transform: uppercase;
+                        margin-top: 8px;
+                        margin-bottom: 16px;
+                        padding-bottom: 8px;
+                        border-bottom: solid 1px rgba(77, 84, 31, 1);
+                    }
+                </style>
+
+                    <div class="box-noticia ">
+                        <i>Miércoles, Enero 4, 2023 - 11:11</i>
+                        <h3>La ciudad se consolida como un referente mundial en el uso y promoción de la bicicleta</h3>
+                        <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_ciudad_se_consolida_como_un_referente_mundial_en_el_uso_y_promocion_de_la_bicicleta" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    </div>
+                    <div class="box-noticia ">
+                        <i>Lunes, Diciembre 19, 2022 - 07:44</i>
+                        <h3>Zonas Urbanas por un Mejor Aire: estrategia para reducir concentraciones atmosféricas en áreas específicas de Bogotá</h3>
+                        <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/zonas_urbanas_por_un_mejor_aire_estrategia_para_reducir_concentraciones_atmosfericas_en" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    </div>
+                    <div class="box-noticia ">
+                        <i>Jueves, Diciembre 1, 2022 - 14:44</i>
+                        <h3>La Secretaría de Movilidad expone su estrategia Bogotá Capital Mundial de la Bici, en biciGO 2022</h3>
+                        <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_expone_su_estrategia_bogota_capital_mundial_de_la_bici_en_bicigo" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    </div>
+
+                <style>
+                    .box-noticias .box-noticia {
+                        /* grid-area: box-noticia; */
+                        padding: 8px;
+                        border-radius: 4px;
+                        border: solid 2px transparent;
+
+                    }
+
+
+                    .box-noticia h3 {
+                        display: -webkit-box;
+                        -webkit-box-orient: vertical;
+                        -webkit-line-clamp: 3;
+                        line-clamp: 3;
+                        overflow: hidden;
+
+                        font-family: 'Montserrat', sans-serif;
+                        font-size: 18px;
+                        font-weight: 600;
+                        text-align: left;
+                        line-height: 1.2;
+                        /* text-transform: uppercase; */
+                        color: #252525;
+                    }
+
+                    .box-noticia p {
+                        display: -webkit-box;
+                        -webkit-box-orient: vertical;
+                        -webkit-line-clamp: 2;
+                        line-clamp: 2;
+                        overflow: hidden;
+                    }
+                </style>
+            </div>
+            <style>
+                .set-noticias .box-noticias {
+                    grid-area: box-noticias;
+                    padding: 2em;
+                    display: grid;
+                    gap: 4px;
+                    grid-auto-flow: dense;
+                    grid-template-columns: 1fr;
+                    grid-template-rows: auto;
+                }
+
+                .box-noticia h3 {
+                    margin: 0px;
+                }
+
+                .box-noticia p {
+                    margin: 0px;
+                }
+            </style>
+
+
         </div>
+        <style>
+            .set-noticias {
+                display: grid;
+                gap: 8px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                grid-template-areas:
+                    'box-video'
+                    'box-noticias';
+            }
+
+            @media(min-width:768px) {
+                .set-noticias {
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-areas:
+                        'box-video box-noticias';
+
+                }
+            }
+
+            @media(min-width:992px) {}
+        </style>
     </div>
+
+
     <div class="box-bottabs">
         <div class="botones-tab">
             <div class="row">
@@ -1595,7 +1736,7 @@
                                                 }
                                             </style>
                                             <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://movilidadbogota.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b6bdb3be323f48acaf9486e6b3b9b573"></iframe></div>
-                                                <br>
+                                            <br>
                                             <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://arcg.is/WmXy00"></iframe></div>
                                             <br>
                                             <div class="txt-seccion-6">

@@ -40,7 +40,7 @@
 
 <!-- Set Wrapper -->
 <div class='container-fluid noticia'>
-    <div class='set-wrapper'>
+    <div class='set-noticias'>
 
         <!-- Sección box video -->
         <div class="box-video">
@@ -51,7 +51,7 @@
             </div>
         </div>
         <style>
-            .set-wrapper .box-video {
+            .set-noticias .box-video {
                 grid-area: box-video;
                 display: grid;
                 align-content: center;
@@ -64,7 +64,7 @@
         <div class="box-noticias">
 
             <div class="title title-h2">
-                <h2>Lo ultimo</h2>
+                <h2>Noticias</h2>
             </div>
             <style>
                 .box-noticias .title-h2 {
@@ -83,23 +83,27 @@
                 }
             </style>
 
-
-            <div class="box-noticia ">
-                <h3>Noticia 1 </h3>
-                <i>Fecha desde hasta</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta et voluptatem voluptatum fuga ipsum nemo. <strong>(ver más)</strong></p>
-            </div>
-            <div class="box-noticia">
-                <h3>Noticia 2 </h3>
-                <i>Fecha desde hasta</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A quas quasi facilis, saepe animi rem molestiae quam. <strong>(ver más)</strong></p>
-            </div>
-            <div class="box-noticia">
-                <h3>Noticia 3 </h3>
-                <i>Fecha desde hasta</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime culpa, libero asperiores sunt labore id at! <strong>(ver más)</strong></p>
-            </div>
-
+            <a href="https://www.movilidadbogota.gov.co/web/noticia/la_ciudad_se_consolida_como_un_referente_mundial_en_el_uso_y_promocion_de_la_bicicleta" target="_blank" rel="noopener noreferrer">
+                <div class="box-noticia ">
+                    <h3>La ciudad se consolida como un referente mundial en el uso y promoción de la bicicleta</h3>
+                    <i>Miércoles, Enero 4, 2023 - 11:11</i>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_ciudad_se_consolida_como_un_referente_mundial_en_el_uso_y_promocion_de_la_bicicleta" target="_blank" rel="noopener noreferrer">(ver más)</a></strong>
+                </div>
+            </a>
+            <a href="https://www.movilidadbogota.gov.co/web/noticia/zonas_urbanas_por_un_mejor_aire_estrategia_para_reducir_concentraciones_atmosfericas_en" target="_blank" rel="noopener noreferrer">
+                <div class="box-noticia ">
+                    <h3>Zonas Urbanas por un Mejor Aire: estrategia para reducir concentraciones atmosféricas en áreas específicas de Bogotá</h3>
+                    <i>Lunes, Diciembre 19, 2022 - 07:44</i>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/zonas_urbanas_por_un_mejor_aire_estrategia_para_reducir_concentraciones_atmosfericas_en" target="_blank" rel="noopener noreferrer">(ver más)</a></strong>
+                </div>
+            </a>
+            <a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_expone_su_estrategia_bogota_capital_mundial_de_la_bici_en_bicigo" target="_blank" rel="noopener noreferrer">
+                <div class="box-noticia ">
+                    <h3>La Secretaría de Movilidad expone su estrategia Bogotá Capital Mundial de la Bici, en biciGO 2022</h3>
+                    <i>Jueves, Diciembre 1, 2022 - 14:44</i>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_expone_su_estrategia_bogota_capital_mundial_de_la_bici_en_bicigo" target="_blank" rel="noopener noreferrer">(ver más)</a></strong>
+                </div>
+            </a>
 
             <style>
                 .box-noticias .box-noticia {
@@ -119,12 +123,28 @@
                     border: solid 2px var(--color-gris);
 
                 }
+
+                .box-noticia h3 {
+                    display: -webkit-box;
+                    -webkit-box-orient: vertical;
+                    -webkit-line-clamp: 3;
+                    line-clamp: 3;
+                    overflow: hidden;
+                    font-size: 1.4em;
+                    color: var(--color-negro);
+                }
+
+                .box-noticia p {
+                    display: -webkit-box;
+                    -webkit-box-orient: vertical;
+                    -webkit-line-clamp: 2;
+                    line-clamp: 2;
+                    overflow: hidden;
+                }
             </style>
-
-
-        </div>
+          </div>
         <style>
-            .set-wrapper .box-noticias {
+            .set-noticias .box-noticias {
                 grid-area: box-noticias;
                 padding: 2em;
                 display: grid;
@@ -146,7 +166,7 @@
 
     </div>
     <style>
-        .set-wrapper {
+        .set-noticias {
             display: grid;
             gap: 8px;
             grid-auto-flow: dense;
@@ -158,7 +178,7 @@
         }
 
         @media(min-width:768px) {
-            .set-wrapper {
+            .set-noticias {
                 grid-template-columns: 1fr 1fr;
                 grid-template-areas:
                     'box-video box-noticias';
