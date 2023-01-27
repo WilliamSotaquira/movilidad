@@ -146,7 +146,7 @@
                     <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2022/banner_600x300.png" alt="Información acerca de la sanciono en las investigaciones por infracciones de transito">
                 </div>
                 <div class="item">
-                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-01-2023/aviso_de_suspencion_de_servicios_25_enero_benner_900x300.jpg" alt="Aviso de Mantenimiento ">
+                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-01-2023/aviso_de_suspencion_de_servicios_26_enero_benner_900x300.jpg" alt="Aviso de Mantenimiento ">
                 </div>
 
             </div>
@@ -191,7 +191,7 @@
                     <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2022/banner_1920x640.png" alt="Información acerca de la sanción en las investigaciones por infracciones de transito">
                 </div>
                 <div class="item">
-                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-01-2023/aviso_de_suspencion_de_servicios_25_enero_banner_1920x640.jpg" alt="Aviso de Mantenimiento ">
+                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-01-2023/aviso_de_suspencion_de_servicios_26_enero_banner_1920x640.jpg" alt="Aviso de Mantenimiento ">
                 </div>
 
             </div>
