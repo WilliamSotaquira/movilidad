@@ -1,5 +1,3 @@
-obras_para_la_movilidad_sostenible
-
 @extends('welcome')
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
@@ -1396,7 +1394,7 @@ obras_para_la_movilidad_sostenible
                                 align-items: center;
                             }
 
-                            .ph-o-ppal{
+                            .ph-o-ppal {
                                 padding: 32px;
                             }
 
@@ -2660,59 +2658,232 @@ obras_para_la_movilidad_sostenible
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
-                                    <!-- collapse enero23 -->
+                                    <!-- collapse marzo23 -->
                                     <div class='panel panel-primary'>
-                                       <div class='panel-heading' role='tab' id='heading_enero23'>
-                                        <h4 class='panel-title'>
-                                           <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_enero23' aria-expanded='false' aria-controls='collapse_enero23'>
-                                           Boletines enero 2023
-                                           </a>
-                                        </h4>
-                                       </div>
-                                       <div id='collapse_enero23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_enero23' aria-expanded='false'>
-                                        <div class='panel-body'>
-                                            <div class='box-enero23'>
+                                        <div class='panel-heading' role='tab' id='heading_marzo23'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_marzo23' aria-expanded='false' aria-controls='collapse_marzo23'>
+                                                    Boletines marzo 2023
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_marzo23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_marzo23' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-marzo23'>
 
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1AlLMx5_sXYE1uK398mQtnIPM6eF7puRc/view?usp=sharing'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1jLi6Wg3zAZ8Hk_HQFi5UMWaGP1XkHeJ3/view?usp=share_link'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 226</h4>
-                                                                <i>20 de enero de 2023</i>
+                                                                <h4>BOLETÍN 235</h4>
+                                                                <i>24 de marzo de 2023</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Puente vehicular beneficiará a más de 153 mil personas. La UMV ha tapado más de 22 mil daños viales, en el Plan de Mantenimiento Vial. Cierre temporal de entrada norte en la estación CAD.</p>
+                                                                    <p>Empieza relocalización de redes menores para la construcción de la Primera Línea del Metro de Bogotá. Las entidades oficiales son las únicas con competencia para reparar la malla vial de la ciudad. Un importante tramo de la carrera séptima se transforma, gracias a las obras de intervención de la UMV. Cambios operacionales en TransMiCable por mantenimiento preventivo.</p>
                                                             </div>
                                                         </div>
                                                     </a>
                                                 </div>
 
                                                 <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1Ob9HUlWP6vjdVeF6FggEKKNeN0-6oBRj/view?usp=share_link'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1kLpIn7-Jqx6nwsqCr56Mh6MaiWZ4D99u/view?usp=share_link'>
                                                         <div class='btn-boletin'>
                                                             <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 225</h4>
-                                                                <i>6 de enero de 2023</i>
+                                                                <h4>BOLETÍN 234</h4>
+                                                                <i>17 de marzo de 2023</i>
                                                             </div>
                                                             <div class='descripcion-boletin'>
-                                                                <p>Así avanzan las obras de la Extensión Caracas Sur. La UMV ha cumplido con el 50% de la meta propuesta en el Plan de Mantenimiento Vial de fin e inicio de año. Por arreglos en la malla vial, la estación Flores no prestará servicio, en el sentido sur–norte,este domingo y lunes.</p>
+                                                                <p>Avanza la obra de la extensión de la avenida Novena. La UMV hizo entrega a los “Cachivacheros” de un gran espacio público en el centro de Bogotá. Servicio zonal B924 Guaymaral amplía su horario a partir del 27 de marzo.</p>
                                                             </div>
                                                         </div>
                                                     </a>
+                                                </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1e6tvTrSD3wGfLUsrLuX4eSwmvuMzsX27/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 233</h4>
+                                                                    <i>10 de marzo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El IDU refuerza el mantenimiento preventivo y rutinario. La UMV hace señalización horizontal de las vías en 14 localidades de Bogotá. Ajuste en los horarios operativos de los servicios zonales 14-6, A001, A002, C155 y L155.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/16jNG_iR5mzvqfCM68DkeFJ7GIwAZThTs/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 232</h4>
+                                                                    <i>3 de marzo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El IDU trabaja en el mantenimiento de la malla vial de Bogotá, en más de 200 puntos. La Unidad de Mantenimiento Vial se puso la 10 por la recuperación de la calidad del aire en Bogotá. Servicio troncal J70 implementa nueva parada.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-                                       </div>
-                                       <style>
-                                            .box-enero23 {
-                                              grid-area: enero23;
+                                        <style>
+                                            .box-marzo23 {
+                                                grid-area: marzo23;
                                             }
-                                       </style>
+                                        </style>
+                                    </div>
+
+                                    <!-- collapse febrero23 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_febrero23'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_febrero23' aria-expanded='false' aria-controls='collapse_febrero23'>
+                                                    Boletines febrero 2023
+
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_febrero23' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_febrero23' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-febrero23'>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1--dgU1wxx6aoR4_wKu1EL_GirBdVg43Q/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 231</h4>
+                                                                    <i>24 de febrero de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La Unidad de Mantenimiento Vial ha cumplido con más de un 70% la meta de conservación de la malla vial distrital, pactada en el Plan de Desarrollo. Bogotá a la vanguardia en sostenibilidad en sus principales obras. Modificación temporal en la estación Socorro y ajuste operacional de rutas.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1b9pl0YoyFteNXzWJRA05lkXHfV5T65y2/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 230</h4>
+                                                                    <i>17 de febrero de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Los residentes y transeúntes del barrio Tejares, en Puente Aranda, disfrutan de mejores vías. Por obras que se realizan en la zona, el costado sur de la estación Molinos estará fuera de servicio temporalmente. ¡El IDU tendrá 25 proyectos con BIM en 2023!</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1mRaNsVIBJyDwwJ8DkbeZ7UVAl5QbtP5j/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 229</h4>
+                                                                    <i>10 de febrero de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>En 2023, el IDU hará mantenimiento a cerca de 70 kilómetros de ciclorrutas. La UMV recuperó un importante segmento vial de la Av. Circunvalar, que se ha visto afectado por movimientos en masa. Cambios en la operación y servicio de la ruta alimentadora B924 – Guaymaral.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1wnO3Om7v0UMlJfcCQT8vSW7ZEBFXsohE/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 228</h4>
+                                                                    <i>3 de febrero de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Cierres por construcción de ciclopuente que conectará con el parque Simón Bolívar. Nuevo servicio alimentador Circular ‘Juan Rey’ inicia operación desde el 6 de febrero. Esta es la historia de Julieth Piraquive, operadora de maquinaria semipesada en la UMV.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .box-febrero23 {
+                                                grid-area: febrero23;
+                                            }
+                                        </style>
+                                    </div>
+
+                                    <!-- collapse enero23 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_enero23'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_enero23' aria-expanded='false' aria-controls='collapse_enero23'>
+                                                    Boletines enero 2023
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_enero23' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_enero23' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-enero23'>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/16CTguDsJcjs4OQ-nVdc4tUF3pwXaIB3n/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 227</h4>
+                                                                    <i>27 de enero de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El IDU invierte más de $1.680 millones en mantenimiento de la calzada sur en la calle 170. En el último año, la UMV mejoró el estado de más de 450 kilómetros carril de vías en la ciudad. Cambios en servicios de la operación del vagón 2 de la estación 21 Ángeles.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1AlLMx5_sXYE1uK398mQtnIPM6eF7puRc/view?usp=sharing'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 226</h4>
+                                                                    <i>20 de enero de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Puente vehicular beneficiará a más de 153 mil personas. La UMV ha tapado más de 22 mil daños viales, en el Plan de Mantenimiento Vial. Cierre temporal de entrada norte en la estación CAD.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1Ob9HUlWP6vjdVeF6FggEKKNeN0-6oBRj/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 225</h4>
+                                                                    <i>6 de enero de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Así avanzan las obras de la Extensión Caracas Sur. La UMV ha cumplido con el 50% de la meta propuesta en el Plan de Mantenimiento Vial de fin e inicio de año. Por arreglos en la malla vial, la estación Flores no prestará servicio, en el sentido sur–norte,este domingo y lunes.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <style>
+                                            .box-enero23 {
+                                                grid-area: enero23;
+                                            }
+                                        </style>
                                     </div>
 
                                     <!-- collapse diciembre22 -->
-                                    <div class='panel panel-primary'>
+                                    <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_diciembre22'>
                                             <h4 class='panel-title'>
                                                 <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_diciembre22' aria-expanded='false' aria-controls='collapse_diciembre22'>
@@ -2725,19 +2896,19 @@ obras_para_la_movilidad_sostenible
                                                 <div class='box-diciembre22'>
 
 
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1w1PN3ERS-PjTVWCRWjDmL-A9HmLC513W/view?usp=share_link'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 224</h4>
-                                                                <i>30 de diciembre de 2022</i>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1w1PN3ERS-PjTVWCRWjDmL-A9HmLC513W/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 224</h4>
+                                                                    <i>30 de diciembre de 2022</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Así avanzan los trabajos de la megaobra de la Av.68 a cargo de Instituto de Desarrollo Urbano Seguimos cumpliendo nuestro Plan de Mantenimiento Vial de fin de año: ya se ha mejorado 7,5 km-carril gracias a la UMV Atención usuarios: la estación Calle 45 no prestará servicio la próxima semana y estaciones Calle 100 y La Castellana tendrán restricciones.</p>
+                                                                </div>
                                                             </div>
-                                                            <div class='descripcion-boletin'>
-                                                                <p>Así avanzan los trabajos de la megaobra de la Av.68 a cargo de Instituto de Desarrollo Urbano Seguimos cumpliendo nuestro Plan de Mantenimiento Vial de fin de año: ya se ha mejorado 7,5 km-carril gracias a la UMV Atención usuarios: la estación Calle 45 no prestará servicio la próxima semana y estaciones Calle 100 y La Castellana tendrán restricciones.</p>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
 
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://drive.google.com/file/d/13f3Ig6sUEswnhOftXo7wtSJlBUt8_xnU/view?usp=share_link'>
