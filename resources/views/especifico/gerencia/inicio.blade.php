@@ -9,7 +9,7 @@
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
-<div class='container-fluid seccion'>
+<div class='container-fluid seccion set-wrapper'>
     <div class="encabezado">
         <div class='row'>
             <div class='col-xs-12 col-sm-6'>
@@ -380,65 +380,65 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="thumbnail">
                         <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/YrKm_1qGJNws8JuQJot4X0340xrWAM3SxZHM-ljj7yBR_ddXIPkCjswazkEN4Svw2zP28C1Bn4mvy43yzUdxd8IPMFgRA5TdVlVy6EizC9KjruKUOhYLo0BzmQFgSL9xuhU9JUrkNy_igIa7vw" alt="...">
+                            <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/ejy_kRVvvI1jZKqBwPQT10t_wgLzUHDuVqL1tOT6EH3rLFkFTnY6Cee84ixhZgIOE8p9S7vDzQUUZd5ibX4W1DZ2mHjFHpO9n9f695BeSaQ7155jgFPUDLKOgz4J5tk765mMMYkb8JkaBTNChGV4vg" alt="Foto - SDM: Operativo de control nocturno por velocidad">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>Bogotá refuerza en un 52% los operativos de control nocturnos por exceso de velocidad</h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá. Febrero 17 de 2023. (@SectorMovilidad) La Secretaría Distrital de Movilidad y la Seccional de Tránsito de Bogotá, reforzaron los operativos de control en vía por exceso de velocidad en un 52%, en comparación con el año 2022. </p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_37_mil_huecos_fueron_tapados_y_se_intervinieron_10000_m2_de_espacio_publico" class="btn-cerrar" role="button">Ver Más</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://lh5.googleusercontent.com/TwJ2yxoy5TkQbDa3nhvWkm7HJO300EameJGM7EfupwoKY94f_wOmnaTGe6KSWGD0zBfjCZCPTOxgFFwsTv4IVWlBe-aJomzhmc1Gr88HvS1SLS6HG2QpX8rtSdbB7dOc4Etabx_SEpuFvsStKJbfaQ" alt="Uno de los corredores intervenidos fue la Autonorte Foto: IDU">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>Más de 37 mil huecos fueron tapados y se intervinieron 10.000 m2 de espacio público</h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá, D.C., 06 de febrero de 2023. Con éxito finalizó el Plan de Mantenimiento Vial liderado por la Alcaldía Mayor de Bogotá, programa que se puso en marcha durante los meses de diciembre y enero y que permitió recuperar la malla vial en corredores principales y vías locales, también mejorar la señalización para el beneficio de todas las personas.</p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_37_mil_huecos_fueron_tapados_y_se_intervinieron_10000_m2_de_espacio_publico" class="btn-cerrar" role="button">Ver Más</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://lh5.googleusercontent.com/lXGwhmJx04VSkfRJrN8wFFy38rxBQFj7eUdjIew8bk8vdcwagAT0CLq-uRPhZoBRB56iZbaJLdrNOWPTn6f34GKH73vNeyTHUnUP4vuDX_uyqhdjfsap26n-0bOYTDKvQ84hZrMZjAIbyznwUCR-yA" alt="Las cámaras de fotodetección están ubicadas en zonas de alto riesgo de siniestralidad vial">
                         </div>
                         <div class="caption">
                             <div class="enc-caption">
                                 <h3>Más de 100 mil vehículos se han beneficiado con el contraflujo de la Av. de Las Américas</h3>
                             </div>
                             <div class="parrafo-caption">
-                                <p>Bogotá, 8 de junio de 2022 (@SectorMovilidad). En los últimos dos meses los conductores que a diario utilizan la Av. de Las Américas han notado como los tiempos de viaje han mejorado gracias a la habilitación de un carril adicional en la calzada norte entre las 5:30 a.m. y las 9:00 a.m. El contraflujo ha permitido aliviar la movilidad, descongestionar la vía y optimizar los tiempos de desplazamiento de los ciudadanos.</p>
+                                <p>Bogotá, 6 de febrero de 2023 (@SectorMovilidad). A través la sentencia C-321 de 2022, la Corte Constitucional estableció que el dueño de un vehículo es el responsable de su adecuada tenencia y debe velar porque el mismo cumpla con las normas de tránsito. </p>
                             </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_100_mil_vehiculos_se_han_beneficiado_con_el_contraflujo_de_la_av_de_las_americas" class="btn-cerrar" role="button">Ver Más</a></div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/sin_excusas_ahora_no_es_necesario_determinar_quien_conduce_un_vehiculo_para_sancionar_una" class="btn-cerrar" role="button">Ver Más</a></div>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-xs-12 col-sm-4">
-                    <div class="thumbnail">
-                        <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/CnIit7b08SjlvUlNan0do1DUVmbgHi8YLTJt0jxf3_6oCia0Rik2VrQVU92k3nd51XJOL_1rhYG_JjuHa0rPl4whSwb4pKkjXve8CL4vi79W41P_qkqRhotBzlp0Ebl21FyDAFA=s0" alt="...">
-                        </div>
-                        <div class="caption">
-                            <div class="enc-caption">
-                                <h3>Cerca del 50% de las señales de tránsito elevadas de Bogotá han sido actualizadas</h3>
-                            </div>
-                            <div class="parrafo-caption">
-                                <p>Bogotá, 29 de septiembre de 2021 (@SectorMovilidad). En lo que va corrido del año, la Secretaría Distrital de Movilidad (SDM) ha actualizado cerca del 50% de las señales elevadas. <br> intervenciones que comenzaron en julio del 2020 y que se extenderán hasta diciembre de este año, tienen el objetivo de modernizar los tableros con información actual de sentidos viales y rutas de acceso a cada zona de la capital.</p>
-                            </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_del_50_de_las_senales_de_transito_elevadas_de_bogota_han_sido_actualizadas" class="btn-cerrar" role="button">Ver Más</a></div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xs-12 col-sm-4">
-                    <div class="thumbnail">
-                        <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/70w_R3UnypBR2ffQBA1kh_6g6iPS8xziGUC7F72Lh5fg0EAwm8XvztBi4vye_aqjcEeoXleMXdWmkwv-Vgi5KaXyzbr4JvldlP-_8aK5VPbAHffGdGU5fFzNBDuDxe7iQIScaEE=s0" alt="...">
-                        </div>
-                        <div class="caption">
-                            <div class="enc-caption">
-                                <h3>El 32% de los vehículos que transitan por Bogotá no tienen la Revisión Técnico-Mecánica</h3>
-                            </div>
-                            <div class="parrafo-caption">
-                                <p>Bogotá, 6 de octubre de 2021 (@SectorMovilidad). La Secretaria Distrital de Movilidad hace un llamado a la ciudadanía para ponerse al día con el SOAT y la Revisión Técnico Mecánica, por esto, se lanza la campaña ”Juntos podemos salvar vidas, ponte al día” que busca sensibilizar a los conductores sobre la importancia de estar con la documentación vigente.</p>
-                            </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/el_32_de_los_vehiculos_que_transitan_por_bogota_no_tienen_la_revision_tecnico_mecanica" class="btn-cerrar" role="button">Ver Más</a></div>
-                        </div>
-                    </div>
-                </div>
-
-          
 
             </div>
         </div>
     </div>
+
     <div class='row videos'>
         <div class="col-xs-12">
             <div class=" logo-GeV1min">
                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2022/logo_gev_1min.png" alt="Gerencia en Vía en 1 minuto">
             </div>
         </div>
+
         <div class='col-xs-12 col-sm-12 col-md-12'>
             <div class="videos-box">
 
@@ -515,6 +515,77 @@
 
             }
         </style>
+
+        <!-- Component box title-center -->
+        <div class="col-xs-12 box-title-center">
+            <h3>Señalización</h3>
+        </div>
+        <style>
+            .field-item.even .centertil {
+                visibility: hidden;
+                margin-top: -50px;
+            }
+
+            .videos .box-title-center {
+                grid-area: box-title-center;
+                margin-bottom: 20px;
+                margin-top: 40px;
+            }
+            .box-title-center h3{
+                text-align: center;
+                font-size: 32px;
+                font-weight: 700;
+                color: rgba(190, 208, 0, 1);
+            }
+        </style>
+
+
+        <div class="col-xs-12">
+            <div class="videos-box">
+
+                <div class="tab-content">
+                    <div id="menu_2_1" class="tab-pane fade  in active">
+                        <div class="video">
+                            <!-- 16:9 aspect ratio -->
+                            <div class="embed-responsive embed-responsive-16by9">
+
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/ZSwn60f3tAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="menu_2_2" class="tab-pane fade">
+                        <div class="video">
+                            <!-- 16:9 aspect ratio -->
+
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/iHfSimoAuA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="menu_2_3" class="tab-pane fade">
+                        <div class="video">
+                            <!-- 16:9 aspect ratio -->
+
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/l8vS1UB4aBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="box-botones">
+                <ul class="nav nav-pills nav-justified">
+                    <li class="active"><a data-toggle="pill" href="#menu_2_1">Ver video: Revisión Técnico Mecánica</a></li>
+                    <li><a data-toggle="pill" href="#menu_2_2">Ver video: Señales Elevadas</a></li>
+                    <li><a data-toggle="pill" href="#menu_2_3">Ver video: Señales Elevadas</a></li>
+                </ul>
+            </div>
+        </div>
+
+
     </div>
     <br>
     <div class="bloque3">
@@ -973,18 +1044,28 @@
         background-size: 200px;
         background-position: left top;
         text-align: justify;
-        align-items: center;
+        /* align-items: center; */
     }
 
     .caption .parrafo-caption p {
-        text-align: justify;
         padding: 0px !important;
         margin: 0px;
+
+        font-size: 16px;
+        font-weight: 500;
+        text-align: left;
+        line-height: 1.5;
+        color: #1c2046;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 12;
+        line-clamp: 12;
+        overflow: hidden;
 
     }
 
     .caption .enc-caption {
-        height: 150px;
+        /* height: 150px; */
         display: flex;
         justify-items: center;
         justify-content: center;
@@ -1004,7 +1085,7 @@
 
     .seccion .descripcion p {
         line-height: 1.7;
-        font-size: 14px;
+        font-size: 16px;
     }
 
     .seccion .descripcion a {
