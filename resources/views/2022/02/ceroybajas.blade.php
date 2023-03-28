@@ -165,7 +165,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>463</h3>
+                                <h3>810</h3>
                                 <p>Motos registradas</p>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>17.161</h3>
+                                <h3>18.358</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
@@ -376,21 +376,37 @@
                     }
                 </style>
 
-                    <div class="box-noticia ">
-                        <i>Miércoles, Enero 4, 2023 - 11:11</i>
-                        <h3>La ciudad se consolida como un referente mundial en el uso y promoción de la bicicleta</h3>
-                        <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_ciudad_se_consolida_como_un_referente_mundial_en_el_uso_y_promocion_de_la_bicicleta" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
-                    </div>
-                    <div class="box-noticia ">
-                        <i>Lunes, Diciembre 19, 2022 - 07:44</i>
-                        <h3>Zonas Urbanas por un Mejor Aire: estrategia para reducir concentraciones atmosféricas en áreas específicas de Bogotá</h3>
-                        <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/zonas_urbanas_por_un_mejor_aire_estrategia_para_reducir_concentraciones_atmosfericas_en" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
-                    </div>
-                    <div class="box-noticia ">
-                        <i>Jueves, Diciembre 1, 2022 - 14:44</i>
-                        <h3>La Secretaría de Movilidad expone su estrategia Bogotá Capital Mundial de la Bici, en biciGO 2022</h3>
-                        <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_expone_su_estrategia_bogota_capital_mundial_de_la_bici_en_bicigo" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
-                    </div>
+                <div class="box-noticia ">
+                    <i>Lunes, Febrero 6, 2023 - 17:51</i>
+                    <h3>Ascenso tecnológico: Distrito firma decreto que permitirá renovar parte de los vehículos de carga y así reducir emisiones contaminantes</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/ascenso_tecnologico_distrito_firma_decreto_que_permitira_renovar_parte_de_los_vehiculos_de" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                </div>
+                <div class="box-noticia ">
+                    <i>Jueves, Febrero 2, 2023 - 09:25</i>
+                    <h3>Así inicia la jornada del Día sin carro y sin Moto en Bogotá</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/asi_inicia_la_jornada_del_dia_sin_carro_y_sin_moto_en_bogota" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                </div>
+                <div class="box-noticia ">
+                    <i>Martes, Enero 31, 2023 - 14:18</i>
+                    <h3>Bogotá se movilizará de forma sostenible</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_se_movilizara_de_forma_sostenible" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                </div>
+
+                <!-- <div class="box-noticia ">
+                    <i>Miércoles, Enero 4, 2023 - 11:11</i>
+                    <h3>La ciudad se consolida como un referente mundial en el uso y promoción de la bicicleta</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_ciudad_se_consolida_como_un_referente_mundial_en_el_uso_y_promocion_de_la_bicicleta" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                </div>
+                <div class="box-noticia ">
+                    <i>Lunes, Diciembre 19, 2022 - 07:44</i>
+                    <h3>Zonas Urbanas por un Mejor Aire: estrategia para reducir concentraciones atmosféricas en áreas específicas de Bogotá</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/zonas_urbanas_por_un_mejor_aire_estrategia_para_reducir_concentraciones_atmosfericas_en" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                </div>
+                <div class="box-noticia ">
+                    <i>Jueves, Diciembre 1, 2022 - 14:44</i>
+                    <h3>La Secretaría de Movilidad expone su estrategia Bogotá Capital Mundial de la Bici, en biciGO 2022</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_expone_su_estrategia_bogota_capital_mundial_de_la_bici_en_bicigo" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                </div> -->
 
                 <style>
                     .box-noticias .box-noticia {
@@ -1700,45 +1716,152 @@
                                             <div class="txt-seccion-6">
                                                 <p><strong>Le apostamos a tener 20 puntos de carga rápida para uso público en la ciudad a 2022.</strong> Conoce la infraestructura que existe hoy.</p>
                                             </div>
-                                            <!-- <div class='images-map'>
-                                                <div class="img-map">
-                                                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/1200x680.png' alt='Mapa de infraestructura existente' title='Mapa de infraestructura existente'>
+                                            <br>
+                                            <!-- Sección box tabs -->
+                                            <div class="box-tabs">
+
+                                                <div class="nav-sdm-std">
+                                                    <!-- Nav tabs -->
+                                                    <ul class="nav nav-pills" role="tablist">
+                                                        <li role="presentation"><a href="#info" aria-controls="info" role="tab" data-toggle="tab">Información eléctrica del sistema</a></li>
+                                                        <li role="presentation" class="active"><a href="#electrolineras" aria-controls="electrolineras" role="tab" data-toggle="tab">Electrolineras</a></li>
+                                                    </ul>
+
+                                                    <!-- Tab panes -->
+                                                    <div class="tab-content ">
+                                                        <div role="tabpanel" class="tab-pane fade in active" id="info">
+                                                            <div class="embed-container"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://movilidadbogota.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b6bdb3be323f48acaf9486e6b3b9b573"></iframe></div>
+                                                        </div>
+                                                        <div role="tabpanel" class="tab-pane fade" id="electrolineras">
+                                                            <div class="embed-container"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://arcg.is/WmXy00"></iframe></div>
+                                                        </div>
+
+                                                    </div>
                                                 </div>
-                                                <div class="middle">
-                                                    <a target="_blank" rel="noopener noreferrer" href="https://movilidadbogota.maps.arcgis.com/apps/dashboards/5d0b51d77c9247088b62d2d590e15e2d">
-                                                        <div class="text-map">Conoce más detalles aquí</div>
-                                                    </a>
+                                                <br>
+                                                <br>
+                                                <div class="txt-seccion-6">
+                                                    <p>Si tienes un vehículo eléctrico o una flota de vehículos eléctricos y consideras que no hay suficientes puntos de recarga en tu zona, envíanos un correo a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y lo tendremos en cuenta para la expansión de la Red.</p>
+                                                    <p>Igualmente, otros operadores han dispuesto estaciones de recarga de uso público en la ciudad, las cuales se pueden consultar <a href="https://www.electromaps.com/mapa?qsearch=bogota" target="_blank" rel="noopener noreferrer">aquí</a></p>
                                                 </div>
-                                            </div> -->
+
+
+
+                                            </div>
                                             <style>
-                                                .embed-container {
-                                                    position: relative;
-                                                    padding-bottom: 80%;
-                                                    height: 0;
-                                                    max-width: 100%;
+                                                .set-wrapper .box-tabs {
+                                                    grid-area: box-tabs;
+                                                    /* padding: 1em; */
+                                                    margin-top: 40px;
+                                                    /* background-color: red; */
                                                 }
 
-                                                .embed-container iframe,
-                                                .embed-container object,
-                                                .embed-container iframe {
-                                                    position: absolute;
-                                                    top: 0;
-                                                    left: 0;
-                                                    width: 100%;
+                                                .box-tabs .nav::before {
+                                                    display: block;
+                                                    content: normal;
+                                                }
+
+                                                .box-tabs .nav-sdm-std {
+                                                    background-color: #fff;
+                                                    display: grid;
+                                                    border-radius: 3px;
+                                                    /* gap: 8px; */
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'content'
+                                                        'pills';
+
+                                                    -webkit-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.16);
+                                                    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.16);
+
+                                                }
+
+                                                .nav-sdm-std .nav-pills {
+                                                    grid-area: pills;
+                                                    display: grid;
+                                                    gap: 8px;
+                                                    grid-auto-flow: dense;
+                                                    grid-template-columns: 1fr 1fr;
+                                                    grid-template-rows: auto;
+                                                    padding: 0.5em;
+
+                                                }
+
+                                                @media(min-width:768px) {
+                                                    .nav-sdm-std .nav-pills {
+                                                        grid-template-columns: repeat(2, 1fr);
+                                                    }
+
+                                                    .box-tabs .nav-sdm-std {
+                                                        grid-template-columns: 1fr;
+                                                        grid-template-areas:
+                                                            'pills'
+                                                            'content';
+                                                    }
+
+                                                }
+
+                                                .nav-sdm-std .nav-pills li {
+                                                    display: flex;
+                                                    flex-direction: column;
+                                                    justify-content: center;
+                                                }
+
+                                                .nav-sdm-std .nav-pills>li+li {
+                                                    margin-left: 0;
+                                                }
+
+                                                .nav-sdm-std .nav-pills li a {
+                                                    background-color: rgba(77, 84, 31, 1);
+                                                    color: rgba(255, 255, 255, 1);
+                                                    border: solid 1px rgba(35, 35, 35, 0.31);
+                                                    border-radius: 3px;
                                                     height: 100%;
+                                                    display: flex;
+                                                    flex-direction: column;
+                                                    justify-content: center;
+                                                    /* align-items: center; */
+
                                                 }
 
-                                                small {
-                                                    position: absolute;
-                                                    z-index: 40;
-                                                    bottom: 0;
-                                                    margin-bottom: -15px;
+                                                .nav-sdm-std .nav-pills>li.active>a,
+                                                .nav-sdm-std .nav-pills>li.active>a:focus,
+                                                .nav-sdm-std .nav-pills>li.active>a:hover {
+                                                    background-color: #363636 !important;
+                                                    color: #fff;
                                                 }
+
+                                                .nav-sdm-std .nav>li>a:focus,
+                                                .nav-sdm-std .nav>li>a:hover {
+                                                    background-color: #A6B517 !important;
+                                                    color: #232323;
+                                                }
+
+                                                .nav-sdm-std .tab-content {
+                                                    grid-area: content;
+                                                    padding: 0.5em;
+                                                    margin: auto;
+                                                }
+
+                                                .nav-sdm-std .tab-pane {
+                                                    color: #232323;
+                                                }
+
+                                                .nav-sdm-std .embed-container iframe {
+                                                    width: 20rem;
+                                                    height: 30vh;
+                                                }
+                                                @media(min-width:768px){
+                                                    .nav-sdm-std .embed-container iframe {
+                                                    width: 80rem;
+                                                    height: 50vh;
+                                                }
+                                                }
+
                                             </style>
-                                            <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://movilidadbogota.maps.arcgis.com/apps/instant/interactivelegend/index.html?appid=b6bdb3be323f48acaf9486e6b3b9b573"></iframe></div>
-                                            <br>
-                                            <div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Información eléctrica del sistema" src="https://arcg.is/WmXy00"></iframe></div>
-                                            <br>
+
                                             <div class="txt-seccion-6">
                                                 <p>Si tienes un vehículo eléctrico o una flota de vehículos eléctricos y consideras que no hay suficientes puntos de recarga en tu zona, envíanos un correo a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y lo tendremos en cuenta para la expansión de la Red.</p>
                                                 <p>Igualmente, otros operadores han dispuesto estaciones de recarga de uso público en la ciudad, las cuales se pueden consultar <a href="https://www.electromaps.com/mapa?qsearch=bogota" target="_blank" rel="noopener noreferrer">aquí</a></p>
@@ -2405,13 +2528,18 @@
             </div>
         </div>
     </div>
-    <div class="contacto">
+    <div class="contacto-cbe">
         <h4>¿Quieres saber más? Contáctanos a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a></h4>
     </div>
     <style>
-        .contacto {
-            margin: 25px;
+        .contacto-cbe {
+            padding: 40px 25px;
             text-align: center;
+            background-color: #d5d5d5;
+            /* color: #66e026; */
+            margin-top: 10px;
+            margin-right: -15px;
+            margin-left: -15px;
         }
     </style>
 </div>
