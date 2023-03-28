@@ -17,6 +17,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/componente', function () {
+    return view('componente');
+});
+
+
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Plantillas
 Route::view('/plantillas/imagen_adaptativa', 'plantillas/imagen_adaptativa');
@@ -29,17 +34,6 @@ Route::view('/plantillas/tabs', 'plantillas/tabs');
 Route::view('/plantillas/btn-dinamico', 'plantillas/btn-dinamico');
 Route::view('/plantillas/verticalTabs', 'plantillas/verticalTabs');
 Route::view('/plantillas/temp-botones', 'plantillas/temp-botones');
-
-// --------------------------------------------------------------------------------------------------------------------------------------------------------- Tramites y Servicios
-Route::view('/atencionServicio/home', 'atencionServicio/home');
-Route::view('/atencionServicio/menu', 'atencionServicio/menu');
-Route::view('/atencionServicio/tramitesServicios', 'atencionServicio/tramitesServicios');
-
-Route::view('/atencionServicio/tramites/cursos', 'atencionServicio/tramites/cursos');
-Route::view('/atencionServicio/servicios/cursos', 'atencionServicio/servicios/cursos');
-Route::view('/atencionServicio/principal', 'atencionServicio/principal');
-
-Route::view('/tramitesServicios/tramites', 'tramitesServicios/tramites');
 
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Carpeta de contenido Especifico
@@ -137,7 +131,7 @@ Route::view('/2021/noviembre/centroContacto', '2021/noviembre/centroContacto');
 // Contenido diciembre
 Route::view('/2021/diciembre/excepciones', '2021/diciembre/excepciones');
 Route::view('/2021/diciembre/defensor', '2021/diciembre/defensor');
-Route::view('/2021/diciembre/gestionCalidad', '2021/diciembre/gestionCalidad');
+
 Route::view('/2021/diciembre/SGSST', '2021/diciembre/SGSST');
 Route::view('/2021/diciembre/nuestraEntidad', '2021/diciembre/nuestraEntidad');
 Route::view('/2021/diciembre/esquemaPublicacion', '2021/diciembre/esquemaPublicacion');
@@ -252,3 +246,13 @@ Route::view('/2022/11/noticias', '2022/11/noticias');
 Route::view('/2022/12/defensor', '2022/12/defensor');
 Route::view('/2022/12/familiando', '2022/12/familiando');
 Route::view('/2022/12/obras', '2022/12/obras');
+
+// Contenido enere 2023
+Route::view('/2023/01/ecologistics', '2023/01/ecologistics');
+
+// Contenido febrero 2023
+Route::view('/2023/02/orvi', '2023/02/orvi');
+Route::view('/2023/03/patios', '2023/03/patios');
+Route::view('/2023/03/calendario', '2023/03/calendario');
+
+

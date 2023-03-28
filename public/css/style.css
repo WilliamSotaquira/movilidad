@@ -1,8 +1,36 @@
- .container {
-     max-width: 980px;
-     margin: auto;
-     padding-right: 15px;
-     padding-left: 15px;
-     margin-right: auto;
-     display: block;
- }
+
+ :root {
+    --color-primario: #4c531e;
+    --color-secundario: #879225;
+    --color-terciario: #bed000;
+    --color-gris: #e5e5e5;
+    --color-blanco: #ffffff;
+    --color-negro: #191919;
+    --color-fondo: #333333;
+}
+
+.field-item.even .centertil {
+    visibility: hidden;
+    margin-top: -50px;
+}
+
+.region-content {
+    padding: 0px;
+    overflow: hidden;
+}
+
+.set-wrapper {
+    max-width: 940px;
+    margin: auto;
+    padding-bottom: 20px;
+    word-break: break-word;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+p, li, a, span {
+    word-wrap: break-word !important;
+    word-break: normal !important;
+}
