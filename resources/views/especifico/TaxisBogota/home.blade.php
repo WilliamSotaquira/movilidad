@@ -60,37 +60,37 @@
                             <tr>
                                 <td class="tbl-row-pr">Valor unidad cada 100 metros</td>
                                 <td class="tbl-row-sc">1</td>
-                                <td class="tbl-row-sc">$90</td>
+                                <td class="tbl-row-sc">$104</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Banderazo o Arranque</td>
                                 <td class="tbl-row-sc">28</td>
-                                <td class="tbl-row-sc">$2.500</td>
+                                <td class="tbl-row-sc">$2.900</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Valor por cada 24 segundos de espera</td>
                                 <td class="tbl-row-sc">1</td>
-                                <td class="tbl-row-sc">$90</td>
+                                <td class="tbl-row-sc">$104</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Recargo hacia y desde el Aeropuerto o Puente Aéreo</td>
                                 <td class="tbl-row-sc">50</td>
-                                <td class="tbl-row-sc">$4.500</td>
+                                <td class="tbl-row-sc">$5.200</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Recargo nocturno (20:00 horas a 05:00 horas), dominical y/o festivo</td>
                                 <td class="tbl-row-sc">24</td>
-                                <td class="tbl-row-sc">$2.200</td>
+                                <td class="tbl-row-sc">$2.500</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Carrera mínima</td>
                                 <td class="tbl-row-sc">50</td>
-                                <td class="tbl-row-sc">$4.500</td>
+                                <td class="tbl-row-sc">$5.200</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Recargo por servicio puerta a puerta</td>
                                 <td class="tbl-row-sc">9</td>
-                                <td class="tbl-row-sc">$800</td>
+                                <td class="tbl-row-sc">$900</td>
                             </tr>
                         </tbody>
                         <tfoot>
@@ -101,7 +101,7 @@
                             </tr>
                         </tfoot>
                     </table>
-                    <p class="m-0 p-0 f-table text-center"><small>Fuente: Decreto Distrital 004 de 2022</small></p>
+                    <p class="m-0 p-0 f-table text-center"><small><a href="https://bogota.gov.co/sites/default/files/inline-files/decreto-013-de-2023.pdf" target="_blank" rel="noopener noreferrer">Fuente: Decreto Distrital 013 de 2023</a></small></p>
                 </div>
             </div>
         </div>
@@ -127,38 +127,38 @@
                             <tr>
                                 <td class="tbl-row-pr">Costo por Kilómetro</td>
                                 <td class="tbl-row-sc">1</td>
-                                <td class="tbl-row-sc">$957</td>
-                                <td class="tbl-row-sc">$1.085</td>
+                                <td class="tbl-row-sc">$1.094</td>
+                                <td class="tbl-row-sc">$1.178</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Banderazo o Arranque</td>
                                 <td class="tbl-row-sc">2,8</td>
-                                <td class="tbl-row-sc">$2.700</td>
-                                <td class="tbl-row-sc">$3.000</td>
+                                <td class="tbl-row-sc">$3.100</td>
+                                <td class="tbl-row-sc">$3.300</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Recargo hacia y desde el Aeropuerto o Puente Aéreo</td>
                                 <td class="tbl-row-sc">5</td>
-                                <td class="tbl-row-sc">$4.800</td>
-                                <td class="tbl-row-sc">$5.400</td>
+                                <td class="tbl-row-sc">$5.500</td>
+                                <td class="tbl-row-sc">$5.900</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Recargo nocturno (20:00 horas a 05:00 horas), dominical y/o festivo</td>
                                 <td class="tbl-row-sc">2,4</td>
-                                <td class="tbl-row-sc">$2.300</td>
                                 <td class="tbl-row-sc">$2.600</td>
+                                <td class="tbl-row-sc">$2.800</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Carrera mínima</td>
                                 <td class="tbl-row-sc">5</td>
-                                <td class="tbl-row-sc">$4.800</td>
-                                <td class="tbl-row-sc">$5.400</td>
+                                <td class="tbl-row-sc">$5.500</td>
+                                <td class="tbl-row-sc">$5.900</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Recargo por el servicio puerta a puerta</td>
                                 <td class="tbl-row-sc">0,9</td>
-                                <td class="tbl-row-sc">$900</td>
                                 <td class="tbl-row-sc">$1.000</td>
+                                <td class="tbl-row-sc">$1.100</td>
                             </tr>
                             <tr>
                                 <td class="tbl-row-pr">Factor de seguridad vial</td>
@@ -175,7 +175,7 @@
                             </tr>
                         </tfoot>
                     </table>
-                    <p class="m-0 p-0 f-table text-center"><small>Fuente: Decreto Distrital 004 de 2022</small></p>
+                    <p class="m-0 p-0 f-table text-center"><small><a href="https://bogota.gov.co/sites/default/files/inline-files/decreto-013-de-2023.pdf" target="_blank" rel="noopener noreferrer">Fuente: Decreto Distrital 013 de 2023</a></small></p>
                 </div>
             </div>
         </div>
