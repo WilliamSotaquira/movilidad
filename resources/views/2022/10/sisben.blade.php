@@ -920,9 +920,140 @@
                 </div>
                 <!-- Fin Set -->
 
-                <div role="tabpanel" class="tab-pane" id="normatividad">...</div>
+                <div role="tabpanel" class="tab-pane" id="normatividad">
+
+                    <!-- Component box recursos -->
+                    <div class="box-recursos">
+                        <div class="title title-h3">
+                            <h3>Recursos</h3>
+                        </div>
+
+                        <div class="media">
+                            <div class="media-left">
+                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/decreto_004_de_2023_1_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="Decreto No. 004 de 06 de enero de 2023">
+                                    <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                                </a>
+                            </div>
+                            <div class="media-body">
+                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/decreto_004_de_2023_1_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de Decreto No. 004 de 06 de enero de 2023">
+                                    <h4 class="media-heading">Decreto No. 004 de 06 de enero de 2023</h4>
+                                </a>
+                                <p>"Por el medio del cual se fija la tarifa del Sistema Integrado de Transporte Público - SITP y se dictan otras disposiciones."</p>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <div class="media-left">
+                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/202352000814696_resolucion_sisben_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="resolución número 81469 de 2023">
+                                    <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                                </a>
+                            </div>
+                            <div class="media-body">
+                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/202352000814696_resolucion_sisben_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de resolución número 81469 de 2023">
+                                    <h4 class="media-heading">Resolución Número 81469 de 2023</h4>
+                                </a>
+                                <p>"Por medio del cual se reglamentan los artículos 6° y 8° del Decreto Distrital 004 de 2023 y se dictan otras disposiciones."</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <style>
+                        .box-wrp .box-recursos {
+                            grid-area: box-recursos;
+                            padding: 2.2em;
+                        }
+
+                        .box-recursos .title-h3 {
+                            color: rgba(77, 84, 31, 1);
+                            padding-bottom: 4px;
+                            border-bottom: 2px solid rgba(77, 84, 31, 0.5);
+                        }
+                    </style>
+
+
+                </div>
             </div>
         </div>
+
+        <hr>
+
+        <!-- Sección box full-news -->
+        <div class="box-full-news">
+            <h2>Noticias</h2>
+            <!-- <p></p> -->
+            <br>
+            <div class="new">
+                <div class="imagen img-new">
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" target="_blank" rel="noopener noreferrer">
+                        <img class="img-responsive w-100" src="https://lh4.googleusercontent.com/M5Xo0fB9zCyKE2xOYnGsjqck_yk263BOOTd-3dxYcbZ6bS_ND6e9_ZKYRc06i1BDKB9rXtachnx_N_xl6Vi3d_vuhPUZUMZj4rd3vUc67lQl4D5zkpDhuv9t2TnjDbeb5yu0KxOBH7_Gnj_qe68hDw" alt="Foto de parada de bus zonal en el momento de abordaje" title="Foto de parada de bus zonal en el momento de abordaje">
+                    </a>
+                </div>
+                <div class="txt-new">
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" target="_blank" rel="noopener noreferrer">
+                        <h3>Cerca de 900 mil personas podrán ser beneficiadas en las tarifas del Sistema Integrado de Transporte Público</h3>
+                    </a>
+                    <p><strong>Bogotá, 01 de febrero de 2023 (@SectorMovilidad).</strong> A partir de hoy, 01 de febrero, los beneficiarios de la tarifa preferencial para el Sistema Integrado de Transporte Público - SITP son las personas que cuentan con una encuesta validada en Sisbén IV, entre los grupos A1 a B7, la población con menor capacidad de pago en la ciudad.</p>
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" target="_blank" rel="noopener noreferrer">Ver más</a>
+                </div>
+            </div>
+        </div>
+        <style>
+            .box-wrp .box-full-news {
+                grid-area: box-full-news;
+                padding: 0 2em;
+                margin-top: 2em;
+                text-align: left;
+            }
+
+            .box-wrp .box-full-news h2 {
+                color: rgba(77, 84, 31, 1);
+                font-weight: 700;
+            }
+
+            .box-full-news .new {
+                display: grid;
+                gap: 8px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                grid-template-areas:
+                    'imagen'
+                    'texto';
+            }
+
+            .img-new {
+                grid-area: imagen;
+                padding: 0 2em 2em 2em;
+            }
+
+            .img-new img {
+                max-height: 244px;
+                object-fit: cover;
+                object-position: center;
+            }
+
+            .txt-new {
+                grid-area: texto;
+                padding: 0 2em 2em 2em;
+            }
+
+            .txt-new h3 {
+                color: rgba(77, 84, 31, 1);
+                margin-top: 0px;
+            }
+
+            @media(min-width:768px) {
+                .box-full-news .new {
+                    gap: 8px;
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-areas:
+                        'imagen texto';
+                }
+            }
+        </style>
+
+
+
 
     </div>
     <!-- Fin seccion Ppal Tabs  -->
@@ -932,7 +1063,7 @@
 
 <!-- Styles -->
 <style type='text/css'>
-    .field-item.even h2 {
+    .field-item.even .centertil {
         visibility: hidden;
         margin-top: -50px;
     }
