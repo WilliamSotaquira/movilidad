@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-01-2023/organigrama_enero_2023.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/organigrama_febrero_2023.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -32,6 +32,7 @@
     </div>
 
     <hr>
+
 
     <!-- Seccion perfil del Secretario Distrital  -->
     <div class="panel-body-mapa">
@@ -870,6 +871,23 @@
 
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_jhonalexandergonzalez.jpg" alt="Jhon Alexander González Mendoza" title="Jhon Alexander González Mendoza">
+                                    </div>
+                                </div>
+
+                                <div class="col-xs-12 col-sm-8 ">
+                                    <div class="descripcion">
+                                        <h1>Jhon Alexander González Mendoza</h1>
+                                        <h4>Subsecretario de Gestión de la Movilidad</h4>
+                                        <div class="descripcion-xs">
+                                            <p>Ingeniero Civil de la Universidad Nacional de Colombia, Especialista en Tránsito, Diseño y Seguridad vial, en proceso de Magister en Ingeniería de Transporte en la misma alma máter. Además, tiene estudios complementarios en modelación del transporte y el tránsito, así como auditorias de seguridad vial y diseño urbano.</p>
+                                            <p>Basa su perfil profesional en el marco del diseño seguro y la modelación del transporte y el tránsito, enfocándose en el comportamiento peatonal y de ciclistas. Parte de su experiencia la ha desarrollado en la elaboración de diferentes estudios y diseños a nivel nacional, para diferentes firmas consultoras en términos de: Estudios de transporte y tránsito, modelación del tráfico, diseño geométrico vial, diseño de señalización, planes manejo de tráfico en obra y auditorias de seguridad vial. Su mayor reto es lograr armonizar los diferentes proyectos viales en el marco de la planeación, la gestión y la ejecución en el distrito con altos estándares de calidad, eficiencia y seguridad vial.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- <div class="col-xs-12 col-sm-4 text-center">
+                                    <div class="img-perfil w-100">
                                         <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/nicolas_adolfo_correal.png" alt="Nicolás Adolfo Correal" title="Nicolás Adolfo Correal">
                                     </div>
                                 </div>
@@ -884,7 +902,7 @@
                                             <p>Nicolás se ha planteado como retos durante su labor: mejorar la congestión en corredores y zonas más relevantes de la Ciudad; priorizar el transporte público y optimizar la velocidad de este; seguir trabajando por la movilidad sostenible y por el respeto a la pirámide invertida donde prima el uso de la bici, el transporte público y después los otros modos.</p>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                             </div>
 
@@ -935,7 +953,7 @@
                                                             </div>
                                                         </div>
                                                     </div> -->
-
+                                                    <!--
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
                                                             <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_jhonalexandergonzalez.jpg" alt="Jhon Alexander González Mendoza" title="Jhon Alexander González Mendoza">
@@ -951,7 +969,27 @@
                                                                 <p>Basa su perfil profesional en el marco del diseño seguro y la modelación del transporte y el tránsito, enfocándose en el comportamiento peatonal y de ciclistas. Parte de su experiencia la ha desarrollado en la elaboración de diferentes estudios y diseños a nivel nacional, para diferentes firmas consultoras en términos de: Estudios de transporte y tránsito, modelación del tráfico, diseño geométrico vial, diseño de señalización, planes manejo de tráfico en obra y auditorias de seguridad vial. Su mayor reto es lograr armonizar los diferentes proyectos viales en el marco de la planeación, la gestión y la ejecución en el distrito con altos estándares de calidad, eficiencia y seguridad vial.</p>
                                                             </div>
                                                         </div>
+                                                    </div> -->
+
+                                                    <div class="row">
+                                                        <div class="col-xs-12 col-sm-4 text-center">
+                                                            <div class="img-perfil w-100">
+                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/juancamilorodriguezcardenas.png" alt="Foto: Juan Camilo Rodríguez Cárdenas" title="Foto: Juan Camilo Rodríguez Cárdenas">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-xs-12 col-sm-8 ">
+                                                            <div class="descripcion">
+                                                                <h1>Juan Camilo Rodríguez Cárdenas</h1>
+                                                                <h4>Director de Ingeniería de Tránsito</h4>
+                                                                <div class="descripcion-xs">
+                                                                    <p>Arquitecto egresado de la Universidad de La Salle, Especialista en Espacio Público y Magister en Planeación Urbana y Regional de la Universidad Javeriana, apasionado por la planeación de la ciudad y la proyección de medidas que mejoren las condiciones de seguridad vial, priorizando peatones y ciclistas. Con más de diez años de trayectoria profesional, trabajó en la Subdirección de Operaciones de la Secretaría de Hábitat de Bogotá, en la formulación, estructuración y diseño de proyectos integrales de espacio público, como componente de las intervenciones integrales del hábitat.</p>
+                                                                    <p>En el año 2016 se vinculó a la Secretaría Distrital de Movilidad, en lo que hoy es la Subdirección de la Bicicleta y el Peatón, desarrollando procesos de diseño, viabilización, implementación, análisis y seguimiento de los proyectos de transporte no motorizado. Finalizando el año 2018 se vinculó a la Subsecretaría de Gestión de la Movilidad y la Dirección de Ingeniería de Tránsito, en donde se enfocó en la planeación, priorización, ejecución y seguimiento de las intervenciones del sistema de señalización vial, con alto énfasis en los proyectos de cicloinfraestructura, urbanismos tácticos y corredores arteriales.</p>
+                                                                    <p>Dentro de sus objetivos en la Dirección están la planeación integral del sistema de señalización vial, a nivel multiescalar, el robustecimiento de las implementaciones en vía, así como la definición de lineamientos para el diseño de proyectos enfocados en mejorar las condiciones de seguridad vial de peatones y ciclistas.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
+
 
 
                                                 </div>
