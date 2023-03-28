@@ -120,34 +120,44 @@
 
     <!-- carousel xs -->
     <div class="carousel-xs">
-        <div id="carrusel_avisos_xs" class="carousel slide" data-ride="carousel" data-interval="10000">
+        <div id="carrusel_avisos_xs" class="carousel slide" data-ride="carousel" data-interval="12000">
             <!-- Indicators -->
             <ol class="carousel-indicators">
                 <li data-target="#carrusel_avisos_xs" data-slide-to="0" class="active"></li>
                 <li data-target="#carrusel_avisos_xs" data-slide-to="1"></li>
                 <li data-target="#carrusel_avisos_xs" data-slide-to="2"></li>
                 <li data-target="#carrusel_avisos_xs" data-slide-to="3"></li>
+                <!-- <li data-target="#carrusel_avisos_xs" data-slide-to="4"></li> -->
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
 
                 <div class="item active">
-                    <a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" target="_blank" rel="noopener noreferrer">
-                        <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-01-2023/piezas_pyp_tramitadores_banner_900x300_1.jpg" alt="Banner - El trámite del pico y placa no requiere intermediarios">
+                    <a href="http://www.fotodeteccionbogota.com/" target="_blank" rel="noopener noreferrer">
+                        <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2023/banner_foto_detenciones_banner_340x300.png" alt="Consulta aquí todo acerca de las fotodetecciones">
                     </a>
                 </div>
+
                 <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_para_vehiculos_particulares_2023" target="_blank" rel="noopener noreferrer">
-                        <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-12-2022/2022-12-21_banner-web-pico-y-placa-rotativo_banner-web_-900-x-300_1.png" alt="Pico y plata rotativo">
+                    <a href="https://bogota.gov.co/que-esta-haciendo-claudia-alcaldesa/" target="_blank" rel="noopener noreferrer">
+                        <img class="bs img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2023/bannersrendicioncuentas2023vigencia2022_340x300.png" alt="Click aquí para ir a Rendición de Cuentas">
                     </a>
                 </div>
+
+                <div class="item">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2023/politica_general_de_seguridad_de_la_informacion_de_la_secretaria_distrital_de_movilidad_pa04-p01_v.2.pdf" target="_blank" rel="noopener noreferrer">
+                        <img class="bs img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2023/banners_politica_de_seguridad_banner_340x300.png" alt="Click aquí para acceder a la política de seguridad">
+                    </a>
+                </div>
+
                 <div class="item">
                     <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2022/banner_600x300.png" alt="Información acerca de la sanciono en las investigaciones por infracciones de transito">
                 </div>
-                <div class="item">
-                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-01-2023/aviso_de_suspencion_de_servicios_26_enero_benner_900x300.jpg" alt="Aviso de Mantenimiento ">
-                </div>
+
+                <!-- <div class="item">
+                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2023/aviso_de_suspencion_de_servicios_22marzo_banner_340x300.png" alt="Aviso de Mantenimiento">
+                </div> -->
 
             </div>
 
@@ -172,27 +182,36 @@
                 <li data-target="#carrusel_avisos_lg" data-slide-to="1"></li>
                 <li data-target="#carrusel_avisos_lg" data-slide-to="2"></li>
                 <li data-target="#carrusel_avisos_lg" data-slide-to="3"></li>
+                <!-- <li data-target="#carrusel_avisos_lg" data-slide-to="4"></li> -->
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
 
                 <div class="item active">
-                    <a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" target="_blank" rel="noopener noreferrer">
-                        <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-01-2023/piezas_pyp_tramitadores_banner_900x300_1.jpg" alt="Banner - El trámite del pico y placa no requiere intermediarios">
+                    <a href="http://www.fotodeteccionbogota.com/" target="_blank" rel="noopener noreferrer">
+                        <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2023/banner_foto_detenciones_banner_950x300.png" alt="Consulta aquí todo acerca de las fotodetecciones">
                     </a>
                 </div>
                 <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/pico_y_placa_para_vehiculos_particulares_2023" target="_blank" rel="noopener noreferrer">
-                        <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-12-2022/2022-12-27_banner-web-pico-y-placa-rotativo_banner-web_-1920-x-640.png" alt="Banner pico y placa rotativo">
+                    <a href="https://bogota.gov.co/que-esta-haciendo-claudia-alcaldesa/" target="_blank" rel="noopener noreferrer">
+                        <img class="bs img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2023/bannersrendicioncuentas2023vigencia2022_950x300.png" alt="Click aquí para ir a Rendición de Cuentas">
                     </a>
                 </div>
+
+                <div class="item">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-03-2023/politica_general_de_seguridad_de_la_informacion_de_la_secretaria_distrital_de_movilidad_pa04-p01_v.2.pdf" target="_blank" rel="noopener noreferrer">
+                        <img class="bs img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2023/banners_politica_de_seguridad_banner_950x300.png" alt="Click aquí para acceder a la política de seguridad">
+                    </a>
+                </div>
+
                 <div class="item">
                     <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2022/banner_1920x640.png" alt="Información acerca de la sanción en las investigaciones por infracciones de transito">
                 </div>
-                <div class="item">
-                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-01-2023/aviso_de_suspencion_de_servicios_26_enero_banner_1920x640.jpg" alt="Aviso de Mantenimiento ">
-                </div>
+                <!-- <div class="item">
+                    <img class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2023/aviso_de_suspencion_de_servicios_22marzo_banner_950x300_.png" alt="Aviso de Mantenimiento">
+                </div> -->
+
 
             </div>
 
