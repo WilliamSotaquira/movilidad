@@ -1859,6 +1859,85 @@
                     </style>
                 </div>
 
+                <!-- collapse reconocimientos -->
+                <div class='panel panel-default'>
+                    <div class='panel-heading' role='tab' id='heading_reconocimientos'>
+                        <h4 class='panel-title'>
+                            <a role='button' data-toggle='collapse' data-parent='#accordion_bicicarga' href='#collapse_reconocimientos' aria-expanded='false' aria-controls='collapse_reconocimientos'>
+                                Reconocimientos
+                            </a>
+                        </h4>
+                    </div>
+                    <div id='collapse_reconocimientos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_reconocimientos' aria-expanded='false'>
+                        <div class='panel-body'>
+                            <div class='box-reconocimientos'>
+
+
+                                <!-- Sección box paragraph -->
+                                <div class="box-paragraph">
+                                    <h3>STATE-OF-THE-ART PARTNERSHIP AWARDS <br>(Premios de Asociación de Vanguardia)</h3>
+                                    <p>P4G (Pioneering Green Partnerships Investing in Impact) en el 2022 impulsó el concurso llamado “PREMIOS DE ASOCIACION DE VANGUARDIA”, con el cual se buscaban los proyectos más innovadores del mundo, que brindaran crecimiento sostenible medible y un efecto positivo frente a acciones climáticas.</p>
+                                    <div class="imagen img-reco-goals">
+                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/30-03-2023/sota6.png" alt="cinco áreas clave de los ODS" title="cinco áreas clave de los ODS">
+                                        <small>Cinco áreas clave de los ODS. Fuente: P4G Partnering for Green Growth and the Global Goals 2030</small>
+
+                                    </div>
+                                    <p>Soluciones emprendedoras capaces de generar un gran impacto en cada una de las cinco áreas clave de los Objetivos de Desarrollo Sostenible (ODS) como: comida y agricultura, saneamiento y agua limpia, energía asequible y limpia, producción y consumo responsable y ciudades y comunidades sostenibles.</p>
+                                    <p>Es en este último, en el que el piloto de Bicicarga fue premiado, al implementar soluciones para entregas de última milla con triciclos de carga eléctrica (alimentada por energía solar), proporcionando información y datos financieros para evaluar la energía con gestión inteligente, la ubicación y despliegue adecuado para operaciones de carga urbana, reduciendo el mayor costo en la logística de última milla. Este piloto fue ganador en su categoría por apuntarle a la descarbonización en la última milla en el sector de carga causante del 48 % de emisiones de gases de efecto invernadero.</p>
+                                    <div class="imagen img-reco-cat">
+                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Galeria/30-03-2023/sota7.png" alt="Imagen de las categorias galardonadas por P4G Partnering" title="Imagen de las categorias galardonadas por P4G Partnering">
+                                        <small>Bicicarga ganador. Fuente: P4G Partnering for Green Growth and the Global Goals 2030</small>
+                                    </div>
+                                    <p>De clic para conocer más sobre esta y demás categorías en el siguiente enlace:</p>
+                                    <a href="https://p4gpartnerships.org/state-art-partnership-awards">STATE-OF-THE-ART PARTNERSHIP AWARDS</a>
+                                    <br>
+                                </div>
+
+                                <style>
+                                    .box-wrp .box-paragraph {
+                                        grid-area: box-paragraph;
+                                        margin-top: 16px;
+                                        padding: 0 32px;
+                                    }
+
+                                    .box-paragraph h3 {
+                                        color: var(--color-bc-azul);
+                                        font-size: 24px;
+                                        font-weight: 700;
+                                        text-align: center;
+                                        line-height: 1.3;
+                                        padding-bottom: 16px;
+
+                                    }
+                                    .box-paragraph .img-reco-goals{
+                                        padding: 2em;
+                                    }
+                                    .box-paragraph .img-reco-cat{
+                                        padding: 2em 4em;
+                                        max-width: 750px;
+                                    }
+                                    .box-paragraph .imagen{
+                                        /* height: px; */
+                                        display: flex;
+                                        flex-direction: column;
+                                        justify-content: center;
+                                        align-items: center;
+
+                                    }
+                                </style>
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <style>
+                        .box-reconocimientos {
+                            grid-area: reconocimientos;
+                            padding: 1em;
+                        }
+                    </style>
+                </div>
+
             </div>
             <!-- /#fin _bicicarga -->
 
@@ -1959,7 +2038,8 @@
                     background: var(--color-bc-verde);
                     padding: 16px;
                 }
-                .box-descargable .descripcion p{
+
+                .box-descargable .descripcion p {
                     font-size: 24px;
                     font-weight: 700;
                     text-align: center;
@@ -1968,13 +2048,14 @@
                     margin: 0px;
                 }
 
-                .box-descargable .descripcion .enfasis{
+                .box-descargable .descripcion .enfasis {
                     font-size: 28px;
                     font-weight: 700;
                     text-align: center;
                     line-height: 1.5;
                     color: var(--color-bc-blanco);
                 }
+
                 .box-descargable .boton {
                     grid-area: cpte-descargable-boton;
                     /* height: px; */
@@ -2004,8 +2085,8 @@
                 grid-template-columns: 1fr;
                 grid-template-rows: auto;
                 grid-template-areas:
-                'cpte-descripcion'
-                'cpte-descargable-boton';
+                    'cpte-descripcion'
+                    'cpte-descargable-boton';
             }
 
 
@@ -2060,16 +2141,17 @@
 
             }
 
-            @media(min-width:768px){
+            @media(min-width:768px) {
                 .box-descargable {
 
-                gap: 8px;
-                grid-template-columns: 70% 30%;
-                grid-template-areas:
-                'cpte-descripcion cpte-descargable-boton';
+                    gap: 8px;
+                    grid-template-columns: 70% 30%;
+                    grid-template-areas:
+                        'cpte-descripcion cpte-descargable-boton';
+                }
             }
-            }
-            @media(min-width:992px){}
+
+            @media(min-width:992px) {}
 
             /* IE9 */
         </style>
