@@ -4,7 +4,7 @@
 @section('contenido')
 
 <!-- Set orvi -->
-<div class="set-wrapper orvi">
+<div class="set-wrapper orvi container">
 
     <!-- Sección box logo-full -->
     <div class="box-logo-full">
@@ -34,10 +34,10 @@
             <p><strong>Bogotá D.C. se convirtió en la primera ciudad de Colombia y la segunda en América Latina,</strong> en contar con un <strong>Centro de Orientación para Víctimas por Siniestros Viales.</strong>  En ORVI, informamos y orientamos de manera gratuita a las víctimas por siniestros viales y sus familiares, acerca de los procesos que pueden seguir en materia social, jurídica, psicológica y de formación tras un incidente de tránsito.</p>
             <p>En el centro disponemos de medios presenciales y virtuales para que las víctimas de siniestros viales y/o sus familiares puedan acceder al servicio.</p>
         </div>
-
     </div>
     <style>
         .set-wrapper .box-youtube-paragraph {
+
             grid-area: box-youtube-paragraph;
             display: grid;
             gap: 8px;
@@ -398,7 +398,8 @@
                         <div class='panel-body'>
                             <div class='box-dos'>
                                 <div class="imagen img-dos">
-                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_5.png" alt="imagen dos" title="imagen dos">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_6.png" alt="imagen" title="imagen">
+
                                     <h3>Orientación Jurídica:</h3>
                                     <p>En la orientación jurídica te informamos y orientamos en la preparación de documentos y procedimientos previos de cualquier trámite que requieras como víctima, relacionado con la ocurrencia de un siniestro vial y las reclamaciones a que haya lugar, de carácter civil, penal, laboral, administrativo, reclamación de pólizas de seguro o cualquier otro tipo de instancia. Ofrecemos la información necesaria para el inicio, trámite y posible consecución de los diferentes procesos a que exista lugar. Lo anterior con miras a garantizar que tú como víctima o tus beneficiarios cuenten con información oportuna, eficiente e idónea. Esta actividad se desarrolla a nivel de orientación y <strong>en ningún momento ejercemos una representación judicial.</strong></p>
                                     <p>La orientación jurídica tiene un número de citas máximo por persona o por grupo familiar de: 5.</p>
@@ -429,7 +430,8 @@
                         <div class='panel-body'>
                             <div class='box-tres'>
                                 <div class="imagen img-tres">
-                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_6.png" alt="imagen" title="imagen">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_5.png" alt="imagen dos" title="imagen dos">
+
                                 </div>
                                 <h3>Orientación Psicológica:</h3>
                                 <p>Realizamos orientación psicológica primaria, con el fin de valorar el daño/afectación asociados al siniestro vial, para brindarte recomendaciones con relación a las posibles afectaciones psicológicas y un posible tratamiento a seguir.</p>
@@ -869,7 +871,7 @@
 
     <!-- Component box title-center -->
     <div class="box-title-center">
-        <h3>Oferta Formativa</h3>
+        <h3>Oferta formativa</h3>
     </div>
     <style>
         .field-item.even .centertil {
@@ -988,8 +990,8 @@
         const cards_sliders = [{
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_007.png",
                 "alt": "Persona recibe información por parte de funcionario de la SDM",
-                "title": "¿Qué es ORVI?: Ruta de Atención",
-                "summary": "Orienta e informa a los usuarios sobre la documentación que deben aportar para soportar la ocurrencia de los hechos y cómo deben hacer el trámite para solicitar la prestación de los servicios de ORVI.",
+                "title": "¿Qué es ORVI?",
+                "summary": "Orientamos e informamos sobre los servicios gratuitos ofrecidos.",
                 "type": "Charla",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
 
@@ -998,15 +1000,15 @@
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_012.png",
                 "alt": "Personas reciben charla en grupo",
                 "title": "Educación para la seguridad vial",
-                "summary": "Se dirige a la formación de conductas seguras en la vía, buscando abordar creencias, hábitos e ideas en torno a la movilidad que se constituyen como factores de riesgo al momento de hacer uso de las vías en cualquiera de los roles viales.",
+                "summary": "Ofrecemos conceptos básicos sobre los factores de riesgo que pueden ocasionar un siniestro vial.",
                 "type": "Charla",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_010.png",
                 "alt": "Grupo de personas reciben orientación",
-                "title": "Convivencia Vial",
-                "summary": "Comprender los aspectos generales que se relacionan con las formas de movilidad principalmente agresivas, y cómo estos se vinculan con las dinámicas del tránsito, los medios de transporte u otros actores viales. Entender los conceptos que rodean la violencia vial, pero también la convivencia en la vía generan impactos sobre las víctimas producto de la siniestralidad, pues es un tema que está en la agenda de las fundaciones que tratan el tema de las víctimas viales a nivel mundial.",
+                "title": "Convivencia vial",
+                "summary": "Abordamos aspectos generales de movilidad agresiva, su vinculación con las dinámicas del tránsito, los medios de transporte y actores viales.",
                 "type": "Charla",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1014,13 +1016,13 @@
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_005.png",
                 "alt": "Conductores de SITP reciben capacitación",
                 "title": "Cultura vial para una movilidad segura",
-                "summary": "Abordar los aspectos que rodean las conductas favorables en la vía, haciendo de la movilidad una serie de acciones armoniosas, respetuosas y empáticas frente a las diferentes dinámicas del tránsito. Se incluye este tema bajo la comprensión de que la cultura vial de cualquier población impactará (positiva o negativamente) las interacciones en la vía, aumentando o disminuyendo los hechos lesivos en el tránsito.",
+                "summary": "Reflexionamos sobre las acciones armoniosas, respetuosas y empáticas en la vía.",
                 "type": "Charla",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
                 "title": "Sesgos en la conducción",
-                "summary": "Identificar y reflexionar acerca de los diferentes procesos cognitivos que se relacionan con riesgos en la conducción. Los sesgos son comprendidos como procesos de pensamiento automáticos que nos permiten agilizar la toma de decisiones en diferentes situaciones, como por ejemplo, el tránsito.",
+                "summary": "Estudiamos sesgos cognitivos en la conducción.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_003.png",
                 "alt": "Funcionario de la SDM brinda información a ciclista urbano",
@@ -1028,23 +1030,23 @@
             },
             {
                 "title": "Emociones y conducción",
-                "summary": "Esta charla pretende analizar y comprender el papel que juegan las emociones en la movilidad, partiendo de su transversalidad a toda nuestra cotidianidad. Así, se pretende sensibilizar sobre la importancia de considerar nuestras emociones cuando nos movilizamos y desarrollar estrategias propias que nos permitan gestionar estas emociones de una manera adecuada, evitando la realización de diferentes comportamientos de riesgo.",
+                "summary": "Reflexionamos sobre las emociones y cómo gestionarlas para evitar riesgos en la vía.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_016.png",
                 "alt": "Persona conduciendo vehículo",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "TICS en la seguridad vial",
-                "summary": "Esta capacitación tiene el objetivo de propiciar el uso de herramientas tecnológicas que permitan tomar decisiones en materia de seguridad vial por parte de las empresas e instituciones, por ejemplo, el uso de chaquetas salvavidas para los domiciliarios. Así mismo, es importante tener en cuenta que la información derivada de las TIC's puede ser considerada respecto al modelo de negocio, como la creación de rutas eficientes o la adopción medidas para la calificación de conductores.",
+                "title": "Tecnologías y comunicaciones en la seguridad vial",
+                "summary": "Exploramos las herramientas tecnológicas al conducir y su aporte en la prevención de siniestros viales.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_002.png",
                 "alt": "Ciclista urbano recibe información por parte de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "Enseñanza de seguridad vial en niños, niñas y adolescentes",
-                "summary": "La capacitación incluye la descripción, objetivo y evaluación de las estrategias metodológicas que se pueden aplicar en diferentes contextos y grupos de edad (con niños, niñas y adolescentes), con el objetivo de que puedan ser aplicadas en cualquier población atendiendo las necesidades contextuales propias.",
+                "title": "Seguridad vial para niños, niñas y adolescentes",
+                "summary": "Ofrecemos herramientas teóricas y metodológicas en contextos escolares o familiares.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_008.png",
                 "alt": "Grupo dialogando en aula",
@@ -1052,15 +1054,15 @@
             },
             {
                 "title": "Acciones penales y civiles tras un siniestro vial",
-                "summary": "Se analizan los procedimientos que -en materia legal- se pueden emprender tras un siniestro de tránsito. aporta información sobre los deberes y derechos ciudadanos frente a estos hechos, así como las entidades intervinientes en las investigaciones que se realizan.",
+                "summary": "Analizamos los procedimientos legales que se pueden emprender.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_017.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-04-2023/recurso_orvi_021.png",
                 "alt": "Personas conversando en una sala.",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
                 "title": "Responsabilidad civil extracontractual",
-                "summary": "Da a conocer los procedimientos, factores y criterios considerados en las acciones que requieran una indemnización por un daño causado y un bien jurídico que se busca reparar. Aporta conocimientos sobre el sector asegurador y los derechos de los ciudadanos frente a esta figura a causa de un siniestro vial que permita comprender de mejor manera el cómo, cuándo y dónde adelantar reclamaciones tras el siniestro vial.",
+                "summary": "Analizamos los procedimientos y criterios en indemnizaciones por los daños causados.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_015.png",
                 "alt": "Mujer conduciendo vehículo",
@@ -1068,31 +1070,31 @@
             },
             {
                 "title": "SOAT",
-                "summary": "Aporta información a los ciudadanos sobre el alcance, cobertura, características y tipos de riesgos que se encuentran enmarcados en el Seguro Obligatorio de Accidentes de Tránsito. Aborda explicaciones sobre los derechos a que se tiene lugar tras un siniestro vial, considerando la obligatoriedad de este documento y dando a conocer el alcance que tiene el mismo.",
+                "summary": "Descubrimos su alcance, cobertura, características y riesgos.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_013.png",
                 "alt": "Mujer junto a vehículo con evidente frustración",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "Atención a víctimas de siniestros viales dentro del PESV",
-                "summary": "Busca aportar información sobre las acciones emprendidas en el eje de atención a víctimas viales dentro del Plan Estratégico de Seguridad Vial, ampliando el alcance de la investigación de siniestros y el reporte de los mismos, para dirigirlo a una comprensión holística de las víctimas por consecuencia de hechos viales generados por actividades laborales.",
+                "title": "Atención a víctimas de siniestros viales",
+                "summary": "Informamos las acciones emprendidas en la atención a víctimas viales.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_009.png",
                 "alt": "Grupo de conductores del SITP reciben charla de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "Políticas empresariales de atención a víctimas en siniestros viales",
-                "summary": "Esta capacitación tiene por objeto ampliar la comprensión de las políticas empresariales de seguridad vial, incluyendo en el eje de atención a víctimas pautas, acciones y estrategias sobre la atención primaria, secundaria, terciaria y cuaternaria (aquí ubicado ORVI) para trabajadores que hayan sufrido algún hecho en el tránsito. Considera a su vez, una política preventiva que permita generar medidas desde los momentos anteriores a la ocurrencia de un siniestro vial hasta la posible materialización del mismo.",
+                "title": "Políticas empresariales de atención a víctimas",
+                "summary": "Establecemos pautas, acciones y estrategias sobre los niveles de atención a las víctimas en las políticas de seguridad vial.",
                 "type": "Charla",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_004.png",
                 "alt": "Grupo de personas reciben charla de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "Acciones de primer respondiente en un siniestro",
-                "summary": "Dirigida a conocer los procedimientos que cómo ciudadanos podemos emprender tras la ocurrencia de un siniestro vial. Se pretende aportar información sobre las acciones oportunas y adecuadas que se pueden realizar en un evento vial, como víctima directa del mismo o como testigo de los hechos.",
+                "title": "Primer respondiente",
+                "summary": "Estudiamos las acciones de primeros auxilios para atender un evento vial con lesionados.",
                 "type": "Taller",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_018.png",
                 "alt": "Grupo de personas reciben charla de funcionario de la SDM",
@@ -1100,31 +1102,31 @@
             },
             {
                 "title": "Primeros auxilios psicológicos",
-                "summary": "Los primeros auxilios psicológicos hacen parte del acompañamiento psicosocial que se brinda a una persona o grupo de personas en estado de crisis; para potenciar, estrategias de afrontamiento funcionales frente a dicha crisis. Esta capacitación busca brindar o fortalecer herramientas que permitan dar un apoyo inmediato a aquellas personas que se encuentran en escenarios de crisis como resultado de un siniestro vial y que tienen como objetivo el recuperar el equilibrio emocional y minimizar las consecuencias psicológicas a largo plazo, debido a un hecho altamente traumático, inesperado y que genera una gran afectación a quien lo vive.",
+                "summary": "Establecemos pautas para la disminución del impacto emocional y social luego de un siniestro vial.",
                 "type": "Taller",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_014.png",
                 "alt": "Mujer charlando con otra persona",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "Estereotipos de género en la movilidad",
-                "summary": "Este taller busca un acercamiento a las experiencias diferenciadas entre hombres y mujeres, comprendiendo las representaciones que se generan sobre los roles socialmente asignados a ambos grupos e identificando los posibles riesgos que estas representaciones pueden (y tienen) sobre la movilidad.",
+                "title": "Esterotipos de género en la movilidad",
+                "summary": "Analizamos las experiencias de movilidad y reconocemos las necesidades en el espacio público.",
                 "type": "Taller",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_019.png",
                 "alt": "Mujer al volante de autobús",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "Factores de riesgo en los siniestros viales",
-                "summary": "Este taller pretende abordar los diferentes factores de riesgo vinculados con los diferentes roles viales. Se indica por lo tanto, realizar este taller teniendo en cuenta la población objetivo al que se orienta la capacitación, ya que, se busca analizar casos particulares según el actor vial al que se dirige para comprender los aspectos comportamentales, ambientales, normativos y/o vehiculares que dan lugar a los siniestros en la vía.",
+                "title": "Factores de riesgo en la siniestralidad vial",
+                "summary": "Identificamos los factores de riesgo relacionados con los roles viales.",
                 "type": "Taller",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_001.png",
                 "alt": "Ciclista urbano recibe información de fincionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "title": "Comunicación de la mala noticia",
-                "summary": "Se orienta al fortalecimiento de estrategias y herramientas para dar una información que resulta altamente negativa sobre las expectativas que se tiene sobre una situación, estado de salud o evento que ha implicado un siniestro de tránsito. Busca hacer que la comunicación de noticias negativas se realice de forma asertiva, comprensiva y empática.",
+                "title": "¿Cómo comunicar la mala noticia?",
+                "summary": "Ofrecemos herramientas para comunicar un hecho negativo.",
                 "type": "Taller",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_020.png",
                 "alt": "Mujer usa sus manos para cubrir su frente",
@@ -1132,8 +1134,8 @@
             },
 
             {
-                "title": "¿Qué hacer en un siniestro vial con daños materiales?",
-                "summary": "Con los cambios recientes en la normativa colombiana muchas personas se preguntan qué pueden hacer luego de la ocurrencia del siniestro, pues ya no se realiza el procedimiento donde el policía de tránsito acudía a la escena, ahora los implicados deben tomar evidencias del evento y continuar su camino con la mayor brevedad posible. Debido a lo anterior, es importante tener en cuenta aspectos prácticos que posteriormente pueden incidir en la reclamación, tal como la calidad, ángulo y contenido del registro audiovisual del siniestro.",
+                "title": "¿Cómo proceder ante un siniestro vial simple?",
+                "summary": "Revisamos los aspectos que podrían incidir en la reclamación de un siniestro vial con daños materiales.",
                 "type": "Taller",
                 "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_006.png",
                 "alt": "Funcionario de la SDM brinda taller a conductores del SITP",
@@ -1241,7 +1243,7 @@
             /* height: px; */
             display: flex;
             flex-direction: column;
-            justify-content: space-around;
+            /* justify-content: space-around; */
             align-items: center;
 
         }
@@ -1291,8 +1293,8 @@
             color: #252525;
             display: -webkit-box;
             -webkit-box-orient: vertical;
-            -webkit-line-clamp: 2;
-            line-clamp: 2;
+            -webkit-line-clamp: 3;
+            line-clamp: 3;
             overflow: hidden;
         }
 
@@ -1484,4 +1486,11 @@
 
 
 </div>
+
+<style>
+    .set-wrapper{
+        max-width: 1200px;
+            margin: auto;
+    }
+</style>
 <!-- Fin Set -->
