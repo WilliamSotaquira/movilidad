@@ -2658,6 +2658,53 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
+                                <!-- collapse abril23 -->
+                                <div class='panel panel-primary'>
+                                   <div class='panel-heading' role='tab' id='heading_abril23'>
+                                    <h4 class='panel-title'>
+                                       <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_abril23' aria-expanded='false' aria-controls='collapse_abril23'>
+                                        Boletines abril 2023
+                                       </a>
+                                    </h4>
+                                   </div>
+                                   <div id='collapse_abril23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_abril23' aria-expanded='false'>
+                                    <div class='panel-body'>
+                                        <div class='box-abril23'>
+
+
+                                        <div class='col-xs-12'>
+                                            <a class='enlace' href='https://drive.google.com/file/d/17tNZdMTwu6vTA12F94kadNMRnRudrJnf/view?usp=share_link'>
+                                                <div class='btn-boletin'>
+                                                    <div class='titulo-boletin'>
+                                                        <h4>BOLETÍN 238</h4>
+                                                        <i>21 de abril de 202</i>
+                                                    </div>
+                                                    <div class='descripcion-boletin'>
+                                                        <p>¡Esta es la Bogotá que estamos construyendo! Así luce la calle 134, luego de los trabajos de la UMV. Rutas alternas por suspensión del servicio 135B Bosque Popular - Centro Histórico.</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                        <div class='col-xs-12'>
+                                            <a class='enlace' href='https://drive.google.com/file/d/1izQj3YHPwn65GBGZlh6CT7Hw_cflM8bu/view?usp=share_link'>
+                                                <div class='btn-boletin'>
+                                                    <div class='titulo-boletin'>
+                                                        <h4>BOLETÍN 237</h4>
+                                                        <i>14 de abril de 2023</i>
+                                                    </div>
+                                                    <div class='descripcion-boletin'>
+                                                        <p>El trabajo del IDU no se detiene. Engativá se renueva con nuevas tecnologías. Cierres temporales en puntos de estaciones CAD y Puente Aranda.</p>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                        </div>
+                                    </div>
+                                   </div>
+
+                                </div>
+
                                     <!-- collapse marzo23 -->
                                     <div class='panel panel-primary'>
                                         <div class='panel-heading' role='tab' id='heading_marzo23'>
@@ -2667,10 +2714,24 @@
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_marzo23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_marzo23' aria-expanded='false'>
+                                        <div id='collapse_marzo23' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_marzo23' aria-expanded='false'>
                                             <div class='panel-body'>
                                                 <div class='box-marzo23'>
 
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1lOFwxUtjTMReJjVZxwN4zvmYiNXaBDFn/view?usp=share_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 236</h4>
+                                                                <i>31 de marzo de 2023</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Inician cierres progresivos en el puente Venecia, en el sur de Bogotá. Por obras de la Primera Línea del Metro de Bogotá, se realizará cierre del acceso y vagón norte de la estación Calle 72 con avenida Caracas. Sede ‘La Elvira’, un lugar amigable para el medioambiente. Ajustes operacionales en 3 servicios duales desde el 1 de abril.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
 
                                                 <div class='col-xs-12'>
                                                     <a class='enlace' href='https://drive.google.com/file/d/1jLi6Wg3zAZ8Hk_HQFi5UMWaGP1XkHeJ3/view?usp=share_link'>
