@@ -219,20 +219,20 @@
             </div>
             <div class="perfil zoom">
                 <div class="foto">
-                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/paola_adriana_corona_miranda_0.png' alt='Foto Paola Adriana Corona Miranda' title='Foto Paola Adriana Corona Miranda'>
+                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-04-2023/luz_mary_peralta.png' alt='Foto Luz Mary Peralta' title='Foto Luz Mary Peralta'>
                 </div>
                 <div class="nombre">
-                    <h3>Paola Adriana Corona Miranda</h3>
+                    <h3>Luz Mary Peralta</h3>
                     <h4><strong>Manager efr</strong> - Directora Administrativa y Financiera</h4>
                 </div>
             </div>
             <div class="perfil zoom">
                 <div class="foto">
-                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/vianneydelsocorroceledonaponte_0.png' alt='Foto Vianney Celedón' title='Foto Vianney Celedón'>
+                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/paola_adriana_corona_miranda_0.png' alt='Foto Paola Adriana Corona Miranda' title='Foto Paola Adriana Corona Miranda'>
                 </div>
                 <div class="nombre">
-                    <h3>Vianney Celedón</h3>
-                    <h4><strong>Coodinador efr</strong> - Directora de Talento Humano</h4>
+                    <h3>Paola Adriana Corona Miranda</h3>
+                    <h4><strong>Coordinadora efr</strong> - Directora de Talento Humano</h4>
                 </div>
             </div>
         </div>
