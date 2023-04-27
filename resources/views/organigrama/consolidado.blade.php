@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/organigrama_febrero_2023.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -38,8 +38,8 @@
     <div class="panel-body-mapa">
         <div class="row">
             <div class="col-xs-12 col-sm-4 text-center">
-                <div class="img-perfil w-100">
-                    <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2022/deyaniraavilamoreno.png" alt="Deyanira Ávila Moreno - Secretario Distrital de Movilidad">
+                <div class="img-ppal w-100">
+                    <img class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2023/deyaniraavila_sdm.png" alt="Deyanira Ávila Moreno - Secretario Distrital de Movilidad">
                 </div>
             </div>
             <div class="col-xs-12 col-sm-8 ">
@@ -590,21 +590,19 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
-
-
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-06-2020/claudia-mercado.jpg" alt="Foto: Caludia Mercado" title="Foto: Caludia Mercado">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2023/susana_morales_pinilla.png" alt="Foto: Susana Morales Pinilla" title="Foto: Susana Morales Pinilla">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Claudia Janeth Mercado Velandia</h1>
-                                                            <h4>Directora de Planeación para la Movilidad</h4>
+                                                            <h1>Susana Morales Pinilla</h1>
+                                                            <h4>Directora de Planeación de la Movilidad</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Es Ingeniera Civil y Magíster en Ingeniería de Transporte de la Universidad Nacional de Colombia, con más de 10 años de experiencia profesional en planeación y gerencia de proyectos de movilidad sostenible.</p>
-                                                                <p>Cuenta con experiencia en cargos directivos en Entidades como Transmilenio S.A. y la Secretaría Distrital de Movilidad de Bogotá donde ha liderado el diseño y la implementación de acciones de optimización y mejoras al Sistema Troncal TransMilenio, en el SITP y en el transporte público en sus diferentes modalidades.</p>
+                                                                <p>Arquitecta de la Universidad de los Andes, especialista en Diseño Urbano de la Universidad Nacional de Colombia y Magister en Planeamiento Urbano y Políticas Territoriales del Politécnico de Milán. Cuenta con más de 13 años de experiencia en el sector público y privado en dirección, estructuración y gestión de proyectos territoriales y de movilidad, contratación pública, diseño urbano y desarrollo orientado por el transporte sostenible.</p>
+                                                                <p>Ha coordinado proyectos de ciudad, y grandes eventos de contenido internacional. Se ha desempeñado como asesora de la Dirección General en el Instituto de Desarrollo Urbano, IDU, coordinadora del componente urbano del programa Ciudades Sostenibles y Competitivas de Findeter, directora de operaciones estratégicas en la Secretaría Distrital de Planeación, entre otros. Es docente de la Maestría de Ciudades Inteligentes de la Universidad Externado de Colombia.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1128,15 +1126,18 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_sergioraultovarfarfan.jpg" alt="Foto: Sergio Raúl Tovar Farfán" title="Foto: Sergio Raúl Tovar Farfán">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2023/nathalypatinho.png" alt="Foto: Nathaly Patiño González" title="Foto: Nathaly Patiño González">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Sergio Raúl Tovar Farfán</h1>
-                                                            <h4>Director de Gestión de Tránsito y Control de Tránsito y Transporte</h4>
+                                                            <div>
+                                                                <h1>Nathaly Patiño González</h1>
+                                                                <h4>Directora de Gestión de Tránsito y Control de Tránsito y Transporte</h4>
+                                                            </div>
                                                             <div class="descripcion-xs">
-                                                                <p>Ingeniero Civil y Magister con énfasis en Transporte de la Universidad de los Andes. Durante sus más de 10 años de trayectoria profesional se ha desempeñado en diferentes ámbitos relacionados con el análisis de sistemas de transporte, gestión de tráfico, planeación y modelación del transporte. Su experiencia en la Secretaría de Movilidad ha sido como Subdirector técnico de Gestión en Vía, así como contratista en temas de gestión y modelación de transporte. También, se ha desempeñado como docente universitario, consultor de la firma Steer y modelador y entrenador certificado de PTV en la Universidad de los Andes.</p>
+                                                                <p>Ingeniera Civil de la Universidad Nacional de Colombia, con experiencia en tránsito y transporte, especialmente en temas relacionados con gestión en vía en la Secretaría Distrital de Movilidad y en proyectos de consultoría. Tiene una especialización en Tránsito y Transporte de la Universidad Pedagógica y Tecnológica de Colombia.</p>
+                                                                <p>Fue contratista en la Subdirección de Gestión en Vía, donde tenía a su cargo las Localidades de Santa Fe, Candelaria, Chapinero y de la Avenida Caracas. Posteriormente, se desempeñó como Subdirectora, rol en el que se destacó por trabajar para que la ciudadanía reconozca a la Entidad como una mano amiga en la vía. Asume esta dirección con el propósito de continuar cuidando a la Ciudad desde la gestión y el control. Además de fortalecer a los equipos que están en vía, demostrando eficiencia en la atención de situaciones de emergencia, y en momentos claves como la época de lluvias, los planes éxodo y retorno y las manifestaciones que se presentan en Bogotá.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1164,25 +1165,26 @@
                                                                     </div>
                                                                 </div>
                                                                 <div class='panel-body-mapa'>
-                                                                    <div class="row">
 
+                                                                    <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/perfil_nathalypatinogonzalez.jpg" alt="Foto: Nathaly Patiño González" title="Foto: Nathaly Patiño González">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-04-2023/jhonfreddydominguezfuentes.png" alt="Foto: Jhon Freddy Domínguez Fuentes" title="Foto: Jhon Freddy Domínguez Fuentes">
                                                                             </div>
                                                                         </div>
-
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Nathaly Patiño González</h1>
-                                                                                <h4>Subdirectora de Gestión en Vía</h4>
+                                                                                <h1>Jhon Freddy Domínguez Fuentes</h1>
+                                                                                <h4>Subdirector de Gestión en Vía</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Ingeniera Civil de la Universidad Nacional de Colombia, con experiencia en tránsito y transporte, especialmente temas relacionados con gestión en vía en la Secretaría Distrital de Movilidad y en proyectos de consultoría y tiene una especialización en Tránsito y Transporte de la Universidad Pedagógica y Tecnológica de Colombia.</p>
-                                                                                    <p>Fue contratista en la misma subdirección de la Secretaría de Movilidad, donde era gerente de las Localidades de Santa Fe, Candelaria, Chapinero y de la avenida Caracas. Su mayor meta es lograr que la ciudadanía reconozca a la entidad como una mano amiga en la vía, y que la misma comunidad ayude a mejorar los tiempos de atención y de respuesta a los eventos en vía, subiendo fotos o reportando a las redes sociales de movilidad.</p>
+                                                                                    <p>Ingeniero civil de la Universidad Industrial de Santander; especialista en gestión de proyectos de la Corporación Universitaria Minuto de Dios; cursó y aprobó todo el contenido académico de la Maestría en Transporte de la Universidad de los Andes.</p>
+                                                                                    <p>Jhon Freddy es bumangués, llegó a Bogotá en el 2012 y cuenta con 11 años de experiencia en el sector transporte y seguridad vial. Desde que se radicó en la Ciudad ha trabajado en dos organizaciones, una consultora privada y en la Secretaría Distrital de Movilidad. Ingresó a la Entidad en el 2016 desempeñando diferentes funciones para la Subdirección de Gestión en Vía y posteriormente para la Dirección de Gestión de Tránsito y Control de Tránsito y Transporte, De igual forma contribuyó, desde la Subdirección de la Bicicleta y el Peatón, a que el proyecto de bicicletas compartidas llegara a su operación total en enero de 2023.</p>
+                                                                                    <p>Asume este cargo con el objetivo de seguir aportando al mejoramiento de la calidad de vida de la ciudadanía, en términos de minimizar sus tiempos de viaje y de actuar con celeridad ante cualquier eventualidad en las vías.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+
                                                                 </div>
                                                             </div>
 
@@ -1554,18 +1556,16 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2022/miguelantoniocapadorsanchez.png" alt="foto Miguel Antonio Capador Sánchez">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2022/carolangiepinzonruiz.png" alt="Carol Angie Pinzón Ruiz">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Miguel Antonio Capador Sánchez</h1>
-                                                                                <h4>Subdirector de Contravenciones</h4>
+                                                                                <h1>Carol Angie Pinzón Ruiz</h1>
+                                                                                <h4>Subdirectora de Contravenciones</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Abogado con especialización en Derecho Procesal y estudios de Maestría en Derecho Penal y Criminología de la Universidad Libre de Colombia.</p>
-                                                                                    <p>Amplia experiencia y conocimiento en manejo de grupos de trabajo, capacidad para desarrollar líneas de investigación y mejoramiento en la calidad personal y académica. Se ha desempeñado como docente en la cátedra profesional con destrezas en procesos de participación ciudadana y democrática.</p>
-                                                                                    <p>Laboró en organizaciones como la Defensoría del Pueblo, el Congreso de la República de Colombia, la Procuraduría General de la Nación y ha trabajado como profesor en universidades como: Universidad Cooperativa de Colombia, Corporación Unificada Nacional de Educación Superior (CUN) y la Universidad Libre de Colombia.</p>
-                                                                                    <p>Ejerce su profesión como litigante y se describe como penalista por convicción. Se siente feliz y agradecido con Dios por hacer parte del equipo de la Secretaría de Movilidad, y manifiesta su compromiso con la mejora continua para brindarle un excelente servicio a los ciudadanos desde esta subdirección.</p>
+                                                                                    <p>Abogada, egresada de la Universidad Católica de Colombia, especialista en Derecho Comercial y en Derecho de la Empresa de la Universidad del Rosario, Conciliadora en Derecho de la Universidad Gran Colombia.</p>
+                                                                                    <p>Con experiencia profesional de 19 años, se desempeñó en el sector privado, 9 años como asesora en asuntos de seguros, tránsito y transporte y en el sector público, se ha desempeñado por más de 10 años en la Secretaría Distrital de Movilidad, como profesional en la Subdirección de Contravenciones y como Subdirectora en la Subdirección de Jurisdicción Coactiva hoy Dirección de Gestión de Cobro.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1603,16 +1603,18 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-09-2022/carolangiepinzonruiz.png" alt="Carol Angie Pinzón Ruiz">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2022/miguelantoniocapadorsanchez.png" alt="foto Miguel Antonio Capador Sánchez">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Carol Angie Pinzón Ruiz</h1>
-                                                                                <h4>Subdirectora de Control e Investigaciones al Transporte Público</h4>
+                                                                                <h1>Miguel Antonio Capador Sánchez</h1>
+                                                                                <h4>Subdirector de Control e Investigaciones al Transporte Público</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Abogada, egresada de la Universidad Católica de Colombia, especialista en Derecho Comercial y en Derecho de la Empresa de la Universidad del Rosario, Conciliadora en Derecho de la Universidad Gran Colombia.</p>
-                                                                                    <p>Con experiencia profesional de 19 años, se desempeñó en el sector privado, 9 años como asesora en asuntos de seguros, tránsito y transporte y en el sector público, se ha desempeñado por más de 10 años en la Secretaría Distrital de Movilidad, como profesional en la Subdirección de Contravenciones y como Subdirectora en la Subdirección de Jurisdicción Coactiva hoy Dirección de Gestión de Cobro.</p>
+                                                                                    <p>Abogado con especialización en Derecho Procesal y estudios de Maestría en Derecho Penal y Criminología de la Universidad Libre de Colombia.</p>
+                                                                                    <p>Amplia experiencia y conocimiento en manejo de grupos de trabajo, capacidad para desarrollar líneas de investigación y mejoramiento en la calidad personal y académica. Se ha desempeñado como docente en la cátedra profesional con destrezas en procesos de participación ciudadana y democrática.</p>
+                                                                                    <p>Laboró en organizaciones como la Defensoría del Pueblo, el Congreso de la República de Colombia, la Procuraduría General de la Nación y ha trabajado como profesor en universidades como: Universidad Cooperativa de Colombia, Corporación Unificada Nacional de Educación Superior (CUN) y la Universidad Libre de Colombia.</p>
+                                                                                    <p>Ejerce su profesión como litigante y se describe como penalista por convicción. Se siente feliz y agradecido con Dios por hacer parte del equipo de la Secretaría de Movilidad, y manifiesta su compromiso con la mejora continua para brindarle un excelente servicio a los ciudadanos desde esta subdirección.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -2241,6 +2243,14 @@
         padding: 0px;
         width: 900px;
 
+    }
+
+    .img-ppal {
+        display: flex;
+        vertical-align: middle;
+        justify-content: center;
+        align-items: center;
+        height: 500px;
     }
 
     .img-perfil {
