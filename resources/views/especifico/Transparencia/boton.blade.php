@@ -454,7 +454,7 @@
 											<li><a href="https://www.movilidadbogota.gov.co/web/informacion_de_interes_para_ninas_ninos_y_adolescentes" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.1.2.</span>Información de interés para niñas, niños y adolescentes</a></li>
 										</ol>
 									</li>
-									<li><a href="#"><span class="enfasis_num">8.2.</span>Información para Mujeres</a></li>
+									<!-- <li><a href="#"><span class="enfasis_num">8.2.</span>Información para Mujeres</a></li> -->
 									<li><a href="https://www.movilidadbogota.gov.co/web/informacion-poblacion-vulnerable"><span class="enfasis_num">8.3.</span>Información para población vulnerable</a></li>
                                     <li><a href="https://www.movilidadbogota.gov.co/web/programas-sociales" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">8.4.</span>Programas Sociales</a></li>
 
@@ -505,7 +505,7 @@
 									<li><span class="enfasis_num">9.5.</span>Gestión del Talento Humano
 										<ul>
 											<li><a href="https://www.movilidadbogota.gov.co/web/nombramientos" rel="noopener noreferrer" target="_blank">Nombramientos</a></li>
-											<li><a href="Comisión Nacional del Servicio Civil" rel="noopener noreferrer" target="_blank">Comisión Nacional del Servicio Civil</a></li>
+											<li><a href="https://www.cnsc.gov.co/" rel="noopener noreferrer" target="_blank">Comisión Nacional del Servicio Civil</a></li>
 											<li><a href="https://talentonopalanca.gov.co/index.html" rel="noopener noreferrer" target="_blank">Trabaja con nosotros</a></li>
 										</ul>
 									</li>
