@@ -34,6 +34,7 @@ Route::view('/plantillas/tabs', 'plantillas/tabs');
 Route::view('/plantillas/btn-dinamico', 'plantillas/btn-dinamico');
 Route::view('/plantillas/verticalTabs', 'plantillas/verticalTabs');
 Route::view('/plantillas/temp-botones', 'plantillas/temp-botones');
+Route::view('/plantillas/normativa', 'plantillas/normativa');
 
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Carpeta de contenido Especifico
@@ -252,7 +253,14 @@ Route::view('/2023/01/ecologistics', '2023/01/ecologistics');
 
 // Contenido febrero 2023
 Route::view('/2023/02/orvi', '2023/02/orvi');
+
+// Contenido marzo 2023
 Route::view('/2023/03/patios', '2023/03/patios');
 Route::view('/2023/03/calendario', '2023/03/calendario');
+
+
+// Contenido abril 2023
+Route::view('/2023/04/rlu', '2023/04/rlu');
+Route::view('/2023/04/arm', '2023/04/arm');
 
 
