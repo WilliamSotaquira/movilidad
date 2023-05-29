@@ -161,7 +161,7 @@
                               <div class="img-tab"><a href="https://ws-secmovilidad.inconcertcc.com/VCSECMOV"><img alt="Dar clic aquí para acceder a Hagamos una video llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/videollamada_20211117.webp" title="Dar clic aquí para acceder a Hagamos una video llamada"> </a></div>
 
                               <div class="txt-tab">
-                                  <h4><a href="https://ws-secmovilidad.inconcertcc.com/VCSECMOV">Hagamos una video llamada</a></h4>
+                                  <h4><a href="https://ws-secmovilidad.inconcertcc.com/VCSECMOV">Videollamada en lengua de señas colombiana</a></h4>
                               </div>
                           </div>
                       </div>
