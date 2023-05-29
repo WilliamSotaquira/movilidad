@@ -319,11 +319,8 @@
 				<div class="panel-body px-0">
 					<p style="text-align: justify;">La comunidad de la red está conformada por empresas generadoras, transportadoras y receptoras de carga, prestadoras de servicios, gremios, asociaciones, colectivos académicos y entidades públicas que trabajan de la mano con la Secretaría Distrital de Movilidad para desarrollar una logística más eficiente en Bogotá. Al trabajar de manera colaborativa, creamos soluciones que benefician a las empresas, las comunidades y la ciudad.</p>
 
-					<div align="center"><img alt="Red de Logística Urbana (RLU)" class="img-rounded img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-04-2023/datos_relevantes_rlu.png"></div>
+					<div align="center"><img alt="Datos relevantes de la Red de Logística Urbana (RLU)" class="img-rounded img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2023/datos_relevantes_rlu.png"></div>
 
-					<p style="text-align: center;">“Al trabajar de manera colaborativa, creamos soluciones que benefician a las empresas, las comunidades y la ciudad” (RLU).</p>
-
-					<p style="text-align: justify;">A 19 de junio de 2020 la RLU cuenta con la participación de 154 organizaciones, ha realizado 6 talleres técnicos de capacitación virtuales y presenciales y 2 talleres pedagógicos con un promedio de 40 personas capacitadas en cada taller.</p>
 				</div>
 			</div>
 		</div>
@@ -406,6 +403,8 @@
 
 					<p style="text-align: justify;">Las iniciativas reconocidas suponen un aporte relevante, no sólo en la gestión de la cadena de suministro de la empresa, sino también en la competitividad de la industria y el desarrollo sostenible de la ciudad-región.</p>
 
+					<p>Empresas reconocidas en al año 2022: <a href="https://www.movilidadbogota.gov.co/web/noticia/distrito_reconoce_al_sector_privado_en_logistica_urbana" target="_blank" rel="noopener noreferrer">https://www.movilidadbogota.gov.co/web/noticia/distrito_reconoce_al_sector_privado_en_logistica_urbana</a></p>
+
 					<p style="text-align: justify;">El reconocimiento se entrega anualmente, para el año 2023, se tendrá las siguientes cuatro categorías:</p>
 
 					<div class="row d-flex">
@@ -427,9 +426,12 @@
 					</div>
 
 					<hr>
-					<h3 style="text-align: center;">Empresas reconocidas en al año 2022:</h3>
-					<!-- <p><a class="btn btn-propuesta" href="http://bit.ly/EnCargaTe" target="_blank">Unirse a la RLU</a></p> -->
-					<p><a class="btn btn-propuesta" href="https://www.movilidadbogota.gov.co/web/noticia/distrito_reconoce_al_sector_privado_en_logistica_urbana" target="_blank">Empresas reconocidas en al año 2022</a></p>
+                    <div>
+                        <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+                            <p><a class="btn btn-propuesta" href="https://forms.gle/1Xpwxg5sPYuW3tNs6" target="_blank">Postulaciones al reconocimiento 2023</a></p>
+                        </div>
+                    </div>
+
 					<hr>
 				</div>
 			</div>
