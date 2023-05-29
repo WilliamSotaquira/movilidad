@@ -14,6 +14,7 @@
                 <h3>Semana de la movilidad sostenible </h3>
                 <p class="p1">Bogotá ha realizado una inversión histórica para transformarse en la ciudad integral, ecourbana y sostenible que todos soñamos. En la semana de la Movilidad Sostenible el Distrito socializa los megaproyectos en desarrollo tanto a la ciudadanía como a un selecto grupo de expertos internacionales, quienes a su vez comparten experiencias de innovación en movilidad alrededor del globo.</p>
             </div>
+            <br>
             <div class="participants-event">
                 <h4>Participantes</h4>
                 <p class="p2">Alcaldía mayor de Bogotá, Secretaría Distrital de Movilidad, expertos internacionales</p>
@@ -482,8 +483,8 @@
             tags: ['Green cities', 'Cycling cities', 'movilidad sostenible', 'bicis compartidas'],
             url: 'https://www.amwe.world/',
         }],
-        abril: [{
-            date: 'Por definir',
+        mayo: [{
+            date: 'Por confirmar nueva fecha',
             title: 'Relanzamiento ORVI',
             summary: 'Relanzamiento del Centro de Atención a Víctimas por Siniestros Viales (ORVI) el cual operará en el centro comercial Mall Plaza, ofeciendo asesoría jurídica, psicológica y social a todas aquellas personas involucradas en un siniestro vial en Bogotá.',
             subjects: 'Ciudadanía diversa, Secretaría Distrital de Movilidad',
@@ -533,7 +534,7 @@
             }
         ],
         octubre: [{
-                date: 'Desde el 1 hasta el 7 octubre',
+                date: 'Desde el 1 hasta el 6 octubre',
                 title: 'Semana de la seguridad vial ',
                 summary: 'Evento que celebra la Secretaria Distrital de Movilidad, desde el año 2007, en 2022 llega a su edición XVI, por medio de diferentes conversatorios, actividades y foros se busca llegar y sensibilizar a la ciudadanía frente a la importancia de la seguridad vial para todos los actores en la vía.',
                 subjects: 'Secretaría Distrital de Movilidad, ciudadanía diversa.',
@@ -566,7 +567,7 @@
             },
             {
                 date: '18 de octubre',
-                title: 'Promotores Escolares en Seguridad Vial',
+                title: 'Concurso Innovadores Escolares en Seguridad Vial',
                 summary: 'Evento en el cual grupos de estudiantes de la capital, exponen sus propuestas innovadoras para la seguridad vial en entornos escolares.',
                 subjects: 'Secretaría Distrital de Movilidad, Instituciones Educativas del Distrito',
                 tags: ['seguridad vial', 'entornos escolares seguros'],
