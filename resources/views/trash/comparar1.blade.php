@@ -1,650 +1,638 @@
-
-                    <!-- collapse_transicion -->
-                    <div class='panel-group' id='accordion_transicion' role='tablist ' aria-multiselectable='true'>
-
-                        <!-- collapse_incentivos -->
-                        <div class='panel panel-default'>
-                            <div class='panel-heading' role='tab' id='heading_incentivos'>
-                                <h4 class='panel-title'>
-
-                                    <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_incentivos' aria-expanded='true' aria-controls='collapse_incentivos'>
-                                    Con incentivos económicos y no económicos ¡Conoce los beneficios!
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id='collapse_incentivos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_incentivos'>
-                                <div class='panel-body'>
-                                    <div>
-                                        <p>¡Conoce los incentivos que ya existen para estas tecnologías! </p>
-                                        <br>
-                                        <div>
-                                            <div class="row">
-                                                <div class="col-xs-12">
-                                                    <div class="table-responsive">
-                                                        <table class="table table-striped table-hover table-condensed">
-                                                            <tr>
-                                                                <th class="th1" colspan="2">Instrumentos para la promoción de movilidad de Cero y Bajas Emisiones</th>
-                                                                <th class="th1">Competencia</th>
-                                                                <th class="th1">Gasolina</th>
-                                                                <th class="th1">Eléctrico</th>
-                                                                <th class="th1">Híbrido</th>
-                                                            </tr>
-                                                            <tr>
-                                                                <th rowspan="2">Incentivos a la compra</th>
-                                                                <td><strong>Aranceles</strong></td>
-                                                                <td><strong>Nación:</strong><br>Decreto 2051 del 13 de noviembre de 2019</td>
-                                                                <td>0% - 35%</td>
-                                                                <td>0%</td>
-                                                                <td>5%</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td><strong>IVA</strong></td>
-                                                                <td><strong>Nación:</strong> <br>Ley 1819 del 2016</td>
-                                                                <td>19%</td>
-                                                                <td>5%</td>
-                                                                <td>5%</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th rowspan="3">Incentivos de uso y circulación</th>
-                                                                <td rowspan="2"><strong>Impuesto Vehicular</strong></td>
-                                                                <td><strong>Nación:</strong> <br>Ley 1964 de 2019</td>
-                                                                <td>1,5% - 3,5%</td>
-                                                                <td>1%</td>
-                                                                <td>1,5% - 3,5%</td>
-
-                                                            </tr>
-                                                            <tr>
-                                                                <td><strong>Distrito:</strong> <br> Acuerdo 780 de 2020</td>
-                                                                <td>0%</td>
-                                                                <td>
-                                                                    <p>Nuevos:</p>
-                                                                    <p>-60% por 5 años</p>
-                                                                    <p>Taxis:</p>
-                                                                    <p>-70% por 5 años</p>
-                                                                </td>
-                                                                <td>-40% por 5 años</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td><strong>Pico y Placa</strong></td>
-                                                                <td>
-                                                                    <p><strong>Distrito:</strong> </p>
-                                                                    <p>Decreto 575 de 2013</p>
-                                                                    <p>Resolución 83464 de 2021</p>
-                                                                </td>
-                                                                <td>Aplica</td>
-                                                                <td>No aplica</td>
-                                                                <td>No aplica</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th rowspan="4">Otros instrumentos de promoción</th>
-                                                                <td><strong>Beneficios SOAT</strong></td>
-                                                                <td><strong>Distrito:</strong> <br> Ley 1964 de 2019</td>
-                                                                <td>0%</td>
-                                                                <td>-10%</td>
-                                                                <td>0%</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td><strong>Infraestructura de recarga de acceso público</strong></td>
-                                                                <td><strong>Distrito:</strong> <br> Decreto 552 de 2018</td>
-                                                                <td>EDS</td>
-                                                                <td>1 rápida y 56 semi</td>
-                                                                <td>EDS + Eléctricas</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td><strong>Beneficios técnico mecánica</strong></td>
-                                                                <td><strong>Nación:</strong> <br> Ley 1964 de 2019</td>
-                                                                <td>0%</td>
-                                                                <td>-30%</td>
-                                                                <td>0%</td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td><strong>Parqueaderos preferenciales</strong></td>
-                                                                <td><strong>Distrito:</strong> <br> Circular No. 006 de 2020</td>
-                                                                <td>No aplica</td>
-                                                                <td>(En definición)</td>
-                                                                <td>No aplica</td>
-                                                            </tr>
-                                                        </table>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <br>
-                                            <div class='row'>
-                                                <div class='col-xs-12 col-sm-12'>
-                                                    <p><strong>Formularemos incentivos económicos y no económicos que promuevan el despliegue de estas tecnologías en todos los segmentos de transporte y la cadena de valor</strong></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /#fin _incentivos -->
-
-                        <!-- collapse_red -->
-                        <div class='panel panel-default'>
-                            <div class='panel-heading' role='tab' id='heading_red'>
-                                <h4 class='panel-title'>
-                                    <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_red' aria-expanded='true' aria-controls='collapse_red'>
-                                    Con infraestructura de recarga ¡Conoce dónde recargar!
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id='collapse_red' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_red'>
-                                <div class='panel-body'>
-                                    <div>
-
-                                        <div class="seccion-6">
-                                            <div class="row">
-                                                <div class="col-xs-12">
-                                                    <div class="txt-seccion-6">
-                                                        <p><strong>Le apostamos a tener 20 puntos de carga rápida para uso público en la ciudad a 2022.</strong> Conoce la infraestructura que existe hoy.</p>
-                                                    </div>
-                                                    <div class='images-map'>
-                                                        <div class="img-map">
-                                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/1200x680.png' alt='Mapa de infraestructura existente' title='Mapa de infraestructura existente'>
-                                                        </div>
-                                                        <div class="middle">
-                                                            <a target="_blank" rel="noopener noreferrer" href="https://movilidadbogota.maps.arcgis.com/apps/dashboards/5d0b51d77c9247088b62d2d590e15e2d">
-                                                                <div class="text-map">Conoce más detalles aquí</div>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                    <br>
-                                                    <div class="txt-seccion-6">
-                                                        <p>Si tienes un vehículo eléctrico o una flota de vehículos eléctricos y consideras que no hay suficientes puntos de recarga en tu zona, envíanos un correo a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y lo tendremos en cuenta para la expansión de la Red.</p>
-                                                        <p>Igualmente, otros operadores han dispuesto estaciones de recarga de uso público en la ciudad, las cuales se pueden consultar <a href="https://www.electromaps.com/mapa?qsearch=bogota" target="_blank" rel="noopener noreferrer">aquí</a></p>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <style>
-                                            .images-map {
-                                                position: relative;
-                                            }
-
-                                            .img-map {
-                                                opacity: 1;
-                                                display: block;
-                                                height: auto;
-                                                transition: .5s ease;
-                                                backface-visibility: hidden;
-                                            }
-
-                                            .middle {
-                                                transition: .5s ease;
-                                                opacity: 0;
-                                                position: absolute;
-                                                top: 50%;
-                                                left: 50%;
-                                                transform: translate(-50%, -50%);
-                                                -ms-transform: translate(-50%, -50%);
-                                                text-align: center;
-                                            }
-
-                                            .middle a {
-                                                text-decoration: none !important;
-                                                color: rgb(28, 32, 70, 1);
-                                                text-align: center;
-                                            }
-
-                                            .images-map:hover .img-map {
-                                                opacity: 0.3;
-                                            }
-
-                                            .images-map:hover .middle {
-                                                opacity: 1;
-                                            }
-
-                                            .text-map {
-                                                background-color: rgba(102, 224, 38, 1);
-                                                color: rgba(28, 32, 70, 1);
-                                                font-size: 16px;
-                                                padding: 16px 32px;
-                                            }
-                                        </style>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /#fin _red -->
-
-                        <!-- collapse_capacidades -->
-                        <div class='panel panel-default'>
-                            <div class='panel-heading' role='tab' id='heading_capacidades'>
-                                <h4 class='panel-title'>
-                                    <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_capacidades' aria-expanded='true' aria-controls='collapse_capacidades'>
-                                    Con más información y nuevas capacidades ¡Conoce estos recursos!
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id='collapse_capacidades' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_capacidades'>
-                                <div class='panel-body'>
-                                    <div>
-                                        <div class="seccion-7">
-                                            <div class='row'>
-                                                <div class='col-xs-12 col-sm-12'>
-                                                    <ol>
-
-                                                        <p>
-                                                            <li><strong>El SENA ha desarrollado los siguientes cursos complementarios sobre movilidad de cero y bajas emisiones.</strong>
-                                                        </p>
-                                                        <ul>
-                                                            <li>Formación en Vehículos de propulsión eléctrica</li>
-                                                            <li>Formación en Vehículos de propulsión Híbrida </li>
-                                                            <li>Habilitación eléctrica para Vehículos eléctricos e Híbridos</li>
-                                                            <li>Mantenimiento del sistema eléctrico de la motocicleta </li>
-                                                            <li>Mantenimiento de Motocicletas de propulsión eléctrica </li>
-                                                            <li>Mantenimiento de Patinetas y Bicicletas eléctricas </li>
-                                                            <li>Conducción Eco-Eficiente en el transporte</li>
-                                                            <p><a href="https://forms.gle/in7zmqVLyfmAaCeLA">Registrar tu interes de participar aquí</a></p><br>
-                                                        </ul>
-                                                        </li>
-
-                                                        <p>
-                                                            <li><strong>Conoce más sobre movilidad eléctrica con estas herramientas:</strong>
-                                                        </p>
-                                                        <ul>
-                                                            <li>Documento de diagnóstico sobre la movilidad de cero y bajas emisiones:
-                                                                <p><a href="https://drive.google.com/file/d/1TAxh1-NCWJj0WbGjsLPuZBZsJwDqLtIn/view?usp=sharing">https://drive.google.com/file/d/1TAxh1-NCWJj0WbGjsLPuZBZsJwDqLtIn/view?usp=sharing</a></p>
-                                                            </li>
-                                                            <li>Guía de Movilidad eléctrica para organizaciones (Próximamente)
-                                                                <p><a href="/"></a></p>
-                                                            </li>
-                                                        </ul>
-                                                        </li>
-                                                        </ul>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <style>
-                                            .seccion-7 ol {
-                                                list-style-type: none;
-                                                margin: 0;
-                                                padding: 0;
-                                            }
-
-                                            .seccion-7 ol>li {
-                                                display: block;
-                                            }
-
-                                            .seccion-7 ol>li:before {
-                                                /*Using a Bootstrap glyphicon as the bullet point*/
-                                                content: "\e162";
-                                                font-family: 'Glyphicons Halflings';
-                                                font-size: 18px;
-                                                float: left;
-                                                margin-top: 0px;
-                                                margin-left: -20px;
-                                                color: rgba(102, 224, 38, 1);
-                                            }
-                                        </style>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /#fin _capacidades -->
-
-                        <!-- collapse_investigacion -->
-                        <div class='panel panel-default'>
-                            <div class='panel-heading' role='tab' id='heading_investigacion'>
-                                <h4 class='panel-title'>
-                                    <a role='button' data-toggle='collapse' data-parent='#accordion_transicion' href='#collapse_investigacion' aria-expanded='true' aria-controls='collapse_investigacion'>
-                                    Con alianzas y acciones de tod@s ¡Únete aquí!
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id='collapse_investigacion' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_investigacion'>
-                                <div class='panel-body'>
-                                    <div>
-
-                                        <div class="seccion-8">
-                                            <div class='row'>
-                                                <div class='col-xs-12 col-sm-12'>
-                                                    <p><strong>No te quedes por fuera, únete y sé parte del cambio.</strong></p>
-                                                    <p>Esta transición necesita del trabajo conjunto con el sector privado, académico y los actores de toda la cadena de valor para acelerar la transición. </p>
-                                                </div>
-                                            </div>
-                                            <div class='row box-general'>
-                                                <div class='col-xs-12 col-sm-3'>
-                                                    <div class='img-general'>
-                                                        <div>
-                                                            <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/unep50logo.png' alt='Logo ONU Programa para el emdio ambiente' title='Logo ONU Programa para el emdio ambiente'>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class='col-xs-12 col-sm-3'>
-                                                    <div class='img-general'>
-                                                        <div>
-                                                            <img class='img-responsive img2' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/b_move_to_zero-full_color.png' alt='Logo Move to Zero' title='Logo Move to Zero'>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class='col-xs-12 col-sm-6'>
-                                                    <div class='img-general'>
-                                                        <div>
-                                                            <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/logo-sdm.png' alt='Logo Secretaría Distrital de Movilidad' title='Logo Secretaría Distrital de Movilidad'>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <style>
-                                                .box-general {
-                                                    padding: 30px;
-                                                }
-
-                                                .img-general {
-                                                    height: 100px;
-                                                    display: flex;
-                                                    flex-direction: column;
-                                                    justify-content: center;
-                                                    align-items: center;
-                                                }
-
-                                                .img-general img {
-                                                    max-height: 100px;
-                                                }
-
-                                                .img-general .img2 {
-                                                    padding: 15px;
-                                                }
-                                            </style>
-
-
-                                            <div class='row'>
-                                                <div class='col-xs-12 col-sm-12'>
-                                                    <p>Nos unimos con el PNUMA para <strong>invitar a las organizaciones a que definan compromisos específicos por la movilidad eléctrica</strong> en alguno de los siguientes ejes:</p>
-                                                </div>
-                                            </div>
-
-                                            <div class="row fila-s8">
-                                                <div class='col-xs-2'>
-                                                    <div class='imagen text-right'>
-                                                        <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/path932.png' alt='icono barras' title='icono barras'>
-                                                    </div>
-                                                </div>
-                                                <div class='col-xs-9'>
-                                                    <p><strong>Generar mayor oferta vehicular de cero emisiones a precios competitivos</strong> para las diferentes tipologías vehiculares.</p>
-                                                </div>
-                                            </div>
-
-                                            <div class="row fila-s8">
-                                                <div class='col-xs-2'>
-                                                    <div class='imagen text-right'>
-                                                        <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/path931.png' alt='icono vehiculo tipo camioneta' title='icono vehiculo tipo camioneta'>
-                                                    </div>
-                                                </div>
-                                                <div class='col-xs-9'>
-                                                    <p><strong>Adquirir flotas motorizadas de cero emisiones</strong> por parte de las organizaciones empresariales.</p>
-                                                </div>
-                                            </div>
-
-                                            <div class="row fila-s8">
-                                                <div class='col-xs-2'>
-                                                    <div class='imagen text-right'>
-                                                        <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/path961.png' alt='icono herramieta para la carga de bateria' title='icono herramieta para la carga de bateria'>
-                                                    </div>
-                                                </div>
-                                                <div class='col-xs-9'>
-                                                    <p><strong>Instalar infraestructura de recarga pública y privada, gestionar espacios para la misma.</strong></p>
-                                                </div>
-                                            </div>
-
-                                            <div class="row fila-s8">
-                                                <div class='col-xs-2'>
-                                                    <div class='imagen text-right'>
-                                                        <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/path975.png' alt='icono bombilla con engranje' title='icono bombilla con engranje'>
-                                                    </div>
-                                                </div>
-                                                <div class='col-xs-9'>
-                                                    <p><strong>Impulsar la innovación, investigación, empleabilidad y desarrollo de capacidades técnicas </strong>en toda la cadena valor de la movilidad eléctrica con enfoque de género y diferencial.</p>
-                                                </div>
-                                            </div>
-                                            <div class="row fila-s8">
-                                                <div class='col-xs-2'>
-                                                    <div class='imagen text-right'>
-                                                        <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/path989.png' alt='icono vehiculo tipo camioneta' title='icono vehiculo tipo camioneta'>
-                                                    </div>
-                                                </div>
-                                                <div class='col-xs-9'>
-                                                    <p><strong>Promover mejores condiciones financieras y de seguros</strong> en toda la cadena valor y con efoque diferencial.</p>
-                                                </div>
-                                            </div>
-                                            <style>
-                                                .fila-s8 {
-                                                    padding: 10px;
-                                                }
-                                            </style>
-
-                                        </div>
-                                        <br>
-                                        <div class='row'>
-                                            <div class='col-xs-12'>
-                                                <p><strong>Si tu organización quiere hacer parte de esta transición y visibilizar sus esfuerzos a nivel internacional, solo debe diligenciar el siguiente formato: </strong><a href="https://docs.google.com/document/d/1XrmtuvMesZeVmXvxtOMzv0tU4fm_Zk9V/edit" target="_blank" rel="noopener noreferrer">https://docs.google.com/document/d/1XrmtvMesZeVmXvxtOMzv0tU4fm_Zk9V/edit</a></p>
-                                                <p>Y enviarlo a los correos <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y <a href="mailto:german.diazrivas@un.org">german.diazrivas@un.org</a></p>
-                                                <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica. <a href="https://drive.google.com/file/d/1XbddBGDIDbzLrky8-6rQDE5W8lmrrHZr/view?usp=sharing">Conócelos haciendo clic aquí.</a></p>
-
-                                            </div>
-                                        </div>
-
-
-
-                                        <div id="carousel_empresas" class="carousel slide" data-ride="carousel">
-                                            <!-- Indicators -->
-                                            <ol class="carousel-indicators">
-                                                <li data-target="#carousel_empresas" data-slide-to="0" class="active"></li>
-                                                <li data-target="#carousel_empresas" data-slide-to="1"></li>
-                                                <li data-target="#carousel_empresas" data-slide-to="2"></li>
-                                            </ol>
-
-                                            <!-- Wrapper for slides -->
-                                            <div class="carousel-inner">
-                                                <div class="item active">
-                                                    <div class='row logos'>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akt_electric_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akuai_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_andemos_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_enel_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_colturex_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_defencarga_400.png" alt="">
-                                                        </div>
-                                                    </div>
-
-                                                </div>
-                                                <div class="item">
-                                                    <div class="row logos">
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_uniandes_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_evoelectric_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_girozero_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_heliox_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_insepet_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_navisaf_400.png" alt="">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <div class="row logos">
-                                                        <div class='col-xs-12 col-sm-2 col-sm-offset-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_piot_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_renting_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_solistica_400.png" alt="">
-                                                        </div>
-                                                        <div class='col-xs-12 col-sm-2'>
-                                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <!-- Left and right controls -->
-                                            <a class="left carousel-control" href="#carousel_empresas" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left"></span>
-                                                <span class="sr-only">Anterior</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#carousel_empresas" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right"></span>
-                                                <span class="sr-only">Siguiente</span>
-                                            </a>
-                                        </div>
-
-                                        <style>
-                                            #carousel_empresas {
-                                                margin: 0px 50px;
-                                            }
-
-                                            #carousel_empresas .carousel-caption {
-                                                right: 10%;
-                                                left: 10%;
-                                                /* text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5); */
-                                                background-color: rgba(0, 0, 0, 0.9);
-                                                padding: 15px;
-                                            }
-
-                                            #carousel_empresas .carousel-caption h3 {
-                                                color: rgba(255, 255, 255, 1);
-                                                font-family: 'Montserrat', sans-serif;
-                                                font-size: 30px;
-                                                font-weight: 700;
-                                                text-align: center;
-                                                line-height: 1.4;
-                                            }
-
-                                            #carousel_empresas .carousel-control {
-                                                color: rgb(28, 32, 70, 1) !important;
-                                                opacity: 1;
-                                                background-color: #00000000;
-                                                filter: none;
-                                                opacity: 1;
-                                            }
-
-                                            #carousel_empresas .logos {
-                                                margin: 0px;
-                                            }
-
-                                            #carousel_empresas .logos img {
-                                                margin: auto;
-                                                max-height: 150px;
-                                                min-width: 60px;
-                                                width: auto;
-                                            }
-
-                                            #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                            #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                            #carousel_empresas .carousel-control .icon-next,
-                                            #carousel_empresas .carousel-control .icon-prev {
-                                                top: calc(50% - 20px) !important;
-                                            }
-
-                                            #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                            #carousel_empresas .carousel-control .icon-next {
-                                                right: 10% !important;
-                                                margin-right: -10px;
-                                            }
-
-                                            #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                            #carousel_empresas .carousel-control .icon-prev {
-                                                left: 10% !important;
-                                                margin-left: -10px;
-                                            }
-
-                                            @media(max-width:767px) {
-                                                #carousel_empresas {
-                                                    margin: 0px;
-                                                }
-
-                                                .carousel-inner>.item {
-                                                    position: relative;
-                                                    height: 400px;
-                                                }
-
-                                                #carousel_empresas {
-                                                    position: relative;
-                                                    height: auto;
-                                                }
-
-
-                                            }
-
-                                            #carousel_empresas .carousel-control.right,
-                                            #carousel_empresas .carousel-control.left {
-                                                background-image: none !important;
-                                                filter: none !important;
-                                                background-repeat: repeat-x;
-                                            }
-
-
-                                            @media screen and (min-width: 768px) {
-
-                                                #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                                #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                                #carousel_empresas .carousel-control .icon-next,
-                                                #carousel_empresas .carousel-control .icon-prev {
-
-                                                    width: 40px !important;
-                                                    height: 40px !important;
-                                                    font-size: 40px !important;
-                                                }
-
-                                                #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                                #carousel_empresas .carousel-control .icon-next {
-                                                    right: -40% !important;
-                                                    margin-right: -10px;
-                                                }
-
-                                                #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                                #carousel_empresas .carousel-control .icon-prev {
-                                                    left: -40% !important;
-                                                    margin-left: -10px;
-                                                }
-                                            }
-                                        </style>
-
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /#fin _investigacion -->
-
-                    </div>
-                    <!-- /#fin _transicion -->
-
-                    <!-- <style>
-                        #accordion_transicion .panel-title {
-                            font-weight: 700;
-                            text-align: initial;
-                        }
-
-                        #accordion_transicion .panel-body {
-                            padding: 5%;
-                        }
-                    </style> -->
+<!-- defensor --><!-- Google fonts - Montserrat  -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- Styles -->
+<style type="text/css">:root {
+        --color-primario: #20223D;
+        --color-secundario: #BBCE31;
+        --color-terciario: #bed000;
+        --color-cuaternario: #98A520;
+        --color-gris: #e5e5e5;
+        --color-gris-fuerte: #c5c5c5;
+        --color-blanco: #ffffff;
+        --color-negro: #191919;
+        --color-fondo: #333333;
+    }
+
+    .field-item.even .centertil{
+        visibility: hidden;
+        margin-top: -50px;
+    }
+
+    .region-content {
+        padding: 0px;
+        overflow: hidden;
+    }
+
+    .w-100 {
+        width: 100%;
+    }
+
+    .defensor {
+        max-width: 980px;
+        margin: auto;
+        padding-bottom: 20px;
+        word-break: break-word;
+        word-wrap: break-word;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        font-weight: 500;
+        text-align: left;
+        line-height: 1.5;
+        color: var(--color-primario);
+    }
+
+    .defensor .paragraph {
+        font-size: 15px;
+        font-weight: 500;
+        text-align: left;
+        line-height: 1.5;
+        color: var(--color-primario);
+    }
+</style>
+<!-- End Styles -->
+<!-- Set Wrapper -->
+<div class="container-fluid defensor">
+	<div class="set-wrapper">
+        <!-- Sección box header -->
+		<div class="box-header">
+			<div class="logo logo-ppal">
+                <img alt="logo - Defensor Ciudadano" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/recurso_3.png"></div>
+			<style type="text/css">
+            .box-header .logo-ppal {
+                    grid-area: cpte-logo-ppal;
+                    padding: 2em;
+                }
+
+                .box-header .logo-ppal img {
+                    max-width: 300px;
+                    margin: auto;
+                }
+			</style>
+			<div class="title title-h2-ppal">
+				<h2>Soy defensor del ciudadano</h2>
+			</div>
+			<style type="text/css">.box-header .title-h2-ppal {
+                    grid-area: cpte-title-ppal;
+                    background-color: var(--color-terciario);
+                }
+
+                .box-header .title-h2-ppal h2 {
+                    font-size: 24px;
+                    font-weight: 700;
+                    line-height: 1;
+                    text-align: center;
+                    margin: 0px;
+                    color: var(--color-primario);
+                    text-transform: uppercase;
+                    padding: 16px;
+
+                }
+			</style>
+			<div class="title title-h3-sdo">
+				<h3>¡Estoy para servirte!</h3>
+			</div>
+			<style type="text/css">.box-header .title-h3-sdo {
+                    grid-area: cpte-title-sdo;
+                    padding: 16px;
+                }
+
+                .box-header .title-h3-sdo h3 {
+                    font-size: 18px;
+                    font-weight: 600;
+                    text-align: center;
+                    line-height: 1;
+                    color: var(--color-blanco);
+                    text-transform: uppercase;
+                    margin: 0px;
+                }
+			</style>
+			<div class="imagen img-silueta-ppal">
+                <img alt="Imagen de funcionaria con el pulgar arriba" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/recurso_4.png" title="Imagen de funcionaria con el pulgar arriba"></div>
+			<style type="text/css">.box-header .img-silueta-ppal {
+                    grid-area: cpte-silueta;
+                    visibility: hidden;
+                    position: absolute;
+                }
+			</style>
+		</div>
+		<style type="text/css">.set-wrapper .box-header {
+                grid-area: box-header;
+                background-color: var(--color-primario);
+                background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/recurso_10.png');
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-blend-mode: soft-light;
+            }
+
+            @media(min-width:768px) {
+                .set-wrapper .box-header {
+                    display: grid;
+                    grid-auto-flow: dense;
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-rows: auto;
+                    grid-template-areas:
+                        'cpte-logo-ppal cpte-silueta'
+                        'cpte-title-ppal cpte-silueta'
+                        'cpte-title-sdo cpte-silueta';
+                    border-radius: 3em 3em 0 0;
+                }
+
+                .box-header .img-silueta-ppal {
+                    visibility: visible;
+                    position: relative;
+                    transform: scale(1.04);
+                    max-width: 350px;
+                    margin: auto;
+                    margin-top: -36px;
+
+                }
+
+                .box-header .title-h2-ppal {
+                    grid-area: cpte-title-ppal;
+                    background-color: var(--color-terciario);
+                    padding: 0px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                }
+
+            }
+
+            @media(min-width:992px) {
+                .box-header .img-silueta-ppal {
+                    visibility: visible;
+                    position: relative;
+                    transform: scale(1.04);
+                    max-width: 350;
+                    margin: auto;
+                    margin-top: -50px;
+                }
+            }
+		</style>
+		<!-- Sección box definicion -->
+		<div class="box-definicion">
+			<div class="paragraph ph-1">
+				<p>La Secretaría Distrital de Movilidad cuenta con la figura del <strong>Defensor de la Ciudadanía</strong>, como herramienta que garantiza el cumplimiento de los derechos y deberes a los ciudadanos, a obtener respuestas oportunas y de calidad a sus requerimientos, que sus quejas y reclamos sean solucionadas y que se establezcan mecanismos de participación en el diseño y prestación de servicios.</p>
+				<p><strong>En cumplimiento al Decreto 847 de 2019 y a la Resolución 078 de 2019, de la Secretaría Distrital de Movilidad.</strong></p>
+			</div>
+		</div>
+		<style type="text/css">.set-wrapper .box-definicion {
+                grid-area: box-definicion;
+                padding: 16px;
+            }
+
+            .box-definicion .ph-1 {
+                text-align: center;
+            }
+		</style>
+		<!-- Sección box cuando -->
+		<div class="box-cuando">
+			<div class="box-titulo">
+				<div class="icon ico-agenda"><img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/recurso_2.png"></div>
+
+				<div class="title title-h3">
+					<h3>¿Cuándo acudir?</h3>
+				</div>
+			</div>
+			<style type="text/css">.box-cuando .box-titulo {
+                    grid-area: cpte-titulo;
+                    display: grid;
+                    grid-auto-flow: dense;
+                    grid-template-columns: 100px auto;
+                    grid-template-rows: auto;
+
+                }
+
+                .box-cuando .box-titulo .ico-agenda {
+                    padding: 16px;
+                    /* height: px; */
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                .box-cuando .box-titulo .ico-agenda img {
+                    max-width: 80px;
+
+                }
+
+                .box-cuando .box-titulo .title-h3 {
+                    /* height: px; */
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                .box-cuando .box-titulo .title-h3 h3 {
+                    padding: 8px;
+                    margin: auto;
+                    /* font-size: 15px; */
+                    font-weight: 700;
+                    text-align: center;
+                    line-height: 1.3;
+                    color: var(--color-primario);
+                }
+
+                @media(min-width:768px) {
+                    .set-wrapper .box-cuando {
+                        margin-top: 12px;
+                        border-radius: 3em 0 0 0;
+                    }
+
+                    .set-wrapper .box-definicion {
+                        grid-area: box-definicion;
+                        padding: 16px;
+                        display: flex;
+                        align-items: center;
+                    }
+                }
+
+                @media(min-width:992px) {}
+			</style>
+			<div class="paragraph ph-2">
+				<p><strong>Si tu PQRS no fue resuelta u obtuviste una respuesta incompleta y oportuna, podrás hacer una reiteración.</strong> En esta situación, luego de haber efectuado la reiteración, continúas obteniendo la misma respuesta que no te satisface o responde de fondo a la solicitud, podrás requerir una cita con el defensor del ciudadano para buscar una solución definitiva.</p>
+			</div>
+		</div>
+		<style type="text/css">.set-wrapper .box-cuando {
+                grid-area: box-cuando;
+                background-color: var(--color-terciario);
+            }
+
+            .box-cuando .ph-2 {
+                padding: 16px;
+                margin: 8px;
+            }
+
+            .box-cuando .ph-2 p {
+                text-align: center;
+            }
+		</style>
+		<!-- Sección box funciones -->
+		<div class="box-funciones">
+			<div class="box-titulo">
+				<div class="icon ico-agenda"><img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/icono2.png"></div>
+
+				<div class="title title-h3">
+					<h3>¿Cuáles son las funciones del Defensor de la Ciudadanía?</h3>
+				</div>
+			</div>
+			<style type="text/css">.box-funciones .box-titulo {
+                    grid-area: cpte-titulo;
+                    display: grid;
+                    grid-auto-flow: dense;
+                    grid-template-columns: 100px auto;
+                    grid-template-rows: auto;
+
+                }
+
+                .box-funciones .box-titulo .ico-agenda {
+                    padding: 16px;
+                    /* height: px; */
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                .box-funciones .box-titulo .ico-agenda img {
+                    max-width: 80px;
+
+                }
+
+                .box-funciones .box-titulo .title-h3 {
+                    /* height: px; */
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                .box-funciones .box-titulo .title-h3 h3 {
+                    padding: 8px;
+                    margin: auto;
+                    /* font-size: 15px; */
+                    font-weight: 700;
+                    text-align: center;
+                    line-height: 1.3;
+                    color: var(--color-negro);
+                }
+			</style>
+		</div>
+		<style type="text/css">.set-wrapper .box-funciones {
+                grid-area: box-funciones;
+                background: var(--color-cuaternario)
+            }
+		</style>
+		<!-- Sección box col-uno -->
+		<div class="box-col box-col-uno">
+			<ul>
+				<li><strong>Ser vocero</strong> de los ciudadanos para la protección de sus derechos y conocer sus deberes.</li>
+				<li><strong>Conocer y hacer</strong> seguimiento a los requerimientos, quejas, reclamos o solicitudes de los ciudadanos por el posible incumplimiento de las normatividades vigentes, dentro de los tiempos establecidos; que rigen el desarrollo de los trámites y servicios que presta la entidad.</li>
+				<li><strong>Promover y divulgar</strong> la figura del Defensor del Ciudadano y sus actividades a la ciudadanía.</li>
+				<li><strong>Diseñar e Implementar</strong> estrategias acerca de los derechos y deberes de la ciudadanía.</li>
+				<li><strong>Ser vocero</strong> de los ciudadanos para la protección de sus derechos y conocer sus deberes.</li>
+			</ul>
+		</div>
+		<style type="text/css">.set-wrapper .box-col-uno {
+                grid-area: box-col-uno;
+                padding: 16px 16px 0px 16px;
+            }
+		</style>
+		<!-- Sección box col-dos -->
+		<div class="box-col box-col-dos">
+			<ul>
+				<li><strong>Conocer y hacer</strong> seguimiento a los requerimientos, quejas, reclamos o solicitudes de los ciudadanos por el posible incumplimiento de las normatividades vigentes, dentro de los tiempos establecidos; que rigen el desarrollo de los trámites y servicios que presta la entidad.</li>
+				<li><strong>Promover y divulgar</strong> la figura del Defensor del Ciudadano y sus actividades a la ciudadanía.</li>
+				<li><strong>Diseñar e Implementar</strong> estrategias acerca de los derechos y deberes de la ciudadanía.</li>
+			</ul>
+		</div>
+		<style type="text/css">.set-wrapper .box-col-dos {
+                grid-area: box-col-dos;
+                padding: 0px 16px 16px 16px;
+            }
+		</style>
+		<!-- Sección box footer -->
+		<div class="box-footer">
+			<div class="logo logo-footer"><img alt="logo Trato digno al ciudadano es transparencia" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/logo.png"></div>
+		</div>
+		<style type="text/css">.set-wrapper .box-footer {
+                grid-area: box-footer;
+
+                background-color: var(--color-secundario);
+                height: 50px;
+                border-top: solid 10px var(--color-primario);
+                border-bottom: solid 10px var(--color-primario);
+                margin-top: 180px;
+            }
+
+            .box-footer .logo-footer {
+                margin-top: -190px;
+            }
+
+            .box-footer .logo-footer img {
+                max-width: 280px;
+                margin: auto;
+            }
+
+            @media(min-width:768px) {
+
+                .box-footer .logo-footer img {
+                    max-width: 280px;
+                    float: right;
+                    margin-right: 24px;
+                }
+            }
+
+            @media(min-width:992px) {}
+		</style>
+		<div class="s4">
+			<div class="box-btn">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="btn-defensor"><a href="https://www.movilidadbogota.gov.co/web/govi-sdqs/crear">Realiza aquí tu solicitud al Defensor del Ciudadano </a></div>
+					</div>
+				</div>
+			</div>
+
+			<hr>
+			<h3 class="text-center">Informes Defensor al Ciudadano</h3>
+			<br>
+			<!-- Sección box collapse -->
+			<div class="box-collapse">
+				<div class="panel-group" id="accordion"><!-- collapse_defensor2022 -->
+					<div class="panel panel-primary">
+						<div class="panel-heading" id="heading_defensor2022" role="tab">
+							<h4 class="panel-title"><a aria-controls="collapse_defensor2022" aria-expanded="true" data-parent="#accordion" data-toggle="collapse" href="#collapse_defensor2022" role="button">2022 </a></h4>
+						</div>
+
+						<div aria-labelledby="heading_defensor2022" class="panel-collapse collapse in" id="collapse_defensor2022" role="tabpanel">
+							<div class="panel-body">
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_del_defensor_del_ciudadano_i_semestre_de_2022-_vf.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2022</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-01-2023/informe_del_defensor_del_ciudadano_ii_semestre_de_2022_brr.docx_1_1.pdf">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2022</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_anexo_al_informe_semestral_de_gestion_defensor_de_la_ciudadania_-_buenas_practicas_i_semestre_2021.pdf" target="_blank">INFORME ANEXO AL INFORME SEMESTRAL DE GESTIÓN DEFENSOR DE LA CIUDADANÍA - BUENAS PRÁCTICAS I SEMESTRE 2022</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2023/informe_anexo_al_informe_semestral_de_gestion_defensor_de_la_ciudadania_buenas_practicas_ii_semestre_2022.pdf">INFORME ANEXO BUENAS PRACTICAS II SEMESTRE</a></p>
+							</div>
+						</div>
+					</div>
+					<!-- /#fin _defensor2022 -->
+
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse1">2021</a></h4>
+						</div>
+
+						<div class="panel-collapse collapse" id="collapse1">
+							<div class="panel-body">
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/informe_defensor_de_la_ciudadania_ii_semestre_2021_.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2021</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-07-2021/informe_defensor_del_ciudadano_i_semestre_2021.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2021</a></p>
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse2">2020</a></h4>
+						</div>
+
+						<div class="panel-collapse collapse" id="collapse2">
+							<div class="panel-body">
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-02-2021/informe_defensor_del_ciudadano_ii_semestre_2020.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2020</a></p>
+
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-07-2020/-informe_defensor_i_semestre_2020.doc_1.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2020</a></p>
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse3">2019</a></h4>
+						</div>
+
+						<div class="panel-collapse collapse" id="collapse3">
+							<div class="panel-body">
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-02-2020/informe_defensor_del_ciudadano_ii_semestre_2019.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2019</a></p>
+
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/2019-07-29/informe_defensor_del_ciudadano_i_semestre_2019.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2019</a></p>
+							</div>
+						</div>
+					</div>
+
+					<div class="panel panel-primary">
+						<div class="panel-heading">
+							<h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse4">2018</a></h4>
+						</div>
+
+						<div class="panel-collapse collapse" id="collapse4">
+							<div class="panel-body">
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/2019-02-05/Informe%20%20Defensor%20II%20SEMESTRE%202018%20FINAL.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2018</a></p>
+
+								<p><a href="http://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/2018-09-03/INFORME%20DEFENSOR%20DEL%20CIUDADANO%20I%20SEMESTRE%202018.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2018</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<style type="text/css">.seccion .box-collapse {
+                    grid-area: box-collapse;
+                }
+			</style>
+			<hr>
+			<div class="box-btn">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="btn-defensor"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-07-2021/protocolo_de_la_figura_del_defensor_al_ciudadano.pdf">Protocolo de la Figura del Defensor al Ciudadano </a></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<style type="text/css">.set-wrapper .s4 {
+                grid-area: s4;
+            }
+
+            .set-wrapper .s4 .btn-defensor {
+                background: #1C1D3C !important;
+                color: #fff;
+                border-radius: 0px;
+                border: none;
+                font-size: 18px !important;
+                font-family: 'Montserrat', sans-serif !important;
+                font-weight: 700;
+                padding: 15px 20px;
+                text-align: center;
+                -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+                box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
+            }
+
+            .set-wrapper .s4 .btn-defensor a {
+                color: var(--color-blanco);
+
+            }
+            .set-wrapper .s4 .btn-defensor:hover {
+                background: #c6d21d !important;
+                color: #000;
+                -webkit-box-shadow: none;
+                box-shadow: none;
+            }
+
+            .set-wrapper .s4 .btn-defensor:hover a{
+                color: var(--color-negro);
+
+            }
+
+            .s4 .glyphicon-chevron-right::before {
+                color: var(--color-negro) !important;
+            }
+
+            .s4 .glyphicon-chevron-left::before {
+                color: var(--color-negro) !important;
+            }
+
+            .s4 .panel-heading {
+                border-color: var(--color-gris) !important;
+                background-color: var(--color-gris) !important;
+                background-image: none !important;
+            }
+
+            .s4 .panel-heading .panel-title a {
+                text-decoration: none;
+                color: var(--color-negro) !important;
+                font-size: 18px;
+                font-weight: 600;
+                letter-spacing: 1px;
+            }
+
+            .s4 .panel-heading .panel-title a:after {
+                font-family: 'Glyphicons Halflings';
+                content: "\e080";
+                float: right;
+                color: var(--color-negro);
+                font-size: 18px;
+            }
+
+            .s4 .panel-heading .panel-title a.collapsed:after {
+                content: "\e114";
+            }
+            .s4 .panel-primary{
+                border-color: var(--color-gris-fuerte);
+            }
+            .s4 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
+                border-top-color: var(--color-gris-fuerte);
+            }
+            @media(min-width:768px){
+                .set-wrapper .s4{
+                padding: 3em;
+                }
+            }
+            @media(min-width:992px){}
+		</style>
+	</div>
+	<style type="text/css">.set-wrapper {
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas:
+                'box-header'
+                'box-definicion'
+                'box-cuando'
+                'box-funciones'
+                'box-col-uno'
+                'box-col-dos'
+                'box-footer'
+                's4';
+
+        }
+
+        .set-wrapper .box-col ul {
+            padding-left: 2rem;
+            list-style-type: none;
+        }
+
+        .set-wrapper .box-col li {
+            padding-left: 2rem;
+            margin-top: 12px;
+            background-image: url(https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/recurso_5.png);
+            background-position: 0 5px;
+            background-size: 1.6rem 1.6rem;
+            background-repeat: no-repeat;
+        }
+
+        @media(min-width:768px) {
+            .set-wrapper {
+                display: grid;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: auto;
+                grid-template-areas:
+                    'box-header box-header'
+                    'box-definicion box-cuando'
+                    'box-funciones box-funciones'
+                    'box-col-uno box-col-dos'
+                    'box-footer box-footer'
+                    's4 s4';
+                margin-top: 80px;
+
+            }
+
+            .set-wrapper .box-footer {
+                grid-area: box-footer;
+
+                background-color: var(--color-secundario);
+                height: 50px;
+                border-top: solid 10px var(--color-primario);
+                border-bottom: solid 10px var(--color-primario);
+                margin-top: 50px;
+            }
+        }
+
+        @media(min-width:992px) {
+            .set-wrapper {}
+        }
+	</style>
+</div>
+
+<p><br>
+	<!-- End Set Wrapper --><!-- End defensor  --></p>

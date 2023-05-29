@@ -39,5 +39,6 @@
         }
         .p-10{
             padding: 10%;
+            color: rgba(77, 84, 31, 1);
         }
     </style>

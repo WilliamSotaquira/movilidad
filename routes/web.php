@@ -263,4 +263,7 @@ Route::view('/2023/03/calendario', '2023/03/calendario');
 Route::view('/2023/04/rlu', '2023/04/rlu');
 Route::view('/2023/04/arm', '2023/04/arm');
 
+// Contenido Mayo 2023
+Route::view('/2023/05/trabajo', '2023/05/trabajo');
+Route::view('/2023/05/menu', '2023/05/menu');
 
