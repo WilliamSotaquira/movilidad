@@ -21,7 +21,7 @@
         --color-fondo: #333333;
     }
 
-    .field-item.even .centertil{
+    .field-item.even .centertil {
         visibility: hidden;
         margin-top: -50px;
     }
@@ -308,7 +308,7 @@
                     <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/icono2.png">
                 </div>
                 <div class="title title-h3">
-                    <h3>¿Cuáles son las funciones del Defensor de la Ciudadanía?</h3>
+                    <h3>¿Cuáles son las funciones de la Defensora de la ciudadanía?</h3>
                 </div>
             </div>
             <style>
@@ -364,11 +364,10 @@
         <!-- Sección box col-uno -->
         <div class="box-col box-col-uno">
             <ul>
-                <li><strong>Ser vocero</strong> de los ciudadanos para la protección de sus derechos y conocer sus deberes.</li>
-                <li><strong>Conocer y hacer</strong> seguimiento a los requerimientos, quejas, reclamos o solicitudes de los ciudadanos por el posible incumplimiento de las normatividades vigentes, dentro de los tiempos establecidos; que rigen el desarrollo de los trámites y servicios que presta la entidad.</li>
+                <li><strong>Ser vocero</strong> de los ciudadanos y las ciudadanas para la protección de sus derechos y conocer sus deberes.</li>
+                <li><strong>Conocer y hacer </strong>seguimiento a los requerimientos, quejas, reclamos o solicitudes de los ciudadanos por el posible incumplimiento de las normatividades vigentes, dentro de los tiempos establecidos; que rigen el desarrollo de los trámites y servicios que presta la entidad.</li>
                 <li><strong>Promover y divulgar</strong> la figura del Defensor del Ciudadano y sus actividades a la ciudadanía.</li>
                 <li><strong>Diseñar e Implementar</strong> estrategias acerca de los derechos y deberes de la ciudadanía.</li>
-                <li><strong>Ser vocero</strong> de los ciudadanos para la protección de sus derechos y conocer sus deberes.</li>
             </ul>
         </div>
         <style>
@@ -381,9 +380,10 @@
         <!-- Sección box col-dos -->
         <div class="box-col box-col-dos">
             <ul>
-                <li><strong>Conocer y hacer</strong> seguimiento a los requerimientos, quejas, reclamos o solicitudes de los ciudadanos por el posible incumplimiento de las normatividades vigentes, dentro de los tiempos establecidos; que rigen el desarrollo de los trámites y servicios que presta la entidad.</li>
-                <li><strong>Promover y divulgar</strong> la figura del Defensor del Ciudadano y sus actividades a la ciudadanía.</li>
-                <li><strong>Diseñar e Implementar</strong> estrategias acerca de los derechos y deberes de la ciudadanía.</li>
+                <li><strong>Ser mediador</strong> entre la ciudadanía y la Entidad en pro de solucionar de manera oportuna, clara y efectiva las diferencias que se presentan en la relación Estado-ciudadano-ciudadana.</li>
+                <li><strong>Generar reportes</strong> a la Secretaría General de la Alcaldía Mayor de Bogotá, D.C., y la Veeduría Distrital.</li>
+                <li>Las demás que se requieran para el ejercicio eficiente de las funciones asignadas.</li>
+
             </ul>
         </div>
         <style>
@@ -455,9 +455,10 @@
 
                         <div aria-labelledby="heading_defensor2022" class="panel-collapse collapse in" id="collapse_defensor2022" role="tabpanel">
                             <div class="panel-body">
-                                <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_del_defensor_del_ciudadano_i_semestre_de_2022-_vf.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2022</a></p>
-
-                                <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_anexo_al_informe_semestral_de_gestion_defensor_de_la_ciudadania_-_buenas_practicas_i_semestre_2021.pdf" target="_blank">INFORME ANEXO AL INFORME SEMESTRAL DE GESTIÓN DEFENSOR DE LA CIUDADANÍA - BUENAS PRÁCTICAS I SEMESTRE 2022</a></p>
+                            <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_del_defensor_del_ciudadano_i_semestre_de_2022-_vf.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2022</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-01-2023/informe_del_defensor_del_ciudadano_ii_semestre_de_2022_brr.docx_1_1.pdf">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2022</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2022/informe_anexo_al_informe_semestral_de_gestion_defensor_de_la_ciudadania_-_buenas_practicas_i_semestre_2021.pdf" target="_blank">INFORME ANEXO AL INFORME SEMESTRAL DE GESTIÓN DEFENSOR DE LA CIUDADANÍA - BUENAS PRÁCTICAS I SEMESTRE 2022</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2023/informe_anexo_al_informe_semestral_de_gestion_defensor_de_la_ciudadania_buenas_practicas_ii_semestre_2022.pdf">INFORME ANEXO BUENAS PRACTICAS II SEMESTRE</a></p>
                             </div>
                         </div>
                     </div>
@@ -470,9 +471,8 @@
 
                         <div class="panel-collapse collapse" id="collapse1">
                             <div class="panel-body">
-                                <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/informe_defensor_de_la_ciudadania_ii_semestre_2021_.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2021</a></p>
-
-                                <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-07-2021/informe_defensor_del_ciudadano_i_semestre_2021.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2021</a></p>
+                            <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2022/informe_defensor_de_la_ciudadania_ii_semestre_2021_.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2021</a></p>
+								<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-07-2021/informe_defensor_del_ciudadano_i_semestre_2021.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2021</a></p>
                             </div>
                         </div>
                     </div>
@@ -558,6 +558,7 @@
                 color: var(--color-blanco);
 
             }
+
             .set-wrapper .s4 .btn-defensor:hover {
                 background: #c6d21d !important;
                 color: #000;
@@ -565,7 +566,7 @@
                 box-shadow: none;
             }
 
-            .set-wrapper .s4 .btn-defensor:hover a{
+            .set-wrapper .s4 .btn-defensor:hover a {
                 color: var(--color-negro);
 
             }
@@ -603,18 +604,22 @@
             .s4 .panel-heading .panel-title a.collapsed:after {
                 content: "\e114";
             }
-            .s4 .panel-primary{
+
+            .s4 .panel-primary {
                 border-color: var(--color-gris-fuerte);
             }
-            .s4 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
+
+            .s4 .panel-primary>.panel-heading+.panel-collapse>.panel-body {
                 border-top-color: var(--color-gris-fuerte);
             }
-            @media(min-width:768px){
-                .set-wrapper .s4{
-                padding: 3em;
+
+            @media(min-width:768px) {
+                .set-wrapper .s4 {
+                    padding: 3em;
                 }
             }
-            @media(min-width:992px){}
+
+            @media(min-width:992px) {}
         </style>
 
 
