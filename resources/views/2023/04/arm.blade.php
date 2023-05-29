@@ -39,38 +39,45 @@
 
 
 
-    <!-- Sección box video-ppal -->
-    <div class="box-video-ppal">
-        <div class="video video-ppal video-16by9">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe width='100%' src='https://www.youtube.com/embed/IpKKmv9vzEQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
-            </div>
-        </div>
-    </div>
-    <style>
-        .set-wrapper .box-video-ppal {
-            grid-area: box-video-ppal;
-            padding: 0 3em 2em 3em;
-
-        }
-    </style>
-
-
     <!-- Sección box pills-hz -->
     <div class="box-pills-hz">
 
-        <ul class="nav nav-pills nav-justified">
+        <ul id="pills-arm" class="nav nav-pills nav-justified">
             <li class="active"><a data-toggle="pill" href="#que">¿Qué es?</a></li>
             <li><a data-toggle="pill" href="#proyectos">Proyectos</a></li>
             <li><a data-toggle="pill" href="#noticias">Noticias</a></li>
             <li><a data-toggle="pill" href="#normatividad">Normatividad</a></li>
         </ul>
 
+        <style>
+            #pills-arm li>a {
+                position: relative;
+                display: block;
+                padding: 10px 15px;
+                border: #dbab2d solid 2px !important;
+                margin: 0.5em !important;
+            }
+        </style>
+        <style>
+            #pills-arm li.active>a {
+                position: relative;
+                display: block;
+                padding: 10px 15px;
+                border: #0a4064 solid 2px !important;
+                margin: 0.5em !important;
+            }
+        </style>
+
 
         <div class="tab-content">
             <div id="que" class="tab-pane fade in active">
-                <div class="imagen  img-arm-1">
+                <!-- <div class="imagen  img-arm-1">
                     <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-04-2023/image_arm_003.webp" alt="hombre sonríe junto a su bicicleta" title="hombre sonríe junto a su bicicleta">
+                </div> -->
+                <div class="video video-ppal video-16by9">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe width='100%' src='https://www.youtube.com/embed/IpKKmv9vzEQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                    </div>
                 </div>
                 <div class="title title-h3">
                     <h3>¿Qué es?</h3>
@@ -88,6 +95,12 @@
                     </ol>
                 </div>
             </div>
+
+            <style>
+                #que .video-ppal {
+                    padding: 1em 3em;
+                }
+            </style>
             <div id="proyectos" class="tab-pane fade">
                 <div class="imagen img-arm-2">
                     <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-04-2023/image_arm_001.webp" alt="" title="">
@@ -115,16 +128,16 @@
                 </div>
                 <div class="new">
                     <div class="imagen img-new">
-                        <a href="https://www.movilidadbogota.gov.co/web/noticia/la_encuesta_de_movilidad_2023_fortalecera_la_integracion_y_conectividad_con_la_region" target="_blank" rel="noopener noreferrer">
-                            <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/U37uWemE1NSGvOYJxeTGBUPb4h8nO8xyuJu0FWvwFyTLmVhyGmftxEpa0YuBQe4cqNWWiW0yAdZQF0Ppk8p9x6sql9ZRAShU5gwuVfDSfm7-70KKpxXoeVDROKQ6AvejAR2B9sjz8m11rM6ZkQQgtQ" alt="Foto - SDM: Lanzamiento de la Encuesta de Movilidad 2023 Bogotá - Región" title="Foto - SDM: Lanzamiento de la Encuesta de Movilidad 2023 Bogotá - Región">
+                        <a href="https://www.movilidadbogota.gov.co/web/noticia/la_primera_gran_obra_sera_el_intercambiador_de_la_calle_80_con_av_las_quintas" target="_blank" rel="noopener noreferrer">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/26-04-2023/sxcv-imagen_230426_r5.jpg" alt="Foto - La primera gran obra será el intercambiador de la calle 80 con Av. Las Quintas" title="Foto - La primera gran obra será el intercambiador de la calle 80 con Av. Las Quintas">
                         </a>
                     </div>
                     <div class="txt-new">
-                        <a href="https://www.movilidadbogota.gov.co/web/noticia/la_encuesta_de_movilidad_2023_fortalecera_la_integracion_y_conectividad_con_la_region" target="_blank" rel="noopener noreferrer">
-                            <h3>La Encuesta de Movilidad 2023 fortalecerá la integración y conectividad con la Región Metropolitana</h3>
+                        <a href="https://www.movilidadbogota.gov.co/web/noticia/la_primera_gran_obra_sera_el_intercambiador_de_la_calle_80_con_av_las_quintas" target="_blank" rel="noopener noreferrer">
+                            <h3>La primera gran obra será el intercambiador de la calle 80 con Av. Las Quintas</h3>
                         </a>
-                        <p><strong>Bogotá. Marzo 21 de 2023. (@SectorMovilidad)</strong> La Secretaría Distrital de Movilidad, en sinergia con las autoridades de Cundinamarca, hicieron apertura de la Encuesta de Movilidad 2023 Bogotá – Región, la cual comenzará a aplicarse en la capital del país el próximo 23 de marzo y en 20 municipios vecinos que conforman la Región Metropolitana a partir del 2 de mayo. </p>
-                        <a href="https://www.movilidadbogota.gov.co/web/noticia/la_encuesta_de_movilidad_2023_fortalecera_la_integracion_y_conectividad_con_la_region" target="_blank" rel="noopener noreferrer">Ver más</a>
+                        <p><strong>Bogotá, 26 de abril de 2023 (@SectorMovilidad).</strong> La Agencia Regional de Movilidad -ARM- nace para mejorar los desplazamientos de los ciudadanos en Bogotá y la región, gracias a que adelantará entre otros, proyectos de infraestructura que articulen el sistema regional de transporte.</p>
+                        <a href="https://www.movilidadbogota.gov.co/web/noticia/la_primera_gran_obra_sera_el_intercambiador_de_la_calle_80_con_av_las_quintas" target="_blank" rel="noopener noreferrer">Ver más</a>
                     </div>
                 </div>
 
@@ -245,7 +258,7 @@
         }
 
         .arm .title-h3 {
-            margin-top: 4em;
+            margin-top: 2em;
             margin-bottom: 2em;
         }
 
