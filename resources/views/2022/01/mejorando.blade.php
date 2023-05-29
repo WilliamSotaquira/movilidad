@@ -2658,55 +2658,145 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
-                                <!-- collapse abril23 -->
-                                <div class='panel panel-primary'>
-                                   <div class='panel-heading' role='tab' id='heading_abril23'>
-                                    <h4 class='panel-title'>
-                                       <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_abril23' aria-expanded='false' aria-controls='collapse_abril23'>
-                                        Boletines abril 2023
-                                       </a>
-                                    </h4>
-                                   </div>
-                                   <div id='collapse_abril23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_abril23' aria-expanded='false'>
-                                    <div class='panel-body'>
-                                        <div class='box-abril23'>
+                                    <!-- collapse mayo23 -->
+                                    <div class='panel panel-primary'>
+                                        <div class='panel-heading' role='tab' id='heading_mayo23'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_mayo23' aria-expanded='false' aria-controls='collapse_mayo23'>
+                                                    Boletines mayo 2023
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_mayo23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_mayo23' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-mayo23'>
 
 
-                                        <div class='col-xs-12'>
-                                            <a class='enlace' href='https://drive.google.com/file/d/17tNZdMTwu6vTA12F94kadNMRnRudrJnf/view?usp=share_link'>
-                                                <div class='btn-boletin'>
-                                                    <div class='titulo-boletin'>
-                                                        <h4>BOLETÍN 238</h4>
-                                                        <i>21 de abril de 202</i>
-                                                    </div>
-                                                    <div class='descripcion-boletin'>
-                                                        <p>¡Esta es la Bogotá que estamos construyendo! Así luce la calle 134, luego de los trabajos de la UMV. Rutas alternas por suspensión del servicio 135B Bosque Popular - Centro Histórico.</p>
-                                                    </div>
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/17lfYNjhU7djbOOLdH45G6BGLIFjFej28/view?usp=drive_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 243</h4>
+                                                                <i>26 de mayo de 2023</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>El IDU y la UMV le dan segundo uso a material de obras. Conozca el cierre total del acceso norte de la Av. Suba con Av. Calle 100. TransMilenio implementa ruta circular temporal en Molinos para población vulnerable.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
                                                 </div>
-                                            </a>
-                                        </div>
-                                        <div class='col-xs-12'>
-                                            <a class='enlace' href='https://drive.google.com/file/d/1izQj3YHPwn65GBGZlh6CT7Hw_cflM8bu/view?usp=share_link'>
-                                                <div class='btn-boletin'>
-                                                    <div class='titulo-boletin'>
-                                                        <h4>BOLETÍN 237</h4>
-                                                        <i>14 de abril de 2023</i>
-                                                    </div>
-                                                    <div class='descripcion-boletin'>
-                                                        <p>El trabajo del IDU no se detiene. Engativá se renueva con nuevas tecnologías. Cierres temporales en puntos de estaciones CAD y Puente Aranda.</p>
-                                                    </div>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1pZOElhXyTH9yypJIexhFfhLVxiVpQOKw/view?usp=drive_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 242</h4>
+                                                                <i>19 de mayo de 2023</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>El IDU invertirá cerca de $8.800 millones en el cambio de pisos en puentes peatonales. Cierre temporal en Vagón 1 de estación Transversal 86, sentido oriente – occidente. Olga Meléndez, una madre ejemplo de admiración, fortaleza y superación.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
                                                 </div>
-                                            </a>
+
+                                                <div class='col-xs-12'>
+                                                    <a class='enlace' href='https://drive.google.com/file/d/1NvdObqFOW_X8NZ2vS11NrM9IzotY4ltR/view?usp=drive_link'>
+                                                        <div class='btn-boletin'>
+                                                            <div class='titulo-boletin'>
+                                                                <h4>BOLETÍN 241</h4>
+                                                                <i>12 de mayo de 2023</i>
+                                                            </div>
+                                                            <div class='descripcion-boletin'>
+                                                                <p>Desvíos por obra de aceras y ciclorrutas en la calle 116. Nuevas vías para Sumapaz, gracias al trabajo de la UMV. Servicio ruta fácil 3 cambia de Portal y modifica su recorrido.</p>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1mnHfAxNeIN7pdGOlFLrJzSaij4k__6mT/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 240</h4>
+                                                                    <i>5 de mayo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Reforzamiento en once puentes vehiculares. ¡Con tinto y pan! los vecinos del barrio Versalles agradecieron la labor de los trabajadores de la Unidad de Mantenimiento Vial. Prenscripciones a categoría TransMilenio en SMARTFILMS 2023 vencen el 12 de mayo.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
                                         </div>
 
-                                        </div>
                                     </div>
-                                   </div>
 
-                                </div>
+                                    <!-- collapse abril23 -->
+                                    <div class='panel panel-default'>
+                                        <div class='panel-heading' role='tab' id='heading_abril23'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_abril23' aria-expanded='false' aria-controls='collapse_abril23'>
+                                                    Boletines abril 2023
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_abril23' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_abril23' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-abril23'>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1pIA2GQCKl3dz07n42fge7TRnwptUbaWT/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 239</h4>
+                                                                    <i>28 de abril de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>La obra del puente Venecia es mucho más que infraestructura vial. La UMV cuenta con canales de atención para que los ciudadanos soliciten el arreglo de la malla vial local. Regresan los servicios en el Eje Ambiental los domingos y festivos.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/17tNZdMTwu6vTA12F94kadNMRnRudrJnf/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 238</h4>
+                                                                    <i>21 de abril de 202</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>¡Esta es la Bogotá que estamos construyendo! Así luce la calle 134, luego de los trabajos de la UMV. Rutas alternas por suspensión del servicio 135B Bosque Popular - Centro Histórico.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1izQj3YHPwn65GBGZlh6CT7Hw_cflM8bu/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 237</h4>
+                                                                    <i>14 de abril de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El trabajo del IDU no se detiene. Engativá se renueva con nuevas tecnologías. Cierres temporales en puntos de estaciones CAD y Puente Aranda.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
 
                                     <!-- collapse marzo23 -->
-                                    <div class='panel panel-primary'>
+                                    <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_marzo23'>
                                             <h4 class='panel-title'>
                                                 <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_marzo23' aria-expanded='false' aria-controls='collapse_marzo23'>
@@ -2719,47 +2809,47 @@
                                                 <div class='box-marzo23'>
 
 
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1lOFwxUtjTMReJjVZxwN4zvmYiNXaBDFn/view?usp=share_link'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 236</h4>
-                                                                <i>31 de marzo de 2023</i>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1lOFwxUtjTMReJjVZxwN4zvmYiNXaBDFn/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 236</h4>
+                                                                    <i>31 de marzo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Inician cierres progresivos en el puente Venecia, en el sur de Bogotá. Por obras de la Primera Línea del Metro de Bogotá, se realizará cierre del acceso y vagón norte de la estación Calle 72 con avenida Caracas. Sede ‘La Elvira’, un lugar amigable para el medioambiente. Ajustes operacionales en 3 servicios duales desde el 1 de abril.</p>
+                                                                </div>
                                                             </div>
-                                                            <div class='descripcion-boletin'>
-                                                                <p>Inician cierres progresivos en el puente Venecia, en el sur de Bogotá. Por obras de la Primera Línea del Metro de Bogotá, se realizará cierre del acceso y vagón norte de la estación Calle 72 con avenida Caracas. Sede ‘La Elvira’, un lugar amigable para el medioambiente. Ajustes operacionales en 3 servicios duales desde el 1 de abril.</p>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
 
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1jLi6Wg3zAZ8Hk_HQFi5UMWaGP1XkHeJ3/view?usp=share_link'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 235</h4>
-                                                                <i>24 de marzo de 2023</i>
-                                                            </div>
-                                                            <div class='descripcion-boletin'>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1jLi6Wg3zAZ8Hk_HQFi5UMWaGP1XkHeJ3/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 235</h4>
+                                                                    <i>24 de marzo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
                                                                     <p>Empieza relocalización de redes menores para la construcción de la Primera Línea del Metro de Bogotá. Las entidades oficiales son las únicas con competencia para reparar la malla vial de la ciudad. Un importante tramo de la carrera séptima se transforma, gracias a las obras de intervención de la UMV. Cambios operacionales en TransMiCable por mantenimiento preventivo.</p>
+                                                                </div>
                                                             </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
 
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1kLpIn7-Jqx6nwsqCr56Mh6MaiWZ4D99u/view?usp=share_link'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 234</h4>
-                                                                <i>17 de marzo de 2023</i>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1kLpIn7-Jqx6nwsqCr56Mh6MaiWZ4D99u/view?usp=share_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 234</h4>
+                                                                    <i>17 de marzo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Avanza la obra de la extensión de la avenida Novena. La UMV hizo entrega a los “Cachivacheros” de un gran espacio público en el centro de Bogotá. Servicio zonal B924 Guaymaral amplía su horario a partir del 27 de marzo.</p>
+                                                                </div>
                                                             </div>
-                                                            <div class='descripcion-boletin'>
-                                                                <p>Avanza la obra de la extensión de la avenida Novena. La UMV hizo entrega a los “Cachivacheros” de un gran espacio público en el centro de Bogotá. Servicio zonal B924 Guaymaral amplía su horario a partir del 27 de marzo.</p>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
 
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://drive.google.com/file/d/1e6tvTrSD3wGfLUsrLuX4eSwmvuMzsX27/view?usp=share_link'>
