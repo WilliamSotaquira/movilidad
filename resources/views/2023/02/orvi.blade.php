@@ -237,7 +237,7 @@
             <p>Te acompañamos y orientamos como víctima directa, a tu cónyuge y/o familiar en primer y segundo grado de consanguinidad (padre, madre, hermana, hermano, hijo e hija natural o civil).</p>
         </div>
         <div class="buttons">
-            <a class="link-clic" href="https://docs.google.com/forms/d/e/1FAIpQLSc8B8JF8rKSgLddeq9w61IaY_3hwXHbkcoD_LVad_A5ytk6xg/viewform" target="_blank" rel="noopener noreferrer"><span class="icon-clic"></span>Solicita tu cita de atención</a>
+            <a class="link-clic" href="https://vus.circulemosdigital.com.co/#/login" target="_blank" rel="noopener noreferrer"><span class="icon-clic"></span>Solicita tu cita de atención</a>
             <a class="link-wa" href="https://wa.link/iq4xn4" target="_blank" rel="noopener noreferrer"><span class="icon-wa"></span>Chatea con nosotros</a>
 
         </div>
