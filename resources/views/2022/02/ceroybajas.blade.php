@@ -165,7 +165,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>810</h3>
+                                <h3>367</h3>
                                 <p>Motos registradas</p>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>2.630</h3>
+                                <h3>3.015</h3>
                                 <p>Carros Registrados</p>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>18.358</h3>
+                                <h3>20.042</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
@@ -377,19 +377,19 @@
                 </style>
 
                 <div class="box-noticia ">
-                    <i>Lunes, Febrero 6, 2023 - 17:51</i>
-                    <h3>Ascenso tecnológico: Distrito firma decreto que permitirá renovar parte de los vehículos de carga y así reducir emisiones contaminantes</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/ascenso_tecnologico_distrito_firma_decreto_que_permitira_renovar_parte_de_los_vehiculos_de" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Viernes, Abril 28, 2023 - 10:14</i>
+                    <h3>Marymount se convierte en el primer colegio de Bogotá en recibir la certificación Sello Oro de la Red de Cicloparqueaderos</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/marymount_se_convierte_en_el_primer_colegio_de_bogota_en_recibir_la_certificacion_sello_oro" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
                 <div class="box-noticia ">
-                    <i>Jueves, Febrero 2, 2023 - 09:25</i>
-                    <h3>Así inicia la jornada del Día sin carro y sin Moto en Bogotá</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/asi_inicia_la_jornada_del_dia_sin_carro_y_sin_moto_en_bogota" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Miércoles, Marzo 29, 2023 - 10:59</i>
+                    <h3>En el barrio Verbenal ahora los peatones cuentan con más y mejor espacio público</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/en_el_barrio_verbenal_ahora_los_peatones_cuentan_con_mas_y_mejor_espacio_publico" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
                 <div class="box-noticia ">
-                    <i>Martes, Enero 31, 2023 - 14:18</i>
-                    <h3>Bogotá se movilizará de forma sostenible</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_se_movilizara_de_forma_sostenible" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Domingo, Marzo 12, 2023 - 20:45</i>
+                    <h3>Corredor Verde Séptima: una obra crucial para cerca de 2 millones de bogotanos y el último compromiso por cumplir para completar la red vial de la primera línea del metro</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/corredor_verde_septima_una_obra_crucial_para_cerca_de_2_millones_de_bogotanos_y_el_ultimo" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
 
                 <!-- <div class="box-noticia ">
@@ -813,7 +813,7 @@
                                 <div class="parrafo">
                                     <p>Una de las soluciones es la transición desde el uso de vehículos que utilizan combustibles fósiles, hacia vehículos cero emisiones.</p>
                                     <p>Por esto, <strong>Bogotá está formulando la Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023-2040</strong> será la hoja de ruta para consolidar esta movilidad como una alternativa eficiente, accesible y competitiva en la ciudad y sus municipios aledaños.</p>
-                                    <p>Definiendo metas ambiciosas para cada modo de transporte:</p>
+                                    <!-- <p>Definiendo metas ambiciosas para cada modo de transporte:</p> -->
                                 </div>
                             </div>
                         </div>
@@ -840,7 +840,6 @@
                                                 <li>SITP: Desde 2022 sólo se contratarán buses cero emisiones <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% cero emisiones directas de material particulado a 2036</li>
                                                 <li>Taxis: incentivos para la renovación desde 2025 <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% eléctricos a 2036.</li>
                                             </ul>
-                                            <!-- <p>...</p> -->
                                         </div>
                                     </div>
                                     <div class="item">
@@ -892,6 +891,7 @@
                     </div>
                     <style>
                         #menu2 .carousel-caption {
+                            visibility: hidden;
                             right: 10%;
                             left: 10%;
                             /* text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5); */
