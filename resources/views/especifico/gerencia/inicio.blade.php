@@ -380,6 +380,23 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="thumbnail">
                         <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/30-05-2023/sxcv-imagen_230530_u2.png" alt="Agente realizando control a ciclomotor">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>La Secretaría de Movilidad define las restricciones de circulación a los ciclomotores en Bogotá </h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá, 29 de mayo de 2023 (@SectorMovilidad). La Secretaría Distrital de Movilidad expidió la resolución 137609 de 2023, que define las prohibiciones que tienen de circulación y tránsito los ciclomotores en algunos puntos y vías de la ciudad.</p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_define_las_restricciones_de_circulacion_a_los_ciclomotores_en" class="btn-cerrar" role="button">Ver Más</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
                             <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/ejy_kRVvvI1jZKqBwPQT10t_wgLzUHDuVqL1tOT6EH3rLFkFTnY6Cee84ixhZgIOE8p9S7vDzQUUZd5ibX4W1DZ2mHjFHpO9n9f695BeSaQ7155jgFPUDLKOgz4J5tk765mMMYkb8JkaBTNChGV4vg" alt="Foto - SDM: Operativo de control nocturno por velocidad">
                         </div>
                         <div class="caption">
@@ -411,22 +428,7 @@
                     </div>
                 </div>
 
-                <div class="col-xs-12 col-sm-4">
-                    <div class="thumbnail">
-                        <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://lh5.googleusercontent.com/lXGwhmJx04VSkfRJrN8wFFy38rxBQFj7eUdjIew8bk8vdcwagAT0CLq-uRPhZoBRB56iZbaJLdrNOWPTn6f34GKH73vNeyTHUnUP4vuDX_uyqhdjfsap26n-0bOYTDKvQ84hZrMZjAIbyznwUCR-yA" alt="Las cámaras de fotodetección están ubicadas en zonas de alto riesgo de siniestralidad vial">
-                        </div>
-                        <div class="caption">
-                            <div class="enc-caption">
-                                <h3>Más de 100 mil vehículos se han beneficiado con el contraflujo de la Av. de Las Américas</h3>
-                            </div>
-                            <div class="parrafo-caption">
-                                <p>Bogotá, 6 de febrero de 2023 (@SectorMovilidad). A través la sentencia C-321 de 2022, la Corte Constitucional estableció que el dueño de un vehículo es el responsable de su adecuada tenencia y debe velar porque el mismo cumpla con las normas de tránsito. </p>
-                            </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/sin_excusas_ahora_no_es_necesario_determinar_quien_conduce_un_vehiculo_para_sancionar_una" class="btn-cerrar" role="button">Ver Más</a></div>
-                        </div>
-                    </div>
-                </div>
+
 
             </div>
         </div>
