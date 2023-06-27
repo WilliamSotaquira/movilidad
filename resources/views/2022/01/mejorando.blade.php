@@ -2658,8 +2658,54 @@
                                 <!-- collapse_boletines21 -->
                                 <div class='panel-group ' id='accordion_boletines21' role='tablist ' aria-multiselectable='true'>
 
-                                    <!-- collapse mayo23 -->
+                                    <!-- collapse junio23 -->
                                     <div class='panel panel-primary'>
+                                        <div class='panel-heading' role='tab' id='heading_junio23'>
+                                            <h4 class='panel-title'>
+                                                <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_junio23' aria-expanded='false' aria-controls='collapse_junio23'>
+                                                    Boletines junio 2023
+                                                </a>
+                                            </h4>
+                                        </div>
+                                        <div id='collapse_junio23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_junio23' aria-expanded='false'>
+                                            <div class='panel-body'>
+                                                <div class='box-junio23'>
+
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1BBuY-G9ym4Nyj5pkW5w5btEwpOlVMau9/view?usp=drive_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 245</h4>
+                                                                    <i>9 de junio de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>IDU avanza en obras de conservación en puente de la calle 80 con avenida Boyacá. Los habitantes del barrio Los Cedros, en Usaquén, contarán con una vía mucho más segura para movilizarse. Refuerzo en 12 rutas zonales y alimentadoras por cierre de TransMiCable.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1iEEdNdYuNzYzd4RQ3CFAKoRiNVNXjtsz/view?usp=drive_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 244</h4>
+                                                                    <i>2 de junio de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Por obras en avenida 68, se desmontan algunos puentes peatonales. Próximas obras de Bogotá, beneficiarán a más de mil personas en Bosa. Ajuste operativo en tres servicios alimentadores por cierre preventivo de TransMiCable.</p>
+                                                                </div>
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- collapse mayo23 -->
+                                    <div class='panel panel-default'>
                                         <div class='panel-heading' role='tab' id='heading_mayo23'>
                                             <h4 class='panel-title'>
                                                 <a role='button' data-toggle='collapse' data-parent='#accordion_boletines21' href='#collapse_mayo23' aria-expanded='false' aria-controls='collapse_mayo23'>
@@ -2667,52 +2713,52 @@
                                                 </a>
                                             </h4>
                                         </div>
-                                        <div id='collapse_mayo23' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_mayo23' aria-expanded='false'>
+                                        <div id='collapse_mayo23' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_mayo23' aria-expanded='false'>
                                             <div class='panel-body'>
                                                 <div class='box-mayo23'>
 
 
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/17lfYNjhU7djbOOLdH45G6BGLIFjFej28/view?usp=drive_link'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 243</h4>
-                                                                <i>26 de mayo de 2023</i>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/17lfYNjhU7djbOOLdH45G6BGLIFjFej28/view?usp=drive_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 243</h4>
+                                                                    <i>26 de mayo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El IDU y la UMV le dan segundo uso a material de obras. Conozca el cierre total del acceso norte de la Av. Suba con Av. Calle 100. TransMilenio implementa ruta circular temporal en Molinos para población vulnerable.</p>
+                                                                </div>
                                                             </div>
-                                                            <div class='descripcion-boletin'>
-                                                                <p>El IDU y la UMV le dan segundo uso a material de obras. Conozca el cierre total del acceso norte de la Av. Suba con Av. Calle 100. TransMilenio implementa ruta circular temporal en Molinos para población vulnerable.</p>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
 
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1pZOElhXyTH9yypJIexhFfhLVxiVpQOKw/view?usp=drive_link'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 242</h4>
-                                                                <i>19 de mayo de 2023</i>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1pZOElhXyTH9yypJIexhFfhLVxiVpQOKw/view?usp=drive_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 242</h4>
+                                                                    <i>19 de mayo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>El IDU invertirá cerca de $8.800 millones en el cambio de pisos en puentes peatonales. Cierre temporal en Vagón 1 de estación Transversal 86, sentido oriente – occidente. Olga Meléndez, una madre ejemplo de admiración, fortaleza y superación.</p>
+                                                                </div>
                                                             </div>
-                                                            <div class='descripcion-boletin'>
-                                                                <p>El IDU invertirá cerca de $8.800 millones en el cambio de pisos en puentes peatonales. Cierre temporal en Vagón 1 de estación Transversal 86, sentido oriente – occidente. Olga Meléndez, una madre ejemplo de admiración, fortaleza y superación.</p>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
 
-                                                <div class='col-xs-12'>
-                                                    <a class='enlace' href='https://drive.google.com/file/d/1NvdObqFOW_X8NZ2vS11NrM9IzotY4ltR/view?usp=drive_link'>
-                                                        <div class='btn-boletin'>
-                                                            <div class='titulo-boletin'>
-                                                                <h4>BOLETÍN 241</h4>
-                                                                <i>12 de mayo de 2023</i>
+                                                    <div class='col-xs-12'>
+                                                        <a class='enlace' href='https://drive.google.com/file/d/1NvdObqFOW_X8NZ2vS11NrM9IzotY4ltR/view?usp=drive_link'>
+                                                            <div class='btn-boletin'>
+                                                                <div class='titulo-boletin'>
+                                                                    <h4>BOLETÍN 241</h4>
+                                                                    <i>12 de mayo de 2023</i>
+                                                                </div>
+                                                                <div class='descripcion-boletin'>
+                                                                    <p>Desvíos por obra de aceras y ciclorrutas en la calle 116. Nuevas vías para Sumapaz, gracias al trabajo de la UMV. Servicio ruta fácil 3 cambia de Portal y modifica su recorrido.</p>
+                                                                </div>
                                                             </div>
-                                                            <div class='descripcion-boletin'>
-                                                                <p>Desvíos por obra de aceras y ciclorrutas en la calle 116. Nuevas vías para Sumapaz, gracias al trabajo de la UMV. Servicio ruta fácil 3 cambia de Portal y modifica su recorrido.</p>
-                                                            </div>
-                                                        </div>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                    </div>
 
                                                     <div class='col-xs-12'>
                                                         <a class='enlace' href='https://drive.google.com/file/d/1mnHfAxNeIN7pdGOlFLrJzSaij4k__6mT/view?usp=share_link'>
