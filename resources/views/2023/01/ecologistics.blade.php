@@ -8,8 +8,9 @@
 
     <!-- Component title-center -->
     <div class="box-title-center">
-        <h2>Trabajo Inteligente</h2>
-        <h3>¡Súmate al cambio!</h3>
+        <div class="logo logo-ppal">
+            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/sxcv-imagen_230621_wi.png" alt="logo EcoLogistics ">
+        </div>
     </div>
     <style>
         .field-item.even .centertil {
@@ -19,29 +20,18 @@
 
         .set-wrapper .box-title-center {
             grid-area: box-title-center;
-            border-bottom: solid 2px rgba(77, 84, 31, 1);
+            border-bottom: solid 2px #404040;
             padding-bottom: 16px;
             margin-bottom: 24px;
         }
 
-        .box-title-center h2 {
-            text-align: center;
-            font-size: 32px;
-            font-weight: 700;
-            color: rgba(77, 84, 31, 1);
-            margin-bottom: 4px;
-
-        }
-
-        .box-title-center h3 {
-            text-align: center;
-            font-size: 24px;
-            font-weight: 700;
-            color: rgba(77, 84, 31, 1);
-            margin-top: 4px;
-
+        .box-title-center img {
+            max-width: 450px;
+            margin: auto;
+            padding: 2em;
         }
     </style>
+
 
     <!-- Component box carousel -->
     <div class="box-carousel">
@@ -55,26 +45,30 @@
                     <ol class="carousel-indicators">
                         <li data-target="#carousel-vertical" data-slide-to="0" class="active"></li>
                         <li data-target="#carousel-vertical" data-slide-to="1"></li>
+                        <li data-target="#carousel-vertical" data-slide-to="2"></li>
+                        <li data-target="#carousel-vertical" data-slide-to="3"></li>
+                        <li data-target="#carousel-vertical" data-slide-to="4"></li>
 
                     </ol>
 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <img src="https://via.placeholder.com/340x300/e5e5e5/252525?Text=Digital.com" alt="...">
-                            <div class="carousel-caption">
-                                <h3>...</h3>
-                                <p>...</p>
-                            </div>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750.png" alt="...">
                         </div>
                         <div class="item">
-                            <img src="https://via.placeholder.com/340x300/e5e5e5/252525?Text=Digital.com" alt="...">
-                            <div class="carousel-caption">
-                                <h3>...</h3>
-                                <p>...</p>
-                            </div>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_02.png" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_03.png" alt="...">
                         </div>
 
+                        <div class="item">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_05.png" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_06.png" alt="...">
+                        </div>
                     </div>
 
                     <!-- Controls -->
@@ -96,23 +90,28 @@
                     <ol class="carousel-indicators">
                         <li data-target="#carousel-horizontal" data-slide-to="0" class="active"></li>
                         <li data-target="#carousel-horizontal" data-slide-to="1"></li>
+                        <li data-target="#carousel-horizontal" data-slide-to="2"></li>
+                        <li data-target="#carousel-horizontal" data-slide-to="3"</li>
+                        <li data-target="#carousel-horizontal" data-slide-to="4"></li>
                     </ol>
 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
-                        <div class="item active">
-                            <img src="https://via.placeholder.com/980x400/e5e5e5/252525?Text=Digital.com" alt="...">
-                            <div class="carousel-caption">
-                                <h3>...</h3>
-                                <p>...</p>
-                            </div>
+                    <div class="item active">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_06.png" alt="...">
                         </div>
                         <div class="item">
-                            <img src="https://via.placeholder.com/980x400/e5e5e5/252525?Text=Digital.com" alt="...">
-                            <div class="carousel-caption">
-                                <h3>...</h3>
-                                <p>...</p>
-                            </div>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_02.png" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_03.png" alt="...">
+                        </div>
+
+                        <div class="item">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_05.png" alt="...">
+                        </div>
+                        <div class="item">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750.png" alt="...">
                         </div>
 
                     </div>
@@ -148,32 +147,33 @@
         }
 
         .box-carousel .carousel-control {
-            color: #A6B517;
+            color: #ffe145;
             opacity: 1;
         }
 
         .box-carousel .carousel-control:focus,
         .box-carousel .carousel-control:hover {
-            color: #A6B517;
+            color: #ffe145;
             opacity: 0.5;
         }
 
         .box-carousel .carousel-indicators li {
-            background-color: #A6B517;
-            border-color: rgba(77, 84, 31, 0.4);
+            background-color: #ffe145;
+            border-color: #40404050;
         }
 
         .box-carousel .carousel-indicators .active {
-            background-color: rgba(77, 84, 31, 1);
-            border-color: rgba(77, 84, 31, 0.4);
+            background-color: #404040;
+            border-color: #40404080;
         }
     </style>
 
     <!-- Component box title-paragraph -->
-    <div class="box-title-paragraph">
+    <div class="box-title-paragraph paragraph">
         <h3>¿Qué es el proyecto EcoLogistics?</h3>
-        <h4>¡Qué queremos!</h4>
-        <p>Que el Sector Movilidad adopte un modelo de trabajo innovador que beneficie a sus funcionarios, mediante alternativas de jornadas laborales dinámicas, una infraestructura tecnológica adecuada que permita promover altos estándares de productividad, así como la adecuada administración de espacios.</p>
+        <p>El proyecto EcoLogistics impulsa el transporte de carga bajo en carbono para ciudades sustentables. Esta iniciativa apoya ciudades en Argentina, India y Colombia para desarrollar e implementar planes sustentables de transporte de carga urbana con la creación de capacidades en actores claves.</p>
+        <p>Es financiado por la Iniciativa Internacional del Clima (IKI), del Ministerio Federal de Medio Ambiente, Protección de la Naturaleza y Seguridad Nuclear de Alemania (BMU) y ejecutado por ICLEI - Gobiernos Locales por la Sustentabilidad, con apoyo técnico de Despacio, Zaragoza Logistics Center (ZLC) y Smart Freight Centre (SFC)., Plan de Acción de Logística Urbana Baja en Carbono (LCAP-UF).</p>
+        <p>Es un documento que demuestra cómo Bogotá puede reducir sus emisiones de gases de efecto invernadero (GEI) en el sector de logística urbana. Este Plan contempla el sector de transporte de carretera, objeto de diagnóstico realizado por el equipo de Despacio e ICLEI, con apoyo de la administración pública de Bogotá y la Red de Logística Urbana (RLU), llevando en cuenta las tipologías vehiculares más comunes y utilizadas en las entregas de última milla.</p>
     </div>
     <style>
         .set-wrapper .box-title-paragraph {
@@ -182,7 +182,7 @@
         }
 
         .box-title-paragraph h3 {
-            color: rgba(77, 84, 31, 1);
+            color: #404040;
             margin: 32px 16px 8px 16px;
             /* text-transform: uppercase; */
             font-size: 24px;
@@ -208,175 +208,356 @@
     </style>
 
     <!-- Component box title-left -->
-    <div class="box-title-left">
-        <h3>Beneficios</h3>
+    <div class="box-title-left paragraph">
+        <h3>¿Qué busca?</h3>
     </div>
     <style>
         .set-wrapper .box-title-left {
             grid-area: box-title-left;
+            padding-top: 18px;
+            margin-top: 48px;
         }
 
         .box-title-left h3 {
-            color: rgba(77, 84, 31, 1);
+            color: #404040;
             margin: 32px 16px 8px 16px;
             font-size: 24px;
             font-weight: 700;
             margin-top: 32px;
+            margin-bottom: 24px;
         }
     </style>
 
-   <!-- Sección box bar-icons -->
-   <div class="box-bar-icons">
-       <div class="icon">
-           <a href="" target="_blank" rel="noopener noreferrer" title="">
-               <img src="https://via.placeholder.com/80x80" alt="icono de " width="80px">
-               <p>Movilidad inteligente</p>
-           </a>
-       </div>
-       <div class="icon">
-           <a href="" target="_blank" rel="noopener noreferrer" title="">
-               <img src="https://via.placeholder.com/80x80" alt="icono de " width="80px">
-               <p>Calidad de vida</p>
-           </a>
-       </div>
-       <div class="icon">
-           <a href="" target="_blank" rel="noopener noreferrer" title="">
-               <img src="https://via.placeholder.com/80x80" alt="icono de " width="80px">
-               <p>Optimización de espacios</p>
-           </a>
-       </div>
-       <div class="icon">
-           <a href="" target="_blank" rel="noopener noreferrer" title="">
-               <img src="https://via.placeholder.com/80x80" alt="icono de " width="80px">
-               <p>Productividad</p>
-           </a>
-       </div>
-       <div class="icon">
-           <a href="" target="_blank" rel="noopener noreferrer" title="">
-               <img src="https://via.placeholder.com/80x80" alt="icono de " width="80px">
-               <p>Reducción del ausentismo</p>
-           </a>
-       </div>
-   </div>
-   <style>
-       .set-wrapper .box-bar-icons {
-           grid-area: box-bar-icons;
-           display: grid;
-           gap: 8px;
-           grid-auto-flow: dense;
-           grid-template-columns: 1fr;
-           grid-template-rows: auto;
-           margin-bottom: 48px;
-       }
-
-       .box-bar-icons .icon a {
-           padding: 8px;
-           display: flex;
-           flex-direction: column;
-           justify-content: center;
-           align-items: center;
-       }
-
-       .box-bar-icons .icon a img {
-           width: 80px;
-           height: 80px;
-           object-fit: cover;
-           border-radius: 50%;
-           border: 2px solid rgba(77, 84, 31, 0.5);
-       }
-
-       .box-bar-icons .icon a p {
-           margin-top: 12px;
-           font-size: 16px;
-           font-weight: 600;
-           color: rgba(77, 84, 31, 1);
-           text-align: center;
-       }
 
 
-       @media(min-width:768px) {
-           .set-wrapper .box-bar-icons {
-               padding: 32px 32px 0 32px;
-               grid-template-columns: repeat(5, 20%);
-           }
-       }
-   </style>
+    <!-- Componente box img-paragraph -->
+    <div class="box-img-paragraph">
+        <div class="imagen img-contenedor">
+            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_450x450.png" alt="Imagen de prueba" title="Imagen de prueba">
+        </div>
+        <div class="paragraph ph-img-paragraph">
+            <p>El proyecto busca promover políticas y prácticas de logística baja en carbono (EcoLogística) que contribuyan a la mitigación del cambio climático y que cumplan con las metas de la NDC del país. , iIgualmente, se trabaja para destacar la logística urbana como un área prioritaria para los gobiernos locales, regionales y nacionales para combatir el cambio climático; fortalecer la capacidad institucional a través de la participación de diversas partes interesadas y promover un enfoque de gobernanza multinivel para la política de transporte urbano de mercancías.</p>
+        </div>
 
-   <!-- Componente box img-paragraph -->
-   <div class="box-img-paragraph">
-       <div class="imagen img-contenedor">
-           <img class="img-responsive w-100" src="https://via.placeholder.com/400x300" alt="Imagen de prueba" title="Imagen de prueba">
-       </div>
-       <div class="paragraph ph-img-paragraph">
-           <p>Trabajo Inteligente es un modelo de trabajo innovador que beneficie a sus funcionarios, mediante alternativas de jornadas laborales dinámicas, una infraestructura tecnológica adecuada que permita promover altos estándares de productividad, así como la adecuada administración de espacios.</p>
-           <p>La Secretaría Distrital de Movilidad mediante la Resolución Número 80010 de 2021 adoptó el modelo de Trabajo Inteligente. Dicho modelo innovador beneficia a sus funcionarios de planta, mediante jornadas laborales dinámicas y mixtas, una infraestructura tecnológica adecuada que promueve altos estándares de productividad, así como una adecuada administración de espacios que fomenta el equilibrio entre la vida laboral, personal y familiar.</p>
-       </div>
+    </div>
+    <style>
+        .set-wrapper .box-img-paragraph {
+            grid-area: box-img-paragraph;
+            display: grid;
+            gap: 8px;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 48px;
+        }
 
-   </div>
-   <style>
-       .set-wrapper .box-img-paragraph {
-           grid-area: box-img-paragraph;
-           display: grid;
-           gap: 8px;
-           grid-auto-flow: dense;
-           grid-template-columns: 1fr;
-           grid-template-rows: auto;
-           justify-content: center;
-           align-items: center;
-           margin-bottom: 48px;
-       }
+        .box-img-paragraph .img-contenedor {
+            max-height: 400px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            /* margin: auto; */
+        }
 
-       .box-img-paragraph .img-contenedor {
-           max-height: 200px;
-           overflow: hidden;
-           display: flex;
-           flex-direction: column;
-           justify-content: center;
-           align-items: center;
-           /* margin: auto; */
-       }
+        .box-img-paragraph .img-contenedor img {
+            height: 200px;
+            object-fit: cover;
+            object-position: center
+        }
 
-       .box-img-paragraph .img-contenedor img {
-           height: 200px;
-           object-fit: cover;
-           object-position: center
-       }
+        .box-img-paragraph .ph-img-paragraph {
+            padding: 1rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
 
-       .box-img-paragraph .ph-img-paragraph {
-           padding: 1rem;
-           display: flex;
-           flex-direction: column;
-           justify-content: center;
-           align-items: center;
-       }
+        .box-img-paragraph .ph-img-paragraph p {
+            font-size: 16px;
+            line-height: 1.5;
+            text-align: justify padding: 32px;
+        }
 
-       .box-img-paragraph .ph-img-paragraph p {
-           font-size: 16px;
-           line-height: 1.5;
-           text-align: justify
-           padding: 32px;
-       }
+        .paragraph h3 {
+            color: #404040;
+            margin: 32px 16px 8px 16px;
+            /* text-transform: uppercase; */
+            font-size: 24px;
+            font-weight: 700;
+            margin: 0px;
+            padding-top: 48px;
+            padding-bottom: 16px;
 
-       @media(min-width:768px) {
-           .set-wrapper .box-img-paragraph {
-               grid-template-columns: 1fr 1fr;
-               grid-template-rows: auto;
-           }
+        }
 
-           .box-img-paragraph .img-contenedor {
-               max-height: 300px;
-               overflow: hidden;
-           }
+        .paragraph h3::after {
+            display: block;
+            border-bottom: solid 2px #ffe145;
 
-           .box-img-paragraph .img-contenedor img {
-               height: 300px;
-               object-fit: cover;
-               object-position: center
-           }
+        }
+
+        .paragraph p {
+            font-size: 16px;
+            font-weight: 500;
+            text-align: left;
+            line-height: 1.5;
+            color: #252525;
+            margin: 0px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+        }
+
+        @media(min-width:768px) {
+            .set-wrapper .box-img-paragraph {
+                grid-template-columns: 1fr 1fr;
+                grid-template-rows: auto;
+            }
+
+            .box-img-paragraph .img-contenedor {
+                max-height: 300px;
+                overflow: hidden;
+            }
+
+            .box-img-paragraph .img-contenedor img {
+                height: 300px;
+                object-fit: cover;
+                object-position: center
+            }
 
 
-       }
-   </style>
+        }
+    </style>
+
+    <!-- Sección box bar-icons -->
+
+    <!-- Sección box desarrollo -->
+    <div class="box-desarrollo">
+        <div class="paragraph ph-3">
+            <h3>¿Cómo se desarrolla?</h3>
+            <p>El LCAP-UF está estructurado bajo cuatro ejes estratégicos:</p>
+        </div>
+        <div class="box-bar-icons">
+            <div class="icon zoom">
+                <a>
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/reutilizar.png" alt="icono de " width="80px">
+                    <p>Cambio tecnológico</p>
+                </a>
+            </div>
+            <div class="icon zoom">
+                <a>
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/enviado.png" alt="icono de " width="80px">
+                    <p>Acciones para la definición de la visión para el tránsito de la carga urbana</p>
+                </a>
+            </div>
+            <div class="icon zoom">
+                <a>
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/rompecabezas.png" alt="icono de " width="80px">
+                    <p>Comunicación, pedagogía y corresponsabilidad</p>
+                </a>
+            </div>
+            <div class="icon zoom">
+                <a>
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/tres-vias.png" alt="icono de " width="80px">
+                    <p>Infraestructura</p>
+                </a>
+            </div>
+
+        </div>
+        <div class="paragraph ph-4">
+            <p>Estos ejes cuentan con metas, acciones e indicadores que se articulan con la normatividad vigente y presentan las condiciones necesarias para que las acciones puedan ser implementadas en el corto, mediano y largo plazo. Con estas definiciones, es posible planificar una logística urbana eficiente y baja en carbono, involucrando las principales partes interesadas y contribuyendo con las metas nacionales de disminución de emisiones de GEI, especialmente la NDC y el Acuerdo de París.</p>
+        </div>
+        <style>
+            .set-wrapper .box-bar-icons {
+                grid-area: box-bar-icons;
+                display: grid;
+                gap: 8px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                margin-bottom: 18px;
+            }
+
+            .box-bar-icons .icon a {
+                padding: 8px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .box-bar-icons .icon a img {
+                width: 80px;
+                height: 80px;
+                object-fit: cover;
+                border-radius: 50%;
+                border: 2px solid #40404080;
+            }
+
+            .box-bar-icons .icon a p {
+                margin-top: 12px;
+                font-size: 16px;
+                font-weight: 600;
+                color: #404040;
+                text-align: center;
+            }
+
+
+            @media(min-width:768px) {
+                .set-wrapper .box-bar-icons {
+                    padding: 32px 32px 0 32px;
+                    grid-template-columns: repeat(4, 1fr);
+                }
+            }
+        </style>
+
+    </div>
+    <style>
+        .set-wrapper .box-desarrollo {
+            grid-area: box-desarrollo;
+            padding-left: 1rem;
+        }
+    </style>
+
+
+    <!-- Sección box demostracion -->
+    <div class="box-demostracion">
+        <div class="paragraph ph-5">
+            <h3>Proyecto demostrativo: Evaluación de alternativas de desconsolidación utilizando vehículos de cero emisiones para la distribución de última milla de paquetes en tres zonas de Bogotá D.C.</h3>
+            <p>Este piloto surgió como parte del proyecto Ecologistics, en el que Bogotá ganó una financiación por parte de la Iniciativa Internacional del Clima (IKI), del Ministerio Federal de Medio Ambiente, Protección de la Naturaleza y Seguridad Nuclear de Alemania (BMU), para implementar este proyecto demostrativo, que tuvo como objetivo principal la innovación en modelos de distribución de última milla para reducir el impacto ambiental e identificar oportunidades para mejorar la eficiencia logística.</p>
+        </div>
+    </div>
+    <style>
+        .set-wrapper .box-demostracion {
+            grid-area: box-demostracion;
+        }
+    </style>
+
+
+    <!-- Sección box piloto -->
+    <div class="box-piloto">
+        <div class="paragraph ph-6">
+        <h3>¿Qué buscó resolver el piloto?</h3>
+        <p>Buscó la viabilidad en términos económicos, ambientales, operacionales y sociales de la distribución de última milla, usando diferentes tipologías de vehículos, mercancías y modelos operativos.</p>
+        </div>
+    </div>
+    <style>
+        .set-wrapper .box-piloto {
+            grid-area: box-piloto;
+        }
+    </style>
+
+
+<!-- Sección box img-full -->
+<div class="box-img-full">
+    <div class="imagen img-full_one">
+        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_04.png" alt="" title="">
+    </div>
+</div>
+<style>
+    .set-wrapper .box-img-full {
+        grid-area: box-img-full;
+    }
+    .box-img-full img{
+        border: solid 1px #f5f5f5;
+        max-width: 800px;
+        margin: 3em;
+        border-radius: 4px;
+    }
+</style>
+
+    <!-- Sección box desarrollo -->
+    <div class="box-desarrollo">
+        <div class="paragraph ph-7">
+        <h3>¿Cómo se desarrolló?</h3>
+        <p>Se desarrolló mediante cuatro (4) modelos de operación, reemplazando vehículos convencionales de combustión interna por, motocarros eléctricos, Vans eléctricas y Triciclos electro asistidos. Con la participación  de 7 empresas, 1 generador de carga, 2 operadores Logísticos, 1 empresa de mensajería, 1 empresa de renta de vehículos y 2 operadores logísticos.</p>
+        <p>Resultados:</p>
+        <ul>
+            <li>Reducción de emisiones de GEI</li>
+            <li>Reducción en la contaminación del aire</li>
+            <li>Disminución en la congestión y la inseguridad vial</li>
+            <li>Mejora en la eficiencia logística</li>
+            <li>Ahorro de 1.25 toneladas de CO2 equivalente, evitando la circulación de 5 vehículos de combustión interna y reduciendo la emisión  de material particulado.</li>
+        </ul>
+        </div>
+    </div>
+    <style>
+        .set-wrapper .box-desarrollo {
+            grid-area: box-desarrollo;
+        }
+        .box-desarrollo ul>li{
+            font-size: 16px;
+            font-weight: 500;
+            text-align: left;
+            line-height: 1.3;
+            color: #252525;
+        }
+    </style>
+
+
+    <!-- Sección box recursos -->
+    <div class="box-recursos">
+        <div class="paragraph ph-8">
+            <h3>Recursos</h3>
+            <p></p>
+        </div>
+        <div>
+
+            <div class="media">
+                <div class="media-left">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/lcap-bogota-final_.pdf" target="_blank" rel="noopener noreferrer" download="" title="Plan de Acción de Logística Urbana Baja en Carbono">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/lcap-bogota-final_.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de Plan de Acción de Logística Urbana Baja en Carbono">
+                        <h4 class="media-heading">Plan de Acción de Logística Urbana Baja en Carbono</h4>
+                    </a>
+                    <p>"Plan de Acción de Logística Urbana Baja en Carbono (LCAPUF, por su sigla en inglés) es un documento que demuestra cómo la ciudad de Bogotá puede reducir sus emisiones de Gases de Efecto Invernadero (GEI) en la logística urbana, un subsector del sector de transporte."</p>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+    <style>
+        .set-wrapper .box-recursos {
+            grid-area: box-recursos;
+        }
+        .zoom {
+            transition: 0.5s ease;
+            -moz-transition: 0.5s ease;
+            /* Firefox */
+            -webkit-transition: 0.5s ease;
+            /* Chrome - Safari */
+            -o-transition: 0.5s ease;
+            /* Opera */
+            -ms-transition: 0.5s ease;
+            /* IE9 */
+        }
+
+        .zoom:hover {
+            transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            /* Firefox */
+            -webkit-transform: scale(1.05);
+            /* Chrome - Safari */
+            -o-transform: scale(1.05);
+            /* Opera */
+            -ms-transform: scale(1.05);
+            /* IE9 */
+        }
+    </style>
+
+
+
+
+
 
 
 
