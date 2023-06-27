@@ -80,7 +80,7 @@
                             </a>
                             <a target="_blank" rel="noopener noreferrer">
                                 <li>
-                                    La Victoria (San Cristobal)
+                                    San Blas - 20 de Julio (San Cristóbal)
                                 </li>
                             </a>
                         </ul>
@@ -94,13 +94,30 @@
                             </a>
                             <a target="_blank" rel="noopener noreferrer">
                                 <li>
-                                    San Carlos - San Benito (Tunjuelito)
+                                    San Carlos (Tunjuelito)
                                 </li>
                             </a>
                         </ul>
                     </div>
                 </div>
             </div>
+            <!-- Sección box mapa -->
+            <div class="box-mapa">
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/mapa_barrios_vitales.jpg" target="_blank" rel="noopener noreferrer">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/mapa_barrios_vitales.jpg" alt="logo mapa-bv">
+                </a>
+            </div>
+            <style>
+                .barriosVitales .box-mapa {
+                    grid-area: box-mapa;
+                    margin-top: 40px
+                }
+
+                .box-mapa img {
+                    max-width: 940px;
+                    margin: auto;
+                }
+            </style>
         </div>
     </div>
     <style>
@@ -148,7 +165,7 @@
     <div class='box-video'>
         <div class='box-text'>
             <div class='title3 title-bv bva'>
-                <h3><strong>San Felipe es el primera Barrio Vital</strong></h3>
+                <h3><strong>San Felipe es el primer Barrio Vital</strong></h3>
                 <div class='barras'>
                     <div class='row'>
                         <div class='col-xs-12 col-sm-5'>
@@ -478,17 +495,17 @@
             <div class='col-xs-12 col-sm-6'>
                 <div class='box-video'>
                     <div class='embed-responsive embed-responsive-16by9'>
-                        <iframe width="100%" height="" src="https://www.youtube.com/embed/gDSlHQdEOuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="100%" height="" src="https://www.youtube.com/embed/fvehlDEnkYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
             <div class='col-xs-12 col-sm-6'>
                 <div class="box-det_video">
                     <div>
-                        <h3>Piloto de Barrios Vitales en San Felipe</h3>
+                        <h3>La comunidad opina sobre Barrios Vitales</h3>
                     </div>
                     <div class="paragraph-video">
-                        <p>Conoce una de las intervenciones piloto realizadas en el barrio San Felipe</p>
+                        <p>Las zonas intervenidas con urbanismo táctico, facilitan la permanencia y el encuentro seguro entre vecinos y visitantes de los sectores.</p>
                     </div>
                 </div>
             </div>
@@ -635,6 +652,21 @@
         </div>
     </div>
     <div class="box-botones">
+        <div class='box-text'>
+            <div class='title3 title-bv bva'>
+                <h3><strong>Recursos</strong></h3>
+                <div class='barras'>
+                    <div class='row'>
+                        <div class='col-xs-12 col-sm-5'>
+                            <div class="barra left bva">
+                            </div>
+                            <div class="barra right bvv">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class='row'>
             <div class='col-xs-12 col-sm-3'>
                 <a href="https://drive.google.com/file/d/1tJ9Xn-EXfcZd3azit0Y7iKO5f2u7MeLD/view?usp=sharing" target="_blank" rel="noopener noreferrer">
@@ -658,14 +690,35 @@
                 </a>
             </div>
             <div class='col-xs-12 col-sm-3'>
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/dts_16_11_22_bv_el_porvenir_bosa_signed.pdf" target="_blank" rel="noopener noreferrer">
+                    <div class="btn-tab">
+                        Documento técnico El Porvenir
+                    </div>
+                </a>
+            </div>
+            <div class='col-xs-12 col-sm-3'>
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/dts_dpm-et-004-2022_barriovital_lascruces_sanbernardo_vf_firmado.pdf" target="_blank" rel="noopener noreferrer">
+                    <div class="btn-tab">
+                        Documento técnico Las Cruces - San Bernardo
+                    </div>
+                </a>
+            </div>
+            <div class='col-xs-12 col-sm-3'>
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/11_04_2023_dts_barrio_vital_san_carlos_firmado.pdf" target="_blank" rel="noopener noreferrer">
+                    <div class="btn-tab">
+                        Documento técnico San Carlos
+                    </div>
+                </a>
+            </div>
+            <div class='col-xs-12 col-sm-3'>
                 <a href="" id="btn-preguntas">
                     <div class="btn-tab">
                         Preguntas frecuentes
                     </div>
                 </a>
             </div>
-
         </div>
+
     </div>
     <div class="box-preguntas" id="preguntas">
         <div class='box-text'>
@@ -804,6 +857,7 @@
             font-weight: 700;
             margin: auto;
             line-height: 1.2;
+            margin-bottom: 16px;
         }
 
         .box-botones a:hover .btn-tab,
@@ -844,7 +898,8 @@
         line-height: 1.5;
         color: rgba(25, 25, 25, 1);
     }
-    .barriosVitales a{
+
+    .barriosVitales a {
 
         word-wrap: break-word;
         overflow: hidden !important;
@@ -978,7 +1033,7 @@
         color: rgba(255, 255, 255, 1);
     }
 
-    .b-paragraph ul li{
+    .b-paragraph ul li {
         text-align: left;
         padding: 6px;
     }
@@ -1042,10 +1097,10 @@
             align-items: center;
 
         }
-        
-    .box-tabs {
-        margin-bottom: 250px;
-    }
+
+        .box-tabs {
+            margin-bottom: 250px;
+        }
 
 
     }
