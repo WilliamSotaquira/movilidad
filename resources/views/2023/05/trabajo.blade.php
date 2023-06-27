@@ -24,7 +24,13 @@
             max-width: 500px;
             height: 150px;
         }
+
+        .field-item.even .centertil {
+            visibility: hidden;
+            margin-top: -50px;
+        }
     </style>
+
 
     <hr>
     <!-- Sección box carousel -->
@@ -38,6 +44,8 @@
                     <li data-target="#carrusel_avisos_xs" title="imagen 1" data-slide-to="0" class="active"></li>
                     <li data-target="#carrusel_avisos_xs" title="imagen 2" data-slide-to="1"></li>
                     <li data-target="#carrusel_avisos_xs" title="imagen 3" data-slide-to="2"></li>
+                    <li data-target="#carrusel_avisos_xs" title="imagen 4" data-slide-to="3"></li>
+                    <li data-target="#carrusel_avisos_xs" title="imagen 5" data-slide-to="4"></li>
                 </ol>
 
                 <!-- Wrapper for slides -->
@@ -53,6 +61,12 @@
 
                     <div class="item">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-05-2023/image_trabajo_980x654_003.webp" alt="Fotografía entorno trabajo inteligente" title="Fotografía entorno trabajo inteligente">
+                    </div>
+                    <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/image_trabajo_980x654_006.webp" alt="Fotografía entorno trabajo inteligente" title="Fotografía entorno trabajo inteligente">
+                    </div>
+                    <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/image_trabajo_980x654_007.webp" alt="Fotografía entorno trabajo inteligente" title="Fotografía entorno trabajo inteligente">
                     </div>
 
 
@@ -82,6 +96,8 @@
                     <li data-target="#carrusel_avisos_lg" title="imagen 5" data-slide-to="4"></li>
                     <li data-target="#carrusel_avisos_lg" title="imagen 6" data-slide-to="5"></li>
                     <li data-target="#carrusel_avisos_lg" title="imagen 7" data-slide-to="6"></li>
+                    <li data-target="#carrusel_avisos_lg" title="imagen 8" data-slide-to="7"></li>
+                    <li data-target="#carrusel_avisos_lg" title="imagen 9" data-slide-to="8"></li>
                 </ol>
 
 
@@ -114,6 +130,12 @@
 
                     <div class="item">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-05-2023/image_trabajo_980x400_007.webp" alt="Fotografía entorno trabajo inteligente" title="Fotografía entorno trabajo inteligente">
+                    </div>
+                    <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/image_trabajo_980x400_008.webp" alt="Fotografía entorno trabajo inteligente" title="Fotografía entorno trabajo inteligente">
+                    </div>
+                    <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/image_trabajo_980x400_009.webp" alt="Fotografía entorno trabajo inteligente" title="Fotografía entorno trabajo inteligente">
                     </div>
 
                 </div>
@@ -334,7 +356,7 @@
             <h4>¡Qué queremos!</h4>
         </div>
         <div class="paragraph ph-1">
-            <p>Que el Sector Movilidad adopte un modelo de trabajo innovador que beneficie a sus funcionarios, mediante alternativas de jornadas laborales dinámicas, una infraestructura tecnológica adecuada que permita promover altos estándares de productividad, así como la adecuada administración de espacios.</p>
+            <p>Que la <strong>Secretaría de Movilidad</strong> adopte un modelo de trabajo innovador que beneficie a sus funcionarios, mediante alternativas de jornadas laborales dinámicas, una infraestructura tecnológica adecuada que permita promover altos estándares de productividad, así como la adecuada administración de espacios.</p>
         </div>
     </div>
     <style>
@@ -348,7 +370,7 @@
     <!-- Componente box youtube-paragraph -->
     <div class="box-img-paragraph">
         <div class="imagen img-1">
-            <img class="img-responsive w-100 bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-05-2023/image_trabajo_980x654_003.webp" alt="" title="">
+            <img class="img-responsive w-100 bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/image_trabajo_980x654_005.webp" alt="Fotografía de equipo en sala de trabajo inteligente" title="Fotografía de equipo en sala de trabajo inteligente">
         </div>
         <div class="paragraph ph-youtube-paragraph">
             <p><span class="enfasis">Trabajo Inteligente</span> es un modelo de trabajo innovador que beneficie a sus funcionarios, mediante alternativas de jornadas laborales dinámicas, una infraestructura tecnológica adecuada que permita promover altos estándares de productividad, así como la adecuada administración de espacios.</p>
@@ -514,7 +536,7 @@
         <div class="tab">
             <button class="tablinks" onclick="openCity(event, 'tab1')" id="defaultOpen">Explicación de zonas</button>
             <button class="tablinks" onclick="openCity(event, 'tab2')">Últimas implementaciones</button>
-            <button class="tablinks" onclick="openCity(event, 'tab3')">Nota en Conectados</button>
+            <button class="tablinks" onclick="openCity(event, 'tab3')">Primeras implementaciones</button>
             <button class="tablinks" onclick="openCity(event, 'tab4')">Recomendaciones en las salas </button>
         </div>
 
@@ -535,7 +557,7 @@
             </div>
         </div>
         <div id="tab3" class="tabcontent">
-            <h3>Nota en Conectados</h3>
+            <h3>Primeras implementaciones</h3>
             <div class="video video-3 video-16by9">
                 <div class="embed-responsive embed-responsive-16by9">
                     <iframe src="https://drive.google.com/file/d/15BvMGmftsUI8tbAtiChG0FUqG8Yl_uo1/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -662,7 +684,7 @@
     </script>
 
     <!-- Sección box paragraph -->
-    <div class="box-paragraph">
+    <!-- <div class="box-paragraph">
 
         <div class="paragraph ph-1">
             <p>Que el Sector Movilidad adopte un modelo de trabajo innovador que beneficie a sus funcionarios, mediante alternativas de jornadas laborales dinámicas, una infraestructura tecnológica adecuada que permita promover altos estándares de productividad, así como la adecuada administración de espacios.</p>
@@ -681,7 +703,7 @@
             margin-top: 40px;
             padding: 0 32px;
         }
-    </style>
+    </style> -->
 
     <!-- Sección box counter -->
     <div class="box-counter">
@@ -691,7 +713,7 @@
         </div>
         <br>
 
-        <div class="row">
+        <div class="row-cards">
             <div class="column">
                 <div class="card">
                     <p><i class="fa fa-user"></i></p>
@@ -737,12 +759,29 @@
         /* Float four columns side by side */
         .box-counter .column {
             float: left;
-            width: 100%;
             padding: 0 12px;
         }
 
-        .box-counter .row {
+        .box-counter .row-cards {
             margin: 0 -5px;
+            display: grid;
+            gap: 8px;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+
+        }
+
+        @media(min-width:768px){
+        .box-counter .row-cards {
+            display: grid;
+            gap: 8px;
+            grid-auto-flow: dense;
+            grid-template-columns: repeat(4, 1fr);
+            grid-template-rows: auto;
+            grid-template-areas:
+            '';
+        }
         }
 
         /* Clear floats after the columns */
@@ -790,7 +829,6 @@
 
         @media(min-width:768px) {
             .box-counter .column {
-                width: 50%;
                 display: block;
                 margin-bottom: 10px;
             }
@@ -803,7 +841,6 @@
 
         @media(min-width:992px) {
             .box-counter .column {
-                width: 25%;
                 display: block;
                 margin-bottom: 10px;
             }
@@ -813,165 +850,131 @@
 
 
     <!-- Sección box collapse -->
-    <div class="box-collapse">
+    <div class="box-recursos">
+
         <div class="title title-h3">
             <h3>Recursos</h3>
         </div>
 
-        <div class="accordion">
-            <!-- collapse-recursos -->
-            <div class='panel-group' id='accordion_recursos' role='tablist ' aria-multiselectable='true'>
+        <div class="recursos">
 
-                <!-- collapse documentos -->
-                <div class='panel panel-primary'>
-                    <div class='panel-heading' role='tab' id='heading_documentos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion_recursos' href='#collapse_documentos' aria-expanded='false' aria-controls='collapse_documentos'>
-                                Documentos
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapse_documentos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_documentos' aria-expanded='false'>
-                        <div class='panel-body'>
-                            <div class='box-documentos'>
-
-                                <!-- Component box recursos -->
-                                <div class="recursos">
-                                    <div class="media">
-                                        <div class="media-left">
-                                            <a href="" target="_blank" rel="noopener noreferrer" download="" title="">
-                                                <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de ">
-                                                <h4 class="media-heading">Manual para la gestión del carnet digital</h4>
-                                            </a>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab, minima iusto recusandae illum voluptates labore. Nulla soluta libero quod error illo sequi atque, corporis amet autem quia nobis tenetur!</p>
-                                        </div>
-                                    </div>
-                                    <div class="media">
-                                        <div class="media-left">
-                                            <a href="" target="_blank" rel="noopener noreferrer" download="" title="">
-                                                <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de ">
-                                                <h4 class="media-heading">Instructivo para creación de casos en el módulo Administrativo Aranda</h4>
-                                            </a>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab, minima iusto recusandae illum voluptates labore. Nulla soluta libero quod error illo sequi atque, corporis amet autem quia nobis tenetur!</p>
-                                        </div>
-                                    </div>
-                                    <div class="media">
-                                        <div class="media-left">
-                                            <a href="" target="_blank" rel="noopener noreferrer" download="" title="">
-                                                <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
-                                            </a>
-                                        </div>
-                                        <div class="media-body">
-                                            <a href="" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de ">
-                                                <h4 class="media-heading">Manual para la reserva de espacios colaborativos</h4>
-                                            </a>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab, minima iusto recusandae illum voluptates labore. Nulla soluta libero quod error illo sequi atque, corporis amet autem quia nobis tenetur!</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <style>
-                                    .recursos .title-h3 {
-                                        color: rgba(77, 84, 31, 1);
-                                        padding-bottom: 4px;
-                                        border-bottom: 2px solid rgba(77, 84, 31, 0.5);
-                                    }
-                                </style>
-
-
-                            </div>
-                        </div>
-                    </div>
-                    <style>
-                        .box-documentos {
-                            grid-area: documentos;
-                        }
-
-                        .box-collapse .glyphicon-chevron-right::before {
-                            color: #65df25 !important;
-                        }
-
-                        .box-collapse .glyphicon-chevron-left::before {
-                            color: #65df25 !important;
-                        }
-
-                        .box-collapse .panel-heading {
-                            border-color: #65df25 !important;
-                            background-color: #1f2246 !important;
-                            background-image: none !important;
-                        }
-
-                        .box-collapse .panel-heading .panel-title a {
-                            text-decoration: none;
-                            color: #fff !important;
-                            font-size: 18px;
-                            font-weight: 600;
-                            letter-spacing: 1px;
-                        }
-
-                        .box-collapse .panel-heading .panel-title a:after {
-                            font-family: 'Glyphicons Halflings';
-                            content: "\e080";
-                            float: right;
-                            color: #65df25;
-                            font-size: 18px;
-                        }
-
-                        .box-collapse .panel-heading .panel-title a.collapsed:after {
-                            content: "\e114";
-                        }
-                    </style>
+            <div class="media">
+                <div class="media-left">
+                    <a href="https://aranda.movilidadbogota.gov.co/USDKV8/index.aspx#!/login/">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/aranda-claro.png" alt="icono de documento pdf" width="50px">
+                    </a>
                 </div>
-
-                <!-- collapse enlaces -->
-                <div class='panel panel-primary'>
-                    <div class='panel-heading' role='tab' id='heading_enlaces'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion_recursos' href='#collapse_enlaces' aria-expanded='false' aria-controls='collapse_enlaces'>
-                                Enlaces
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapse_enlaces' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_enlaces' aria-expanded='false'>
-                        <div class='panel-body'>
-                            <div class='box-enlaces'>
-
-                            </div>
-                        </div>
-                    </div>
-                    <style>
-                        .box-enlaces {
-                            grid-area: enlaces;
-                        }
-                        </style>
+                <div class="media-body">
+                    <a href="https://aranda.movilidadbogota.gov.co/USDKV8/index.aspx#!/login/">
+                        <h4 class="media-heading">Aplicativo Aranda</h4>
+                    </a>
+                    <a href="https://aranda.movilidadbogota.gov.co/USDKV8/index.aspx#!/login/">https://aranda.movilidadbogota.gov.co/</a>
                 </div>
-
             </div>
-            <!-- /#fin -recursos -->
+
+            <div class="media">
+                <div class="media-left">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/instructivo_usuario_aranda_-_proyecto_servicios_administrativos_1.pdf">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="50px">
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/instructivo_usuario_aranda_-_proyecto_servicios_administrativos_1.pdf">
+                        <h4 class="media-heading">Instructivo para creación de casos en el módulo Administrativo Aranda</h4>
+                    </a>
+                </div>
+            </div>
+
+            <div class="media">
+                <div class="media-left">
+                    <a href="https://www.movilidadbogota.gov.co/web/reserva_de_espacios">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-09-2021/2021-09-23_botones-pagina-trabajo-inteligente_300-x-300_1_1.png" alt="icono de documento pdf" width="50px">
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="https://www.movilidadbogota.gov.co/web/reserva_de_espacios">
+                        <h4 class="media-heading">Reserva de espacios</h4>
+                    </a>
+                    <a href="https://www.movilidadbogota.gov.co/web/reserva_de_espacios">https://www.movilidadbogota.gov.co/web/reserva_de_espacios</a>
+                </div>
+            </div>
+
+            <div class="media">
+                <div class="media-left">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/reglamento_v_2.0.pdf">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="50px">
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/reglamento_v_2.0.pdf">
+                        <h4 class="media-heading">Reglamento de puestos de trabajo</h4>
+                    </a>
+                    <p>Versión 2 </p>
+                </div>
+            </div>
+            <!-- <div class="media">
+                <div class="media-left">
+                    <a href="">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de ">
+                        <h4 class="media-heading">Manual para la gestión del carnet digital</h4>
+                    </a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab, minima iusto recusandae illum voluptates labore. Nulla soluta libero quod error illo sequi atque, corporis amet autem quia nobis tenetur!</p>
+                </div>
+            </div> -->
+            <!-- <div class="media">
+                <div class="media-left">
+                    <a href="" target="_blank" rel="noopener noreferrer" download="" title="">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de ">
+                        <h4 class="media-heading">Instructivo para creación de casos en el módulo Administrativo Aranda</h4>
+                    </a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab, minima iusto recusandae illum voluptates labore. Nulla soluta libero quod error illo sequi atque, corporis amet autem quia nobis tenetur!</p>
+                </div>
+            </div> -->
+            <!-- <div class="media">
+                <div class="media-left">
+                    <a href="" target="_blank" rel="noopener noreferrer" download="" title="">
+                        <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
+                    </a>
+                </div>
+                <div class="media-body">
+                    <a href="" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de ">
+                        <h4 class="media-heading">Manual para la reserva de espacios colaborativos</h4>
+                    </a>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed ab, minima iusto recusandae illum voluptates labore. Nulla soluta libero quod error illo sequi atque, corporis amet autem quia nobis tenetur!</p>
+                </div>
+            </div> -->
         </div>
 
-    </div>
-    <style>
-        .set-wrapper .box-collapse {
-            grid-area: box-collapse;
-            padding: 2em;
-        }
-        @media(min-width:768px){
-            .box-collapse .accordion{
+        <style>
+            .box-recursos {
+                padding: 0 2em;
+            }
+
+            .recursos {
                 padding: 2em;
             }
 
-    }
-    </style>
+            .media {
+                margin-bottom: 16px;
+                padding: 6px;
+                border-radius: 4px;
+            }
+            .media:hover{
+                background-color: #f5f5f5;
+            }
+
+        </style>
 
 
+    </div>
 
 </div>
 
