@@ -267,3 +267,9 @@ Route::view('/2023/04/arm', '2023/04/arm');
 Route::view('/2023/05/trabajo', '2023/05/trabajo');
 Route::view('/2023/05/menu', '2023/05/menu');
 
+
+// Contenido junio 2023
+Route::view('/2023/06/formulario', '2023/06/formulario');
+Route::view('/2023/06/mujer', '2023/06/mujer');
+Route::view('/2023/06/pqrsd', '2023/06/pqrsd');
+Route::view('/2023/06/mapaCiclorutas', '2023/06/mapaCiclorutas');
