@@ -201,10 +201,16 @@
     <hr>
     <div class="row">
         <div class="col-xs-12 visible-xs-12 visible-xs-block">
-            <img alt="La SDM modificará el canal de contacto ciudadano" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-05-2023/mensaje-banner.png" title="La SDM modificará el canal de contacto ciudadano">
+            <a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">
+                <img alt="De clic aquí para radicar sus PQRSDF" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/mensaje_banner_2_banner_340x280.png" title="De clic aquí para radicar sus PQRSDF">
+            </a>
+
         </div>
         <div class="col-sm-12 hidden-xs">
-            <img alt="La SDM modificará el canal de contacto ciudadano" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-05-2023/mensaje-banner-1-sin-logo.png" title="La SDM modificará el canal de contacto ciudadano">
+            <a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">
+                <img alt="De clic aquí para radicar sus PQRSDF" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/mensaje_banner_2_banner_980x400.png" title="De clic aquí para radicar sus PQRSDF">
+            </a>
+
         </div>
     </div>
     <hr>
@@ -226,20 +232,17 @@
             <div class="carousel-inner zoom">
 
                 <div class="item active">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cronograma_mes_de_la_prevencion_vial_2023">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2023/banner_mpv_2023_340x300.png" alt="Click aquí para conocer más acerca del mes de la prevención vial" title="Click aquí para conocer más acerca del mes de la prevención vial">
+                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSeQNx9Pkm9bSdm6CxVmQuxcp8cNDqU3s7XQ6C43Kdx4T1egLA/viewform">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-06-2023/piezas_senda_integridad_formulario_mujeres_340x300.png" alt="ir a encuesta información dedicada a mujeres en nuestra web" title="ir a encuesta información dedicada a mujeres en nuestra web">
                     </a>
                 </div>
 
                 <div class="item">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sisben_iv">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-04-2023/banner_sisben_iv_340x300.jpg" alt="Click aquí para conocer más acerca de cómo podrías obtener subsidio en las tarifas del sistema" title="Click aquí para conocer más acerca de cómo podrías obtener subsidio en las tarifas del sistema">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/abc_ciclomotores_ojos_en_las_vias.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_340x300_web.png" alt="Click aquí para conocer la Resolución que define la circulación de ciclomotores en Bogotá" title="Click aquí para conocer la Resolución que define la circulación de ciclomotores en Bogotá">
                     </a>
                 </div>
 
-                <!-- <div class="item">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-05-2023/piezas_suspension_de_servicios_banner_2.jpg" alt="Aviso de mantenimiento">
-                </div> -->
 
                 <div class="item">
                     <a href="http://www.fotodeteccionbogota.com/" target="_blank" rel="noopener noreferrer">
@@ -280,7 +283,7 @@
 
     <!-- carousel lg -->
     <div class="carousel-lg">
-        <div id="carrusel_avisos_lg" class="carousel slide" data-ride="carousel" data-interval="10000">
+        <div id="carrusel_avisos_lg" class="carousel slide" data-ride="carousel" data-interval="20000">
             <!-- Indicators -->
             <ol class="carousel-indicators zoom">
                 <li data-target="#carrusel_avisos_lg" title="imagen 1" data-slide-to="0" class="active"></li>
@@ -297,20 +300,16 @@
             <div class="carousel-inner">
 
                 <div class="item active">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cronograma_mes_de_la_prevencion_vial_2023">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2023/banner_mpv_2023_950x300.png" alt="Click aquí para conocer más acerca del mes de la prevención vial" title="Click aquí para conocer más acerca del mes de la prevención vial">
+                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSeQNx9Pkm9bSdm6CxVmQuxcp8cNDqU3s7XQ6C43Kdx4T1egLA/viewform">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-06-2023/piezas_senda_integridad_formulario_mujeres_950x300.png" alt="ir a encuesta información dedicada a mujeres en nuestra web" title="ir a encuesta información dedicada a mujeres en nuestra web">
                     </a>
                 </div>
 
                 <div class="item">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sisben_iv">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-04-2023/banner_sisben_iv_950x300.jpg" alt="Click aquí para conocer más acerca de cómo podrías obtener subsidio en las tarifas del sistema" title="Click aquí para conocer más acerca de cómo podrías obtener subsidio en las tarifas del sistema">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/abc_ciclomotores_ojos_en_las_vias.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_950x300_web.png" alt="Click aquí para conocer la Resolución que define la circulación de ciclomotores en Bogotá" title="Click aquí para conocer la Resolución que define la circulación de ciclomotores en Bogotá">
                     </a>
                 </div>
-                <!--
-                <div class="item">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-05-2023/piezas_suspension_de_servicios_951x301.jpg" alt="Aviso de mantenimiento">
-                </div> -->
 
                 <div class="item">
                     <a href="http://www.fotodeteccionbogota.com/" target="_blank" rel="noopener noreferrer">
