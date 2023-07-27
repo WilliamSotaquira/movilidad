@@ -103,6 +103,27 @@
                 outline: none;
             }
         </style>
+        <div class="imagen img-float">
+            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/calidad_230629_1165x189_002.png" alt="Logo del sistema de gestión de calidad" title="Logo del sistema de gestión de calidad">
+        </div>
+        <style>
+            .img-float {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin: 2em 0em;
+            }
+
+            .img-float img {
+                max-width: 600px;
+            }
+            @media(min-width:768px){
+                .img-float{
+                    margin: calc(32px +  1em);
+
+                }
+            }
+        </style>
         <div class="row">
             <div class="col-sm-6">
                 <p class="text-center"><img alt="" border="0" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2020/sistema-gestion-calidad_1.png" usemap="#Map"><map id="Map" name="Map"><area class="sistema" coords="14,134,120,180,211,114,192,1" data-parent="#accordion-SGC" data-toggle="collapse" href="#SGC" shape="poly"> <area class="sistema" coords="231,5,222,113,313,180,417,134" data-parent="#accordion-SGC" data-toggle="collapse" href="#Politica-Calidad" shape="poly"> <area class="sistema" coords="316,194,284,296,357,388,430,163" data-parent="#accordion-SGC" data-toggle="collapse" href="#Objetivos-SGC" shape="poly"> <area class="sistema" coords="161,307,273,306,332,409,97,403" data-parent="#accordion-SGC" data-toggle="collapse" href="#Certificacion-SGC" shape="poly"> <area class="sistema" coords="114,191,149,290,75,382,5,165" data-parent="#accordion-SGC" data-toggle="collapse" href="#Beneficios-SGC" shape="poly"></map></p>
@@ -288,24 +309,28 @@
         <div class="s4">
             <div class="row">
 
-                <div class="recuadro col-xs-6 col-sm-3 col-md-4">
+                <div class="recuadro col-xs-6 col-sm-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/btn1.png" alt="¿Cuáles son los beneficios de tener un SGC?">
                     <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/solicitud_nuevas_piezas_sgc_pieza1-mailing.png" target="_blank" rel="noopener noreferrer" tabindex="1">¿Cuáles son los beneficios de tener un SGC?</a></h3>
                 </div>
-                <div class="recuadro col-xs-6 col-sm-3 col-md-4">
+                <div class="recuadro col-xs-6 col-sm-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/btn2.png" alt="¿Cómo puedo aportar al SGC?">
                     <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/solicitud_nuevas_piezas_sgc_pieza2_mailing.png" target="_blank" rel="noopener noreferrer" tabindex="2">¿Cómo puedo aportar al SGC?</a></h3>
                 </div>
-                <div class="recuadro col-xs-6 col-sm-3 col-md-4">
+                <div class="recuadro col-xs-6 col-sm-3">
                     <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/btn3.png" alt="Impacto de no cumplir con los lineamientos del SGC">
                     <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/03solicitud_nuevas_piezas_sgc_pieza3-mailing.png" target="_blank" rel="noopener noreferrer" tabindex="3">Impacto de no cumplir con los lineamientos del SGC</a></h3>
+                </div>
+                <div class="recuadro col-xs-6 col-sm-3">
+                    <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/calidad_230629_900x600_001.png" alt="Calidad es">
+                    <h3 class="titulo"><a href="https://youtu.be/9gbqhfhQ2jo" target="_blank" rel="noopener noreferrer" tabindex="3">Calidad es</a></h3>
                 </div>
 
             </div>
         </div>
 
-
     </div>
+
 </div>
 <br>
 <!-- End Set Wrapper -->
