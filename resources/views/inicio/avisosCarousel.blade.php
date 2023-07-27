@@ -199,21 +199,6 @@
 <!-- Primero banner-xs, segundo banner-lg  -->
 <div class="box-avisos">
     <hr>
-    <div class="row">
-        <div class="col-xs-12 visible-xs-12 visible-xs-block">
-            <a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">
-                <img alt="De clic aquí para radicar sus PQRSDF" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/mensaje_banner_2_banner_340x280.png" title="De clic aquí para radicar sus PQRSDF">
-            </a>
-
-        </div>
-        <div class="col-sm-12 hidden-xs">
-            <a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">
-                <img alt="De clic aquí para radicar sus PQRSDF" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-06-2023/mensaje_banner_2_banner_980x400.png" title="De clic aquí para radicar sus PQRSDF">
-            </a>
-
-        </div>
-    </div>
-    <hr>
     <!-- carousel xs -->
     <div class="carousel-xs">
         <div id="carrusel_avisos_xs" class="carousel slide" data-ride="carousel" data-interval="12000">
@@ -225,15 +210,26 @@
                 <li data-target="#carrusel_avisos_xs" title="imagen 4" data-slide-to="3"></li>
                 <li data-target="#carrusel_avisos_xs" title="imagen 5" data-slide-to="4"></li>
                 <li data-target="#carrusel_avisos_xs" title="imagen 6" data-slide-to="5"></li>
+                <li data-target="#carrusel_avisos_xs" title="imagen 7" data-slide-to="6"></li>
 
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner zoom">
-
                 <div class="item active">
-                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSeQNx9Pkm9bSdm6CxVmQuxcp8cNDqU3s7XQ6C43Kdx4T1egLA/viewform">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-06-2023/piezas_senda_integridad_formulario_mujeres_340x300.png" alt="ir a encuesta información dedicada a mujeres en nuestra web" title="ir a encuesta información dedicada a mujeres en nuestra web">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/cuestionarioparaabc_230713.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/banner_resolucion-132490_230713_710x626.png" alt="ir a abecé Resolución 132490 de 2023" title="ir a abecé Resolución 132490 de 2023">
+                    </a>
+                </div>
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSe1RA3suHLi6bWwwI9Jb4EyrV21FqkBQ5wAaRYwB5XpX31V2w/viewform">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2023/aviso_portalbogota_230707_340x300.png" alt="ir a encuesta información dedicada a mujeres en nuestra web" title="ir a encuesta información dedicada a mujeres en nuestra web">
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-07-2023/informe-bogota-derechos-infancia-juventud-2020-2023.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_340x300_web.png" alt="Click aquí para conocer el informe de gestión sobre la garantía de derechos de la primera infancia, infancia, adolescencia y juventud" title="Click aquí para conocer el informe de gestión sobre la garantía de derechos de la primera infancia, infancia, adolescencia y juventud">
                     </a>
                 </div>
 
@@ -262,11 +258,6 @@
                     </a>
                 </div>
 
-                <div class="item">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2022/banner_600x300.png" alt="Información acerca de la sanciono en las investigaciones por infracciones de transito">
-                </div>
-
-
             </div>
 
             <!-- Controls -->
@@ -292,16 +283,25 @@
                 <li data-target="#carrusel_avisos_lg" title="imagen 4" data-slide-to="3"></li>
                 <li data-target="#carrusel_avisos_lg" title="imagen 5" data-slide-to="4"></li>
                 <li data-target="#carrusel_avisos_lg" title="imagen 6" data-slide-to="5"></li>
+                <li data-target="#carrusel_avisos_lg" title="imagen 7" data-slide-to="6"></li>
             </ol>
-
-
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
 
                 <div class="item active">
-                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSeQNx9Pkm9bSdm6CxVmQuxcp8cNDqU3s7XQ6C43Kdx4T1egLA/viewform">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/cuestionarioparaabc_230713.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/banner_resolucion-132490_230713_938x313.png" alt="ir a abecé Resolución 132490 de 2023" title="ir a abecé Resolución 132490 de 2023">
+                    </a>
+                </div>
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSe1RA3suHLi6bWwwI9Jb4EyrV21FqkBQ5wAaRYwB5XpX31V2w/viewform">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-06-2023/piezas_senda_integridad_formulario_mujeres_950x300.png" alt="ir a encuesta información dedicada a mujeres en nuestra web" title="ir a encuesta información dedicada a mujeres en nuestra web">
+                    </a>
+                </div>
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-07-2023/informe-bogota-derechos-infancia-juventud-2020-2023.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2023/aviso_portalbogota_230707_950x300.png" alt="Click aquí para conocer el informe de gestión sobre la garantía de derechos de la primera infancia, infancia, adolescencia y juventud" title="Click aquí para conocer el informe de gestión sobre la garantía de derechos de la primera infancia, infancia, adolescencia y juventud">
                     </a>
                 </div>
 
@@ -328,9 +328,7 @@
                     </a>
                 </div>
 
-                <div class="item">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2023/investigaciones_950x300.png" alt="Información acerca de la sanción en las investigaciones por infracciones de transito">
-                </div>
+
 
 
 
@@ -347,7 +345,7 @@
             </a>
         </div>
     </div>
-
+    <hr>
 
 
 
