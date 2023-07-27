@@ -16,8 +16,9 @@
         <div class="col-xs-12 hidden-xs"><img alt="Titulo Principal: Más y mejores cicloparqueaderos." class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/16_-_banner_mas.y-mejores-cicloparqueaderos_v3.jpg" style="width: 100%;" title="Más y mejores cicloparqueaderos."></div>
     </div><!-- fin row banner principal -->
 
-    <!-- sección contador  -->
-    <div class="contador">
+
+    <!-- Sección box contador -->
+    <div class="box-contador">
         <div class="titulo">
             <div class='row'>
                 <div class='col-xs-12 col-sm-12 col-md-12 '>
@@ -25,55 +26,35 @@
                 </div>
             </div>
         </div>
-        <div class="botones">
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <div class="boton">
-                        <div class="icono">
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono1.png' alt='icono más y mejores cicloparqueaderos' title='icono más y mejores cicloparqueaderos'>
-                        </div>
-                        <div class="texto">
-                            <p>Más y mejores Cicloparqueaderos</p>
-                        </div>
-                        <div class="valor">
-                            <p>29.026</p>
-                        </div>
-                    </div>
+        <div class="cards">
+            <div class="card-cont cont-1">
+                <div class="imagen img-contador-1">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/logo_sellodorado_230710.png" alt="Icono sello dorado" title="Icono sello dorado">
                 </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="boton">
-                        <div class="icono">
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono2.png' alt='icono sellos de calidad' title='icono sellos de calidad'>
-                        </div>
-                        <div class="texto">
-                            <p>Sellos de calidad</p>
-                        </div>
-                        <div class="valor">
-                            <p>21.175</p>
-                        </div>
-                    </div>
+                <div class="texto">
+                    <p>Sellos de calidad</p>
                 </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="boton">
-                        <div class="icono">
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono3.png' alt='icono sellos de calidad' title='icono sellos de calidad'>
-                        </div>
-                        <div class="texto">
-                            <p>Total de cupos</p>
-                        </div>
-                        <div class="valor">
-                            <p>50.201</p>
-                            </ </div>
-                        </div>
-                    </div>
+                <div class="valor">
+                    <p>30.392</p>
                 </div>
             </div>
-        </div>
-    </div>
+            <div class="card-cont cont-2">
+                <div class="imagen img-contador-2">
+                    <img class="img-responsive w-100" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono3.png' alt='icono sellos de calidad' title='icono sellos de calidad'>
+                </div>
+                <div class="texto">
+                    <p>Total de cupos en Bogotá</p>
+                </div>
+                <div class="valor">
+                    <p>62.670</p>
+                </div>
+            </div>
 
-    <!-- Fin sección contador  -->
+        </div>
+
+    </div>
     <style>
-        .contador {
+        .mpv-body .box-contador {
             padding: 20px 25px 10px 25px;
             margin-top: 30px;
             margin-bottom: 30px;
@@ -82,21 +63,22 @@
             box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
         }
 
-        .contador .titulo {
+        .box-contador .titulo {
             text-align: center;
         }
 
-        .contador .titulo h3 {
+        .box-contador .titulo h3 {
             font-family: 'Montserrat', sans-serif;
             font-size: 22px;
             font-weight: 800;
             text-align: center;
             line-height: 1.4;
             color: #1C2046;
-            margin: 0px;
+            margin: 8px;
+            margin-bottom: 16px;
         }
 
-        .contador .titulo .enfasis {
+        .box-contador .titulo .enfasis {
             background-color: #66e026;
             color: #fff;
             text-transform: uppercase;
@@ -105,30 +87,36 @@
             font-size: 1.1em;
         }
 
-        .botones {
-            padding: 10px;
+        .mpv-body .box-contador .cards {
+            background: rgba(255, 255, 255, 1);
+            grid-area: box-contador;
+            display: grid;
+            gap: 8px;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr ;
+            grid-template-rows: auto;
+        }
+        @media(min-width:768px){
+            .mpv-body .box-contador .cards {
+            display: grid;
+            gap: 8px;
+            grid-template-columns: 1fr 1fr;
+        }
         }
 
-        .botones .boton {
-            margin: 10px;
+        .box-contador .cards .card-cont {
+            /* height: px; */
             display: flex;
+            /* flex-direction: column; */
             justify-content: center;
             align-items: center;
         }
 
-        .botones .icono {
-            /* height: 100px; */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            /* padding: 5px; */
+        .box-contador .imagen {
+            max-width: 80px;
         }
 
-        .botones .icono img {
-            max-width: 50px;
-        }
-
-        .boton .texto {
+        .box-contador .texto {
             font-family: 'Montserrat', sans-serif;
             font-size: 14px;
             font-weight: 500;
@@ -139,12 +127,15 @@
             letter-spacing: 1.1;
             padding: 5px;
         }
+        .box-contador .texto p{
+           margin: 8px;
+        }
 
-        .boton .valor {
+        .box-contador .valor {
             background-color: #66e026;
         }
 
-        .boton .valor p {
+        .box-contador .valor p {
             margin: 0px;
             padding: 8px;
             color: #fff;
@@ -155,6 +146,8 @@
             line-height: 1;
         }
     </style>
+
+
 
 
     <hr><!-- row mapa -->
@@ -179,49 +172,42 @@
 
                     <!-- indicadores -->
                     <ol class="carousel-indicators">
-                        <li data-slide-to="0" data-target="#carousel-default"></li>
+                        <li class="active" data-slide-to="0" data-target="#carousel-default"></li>
                         <li data-slide-to="1" data-target="#carousel-default"></li>
-                        <li class="active" data-slide-to="2" data-target="#carousel-default"></li>
+                        <li data-slide-to="2" data-target="#carousel-default"></li>
                         <li data-slide-to="3" data-target="#carousel-default"></li>
                         <li data-slide-to="4" data-target="#carousel-default"></li>
-                        <li data-slide-to="5" data-target="#carousel-default"></li>
                     </ol>
                     <div class="carousel-inner" role="listbox">
 
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2021/jr1_8518.jpg" title="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." alt="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." height="100%">
+                        <div class="item active">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_003.png" title="La secretaria de Movilidad, Deyanira Ávila entregó la certificación. Foto:SDM" alt="La secretaria de Movilidad, Deyanira Ávila entregó la certificación. Foto:SDM" height="100%">
                             <div class="carousel-caption bs-n">
-                                <p>Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región.</p>
+                                <p>Bogotá, 28 de abril de 2023. @Sectormovilidad. Marymount se convierte en el primer colegio de Bogotá en recibir la certificación Sello Oro de la Red de Cicloparqueaderos</p>
                             </div>
                         </div>
                         <div class="item ">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2021/jr1_6102.jpg" title="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." alt="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." height="100%">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_005.png" title="Fotografia de actividades Cicloparqueaderos" alt="Fotografia de actividades Cicloparqueaderos " height="100%">
+                            <!-- <div class="carousel-caption bs-n">
+                                <p>Bogotá cierra el año con más de 56.000 cupos para el parqueo de bicicletas y 301 establecimientos certificados por la Red Distrital de Cicloparqueaderos</p>
+                            </div> -->
+                        </div>
+                        <div class="item ">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_001.png" title="Bogotá, la Red Distrital de Cicloparqueaderos cierra este año con más de 56.000 cupos para el parqueo seguro de bicicletas, de los cuales, 27.012 han sido certificados con los Sellos de Calidad Oro y Plata de la Secretaría Distrital de Movilidad." alt="Bogotá, la Red Distrital de Cicloparqueaderos cierra este año con más de 56.000 cupos para el parqueo seguro de bicicletas, de los cuales, 27.012 han sido certificados con los Sellos de Calidad Oro y Plata de la Secretaría Distrital de Movilidad. " height="100%">
                             <div class="carousel-caption bs-n">
-                                <p>Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región.</p>
+                                <p>Bogotá, 26 de diciembre de 2022. @Sectormovilidad.- @UMVbogota). Bogotá cierra el año con más de 56.000 cupos para el parqueo de bicicletas y 301 establecimientos certificados por la Red Distrital de Cicloparqueaderos</p>
                             </div>
                         </div>
-                        <div class="item active">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2021/jr1_6121.jpg" title="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." alt="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." height="100%">
-                            <div class="carousel-caption bs-n">
-                                <p>Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región.</p>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2021/_jrg5021.jpg" title="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." alt="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." height="100%">
-                            <div class="carousel-caption bs-n">
-                                <p>Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región.</p>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2021/jr1_5964.jpg" title="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." alt="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." height="100%">
-                            <div class="carousel-caption bs-n">
-                                <p>Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región.</p>
-                            </div>
+                        <div class="item ">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_004.png" title="Fotografia de actividades Cicloparqueaderos" alt="Fotografia de actividades Cicloparqueaderos " height="100%">
+                            <!-- <div class="carousel-caption bs-n">
+                                <p>Bogotá cierra el año con más de 56.000 cupos para el parqueo de bicicletas y 301 establecimientos certificados por la Red Distrital de Cicloparqueaderos</p>
+                            </div> -->
                         </div>
                         <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2021/_jrg5064.jpg" title="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." alt="Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y  los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región." height="100%">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_002.png" title="Entrega de la certificación Sello Oro al cicloparqueadero del Concejo de Bogotá. De izq. a der. concejala María Fernanda Rojas; secretaria de Movilidad, Deyanira Ávila; y el presidente del Concejo, Samir Abisambra" alt="" height="100%">
                             <div class="carousel-caption bs-n">
-                                <p>Del 26 de septiembre al 3 de octubre se llevó a cabo la XIV Semana de la Bici Bogotá - Región. Se realizaron más de 80 actividades gratuitas para ciclistas de Bogotá y los municipios cercanos con el fin destacar el papel de la como eje integrador entre la ciudad y la región.</p>
+                                <p>Bogotá, 11 de noviembre de 2022. @Sectormovilidad. Concejo de Bogotá recibe la certificación Sello Oro por su cicloparqueadero.</p>
                             </div>
                         </div>
                     </div>
@@ -332,8 +318,8 @@
                         <div class="col-xs-4 col-sm-3 cp-np-img-1"></div>
                         <div class="col-xs-7 col-sm-9">
                             <div class="cp-np-text">
-                                <h4>A partir de hoy el ‘Registro Bici’ se realiza de manera virtual en un solo paso</h4>
-                                <p>Bogotá, 3 de octubre de 2021. Este domingo 3 de octubre, el secretario Distrital de Movilidad, Nicolás Estupiñán, confirmó que el proceso de virtualización del ‘Registro Bici será en un solo paso. Esta iniciativa de la Administración Distrital permite asociar los datos personales de los biciusuarios ​​con los de su bicicleta para facilitar la propiedad de su vehículo ante la solicitud de las autoridades o para denunciar un caso de hurto. </p>
+                                <h4>En el año 2022 Bogotá avanzó en movilidad sostenible y siguió mejorando su infraestructura vial.</h4>
+                                <p>Bogotá, 24 de febrero de 2023 (@SectorMovilidad). Este viernes, 24 de febrero, el sector Movilidad y las entidades que lo conforman (Secretaría de Movilidad, IDU, UMV, TransMilenio, Empresa Metro, La Rolita y La Terminal de Transportes) llevaron a cabo la Audiencia Pública de Rendición de Cuentas, espacio en donde se dieron a  conocer los logros alcanzados a lo largo del año 2022. </p>
                             </div>
                         </div>
                     </a>
@@ -345,8 +331,8 @@
                         <div class="col-xs-4 col-sm-3 cp-np-img-2"></div>
                         <div class="col-xs-7 col-sm-9">
                             <div class="cp-np-text">
-                                <h4>La Alcaldía de Bogotá se suma a la red de cicloparqueaderos con ‘Sello de Calidad Oro’</h4>
-                                <p>Bogotá, 11 de octubre de 2021 (@SectorMovilidad). La Secretaría Distrital de Movilidad ( SDM) reconoció el compromiso de las entidades públicas, empresas privadas y universidades que promueven la cultura de la movilidad sostenible.</p>
+                                <h4>La ciudad se consolida como un referente mundial en el uso y promoción de la bicicleta</h4>
+                                <p>Bogotá, 4 de enero de 2023 (@SectorMovilidad). La Secretaría Distrital de Movilidad le presentó a la ciudadanía un balance sobre los avances que ha tenido Bogotá en materia de infraestructura, proyectos, pedagogía y estrategias enfocadas en el uso y promoción de la bicicleta como un medio de transporte sostenible.</p>
                             </div>
                         </div>
                     </a>
@@ -750,7 +736,7 @@
 
     .cp-np-img-1 {
         height: 150px;
-        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/04-10-2021/jr1_0263.jpg');
+        background-image: url('https://lh6.googleusercontent.com/L1rfa40ttXuc7kE7QVedlne2F_mixar5JdeYlX3gt9E8K6koYLFW5MaSTy8v1d8mFio9xbKmrwXPf3egcJ1bESafvQzVUjj0RSI-Vv2Hb9mA23PMFKwgIOrhzpQyh_HUUsO8goamsy3NajwtUdybwQ');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -760,7 +746,7 @@
 
     .cp-np-img-2 {
         height: 150px;
-        background-image: url('https://lh3.googleusercontent.com/tWHf1mvpl_s8PhvwT_8c3x87DjMfum-dmspxkhceZjS8H4hGY9002Cdz3RzBd9n3VIFk3NC0tnQTK-knpUYWq8oOonsrdMjJ1g_w6qSVJzXEMU4RZ7S3Xf5ddLLHsEDAajHhHmQ=s0');
+        background-image: url('https://lh3.googleusercontent.com/6-UNwkzd5jbK7KkRWazDLCtSyOjOuOzK883d8QkyazCAyqDTKjuuJSVd2aVqaN3Xt-wSGLl_B0gqVo7HY34WG7kIZi4pt5dxpwA5gpvQF1ica_d9ZrjTOhfNM4X0Futbu37J6URtHiClLPJHqGYsTq_RsGlFzfiHcED929d-V1KKv6JGNZEuAlyoh3V0g9l-unXOCLjVGw');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -833,10 +819,10 @@
     }
 
     .btn-sub-cp:hover,
-        {
-        margin: 5px;
-        background: #1C2046;
-        display: table;
+    {
+    margin: 5px;
+    background: #1C2046;
+    display: table;
     }
 
     .btn-sub-cp a {
