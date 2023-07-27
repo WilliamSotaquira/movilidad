@@ -73,7 +73,7 @@
             </div>
             <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
                 <img class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2021/cartacompromiso.webp" alt="">
-                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/trato-digno" target="_blank" rel="noopener noreferrer" tabindex="8">Carta de Compromiso al Ciudadano</a></h3>
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/carta_de_compromiso_a_la_ciudadania" target="_blank" rel="noopener noreferrer" tabindex="8">Carta de Compromiso al Ciudadano</a></h3>
             </div>
 
             <div class="recuadro zoom col-xs-6 col-sm-4 col-md-3">
@@ -276,7 +276,7 @@
     }
 
     .mujer .clic-icon img {
-        
+
         width: 50px;
         transition: 0.5s ease;
         -moz-transition: 0.5s ease;
