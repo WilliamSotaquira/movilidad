@@ -26,114 +26,80 @@
         }
 
         .box-title-center img {
-            max-width: 450px;
+            max-width: 400px;
             margin: auto;
-            padding: 2em;
+            padding: 1.5em 2em;
         }
     </style>
 
+    <!-- Component box carousel ecologistics-ppal-->
+    <div class="box-carousel box-carousel-ecologistics-ppal">
 
-    <!-- Component box carousel -->
-    <div class="box-carousel">
+        <div id="carousel-ecologistics-ppal" class="carousel slide" data-ride="carousel-ecologistics-ppal">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-ecologistics-ppal" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-ecologistics-ppal" data-slide-to="1"></li>
+                <li data-target="#carousel-ecologistics-ppal" data-slide-to="2"></li>
+                <li data-target="#carousel-ecologistics-ppal" data-slide-to="3"></li>
+                <li data-target="#carousel-ecologistics-ppal" data-slide-to="5"></li>
+            </ol>
 
-        <div class='row'>
-
-            <!-- Carousel vertical medidas recursos: 340x300px -->
-            <div class='col-xs-12 visible-xs-12 visible-xs-block'>
-                <div id="carousel-vertical" class="carousel slide" data-ride="carousel-vertical">
-                    <!-- Indicators -->
-                    <ol class="carousel-indicators">
-                        <li data-target="#carousel-vertical" data-slide-to="0" class="active"></li>
-                        <li data-target="#carousel-vertical" data-slide-to="1"></li>
-                        <li data-target="#carousel-vertical" data-slide-to="2"></li>
-                        <li data-target="#carousel-vertical" data-slide-to="3"></li>
-                        <li data-target="#carousel-vertical" data-slide-to="4"></li>
-
-                    </ol>
-
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
-                        <div class="item active">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750.png" alt="...">
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_02.png" alt="...">
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_03.png" alt="...">
-                        </div>
-
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_05.png" alt="...">
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_06.png" alt="...">
-                        </div>
-                    </div>
-
-                    <!-- Controls -->
-                    <a class="left carousel-control" href="#carousel-vertical" role="button" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#carousel-vertical" role="button" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <picture>
+                        <source media="(min-width: 992px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_001_992x400.png">
+                        <source media="(min-width: 768px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_002_768x400.png">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_003_340x260.png" alt="Fotografía de vehículos de carga eléctricos">
+                    </picture>
                 </div>
-            </div>
-
-            <!-- Carousel horizontal medidas recursos: 980x400px -->
-            <div class='col-sm-12 hidden-xs'>
-                <div id="carousel-horizontal" class="carousel slide" data-ride="carousel-horizontal">
-                    <!-- Indicators -->
-                    <ol class="carousel-indicators">
-                        <li data-target="#carousel-horizontal" data-slide-to="0" class="active"></li>
-                        <li data-target="#carousel-horizontal" data-slide-to="1"></li>
-                        <li data-target="#carousel-horizontal" data-slide-to="2"></li>
-                        <li data-target="#carousel-horizontal" data-slide-to="3"</li>
-                        <li data-target="#carousel-horizontal" data-slide-to="4"></li>
-                    </ol>
-
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" role="listbox">
-                    <div class="item active">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_06.png" alt="...">
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_02.png" alt="...">
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_03.png" alt="...">
-                        </div>
-
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_05.png" alt="...">
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750.png" alt="...">
-                        </div>
-
-                    </div>
-
-                    <!-- Controls -->
-                    <a class="left carousel-control" href="#carousel-horizontal" role="button" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#carousel-horizontal" role="button" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
+                <div class="item">
+                    <picture>
+                        <source media="(min-width: 992px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_004_992x400.png">
+                        <source media="(min-width: 768px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_005_768x400.png">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_006_340x260.png" alt="Fotografía de vehículos de carga eléctricos">
+                    </picture>
+                </div>
+                <div class="item">
+                    <picture>
+                        <source media="(min-width: 992px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_007_992x400.png">
+                        <source media="(min-width: 768px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_008_768x400.png">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_009_340x260.png" alt="Fotografía de vehículos de carga eléctricos">
+                    </picture>
+                </div>
+                <div class="item">
+                    <picture>
+                        <source media="(min-width: 992px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_010_992x400.png">
+                        <source media="(min-width: 768px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_011_768x400.png">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_012_340x260.png" alt="Fotografía de vehículos de carga eléctricos">
+                    </picture>
+                </div>
+                <div class="item">
+                    <picture>
+                        <source media="(min-width: 992px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_013_992x400.png">
+                        <source media="(min-width: 768px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_014_768x400.png">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_015_340x260.png" alt="Fotografía de vehículos de carga eléctricos">
+                    </picture>
                 </div>
 
             </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-ecologistics-ppal" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-ecologistics-ppal" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
 
     </div>
     <style>
-        .set-wrapper .box-carousel {
-            grid-area: box-carousel;
+        .set-wrapper .box-carousel-ecologistics-ppal {
+            grid-area: box-carousel-ecologistics-ppal;
             margin-bottom: 48px;
         }
 
@@ -157,14 +123,33 @@
             opacity: 0.5;
         }
 
+        .box-carousel .carousel-indicators {
+            bottom: 0px !important;
+            position: absolute;
+            bottom: 8px;
+            left: calc(50% - 70px);
+            z-index: 15;
+            width: 140px;
+            padding-left: 0;
+            margin-left: 0%;
+            text-align: center;
+            list-style: none;
+            padding: 0 8px;
+            background: #fafafa99;
+            border-radius: 15px;
+            /* border: solid 1px #40404080; */
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+        }
+
         .box-carousel .carousel-indicators li {
-            background-color: #ffe145;
+            background-color: #404040;
             border-color: #40404050;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
         }
 
         .box-carousel .carousel-indicators .active {
-            background-color: #404040;
-            border-color: #40404080;
+            background-color: #ffe145;
+            border-color: #A6B517;
         }
     </style>
 
@@ -172,8 +157,9 @@
     <div class="box-title-paragraph paragraph">
         <h3>¿Qué es el proyecto EcoLogistics?</h3>
         <p>El proyecto EcoLogistics impulsa el transporte de carga bajo en carbono para ciudades sustentables. Esta iniciativa apoya ciudades en Argentina, India y Colombia para desarrollar e implementar planes sustentables de transporte de carga urbana con la creación de capacidades en actores claves.</p>
-        <p>Es financiado por la Iniciativa Internacional del Clima (IKI), del Ministerio Federal de Medio Ambiente, Protección de la Naturaleza y Seguridad Nuclear de Alemania (BMU) y ejecutado por ICLEI - Gobiernos Locales por la Sustentabilidad, con apoyo técnico de Despacio, Zaragoza Logistics Center (ZLC) y Smart Freight Centre (SFC)., Plan de Acción de Logística Urbana Baja en Carbono (LCAP-UF).</p>
-        <p>Es un documento que demuestra cómo Bogotá puede reducir sus emisiones de gases de efecto invernadero (GEI) en el sector de logística urbana. Este Plan contempla el sector de transporte de carretera, objeto de diagnóstico realizado por el equipo de Despacio e ICLEI, con apoyo de la administración pública de Bogotá y la Red de Logística Urbana (RLU), llevando en cuenta las tipologías vehiculares más comunes y utilizadas en las entregas de última milla.</p>
+        <p>Es financiado por la Iniciativa Internacional del Clima (IKI), del Ministerio Federal de Medio Ambiente, Protección de la Naturaleza y Seguridad Nuclear de Alemania (BMU) y ejecutado por ICLEI - Gobiernos Locales por la Sustentabilidad, con apoyo técnico de Despacio, Zaragoza Logistics Center (ZLC) y Smart Freight Centre (SFC).</p>
+        <h3>Plan de Acción de Logística Urbana Baja en Carbono (LCAP-UF)</h3>
+        <p>La publicación demuestra cómo Bogotá puede reducir sus emisiones de gases de efecto invernadero (GEI) en el sector de logística urbana. Este Plan contempla el sector de transporte de carretera, objeto de diagnóstico realizado por el equipo de Despacio e ICLEI, con apoyo de la administración pública de Bogotá y la Red de Logística Urbana (RLU), llevando en cuenta las tipologías vehiculares más comunes y utilizadas en las entregas de última milla.</p>
     </div>
     <style>
         .set-wrapper .box-title-paragraph {
@@ -187,6 +173,12 @@
             /* text-transform: uppercase; */
             font-size: 24px;
             font-weight: 700;
+        }
+
+        .box-title-paragraph h3,
+        .box-title-left h3,
+        .paragraph h3{
+            border-bottom: #ffe04b solid 2px;
         }
 
         .box-title-paragraph h4 {
@@ -215,7 +207,7 @@
         .set-wrapper .box-title-left {
             grid-area: box-title-left;
             padding-top: 18px;
-            margin-top: 48px;
+            margin-top: 32px;
         }
 
         .box-title-left h3 {
@@ -233,7 +225,7 @@
     <!-- Componente box img-paragraph -->
     <div class="box-img-paragraph">
         <div class="imagen img-contenedor">
-            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_450x450.png" alt="Imagen de prueba" title="Imagen de prueba">
+            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-07-2023/ecologistics_imagen_016_1200x750.png" alt="Imagen de vehículo de carga" title="Imagen de vehículo de carga">
         </div>
         <div class="paragraph ph-img-paragraph">
             <p>El proyecto busca promover políticas y prácticas de logística baja en carbono (EcoLogística) que contribuyan a la mitigación del cambio climático y que cumplan con las metas de la NDC del país. , iIgualmente, se trabaja para destacar la logística urbana como un área prioritaria para los gobiernos locales, regionales y nacionales para combatir el cambio climático; fortalecer la capacidad institucional a través de la participación de diversas partes interesadas y promover un enfoque de gobernanza multinivel para la política de transporte urbano de mercancías.</p>
@@ -290,7 +282,7 @@
             font-size: 24px;
             font-weight: 700;
             margin: 0px;
-            padding-top: 48px;
+            padding-top: 32px;
             padding-bottom: 16px;
 
         }
@@ -427,7 +419,7 @@
     <!-- Sección box demostracion -->
     <div class="box-demostracion">
         <div class="paragraph ph-5">
-            <h3>Proyecto demostrativo: Evaluación de alternativas de desconsolidación utilizando vehículos de cero emisiones para la distribución de última milla de paquetes en tres zonas de Bogotá D.C.</h3>
+            <h3>Proyecto demostrativo: Evaluación de alternativas de desconsolidación utilizando vehículos de cero emisiones para la distribución de última milla de paquetes en tres zonas de Bogotá</h3>
             <p>Este piloto surgió como parte del proyecto Ecologistics, en el que Bogotá ganó una financiación por parte de la Iniciativa Internacional del Clima (IKI), del Ministerio Federal de Medio Ambiente, Protección de la Naturaleza y Seguridad Nuclear de Alemania (BMU), para implementar este proyecto demostrativo, que tuvo como objetivo principal la innovación en modelos de distribución de última milla para reducir el impacto ambiental e identificar oportunidades para mejorar la eficiencia logística.</p>
         </div>
     </div>
@@ -441,8 +433,8 @@
     <!-- Sección box piloto -->
     <div class="box-piloto">
         <div class="paragraph ph-6">
-        <h3>¿Qué buscó resolver el piloto?</h3>
-        <p>Buscó la viabilidad en términos económicos, ambientales, operacionales y sociales de la distribución de última milla, usando diferentes tipologías de vehículos, mercancías y modelos operativos.</p>
+            <h3>¿Qué buscó resolver el piloto?</h3>
+            <p>Buscó la viabilidad en términos económicos, ambientales, operacionales y sociales de la distribución de última milla, usando diferentes tipologías de vehículos, mercancías y modelos operativos.</p>
         </div>
     </div>
     <style>
@@ -452,44 +444,52 @@
     </style>
 
 
-<!-- Sección box img-full -->
-<div class="box-img-full">
-    <div class="imagen img-full_one">
-        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_04.png" alt="" title="">
+    <!-- Sección box img-full -->
+    <div class="box-img-full">
+        <div class="imagen img-full_one">
+            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2023/ecologistics_230621_1200x750_04.png" alt="" title="">
+        </div>
     </div>
-</div>
-<style>
-    .set-wrapper .box-img-full {
-        grid-area: box-img-full;
-    }
-    .box-img-full img{
-        border: solid 1px #f5f5f5;
-        max-width: 800px;
-        margin: 3em;
-        border-radius: 4px;
-    }
-</style>
+    <style>
+        .set-wrapper .box-img-full {
+            grid-area: box-img-full;
+        }
+
+        .box-img-full img {
+            border: solid 1px #f5f5f5;
+            max-width: 800px;
+            margin: 3em;
+            border-radius: 4px;
+        }
+    </style>
 
     <!-- Sección box desarrollo -->
     <div class="box-desarrollo">
         <div class="paragraph ph-7">
-        <h3>¿Cómo se desarrolló?</h3>
-        <p>Se desarrolló mediante cuatro (4) modelos de operación, reemplazando vehículos convencionales de combustión interna por, motocarros eléctricos, Vans eléctricas y Triciclos electro asistidos. Con la participación  de 7 empresas, 1 generador de carga, 2 operadores Logísticos, 1 empresa de mensajería, 1 empresa de renta de vehículos y 2 operadores logísticos.</p>
-        <p>Resultados:</p>
-        <ul>
-            <li>Reducción de emisiones de GEI</li>
-            <li>Reducción en la contaminación del aire</li>
-            <li>Disminución en la congestión y la inseguridad vial</li>
-            <li>Mejora en la eficiencia logística</li>
-            <li>Ahorro de 1.25 toneladas de CO2 equivalente, evitando la circulación de 5 vehículos de combustión interna y reduciendo la emisión  de material particulado.</li>
-        </ul>
+            <h3>¿Cómo se desarrolló?</h3>
+            <p>Se desarrolló mediante cuatro modelos de operación, reemplazando vehículos convencionales de combustión interna por, motocarros eléctricos, vans eléctricas y triciclos electro asistidos. Con la participación de siete empresas, un generador de carga, dos operadores logísticos, una empresa de mensajería, una empresa de renta de vehículos y dos operadores logísticos.</p>
+            <p>Resultados:</p>
+            <ul>
+                <li>Reducción de emisiones de GEI</li>
+                <li>Reducción en la contaminación del aire</li>
+                <li>Disminución en la congestión y la inseguridad vial</li>
+                <li>Mejora en la eficiencia logística</li>
+                <li>Ahorro de 1.25 toneladas de CO2 equivalente, evitando la circulación de 5 vehículos de combustión interna y reduciendo la emisión de material particulado.</li>
+            </ul>
+            <p>A partir de los resultados, se han desarrollado dos módulos que facilitan la toma de decisiones en la electrificación de la última milla, en función de:</p>
+            <ul>
+                <li>Infraestructura disponible</li>
+                <li>Costo energético y ambiental</li>
+            </ul>
+            <p>Estos módulos y mas información pueden ser consultados: <a href="https://oscarng.shinyapps.io/ICLEI_beta/">Herramienta para la electrificación del transporte de carga en la última milla</a></p>
         </div>
     </div>
     <style>
         .set-wrapper .box-desarrollo {
             grid-area: box-desarrollo;
         }
-        .box-desarrollo ul>li{
+
+        .box-desarrollo ul>li {
             font-size: 16px;
             font-weight: 500;
             text-align: left;
@@ -503,8 +503,9 @@
     <div class="box-recursos">
         <div class="paragraph ph-8">
             <h3>Recursos</h3>
-            <p></p>
+            <p>De click sobre los documentos para visualizarlos y descargarlos.</p>
         </div>
+        <p>&nbsp;</p>
         <div>
 
             <div class="media">
@@ -529,6 +530,7 @@
         .set-wrapper .box-recursos {
             grid-area: box-recursos;
         }
+
         .zoom {
             transition: 0.5s ease;
             -moz-transition: 0.5s ease;
@@ -553,13 +555,6 @@
             /* IE9 */
         }
     </style>
-
-
-
-
-
-
-
-
 </div>
 <!-- Fin Set -->
+<p>&nbsp;</p>
