@@ -4,7 +4,7 @@
 @section('contenido')
 
 <!-- Set nuestraEntidad -->
-<div class="set-wrapper nuestraEntidad">
+<div class="set-wrapper nuestraEntidad container">
 
     <!-- Component box title-center -->
     <div class="box-title-center">
@@ -35,14 +35,15 @@
     <!-- Sección box grid-buttons -->
     <div class="box-grid-buttons">
 
-        <a href="https://gestiondocumental.movilidadbogota.gov.co/" target="_blank"><img alt="icono del aplicativo ORFEO" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/orfeo.png"></a>
-        <a href="https://www.movilidadbogota.gov.co/intranet/" target="_blank"><img alt="icono de la intranet de la SDM" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/intranet-claro.png"></a>
-        <a href="http://mioficina.movilidadbogota.gov.co/" target="_blank"><img alt="icono de correo" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/correo-oscuro.png"></a>
-        <a href="https://aranda.movilidadbogota.gov.co/USDKV8/Login.aspx" target="_blank"><img alt="icono de ARANDA" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/aranda-claro.png"></a>
-        <a href="https://www.movilidadbogota.gov.co/web/trabajo_inteligente" target="_blank"><img alt="trabajo inteligente" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-09-2021/2021-09-23_botones-pagina-trabajo-inteligente_300-x-300_1_1.png"></a>
-        <a href="https://cursos.movilidadbogota.gov.co/" target="_blank"><img alt="acceso a cursos virtuales" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-12-2021/plataformamoodle.png"></a>
-        <a href="https://simur.gov.co/biblioteca-digital/" target="_blank"><img alt="Biblioteca Digital" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-05-2022/iconos-02.jpg"></a>
-        <a href="http://kactus.movilidadbogota.gov.co/SmartPeople" target="_blank"><img alt="Biblioteca Digital" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/24-03-2023/9._anexo_1._aplicativo_de_pago_icono_circular_1_1.png"></a>
+        <a href="https://gestiondocumental.movilidadbogota.gov.co/" target="_blank"  rel="noopener noreferrer"><img alt="icono del aplicativo ORFEO" title="Ir a sitio web ORFEO" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/orfeo.png"></a>
+        <a href="https://www.movilidadbogota.gov.co/intranet/" target="_blank"  rel="noopener noreferrer"><img alt="icono de la intranet de la SDM" title="Ir a sitio web Intranet SDM" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/intranet-claro.png"></a>
+        <a href="http://mioficina.movilidadbogota.gov.co/" target="_blank"  rel="noopener noreferrer"><img alt="icono de correo" title="Ir a sitio web correo SDM" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/correo-oscuro.png"></a>
+        <a href="https://aranda.movilidadbogota.gov.co/USDKV8/Login.aspx" target="_blank"  rel="noopener noreferrer"><img alt="icono de ARANDA" title="Ir a sitio web Aranda" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/aranda-claro.png"></a>
+        <a href="https://www.movilidadbogota.gov.co/web/trabajo_inteligente" target="_blank"  rel="noopener noreferrer"><img alt="trabajo inteligente" title="Ir a sitio web reserva de espacios" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-09-2021/2021-09-23_botones-pagina-trabajo-inteligente_300-x-300_1_1.png"></a>
+        <a href="https://cursos.movilidadbogota.gov.co/" target="_blank"  rel="noopener noreferrer"><img alt="acceso a cursos virtuales" title="Ir a sitio web cursos virtuales" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-12-2021/plataformamoodle.png"></a>
+        <a href="https://simur.gov.co/biblioteca-digital/" target="_blank"  rel="noopener noreferrer"><img alt="Biblioteca Digital" title="Ir a sitio web biblioteca digital" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-05-2022/iconos-02.jpg"></a>
+        <a href="https://www.movilidadbogota.gov.co/SmartPeople/frmLogin.aspx" target="_blank"  rel="noopener noreferrer"><img alt="icono Kactus" title="Ir a sitio web Kactus" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/24-03-2023/9._anexo_1._aplicativo_de_pago_icono_circular_1_1.png"></a>
+        <a href="https://www.movilidadbogota.gov.co/web/trabajo_inteligente" target="_blank"  rel="noopener noreferrer"><img alt="icono trabajo inteligente" title="Ir a sitio web trabajo inteligente" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/27-07-2023/recurso_nuestraentidad_834x834_001.png"></a>
 
 
     </div>
@@ -59,6 +60,11 @@
             grid-template-columns: 1fr 1fr;
             grid-template-rows: auto;
             justify-content: center;
+        }
+        .box-grid-buttons img{
+            border: solid 2px #d3d3d3;
+            border-radius: 50%;
+
         }
         .w-100{
             min-width: 100%;
@@ -99,9 +105,9 @@
 
         @media(min-width:768px) {
             .set-wrapper .box-grid-buttons {
-                row-gap: 2em;
-                column-gap: 4em;
-                grid-template-columns: repeat(4, 1fr);
+                row-gap: 1em;
+                column-gap: 2em;
+                grid-template-columns: repeat(5, 1fr);
                 padding: 2em 8em;
         }
     </style>
