@@ -62,12 +62,6 @@ Route::view('/especifico/OGS/GestionSocial', 'especifico/OGS/GestionSocial');
 // Taxis Bogota
 Route::view('/especifico/taxisBogota/home', 'especifico/taxisBogota/home');
 
-// Transparencia Antisoborno y Anticorrupcion
-Route::view('/especifico/transparencia/boton', 'especifico/transparencia/boton');
-Route::view('/especifico/transparencia/cuentaConmigo', 'especifico/transparencia/cuentaConmigo');
-Route::view('/especifico/transparencia/canalAnticorrupcion', 'especifico/transparencia/canalAnticorrupcion');
-Route::view('/especifico/transparencia/canalAntisoborno', 'especifico/transparencia/canalAntisoborno');
-Route::view('/especifico/transparencia/cpp', 'especifico/transparencia/cpp');
 
 // Temas de Impacto
 Route::view('/especifico/temasdeImpacto/ABCDesembargo', 'especifico/temasdeImpacto/ABCDesembargo');

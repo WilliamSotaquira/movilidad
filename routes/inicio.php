@@ -19,3 +19,4 @@ Route::view('/inicio/banners', 'inicio/banners');
 
 Route::view('/inicio/logos-header', 'inicio/logos-header');
 Route::view('/inicio/accesibilidad', 'inicio/accesibilidad');
+Route::view('/inicio/menu', 'inicio/menu');
