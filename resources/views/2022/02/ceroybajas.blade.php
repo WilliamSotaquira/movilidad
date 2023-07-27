@@ -26,7 +26,7 @@
             <style>
                 .box-head {
                     background: #1c2046;
-                    background: linear-gradient(45deg, rgba(0, 0, 0, 0.3)15%, rgba(0, 0, 0, 0.6) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-02-2022/cyb_img-principal_c.webp');
+                    background: linear-gradient(45deg, rgba(0, 0, 0, 0.3)15%, rgba(0, 0, 0, 0.6) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-07-2023/recurso_cybe_1366x1024_009.png');
                     height: 430px;
                     background-repeat: no-repeat;
                     background-size: cover;
@@ -165,7 +165,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>367</h3>
+                                <h3>375</h3>
                                 <p>Motos registradas</p>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>3.015</h3>
+                                <h3>5.693</h3>
                                 <p>Carros Registrados</p>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>20.042</h3>
+                                <h3>23.315</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
@@ -330,16 +330,14 @@
         </style>
     </div>
     <div class="row box-video">
-        <!-- <div class='embed-responsive embed-responsive-16by9'>
-            <iframe width="100%" height="" src="https://www.youtube.com/embed/y6p8cYbbZWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div> -->
+
         <div class='set-noticias'>
 
             <!-- Sección box video -->
             <div class="box-video">
                 <div class='video video-ppal video-4by3'>
                     <div class='embed-responsive embed-responsive-4by3'>
-                        <iframe width='100%' src='https://www.youtube.com/embed/y6p8cYbbZWI' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                        <iframe width='100%' src='https://www.youtube.com/embed/i3Wx02KJX4Q' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -377,19 +375,19 @@
                 </style>
 
                 <div class="box-noticia ">
-                    <i>Viernes, Abril 28, 2023 - 10:14</i>
-                    <h3>Marymount se convierte en el primer colegio de Bogotá en recibir la certificación Sello Oro de la Red de Cicloparqueaderos</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/marymount_se_convierte_en_el_primer_colegio_de_bogota_en_recibir_la_certificacion_sello_oro" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Martes, Junio 27, 2023 - 19:24</i>
+                    <h3>Plazas de mercado se unen a la movilidad sostenible en su operación logística</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/plazas_de_mercado_se_unen_a_la_movilidad_sostenible_en_su_operacion_logistica" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
                 <div class="box-noticia ">
-                    <i>Miércoles, Marzo 29, 2023 - 10:59</i>
-                    <h3>En el barrio Verbenal ahora los peatones cuentan con más y mejor espacio público</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/en_el_barrio_verbenal_ahora_los_peatones_cuentan_con_mas_y_mejor_espacio_publico" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Jueves, Junio 8, 2023 - 18:04</i>
+                    <h3>Bogotá es referente en movilidad sostenible para expertos internacionales</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_es_referente_en_movilidad_sostenible_para_expertos_internacionales" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
                 <div class="box-noticia ">
-                    <i>Domingo, Marzo 12, 2023 - 20:45</i>
-                    <h3>Corredor Verde Séptima: una obra crucial para cerca de 2 millones de bogotanos y el último compromiso por cumplir para completar la red vial de la primera línea del metro</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/corredor_verde_septima_una_obra_crucial_para_cerca_de_2_millones_de_bogotanos_y_el_ultimo" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Viernes, Febrero 24, 2023 - 12:29</i>
+                    <h3>En el año 2022 Bogotá avanzó en movilidad sostenible y siguió mejorando su infraestructura vial</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/en_el_ano_2022_bogota_avanzo_en_movilidad_sostenible_y_siguio_mejorando_su_infraestructura" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
 
                 <!-- <div class="box-noticia ">
@@ -756,7 +754,7 @@
                                     <p>La movilidad motorizada en Bogotá, se basa en vehículos de combustión que utilizan combustibles fósiles (gasolina, diésel, GNV, etc), y es la principal responsable de esta problemática, generando:</p>
                                     <ul>
                                         <li><strong>43% de las emisiones básicas de material particulado (principal contaminante del aire en Bogotá).</strong></li>
-                                        <li><strong>48% de los gases de efecto invernadero generado en la ciudad.</strong> </li>
+                                        <li><strong>48% de los gases de efecto invernadero generado en la ciudad.</strong></li>
                                     </ul>
                                     <p>Estos viajes también aportan a la congestión, la siniestralidad vial y los altos niveles de ruido, afectando la calidad de vida en la ciudad.</p>
                                 </div>
@@ -769,7 +767,7 @@
                                         <div class="parrafo-box">
                                             <div>
                                                 <h4>Contaminación del aire</h4>
-                                                <p>En Bogotá, en el año 2018 <strong>murieron más de 2.300 personas</strong> por enfermedades asociadas a la contaminación del aire (SDA, 2021).</p>
+                                                <p>En Bogotá, en el año 2019 <strong>murieron más de 2.300 personas</strong> por enfermedades asociadas a la contaminación del aire (SDA, 2021).</p>
                                             </div>
 
                                         </div>
@@ -789,7 +787,7 @@
                                         <div class="parrafo-box">
                                             <div>
                                                 <h4>Cambio climático</h4>
-                                                <p><strong>La ciudad genera el 5% de las emisiones de Gases de Efecto Invernadero del país</strong>, generando 11.421.724 toneladas de CO2 equivalente (t CO2e).</p>
+                                                <p><strong>La ciudad genera el 4.42% de las emisiones de Gases de Efecto Invernadero del país,</strong> generando 13.419,6 Kilo toneladas de CO2 equivalente (t CO2e). Fuente: Inventario departamental de gases efecto invernadero y carbono negro - 2018. Gobierno de Colombia.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -812,8 +810,7 @@
                                 </div>
                                 <div class="parrafo">
                                     <p>Una de las soluciones es la transición desde el uso de vehículos que utilizan combustibles fósiles, hacia vehículos cero emisiones.</p>
-                                    <p>Por esto, <strong>Bogotá está formulando la Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023-2040</strong> será la hoja de ruta para consolidar esta movilidad como una alternativa eficiente, accesible y competitiva en la ciudad y sus municipios aledaños.</p>
-                                    <!-- <p>Definiendo metas ambiciosas para cada modo de transporte:</p> -->
+                                    <p>Por esto, Bogotá cuenta con la <strong>Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023-2040,</strong> que se constituye como la hoja de ruta para consolidar esta movilidad, como una alternativa sostenible, accesible, competitiva y atractiva en Bogotá y la Región Metropolitana.</p>
                                 </div>
                             </div>
                         </div>
@@ -828,47 +825,73 @@
                                     <li data-target="#myCarousel" data-slide-to="1"></li>
                                     <li data-target="#myCarousel" data-slide-to="2"></li>
                                     <li data-target="#myCarousel" data-slide-to="3"></li>
+                                    <li data-target="#myCarousel" data-slide-to="4"></li>
+                                    <li data-target="#myCarousel" data-slide-to="5"></li>
+                                    <li data-target="#myCarousel" data-slide-to="6"></li>
                                 </ol>
 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner">
                                     <div class="item active">
-                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-02-2022/sitp_electrico.webp" alt="Bus Eléctrico de SITP">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-07-2023/recurso_cybe_1366x1024_010.png" alt="Bus Eléctrico de SITP">
                                         <div class="carousel-caption">
                                             <h3>Transporte público</h3>
                                             <ul>
-                                                <li>SITP: Desde 2022 sólo se contratarán buses cero emisiones <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% cero emisiones directas de material particulado a 2036</li>
-                                                <li>Taxis: incentivos para la renovación desde 2025 <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% eléctricos a 2036.</li>
+                                                <li>Desde 2023, el 100 % de buses del SITP que se registren serán de cero emisiones, a 2040, circularán exclusivamente buses cero emisiones.</li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="item">
                                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-02-2022/camion_electrico.webp" alt="Bus Eléctrico de SITP">
                                         <div class="carousel-caption">
-                                            <h3>Transporte de carga</h3>
+                                            <h3>Transporte de carga urbana</h3>
                                             <ul>
-                                                <li>Carga liviana y volquetas de 2 ejes <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% de la flota será de cero y bajas emisiones a 2040.</li>
+                                                <li>en 2035, el 100 % de la flota de transporte de carga que se registre será de cero y bajas emisiones.</li>
                                             </ul>
-                                            <!-- <p>...</p> -->
                                         </div>
                                     </div>
                                     <div class="item">
                                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-02-2022/oficial.webp" alt="Bus Eléctrico de SITP">
                                         <div class="carousel-caption">
-                                            <h3>Transporte oficial y escolar</h3>
+                                            <h3>Automóviles oficiales</h3>
                                             <ul>
-                                                <li>Flota oficial: Renovación progresiva desde 2022 <span class="glyphicon glyphicon-arrow-right" style="color: rgba(102, 224, 38, 1);" aria-hidden="true"></span> 100% de la flota para transporte de pasajeros eléctrica a 2030.</li>
-                                                <li>Flota escolar de colegios públicos: 100% eléctrica a 2040.</li>
+                                                <li>A 2028, el 100 % de los automóviles y camionetas de uso oficial del Distrito, que se registren serán de cero emisiones.</li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="item">
                                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-02-2022/particular.webp" alt="Bus Eléctrico de SITP">
                                         <div class="carousel-caption">
-                                            <h3>Particulares</h3>
+                                            <h3>Vehículos particulares</h3>
                                             <ul>
-                                                <li>Vehículos particulares: 100% de las ventas serán cero emisiones a 2040.</li>
-                                                <li>Motocicletas: 100% de las ventas serán cero emisiones a 2040.</li>
+                                                <li>A 2032, el 100 % del registro de automóviles particulares será de tecnología de cero y bajas emisiones y, a 2040, el total del registro será solo de cero emisiones.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-07-2023/recurso_cybe_1366x1024_008.png" alt="Taxista en vía de Bogotá">
+                                        <div class="carousel-caption">
+                                            <h3>Taxis</h3>
+                                            <ul>
+                                                <li>A 2026, el 100 % de los taxis que se registren serán de cero emisiones</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-07-2023/recurso_cybe_3936x2624_002.jpg" alt="Motociclista en vía de Bogotá">
+                                        <div class="carousel-caption">
+                                            <h3>Motocicletas</h3>
+                                            <ul>
+                                                <li>A 2032, el 100 % del registro de motocicletas será de cero emisiones.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-07-2023/recurso_cybe_1366x1024_007.png" alt="Motociclista en vía de Bogotá">
+                                        <div class="carousel-caption">
+                                            <h3>Transporte escolar</h3>
+                                            <ul>
+                                                <li>Se espera que a partir de 2026, el registro de este tipo de vehículos sea exclusivo para modelos de cero y bajas emisiones, mientras que, para el año 2035, la apuesta se concentra en que la circulación de vehículos escolares sea mayoritariamente de cero emisiones.</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -891,11 +914,11 @@
                     </div>
                     <style>
                         #menu2 .carousel-caption {
-                            visibility: hidden;
+                            /* visibility: hidden; */
                             right: 10%;
                             left: 10%;
                             /* text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5); */
-                            background-color: rgba(0, 0, 0, 0.9);
+                            background-color: rgba(0, 0, 0, 0.85);
                             padding: 15px;
                         }
 
@@ -1109,7 +1132,7 @@
                     }
 
                     .menu3 .img-card-2 {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-09-2021/vehiculo_hidrogeno_0.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-07-2023/recurso_cybe_1366x1024_001.jpg');
                     }
 
                     .menu3 .img-card-3 {
@@ -1324,7 +1347,7 @@
                             </table>
                             <p><i>Comparación entre Tecnologías de Cero y Bajas Emisiones</i></p>
                             <p><i>* Comparación para un vehículo Sedan Promedio. Fuente: Alternative Fuels Data Center - National Renewable Energy Laboratory (NREL)</i></p>
-                            <p><i>** Para los vehículos híbridos enchufables y los eléctricos el rendimiento se calcula en galones equivalentes de gasolina, asumiendo que un galón de gasolina es equivalente a 33,7 kWh de electricidad. Fuente: <a href="http://www.nrel.gov/docs/fy14osti/61108.pdf" target="_blank" rel="noopener noreferrer">https://www.nrel.gov/docs/fy14osti/61108.pdf</a></i></p>
+                            <p><i>** Para los vehículos híbridos enchufables y los eléctricos el rendimiento se calcula en galones equivalentes de gasolina, asumiendo que un galón de gasolina es equivalente a 33,7 kWh de electricidad. Fuente: <a href="https://www.nrel.gov/docs/fy14osti/61108.pdf">https://www.nrel.gov/docs/fy14osti/61108.pdf</a></i></p>
                         </div>
                         <style>
                             .table {
@@ -1441,7 +1464,7 @@
                                         <h3 class="panel-title">¿Cargar un vehículo eléctrico toma más de una hora?</h3>
                                     </div>
                                     <div class="panel-body">
-                                        <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80% la batería del vehículo. Bogotá tendrá 20 puntos de recarga rápida de uso público en 2022 y seguirá aumentando esta infraestructura.</p>
+                                        <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80% la batería del vehículo. Bogotá tendrá 10 cargadores rápidos de uso público adicionales en 2023 y 5 más en 2024 y seguirá aumentando esta infraestructura.</p>
                                         <p>Si se utiliza un cargador semi-rápido, tardaría entre 2 y 4 horas y con un cargador lento el tiempo sería mayor a 6 horas. Este tipo de cargadores son más adecuados para la recarga en el hogar.</p>
                                     </div>
                                 </div>
@@ -1469,14 +1492,15 @@
                                         <p>Entre 300 y 400 km:</p>
                                         <ul>
                                             <li>Renault Zoe (300 km)</li>
-                                            <li>BMW i3 (330 km)</li>
+                                            <li>BMW 118i Sport Line (330 km)</li>
                                             <li>Nissan Leaf (350 km)</li>
-                                            <li>BYD E2, E3 y Yuan (versiones de 300 km y de 400 km)</li>
+                                            <li>BYD i Dolphin (400 km)</li>
                                         </ul>
-                                        <p>Más de 400 km:</p>
+                                        <p>400 Km en adelante:</p>
                                         <ul>
-                                            <li>Tesla Model 3</li>
                                             <li>Porsche Taycan</li>
+                                            <li>BYD Yuan Plus EV</li>
+                                            <li>Tesla Model 3</li>
                                         </ul>
                                         <p>Como referencia, un viaje ida y vuelta desde la Plaza Lourdes, hasta:</p>
                                         <ul>
@@ -1488,28 +1512,10 @@
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <h3 class="panel-title">Para vehículos con características similares, ¿los costos de adquisición de un vehículo eléctrico son más altos que los de un vehículo de combustión?</h3>
-                                    </div>
-                                    <div class="panel-body">
-                                        <p>Actualmente, el costo de adquisición de un vehículo eléctrico es más alto que el de un vehículo similar de combustión, pero los gastos asociados a la operación son significativamente menores. Adicionalmente, la reducción del costo de las baterías y los incentivos para facilitar la adquisición y uso, harán que los precios sean cada vez más competitivos.</p>
-                                        <p>Un vehículo eléctrico de cuatro pasajeros puede costar entre 100 y 150 millones de pesos en promedio. A continuación se presentan algunos precios de referencia a julio de 2021:</p>
-                                        <ul>
-                                            <li>BYD E0: $83.900.000</li>
-                                            <li>BYD E3: $106.900.000</li>
-                                            <li>BYD Yuan: $114.900.000</li>
-                                            <li>Renault Zoe Zen: $131.440.000</li>
-                                            <li>Nissan Leaf: $143.990.000</li>
-                                            <li>BMW i3: $172.900.000</li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="panel panel-default">
-                                    <div class="panel-heading">
                                         <h3 class="panel-title">¿Para vehículos con características similares, los costos de operación y mantenimiento de un vehículo de combustión son más altos que de un vehículo eléctrico?</h3>
                                     </div>
                                     <div class="panel-body">
-                                        <p>Verdadero, en promedio, los costos de operación y mantenimiento de los vehículos eléctricos son menores que los de los vehículos convencionales, esto se debe principalmente a que el costo de la energía es más barato que el costo de combustible y que los vehículos eléctricos tienen menos componentes susceptibles a mantenimiento. A manera de ejemplo, los costos operacionales de los taxis eléctricos del piloto de Bogotá fueron 25% menores en comparación a los taxis de combustión.</p>
+                                        <p>Verdadero, en promedio, los costos de operación y mantenimiento de los vehículos eléctricos son menores que los de los vehículos convencionales, esto se debe principalmente a que el costo de la energía es más barato que el costo de combustible y que los vehículos eléctricos tienen menos componentes susceptibles a mantenimiento. A manera de ejemplo, los costos operacionales de los taxis eléctricos del piloto de Bogotá fueron 8% menores en comparación a los taxis de combustión.</p>
                                     </div>
                                 </div>
 
@@ -1518,7 +1524,7 @@
                                         <h3 class="panel-title">¿La vida útil de un vehículo eléctrico gama media puede durar en promedio más de 10 años?</h3>
                                     </div>
                                     <div class="panel-body">
-                                        <p>Verdadero. La vida útil depende del uso que se le dé al vehículo, se estima que un VE dura en promedio 160.000 kms que para el uso promedio de los vehículos particulares en Colombia representaría una vida útil de más de 10 años.</p>
+                                        <p>Verdadero. La vida útil depende del uso que se le dé al vehículo, se estima que un vehículo eléctrico dura en promedio 160.000 kms que para el uso promedio de los vehículos particulares en Colombia representaría una vida útil de más de 10 años.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1595,7 +1601,9 @@
                     <div class="tab-content">
 
                         <div id="incentivos" class="tab-pane fade">
-                            <div>
+
+                            <!-- Sección box table-incentivos -->
+                            <div class="box-table-incentivos">
                                 <br>
                                 <div class="parrafo-tab">
                                     <h3 class="text-center">¡Conoce los incentivos que ya existen para estas tecnologías! </h3>
@@ -1607,87 +1615,99 @@
                                             <div class="table-responsive">
                                                 <table class="table table-striped table-hover table-condensed">
                                                     <tr>
-                                                        <th class="th1" colspan="2">Instrumentos para la promoción de movilidad de Cero y Bajas Emisiones</th>
-                                                        <th class="th1">Competencia</th>
-                                                        <th class="th1">Gasolina</th>
-                                                        <th class="th1">Eléctrico</th>
-                                                        <th class="th1">Híbrido</th>
+                                                        <th class="th1" rowspan="2">Instrumentos</th>
+                                                        <th class="th1" rowspan="2">Competencia</th>
+                                                        <th class="th1" rowspan="2" style="width: 20%;">Incentivo</th>
+                                                        <th class="th1" colspan="3">Tipo de Vehículo</th>
+                                                    </tr>
+                                                    <tr>
+                                                        <th class="th1" style="width: 15%;">Combustión</th>
+                                                        <th class="th1" style="width: 15%;">Híbrido</th>
+                                                        <th class="th1" style="width: 15%;">Eléctrico</th>
                                                     </tr>
                                                     <tr>
                                                         <th rowspan="2">Incentivos a la compra</th>
+                                                        <td><strong>Nación</strong><br>Decreto 2051 de 2019</td>
                                                         <td><strong>Aranceles</strong></td>
-                                                        <td><strong>Nación:</strong><br>Decreto 2051 del 13 de noviembre de 2019</td>
-                                                        <td>0% - 35%</td>
-                                                        <td>0%</td>
+                                                        <td>35%</td>
                                                         <td>5%</td>
+                                                        <td>0%</td>
                                                     </tr>
                                                     <tr>
+                                                        <td><strong>Nación</strong><br>Ley 1819 del 2016</td>
                                                         <td><strong>IVA</strong></td>
-                                                        <td><strong>Nación:</strong> <br>Ley 1819 del 2016</td>
                                                         <td>19%</td>
                                                         <td>5%</td>
                                                         <td>5%</td>
                                                     </tr>
                                                     <tr>
-                                                        <th rowspan="3">Incentivos de uso y circulación</th>
-                                                        <td rowspan="2"><strong>Impuesto Vehicular</strong></td>
-                                                        <td><strong>Nación:</strong> <br>Ley 1964 de 2019</td>
-                                                        <td>1,5% - 3,5%</td>
+                                                        <th rowspan="7">Incentivos de uso y circulación</th>
+                                                        <td><strong>Nación</strong> <br>Ley 1964 de 2019</td>
+                                                        <td><strong>Impuesto Vehicular</strong></td>
+                                                        <td>3,50%</td>
+                                                        <td>3,50%</td>
                                                         <td>1%</td>
-                                                        <td>1,5% - 3,5%</td>
 
                                                     </tr>
                                                     <tr>
-                                                        <td><strong>Distrito:</strong> <br> Acuerdo 780 de 2020</td>
+                                                        <td><strong>Distrito</strong> <br> Acuerdo 780 de 2020</td>
+                                                        <td><strong>Descuento en impuesto vehicular en Bogotá por 5 años</strong></td>
                                                         <td>0%</td>
-                                                        <td>
-                                                            <p>Nuevos:</p>
-                                                            <p>-60% por 5 años</p>
-                                                            <p>Taxis:</p>
-                                                            <p>-70% por 5 años</p>
-                                                        </td>
-                                                        <td>-40% por 5 años</td>
+                                                        <td>-40%</td>
+                                                        <td>-60%</td>
                                                     </tr>
                                                     <tr>
-                                                        <td><strong>Pico y Placa</strong></td>
-                                                        <td>
-                                                            <p><strong>Distrito:</strong> </p>
-                                                            <p>Decreto 575 de 2013</p>
-                                                            <p>Resolución 83464 de 2021</p>
-                                                        </td>
-                                                        <td>Aplica</td>
-                                                        <td>No aplica</td>
-                                                        <td>No aplica</td>
+                                                        <td><strong>Distrito</strong> <br> Acuerdo 780 de 2020</td>
+                                                        <td><strong>Descuento en impuesto vehicular en Bogotá para taxis por 5 años</strong></td>
+                                                        <td>0%</td>
+                                                        <td>0%</td>
+                                                        <td>-70%</td>
                                                     </tr>
                                                     <tr>
-                                                        <th rowspan="4">Otros instrumentos de promoción</th>
-                                                        <td><strong>Beneficios SOAT</strong></td>
-                                                        <td><strong>Distrito:</strong> <br> Ley 1964 de 2019</td>
+                                                        <td><strong>Distrito</strong> <br> Decreto 003 de 2023</td>
+                                                        <td><strong>Restricciones de circulación para vehículos particulares en Bogotá</strong></td>
+                                                        <td>L-V<br>6:00-21:00<br>(Rotación placas 5 dígitos)</td>
+                                                        <td>Exceptuados</td>
+                                                        <td>Exceptuados</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Distrito</strong> <br> Decretos 660 de 2001 y 475 de 2019</td>
+                                                        <td><strong>Restricciones de circulación para taxis en Bogotá</strong></td>
+                                                        <td>L-S<br>5:30-21:00<br>(Rotación placas 2 dígitos)</td>
+                                                        <td>L-S<br>5:30-21:00<br>(Rotación placas 2 dígitos)</td>
+                                                        <td>Exceptuados</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Distrito Zona de parqueo pago</strong></td>
+                                                        <td><strong>Beneficio en estacionamiento en vía</strong></td>
+                                                        <td>N/A</td>
+                                                        <td>N/A</td>
+                                                        <td>Gratis 1ra hora</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Distrito</strong></td>
+                                                        <td><strong>Pago de taxi por acceso a circuito de terminal de transporte salitre</strong></td>
+                                                        <td>$COP 500</td>
+                                                        <td>$COP 500</td>
+                                                        <td>0</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th rowspan="2"><strong>Otros instrumentos de promoción</strong></th>
+                                                        <td><strong>Nación</strong><br>Ley 1964 de 2019</td>
+                                                        <td><strong>Descuento en SOAT</strong></td>
+                                                        <td>0%</td>
                                                         <td>0%</td>
                                                         <td>-10%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><strong>Nación</strong><br>Ley 1964 de 2019</td>
+                                                        <td><strong>Descuento en revisión técnico mecánica</strong></td>
                                                         <td>0%</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td><strong>Infraestructura de recarga de acceso público</strong></td>
-                                                        <td><strong>Distrito:</strong> <br> Decreto 552 de 2018</td>
-                                                        <td>EDS</td>
-                                                        <td>1 rápida y 56 semi</td>
-                                                        <td>Estaciones de servicio (EDS) + Eléctricas</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td><strong>Beneficios técnico mecánica</strong></td>
-                                                        <td><strong>Nación:</strong> <br> Ley 1964 de 2019</td>
                                                         <td>0%</td>
                                                         <td>-30%</td>
-                                                        <td>0%</td>
                                                     </tr>
-                                                    <tr>
-                                                        <td><strong>Parqueaderos preferenciales</strong></td>
-                                                        <td><strong>Distrito:</strong> <br> Circular No. 006 de 2020</td>
-                                                        <td>No aplica</td>
-                                                        <td>(En definición)</td>
-                                                        <td>No aplica</td>
-                                                    </tr>
+
+
                                                 </table>
                                             </div>
                                         </div>
@@ -1695,11 +1715,17 @@
                                     <br>
                                     <div class='row'>
                                         <div class='col-xs-12 col-sm-12'>
-                                            <p><strong>Formularemos incentivos económicos y no económicos que promuevan el despliegue de estas tecnologías en todos los segmentos de transporte y la cadena de valor</strong></p>
+                                            <p><strong>Formularemos incentivos económicos y no económicos que promuevan el despliegue de estas tecnologías en todos los segmentos de transporte y la cadena de valor.</strong></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            <style>
+                                #incentivos .box-table-incentivos {
+                                    grid-area: box-table-incentivos;
+                                }
+                            </style>
+
                         </div>
 
                         <div id="infraestructura" class="tab-pane fade">
@@ -1714,7 +1740,7 @@
                                     <div class="row">
                                         <div class="col-xs-12">
                                             <div class="txt-seccion-6">
-                                                <p><strong>Le apostamos a tener 20 puntos de carga rápida para uso público en la ciudad a 2022.</strong> Conoce la infraestructura que existe hoy.</p>
+                                                <p>Bogotá cuenta con más de 70 cargadores de uso público, de los cuales 5 son de carga rápida.</p>
                                             </div>
                                             <br>
                                             <!-- Sección box tabs -->
@@ -1742,7 +1768,6 @@
                                                 <br>
                                                 <div class="txt-seccion-6">
                                                     <p>Si tienes un vehículo eléctrico o una flota de vehículos eléctricos y consideras que no hay suficientes puntos de recarga en tu zona, envíanos un correo a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y lo tendremos en cuenta para la expansión de la Red.</p>
-                                                    <p>Igualmente, otros operadores han dispuesto estaciones de recarga de uso público en la ciudad, las cuales se pueden consultar <a href="https://www.electromaps.com/mapa?qsearch=bogota" target="_blank" rel="noopener noreferrer">aquí</a></p>
                                                 </div>
 
 
@@ -1853,19 +1878,16 @@
                                                     width: 20rem;
                                                     height: 30vh;
                                                 }
-                                                @media(min-width:768px){
-                                                    .nav-sdm-std .embed-container iframe {
-                                                    width: 80rem;
-                                                    height: 50vh;
-                                                }
-                                                }
 
+                                                @media(min-width:768px) {
+                                                    .nav-sdm-std .embed-container iframe {
+                                                        width: 80rem;
+                                                        height: 50vh;
+                                                    }
+                                                }
                                             </style>
 
-                                            <div class="txt-seccion-6">
-                                                <p>Si tienes un vehículo eléctrico o una flota de vehículos eléctricos y consideras que no hay suficientes puntos de recarga en tu zona, envíanos un correo a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y lo tendremos en cuenta para la expansión de la Red.</p>
-                                                <p>Igualmente, otros operadores han dispuesto estaciones de recarga de uso público en la ciudad, las cuales se pueden consultar <a href="https://www.electromaps.com/mapa?qsearch=bogota" target="_blank" rel="noopener noreferrer">aquí</a></p>
-                                            </div>
+
                                         </div>
                                     </div>
 
@@ -1929,19 +1951,22 @@
                                     <div class='row'>
                                         <div class='col-xs-12 col-sm-12'>
                                             <ol>
-
                                                 <p>
                                                     <li><strong>El SENA ha desarrollado los siguientes cursos complementarios sobre movilidad de cero y bajas emisiones.</strong>
                                                 </p>
                                                 <ul>
-                                                    <li>Formación en Vehículos de propulsión eléctrica</li>
-                                                    <li>Formación en Vehículos de propulsión Híbrida </li>
-                                                    <li>Habilitación eléctrica para Vehículos eléctricos e Híbridos</li>
-                                                    <li>Mantenimiento del sistema eléctrico de la motocicleta </li>
-                                                    <li>Mantenimiento de Motocicletas de propulsión eléctrica </li>
-                                                    <li>Mantenimiento de Patinetas y Bicicletas eléctricas </li>
-                                                    <li>Conducción Eco-Eficiente en el transporte</li>
-                                                    <p><a href="https://forms.gle/in7zmqVLyfmAaCeLA">Registrar tu interes de participar aquí</a></p><br>
+                                                    <li>Conducción eco-eficiente en el transporte.</li>
+                                                    <li>Mantenimiento y ajuste técnico mecánico en bicicletas de gama baja.</li>
+                                                    <li>Técnico en control de movilidad, transporte y seguridad vial.</li>
+                                                    <li>Tecnólogo en gestión integral del transporte.</li>
+                                                    <li>Alistamiento de vehículos automotores de servicio público.</li>
+                                                    <li>Diagnóstico de los sistemas eléctricos y electrónicos de automotores.</li>
+                                                    <li>Técnico en mantenimiento eléctrico y electrónico en automotores.</li>
+                                                    <li>Formación en Vehículos de propulsión eléctrica.</li>
+                                                    <li>Formación en Vehículos de propulsión Híbrida.</li>
+                                                    <br>
+                                                    <p><a href="https://forms.gle/in7zmqVLyfmAaCeLA">Registrar tu interes de participar aquí</a></p>
+                                                    <br>
                                                 </ul>
                                                 </li>
 
@@ -1949,12 +1974,9 @@
                                                     <li><strong>Conoce más sobre movilidad eléctrica con estas herramientas:</strong>
                                                 </p>
                                                 <ul>
-                                                    <li>Documento de diagnóstico sobre la movilidad de cero y bajas emisiones:
-                                                        <p><a href="https://drive.google.com/file/d/1TAxh1-NCWJj0WbGjsLPuZBZsJwDqLtIn/view?usp=sharing">https://drive.google.com/file/d/1TAxh1-NCWJj0WbGjsLPuZBZsJwDqLtIn/view?usp=sharing</a></p>
-                                                    </li>
-                                                    <li>Guía de Movilidad eléctrica para organizaciones (Próximamente)
-                                                        <p><a href="/"></a></p>
-                                                    </li>
+                                                    <li><a href="https://drive.google.com/file/d/1TAxh1-NCWJj0WbGjsLPuZBZsJwDqLtIn/view?usp=sharing">Documento de diagnóstico sobre la movilidad de cero y bajas emisiones</a></li>
+                                                    <li><a href="https://www.google.com/url?q=https://drive.google.com/file/d/1mIZIR-qn6Ds7oYS_TGC6GdxRuMWGSzOI/view?usp%3Ddrive_link&sa=D&source=docs&ust=1689627120003900&usg=AOvVaw1G9mX6QqjfxrxKJJ2dWNOe">Documento CONPES D.C. 30 Consejo Distrital de Política Económica y Social del Distrito Capital. <strong>Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023 - 2040.</strong></a></li>
+                                                    <li><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1EMjaKODWoelDBRMGaT5SsG_AU16q7KAg/edit?usp%3Ddrive_link%26ouid%3D108378662830851171002%26rtpof%3Dtrue%26sd%3Dtrue&sa=D&source=docs&ust=1689627120008407&usg=AOvVaw2bYKcBN4v4QaS31ftLLav0" download>Plan de Acción - Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023 - 2040</a></li>
                                                 </ul>
                                                 </li>
                                                 </ul>
@@ -1963,6 +1985,10 @@
                                     </div>
                                 </div>
                                 <style>
+                                    .seccion-7 {
+                                        margin-left: 16px;
+                                    }
+
                                     .seccion-7 ol {
                                         list-style-type: none;
                                         margin: 0;
@@ -2117,9 +2143,9 @@
                                 <br>
                                 <div class='row'>
                                     <div class='col-xs-12'>
-                                        <p><strong>Si tu organización quiere hacer parte de esta transición y visibilizar sus esfuerzos a nivel internacional, solo debe diligenciar el siguiente formato: </strong><a href="https://docs.google.com/document/d/1XrmtuvMesZeVmXvxtOMzv0tU4fm_Zk9V/edit" target="_blank" rel="noopener noreferrer">https://docs.google.com/document/d/1XrmtvMesZeVmXvxtOMzv0tU4fm_Zk9V/edit</a></p>
+                                        <p>Si tu organización quiere hacer parte de esta transición y visibilizar los esfuerzos a nivel internacional, solo debe diligenciar este <a href="https://docs.google.com/document/d/1XrmtuvMesZeVmXvxtOMzv0tU4fm_Zk9V/edit"><strong>formato.</strong></a></p>
                                         <p>Y enviarlo a los correos <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y <a href="mailto:german.diazrivas@un.org">german.diazrivas@un.org</a></p>
-                                        <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica. <a href="https://drive.google.com/file/d/1XbddBGDIDbzLrky8-6rQDE5W8lmrrHZr/view?usp=sharing">Conócelos haciendo clic aquí.</a></p>
+                                        <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica.</p>
 
                                     </div>
                                 </div>
@@ -2128,11 +2154,12 @@
 
                                 <div id="carousel_empresas" class="carousel slide" data-ride="carousel">
                                     <!-- Indicators -->
-                                    <ol class="carousel-indicators">
+                                    <!-- <ol class="carousel-indicators">
                                         <li data-target="#carousel_empresas" data-slide-to="0" class="active"></li>
                                         <li data-target="#carousel_empresas" data-slide-to="1"></li>
                                         <li data-target="#carousel_empresas" data-slide-to="2"></li>
-                                    </ol>
+                                        <li data-target="#carousel_empresas" data-slide-to="3"></li>
+                                    </ol> -->
 
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
@@ -2184,7 +2211,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="row logos">
-                                                <div class='col-xs-12 col-sm-2 col-sm-offset-2'>
+                                                <div class='col-xs-12 col-sm-2'>
                                                     <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_piot_400.png" alt="">
                                                 </div>
                                                 <div class='col-xs-12 col-sm-2'>
@@ -2196,6 +2223,34 @@
                                                 <div class='col-xs-12 col-sm-2'>
                                                     <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
                                                 </div>
+                                                <div class='col-xs-12 col-sm-2'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_deepsea_230628_120x120.png" alt="">
+                                                </div>
+                                                <div class='col-xs-12 col-sm-2'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_navitrans_230628_120x123.png" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="row logos">
+                                                <div class='col-xs-12 col-sm-2 col-sm-offset-5'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_motorysa-byd_230628_120x120.png" alt="">
+                                                </div>
+                                                <!-- <div class='col-xs-12 col-sm-2'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_renting_400.png" alt="">
+                                                </div>
+                                                <div class='col-xs-12 col-sm-2'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_solistica_400.png" alt="">
+                                                </div>
+                                                <div class='col-xs-12 col-sm-2'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
+                                                </div>
+                                                <div class='col-xs-12 col-sm-2'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_deepsea_230628_120x120.png" alt="">
+                                                </div>
+                                                <div class='col-xs-12 col-sm-2'>
+                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_navitrans_230628_120x123.png" alt="">
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -2455,10 +2510,10 @@
                                                 <div id="collapse_1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_1">
                                                     <div class="panel-body pb1">
                                                         <ul>
-                                                            <li class="li_1">Agenda 2030. <a href="https://www.un.org/sustainabledevelopment/es/development-agenda/" target="_blank" rel="noopener noreferrer">Ver Online</a></li>
-                                                            <li class="li_1">Acuerdo de París <a href="https://unfccc.int/sites/default/files/spanish_paris_agreement.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Declaración de crecimiento verde <a href="https://www.oecd.org/greengrowth/49709364.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Convención Marco de las Naciones Unidas sobre el Cambio Climático <a href="https://unfccc.int/resource/docs/convkp/convsp.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
+                                                            <li class="li_1"><strong>Agenda 2030.</strong><i> Objetivos de desarrollo sostenible</i><a href="https://www.un.org/sustainabledevelopment/es/development-agenda/" target="_blank" rel="noopener noreferrer"> Ver en línea</a></li>
+                                                            <li class="li_1"><strong>Acuerdo de París.</strong><i> Naciones Unidas 2015</i><a href="https://unfccc.int/sites/default/files/spanish_paris_agreement.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Declaración de crecimiento verde.</strong><i> Organización para la Cooperación y el Desarrollo Económicos (OCDE)</i><a href="https://www.oecd.org/greengrowth/49709364.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Convención Marco de las Naciones Unidas sobre el Cambio Climático.</strong><i> Naciones Unidas. 1992</i><a href="https://unfccc.int/resource/docs/convkp/convsp.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
                                                         </ul>
 
                                                     </div>
@@ -2478,14 +2533,15 @@
                                                 <div id="collapse_2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_2">
                                                     <div class="panel-body pb1">
                                                         <ul>
-                                                            <li class="li_1">Ley 2099 de 2021 (Disposiciones para la transición energética) <a href="https://dapre.presidencia.gov.co/normativa/normativa/LEY%202099%20DEL%2010%20DE%20JULIO%20DE%202021.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Decreto 191 de 2021 (Estacionamientos preferenciales para Vehículos Eléctricos) <a href="https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20191%20DEL%2023%20DE%20FEBRERO%20DE%202021.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Resolución 40223 de 2021 (Estandarización de Conectores) <a href="https://gestornormativo.creg.gov.co/gestor/entorno/docs/resolucion_minminas_40223_2021.htm#:~:text=Por%20la%20cual%20se%20establecen,veh%C3%ADculos%20el%C3%A9ctricos%20e%20h%C3%ADbridos%20enchufables" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Ley 1964 de 2019 (Promoción de vehículos eléctricos en Colombia)<a href="https://dapre.presidencia.gov.co/normativa/normativa/LEY%201964%20DEL%2011%20DE%20JULIO%20DE%202019.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Estrategia Nacional de Movilidad Eléctrica <a href="https://www1.upme.gov.co/DemandaEnergetica/ENME.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Plan Energético Nacional (2020-2050)<a href="https://www1.upme.gov.co/DemandayEficiencia/Documents/PEN_2020_2050/Plan_Energetico_Nacional_2020_2050.pdf" target="_blank" rel="noopener noreferrer">(.pdf), </a><a href="https://www1.upme.gov.co/DemandayEficiencia/Paginas/PEN.aspx" target="_blank" rel="noopener noreferrer">Enlace Documentos Relacionados.</a></li>
-                                                            <li class="li_1">Política de Crecimiento Verde <a href="https://www.dnp.gov.co/Crecimiento-Verde/Documents/Pol%C3%ADtica CONPES 3934/CONPES 3934 - Pol%C3%ADtica de Crecimiento Verde.pdf" target="_blank" rel="noopener noreferrer">(.pdf), </a><a href="https://www.dnp.gov.co/Crecimiento-Verde/Paginas/Politica-crecimiento-verde.aspx" target="_blank" rel="noopener noreferrer">Enlace Documentos Relacionados.</a></li>
-                                                            <li class="li_1">Contribución Determinada a nivel Nacional (NDC Colombia actualizada) <a href="https://www.minambiente.gov.co/cambio-climatico-y-gestion-del-riesgo/actualizacion-de-la-contribucion-determinada-a-nivel-nacional-ndc/" target="_blank" rel="noopener noreferrer">(.pdf), </a><a href="https://www.minambiente.gov.co/index.php/ndc-actualizada" target="_blank" rel="noopener noreferrer">Enlace Documentos Relacionados.</a></li>
+                                                            <li class="li_1"><strong>Ley 2099 de 2021.</strong><i> (Disposiciones para la transición energética). Por medio de la cual se dictan disposiciones para la transición energética, la dinamización del mercado energético, la reactivación económica del país y se dictan otras disposiciones . Congreso de la República 10 de julio de 2021.</i><a href="https://dapre.presidencia.gov.co/normativa/normativa/LEY%202099%20DEL%2010%20DE%20JULIO%20DE%202021.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Decreto 191 de 2021.</strong><i> (Estacionamientos preferenciales para Vehículos Eléctricos). Por el cual se adiciona la parte 6 del libro 2 del Decreto 1079 de 2015, Único Reglamentario del Sector Transporte en lo relacionado con la identificación de parqueaderos preferenciales para vehículos eléctricos.</i><a href="https://dapre.presidencia.gov.co/normativa/normativa/DECRETO%20191%20DEL%2023%20DE%20FEBRERO%20DE%202021.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Resolución 40223 de 2021.</strong><i> (Estandarización de Conectores)</i><a href="https://gestornormativo.creg.gov.co/gestor/entorno/docs/resolucion_minminas_40223_2021.htm#:~:text=Por%20la%20cual%20se%20establecen,veh%C3%ADculos%20el%C3%A9ctricos%20e%20h%C3%ADbridos%20enchufables" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Ley 1964 de 2019.</strong><i> (Promoción de vehículos eléctricos en Colombia)</i><a href="https://dapre.presidencia.gov.co/normativa/normativa/LEY%201964%20DEL%2011%20DE%20JULIO%20DE%202019.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Estrategia Nacional de Movilidad Eléctrica</strong><a href="https://www1.upme.gov.co/DemandaEnergetica/ENME.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Plan Energético Nacional (2020-2050)</strong><a href="https://www1.upme.gov.co/DemandayEficiencia/Documents/PEN_2020_2050/Plan_Energetico_Nacional_2020_2050.pdf" target="_blank" rel="noopener noreferrer"> (.pdf),</a><a href="https://www1.upme.gov.co/DemandayEficiencia/Paginas/PEN.aspx" target="_blank" rel="noopener noreferrer"> Enlace Documentos Relacionados.</a></li>
+                                                            <li class="li_1"><strong>Política de Crecimiento Verde</strong><a href="https://www.dnp.gov.co/Crecimiento-Verde/Documents/Pol%C3%ADtica CONPES 3934/CONPES 3934 - Pol%C3%ADtica de Crecimiento Verde.pdf" target="_blank" rel="noopener noreferrer"> (.pdf),</a><a href="https://www.dnp.gov.co/Crecimiento-Verde/Paginas/Politica-crecimiento-verde.aspx" target="_blank" rel="noopener noreferrer"> Enlace Documentos Relacionados.</a></li>
+                                                            <li class="li_1"><strong>Contribución Determinada a nivel Nacional.</strong><i> (NDC Colombia actualizada)</i><a href="https://www.minambiente.gov.co/cambio-climatico-y-gestion-del-riesgo/actualizacion-de-la-contribucion-determinada-a-nivel-nacional-ndc/" target="_blank" rel="noopener noreferrer"> (.pdf),</a><a href="https://www.minambiente.gov.co/index.php/ndc-actualizada" target="_blank" rel="noopener noreferrer"> Enlace Documentos Relacionados.</a></li>
+                                                            <li class="li_1"><strong>Ley 2294 de 2023.</strong><i> Por el cual se expide el Plan Nacional de Desarrollo 2022 - 2026 Colombia potencia mundial de la vida.</i><a href="https://colaboracion.dnp.gov.co/CDT/portalDNP/PND-2023/Ley_2294_del_19_de_mayo_de_2023.pdf"> (.pdf)</a></li>
                                                         </ul>
 
                                                     </div>
@@ -2502,17 +2558,20 @@
                                                         </a>
                                                     </h4>
                                                 </div>
-                                                <div id="collapse_3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading_3">
+                                                <div id="collapse_3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_3">
                                                     <div class="panel-body pb1">
                                                         <ul>
-                                                            <li class="li_1">Acuerdo 811 de 2021 (Acciones para la descarbonización en Bogotá) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=113880&dt=S" target="_blank" rel="noopener noreferrer">Ver Online</a></li>
-                                                            <li class="li_1">Acuerdo 790 de 2020 (Declaratoria emergencia climática) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=103745&dt=S" target="_blank" rel="noopener noreferrer">Ver Online, </a><a href="https://www.catorce6.com/images/legal/Acuerdo_790_de_2020_Alcaldia_Bogota.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Acuerdo 780 de 2020 (Incentivos para la reactivación económica) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=100965&dt=S" target="_blank" rel="noopener noreferrer">Ver Online, </a><a href="https://www.shd.gov.co/shd/sites/default/files/files/impuestos/Acuerdo-780-de-2020.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Acuerdo 732 de 2018 (Medidas para la promoción de la movilidad eléctrica) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=82132&dt=S" target="_blank" rel="noopener noreferrer">Ver Online, </a><a href="https://irp-cdn.multiscreensite.com/c480f174/files/uploaded/Bogota-Alcaldia-Acuerdo-2018-N0000732_20181228.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Acuerdo 689 de 2017 (Lineamientos para fortalecer la eco-conducción) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=71613&dt=S" target="_blank" rel="noopener noreferrer">Ver Online, </a><a href="https://concejodebogota.gov.co/cbogota/site/artic/20170616/asocfile/20170616162503/acuerdo_no__689_de_2017.pdf" target="_blank" rel="noopener noreferrer">(.pdf)</a></li>
-                                                            <li class="li_1">Acuerdo 619 de 2015 (Lineamientos para estimular el uso de vehículos eléctricos) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=63089" target="_blank" rel="noopener noreferrer">Ver Online </a></li>
-                                                            <li class="li_1">Acuerdo 477 de 2013 (Plan de Ascenso Tecnológico para el SITP) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=55072" target="_blank" rel="noopener noreferrer">Ver Online</a></li>
-                                                            <li class="li_1">Acuerdo 472 de 2011 (Lineamientos Política conducción ecológica) <a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=43825" target="_blank" rel="noopener noreferrer">Ver Online</a></li>
+                                                            <li class="li_1"><strong>Decreto 203 del 31 de mayo de 2023.</strong><i> Por medio del cual se establecen lineamientos para la constitución, administración y funcionamiento del Fondo Distrital para la Promoción del Ascenso Tecnológico de volquetas y del parque automotor que preste el servicio de transporte de carga de que trata el artículo 32 de la Ley 2169 de 2021, y se dictan otras disposiciones. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=142660&dt=S">ver en línea</a></li>
+                                                            <li class="li_1"><strong>Resolución 218 del 13 de agosto de 2021.</strong><i> Resolución Nº 218 del 13 agosto de 2021. Por medio de la cual se incluye la actividad denominada recarga de vehículos eléctricos dentro del listado de actividades de aprovechamiento económico de espacio público en los términos del Decreto 552 de 2018. </i><a href="https://www.dadep.gov.co/sites/default/files/comision-intersectorial-del-espacio-publico-ciep/2022-09/resolucion-218-de-2021.pdf">(.pdf)</a></li>
+                                                            <li class="li_1"><strong>Resolución No. 149772 del 23 de junio de 2023.</strong><i> Por la cual se adopta el protocolo general para el aprovechamiento económico del espacio público para la actividad de recarga de vehículos eléctricos y se establecen otras disposiciones. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=143481">ver en línea</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 811 de 2021.</strong><i> Acciones para la descarbonización en Bogotá. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=113880&dt=S" target="_blank" rel="noopener noreferrer">ver en línea</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 790 de 2020.</strong><i> Declaratoria emergencia climática. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=103745&dt=S" target="_blank" rel="noopener noreferrer">ver en línea,</a><a href="https://www.catorce6.com/images/legal/Acuerdo_790_de_2020_Alcaldia_Bogota.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 780 de 2020.</strong><i> Incentivos para la reactivación económica. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=100965&dt=S" target="_blank" rel="noopener noreferrer">ver en línea,</a><a href="https://www.shd.gov.co/shd/sites/default/files/files/impuestos/Acuerdo-780-de-2020.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 732 de 2018.</strong><i> Medidas para la promoción de la movilidad eléctrica. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=82132&dt=S" target="_blank" rel="noopener noreferrer">ver en línea,</a><a href="https://irp-cdn.multiscreensite.com/c480f174/files/uploaded/Bogota-Alcaldia-Acuerdo-2018-N0000732_20181228.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 689 de 2017.</strong><i> Lineamientos para fortalecer la eco-conducción. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=71613&dt=S" target="_blank" rel="noopener noreferrer">ver en línea,</a><a href="https://concejodebogota.gov.co/cbogota/site/artic/20170616/asocfile/20170616162503/acuerdo_no__689_de_2017.pdf" target="_blank" rel="noopener noreferrer"> (.pdf)</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 619 de 2015.</strong><i> Lineamientos para estimular el uso de vehículos eléctricos. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=63089" target="_blank" rel="noopener noreferrer">ver en línea</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 477 de 2013.</strong><i> Plan de Ascenso Tecnológico para el SITP. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=55072" target="_blank" rel="noopener noreferrer">ver en línea</a></li>
+                                                            <li class="li_1"><strong>Acuerdo 472 de 2011.</strong><i> Lineamientos Política conducción ecológica. </i><a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=43825" target="_blank" rel="noopener noreferrer">ver en línea</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -2535,11 +2594,16 @@
         .contacto-cbe {
             padding: 40px 25px;
             text-align: center;
-            background-color: #d5d5d5;
+            background-color: #66e026;
             /* color: #66e026; */
             margin-top: 10px;
             margin-right: -15px;
             margin-left: -15px;
+        }
+
+        .contacto-cbe h4 {
+            font-weight: 700;
+
         }
     </style>
 </div>
