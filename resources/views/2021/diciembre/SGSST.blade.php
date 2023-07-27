@@ -789,23 +789,35 @@
     <hr>
     <div class="s4">
         <div class="row">
-            <div class="recuadro col-xs-6 col-sm-3 col-md-3"><img alt="Rendición de cuentas SGSST" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst1.webp">
+
+            <div class="recuadro col-xs-6 col-sm-2 col-md-2 col-sm-offset-1"><img alt="Rendición de cuentas SGSST" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst1.webp">
                 <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/rendicion_de_cuentas_interna_sdm" rel="noopener noreferrer" tabindex="1" target="_blank">Rendición de cuentas SGSST</a></h3>
             </div>
 
-            <div class="recuadro col-xs-6 col-sm-3 col-md-3"><img alt="Matriz de identificación de peligros, evaluación y valoración de riesgos" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst2.webp">
-                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-11-2022/matriz_de_peligros_sdm.pdf" rel="noopener noreferrer" tabindex="2" target="_blank">Matriz de identificación de peligros, evaluación y valoración de riesgos</a></h3>
+            <div class="recuadro col-xs-6 col-sm-2 col-md-2"><img alt="Matriz de identificación de peligros, evaluación y valoración de riesgos" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst2.webp">
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-07-2023/matrizdepeligrossdmjunio-2023iv_30-06-2023_230711.pdf" rel="noopener noreferrer" tabindex="2" target="_blank">Matriz de identificación de peligros, evaluación y valoración de riesgos</a></h3>
             </div>
 
-            <div class="recuadro col-xs-6 col-sm-3 col-md-3"><img alt="Reglamento de higiene y seguridad industrial" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst3.webp">
-                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-12-2021/pa02-rg01_reglamento_de_higiene_y_seguridad_industrial_version_1.0_de_01-09-2021.pdf" rel="noopener noreferrer" tabindex="3" target="_blank">Reglamento de higiene y seguridad industrial</a></h3>
+            <div class="recuadro col-xs-6 col-sm-2 col-md-2"><img alt="Reglamento de higiene y seguridad industrial" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst3.webp">
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-07-2023/reglamentodehigieneyseguridadindustrial30052023_230711.pdf" rel="noopener noreferrer" tabindex="3" target="_blank">Reglamento de higiene y seguridad industrial</a></h3>
             </div>
 
-            <div class="recuadro col-xs-6 col-sm-3 col-md-3"><img alt="Protocolos de Bioseguridad" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst4.webp">
+            <div class="recuadro col-xs-6 col-sm-2 col-md-2"><img alt="Protocolos de Bioseguridad" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_sgsst_400x400_001.jpg">
+                <h3 class="titulo"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/resolucion22946de2021_230710.pdf" rel="noopener noreferrer" tabindex="3" target="_blank">Responsabilidades y autoridad del SG-SST</a></h3>
+            </div>
+            <div class="recuadro col-xs-6 col-sm-2 col-md-2"><img alt="Protocolos de Bioseguridad" class="img-fluid" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/sgsst4.webp">
                 <h3 class="titulo"><a aria-controls="collapseAP" aria-expanded="false" data-toggle="collapse" href="#collapseAP" role="button" tabindex="4">Protocolos de Bioseguridad</a></h3>
             </div>
         </div>
     </div>
+    <a href="#" target="_blank" rel="noopener noreferrer">Enlace de prueba</a>
+    <style>
+        a{
+            color:#A25FA4;
+            background: #252525;
+            
+        }
+    </style>
 
     <hr>
     <div class="s5"><!-- Seccion  Audiencia pública-->
