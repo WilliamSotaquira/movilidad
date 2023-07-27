@@ -377,6 +377,24 @@
                     </div>
                 </div>
 
+
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/05-07-2023/sxcv-imagen_230705_y6.png" alt="Agentes Civiles y Policía de Tránsito realizaron controles en corredores de salida e ingreso a Bogotá: foto SDM ">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>Más de un millón de vehículos se movilizaron por los diferentes corredores de entrada y salida a Bogotá durante este fin de semana festivo</h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá, 4 de julio de 2023 (@SectorMovilidad). Con éxito terminó el plan retorno de miles de viajeros que salieron de Bogotá durante el fin de semana de San Pedro y San Pablo. Con corte a la medianoche del lunes festivo, más de 615 mil vehículos ingresaron a la ciudad a través de los nueve corredores viales de la capital del país.</p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_un_millon_de_vehiculos_se_movilizaron_por_los_diferentes_corredores_de_entrada_y" class="btn-cerrar" role="button">Ver Más</a></div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-xs-12 col-sm-4">
                     <div class="thumbnail">
                         <div class="img-thumbnail">
@@ -410,25 +428,6 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="col-xs-12 col-sm-4">
-                    <div class="thumbnail">
-                        <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://lh5.googleusercontent.com/TwJ2yxoy5TkQbDa3nhvWkm7HJO300EameJGM7EfupwoKY94f_wOmnaTGe6KSWGD0zBfjCZCPTOxgFFwsTv4IVWlBe-aJomzhmc1Gr88HvS1SLS6HG2QpX8rtSdbB7dOc4Etabx_SEpuFvsStKJbfaQ" alt="Uno de los corredores intervenidos fue la Autonorte Foto: IDU">
-                        </div>
-                        <div class="caption">
-                            <div class="enc-caption">
-                                <h3>Más de 37 mil huecos fueron tapados y se intervinieron 10.000 m2 de espacio público</h3>
-                            </div>
-                            <div class="parrafo-caption">
-                                <p>Bogotá, D.C., 06 de febrero de 2023. Con éxito finalizó el Plan de Mantenimiento Vial liderado por la Alcaldía Mayor de Bogotá, programa que se puso en marcha durante los meses de diciembre y enero y que permitió recuperar la malla vial en corredores principales y vías locales, también mejorar la señalización para el beneficio de todas las personas.</p>
-                            </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_37_mil_huecos_fueron_tapados_y_se_intervinieron_10000_m2_de_espacio_publico" class="btn-cerrar" role="button">Ver Más</a></div>
-                        </div>
-                    </div>
-                </div>
-
-
 
             </div>
         </div>
