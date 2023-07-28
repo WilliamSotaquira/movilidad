@@ -17,4 +17,5 @@ yarn-error.log
 /.vscode
 desktop.ini
 /desktop.ini
+.../desktop.ini
 resources/views/especifico/zp.blade.php
