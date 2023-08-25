@@ -381,6 +381,41 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="thumbnail">
                         <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/22-08-2023/sxcv-imagen_230822_11h.png" alt="Agentes Civiles y Policía de Tránsito realizaron controles en corredores de salida e ingreso a Bogotá: foto SDM ">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>Secretaría de Movilidad presenta balance del plan retorno del festivo de la Asunción de la Virgen</h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá, 22 de agosto de 2023 (@SectorMovilidad). La Secretaría Distrital de Movilidad dispuso de un completo dispositivo de movilidad, con el fin de garantizar el acceso de miles que viajaros que retornaron a la ciudad, durante el festivo de la Asunción de la Virgen.</p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/secretaria_de_movilidad_presenta_balance_del_plan_retorno_del_festivo_de_la_asuncion_de_la" class="btn-cerrar" role="button">Ver Más</a></div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/01-08-2023/sxcv-imagen_230801_zj.jpg" alt="Agentes Civiles y Policía de Tránsito realizaron controles en corredores de salida e ingreso a Bogotá: foto SDM ">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>Cámaras de fotodetección redujeron en un 19 % siniestros viales con fatalidad entre 2022 y 2023</h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá, 1 de agosto de 2023 (@SectorMovilidad). Reducir la velocidad en las vías de Bogotá, salva vidas. Desde el año 2018, cuando comenzó la medida para disminuir los límites de velocidad a 50 Km/h en los principales corredores viales de la ciudad, se ha logrado salvar 202 vidas en estas vías, en comparación con el promedio de fallecidos que ocurrían cuando aún no se implementaba el Programa de Gestión de Velocidad.</p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/camaras_de_fotodeteccion_redujeron_en_un_19_siniestros_viales_con_fatalidad_entre_2022_y" class="btn-cerrar" role="button">Ver Más</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
                             <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/05-07-2023/sxcv-imagen_230705_y6.png" alt="Agentes Civiles y Policía de Tránsito realizaron controles en corredores de salida e ingreso a Bogotá: foto SDM ">
                         </div>
                         <div class="caption">
@@ -395,7 +430,7 @@
                     </div>
                 </div>
 
-                <div class="col-xs-12 col-sm-4">
+                <!-- <div class="col-xs-12 col-sm-4">
                     <div class="thumbnail">
                         <div class="img-thumbnail">
                             <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/30-05-2023/sxcv-imagen_230530_u2.png" alt="Agente realizando control a ciclomotor">
@@ -410,24 +445,8 @@
                             <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_define_las_restricciones_de_circulacion_a_los_ciclomotores_en" class="btn-cerrar" role="button">Ver Más</a></div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
-                <div class="col-xs-12 col-sm-4">
-                    <div class="thumbnail">
-                        <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://lh6.googleusercontent.com/ejy_kRVvvI1jZKqBwPQT10t_wgLzUHDuVqL1tOT6EH3rLFkFTnY6Cee84ixhZgIOE8p9S7vDzQUUZd5ibX4W1DZ2mHjFHpO9n9f695BeSaQ7155jgFPUDLKOgz4J5tk765mMMYkb8JkaBTNChGV4vg" alt="Foto - SDM: Operativo de control nocturno por velocidad">
-                        </div>
-                        <div class="caption">
-                            <div class="enc-caption">
-                                <h3>Bogotá refuerza en un 52% los operativos de control nocturnos por exceso de velocidad</h3>
-                            </div>
-                            <div class="parrafo-caption">
-                                <p>Bogotá. Febrero 17 de 2023. (@SectorMovilidad) La Secretaría Distrital de Movilidad y la Seccional de Tránsito de Bogotá, reforzaron los operativos de control en vía por exceso de velocidad en un 52%, en comparación con el año 2022. </p>
-                            </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_37_mil_huecos_fueron_tapados_y_se_intervinieron_10000_m2_de_espacio_publico" class="btn-cerrar" role="button">Ver Más</a></div>
-                        </div>
-                    </div>
-                </div>
 
             </div>
         </div>
@@ -532,7 +551,8 @@
                 margin-bottom: 20px;
                 margin-top: 40px;
             }
-            .box-title-center h3{
+
+            .box-title-center h3 {
                 text-align: center;
                 font-size: 32px;
                 font-weight: 700;
