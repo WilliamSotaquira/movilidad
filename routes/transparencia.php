@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Route;
 Route::view('/transparencia/boton', 'transparencia/boton');
 Route::view('/transparencia/cuentaConmigo', 'transparencia/cuentaConmigo');
 Route::view('/transparencia/canalAnticorrupcion', 'transparencia/canalAnticorrupcion');
-Route::view('/transparencia/canalAntisoborno', 'transparencia/canalAntisoborno');
+
 Route::view('/transparencia/cpp', 'transparencia/cpp');
 Route::view('/transparencia/pqrs', 'transparencia/pqrs');
 Route::view('/transparencia/agremiaciones', 'transparencia/agremiaciones');
