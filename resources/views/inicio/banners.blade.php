@@ -104,13 +104,11 @@
                     <li data-slide-to="13" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="14" data-target="#carousel_banner_lg">&nbsp;</li>
                     <li data-slide-to="15" data-target="#carousel_banner_lg">&nbsp;</li>
-                    <li data-slide-to="16" data-target="#carousel_banner_lg">&nbsp;</li>
                     <!-- <li data-slide-to="17" data-target="#carousel_banner_lg">&nbsp;</li> -->
                 </ol>
                 <div class="carousel-inner">
 
                     <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.encuestademovilidad2023.com/"><img alt="Click aquí para acceder a la pagina web de la encuesta de la movilidad 2023" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-03-2023/encuesta_de_movilidad_banner_1014_x_169_.png"></a></div>
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/red_de_logistica_urbana_rlu"><img alt="Click aquí para acceder a la pagina web de Excelencia Logística 2023" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/banner_rlu_230605_1920x320.png"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php"><img alt="Click aquí para ir a cambio en el canal de contacto a la ciudadanía" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-07-2023/aviso_mantenimiento_230718_1014x169.png" title="Banner cambio en el canal de contacto a la ciudadanía"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://tembici.com.co/"><img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-06-2023/banner_compartidas_230626_1920x320.png" title="Click aquí para acceder al sistema de bicicletas compartidas"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/beneficio_de_circulacion"><img alt="De clic aquí para conocer más acerca del beneficio de circulación por condiciones ambientales" title="Beneficio de circulación por condiciones ambientales" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-03-2023/boton_inscripcion_beneficio_ambiental_carga_1014x169.jpg"></a></div>
@@ -150,13 +148,11 @@
                     <li data-slide-to="11" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="12" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <li data-slide-to="13" data-target="#carousel-sdm-xs">&nbsp;</li>
-                    <li data-slide-to="14" data-target="#carousel-sdm-xs">&nbsp;</li>
                     <!-- <li data-slide-to="14" data-target="#carousel-sdm-xs">&nbsp;</li> -->
                 </ol>
                 <div class="carousel-inner">
 
                     <div class="item active"><a target="_blank" rel="noopener noreferrer" href="https://www.encuestademovilidad2023.com/"><img alt="Click aquí para acceder a la pagina web de la encuesta de la movilidad 2023" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-03-2023/encuesta_de_movilidad_banner_450x150.png"></a></div>
-                    <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/red_de_logistica_urbana_rlu"><img alt="Click aquí para acceder a la pagina web de Excelencia Logística 2023" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/banner_rlu_230605_450x150.png"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php"><img alt="Click aquí para ir a cambio en el canal de contacto a la ciudadanía" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-07-2023/aviso_mantenimiento_230718_450x150.png" title="Banner cambio en el canal de contacto a la ciudadanía"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://tembici.com.co/"><img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2022/sbcb_900x300.png" title="Click aquí para acceder al sistema de bicicletas compartidas"></a></div>
                     <div class="item"><a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/beneficio_de_circulacion"><img alt="De clic aquí para conocer más acerca del beneficio de circulación por condiciones ambientales" title="Beneficio de circulación por condiciones ambientales" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-03-2023/boton_inscripcion_beneficio_ambiental_carga_450x150.jpg"></a></div>
