@@ -211,12 +211,28 @@
                 <li data-target="#carrusel_avisos_xs" title="imagen 5" data-slide-to="4"></li>
                 <li data-target="#carrusel_avisos_xs" title="imagen 6" data-slide-to="5"></li>
                 <li data-target="#carrusel_avisos_xs" title="imagen 7" data-slide-to="6"></li>
+                <li data-target="#carrusel_avisos_xs" title="imagen 8" data-slide-to="7"></li>
+                <li data-target="#carrusel_avisos_xs" title="imagen 9" data-slide-to="8"></li>
 
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner zoom">
-                <div class="item active">
+
+            <div class="item active">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/carta_senda_de_integridad">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-08-2023/piezas_carta_senda_integridad_1_web_340x300.png" alt="ir a carta de la senda de integridad" title="ir a carta de la senda de integridad">
+                    </a>
+                </div>
+                <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-08-2023/susp_de_servicios-230824-banner_340x300.png" alt="Aviso de mantenimiento de aplicativo" title="Aviso de mantenimiento de aplicativo">
+                </div>
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/administracion_distrital_celebra_el_mes_del_taxista_e_invita_a_la_ciudadania_utilizar_este">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-08-2023/solicitud_piezas_mes_taxista_pieza3_banner_340x300_1.png" alt="ir a Agosto mes del taxista" title="ir a Agosto mes del taxista">
+                    </a>
+                </div>
+                <div class="item">
                     <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/cuestionarioparaabc_230713.pdf">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/banner_resolucion-132490_230713_710x626.png" alt="ir a abecé Resolución 132490 de 2023" title="ir a abecé Resolución 132490 de 2023">
                     </a>
@@ -284,12 +300,27 @@
                 <li data-target="#carrusel_avisos_lg" title="imagen 5" data-slide-to="4"></li>
                 <li data-target="#carrusel_avisos_lg" title="imagen 6" data-slide-to="5"></li>
                 <li data-target="#carrusel_avisos_lg" title="imagen 7" data-slide-to="6"></li>
+                <li data-target="#carrusel_avisos_lg" title="imagen 8" data-slide-to="7"></li>
+                <li data-target="#carrusel_avisos_lg" title="imagen 9" data-slide-to="8"></li>
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
 
                 <div class="item active">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/carta_senda_de_integridad">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-08-2023/piezas_carta_senda_integridad_1_web_950x400.png" alt="ir a carta de la senda de integridad" title="ir a carta de la senda de integridad">
+                    </a>
+                </div>
+                <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-08-2023/susp_de_servicios-230824-banner_950x300.png" alt="Aviso de mantenimiento de aplicativo" title="Aviso de mantenimiento de aplicativo">
+                </div>
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/administracion_distrital_celebra_el_mes_del_taxista_e_invita_a_la_ciudadania_utilizar_este">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-08-2023/solicitud_piezas_mes_taxista_pieza3_banner_950x300_1.png" alt="ir a Agosto mes del taxista" title="ir a Agosto mes del taxista">
+                    </a>
+                </div>
+                <div class="item">
                     <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/cuestionarioparaabc_230713.pdf">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/banner_resolucion-132490_230713_938x313.png" alt="ir a abecé Resolución 132490 de 2023" title="ir a abecé Resolución 132490 de 2023">
                     </a>
@@ -351,5 +382,3 @@
 
 
 </div>
-
-<!-- Fin Sección Bloque de Mantenimiento  -->
