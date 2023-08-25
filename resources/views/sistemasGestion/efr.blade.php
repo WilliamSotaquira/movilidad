@@ -180,7 +180,16 @@
                     <!-- Tab panes -->
                     <div class="tab-content">
 
-                        <div role="tabpanel" class="tab-pane active" id="menu1">
+
+                        <div role="tabpanel" class="tab-pane active" id="menu0">
+                            <div class="video video-4 video-16by9">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe width='100%' src='https://www.youtube.com/embed/t1SptDTxjfE?si=tR5lXzAPaSGm-3AH' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div role="tabpanel" class="tab-pane" id="menu1">
                             <div class='video'>
                                 <video controls='' style='width: 100%;' poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/sxcv-imagen_221018_c8.png">
                                     <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/firmaefr.mp4' type='video/mp4'>
@@ -232,6 +241,9 @@
                 <!-- Nav tabs -->
                 <ul class="nav nav-pills nav-justified" role="tablist">
                     <li role="presentation" class="active">
+                        <a href="#menu0" aria-controls="tab" role="tab" data-toggle="tab">Zona de<br> bienestar</a>
+                    </li>
+                    <li role="presentation">
                         <a href="#menu1" aria-controls="tab" role="tab" data-toggle="tab">Firma <br>compromiso</a>
                     </li>
                     <li role="presentation">
@@ -578,6 +590,22 @@
 
             .box-videos .nav-justified>li>a {
                 color: #333333;
+            }
+
+            @media (min-width:768px) {
+                .box-videos .nav-justified>li {
+                    display: table-cell;
+                }
+
+                .box-videos .nav-justified>li>a {
+                    margin-bottom: 0;
+                    height: 6em;
+                    display: grid;
+                    align-items: center;
+                    padding: 0;
+
+                    line-height: 1.1;
+                }
             }
 
             .footer-efr {
