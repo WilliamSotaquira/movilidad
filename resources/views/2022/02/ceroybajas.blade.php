@@ -1276,7 +1276,7 @@
                                         <td>
                                             <div class="table-imgen-v">
                                                 <div>
-                                                    <span class="title-table">Rendimiento*</span>
+                                                    <span class="title-table">Rendimiento*<br><sub>(Km / Galón eq)</sub></span>
 
                                                 </div>
                                             </div>
@@ -1284,13 +1284,13 @@
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="30px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/galon_b.png' alt='icono galón' title='icono galón'>
-                                                <span class="text-table2">38,8Km / Galón eq.</span>
+                                                <span class="text-table2">34,9</span>
                                             </div>
                                         </td>
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="30px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/galon_c.png' alt='icono galón' title='icono galón'>
-                                                <span class="text-table2">71,04Km / Galón eq.</span>
+                                                <span class="text-table2">63,4</span>
                                             </div>
                                         </td>
                                         <td>
@@ -1300,13 +1300,13 @@
                                                     <span class="text-table">+</span>
                                                     <img width="20px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/bataria_b.png' alt='icono batería' title='icono batería'>
                                                 </div>
-                                                <span class="text-table2">115,5Km / Galón eq.</span>
+                                                <span class="text-table2">119,2</span>
                                             </div>
                                         </td>
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="20px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/bateria_d.png' alt='icono batería' title='icono batería'>
-                                                <span class="text-table2">168,5Km / Galón eq.</span>
+                                                <span class="text-table2">97,1</span>
                                             </div>
                                         </td>
                                     </tr>
@@ -1314,32 +1314,32 @@
                                         <td>
                                             <div class="table-imgen-v">
                                                 <div>
-                                                    <span class="title-table">Emisiones</span>
+                                                    <span class="title-table">Emisiones CO<sub>2</sub> <br><sub>(Kg CO2 / 100km)</sub></span>
                                                 </div>
                                             </div>
                                         </td>
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo.png' alt='icono humo' title='icono humo'>
-                                                <span class="text-table2">19,6Kg CO2 / 100km</span>
+                                                <span class="text-table2">21,9</span>
                                             </div>
                                         </td>
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo_a.png' alt='icono humo' title='icono humo'>
-                                                <span class="text-table2">10,7Kg CO2 / 100km</span>
+                                                <span class="text-table2">12,0</span>
                                             </div>
                                         </td>
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo_b.png' alt='icono humo' title='icono humo'>
-                                                <span class="text-table2">5,7Kg CO2 / 100km</span>
+                                                <span class="text-table2">5,1</span>
                                             </div>
                                         </td>
                                         <td>
                                             <div class='table-imagen-v'>
                                                 <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo_d.png' alt='icono humo' title='icono humo'>
-                                                <span class="text-table2"><strong>0Kg CO2 / 100km</strong></span>
+                                                <span class="text-table2"><strong>0,0</strong></span>
                                             </div>
                                         </td>
                                     </tr>
