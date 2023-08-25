@@ -22,6 +22,10 @@ Route::get('/componente', function () {
 });
 
 
+// --------------------------------------------------------------------------------------------------------------------------------------------------------- Menu
+Route::view('/menu/principal', 'menu/principal');
+
+
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Plantillas
 Route::view('/plantillas/imagen_adaptativa', 'plantillas/imagen_adaptativa');
@@ -48,7 +52,7 @@ Route::view('/especifico/gestionRiesgos', 'especifico/gestionRiesgos');
 Route::view('/especifico/perfilesdeServidores', 'especifico/perfilesdeServidores');
 
 // Cicloparqueaderos
-Route::view('/especifico/cicloparqueaderos/principal', 'especifico//cicloparqueaderos/principal');
+Route::view('/especifico/cicloparqueaderos/principal', 'especifico/cicloparqueaderos/principal');
 
 // Nueva Concesión
 Route::view('/especifico/nuevaConcesion/home', 'especifico/nuevaConcesion/home');
@@ -127,7 +131,6 @@ Route::view('/2021/noviembre/centroContacto', '2021/noviembre/centroContacto');
 Route::view('/2021/diciembre/excepciones', '2021/diciembre/excepciones');
 Route::view('/2021/diciembre/defensor', '2021/diciembre/defensor');
 
-Route::view('/2021/diciembre/SGSST', '2021/diciembre/SGSST');
 Route::view('/2021/diciembre/nuestraEntidad', '2021/diciembre/nuestraEntidad');
 Route::view('/2021/diciembre/esquemaPublicacion', '2021/diciembre/esquemaPublicacion');
 Route::view('/2021/diciembre/formulario', '2021/diciembre/formulario');
@@ -156,8 +159,7 @@ Route::view('/2022/02/resolucion001', '2022/02/resolucion001');
 Route::view('/2022/02/medidas', '2022/02/medidas');
 Route::view('/2022/02/defensor', '2022/02/defensor');
 Route::view('/2022/02/desembargos', '2022/02/desembargos');
-Route::view('/2022/02/ambiental', '2022/02/ambiental');
-Route::view('/2022/02/efr', '2022/02/efr');
+
 Route::view('/2022/02/vus', '2022/02/vus');
 
 // Contenido marzo 2022
@@ -267,3 +269,9 @@ Route::view('/2023/06/formulario', '2023/06/formulario');
 Route::view('/2023/06/mujer', '2023/06/mujer');
 Route::view('/2023/06/pqrsd', '2023/06/pqrsd');
 Route::view('/2023/06/mapaCiclorutas', '2023/06/mapaCiclorutas');
+
+// Contenido julio 2023
+
+
+// Contenido agosto 2023
+Route::view('/2023/08/cartaIntegridad', '2023/08/cartaIntegridad');
