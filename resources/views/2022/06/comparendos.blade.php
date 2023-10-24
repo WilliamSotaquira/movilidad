@@ -1,29 +1,26 @@
 @extends('welcome')
 @section('contenido')
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<link rel='preconnect' href='https://fonts.googleapis.com'>
-<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<!-- Set Wrapper -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- Set Wrapper -->
 <hr>
-<div class='container-fluid comparendos'>
-    <div class='set-wrapper'>
-        <div class='box-head'>
-            <div class='logo'>
-                <!-- <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/07-03-2022/comparendos_20220307_sm.jpg' alt='logo' title='logo'> -->
-            </div>
-            <div class="titulo">
-                <div>
-                    <h1>Consulta y pagos de comparendos</h1>
-                    <p>Con su <strong>número de cédula</strong> y <strong>la placa del vehículo</strong> consulte los comparendos vigentes</p>
-                    <p>También encontrará la información sobre los descuentos a los que puede acceder </p>
-                </div>
-            </div>
-        </div>
+<div class="container-fluid comparendos">
+	<div class="set-wrapper">
+		<div class="box-head">
+			<div class="logo"><!-- <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/07-03-2022/comparendos_20220307_sm.jpg' alt='logo' title='logo'> --></div>
 
-        <style>
-            .set-wrapper {}
+			<div class="titulo">
+				<div>
+					<h1>Consulta y pagos de comparendos</h1>
+
+					<p>Con su <strong>número de cédula</strong> y <strong>la placa del vehículo</strong> consulte los comparendos vigentes</p>
+
+					<p>También encontrará la información sobre los descuentos a los que puede acceder</p>
+				</div>
+			</div>
+		</div>
+		<style type="text/css">.set-wrapper {}
 
             .box-head {
                 /* grid-area: logo; */
@@ -73,22 +70,20 @@
                 color: rgba(255, 255, 255, 1);
                 margin: 5px;
             }
-        </style>
-        <hr>
-        <div class="box-mensaje">
-            <div class="label">
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/icono-vehiculos_comparendos.png' alt='' title=''>
-            </div>
-            <div class="mensaje">
-                <h3>Ahora <strong>desde la comodidad de tu casa</strong> podrás consultar el <strong>pago de comparendos, acuerdos de pago y embargos.</strong></h3>
-            </div>
-            <div class="box-boton">
-                <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" class="btn btn-nm btn-lg btn-block" target="_blank" rel="noopener noreferrer">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a>
-            </div>
-        </div>
-        <hr>
-        <style>
-            .box-mensaje {
+		</style>
+		<hr>
+		<div class="box-mensaje">
+			<div class="label"><img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/icono-vehiculos_comparendos.png" title=""></div>
+
+			<div class="mensaje">
+				<h3>Ahora <strong>desde la comodidad de tu casa</strong> podrás consultar el <strong>pago de comparendos, acuerdos de pago y embargos.</strong></h3>
+			</div>
+
+			<div class="box-boton"><a class="btn btn-nm btn-lg btn-block" href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a></div>
+		</div>
+
+		<hr>
+		<style type="text/css">.box-mensaje {
                 /* height: 160px; */
                 width: 100%;
                 border: 3px solid rgba(102, 224, 38, 1);
@@ -133,21 +128,17 @@
             .box-boton {
                 padding-bottom: 25px;
             }
-        </style>
+		</style>
+		<div class="box-acuerdo">
+			<div class="imagen"><!-- <img class='img-responsive w-100' src='' alt='funcionario de la Secretaría Distrital de Movilidad realizando acuerdo de pago con ciudadanos' title='funcionario de la Secretaría Distrital de Movilidad realizando acuerdo de pago con ciudadanos'> --></div>
 
-        <div class="box-acuerdo">
-            <div class='imagen'>
-                <!-- <img class='img-responsive w-100' src='' alt='funcionario de la Secretaría Distrital de Movilidad realizando acuerdo de pago con ciudadanos' title='funcionario de la Secretaría Distrital de Movilidad realizando acuerdo de pago con ciudadanos'> -->
-            </div>
-            <div class="texto">
-                <div>
-                    <h4>Haz ya tu <strong>acuerdo de pago</strong> y ponte al día con Bogotá</h4>
-                </div>
-                <a href="https://www.movilidadbogota.gov.co/web/atencion/acuerdos_de_pago" class="btn btn-lg btn-block btn-nm" target="_blank" rel="noopener noreferrer">Clic aquí para hacer tu <strong>acuerdo de pago</strong></a>
-            </div>
-        </div>
-        <style>
-            .box-acuerdo {
+			<div class="texto">
+				<div>
+					<h4>Haz ya tu <strong>acuerdo de pago</strong> y ponte al día con Bogotá</h4>
+				</div>
+				<a class="btn btn-lg btn-block btn-nm" href="https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/facilidades-de-pago-para-los-deudores-de-obligaciones-no-tributarias-sdm-37027" rel="noopener noreferrer" target="_blank">Clic aquí para hacer tu <strong>acuerdo de pago</strong></a></div>
+		</div>
+		<style type="text/css">.box-acuerdo {
                 display: grid;
                 /* gap: 10px; */
                 grid-auto-flow: dense;
@@ -190,16 +181,15 @@
                 line-height: 1.4;
                 color: rgba(25, 28, 58, 1);
             }
-        </style>
-        <div class="box-normativo">
-            <p>Según el artículo 2 del Código Nacional de Tránsito, el comparendo es una orden formal de notificación para que el presunto contraventor o implicado se presente ante la autoridad de tránsito por la comisión de una infracción. Aquí podrá consultar con su número de cedula y placa del vehículo los comparendos que tenga pendientes, acuerdos de pago y embargos.</p>
-        </div>
-        <div class="box-boton">
-            <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" class="btn btn-lg btn-nm" target="_blank" rel="noopener noreferrer">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a>
-        </div>
-        <hr>
-        <style>
-            .box-normativo {
+		</style>
+		<div class="box-normativo">
+			<p>Según el artículo 2 del Código Nacional de Tránsito, el comparendo es una orden formal de notificación para que el presunto contraventor o implicado se presente ante la autoridad de tránsito por la comisión de una infracción. Aquí podrá consultar con su número de cedula y placa del vehículo los comparendos que tenga pendientes, acuerdos de pago y embargos.</p>
+		</div>
+
+		<div class="box-boton"><a class="btn btn-lg btn-nm" href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a></div>
+
+		<hr>
+		<style type="text/css">.box-normativo {
                 padding: 30px;
             }
 
@@ -210,21 +200,19 @@
                 line-height: 1.5;
                 color: rgba(25, 25, 25, 1);
             }
-        </style>
-        <!-- PDF 4:3 aspect ratio -->
-        <div class='box-pdf'>
-            <div class="title title-h3">
-                <h3>SISTEMA DE GESTIÓN ANTISOBORNO</h3>
-                <h4>Dirección de Gestión de Cobro</h4>
-            </div>
-            <div class='embed-responsive embed-responsive-4by3'>
-                <iframe src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-11-2022/gestion_antisoborno-3.pdf' width='640' height='480' allow='autoplay'></iframe>
-            </div>
-            <br>
-            <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-11-2022/gestion_antisoborno-3.pdf" target="_blank" rel="noopener noreferrer" download>Descargue aquí documento de la POLÍTICA ANTISOBORNO DE LA SDM (.pdf)</a>
-        </div>
-        <style>
-            .box-pdf .title {
+		</style>
+		<!-- PDF 4:3 aspect ratio -->
+		<div class="box-pdf">
+			<div class="title title-h3">
+				<h3>SISTEMA DE GESTIÓN ANTISOBORNO</h3>
+
+				<h4>Dirección de Gestión de Cobro</h4>
+			</div>
+
+			<div class="embed-responsive embed-responsive-4by3"><iframe allow="autoplay" height="480" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-04-2023/gestion_antisoborno-3_compressed.pdf" width="640"></iframe></div>
+			<br>
+			<a download="" href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/19-04-2023/gestion_antisoborno-3_compressed.pdf" rel="noopener noreferrer" target="_blank">Descargue aquí documento de la POLÍTICA ANTISOBORNO DE LA SDM (.pdf)</a></div>
+		<style type="text/css">.box-pdf .title {
                 padding: 16px 16px 32px 16px;
 
             }
@@ -237,15 +225,13 @@
             .box-pdf a{
                 display: inline-block;
             }
-        </style>
-    </div>
+		</style>
+	</div>
 </div>
-<br>
-<!-- End Set Wrapper -->
 
-<!-- Styles -->
-<style type='text/css'>
-    .field-item.even h2 {
+<p><br>
+	<!-- End Set Wrapper --><!-- Styles -->
+	<style type="text/css">.field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
     }
@@ -340,12 +326,12 @@
 
     @media(min-width:768px) {
         .box-acuerdo {
-            grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+            grid-template-columns: 40% 60%;
             grid-template-areas:
                 'imagen texto';
         }
 
     }
 
-</style>
-<!-- End Styles -->
+	</style>
+	<!-- End Styles --></p>
