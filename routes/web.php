@@ -275,3 +275,13 @@ Route::view('/2023/06/mapaCiclorutas', '2023/06/mapaCiclorutas');
 
 // Contenido agosto 2023
 Route::view('/2023/08/cartaIntegridad', '2023/08/cartaIntegridad');
+
+// Contenido septiembre
+Route::view('/2023/09/adolecentes', '2023/09/adolecentes');
+Route::view('/2023/09/diaSinCarro', '2023/09/diaSinCarro');
+Route::view('/2023/09/semanaBici', '2023/09/semanaBici');
+Route::view('/2023/09/semanaSeguridadVial', '2023/09/semanaSeguridadVial');
+Route::view('/2023/09/recategorizacion', '2023/09/recategorizacion');
+
+// Contenido octubre
+Route::view('/2023/10/rutas', '2023/10/rutas');
