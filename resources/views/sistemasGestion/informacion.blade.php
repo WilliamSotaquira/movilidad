@@ -77,9 +77,11 @@
 
     <!-- Sección box img-1 -->
     <div class="box box-img-1">
-        <figure>
-            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2023/sgsi_img_002_992x500.png" alt="imagen persona consultando su dispositivo movil">
-        </figure>
+        <div class="video video-1 video-16by9">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width='100%' src='https://www.youtube.com/embed/IHy93gDeafE' title='YouTube video player' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+            </div>
+        </div>
     </div>
     <style>
         .set-wrapper .box-img-1 {
