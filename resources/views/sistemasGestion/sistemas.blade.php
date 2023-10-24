@@ -31,9 +31,11 @@
 
     <!-- Sección box video -->
     <div class="box box-video">
-        <video controls="" style="width: 100%;" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-08-2023/vlcsnap-2023-08-04-16h51m38s582.png">
-            <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/sistemas_de_gestion.mp4" type="video/mp4">
-        </video>
+        <div class="video video-ppal video-16by9">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width='100%' src='https://www.youtube.com/embed/HvdqeVEijMg?si=zMG6ff47qDPKYSOT' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+            </div>
+        </div>
     </div>
     <style>
         .set-wrapper .box-video {
