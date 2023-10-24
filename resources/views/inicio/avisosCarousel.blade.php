@@ -213,35 +213,38 @@
                 <li data-target="#carrusel_avisos_xs" title="imagen 7" data-slide-to="6"></li>
                 <li data-target="#carrusel_avisos_xs" title="imagen 8" data-slide-to="7"></li>
                 <li data-target="#carrusel_avisos_xs" title="imagen 9" data-slide-to="8"></li>
-
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner zoom">
 
             <div class="item active">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/carta_senda_de_integridad">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-08-2023/piezas_carta_senda_integridad_1_web_340x300.png" alt="ir a carta de la senda de integridad" title="ir a carta de la senda de integridad">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-10-2023/mimovilidad_abc_oct2023_v3_0.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-10-2023/banner_abc_340x300_2.png" alt="ir a mi movilidad" title="ir a mi movilidad">
+                    </a>
+                </div>
+            <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/rutas_soacha_bogota">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-10-2023/piezas_soacha_banner_web_y_redes_banner_2.jpg" alt="ir a rutas Soacha - Bogotá" title="ir a rutas Soacha - Bogotá">
                     </a>
                 </div>
                 <div class="item">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-08-2023/susp_de_servicios-230824-banner_340x300.png" alt="Aviso de mantenimiento de aplicativo" title="Aviso de mantenimiento de aplicativo">
-                </div>
-                <div class="item">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/administracion_distrital_celebra_el_mes_del_taxista_e_invita_a_la_ciudadania_utilizar_este">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-08-2023/solicitud_piezas_mes_taxista_pieza3_banner_340x300_1.png" alt="ir a Agosto mes del taxista" title="ir a Agosto mes del taxista">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/carta_bitacora_senda.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/bitacora_senda_integridad_web_340x300.png" alt="ir a bitácora de la senda de integridad" title="ir a bitácora de la senda de integridad">
                     </a>
                 </div>
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/preguntas_y_respuestas_frecuentes_migrantes">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-09-2023/banner_340x300_recategoriza_licencia.png" alt="ir a convocatoria - Recategoriza tu licencia" title="ir a convocatoria - Recategoriza tu licencia">
+                    </a>
+                </div>
+
                 <div class="item">
                     <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/cuestionarioparaabc_230713.pdf">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/banner_resolucion-132490_230713_710x626.png" alt="ir a abecé Resolución 132490 de 2023" title="ir a abecé Resolución 132490 de 2023">
                     </a>
                 </div>
-                <div class="item">
-                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSe1RA3suHLi6bWwwI9Jb4EyrV21FqkBQ5wAaRYwB5XpX31V2w/viewform">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2023/aviso_portalbogota_230707_340x300.png" alt="ir a encuesta información dedicada a mujeres en nuestra web" title="ir a encuesta información dedicada a mujeres en nuestra web">
-                    </a>
-                </div>
+
 
                 <div class="item">
                     <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-07-2023/informe-bogota-derechos-infancia-juventud-2020-2023.pdf">
@@ -307,29 +310,34 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
 
-                <div class="item active">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/carta_senda_de_integridad">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-08-2023/piezas_carta_senda_integridad_1_web_950x400.png" alt="ir a carta de la senda de integridad" title="ir a carta de la senda de integridad">
+            <div class="item active">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-10-2023/mimovilidad_abc_oct2023_v3_0.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-10-2023/banner_abc_950x300_2.jpg" alt="ir a mi movilidad" title="ir a mi movilidad">
                     </a>
                 </div>
                 <div class="item">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-08-2023/susp_de_servicios-230824-banner_950x300.png" alt="Aviso de mantenimiento de aplicativo" title="Aviso de mantenimiento de aplicativo">
-                </div>
-                <div class="item">
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/noticia/administracion_distrital_celebra_el_mes_del_taxista_e_invita_a_la_ciudadania_utilizar_este">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-08-2023/solicitud_piezas_mes_taxista_pieza3_banner_950x300_1.png" alt="ir a Agosto mes del taxista" title="ir a Agosto mes del taxista">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/rutas_soacha_bogota">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-10-2023/piezas_soacha_banner_web_y_redes_banner_1.jpg" alt="ir a rutas Soacha - Bogotá" title="ir a rutas Soacha - Bogotá">
                     </a>
                 </div>
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/carta_bitacora_senda.pdf">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/bitacora_senda_integridad_web_950x400.png" alt="ir a bitácora de la senda de integridad" title="ir a bitácora de la senda de integridad">
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/preguntas_y_respuestas_frecuentes_migrantes">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-09-2023/banner_950x300_recategoriza_licencia.png" alt="ir a convocatoria - Recategoriza tu licencia" title="ir a convocatoria - Recategoriza tu licencia">
+                    </a>
+                </div>
+
                 <div class="item">
                     <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/cuestionarioparaabc_230713.pdf">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-07-2023/banner_resolucion-132490_230713_938x313.png" alt="ir a abecé Resolución 132490 de 2023" title="ir a abecé Resolución 132490 de 2023">
                     </a>
                 </div>
-                <div class="item">
-                    <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSe1RA3suHLi6bWwwI9Jb4EyrV21FqkBQ5wAaRYwB5XpX31V2w/viewform">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-06-2023/piezas_senda_integridad_formulario_mujeres_950x300.png" alt="ir a encuesta información dedicada a mujeres en nuestra web" title="ir a encuesta información dedicada a mujeres en nuestra web">
-                    </a>
-                </div>
+
                 <div class="item">
                     <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-07-2023/informe-bogota-derechos-infancia-juventud-2020-2023.pdf">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2023/aviso_portalbogota_230707_950x300.png" alt="Click aquí para conocer el informe de gestión sobre la garantía de derechos de la primera infancia, infancia, adolescencia y juventud" title="Click aquí para conocer el informe de gestión sobre la garantía de derechos de la primera infancia, infancia, adolescencia y juventud">
@@ -358,11 +366,6 @@
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2023/banners_politica_de_seguridad_banner_950x300.png" alt="Click aquí para acceder a la política de seguridad">
                     </a>
                 </div>
-
-
-
-
-
             </div>
 
             <!-- Controls -->
@@ -377,8 +380,4 @@
         </div>
     </div>
     <hr>
-
-
-
-
 </div>

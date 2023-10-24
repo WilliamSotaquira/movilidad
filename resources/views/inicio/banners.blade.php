@@ -55,9 +55,14 @@
                 <img alt="Abecé desembargos" class="img-responsive bs zoom w-100 img-rounded  center-block" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/boton_desembargo_900x300.webp" title="Abecé desembargos">
             </a>
         </div>
-        <div class="col-sm-6">
+        <!-- <div class="col-sm-6">
             <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas">
                 <img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-02-2023/2023-02-08_banner_cursos_motos_900x300.png" title="Cursos Teórico Prácticos de Conducción en Moto">
+            </a>
+        </div> -->
+        <div class="col-sm-6">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/semana_de_la_seguridad_vial_2023">
+                <img alt="Semana de la seguridad vial" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-09-2023/piezas_graficas_semana_de_la_seguridad_vial_2023_banners_450x150.png" title="Semana de la seguridad vial">
             </a>
         </div>
     </div>
