@@ -377,6 +377,23 @@
                     </div>
                 </div>
 
+                <div class="col-xs-12 col-sm-4">
+                    <div class="thumbnail">
+                        <div class="img-thumbnail">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/03-10-2023/agentes-civiles-movilidad.jpg" alt="Actividades de prevención y control en Bogotá en la Av. Américas. Foto SDM">
+                        </div>
+                        <div class="caption">
+                            <div class="enc-caption">
+                                <h3>Con 450 Agentes Civiles de Tránsito, la Secretaría de Movilidad refuerza los controles y la seguridad vial en Bogotá</h3>
+                            </div>
+                            <div class="parrafo-caption">
+                                <p>Bogotá, 3 de octubre de 2023 (@SectorMovilidad). Con la incorporación de la totalidad de los 450 Agentes Civiles de Tránsito previstos para la operación de control y apoyo al ciudadano en Bogotá, la Secretaría Distrital de Movilidad fortalece los controles en vía y la seguridad vial en la ciudad. </p>
+                            </div>
+                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/con_450_agentes_civiles_de_transito_la_secretaria_de_movilidad_refuerza_los_controles_y_la" class="btn-cerrar" role="button">Ver Más</a></div>
+                        </div>
+                    </div>
+                </div>
+
 
                 <div class="col-xs-12 col-sm-4">
                     <div class="thumbnail">
@@ -409,23 +426,6 @@
                                 <p>Bogotá, 1 de agosto de 2023 (@SectorMovilidad). Reducir la velocidad en las vías de Bogotá, salva vidas. Desde el año 2018, cuando comenzó la medida para disminuir los límites de velocidad a 50 Km/h en los principales corredores viales de la ciudad, se ha logrado salvar 202 vidas en estas vías, en comparación con el promedio de fallecidos que ocurrían cuando aún no se implementaba el Programa de Gestión de Velocidad.</p>
                             </div>
                             <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/camaras_de_fotodeteccion_redujeron_en_un_19_siniestros_viales_con_fatalidad_entre_2022_y" class="btn-cerrar" role="button">Ver Más</a></div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-xs-12 col-sm-4">
-                    <div class="thumbnail">
-                        <div class="img-thumbnail">
-                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/05-07-2023/sxcv-imagen_230705_y6.png" alt="Agentes Civiles y Policía de Tránsito realizaron controles en corredores de salida e ingreso a Bogotá: foto SDM ">
-                        </div>
-                        <div class="caption">
-                            <div class="enc-caption">
-                                <h3>Más de un millón de vehículos se movilizaron por los diferentes corredores de entrada y salida a Bogotá durante este fin de semana festivo</h3>
-                            </div>
-                            <div class="parrafo-caption">
-                                <p>Bogotá, 4 de julio de 2023 (@SectorMovilidad). Con éxito terminó el plan retorno de miles de viajeros que salieron de Bogotá durante el fin de semana de San Pedro y San Pablo. Con corte a la medianoche del lunes festivo, más de 615 mil vehículos ingresaron a la ciudad a través de los nueve corredores viales de la capital del país.</p>
-                            </div>
-                            <div class="footer-thumb"><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_un_millon_de_vehiculos_se_movilizaron_por_los_diferentes_corredores_de_entrada_y" class="btn-cerrar" role="button">Ver Más</a></div>
                         </div>
                     </div>
                 </div>
