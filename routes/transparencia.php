@@ -20,3 +20,7 @@ Route::view('/transparencia/indiceClasificadaReservada', 'transparencia/indiceCl
 Route::view('/transparencia/costosReproduccion', 'transparencia/costosReproduccion');
 Route::view('/transparencia/gestionDocumental', 'transparencia/gestionDocumental');
 Route::view('/transparencia/retencionDocumental', 'transparencia/retencionDocumental');
+
+
+// Información Entidad
+Route::view('/transparencia/informacionEntidad/directorioEntidades', 'transparencia/informacionEntidad/directorioEntidades');
