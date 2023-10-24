@@ -169,7 +169,7 @@
                     <h3>¿Qué es <span class="enfasis2">efr?</span></h3>
                 </div>
                 <div class="parrafos">
-                    <p>Empresa Familiarmente Responsable <strong>EFR</strong>, es una norma Internacional certificable que forma parte de la Responsabilidad Social Empresarial. Es un modelo de gestión orientado a la conciliación o equilibrio de la vida personal, familiar y laboral, basado en la mejora continua y orientado a la obtención de resultados.</p>
+                    <p>Empresa Familiarmente Responsable <span class="enfasis2">efr</span>, es una norma Internacional certificable que forma parte de la Responsabilidad Social Empresarial. Es un modelo de gestión orientado a la conciliación o equilibrio de la vida personal, familiar y laboral, basado en la mejora continua y orientado a la obtención de resultados.</p>
                 </div>
             </div>
         </div>
@@ -180,7 +180,6 @@
                     <!-- Tab panes -->
                     <div class="tab-content">
 
-
                         <div role="tabpanel" class="tab-pane active" id="menu0">
                             <div class="video video-4 video-16by9">
                                 <div class="embed-responsive embed-responsive-16by9">
@@ -190,9 +189,10 @@
                         </div>
 
                         <div role="tabpanel" class="tab-pane" id="menu1">
-                            <div class='video'>
-                                <video controls='' style='width: 100%;' poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/sxcv-imagen_221018_c8.png">
-                                    <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/firmaefr.mp4' type='video/mp4'>
+                            <div class="video video-4 video-16by9">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe width='100%' src='https://www.youtube.com/embed/PmI6VQb5kKM?si=D39ZfAg0HJzmVrOC' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
 
@@ -285,6 +285,7 @@
             </div>
         </div>
         <div class="s3">
+
             <div class="box-parrafo">
                 <div class="titulo">
                     <h3>Propósito <span class="enfasis2">efr</span></h3>
@@ -293,16 +294,84 @@
                     <p>La Secretaría Distrital de Movilidad encuentra en el Sistema de Gestión <span class="enfasis2">efr</span> la alternativa para afrontar una nueva forma de dirección y gestión de las personas, con nuevos métodos y herramientas para cimentar un equipo <strong>comprometido, productivo, eficiente y de la misma manera feliz, en entornos flexibles y armónicos.</strong></p>
                     <p>Alcanzando así un mayor equilibrio entre <strong>la vida personal, laboral y familiar</strong> que parte de la responsabilidad y el compromiso bidireccional <span class="enfasis2">Entidad - Persona</span></p>
                 </div>
-                <div class="img1">
-                    <br>
-                    <div class="row">
-                        <div class='col-xs-12 col-sm-8 col-sm-offset-2 col-md-8'>
-                            <img id="img-efr" class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/proposito_efr.webp' alt='imagen estándar es de calidad efr' title='imagen estandar  es de calidad efr'>
-                        </div>
+                <div class="info-gr">
+                    <div class="paragraph-vrt">
+                        <h3>¿Qué busca el Sistema de Gestión <span class="enfasis2">efr</span> en la SDM?</h3>
+                        <br>
+                        <h4>Para generar altos estándares de calidad en el clima laboral</h4>
+                        <br>
+                        <ul>
+                            <li>Para promover una movilidad inteligente dentro de los funcionarios de la Secretaría Distrital de Movilidad</li>
+                            <li>Para hacer un uso eficiente de la infraestructura física de la Entidad, optimizando espacios y ampliando zonas de bienestar para el uso común</li>
+                            <li>Para incentivar la productividad</li>
+                            <li>Para la reducción del ausentismo</li>
+                            <li>Para mejorar la calidad de vida de los funcionarios</li>
+                        </ul>
                     </div>
                 </div>
+                <style>
+                    .box-parrafo .info-gr {
+                        position: relative;
+                        display: grid;
+                        gap: 8px;
+                        grid-auto-flow: dense;
+                        grid-template-columns: 1fr;
+                        grid-template-rows: auto;
+
+                        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2023/recurso1_0.png');
+                        background-repeat: no-repeat;
+                        background-size: cover;
+                        /* height: 500px; */
+                        margin: 2em;
+                        background-position: center;
+                    }
+
+                    .box-parrafo .info-gr .paragraph-vrt {
+                        /* position: absolute; */
+                        z-index: 1;
+                        width: ;
+                        background-color: #ffffff90;
+                        padding: 32px;
+                    }
+
+                    .info-gr .paragraph-vrt h3{
+                        font-size: 24px;
+                        font-weight: 700;
+                        text-align: center;
+                        line-height: 1.3;
+                        color: #3333390;
+                    }
+                    .info-gr .paragraph-vrt h4{
+                        font-size: 16px;
+                        font-weight: 700;
+                        text-align: center;
+                        line-height: 1.3;
+                        color: #333333;
+                    }
+                    .info-gr .paragraph-vrt ul>li{
+                        font-size: 16px;
+                        font-weight: 500;
+                        text-align: inherit;
+                        line-height: 1.3;
+                        color: #333333;
+                        margin-bottom: 16px;
+                    }
+
+                    @media(min-width:768px) {
+                        .box-parrafo .info-gr {
+                            padding-left: 32px;
+                            grid-template-columns: 1fr 1fr;
+                        }
+                    }
+                </style>
+
             </div>
         </div>
+        <style>
+            .s3 .img {
+                padding: 3em;
+            }
+        </style>
 
         <div class='box-pdf'>
             <div class="titulo">
@@ -310,7 +379,7 @@
             </div>
             <div class='imagen'>
                 <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-11-2022/efr_landing.png" target="_blank" rel="noopener noreferrer">
-                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-11-2022/efr_landing.png' alt='documento compromiso EFR' title='documento compromiso EF'>
+                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-11-2022/efr_landing.png' alt='documento compromiso efr' title='documento compromiso EF'>
                 </a>
             </div>
             <br>
@@ -486,7 +555,7 @@
                         </a>
                     </div>
                 </div> -->
-                    <div class='col-xs-12 col-sm-4 col-md-4'>
+                    <!-- <div class='col-xs-12 col-sm-4 col-md-4'>
                         <div class="btn-efr">
                             <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-11-2020/6._diangostico_efr_.pdf">
                                 <div class="titulo">
@@ -496,8 +565,8 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
-                    <div class='col-xs-12 col-sm-8 col-md-8'>
+                    </div> -->
+                    <!-- <div class='col-xs-12 col-sm-8 col-md-8'>
                         <div class="btn-efr">
                             <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-11-2020/7._indicadores.pdf">
                                 <div class="titulo">
@@ -507,8 +576,8 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
-                    <div class='col-xs-12 col-sm-4 col-md-4'>
+                    </div> -->
+                    <!-- <div class='col-xs-12 col-sm-4 col-md-4'>
                         <div class="btn-efr">
                             <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-11-2020/objetivos-de-mejora-efr.pdf">
                                 <div class="titulo">
@@ -518,8 +587,8 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
-                    <div class='col-xs-12 col-sm-4 col-md-4'>
+                    </div> -->
+                    <div class='col-xs-12 col-sm-6 col-md-6'>
                         <div class="btn-efr">
                             <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/ppt_cartilla_efr.2.pdf">
                                 <div class="titulo">
@@ -530,9 +599,9 @@
                             </a>
                         </div>
                     </div>
-                    <div class='col-xs-12 col-sm-4 col-md-4'>
+                    <div class='col-xs-12 col-sm-6 col-md-6'>
                         <div class="btn-efr">
-                            <a href="https://intranetmovilidad.movilidadbogota.gov.co/intranet/sites/default/files/2020-08-31/mailing_efr_mesa-de-trabajo-1-copia.jpg">
+                            <a href="https://drive.google.com/file/d/1BZulyhKLNuifbRxcKVkplL4rgrTJT-jQ/view">
                                 <div class="titulo">
                                     <div>
                                         Dirección y orientación estratégica <strong>efr</strong>
@@ -817,4 +886,25 @@
 
         @media(min-width:1200px) {}
     </style>
+    <script>
+        javascript: (function() {
+            var style = document.createElement( % 27 style % 27),
+                styleContent = document.createTextNode( % 27 * {
+                        line - height: 1.5!important;letter - spacing: 0.12 em!important;word - spacing: 0.16 em!important;
+                    }
+                    p {
+                        margin - bottom: 2 em!important;
+                    } % 27);
+            style.appendChild(styleContent);
+            document.getElementsByTagName( % 27 head % 27)[0].appendChild(style);
+            var iframes = document.querySelectorAll( % 27 iframe % 27);
+            for (var i = 0; i < iframes.length; i++) {
+                try {
+                    iframes[i].contentWindow.document.getElementsByTagName( % 27 head % 27)[0].appendChild(style);
+                } catch (error) {
+                    console.log( % 27 Bookmarklet error: % 27 + error)
+                }
+            }
+        })();
+    </script>
     <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
