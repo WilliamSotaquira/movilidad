@@ -165,7 +165,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>375</h3>
+                                <h3>380</h3>
                                 <p>Motos registradas</p>
                             </div>
                         </div>
@@ -185,8 +185,8 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>5.693</h3>
-                                <p>Carros Registrados</p>
+                                <h3>3.793</h3>
+                                <p>Carros Registrados </p><small class="text-black">*Automóviles RDA</small>
                             </div>
                         </div>
                     </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>23.315</h3>
+                                <h3>24.965</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
@@ -212,6 +212,10 @@
                 </div>
 
             </div>
+            <div>
+                <i>*Cifras preliminares a 31 de agosto de 2023.</i>
+            </div>
+
         </div>
 
         <style>
@@ -282,6 +286,10 @@
 
             }
 
+            .text-black {
+                color: #252525;
+
+            }
 
 
             .box-boton .overlay {
@@ -337,7 +345,7 @@
             <div class="box-video">
                 <div class='video video-ppal video-4by3'>
                     <div class='embed-responsive embed-responsive-4by3'>
-                        <iframe width='100%' src='https://www.youtube.com/embed/i3Wx02KJX4Q' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                        <iframe width='100%' src='https://www.youtube.com/embed/i3Wx02KJX4Q' title='YouTube video player' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -375,36 +383,22 @@
                 </style>
 
                 <div class="box-noticia ">
-                    <i>Martes, Junio 27, 2023 - 19:24</i>
-                    <h3>Plazas de mercado se unen a la movilidad sostenible en su operación logística</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/plazas_de_mercado_se_unen_a_la_movilidad_sostenible_en_su_operacion_logistica" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Viernes, Septiembre 22, 2023 - 07:41</i>
+                    <h3>Ciudadanía se movilizó de forma sostenible en Bogotá</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/ciudadania_se_movilizo_de_forma_sostenible_en_bogota" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
                 <div class="box-noticia ">
-                    <i>Jueves, Junio 8, 2023 - 18:04</i>
-                    <h3>Bogotá es referente en movilidad sostenible para expertos internacionales</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_es_referente_en_movilidad_sostenible_para_expertos_internacionales" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Martes, Septiembre 19, 2023 - 11:47</i>
+                    <h3>Bogotá se prepara para conmemorar la XVI Semana de la Bici</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_se_prepara_para_conmemorar_la_xvi_semana_de_la_bici" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
                 <div class="box-noticia ">
-                    <i>Viernes, Febrero 24, 2023 - 12:29</i>
-                    <h3>En el año 2022 Bogotá avanzó en movilidad sostenible y siguió mejorando su infraestructura vial</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/en_el_ano_2022_bogota_avanzo_en_movilidad_sostenible_y_siguio_mejorando_su_infraestructura" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Sábado, Septiembre 9, 2023 - 15:02</i>
+                    <h3>La comunidad de El Porvenir en Bosa ya disfruta de un nuevo Barrio Vital</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_comunidad_de_el_porvenir_en_bosa_ya_disfruta_de_un_nuevo_barrio_vital" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
 
-                <!-- <div class="box-noticia ">
-                    <i>Miércoles, Enero 4, 2023 - 11:11</i>
-                    <h3>La ciudad se consolida como un referente mundial en el uso y promoción de la bicicleta</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_ciudad_se_consolida_como_un_referente_mundial_en_el_uso_y_promocion_de_la_bicicleta" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
-                </div>
-                <div class="box-noticia ">
-                    <i>Lunes, Diciembre 19, 2022 - 07:44</i>
-                    <h3>Zonas Urbanas por un Mejor Aire: estrategia para reducir concentraciones atmosféricas en áreas específicas de Bogotá</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/zonas_urbanas_por_un_mejor_aire_estrategia_para_reducir_concentraciones_atmosfericas_en" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
-                </div>
-                <div class="box-noticia ">
-                    <i>Jueves, Diciembre 1, 2022 - 14:44</i>
-                    <h3>La Secretaría de Movilidad expone su estrategia Bogotá Capital Mundial de la Bici, en biciGO 2022</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_secretaria_de_movilidad_expone_su_estrategia_bogota_capital_mundial_de_la_bici_en_bicigo" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
-                </div> -->
+
 
                 <style>
                     .box-noticias .box-noticia {
@@ -484,7 +478,6 @@
                 }
             }
 
-            @media(min-width:992px) {}
         </style>
     </div>
 
@@ -737,7 +730,7 @@
             padding-bottom: 8px;
         }
     </style>
-    <div class=" row tab-box">
+    <div class="row tab-box">
 
         <div class="tab-content">
             <div id="menu1" class="tab-pane fade">
@@ -2002,7 +1995,7 @@
                                     .seccion-7 ol>li:before {
                                         /*Using a Bootstrap glyphicon as the bullet point*/
                                         content: "\e162";
-                                        font-family: 'Glyphicons Halflings';
+                                        font-family: 'Glyphicons Halflings', sans-serif;
                                         font-size: 18px;
                                         float: left;
                                         margin-top: 0px;
@@ -2025,60 +2018,11 @@
                                     <div class='row'>
                                         <div class='col-xs-12 col-sm-12'>
                                             <p><strong>No te quedes por fuera, únete y sé parte del cambio.</strong></p>
-                                            <p>Esta transición necesita del trabajo conjunto con el sector privado, académico y los actores de toda la cadena de valor para acelerar la transición. </p>
+                                            <p>Esta transición necesita del trabajo conjunto con el sector privado, académico y los actores de toda la cadena de valor para acelerar la transición. Anímate a participar, estos son los ejes para definir diferentes compromisos por la movilidad eléctrica:</p>
                                         </div>
                                     </div>
-                                    <div class='row box-general'>
-                                        <div class='col-xs-12 col-sm-3'>
-                                            <div class='img-general'>
-                                                <div>
-                                                    <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/unep50logo.png' alt='Logo ONU Programa para el emdio ambiente' title='Logo ONU Programa para el emdio ambiente'>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class='col-xs-12 col-sm-3'>
-                                            <div class='img-general'>
-                                                <div>
-                                                    <img class='img-responsive img2' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/b_move_to_zero-full_color.png' alt='Logo Move to Zero' title='Logo Move to Zero'>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class='col-xs-12 col-sm-6'>
-                                            <div class='img-general'>
-                                                <div>
-                                                    <img class='img-responsive' src='https://www.movilidadbogota.gov.co/web/sites/default/files/logo-sdm.png' alt='Logo Secretaría Distrital de Movilidad' title='Logo Secretaría Distrital de Movilidad'>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <style>
-                                        .box-general {
-                                            padding: 30px;
-                                        }
-
-                                        .img-general {
-                                            height: 100px;
-                                            display: flex;
-                                            flex-direction: column;
-                                            justify-content: center;
-                                            align-items: center;
-                                        }
-
-                                        .img-general img {
-                                            max-height: 100px;
-                                        }
-
-                                        .img-general .img2 {
-                                            padding: 15px;
-                                        }
-                                    </style>
 
 
-                                    <div class='row'>
-                                        <div class='col-xs-12 col-sm-12'>
-                                            <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para <strong>invitar a las organizaciones a que definan compromisos específicos por la movilidad eléctrica</strong> en alguno de los siguientes ejes:</p>
-                                        </div>
-                                    </div>
 
                                     <div class="row fila-s8">
                                         <div class='col-xs-2'>
@@ -2145,133 +2089,16 @@
                                     <div class='col-xs-12'>
                                         <p>Si tu organización quiere hacer parte de esta transición y visibilizar los esfuerzos a nivel internacional, solo debe diligenciar este <a href="https://docs.google.com/document/d/1XrmtuvMesZeVmXvxtOMzv0tU4fm_Zk9V/edit"><strong>formato.</strong></a></p>
                                         <p>Y enviarlo a los correos <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a> y <a href="mailto:german.diazrivas@un.org">german.diazrivas@un.org</a></p>
-                                        <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica.</p>
 
                                     </div>
-                                </div>
-
-
-
-                                <div id="carousel_empresas" class="carousel slide" data-ride="carousel">
-                                    <!-- Indicators -->
-                                    <!-- <ol class="carousel-indicators">
-                                        <li data-target="#carousel_empresas" data-slide-to="0" class="active"></li>
-                                        <li data-target="#carousel_empresas" data-slide-to="1"></li>
-                                        <li data-target="#carousel_empresas" data-slide-to="2"></li>
-                                        <li data-target="#carousel_empresas" data-slide-to="3"></li>
-                                    </ol> -->
-
-                                    <!-- Wrapper for slides -->
-                                    <div class="carousel-inner">
-                                        <div class="item active">
-                                            <div class='row logos'>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akt_electric_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akuai_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_andemos_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_enel_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_colturex_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_defencarga_400.png" alt="">
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="item">
-                                            <div class="row logos">
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_uniandes_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_evoelectric_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_girozero_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_heliox_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_insepet_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_navisaf_400.png" alt="">
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="row logos">
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_piot_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_renting_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_solistica_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_deepsea_230628_120x120.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_navitrans_230628_120x123.png" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="row logos">
-                                                <div class='col-xs-12 col-sm-2 col-sm-offset-5'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_motorysa-byd_230628_120x120.png" alt="">
-                                                </div>
-                                                <!-- <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_renting_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_solistica_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_deepsea_230628_120x120.png" alt="">
-                                                </div>
-                                                <div class='col-xs-12 col-sm-2'>
-                                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_navitrans_230628_120x123.png" alt="">
-                                                </div> -->
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <!-- Left and right controls -->
-                                    <a class="left carousel-control" href="#carousel_empresas" data-slide="prev">
-                                        <span class="glyphicon glyphicon-chevron-left"></span>
-                                        <span class="sr-only">Anterior</span>
-                                    </a>
-                                    <a class="right carousel-control" href="#carousel_empresas" data-slide="next">
-                                        <span class="glyphicon glyphicon-chevron-right"></span>
-                                        <span class="sr-only">Siguiente</span>
-                                    </a>
                                 </div>
 
                                 <style>
-                                    #carousel_empresas {
+                                    .carousel_empresas {
                                         margin: 0px 50px;
                                     }
 
-                                    #carousel_empresas .carousel-caption {
+                                    .carousel_empresas .carousel-caption {
                                         right: 10%;
                                         left: 10%;
                                         /* text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5); */
@@ -2279,7 +2106,7 @@
                                         padding: 15px;
                                     }
 
-                                    #carousel_empresas .carousel-caption h3 {
+                                    .carousel_empresas .carousel-caption h3 {
                                         color: rgba(255, 255, 255, 1);
                                         font-family: 'Montserrat', sans-serif;
                                         font-size: 30px;
@@ -2288,47 +2115,48 @@
                                         line-height: 1.4;
                                     }
 
-                                    #carousel_empresas .carousel-control {
+                                    .carousel_empresas .carousel-control {
                                         color: rgb(28, 32, 70, 1) !important;
                                         opacity: 1;
                                         background-color: #00000000;
                                         filter: none;
-                                        opacity: 1;
                                     }
 
-                                    #carousel_empresas .logos {
+                                    .carousel_empresas .logos {
                                         margin: 0px;
                                     }
 
-                                    #carousel_empresas .logos img {
+                                    .carousel_empresas .logos img {
                                         margin: auto;
                                         max-height: 150px;
                                         min-width: 60px;
                                         width: auto;
                                     }
 
-                                    #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                    #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                    #carousel_empresas .carousel-control .icon-next,
-                                    #carousel_empresas .carousel-control .icon-prev {
+                                    .carousel_empresas .carousel-control .glyphicon-chevron-left,
+                                    .carousel_empresas .carousel-control .glyphicon-chevron-right,
+                                    .carousel_empresas .carousel-control .icon-next,
+                                    .carousel_empresas .carousel-control .icon-prev {
                                         top: calc(50% - 20px) !important;
                                     }
 
-                                    #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                    #carousel_empresas .carousel-control .icon-next {
+                                    .carousel_empresas .carousel-control .glyphicon-chevron-right,
+                                    .carousel_empresas .carousel-control .icon-next {
                                         right: 10% !important;
                                         margin-right: -10px;
                                     }
 
-                                    #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                    #carousel_empresas .carousel-control .icon-prev {
+                                    .carousel_empresas .carousel-control .glyphicon-chevron-left,
+                                    .carousel_empresas .carousel-control .icon-prev {
                                         left: 10% !important;
                                         margin-left: -10px;
                                     }
 
                                     @media(max-width:767px) {
-                                        #carousel_empresas {
+                                        .carousel_empresas {
                                             margin: 0px;
+                                            position: relative;
+                                            height: auto;
                                         }
 
                                         .carousel-inner>.item {
@@ -2336,16 +2164,10 @@
                                             height: 400px;
                                         }
 
-                                        #carousel_empresas {
-                                            position: relative;
-                                            height: auto;
-                                        }
-
-
                                     }
 
-                                    #carousel_empresas .carousel-control.right,
-                                    #carousel_empresas .carousel-control.left {
+                                    .carousel_empresas .carousel-control.right,
+                                    .carousel_empresas .carousel-control.left {
                                         background-image: none !important;
                                         filter: none !important;
                                         background-repeat: repeat-x;
@@ -2354,25 +2176,25 @@
 
                                     @media screen and (min-width: 768px) {
 
-                                        #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                        #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                        #carousel_empresas .carousel-control .icon-next,
-                                        #carousel_empresas .carousel-control .icon-prev {
+                                        .carousel_empresas .carousel-control .glyphicon-chevron-left,
+                                        .carousel_empresas .carousel-control .glyphicon-chevron-right,
+                                        .carousel_empresas .carousel-control .icon-next,
+                                        .carousel_empresas .carousel-control .icon-prev {
 
                                             width: 40px !important;
                                             height: 40px !important;
                                             font-size: 40px !important;
                                         }
 
-                                        #carousel_empresas .carousel-control .glyphicon-chevron-right,
-                                        #carousel_empresas .carousel-control .icon-next {
-                                            right: -40% !important;
+                                        .carousel_empresas .carousel-control .glyphicon-chevron-right,
+                                        .carousel_empresas .carousel-control .icon-next {
+                                            right: 0.4em !important;
                                             margin-right: -10px;
                                         }
 
-                                        #carousel_empresas .carousel-control .glyphicon-chevron-left,
-                                        #carousel_empresas .carousel-control .icon-prev {
-                                            left: -40% !important;
+                                        .carousel_empresas .carousel-control .glyphicon-chevron-left,
+                                        .carousel_empresas .carousel-control .icon-prev {
+                                            left: 0.4em !important;
                                             margin-left: -10px;
                                         }
                                     }
@@ -2428,7 +2250,6 @@
                             text-decoration: none !important;
                         }
 
-                        .btn-transicion .imagen {}
 
                         .btn-transicion .imagen img {
                             max-width: 120px;
@@ -2460,17 +2281,13 @@
                             color: #66e026;
                         }
 
-                        @media(max-width:767px) {}
+
 
                         @media(min-width:768px) {
                             .box-transicion {
                                 grid-template-columns: repeat(2, 1fr);
                             }
                         }
-
-                        @media(min-width:992px) {}
-
-                        @media(min-width:1200px) {}
                     </style>
 
                     <br>
@@ -2587,102 +2404,230 @@
             </div>
         </div>
     </div>
-    <div class="contacto-cbe">
-        <h4>¿Quieres saber más? Contáctanos a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a></h4>
+
+    <!-- Sección box aliados -->
+    <div class="box box-aliados">
+        <h3 class="title title-type-3 title-id-n3">
+            Aliados
+        </h3>
+        <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para invitar a las <strong>organizaciones a que definan compromisos específicos por la movilidad eléctrica.</strong></p>
+        <div class="set-logos-aliados">
+            <div class="logo-aliado img-logo-aliados-1">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/unep50logo.png" alt="Logo ONU" title="Logo ONU">
+            </div>
+            <div class="logo-aliado img-logo-aliados-2">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/b_move_to_zero-full_color.png" alt="Logo Move to Zero" title="Logo Move to Zero">
+            </div>
+        </div>
+        <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica.</p>
+        <div>
+            <div id="carousel_empresas_b" class="carousel carousel_empresas slide" data-ride="carousel">
+
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <div class='row logos'>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akt_electric_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akuai_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_andemos_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_enel_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_colturex_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_defencarga_400.png" alt="">
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="item">
+                        <div class="row logos">
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_uniandes_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_evoelectric_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_girozero_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_heliox_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_insepet_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_navisaf_400.png" alt="">
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="row logos">
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_piot_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_renting_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_solistica_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_deepsea_230628_120x120.png" alt="">
+                            </div>
+                            <div class='col-xs-12 col-sm-2'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_navitrans_230628_120x123.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="row logos">
+                            <div class='col-xs-12 col-sm-2 col-sm-offset-5'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_motorysa-byd_230628_120x120.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#carousel_empresas_b" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel_empresas_b" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Siguiente</span>
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+        <style>
+            .ceroybajas .box-aliados {
+                grid-area: box-aliados;
+                margin-top: 4em;
+            }
+
+            .box-aliados .title-type-3 {
+                text-align: center;
+                color: rgba(77, 84, 31, 1);
+                font-weight: 700;
+            }
+
+            .box-aliados .set-logos-aliados {
+                display: grid;
+                gap: 8px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+                padding-top: 32px;
+                padding-bottom: 32px;
+            }
+
+            .set-logos-aliados .logo-aliado img {
+                max-width: 200px;
+                margin: auto;
+            }
+
+            @media(min-width:768px) {
+                .box-aliados .set-logos-aliados {
+                    grid-template-columns: 1fr 1fr;
+                    padding-left: 8em;
+                    padding-right: 8em;
+
+                }
+            }
+        </style>
+
+        <div class="contacto-cbe">
+            <h4>¿Quieres saber más? Contáctanos a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a></h4>
+        </div>
+        <style>
+            .contacto-cbe {
+                padding: 40px 25px;
+                text-align: center;
+                background-color: #66e026;
+                /* color: #66e026; */
+                margin-top: 10px;
+                margin-right: -15px;
+                margin-left: -15px;
+            }
+
+            .contacto-cbe h4 {
+                font-weight: 700;
+
+            }
+        </style>
     </div>
-    <style>
-        .contacto-cbe {
-            padding: 40px 25px;
-            text-align: center;
-            background-color: #66e026;
-            /* color: #66e026; */
-            margin-top: 10px;
-            margin-right: -15px;
-            margin-left: -15px;
+    <br>
+    <!-- End Set Wrapper -->
+
+    <!-- Styles -->
+    <style type='text/css'>
+        .field-item.even h2 {
+            visibility: hidden;
+            margin-top: -50px;
         }
 
-        .contacto-cbe h4 {
-            font-weight: 700;
+        .region-content {
+            padding: 0px;
+            overflow: hidden;
+        }
+
+        .ceroybajas {
+            max-width: 980px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 15px;
+            font-weight: 500;
+            text-align: justify;
+            line-height: 1.4;
+            color: rgba(25, 25, 25, 1);
+            word-wrap: break-word;
+        }
+
+        .ceroybajas a {
+            overflow: hidden !important;
+            text-overflow: clip !important;
+        }
+
+        .w-100 {
+            width: 100%;
+        }
+    </style>
+    <!-- End Styles -->
+    <style>
+        @media(min-width:768px) {
+            .box-head {
+                height: 650px;
+            }
+
+            .box-indicadores {
+                background-color: rgba(0, 0, 0, 0.5);
+                position: absolute;
+                bottom: 30px;
+                left: 0px;
+                padding: 10px;
+            }
+
+            .tab-box .box-parrafos .imagen2 {
+                background-position: 0px;
+            }
+
+            .menu3 .txt-tarjeta {
+                height: 300px;
+            }
 
         }
     </style>
-</div>
-<br>
-<!-- End Set Wrapper -->
-
-<!-- Styles -->
-<style type='text/css'>
-    .field-item.even h2 {
-        visibility: hidden;
-        margin-top: -50px;
-    }
-
-    .region-content {
-        padding: 0px;
-        overflow: hidden;
-    }
-
-    .ceroybajas {
-        max-width: 980px;
-        font-family: 'Montserrat', sans-serif;
-        font-size: 15px;
-        font-weight: 500;
-        text-align: justify;
-        line-height: 1.4;
-        color: rgba(25, 25, 25, 1);
-        word-wrap: break-word;
-    }
-
-    .ceroybajas a {
-        overflow: hidden !important;
-        text-overflow: clip !important;
-    }
-
-    /*
-    .ceroybajas [class*='col-'] {
-        margin: 0px;
-        padding: 0px;
-        border: 0;
-        outline: 0;
-        font-size: 100%;
-        vertical-align: baseline;
-    }
-    */
-
-    .w-100 {
-        width: 100%;
-    }
-</style>
-<!-- End Styles -->
-<style>
-    @media(max-width:767px) {}
-
-    @media(min-width:768px) {
-        .box-head {
-            height: 650px;
-        }
-
-        .box-indicadores {
-            background-color: rgba(0, 0, 0, 0.5);
-            position: absolute;
-            bottom: 10px;
-            left: 0px;
-            padding: 10px;
-        }
-
-        .tab-box .box-parrafos .imagen2 {
-            background-position: 0px;
-        }
-
-        .menu3 .txt-tarjeta {
-            height: 300px;
-        }
-
-
-
-    }
-
-    @media(min-width:992px) {}
-
-    @media(min-width:1200px) {}
-</style>
