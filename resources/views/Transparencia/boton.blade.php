@@ -159,7 +159,8 @@
                                                 </blockquote>
                                             </div>
                                         </li>
-                                        <li><a href="https://www.movilidadbogota.gov.co/web/calendario_de_actividades" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.11.</span>Calendario de actividades y eventos</a></li>
+                                        <!-- <li><a href="https://www.movilidadbogota.gov.co/web/calendario_de_actividades" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.11.</span>Calendario de actividades y eventos</a></li> -->
+                                        <li><a href="https://www.movilidadbogota.gov.co/web/calendario_de_eventos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.11.</span>Calendario de actividades y eventos</a></li>
                                         <li><a href="https://www.movilidadbogota.gov.co/web/historico_noticias" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.12.</span>Información sobre decisiones que puede afectar al público</a></li>
                                         <li><a href="https://www.movilidadbogota.gov.co/web/mecanismos-control-supervision" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.13.</span>Entes y autoridades que lo vigilan</a></li>
                                         <li><a href="https://serviciocivil.gov.co/transparencia/publicacion-hojas-de-vida" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.14.</span>Publicación de hojas de vida aspirantes</a></li>
@@ -261,7 +262,7 @@
 
                                     <ol>
                                         <li><a href="http://www.movilidadbogota.gov.co/web/plan_anual_de_adquisiciones" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.1.</span>Plan Anual de Adquisiciones</a></li>
-                                        <li><a href="https://formulariotransparenciasgc.movilidadbogota.gov.co/formWeb/formulario.php" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.2.</span>Publicación de la información contractual</a></li>
+                                        <li><a href="https://www.colombiacompra.gov.co/secop/consulte-en-el-secop-ii" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.2.</span>Publicación de la información contractual</a></li>
                                         <li><a href="https://www.movilidadbogota.gov.co/web/procesos_de_contratacion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.3.</span>Publicación de la ejecución de los contratos</a></li>
                                         <li><a href="https://www.movilidadbogota.gov.co/web/manuales_de_contratacion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">3.4.</span>Manual de contratación, adquisición y/o compras</a></li>
                                         <li><span class="enfasis_num">3.5.</span>Formatos o modelos de contratos o pliegos tipo
@@ -292,7 +293,23 @@
                                         <li><span class="enfasis_num">4.1.</span>Presupuesto general de ingresos, gastos e inversión
 
                                             <ul>
-                                                <li><a href="https://www.movilidadbogota.gov.co/web/estados_financieros" rel="noopener noreferrer" target="_blank">Ingresos y gastos</a></li>
+                                                <li>Ingresos y gastos
+                                                <div class="box-blockquote">
+                                                        <blockquote>
+                                                            <p>El link a continuación lo conduce a la página de la Secretaría Distrital de Hacienda, quien reporta el informe de Ejecución del Presupuesto de Rentas e Ingresos, desde la Dirección Distrital de Presupuesto.</p>
+                                                            <p>Allí encontrará en el código O1102 - ingresos No Tributarios, los siguientes conceptos correspondientes a la Secretaría Distrital de Movilidad:</p>
+                                                            <ul class="list-unstyled">
+                                                                <li>O11020100599 - Semaforización</li>
+                                                                <li>O110202093 - Derechos de tránsito en áreas restringidas o de alta congestión</li>
+                                                                <li>O110202102 - Derechos de tránsito</li>
+                                                                <li>O110202120 - Contraprestaciones por el uso del espacio público</li>
+                                                                <li>O110202122 - Áreas de restricción vehicular</li>
+                                                                <li>O11020300109 - Multas de tránsito y transporte</li>
+                                                            </ul>
+                                                            <br>
+                                                            <a href="https://www.haciendabogota.gov.co/es/sdh/ejecucion-presupuestal-de-la-secretaria-distrital-de-hacienda" rel="noopener noreferrer" target="_blank">Código O1102 - ingresos No Tributarios</a>
+                                                        </blockquote>
+                                                    </div></li>
                                                 <li><a href="https://www.movilidadbogota.gov.co/web/presupuesto_de_gastos" rel="noopener noreferrer" target="_blank">Presupuesto de gastos</a></li>
                                                 <li><a href="http://www.movilidadbogota.gov.co/web/modificaciones-presupuestales" rel="noopener noreferrer" target="_blank">Modificaciones presupuestales</a></li>
                                             </ul>
@@ -496,6 +513,7 @@
                                                 <li><a href="https://gobiernoabiertobogota.gov.co/transparencia" rel="noopener noreferrer" target="_blank">Agendas Abiertas - Gobierno Abierto de Bogotá (GAB)</a></li>
                                             </ul>
                                         </li>
+                                        <li><a href="https://www.movilidadbogota.gov.co/web/modelo_de_gestion_juridica_anticorrupcion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.8.</span>Modelo de Gestión Jurídica Anticorrupción</a></li>
                                         <!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Accesibilidad</a></li> --><!-- <li><a href="#" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.8.</span>Datos Personales</a></li> -->
                                     </ol>
                                 </div>
@@ -613,6 +631,7 @@
 
         .ph-2 a:hover {
             color: #4D541F !important;
+            text-decoration: underline;
         }
 
         .ph-3 {
@@ -625,6 +644,8 @@
 
         .ph-3 a:hover {
             color: #4D541F !important;
+            text-decoration: underline;
+
         }
 
         .panel-body {
@@ -667,6 +688,8 @@
         .s2 li a:hover {
             color: rgba(77, 84, 31, 1);
             font-weight: 700;
+            text-decoration: underline;
+
 
         }
 
