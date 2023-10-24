@@ -9,28 +9,35 @@
 
     <template>
         <div class="card-calendar">
-            <div class="details-event">
-                <i>November 09, 2022</i>
-                <h3>Semana de la movilidad sostenible </h3>
-                <p class="p1">Bogotá ha realizado una inversión histórica para transformarse en la ciudad integral, ecourbana y sostenible que todos soñamos. En la semana de la Movilidad Sostenible el Distrito socializa los megaproyectos en desarrollo tanto a la ciudadanía como a un selecto grupo de expertos internacionales, quienes a su vez comparten experiencias de innovación en movilidad alrededor del globo.</p>
-            </div>
-            <br>
-            <div class="participants-event">
-                <h4>Participantes</h4>
-                <p class="p2">Alcaldía mayor de Bogotá, Secretaría Distrital de Movilidad, expertos internacionales</p>
-            </div>
             <div class="tags-event">
                 <div class="tags">
                     <span class="label label-default">${tags[index]}</span>
                 </div>
             </div>
+            <div class="details-event">
+                <h3>Semana de la movilidad sostenible </h3>
+                <span class="date-event">November 09, 2022</span>
+                <p class="p1">Bogotá ha realizado una inversión histórica para transformarse en la ciudad integral, ecourbana y sostenible que todos soñamos. En la semana de la Movilidad Sostenible el Distrito socializa los megaproyectos en desarrollo tanto a la ciudadanía como a un selecto grupo de expertos internacionales, quienes a su vez comparten experiencias de innovación en movilidad alrededor del globo.</p>
+            </div>
             <div class="link-event">
                 <a href="">Ver más <i class="link-enf"></i></a>
             </div>
+            <div class="participants-event">
+                <p><strong>Participantes: </strong><span class="p2"></span></p>
+            </div>
         </div>
     </template>
-    <!--  -->
+
     <style>
+        .set-wrapper {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            text-align: left;
+            line-height: 1.5;
+            color: #000000bf;
+        }
+
         .calendario {
             font-size: 16px !important;
             font-weight: 500;
@@ -39,13 +46,14 @@
         }
 
         .card-calendar {
-            background: #f5f5f5;
+            background: #fff;
             display: grid;
             gap: 8px;
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
             grid-template-rows: auto;
             grid-template-areas:
+                'tags-event'
                 'details'
                 'participants'
                 ' tags'
@@ -61,26 +69,36 @@
             grid-area: details;
         }
 
-        .partcipants-event {
+        .participants-event {
             grid-area: participants;
+
+        }
+
+        .participants-event p strong {
+            color: #00000099;
         }
 
         .tags-event {
-            grid-area: tags;
+            grid-area: tags-event;
             position: relative;
         }
+
 
         .link-event {
             grid-area: link;
             position: relative;
-            text-align: center;
+            text-align: left;
         }
+
 
         .tags-event span {
             display: inline-block;
-            margin: 0 0.5em 0.5em 0;
-            background-color: rgba(77, 84, 31, 1);
-            color: #fff;
+            margin: 2px 4px;
+            background-color: #fff;
+            color: #4d541f;
+            padding: 4px 8px;
+            border-radius: 25px;
+            border: solid 2px #4d541f;
         }
 
         /*
@@ -97,18 +115,19 @@
 
         @media(min-width:768px) {
             .card-calendar {
-                gap: 2em;
                 grid-template-columns: repeat(3, 1fr);
                 grid-template-rows: auto;
                 grid-template-areas:
-                    'details details participants'
-                    'details details tags'
+                    'tags-event tags-event tags-event'
+                    'details details details'
+                    'participants participants participants'
                     'link link link';
+                padding-top: 24px;
             }
 
             .tags-event a {
                 position: relative;
-                text-align: right;
+                text-align: left;
                 display: inline-block;
                 padding-top: 6px;
             }
@@ -122,20 +141,30 @@
             margin: 4px;
         }
 
-        .card-calendar i {
-            color: rgba(77, 84, 31, 1);
-            font-weight: 700;
+        .card-calendar .date-event {
+            color: #00000099;
+            font-weight: 600;
         }
 
-        .card-calendar h3,
-        .card-calendar h4 {
+        .card-calendar .date-event::before {
+            content: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-09-2023/calendario_3.png');
+            position: relative;
+            display: inline-block;
+            max-width: 60px;
+            padding: 4px;
+            margin-right: 4px;
+
+        }
+
+        .card-calendar h3 {
 
             padding-top: 0;
             padding-bottom: 0.1em;
-            font-weight: 500;
+            font-weight: 700;
             text-align: left;
             line-height: 1.2;
-            color: rgba(77, 84, 31, 1);
+            color: #333333ff;
+            font-size: 1.72em;
             /* display: -webkit-box; */
             /* -webkit-box-orient: vertical; */
             /* -webkit-line-clamp: 2; */
@@ -149,10 +178,10 @@
 
         .card-calendar p {
             font-size: 16px;
-            font-weight: normal;
+            font-weight: 500;
             text-align: left;
             line-height: 1.3;
-            color: #252525;
+            color: #000000bf;
             /* display: -webkit-box;
             -webkit-box-orient: vertical;
             -webkit-line-clamp: 3;
@@ -291,7 +320,7 @@
         .cards-wrapper {
             /* grid-column: span 4; */
             display: grid;
-            gap: 24px;
+            gap: 16px;
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
             grid-template-rows: auto;
@@ -406,9 +435,10 @@
             .featured {
                 grid-column: span 3;
             }
+
             .cards-wrapper {
-            padding: 1em 2em;
-        }
+                padding: 1em 0;
+            }
         }
 
         .zoom {
@@ -433,6 +463,11 @@
             /* Opera */
             -ms-transform: scale(1.010);
             /* IE9 */
+        }
+
+        .hidden {
+            visibility: hidden;
+            position: absolute;
         }
     </style>
 
@@ -517,12 +552,48 @@
             }
         ],
         septiembre: [{
-                date: 'Desde el 22 hasta el 29 de septiembre',
+                date: '7 de septiembre',
+                title: 'Primer año La Rolita',
+                summary: 'Evento en el que se destacará el proceso de La Rolita durante su primer año de funcionamiento, esto en término de viajes, número de usuarios y equidad de género.',
+                subjects: 'Sector Movilidad. Distrito.',
+                tags: [
+                    'Equidad de género',
+                    'Mujeres conductoras',
+                    'Transporte público eléctrico'
+                ],
+                url: '',
+            },
+            {
+                date: '8 de septiembre',
+                title: 'Movi Innova',
+                summary: 'Por medio de la estrategia MOVI-INNOVA la Secretaría Distrital de Movilidad SDM invita a la ciudadanía, entidades del sector público y privado y a la academia a participar en un espacio que promueve soluciones innovadoras en materia de movilidad, donde cada actor se identifique como parte activa de la solución y aporte mediante sus ideas, prácticas innovadoras y transferencia de conocimientos en el mejoramiento de la movilidad y la calidad de vida de los habitantes de Bogotá - Región.',
+                subjects: 'Secretaría Distrital de Movilidad. Ciudadanía. Entidades del sector público y privado',
+                tags: [
+                    'Movilidad sostenible',
+                    'Innovación',
+                    'Bogotá- Región'
+                ],
+                url: '',
+            },
+            {
+                date: '16 de septiembre',
+                title: 'II Feria de Tecnologías y  Movilidad Sostenible para el transporte de carga',
+                summary: 'Se busca generar un entorno comercial de servicios entre proveedores y consumidores de tecnologías para el transporte de carga urbana y divulgar las estrategias del Distrito sobre el ascenso tecnológico, las prácticas de conducción y mantenimiento con un enfoque de movilidad sostenible.',
+                subjects: '',
+                tags: '',
+                url: '',
+            },
+            {
+                date: 'Desde el 22 hasta el 01 de octubre',
                 title: 'Semana de la Bici',
-                summary: 'La Semana de la Bici celebra este año su 16° versión, un espacio donde se realizan actividades y campañas para posicionar la bici como medio de transporte sostenible.',
+                summary: 'Evento con diferentes actividades diarias en las que se rinde un homenaje a la bicicleta. Este año su tema central será el autocuidado, la idea sera llevar un mensaje de seguridad vial a los ciclistas para que se hagan ver en la vía. ',
                 subjects: 'Secretaría Distrital de Movilidad, entidades distritales, colectivos, empresas privadas, entidades aliadas y Universidades.',
-                tags: ['movilidad sostenible', 'cycling cities', 'bicicleta'],
-                url: '#',
+                tags: [
+                    'Movilidad sostenible',
+                    'Bicicleta',
+                    'Seguridad vial'
+                ],
+                url: 'https://www.movilidadbogota.gov.co/web/xvi_semana_de_la_bici',
             },
             {
                 date: '28 de septiembre',
@@ -533,54 +604,95 @@
                 url: '#',
             }
         ],
-        octubre: [{
+        octubre: [
+
+            {
                 date: 'Desde el 1 hasta el 6 octubre',
                 title: 'Semana de la seguridad vial ',
                 summary: 'Evento que celebra la Secretaria Distrital de Movilidad, desde el año 2007, en 2022 llega a su edición XVI, por medio de diferentes conversatorios, actividades y foros se busca llegar y sensibilizar a la ciudadanía frente a la importancia de la seguridad vial para todos los actores en la vía.',
-                subjects: 'Secretaría Distrital de Movilidad, ciudadanía diversa.',
+                subjects: 'Secretaría Distrital de Movilidad. Ciudadanía. Expertos internacionales. Entidades del sector público y privado.',
                 tags: ['Seguridad vial'],
-                url: '#',
+                url: 'https://www.movilidadbogota.gov.co/web/semana_de_la_seguridad_vial_2023',
             },
             {
                 date: '5 de octubre',
-                title: 'Innovadores escolares PESVI',
-                summary: 'Encuentro que promueve el intercambio de experiencias entre jóvenes líderes escolares en seguridad vial,  y el aprendizaje en temas de movilidad sostenible, equidad y seguridad.',
-                subjects: 'Secretaría Distrital de Movilidad, Instituciones Educativas del Distrito',
-                tags: ['seguridad vial', 'entornos escolares seguros'],
-                url: '#',
-            },
-            {
-                date: '6 de octubre',
-                title: 'Reconocimiento Red de Seguridad Vial',
-                summary: 'Los reconocimientos otorgados por la *Red de Seguridad Vial* tienen como objetivo destacar y premiar las *Buenas Prácticas* que llevan a cabo las organizaciones miembros en pro de la seguridad vial. Dichas prácticas son fundamentales para garantizar un sistema de enfoque seguro, tanto para los usuarios de la vía como para los trabajadores que se desplazan en vehículos motorizados.',
-                subjects: '',
-                tags: [],
-                url: '#',
-            },
-            {
-                date: '7 de octubre',
-                title: 'Dia del motociclista ',
-                summary: 'Evento dirigido a motociclistas para mejorar la seguridad vial ',
-                subjects: 'Secretaría Distrital de Movilidad, gremio de motociclistas',
-                tags: [],
-                url: '#',
-            },
-            {
-                date: '18 de octubre',
                 title: 'Concurso Innovadores Escolares en Seguridad Vial',
                 summary: 'Evento en el cual grupos de estudiantes de la capital, exponen sus propuestas innovadoras para la seguridad vial en entornos escolares.',
                 subjects: 'Secretaría Distrital de Movilidad, Instituciones Educativas del Distrito',
                 tags: ['seguridad vial', 'entornos escolares seguros'],
                 url: '#',
-            }
+            },
+            // {
+            //     date: '6 de octubre',
+            //     title: 'Reconocimiento Red de Seguridad Vial',
+            //     summary: 'Los reconocimientos otorgados por la *Red de Seguridad Vial* tienen como objetivo destacar y premiar las *Buenas Prácticas* que llevan a cabo las organizaciones miembros en pro de la seguridad vial. Dichas prácticas son fundamentales para garantizar un sistema de enfoque seguro, tanto para los usuarios de la vía como para los trabajadores que se desplazan en vehículos motorizados.',
+            //     subjects: '',
+            //     tags: [],
+            //     url: '#',
+            // },
+            {
+                date: '7 de octubre',
+                title: 'Dia del motociclista Distrital',
+                summary: 'Evento dirigido a motociclistas para mejorar la seguridad vial ',
+                subjects: 'Secretaría Distrital de Movilidad. Ciudadanía.',
+                tags: [
+                    'Motociclistas',
+                    'Seguridad vial'
+                ],
+                url: '#',
+            },
         ],
         noviembre: [{
-            date: '5 de noviembre',
-            title: 'Día Mundial de las Víctimas de Siniestros Viales',
-            summary: 'Conmemorar la memoria de las personas que fallecieron en el tránsito y generar conciencia sobre la importancia de la seguridad vial en la ciudad.',
+                date: 'Primera semana de noviembre',
+                title: 'Cierre de año programa Niños y niñas primero',
+                summary: 'Evento de cierre con los beneficiarios del programa Niñas y niños primero.',
+                subjects: 'Secretaría Distrital de Movilidad. Secretaría de Educación. Ciudadanía',
+                tags: [
+                    'Niñas y niños primero',
+                    'Movilidad incluyente',
+                    'Movilidad Sostenible'
+                ],
+                url: '#',
+            },
+            {
+                date: 'Tercera Semana de noviembre',
+                title: 'Lanzamiento documental NNP',
+                summary: 'Presentación del documento del programa Niñas y niños primero.',
+                subjects: 'Secretaría Distrital de Movilidad. Secretaría de Educación. Ciudadanía.',
+                tags: [
+                    'Niñas y niños primero',
+                    'Movilidad incluyente',
+                    'Movilidad Sostenible'
+                ],
+                url: '#',
+            },
+            {
+                date: '5 de noviembre',
+                title: 'Día Mundial de las Víctimas de Siniestros Viales',
+                summary: 'Conmemorar la memoria de las personas que fallecieron en el tránsito y generar conciencia sobre la importancia de la seguridad vial en la ciudad.',
+                subjects: 'Secretaría Distrital de Movilidad. ',
+                tags: ['Seguridad vial'],
+                url: '#',
+            },
+            {
+                date: 'Por definir',
+                title: 'Día del Peatón',
+                summary: 'Iniciativa que busca promover el uso de medios de transporte sostenibles y seguros, como la bicicleta, el transporte público y la caminata.*',
+                subjects: 'Secretaría Distrital de Movilidad. ',
+                tags: ['Seguridad vial'],
+                url: '#',
+            }
+        ],
+        diciembre: [{
+            date: 'Segunda semana de diciembre',
+            title: 'Ciclovia nocturna',
+            summary: 'El objetivo es promover el transporte sostenible, la recreación y el disfrute de la iluminación navideña.*',
             subjects: 'Secretaría Distrital de Movilidad. ',
-            tags: ['Seguridad vial'],
-            url: '# www',
+            tags: [
+                'Alumbrado navideño',
+                'Bicicletas, patines y peatones'
+            ],
+            url: '#',
         }]
     };
 
@@ -638,22 +750,37 @@
             let url = datos[month][index].url;
             let codeUrl;
 
-console.log(url);
+            console.log(url);
 
             textData = template.content.cloneNode(true);
 
-            textData.querySelector("i").textContent = date;
             textData.querySelector("h3").textContent = title;
             textData.querySelector(".p1").textContent = summary;
-            textData.querySelector(".p2").textContent = subjects;
 
-            if (url === '#' || url === '' || url === null ) {
-                codeUrl = "";
+            if (url === '#' || url === '' || url === null) {
+                textData.querySelector('a').classList.add("hidden")
             } else {
-                codeUrl = `Ir al sitio web de ${title}`;
+                codeUrl = `Sitio web: ${title}`;
+                textData.querySelector("a").textContent = codeUrl;
+                textData.querySelector("a").href = url;
             }
-            textData.querySelector("a").textContent = codeUrl;
-            textData.querySelector("a").href = url;
+
+            if (subjects === '' || subjects === null || subjects === '#') {
+                // console.log(subjects);
+                textData.querySelector(".participants-event>p").classList.add("hidden");
+            } else {
+                textData.querySelector(".p2").textContent = subjects;
+            }
+
+            if (date === '' || date === null || date === '#') {
+                // console.log(subjects);
+                textData.querySelector(".date-event").classList.add("hidden");
+            } else {
+                textData.querySelector(".date-event").textContent = date;
+
+            }
+
+
 
 
             let tagsCode = [];
