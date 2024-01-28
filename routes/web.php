@@ -26,6 +26,11 @@ Route::get('/componente', function () {
 Route::view('/menu/principal', 'menu/principal');
 
 
+// --------------------------------------------------------------------------------------------------------------------------------------------------------- Menu
+Route::view('/components/tabpills', 'components/tabpills');
+Route::view('/components/collapse_btn', 'components/collapse_btn');
+
+
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Plantillas
 Route::view('/plantillas/imagen_adaptativa', 'plantillas/imagen_adaptativa');
@@ -285,3 +290,13 @@ Route::view('/2023/09/recategorizacion', '2023/09/recategorizacion');
 
 // Contenido octubre
 Route::view('/2023/10/rutas', '2023/10/rutas');
+Route::view('/2023/10/tramitesServicios', '2023/10/tramitesServicios');
+
+// Contenido noviembre
+Route::view('/2023/11/peaton', '2023/11/peaton');
+
+// Contenido diciembre
+Route::view('/2023/12/puntos', '2023/12/puntos');
+
+// Contenido enero 2024
+Route::view('/2024/01/dscsm', '2024/01/dscsm');

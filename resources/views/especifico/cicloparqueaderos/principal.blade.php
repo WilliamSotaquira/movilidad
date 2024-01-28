@@ -2,58 +2,55 @@
 @section ('contenido')
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<link rel='preconnect' href='https://fonts.googleapis.com'>
-<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-<div class="mpv-body">
-    <!-- row banner principal -->
-    <div class="row">
-        <!-- sx -->
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<div class="mpv-body"><!-- row banner principal -->
+    <div class="row"><!-- sx -->
         <div class="col-xs-12 visible-xs-block"><img alt="Titulo Principal: Más y mejores cicloparqueaderos." class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/16_-_banner_mas.y-mejores-cicloparqueaderos_v3.1.jpg" style="width: 100%;" title="Más y mejores cicloparqueaderos."></div>
         <!-- sm -->
+
         <div class="col-xs-12 hidden-xs"><img alt="Titulo Principal: Más y mejores cicloparqueaderos." class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/16_-_banner_mas.y-mejores-cicloparqueaderos_v3.jpg" style="width: 100%;" title="Más y mejores cicloparqueaderos."></div>
-    </div><!-- fin row banner principal -->
+    </div>
+    <!-- fin row banner principal --><!-- Sección box contador -->
 
-
-    <!-- Sección box contador -->
     <div class="box-contador">
         <div class="titulo">
-            <div class='row'>
-                <div class='col-xs-12 col-sm-12 col-md-12 '>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 ">
                     <h3>Contador de cupos <span class="enfasis">de cicloparqueaderos de Bogotá</span></h3>
                 </div>
             </div>
         </div>
+
         <div class="cards">
             <div class="card-cont cont-1">
-                <div class="imagen img-contador-1">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/logo_sellodorado_230710.png" alt="Icono sello dorado" title="Icono sello dorado">
-                </div>
+                <div class="imagen img-contador-1"><img alt="Icono sello dorado" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/logo_sellodorado_230710.png" title="Icono sello dorado"></div>
+
                 <div class="texto">
                     <p>Sellos de calidad</p>
                 </div>
+
                 <div class="valor">
-                    <p>30.392</p>
+                    <p>35.148</p>
                 </div>
             </div>
+
             <div class="card-cont cont-2">
-                <div class="imagen img-contador-2">
-                    <img class="img-responsive w-100" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono3.png' alt='icono sellos de calidad' title='icono sellos de calidad'>
-                </div>
+                <div class="imagen img-contador-2"><img alt="icono sellos de calidad" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-03-2022/actualizacion_piezas_micrositio_cicloparqueaderos_dic_2021_icono3.png" title="icono sellos de calidad"></div>
+
                 <div class="texto">
                     <p>Total de cupos en Bogotá</p>
                 </div>
+
                 <div class="valor">
-                    <p>62.670</p>
+                    <p>67.900</p>
                 </div>
             </div>
-
         </div>
-
+        <p class="text-center"><i>*Cifras preliminares a 31 de octubre de 2023.</i></p>
     </div>
-    <style>
+    <style type="text/css">
         .mpv-body .box-contador {
             padding: 20px 25px 10px 25px;
             margin-top: 30px;
@@ -93,15 +90,16 @@
             display: grid;
             gap: 8px;
             grid-auto-flow: dense;
-            grid-template-columns: 1fr ;
+            grid-template-columns: 1fr;
             grid-template-rows: auto;
         }
-        @media(min-width:768px){
+
+        @media(min-width:768px) {
             .mpv-body .box-contador .cards {
-            display: grid;
-            gap: 8px;
-            grid-template-columns: 1fr 1fr;
-        }
+                display: grid;
+                gap: 8px;
+                grid-template-columns: 1fr 1fr;
+            }
         }
 
         .box-contador .cards .card-cont {
@@ -127,8 +125,9 @@
             letter-spacing: 1.1;
             padding: 5px;
         }
-        .box-contador .texto p{
-           margin: 8px;
+
+        .box-contador .texto p {
+            margin: 8px;
         }
 
         .box-contador .valor {
@@ -146,208 +145,231 @@
             line-height: 1;
         }
     </style>
-
-
-
-
     <hr><!-- row mapa -->
     <div class="row row-mp">
         <div class="col-xs-12 col-cp-car">
             <div class="cp-mp-title bs-n">
                 <h3 class="ts-b">Red de cicloparqueaderos de Bogotá</h3>
             </div>
-            <div class="cp-mp-img "><iframe _ngcontent-c2="" allowfullscreen="" class="embed-responsive-item" height="450" src="https://movilidadbogota.maps.arcgis.com/apps/webappviewer/index.html?id=209e406d0989438ab38e8255eab63144" width="100%"></iframe>
-                <!-- <a href="https://mapas.bogota.gov.co/"><img class="img-responsive bs-n" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-04-2021/7_-_mapa_ciclorrutas_bogota0.jpg" alt=""></a> -->
-            </div>
+
+            <div class="cp-mp-img "><iframe _ngcontent-c2="" allowfullscreen="" class="embed-responsive-item" height="450" src="https://movilidadbogota.maps.arcgis.com/apps/webappviewer/index.html?id=209e406d0989438ab38e8255eab63144" width="100%"></iframe><!-- <a href="https://mapas.bogota.gov.co/"><img class="img-responsive bs-n" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-04-2021/7_-_mapa_ciclorrutas_bogota0.jpg" alt=""></a> --></div>
         </div>
-    </div><!-- row mapa -->
+    </div>
+    <!-- row mapa -->
+
     <hr><!-- row tab-pane -->
     <div class="row row-cp-cont-tp bs-n">
-        <div class="col-xs-12 col-sm-8 col-cp-car">
-            <!-- Carousel Default -->
+        <div class="col-xs-12 col-sm-8 col-cp-car"><!-- Carousel Default -->
             <div class="cp-carousel">
-
-                <div class="carousel slide bs" data-ride="carousel" id="carousel-default">
-
-
-                    <!-- indicadores -->
+                <div class="carousel slide bs" data-ride="carousel" id="carousel-default"><!-- indicadores -->
                     <ol class="carousel-indicators">
                         <li class="active" data-slide-to="0" data-target="#carousel-default"></li>
                         <li data-slide-to="1" data-target="#carousel-default"></li>
                         <li data-slide-to="2" data-target="#carousel-default"></li>
                         <li data-slide-to="3" data-target="#carousel-default"></li>
                         <li data-slide-to="4" data-target="#carousel-default"></li>
+                        <li data-slide-to="5" data-target="#carousel-default"></li>
                     </ol>
-                    <div class="carousel-inner" role="listbox">
 
-                        <div class="item active">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_003.png" title="La secretaria de Movilidad, Deyanira Ávila entregó la certificación. Foto:SDM" alt="La secretaria de Movilidad, Deyanira Ávila entregó la certificación. Foto:SDM" height="100%">
+                    <div class="carousel-inner" role="listbox">
+                        <div class="item active"><img alt="El Centro Comercial El Edén se une a la Red de Cicloparqueaderos con Sello Oro. Foto:SDM" height="100%" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/09-11-2023/sxcv-imagen_231109_155.png" title=" Foto:SDM">
+                            <div class="carousel-caption bs-n">
+                                <p>Bogotá, 28 de septiembre de 2023. @Sectormovilidad.- En el marco de la XVI Semana de la Bicicleta, la presente administración distrital le cumplió a Bogotá.</p>
+                            </div>
+                        </div>
+                        <div class="item"><img alt="La secretaria de Movilidad, Deyanira Ávila entregó la certificación. Foto:SDM" height="100%" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_003.png" title="La secretaria de Movilidad, Deyanira Ávila entregó la certificación. Foto:SDM">
                             <div class="carousel-caption bs-n">
                                 <p>Bogotá, 28 de abril de 2023. @Sectormovilidad. Marymount se convierte en el primer colegio de Bogotá en recibir la certificación Sello Oro de la Red de Cicloparqueaderos</p>
                             </div>
                         </div>
-                        <div class="item ">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_005.png" title="Fotografia de actividades Cicloparqueaderos" alt="Fotografia de actividades Cicloparqueaderos " height="100%">
-                            <!-- <div class="carousel-caption bs-n">
+
+                        <div class="item "><img alt="Fotografia de actividades Cicloparqueaderos " height="100%" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_005.png" title="Fotografia de actividades Cicloparqueaderos"> <!-- <div class="carousel-caption bs-n">
                                 <p>Bogotá cierra el año con más de 56.000 cupos para el parqueo de bicicletas y 301 establecimientos certificados por la Red Distrital de Cicloparqueaderos</p>
-                            </div> -->
-                        </div>
-                        <div class="item ">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_001.png" title="Bogotá, la Red Distrital de Cicloparqueaderos cierra este año con más de 56.000 cupos para el parqueo seguro de bicicletas, de los cuales, 27.012 han sido certificados con los Sellos de Calidad Oro y Plata de la Secretaría Distrital de Movilidad." alt="Bogotá, la Red Distrital de Cicloparqueaderos cierra este año con más de 56.000 cupos para el parqueo seguro de bicicletas, de los cuales, 27.012 han sido certificados con los Sellos de Calidad Oro y Plata de la Secretaría Distrital de Movilidad. " height="100%">
+                            </div> --></div>
+
+                        <div class="item "><img alt="Bogotá, la Red Distrital de Cicloparqueaderos cierra este año con más de 56.000 cupos para el parqueo seguro de bicicletas, de los cuales, 27.012 han sido certificados con los Sellos de Calidad Oro y Plata de la Secretaría Distrital de Movilidad. " height="100%" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_001.png" title="Bogotá, la Red Distrital de Cicloparqueaderos cierra este año con más de 56.000 cupos para el parqueo seguro de bicicletas, de los cuales, 27.012 han sido certificados con los Sellos de Calidad Oro y Plata de la Secretaría Distrital de Movilidad.">
                             <div class="carousel-caption bs-n">
                                 <p>Bogotá, 26 de diciembre de 2022. @Sectormovilidad.- @UMVbogota). Bogotá cierra el año con más de 56.000 cupos para el parqueo de bicicletas y 301 establecimientos certificados por la Red Distrital de Cicloparqueaderos</p>
                             </div>
                         </div>
-                        <div class="item ">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_004.png" title="Fotografia de actividades Cicloparqueaderos" alt="Fotografia de actividades Cicloparqueaderos " height="100%">
-                            <!-- <div class="carousel-caption bs-n">
+
+                        <div class="item "><img alt="Fotografia de actividades Cicloparqueaderos " height="100%" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_004.png" title="Fotografia de actividades Cicloparqueaderos"> <!-- <div class="carousel-caption bs-n">
                                 <p>Bogotá cierra el año con más de 56.000 cupos para el parqueo de bicicletas y 301 establecimientos certificados por la Red Distrital de Cicloparqueaderos</p>
-                            </div> -->
-                        </div>
-                        <div class="item">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_002.png" title="Entrega de la certificación Sello Oro al cicloparqueadero del Concejo de Bogotá. De izq. a der. concejala María Fernanda Rojas; secretaria de Movilidad, Deyanira Ávila; y el presidente del Concejo, Samir Abisambra" alt="" height="100%">
+                            </div> --></div>
+
+                        <div class="item"><img alt="" height="100%" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2023/recurso_cicloparqueaderos_680x450_002.png" title="Entrega de la certificación Sello Oro al cicloparqueadero del Concejo de Bogotá. De izq. a der. concejala María Fernanda Rojas; secretaria de Movilidad, Deyanira Ávila; y el presidente del Concejo, Samir Abisambra">
                             <div class="carousel-caption bs-n">
                                 <p>Bogotá, 11 de noviembre de 2022. @Sectormovilidad. Concejo de Bogotá recibe la certificación Sello Oro por su cicloparqueadero.</p>
                             </div>
                         </div>
                     </div>
-
                     <a class="left carousel-control" data-slide="prev" href="#carousel-default" role="button"><span class="sr-only">Previous</span> </a> <a class="right carousel-control" data-slide="next" href="#carousel-default" role="button"> <span class="sr-only">Next</span> </a>
                 </div>
             </div>
         </div>
+
         <div aria-hidden="true" aria-labelledby="modal1Label" class="modal fade" id="modal1" role="dialog" tabindex="-1">
             <div class="modal-dialog">
-                <div class="modal-content cp-modal"><img alt="imagen - contador de sellos de calidad" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-12-2021/contador_sellos_de_calidad_-_dic.jpg">
-                    <!-- <div class="cp-tp-img-text">
+                <div class="modal-content cp-modal"><img alt="imagen - contador de sellos de calidad" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-12-2021/contador_sellos_de_calidad_-_dic.jpg"> <!-- <div class="cp-tp-img-text">
                                             <p>Some content in menu 1.</p>
-                                        </div> -->
-                </div>
+                                        </div> --></div>
             </div>
         </div>
+
         <div aria-hidden="true" aria-labelledby="modal1Label" class="modal fade" id="modal3" role="dialog" tabindex="-1">
             <div class="modal-dialog">
-                <div class="modal-content cp-modal">
-                    <!-- <img class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2021/12_-_tipos_de_mobiliario-p1.jpg" alt=""> -->
+                <div class="modal-content cp-modal"><!-- <img class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2021/12_-_tipos_de_mobiliario-p1.jpg" alt=""> -->
                     <div class="row" style="margin: 20px;">
                         <div class="col-xs-12 cp-col"><img alt="imagen - cantidad de ciclopaqueaderos vs cantidad de parqueaderos" class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2021/11a_-_cicloparqueaderos_vs_parqueaderos_-_v1.jpg" style="width: 100%;"></div>
                     </div>
+
                     <div class="row" style="margin: 20px;">
                         <div class="col-xs-12 cp-col"><img alt="imagen - cantidad de funcionarios que van en bicicleta al trabajo" class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2021/11b_-_funcionarios_bicicleta-v1.jpg" style="width: 100%;"></div>
                     </div>
+
                     <div class="row" style="margin: 20px;">
                         <div class="col-xs-12 cp-col"><img alt="imagen - cantidad de contratistas que van en bicicleta al trabajo" class="bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2021/11c_-_contratistas_bicicleta-v1.jpg" style="width: 100%;"></div>
                     </div>
                 </div>
             </div>
         </div>
+
         <div aria-hidden="true" aria-labelledby="modal1Label" class="modal fade" id="modal4" role="dialog" tabindex="-1">
             <div class="modal-dialog">
-                <div class="modal-content cp-modal"><img alt="imagen - mobiliario urbano tipo cicloparqueadero o rack de bicicletas" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2021/12_-_tipos_de_mobiliario-p1.jpg">
-                    <!-- <div class="cp-tp-img-text">
+                <div class="modal-content cp-modal"><img alt="imagen - mobiliario urbano tipo cicloparqueadero o rack de bicicletas" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-05-2021/12_-_tipos_de_mobiliario-p1.jpg"> <!-- <div class="cp-tp-img-text">
                                             <p>Some content in menu 1.</p>
-                                        </div> -->
-                </div>
+                                        </div> --></div>
             </div>
         </div>
+
         <div aria-hidden="true" aria-labelledby="modal1Label" class="modal fade" id="modal5" role="dialog" tabindex="-1">
             <div class="modal-dialog">
                 <div class="modal-content cp-modal"><img alt="imagen - guiá rápida para asegurar tu bici" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-05-2021/14_-_como_asegurar_bici.jpg"></div>
             </div>
         </div>
+
         <div class="col-xs-12 col-sm-4" style="vertical-align: middle;">
-            <div class="row row-btn">
-                <!-- 1 OK-->
-                <div class="col-xs-12 btn-sub-cp bs"><span class="navbar-header"><img alt=" icono - moneda" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.01_-_icono_dinero.png"> </span> <a class="bs-b" href="https://bit.ly/Procedimientos-y-Parametros-Plan-Marshall" target="_blank"> Inversión de Cicloparqueaderos ¡Entérate!</a></div><!-- 2 OK-->
+            <div class="row row-btn"><!-- 1 OK-->
+                <div class="col-xs-12 btn-sub-cp bs"><span class="navbar-header"><img alt=" icono - moneda" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.01_-_icono_dinero.png"> </span> <a class="bs-b" href="https://bit.ly/Procedimientos-y-Parametros-Plan-Marshall" target="_blank"> Inversión de Cicloparqueaderos ¡Entérate!</a></div>
+                <!-- 2 OK-->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - libreta" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.02_-_icono_documento.png"></div><a class="bs-b" href="http://bit.ly/Plan_Marshall" target="_blank">Formato de registro cicloparqueaderos</a>
-                </div><!-- 3 -->
+                    <div class="navbar-header"><img alt="icono - libreta" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.02_-_icono_documento.png"></div>
+                    <a class="bs-b" href="http://bit.ly/Plan_Marshall" target="_blank">Formato de registro cicloparqueaderos</a>
+                </div>
+                <!-- 3 -->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - bicicleta" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.03_-_icono_bici_cicloparqueadero_1.png"></div><a class="bs-b" href="https://www.movilidadbogota.gov.co/web/conoce_acerca_de_los_sellos_de_calidad" target="_blank">Conoce acerca de los Sellos de Calidad</a>
-                </div><!-- 4 OK-->
+                    <div class="navbar-header"><img alt="icono - bicicleta" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.03_-_icono_bici_cicloparqueadero_1.png"></div>
+                    <a class="bs-b" href="https://www.movilidadbogota.gov.co/web/conoce_acerca_de_los_sellos_de_calidad" target="_blank">Conoce acerca de los Sellos de Calidad</a>
+                </div>
+                <!-- 4 OK-->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - bicicleta" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.03_-_icono_bici_cicloparqueadero_1.png"></div><a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="https://docs.google.com/forms/d/e/1FAIpQLScmxJreGcrc1LUuQ1I5XyAf373k2qA-erkzGvdF5MGRhKqV_g/viewform" target="_blank">Postúlate a los Sellos de Calidad</a>
-                </div><!-- 4-2 OK-->
+                    <div class="navbar-header"><img alt="icono - bicicleta" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.03_-_icono_bici_cicloparqueadero_1.png"></div>
+                    <a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="https://docs.google.com/forms/d/e/1FAIpQLScmxJreGcrc1LUuQ1I5XyAf373k2qA-erkzGvdF5MGRhKqV_g/viewform" target="_blank">Postúlate a los Sellos de Calidad</a>
+                </div>
+                <!-- 4-2 OK-->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - registro Bici" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-05-2021/icono-registro-bici-bogota.png"></div><a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="https://registrobicibogota.movilidadbogota.gov.co/#!/" target="_blank">Registro Bici</a>
-                </div><!-- 5 OK-->
+                    <div class="navbar-header"><img alt="icono - registro Bici" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-05-2021/icono-registro-bici-bogota.png"></div>
+                    <a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="https://registrobicibogota.movilidadbogota.gov.co/#!/" target="_blank">Registro Bici</a>
+                </div>
+                <!-- 5 OK-->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - la bici en cifras" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.05_-_icono_grafica.png"></div><a class="bs-b" href="https://www.movilidadbogota.gov.co/web/cicloparqueaderos_2" target="_blank">La bici en cifras ¡Conócelas!</a>
-                </div><!-- 6 OK-->
+                    <div class="navbar-header"><img alt="icono - la bici en cifras" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.05_-_icono_grafica.png"></div>
+                    <a class="bs-b" href="https://www.movilidadbogota.gov.co/web/cicloparqueaderos_2" target="_blank">La bici en cifras ¡Conócelas!</a>
+                </div>
+                <!-- 6 OK-->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - ranking distrital" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.06_-_icono_ranking.png"></div><a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="#modal3">Ranking distrital de cicloparqueaderos ¡Míralos!</a>
-                </div><!-- 7 OK-->
+                    <div class="navbar-header"><img alt="icono - ranking distrital" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.06_-_icono_ranking.png"></div>
+                    <a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="#modal3">Ranking distrital de cicloparqueaderos ¡Míralos!</a>
+                </div>
+                <!-- 7 OK-->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - tipos de mobiliarios" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.07_-_icono_cicloparqueadero_u_invertida.png"></div><a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="#modal4">Conoce los tipos de mobiliarios</a>
-                </div><!-- 8 OK-->
+                    <div class="navbar-header"><img alt="icono - tipos de mobiliarios" class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.07_-_icono_cicloparqueadero_u_invertida.png"></div>
+                    <a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="#modal4">Conoce los tipos de mobiliarios</a>
+                </div>
+                <!-- 8 OK-->
+
                 <div class="col-xs-12 btn-sub-cp bs">
-                    <div class="navbar-header"><img alt="icono - Tips de cuidado " class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.08_-_icono_candado.png"></div><a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="#modal5">¡Ojo con la bici! Tips de cuidado</a>
+                    <div class="navbar-header"><img alt="icono - Tips de cuidado " class="icon-btn" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/17.08_-_icono_candado.png"></div>
+                    <a class="bs-b" data-controls-modal="your_div_id" data-keyboard="false" data-toggle="modal" href="#modal5">¡Ojo con la bici! Tips de cuidado</a>
                 </div>
             </div>
         </div>
+    </div>
+    <!--  fin row tab-pane -->
 
-    </div><!--  fin row tab-pane -->
     <hr><!-- row botones documentos -->
     <div class="row row-cp-cont-bn">
         <div class="div-cp-cont-bn">
             <div class="col-xs-6 col-sm-3">
                 <div class="cp-bn-img"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-04-2021/politica_publica_de_la_bicicleta.pdf" target="_blank"><img alt="botón - Politica Bicicleta" class="img-responsive cp-btn-img zoom bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/3_-_btn_cicloparqueaderos-1_politica_bicicleta_-_v2.1.jpg"></a></div>
             </div>
+
             <div class="col-xs-6 col-sm-3">
                 <div class="cp-bn-img"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-04-2021/guia_de_ciclo-infraestructura_para_ciudades_colombianas.pdf" target="_blank"><img alt="Botón - Guía Infraestructura" class="img-responsive cp-btn-img zoom bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/4_-_btn_cicloparqueaderos-2_guia_infraestructura_-_v2.1.jpg"></a></div>
             </div>
+
             <div class="col-xs-6 col-sm-3">
                 <div class="cp-bn-img"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-04-2021/decreto_058_de_2021_antejardines.pdf_.pdf" target="_blank"><img alt="Botón -  Decreto 59 de 2021" class="img-responsive cp-btn-img zoom bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2021/5_-_btn_cicloparqueaderos-3_decreto_-_v2.1.jpg"></a></div>
             </div>
+
             <div class="col-xs-6 col-sm-3">
                 <div class="cp-bn-img"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2021/acuerdo_780_de_2020_y_decreto_reglamentario_091_de_2021.pdf" target="_blank"><img alt="Botón -  Plan Marshall" class="img-responsive cp-btn-img zoom bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-05-2021/6_-_btn_cicloparqueaderos-4_plan_marshall_-_v2.1.jpg"></a></div>
             </div>
         </div>
-    </div><!--  fin row botones documentos -->
+    </div>
+    <!--  fin row botones documentos -->
+
     <hr><!-- row noticias -->
     <div class="row  row-cp-nt">
         <div class="col-xs-12 col-sm-6 cp-col-video">
-            <div class="cp-video bs">
-                <iframe src="https://www.youtube.com/embed/2fl8Hh66bro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+            <div class="cp-video bs"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/2fl8Hh66bro" title="YouTube video player"></iframe></div>
         </div>
+
         <div class="col-xs-12 col-sm-6">
             <div class="row">
                 <div class="cp-card bs">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/a_partir_de_hoy_el_registro_bici_se_realiza_de_manera_virtual_en_un_solo_paso">
-                        <div class="col-xs-4 col-sm-3 cp-np-img-1"></div>
-                        <div class="col-xs-7 col-sm-9">
-                            <div class="cp-np-text">
-                                <h4>En el año 2022 Bogotá avanzó en movilidad sostenible y siguió mejorando su infraestructura vial.</h4>
-                                <p>Bogotá, 24 de febrero de 2023 (@SectorMovilidad). Este viernes, 24 de febrero, el sector Movilidad y las entidades que lo conforman (Secretaría de Movilidad, IDU, UMV, TransMilenio, Empresa Metro, La Rolita y La Terminal de Transportes) llevaron a cabo la Audiencia Pública de Rendición de Cuentas, espacio en donde se dieron a  conocer los logros alcanzados a lo largo del año 2022. </p>
-                            </div>
+                    <div class="col-xs-4 col-sm-3 cp-np-img-1">&nbsp;</div>
+
+                    <div class="col-xs-7 col-sm-9">
+                        <div class="cp-np-text">
+                            <h4><a href="https://www.movilidadbogota.gov.co/web/noticia/marymount_se_convierte_en_el_primer_colegio_de_bogota_en_recibir_la_certificacion_sello_oro">Marymount se convierte en el primer colegio de Bogotá en recibir la certificación Sello Oro de la Red de Cicloparqueaderos</a></h4>
+
+                            <p><a href="https://www.movilidadbogota.gov.co/web/noticia/marymount_se_convierte_en_el_primer_colegio_de_bogota_en_recibir_la_certificacion_sello_oro">Bogotá, 28 de abril de 2023. @Sectormovilidad. La Red de Cicloparqueaderos de Bogotá continúa cosechando logros en este año 2023. Esta vez, no solo sumó más cupos para el parqueo de bicicletas en la ciudad, sino que agregó una nueva categoría a su estrategia: colegios.</a></p>
                         </div>
-                    </a>
+                    </div>
                 </div>
 
-
                 <div class="cp-card bs">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/marcando_el_cambio_hacia_una_movilidad_mas_sostenible">
-                        <div class="col-xs-4 col-sm-3 cp-np-img-2"></div>
-                        <div class="col-xs-7 col-sm-9">
-                            <div class="cp-np-text">
-                                <h4>La ciudad se consolida como un referente mundial en el uso y promoción de la bicicleta</h4>
-                                <p>Bogotá, 4 de enero de 2023 (@SectorMovilidad). La Secretaría Distrital de Movilidad le presentó a la ciudadanía un balance sobre los avances que ha tenido Bogotá en materia de infraestructura, proyectos, pedagogía y estrategias enfocadas en el uso y promoción de la bicicleta como un medio de transporte sostenible.</p>
-                            </div>
+                    <div class="col-xs-4 col-sm-3 cp-np-img-2">&nbsp;</div>
+
+                    <div class="col-xs-7 col-sm-9">
+                        <div class="cp-np-text">
+                            <h4><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_cierra_el_ano_con_mas_de_56000_cupos_para_el_parqueo_de_bicicletas_y_301">Bogotá cierra el año con más de 56.000 cupos para el parqueo de bicicletas y 301 establecimientos certificados por la red distrital de cicloparqueaderos</a></h4>
+
+                            <p><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_cierra_el_ano_con_mas_de_56000_cupos_para_el_parqueo_de_bicicletas_y_301">Bogotá, 26 de diciembre de 2022. @Sectormovilidad.- @UMVbogota). Buenas noticias para Bogotá, la Red Distrital de Cicloparqueaderos cierra este año con más de 56.000 cupos para el parqueo seguro de bicicletas, de los cuales, 27.012 han sido certificados con los Sellos de Calidad Oro y Plata de la Secretaría Distrital de Movilidad. </a></p>
                         </div>
-                    </a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div><!-- fin row noticias -->
+    </div>
+    <!-- fin row noticias -->
+
     <hr><!-- row boton alerta -->
     <div class="row row-report-btn ">
         <div class="col-xs-12 col-cp-car visible-xs-block"><a href="https://docs.google.com/a/movilidadbogota.gov.co/forms/d/e/1FAIpQLScr3QmW2vSJF9cvFynRwUJjG6RdqjlFEO1SJtihbHLRraz4Kg/viewform"><img alt="Banner - Reporte Cicloparqueaderos qu no cumplen los requisitos" class="img-responsive bs-n" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2021/piezas_para_micrositio_cicloparqueaderos_btn_reporte_cicloparqueaderos400x110.png"> </a></div>
+
         <div class="col-xs-12 col-cp-car hidden-xs"><a href="https://docs.google.com/a/movilidadbogota.gov.co/forms/d/e/1FAIpQLScr3QmW2vSJF9cvFynRwUJjG6RdqjlFEO1SJtihbHLRraz4Kg/viewform"><img alt="Banner - Reporte Cicloparqueaderos qu no cumplen los requisitos" class="img-responsive bs-n" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-04-2021/15_-_btn_reporte_cicloparqueaderos0.jpg"> </a></div>
-    </div><!-- fin row boton alerta -->
+    </div>
+    <!-- fin row boton alerta -->
 </div>
-
-
 <style type="text/css">
     .node-unpublished {
         background: none;
@@ -736,7 +758,7 @@
 
     .cp-np-img-1 {
         height: 150px;
-        background-image: url('https://lh6.googleusercontent.com/L1rfa40ttXuc7kE7QVedlne2F_mixar5JdeYlX3gt9E8K6koYLFW5MaSTy8v1d8mFio9xbKmrwXPf3egcJ1bESafvQzVUjj0RSI-Vv2Hb9mA23PMFKwgIOrhzpQyh_HUUsO8goamsy3NajwtUdybwQ');
+        background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/28-04-2023/sxcv-imagen_230428_rh.png');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -746,7 +768,7 @@
 
     .cp-np-img-2 {
         height: 150px;
-        background-image: url('https://lh3.googleusercontent.com/6-UNwkzd5jbK7KkRWazDLCtSyOjOuOzK883d8QkyazCAyqDTKjuuJSVd2aVqaN3Xt-wSGLl_B0gqVo7HY34WG7kIZi4pt5dxpwA5gpvQF1ica_d9ZrjTOhfNM4X0Futbu37J6URtHiClLPJHqGYsTq_RsGlFzfiHcED929d-V1KKv6JGNZEuAlyoh3V0g9l-unXOCLjVGw');
+        background-image: url('https://lh4.googleusercontent.com/LGs0sUtvQSvjaZxnQo4traI59Z1Ouc_ikcQSL5yb0YpI_CnkzfDlOmalXomhqDtyNpR4R-AWhNSKuEAxy5T3drUTZauYrgzGJ5dxrDaBhbKwcd8dmvQqLHqjjMhcZzYj1gF4KvZ0Mt1UpnLbRvOQsVwGXZeTHDKxp84-Y3pVPrIoBdabSb26YCvaRErhiomF9ur5oDbzyw');
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;

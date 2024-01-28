@@ -165,7 +165,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>380</h3>
+                                <h3>401</h3>
                                 <p>Motos registradas</p>
                             </div>
                         </div>
@@ -185,7 +185,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>3.793</h3>
+                                <h3>5.337</h3>
                                 <p>Carros Registrados </p><small class="text-black">*Automóviles RDA</small>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>24.965</h3>
+                                <h3>28.458</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
@@ -213,7 +213,7 @@
 
             </div>
             <div>
-                <i>*Cifras preliminares a 31 de agosto de 2023.</i>
+                <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 11 de diciembre de 2023.</i>
             </div>
 
         </div>
@@ -383,20 +383,24 @@
                 </style>
 
                 <div class="box-noticia ">
-                    <i>Viernes, Septiembre 22, 2023 - 07:41</i>
-                    <h3>Ciudadanía se movilizó de forma sostenible en Bogotá</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/ciudadania_se_movilizo_de_forma_sostenible_en_bogota" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Jueves, Diciembre 28, 2023 - 11:069</i>
+                    <h3>Bogotá estrena primera red de cargadores públicos para carros eléctricos</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_estrena_primera_red_de_cargadores_publicos_para_carros_electricos" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
+
                 <div class="box-noticia ">
-                    <i>Martes, Septiembre 19, 2023 - 11:47</i>
-                    <h3>Bogotá se prepara para conmemorar la XVI Semana de la Bici</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_se_prepara_para_conmemorar_la_xvi_semana_de_la_bici" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Jueves, Diciembre 28, 2023 - 10:59</i>
+                    <h3>El 2023 será recordado como el año de la Bici</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/el_2023_sera_recordado_como_el_ano_de_la_bici" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
+
                 <div class="box-noticia ">
-                    <i>Sábado, Septiembre 9, 2023 - 15:02</i>
-                    <h3>La comunidad de El Porvenir en Bosa ya disfruta de un nuevo Barrio Vital</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/la_comunidad_de_el_porvenir_en_bosa_ya_disfruta_de_un_nuevo_barrio_vital" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Sábado, Diciembre 30, 2023 - 11:33</i>
+                    <h3>En Bogotá y la Región se realizan más de 10 millones de viajes diarios en medios sosteniblesá</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/en_bogota_y_la_region_se_realizan_mas_de_10_millones_de_viajes_diarios_en_medios_sostenibles" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
+
+
 
 
 

@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-07-2023/organigrama_230718.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-01-2024/organigrama_sdm_enero_2024.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
@@ -37,6 +37,9 @@
 
     <!-- Seccion perfil del Secretario Distrital  -->
     <div class="panel-body-mapa">
+
+
+
         <div class="row">
             <div class="col-xs-12 col-sm-4 text-center">
                 <div class="img-ppal w-100">
@@ -45,21 +48,24 @@
             </div>
             <div class="col-xs-12 col-sm-8 ">
                 <div class="descripcion">
-                    <h1> Deyanira Ávila Moreno</h1>
+                    <h1>Claudia Díaz Acosta</h1>
                     <h4>Secretaria Distrital de Movilidad</h4>
                     <div class="descripcion-xs">
-                        <p>La Secretaria Distrital de Movilidad es Ingeniera Catastral y Geodesta de la Universidad Distrital Francisco José de Caldas. Tiene además una especialización en Gestión Ambiental Urbana de la Universidad Piloto de Colombia.</p>
-                        <p>Se ha desempeñado como auditora en Seguridad Vial del Instituto de Recursos Mundiales (WRI por las siglas en inglés de World Resources Institute), auditora Interna en Sistemas de Gestión de la Calidad ISO 9001:2015.</p>
-                        <p>Con más de 10 años de experiencia en el sector público ha trabajado en entidades como el Instituto de Desarrollo Urbano (IDU), Catastro Distrital y Metro de Bogotá.</p>
-                        <p>Se desempeñó como la primera Subdirectora de la Bicicleta y el Peatón en Bogotá, siendo la encargada de la planeación, implementación y seguimiento de las políticas, acciones, programas y proyectos en torno al transporte no motorizado en sus componentes de cicloinfraestructura, promoción, sensibilización, sistemas de transporte basados en la bicicleta y sus servicios y proyectos complementarios.</p>
-                        <p>Bajo su liderazgo, Bogotá alcanzó importantes logros en términos de movilidad sostenible como la expedición de la Política Pública de la Bicicleta, la estructuración del Sistema de Bicicletas Compartidas y la implementación de 84 km de ciclovías temporales en temporada de pandemia, algunas de las cuales se convirtieron en ciclorrutas permanentes como la Carrera Séptima, Carrera Novena y Calle 13.</p>
-                        <p>También se desempeñó como Directora (e) de Planeación para la Movilidad teniendo a su cargo proyectos de movilidad sostenible, urbanismo táctico, transporte público y privado.</p>
+                        <p>Ingeniera ambiental con maestría en Ingeniería Civil en el área de transporte de la Universidad de Los Andes. Tiene más de 13 años de experiencia diseñando, gestionando y ejecutando políticas y proyectos de movilidad tanto en el sector público como para organizaciones internacionales.</p>
+                        <p>Fue consultora en el Banco Interamericano de Desarrollo, donde asesoró a varios países de América Latina en el diseño e implementación de iniciativas de transporte seguro, inclusivo y sostenible, así como de estrategias para mejorar la seguridad vial. Así mismo, fue consultora para la Agencia para el Desarrollo Internacional de Estados Unidos y el Servicio Forestal de los Estados Unidos para la Estrategia de Desarrollo Bajo en Carbono de Colombia.</p>
+                        <p>A nivel distrital, fue asesora del despacho del secretario de Movilidad y posteriormente jefe de la Oficina de Seguridad Vial y Directora de Seguridad Vial de la Secretaría Distrital de Movilidad, donde lideró la implementación de la política de seguridad vial Visión Cero para Bogotá, logrando reducir el número de muertes por siniestros viales por 4 años consecutivos.</p>
+                        <p>Asume el compromiso de hacer de Bogotá un lugar donde se puedan recorrer las calles con tranquilidad, protegiendo la vida en todos los modos de transporte. Seguirá trabajando por la transformación de la movilidad hacia la sostenibilidad, la conciencia vial, un transporte más eficiente y un aire más limpio.</p>
+
                     </div>
 
 
                 </div>
             </div>
         </div>
+
+
+
+
     </div>
     <hr>
     <!-- Fin Seccion perfil del Secretario Distrital  -->
@@ -114,28 +120,25 @@
                                             <div class='panel-body-mapa'>
 
                                                 <div class="row">
-
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-04-2020/andres-contento.jpg" alt="Foto: Andrés Contento Muñoz" title="Foto: Andrés Contento Muñoz">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-12-2023/andrea_luna.png" alt="Foto: Andrea Paola Luna Torres" title="Foto: Andrea Paola Luna Torres">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <div>
-                                                                <h1>Andrés Contento Muñoz</h1>
-                                                                <h4>Jefe Oficina Asesora de Comunicaciones y Cultura para la Movilidad</h4>
-                                                            </div>
+                                                            <h1>Andrea Paola Luna Torres</h1>
+                                                            <h4>Jefe Oficina Asesora de Comunicaciones y Cultura para la Movilidad</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Es comunicador social y periodista con más de 13 años de experiencia en medios de comunicación y en el desarrollo de proyectos de comunicación estratégica de alcance nacional.</p>
-                                                                <p>Durante 8 años trabajó en el periódico El Tiempo como editor y redactor de secciones como Vida de hoy, Nación y Bogotá. Durante 3 años se desempeñó como periodista de CityTv cubriendo principalmente la sección de Movilidad.</p>
-                                                                <p>En el sector público trabajó como asesor de comunicaciones para el Ministerio del Interior, y en los últimos años como coordinador de los equipos de comunicación interna y externa de iNNpulsa Colombia (unidad del Gobierno Nacional que promueve el emprendimiento y la innovación) y Bancóldex, banco de desarrollo para el crecimiento empresarial del país.</p>
+                                                                <p>Profesional en Ciencia Política y Gobierno de la Universidad del Rosario, con maestría en Acción Política, Fortalecimiento Institucional y Participación Ciudadana en el Estado de Derecho de la Universidad Francisco de Vitoria. Cuenta con una formación interdisciplinaria orientada hacia la asesoría en comunicación y asuntos públicos; asimismo, a la gestión de gobierno, su organización y funcionamiento en el escenario nacional e internacional.</p>
+                                                                <p>Está preparada para participar en la transformación sociopolítica, económica, así como para intervenir en asesorías en comunicaciones corporativas y consultorías en proyectos políticos, del sector privado, social y de acción gubernamental. Entre su experiencia se destaca que ha trabajado siempre en temas asociados a la comunicación política y corporativa, cultura ciudadana y los más de seis años laborados en TransMilenio, donde además de ser parte de la estructuración de la Política de Cultura Ciudadana de esta Entidad, se desempeñó como asesora de comunicaciones de los proyectos estratégicos y estructuró el programa EcoTransMi, un proyecto de ecoeficiencia que busca promover la movilidad sostenible, el cuidado del medio ambiente y fortalecer la cultura de pago en el sistema integrado de transporte.</p>
+                                                                <p>Desde su rol, espera ser una servidora y colaboradora para todos y seguir promoviendo los proyectos y mensajes claves de la Secretaría de Movilidad, que contribuyen a que la ciudadanía valore la gestión de la Entidad, y reconozca cómo esta va a impactar a futuro en la calidad de vida de la población bogotana.</p>
                                                             </div>
-
                                                         </div>
                                                     </div>
-
                                                 </div>
+
+
                                             </div>
                                         </div>
 
@@ -1375,35 +1378,27 @@
 
 
                         <div class='panel-body-mapa'>
+
                             <div class="row">
 
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
-                                        <!-- <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-06-2020/alejandra-gamez.jpg" alt=""> -->
                                         <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/adrianaruthizacertuche.png" alt="Foto Adriana Ruth Iza Certuche">
                                     </div>
                                 </div>
-
                                 <div class="col-xs-12 col-sm-8 ">
-                                    <!-- <div class="descripcion">
-                                        <h1>Alejandra Moreno Gámez</h1>
-                                        <h4>Subsecretaría de Servicios a la Ciudadanía</h4>
-                                        <div class="descripcion-xs">
-                                            <p>Es Comunicadora Social y Periodista, especializada en Opinión Publica y Mercado Político de la Pontificia Universidad Javeriana, con más de 20 años de experiencia en el sector público y en el mejoramiento de los servicios de atención al ciudadano. Ha sido servidora pública en diferentes entidades como Asesora de la Dirección General del Instituto Distrital de la Participación y la Acción Comunal, de la Unidad Administrativa Especial Migración Colombia, liderando la política de servicio al ciudadano en los servicios migratorios; en el Departamento Administrativo de Seguridad DAS se desempeñó como Coordinadora Nacional de Servicio al Ciudadano, en la Superintendencia de Vigilancia y Seguridad Privada como Asesora del Despacho y Jefe de Comunicaciones y en la Presidencia de la República, en la Secretaría de Prensa y Comunicación.</p>
-                                            <p>Uno de los propósitos más importante al frente de esta Subsecretaría es la virtualización de los servicios ofrecidos a la ciudadanía para que su relacionamiento con la entidad sea de manera rápida, transparente y sencilla.</p>
-                                        </div>
-                                    </div> -->
                                     <div class="descripcion">
                                         <h1>Adriana Ruth Iza Certuche</h1>
                                         <h4>Subsecretaria de Servicios a la Ciudadanía</h4>
                                         <div class="descripcion-xs">
-                                            <p>Administradora de empresas, con máster en Estudios Políticos de la Universidad Javeriana, tiene Especialización en Evaluación Social de Proyectos en la Universidad de los Andes. En el campo profesional fue directora de Estudios Sectoriales de la Secretaría de Movilidad por seis años, su paso como jefe de Gestión Social destaco su liderazgo asumiendo retos en proyectos de eliminación de brechas de género en el sector movilidad, además fue Coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue Gerente de Clúster de confecciones alrededor de cuatro años.</p>
+                                            <p>Administradora de empresas con máster en Estudios Políticos de la Universidad Javeriana. Candidata a magíster en Derecho y Gestión Urbanística y especialista en Evaluación Social de Proyectos en la Universidad de los Andes.</p>
+                                            <p>Durante su carrera se ha enfocado en la implementación de estrategias de cambio social, es así que, se destaca su labor dentro de la Secretaría Distrital de Movilidad, donde se ha desempeñado desde diferentes cargos: como Directora de Estudios Sectoriales lideró el proceso de sustitución de vehículos de tracción animal para el transporte en Bogotá a nuevas formas de transporte que mejoraran la calidad de vida de las personas menos beneficiadas. Durante su paso por la Oficina de Gestión Social se enfocó en proyectos de eliminación de brechas de género en el sector de tránsito y transporte y creó y lideró el primer Centro de Orientación a Víctimas de Siniestros Viales (ORVI). Como Subsecretaria de Servicio a la Ciudadanía ha logrado innovaciones en la atención a la ciudadanía como la incorporación de mujeres en la flota de operaciones que conducen grúas, estabilizó la puesta en operación plena de la Ventanilla Única de Servicios, articuló en una sola aplicación “Mi Movilidad a un Clic” los servicios de toda la entidad para facilidad de las personas, implementó el nuevo sistema contravencional para disminuir tiempos de atención, además de la ampliación de canales de atención y 5 nuevas salas de cursos pedagógicos.</p>
                                         </div>
                                     </div>
                                 </div>
 
-
                             </div>
+
                         </div>
 
 

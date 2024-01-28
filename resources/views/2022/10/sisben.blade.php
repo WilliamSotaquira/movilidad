@@ -1,48 +1,35 @@
 @extends('welcome')
 @section('contenido')
+
+
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<link rel='preconnect' href='https://fonts.googleapis.com'>
-<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<!-- Set Wrapper -->
-<div class='container-fluid sisben'>
-    <div class='box-wrp'>
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- Set Wrapper -->
+<div class="container-fluid sisben">
+	<div class="box-wrp"><!-- seccion Ppal Tabs  -->
+		<div class="box-tabs"><!-- Nav tabs -->
+			<ul class="nav nav-tabs" role="tablist">
+				<li class="active" role="presentation"><a aria-controls="inicio" data-toggle="tab" href="#inicio" role="tab">INICIO</a></li>
+				<li role="presentation"><a aria-controls="normatividad" data-toggle="tab" href="#normatividad" role="tab">NORMATIVIDAD</a></li>
+			</ul>
+			<!-- Tab panels -->
 
-        <!-- seccion Ppal Tabs  -->
-        <div class="box-tabs">
+			<div class="tab-content">
+				<div class="tab-pane active" id="inicio" role="tabpanel">
+					<div class="box-inicio">
+						<div class="imagen"><img alt="Accede al subsidio" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-09-2022/recurso_1.png" title="Accede al subsidio"></div>
 
-            <!-- Nav tabs -->
-            <ul class="nav nav-tabs" role="tablist">
+						<div class="texto">
+							<div class="titulo">
+								<h3 class="enfasis-text">Accede al subsidio</h3>
 
-                <li role="presentation" class="active">
-                    <a href="#inicio" aria-controls="inicio" role="tab" data-toggle="tab"> INICIO</a>
-                </li>
+								<h3>en las tarifas del Sistema Integrado de Transporte Público</h3>
+							</div>
 
-                <li role="presentation">
-                    <a href="#normatividad" aria-controls="normatividad" role="tab" data-toggle="tab">NORMATIVIDAD</a>
-                </li>
-
-            </ul>
-
-            <!-- Tab panels -->
-            <div class="tab-content">
-
-                <div role="tabpanel" class="tab-pane active" id="inicio">
-
-                    <div class="box-inicio">
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-09-2022/recurso_1.png' alt='Accede al subsidio' title='Accede al subsidio'>
-                        </div>
-                        <div class="texto">
-                            <div class="titulo">
-                                <h3 class="enfasis-text">Accede al subsidio</h3>
-                                <h3>en las tarifas del Sistema Integrado de Transporte Público</h3>
-                            </div>
-                            <p>Sé parte del más de un millón de personas que se beneficiará de este incentivo en los pasajes y apoya a la movilidad sostenible en Bogotá.</p>
-                        </div>
-                        <style>
-                            .box-wrp .box-inicio {
+							<p>Sé parte del más de un millón de personas que se beneficiará de este incentivo en los pasajes y apoya a la movilidad sostenible en Bogotá.</p>
+						</div>
+						<style type="text/css">.box-wrp .box-inicio {
                                 display: grid;
                                 gap: 10px;
                                 grid-area: box-inicio;
@@ -153,19 +140,15 @@
                                 }
 
                             }
-                        </style>
+						</style>
+					</div>
 
-                    </div>
-
-                    <hr>
-
-                    <div class="box-collapsable">
-
-                        <div class="titulo">
-                            <h3>Entérate cómo podrías obtener tu subsidio en las tarifas del sitp</h3>
-                        </div>
-                        <style>
-                            .box-wrp .box-collapsable .titulo {
+					<hr>
+					<div class="box-collapsable">
+						<div class="titulo">
+							<h3>Entérate cómo podrías obtener tu subsidio en las tarifas del sitp</h3>
+						</div>
+						<style type="text/css">.box-wrp .box-collapsable .titulo {
                                 padding: 16px 16px 32px 16px;
                             }
 
@@ -178,83 +161,65 @@
                                 margin: 12px 0px;
 
                             }
-                        </style>
+						</style>
+						<!-- controls -->
+						<div class="box-botones nav nav-pills nav-justified"><!-- control-solicita -->
+							<div class="card btn-solicita control-solicita">
+								<div class="card-sisben zoom solicita">
+									<div class="icono-numero"><a data-toggle="tab" href="#solicita"><img alt="icono numero tres" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_1.png" title="icono numero tres"> </a></div>
 
-                        <!-- controls -->
-                        <div class='box-botones nav nav-pills nav-justified'>
+									<div class="imagen"><a data-toggle="tab" href="#solicita"><img alt="grafico con icono de registro de formulario" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/solicita_220916.png" title="grafico con icono de registro de formulario"> </a></div>
 
+									<div class="texto">
+										<h3><a data-toggle="tab" href="#solicita">SOLICITA</a></h3>
 
-                            <!-- control-solicita -->
-                            <div class="card btn-solicita control-solicita">
-                                <a data-toggle="tab" href="#solicita">
-                                    <div class="card-sisben zoom solicita">
-                                        <div class='icono-numero'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_1.png' alt='icono numero tres' title='icono numero tres'>
-                                        </div>
-                                        <div class='imagen'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/solicita_220916.png' alt='grafico con icono de registro de formulario' title='grafico con icono de registro de formulario'>
-                                        </div>
-                                        <div class="texto">
-                                            <h3>SOLICITA</h3>
-                                            <p>tu encuesta Sisbén IV si aún no estás registrado</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <style>
-                                    .box-botones .control-solicita {
+										<p><a data-toggle="tab" href="#solicita">tu encuesta Sisbén IV si aún no estás registrado</a></p>
+									</div>
+								</div>
+								<style type="text/css">.box-botones .control-solicita {
                                         grid-area: control-solicita;
                                     }
-                                </style>
-                            </div>
+								</style>
+							</div>
+							<!-- control-consulta -->
 
-                            <!-- control-consulta -->
-                            <div class="card btn-consulta control-consulta">
-                                <a data-toggle="tab" href="#consulta">
-                                    <div class="card-sisben zoom consulta">
-                                        <div class='icono-numero'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_3.png' alt='icono numero dos' title='icono numero dos'>
-                                        </div>
-                                        <div class='imagen'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/consulta_220916.png' alt='grafica con icono de buscador' title='grafica con icono de buscador'>
-                                        </div>
-                                        <div class="texto">
-                                            <h3>CONSULTA</h3>
-                                            <p>en Sisbén IV si perteneces a uno de los grupos beneficiados</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <style>
-                                    .box-botones .control-consulta {
+							<div class="card btn-consulta control-consulta">
+								<div class="card-sisben zoom consulta">
+									<div class="icono-numero"><a data-toggle="tab" href="#consulta"><img alt="icono numero dos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_3.png" title="icono numero dos"> </a></div>
+
+									<div class="imagen"><a data-toggle="tab" href="#consulta"><img alt="grafica con icono de buscador" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/consulta_220916.png" title="grafica con icono de buscador"> </a></div>
+
+									<div class="texto">
+										<h3><a data-toggle="tab" href="#consulta">CONSULTA</a></h3>
+
+										<p><a data-toggle="tab" href="#consulta">en Sisbén IV si perteneces a uno de los grupos beneficiados</a></p>
+									</div>
+								</div>
+								<style type="text/css">.box-botones .control-consulta {
                                         grid-area: control-consulta;
                                     }
-                                </style>
-                            </div>
+								</style>
+							</div>
+							<!-- control-accede -->
 
-                            <!-- control-accede -->
-                            <div class="card btn-accede control-accede">
-                                <a data-toggle="tab" href="#accede">
-                                    <div class="card-sisben zoom">
-                                        <div class='icono-numero'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_6.png' alt='icono numero tres' title='icono numero tres'>
-                                        </div>
-                                        <div class='imagen'>
-                                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/acccede_220916.png' alt='grafico con lector y tarjeta tu llave' title='grafico con lector y tarjeta tu llave'>
-                                        </div>
-                                        <div class="texto">
-                                            <h3>ACCEDE</h3>
-                                            <p>con tu tarjeta Tu Llave personalizada, si eres beneficiario</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <style>
-                                    .box-botones .control-accede {
+							<div class="card btn-accede control-accede">
+								<div class="card-sisben zoom">
+									<div class="icono-numero"><a data-toggle="tab" href="#accede"><img alt="icono numero tres" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_6.png" title="icono numero tres"> </a></div>
+
+									<div class="imagen"><a data-toggle="tab" href="#accede"><img alt="grafico con lector y tarjeta tu llave" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-09-2022/acccede_220916.png" title="grafico con lector y tarjeta tu llave"> </a></div>
+
+									<div class="texto">
+										<h3><a data-toggle="tab" href="#accede">ACCEDE</a></h3>
+
+										<p><a data-toggle="tab" href="#accede">con tu tarjeta Tu Llave personalizada, si eres beneficiario</a></p>
+									</div>
+								</div>
+								<style type="text/css">.box-botones .control-accede {
                                         grid-area: control-accede;
                                     }
-                                </style>
-                            </div>
-
-                            <style>
-                                .box-wrp .box-botones {
+								</style>
+							</div>
+							<style type="text/css">.box-wrp .box-botones {
                                     display: grid;
                                     column-gap: 10px;
                                     /* gap: 10px; */
@@ -363,38 +328,29 @@
                                             'control-solicita control-consulta control-accede';
                                     }
                                 }
-                            </style>
-                        </div>
+							</style>
+						</div>
+						<!-- contents -->
 
-                        <!-- contents -->
-                        <div class="tab-content contents">
+						<div class="tab-content contents"><!-- content-consulta -->
+							<div class="tab-pane fade" id="consulta"><!-- Sección box enlace -->
+								<div class="box-enlace">
+									<div class="imagen img-principal"><img alt="icono de Grupo de Sisben" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_15.png" title="icono de Grupo de Sisben"></div>
 
-                            <!-- content-consulta -->
-                            <div id="consulta" class="tab-pane fade">
+									<div class="texto">
+										<div class="title title-h3 solicita-btn">
+											<h3>Consulta</h3>
+										</div>
 
+										<div class="paragraph ph-1 parrafo">
+											<p>si cuentas con clasificación Sisbén IV y a qué grupo perteneces.</p>
 
-                                <!-- Sección box enlace -->
-                                <div class="box-enlace">
-                                    <div class="imagen img-principal">
-                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_15.png" alt="icono de Grupo de Sisben" title="icono de Grupo de Sisben">
-                                    </div>
-                                    <div class="texto">
-                                        <div class="title title-h3 solicita-btn">
-                                            <h3>Consulta</h3>
-                                        </div>
-                                        <div class="paragraph ph-1 parrafo">
-                                            <p>si cuentas con clasificación Sisbén IV y a qué grupo perteneces.</p>
-                                            <div class="boton enlace-consulta">
-                                                <a href="https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx" target="_blank" rel="noopener noreferrer">
-                                                    <div class='banner zoom'>
-                                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_8.png' alt='Botón que direcciona a la consulta de grupo Sisbén' title='Botón que direcciona a la consulta de grupo Sisbén'>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <style>
-                                        .box-enlace .img-principal {
+											<div class="boton enlace-consulta">
+												<div class="banner zoom"><a href="https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx" rel="noopener noreferrer" target="_blank"><img alt="Botón que direcciona a la consulta de grupo Sisbén" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_8.png" title="Botón que direcciona a la consulta de grupo Sisbén"> </a></div>
+											</div>
+										</div>
+									</div>
+									<style type="text/css">.box-enlace .img-principal {
                                             padding: 3em;
                                         }
 
@@ -421,10 +377,9 @@
                                         .box-enlace .texto .paragraph {
                                             padding: 8px;
                                         }
-                                    </style>
-                                </div>
-                                <style>
-                                    #consulta .box-enlace {
+									</style>
+								</div>
+								<style type="text/css">#consulta .box-enlace {
                                         grid-area: box-enlace;
                                         display: grid;
                                         gap: 8px;
@@ -443,19 +398,14 @@
                                                 'img-principal texto';
                                         }
                                     }
-                                </style>
-
-
-
-                                <!-- Sección box mensaje -->
-                                <div class="box-mensaje">
-                                    <div class="enfasis">
-                                        <h3>Importante</h3>
-                                        <!-- <p>Si haces parte del <strong>grupo poblacional indígena</strong>, puedes acceder al subsidio teniendo en cuenta que:</p> -->
-                                    </div>
-                                </div>
-                                <style>
-                                    #consulta .box-mensaje {
+								</style>
+								<!-- Sección box mensaje -->
+								<div class="box-mensaje">
+									<div class="enfasis">
+										<h3>Importante</h3>
+										<!-- <p>Si haces parte del <strong>grupo poblacional indígena</strong>, puedes acceder al subsidio teniendo en cuenta que:</p> --></div>
+								</div>
+								<style type="text/css">#consulta .box-mensaje {
                                         grid-area: box-mensaje;
                                         padding: 16px 3em;
                                         background-color: #BCCF14;
@@ -471,85 +421,69 @@
                                         text-transform: uppercase;
                                         margin: 0px;
                                     }
-                                </style>
+								</style>
+								<!-- Sección box collapse -->
+								<div class="box-collapse"><!-- collapseGrupo -->
+									<div aria-multiselectable="true" class="panel-group" id="accordionGrupo" role="tablist "><!-- collapse indigena -->
+										<div class="panel panel-default">
+											<div class="panel-heading" id="heading_indigena" role="tab">
+												<h4 class="panel-title"><a aria-controls="collapse_indigena" aria-expanded="false" data-parent="#accordionGrupo" data-toggle="collapse" href="#collapse_indigena" role="button">Grupo Poblacional Indígena </a></h4>
+											</div>
 
+											<div aria-expanded="false" aria-labelledby="heading_indigena" class="panel-collapse collapse" id="collapse_indigena" role="tabpanel">
+												<div class="panel-body">
+													<div class="box-indigena">
+														<div class="paragraph ph-2">
+															<p>Si haces parte del <strong>grupo poblacional indígena</strong>, puedes acceder al subsidio teniendo en cuenta que:</p>
 
-                                <!-- Sección box collapse -->
-                                <div class="box-collapse">
-
-                                    <!-- collapseGrupo -->
-                                    <div class='panel-group' id='accordionGrupo' role='tablist ' aria-multiselectable='true'>
-
-                                        <!-- collapse indigena -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_indigena'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionGrupo' href='#collapse_indigena' aria-expanded='false' aria-controls='collapse_indigena'>
-                                                        Grupo Poblacional Indígena
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_indigena' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_indigena' aria-expanded='false'>
-                                                <div class='panel-body'>
-                                                    <div class='box-indigena'>
-                                                        <div class="paragraph ph-2">
-                                                            <p>Si haces parte del <strong>grupo poblacional indígena</strong>, puedes acceder al subsidio teniendo en cuenta que:</p>
-                                                            <ul>
-                                                                <li>Debes ser mayor de 16 años y estar radicado en Bogotá.</li>
-                                                                <li>No es necesario que estés registrado en el Sisbén IV.</li>
-                                                                <li>Debes estar incluido en el listado censal realizado por el Resguardo y/o Cabildo respectivo, remitido a la Secretaría Distrital de Gobierno, y posteriormente al Ministerio del Interior.</li>
-                                                                <li>Si no tienes la tarjeta Tu Llave personalizada, solicítala para acceder con ella al incentivo en los pasajes del SITP.</li>
-                                                            </ul>
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <style>
-                                                .box-indigena {
+															<ul>
+																<li>Debes ser mayor de 16 años y estar radicado en Bogotá.</li>
+																<li>No es necesario que estés registrado en el Sisbén IV.</li>
+																<li>Debes estar incluido en el listado censal realizado por el Resguardo y/o Cabildo respectivo, remitido a la Secretaría Distrital de Gobierno, y posteriormente al Ministerio del Interior.</li>
+																<li>Si no tienes la tarjeta Tu Llave personalizada, solicítala para acceder con ella al incentivo en los pasajes del SITP.</li>
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+											<style type="text/css">.box-indigena {
                                                     grid-area: indigena;
                                                 }
-                                            </style>
-                                        </div>
+											</style>
+										</div>
+										<!-- collapse mayor -->
 
-                                        <!-- collapse mayor -->
-                                        <div class='panel panel-default'>
-                                            <div class='panel-heading' role='tab' id='heading_mayor'>
-                                                <h4 class='panel-title'>
-                                                    <a role='button' data-toggle='collapse' data-parent='#accordionGrupo' href='#collapse_mayor' aria-expanded='false' aria-controls='collapse_mayor'>
-                                                        Adulto Mayor
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id='collapse_mayor' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_mayor' aria-expanded='false'>
-                                                <div class='panel-body'>
-                                                    <div class='box-mayor'>
-                                                        <div class="paragraph ph-1">
-                                                            <p>Si actualmente tienes descuento en los pasajes del SITP por ser <strong>adulto mayor</strong> no puedes acceder a otro subsidio al mismo tiempo.</p>
-                                                            <p>Por tanto, si además estás en los grupos desde el A1 hasta el C4 en la clasificación del Sisbén IV, y quieres optar por el subsidio en las tarifas del SITP a estos grupos:</p>
-                                                            <ul>
-                                                                <li>Acércate a una caseta de personalización de tarjeta Tu Llave</li>
-                                                                <li>Solicita ser beneficiario del subsidio y anular el subsidio de adulto mayor</li>
-                                                                <li>Obtén el nuevo beneficio, después de 24 horas de haber hecho la solicitud</li>
-                                                                <li>Para volver al beneficio anterior debes esperar un mes para hacer la solicitud</li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <style>
-                                                .box-mayor {
+										<div class="panel panel-default">
+											<div class="panel-heading" id="heading_mayor" role="tab">
+												<h4 class="panel-title"><a aria-controls="collapse_mayor" aria-expanded="false" data-parent="#accordionGrupo" data-toggle="collapse" href="#collapse_mayor" role="button">Adulto Mayor </a></h4>
+											</div>
+
+											<div aria-expanded="false" aria-labelledby="heading_mayor" class="panel-collapse collapse" id="collapse_mayor" role="tabpanel">
+												<div class="panel-body">
+													<div class="box-mayor">
+														<div class="paragraph ph-1">
+															<p>Si actualmente tienes descuento en los pasajes del SITP por ser <strong>adulto mayor</strong> no puedes acceder a otro subsidio al mismo tiempo.</p>
+
+															<p>Por tanto, si además estás en los grupos desde el A1 hasta el C4 en la clasificación del Sisbén IV, y quieres optar por el subsidio en las tarifas del SITP a estos grupos:</p>
+
+															<ul>
+																<li>Acércate a una caseta de personalización de tarjeta Tu Llave</li>
+																<li>Solicita ser beneficiario del subsidio y anular el subsidio de adulto mayor</li>
+																<li>Obtén el nuevo beneficio, después de 24 horas de haber hecho la solicitud</li>
+																<li>Para volver al beneficio anterior debes esperar un mes para hacer la solicitud</li>
+															</ul>
+														</div>
+													</div>
+												</div>
+											</div>
+											<style type="text/css">.box-mayor {
                                                     grid-area: mayor;
                                                 }
-                                            </style>
-                                        </div>
-
-                                    </div>
-                                    <!-- /#fin Grupo -->
-
-                                </div>
-                                <style>
-                                    #consulta .box-collapse {
+											</style>
+										</div>
+									</div>
+									<!-- /#fin Grupo --></div>
+								<style type="text/css">#consulta .box-collapse {
                                         grid-area: box-collapse;
                                         padding-bottom: 8px 4px;
 
@@ -601,32 +535,27 @@
                                             content: "\e114";
                                         }
                                     }
-                                </style>
+								</style>
+							</div>
+							<!-- content-solicita -->
 
-                            </div>
+							<div class="tab-pane fade" id="solicita">
+								<div class="seccion5">
+									<div class="imagen-solicita"><img alt="Consulta tu grupo Sisbén" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_14.png" title="Consulta tu grupo Sisbén"></div>
 
-                            <!-- content-solicita -->
-                            <div id="solicita" class="tab-pane fade">
+									<div class="texto-solicita">
+										<div class="solicita-btn">
+											<h3>SOLICITA</h3>
+										</div>
 
-                                <div class="seccion5">
-                                    <div class='imagen-solicita'>
-                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_14.png' alt='Consulta tu grupo Sisbén' title='Consulta tu grupo Sisbén'>
-                                    </div>
-                                    <div class="texto-solicita">
-                                        <div class="solicita-btn">
-                                            <h3>SOLICITA</h3>
-                                        </div>
-                                        <div class="parrafo">
-                                            <p>a la Secretaría Distrital de Planeación la aplicación de la encuesta Sisbén IV en la Red CADE o <a href="https://sisbensol.sdp.gov.co" target="_blank" rel="noopener noreferrer">aquí</a></p>
-                                        </div>
-                                        <div>
-                                            <a href="https://sisbensol.sdp.gov.co" target="_blank" rel="noopener noreferrer">https://sisbensol.sdp.gov.co/registro-solicitudes</a>
-                                        </div>
+										<div class="parrafo">
+											<p>a la Secretaría Distrital de Planeación la aplicación de la encuesta Sisbén IV en la Red CADE o <a href="https://sisbensol.sdp.gov.co" rel="noopener noreferrer" target="_blank">aquí</a></p>
+										</div>
 
-                                    </div>
-                                </div>
-                                <style>
-                                    .seccion5 {
+										<div><a href="https://sisbensol.sdp.gov.co" rel="noopener noreferrer" target="_blank">https://sisbensol.sdp.gov.co/registro-solicitudes</a></div>
+									</div>
+								</div>
+								<style type="text/css">.seccion5 {
                                         display: grid;
                                         gap: 10px;
                                         grid-auto-flow: dense;
@@ -674,36 +603,31 @@
                                         padding: 5px 16px;
                                         /* margin-bottom: 30px; */
                                     }
-                                </style>
+								</style>
+							</div>
+							<!-- content-accede -->
 
-                            </div>
+							<div class="tab-pane fade" id="accede">
+								<div class="seccion6" id="seccion6">
+									<div class="texto-accede">
+										<div class="accede-btn">
+											<h3>ACCEDE</h3>
+										</div>
 
-                            <!-- content-accede -->
-                            <div id="accede" class="tab-pane fade">
+										<div class="parrafo">
+											<p>luego de que se te haya asignado a uno de los grupos beneficiarios del Sisbén IV, podrás obtener el descuento en tus pasajes usando tu tarjeta personalizada Tu Llave. Si aún no la tienes, debes esperar un mes después de la resolución para solicitarla y acceder al beneficio.</p>
+										</div>
 
-                                <div class="seccion6" id="seccion6">
-                                    <div class="texto-accede">
-                                        <div class="accede-btn">
-                                            <h3>ACCEDE</h3>
-                                        </div>
-                                        <div class="parrafo">
-                                            <p>luego de que se te haya asignado a uno de los grupos beneficiarios del Sisbén IV, podrás obtener el descuento en tus pasajes usando tu tarjeta personalizada Tu Llave. Si aún no la tienes, debes esperar un mes después de la resolución para solicitarla y acceder al beneficio.</p>
-                                        </div>
-                                        <div>
-                                            <p>Consulta si ya eres beneficiario <a href="https://sisben.tullaveplus.gov.co/" target="_blank" rel="noopener noreferrer">aquí</a></p>
-                                            <a href="https://sisben.tullaveplus.gov.co/" target="_blank" rel="noopener noreferrer">https://sisben.tullaveplus.gov.co/</a>
-                                            <!-- <p>También puedes ver las resoluciones en la sección normatividad de esta página</p> -->
-                                        </div>
-                                    </div>
-                                    <div class='imagen-accede'>
-                                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_16.png' alt='Consulta tu grupo Sisbén' title='Consulta tu grupo Sisbén'>
-                                        <!-- <div class="text-center">
+										<div>
+											<p>Consulta si ya eres beneficiario <a href="https://sisben.tullaveplus.gov.co/" rel="noopener noreferrer" target="_blank">aquí</a></p>
+											<a href="https://sisben.tullaveplus.gov.co/" rel="noopener noreferrer" target="_blank">https://sisben.tullaveplus.gov.co/</a> <!-- <p>También puedes ver las resoluciones en la sección normatividad de esta página</p> --></div>
+									</div>
+
+									<div class="imagen-accede"><img alt="Consulta tu grupo Sisbén" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_16.png" title="Consulta tu grupo Sisbén"> <!-- <div class="text-center">
                                             <a class="btn-desliza" href="#seccion4">Desliza<span class="glyphicon glyphicon-name"></span></a>
-                                        </div> -->
-                                    </div>
-                                </div>
-                                <style>
-                                    .seccion6 {
+                                        </div> --></div>
+								</div>
+								<style type="text/css">.seccion6 {
                                         display: grid;
                                         gap: 10px;
                                         grid-auto-flow: dense;
@@ -751,9 +675,8 @@
                                         padding: 5px 16px;
                                         /* margin-bottom: 30px; */
                                     }
-                                </style>
-                                <!-- <hr> -->
-                                <!-- <div class="seccion7">
+								</style>
+								<!-- <hr> --><!-- <div class="seccion7">
                                     <div class="enCuenta">
                                         <div>
                                             <h3>TEN EN CUENTA QUE <span class="recurso17"></span></h3>
@@ -875,12 +798,8 @@
                                         color: rgba(25, 25, 25, 1);
                                         margin: 8px;
                                     }
-                                </style> -->
-
-                            </div>
-
-                            <style>
-                                .box-wrp .box-collapsable .contents {
+                                </style> --></div>
+							<style type="text/css">.box-wrp .box-collapsable .contents {
                                     border: solid 2px #f5f5f5;
                                     border-radius: 5px;
                                     /* background-color: #f5f5f5; */
@@ -911,54 +830,39 @@
                                 @media(min-width:992px) {}
 
                                 @media(min-width:1200px) {}
-                            </style>
+							</style>
+						</div>
+					</div>
+				</div>
+				<!-- Fin Set -->
 
-                        </div>
+				<div class="tab-pane" id="normatividad" role="tabpanel"><!-- Component box recursos -->
+					<div class="box-recursos">
+						<div class="title title-h3">
+							<h3>Recursos</h3>
+						</div>
 
-                    </div>
+						<div class="media">
+							<div class="media-left"><a download="" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/decreto_004_de_2023_1_1.pdf" rel="noopener noreferrer" target="_blank" title="Decreto No. 004 de 06 de enero de 2023"><img alt="icono de documento pdf" class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" width="48px"> </a></div>
 
-                </div>
-                <!-- Fin Set -->
+							<div class="media-body">
+								<h4 class="media-heading"><a download="" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/decreto_004_de_2023_1_1.pdf" rel="noopener noreferrer" target="_blank" title="Ir a descarga de Decreto No. 004 de 06 de enero de 2023">Decreto No. 004 de 06 de enero de 2023</a></h4>
 
-                <div role="tabpanel" class="tab-pane" id="normatividad">
+								<p>"Por el medio del cual se fija la tarifa del Sistema Integrado de Transporte Público - SITP y se dictan otras disposiciones."</p>
+							</div>
+						</div>
 
-                    <!-- Component box recursos -->
-                    <div class="box-recursos">
-                        <div class="title title-h3">
-                            <h3>Recursos</h3>
-                        </div>
+						<div class="media">
+							<div class="media-left"><a download="" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/202352000814696_resolucion_sisben_1.pdf" rel="noopener noreferrer" target="_blank" title="resolución número 81469 de 2023"><img alt="icono de documento pdf" class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" width="48px"> </a></div>
 
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/decreto_004_de_2023_1_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="Decreto No. 004 de 06 de enero de 2023">
-                                    <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/decreto_004_de_2023_1_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de Decreto No. 004 de 06 de enero de 2023">
-                                    <h4 class="media-heading">Decreto No. 004 de 06 de enero de 2023</h4>
-                                </a>
-                                <p>"Por el medio del cual se fija la tarifa del Sistema Integrado de Transporte Público - SITP y se dictan otras disposiciones."</p>
-                            </div>
-                        </div>
+							<div class="media-body">
+								<h4 class="media-heading"><a download="" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/202352000814696_resolucion_sisben_1.pdf" rel="noopener noreferrer" target="_blank" title="Ir a descarga de resolución número 81469 de 2023">Resolución Número 81469 de 2023</a></h4>
 
-                        <div class="media">
-                            <div class="media-left">
-                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/202352000814696_resolucion_sisben_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="resolución número 81469 de 2023">
-                                    <img class="media-object" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-01-2023/pdf.png" alt="icono de documento pdf" width="48px">
-                                </a>
-                            </div>
-                            <div class="media-body">
-                                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2023/202352000814696_resolucion_sisben_1.pdf" target="_blank" rel="noopener noreferrer" download="" title="Ir a descarga de resolución número 81469 de 2023">
-                                    <h4 class="media-heading">Resolución Número 81469 de 2023</h4>
-                                </a>
-                                <p>"Por medio del cual se reglamentan los artículos 6° y 8° del Decreto Distrital 004 de 2023 y se dictan otras disposiciones."</p>
-                            </div>
-                        </div>
-
-                    </div>
-                    <style>
-                        .box-wrp .box-recursos {
+								<p>"Por medio del cual se reglamentan los artículos 6° y 8° del Decreto Distrital 004 de 2023 y se dictan otras disposiciones."</p>
+							</div>
+						</div>
+					</div>
+					<style type="text/css">.box-wrp .box-recursos {
                             grid-area: box-recursos;
                             padding: 2.2em;
                         }
@@ -968,37 +872,36 @@
                             padding-bottom: 4px;
                             border-bottom: 2px solid rgba(77, 84, 31, 0.5);
                         }
-                    </style>
+					</style>
+				</div>
+			</div>
+		</div>
 
+		<hr><!-- Sección box full-news -->
+		<div class="box-full-news">
+			<h2>Noticias</h2>
+			<!-- <p></p> -->
 
-                </div>
-            </div>
-        </div>
+			<div class="new">
+				<div class="imagen img-new"><a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" rel="noopener noreferrer" target="_blank"><img alt="Foto de parada de bus zonal en el momento de abordaje" class="img-responsive w-100" src="https://lh5.googleusercontent.com/SffoVsmx2YUvzd6NZCS-tjwdG9_xAjcTXbdoHA2MU8ngbNt86ZCNZ0E-wn6pZWxp_KznSKptH-EqAq23zdqfz_EZ7bWU-6Uhm-DeNZWKNpolOmylHGjz1cHd8WNNY_XH8ZScpuw-ePwIiUNVQzCpDw" title="Foto de parada de bus zonal en el momento de abordaje"> </a></div>
 
-        <hr>
+				<div class="txt-new">
+					<h3><a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_540000_mujeres_pueden_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" rel="noopener noreferrer" target="_blank">Más de 540.000 mujeres pueden ser beneficiadas en las tarifas del Sistema Integrado de Transporte Público</a></h3>
 
-        <!-- Sección box full-news -->
-        <div class="box-full-news">
-            <h2>Noticias</h2>
-            <!-- <p></p> -->
-            <br>
-            <div class="new">
-                <div class="imagen img-new">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" target="_blank" rel="noopener noreferrer">
-                        <img class="img-responsive w-100" src="https://lh4.googleusercontent.com/M5Xo0fB9zCyKE2xOYnGsjqck_yk263BOOTd-3dxYcbZ6bS_ND6e9_ZKYRc06i1BDKB9rXtachnx_N_xl6Vi3d_vuhPUZUMZj4rd3vUc67lQl4D5zkpDhuv9t2TnjDbeb5yu0KxOBH7_Gnj_qe68hDw" alt="Foto de parada de bus zonal en el momento de abordaje" title="Foto de parada de bus zonal en el momento de abordaje">
-                    </a>
-                </div>
-                <div class="txt-new">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" target="_blank" rel="noopener noreferrer">
-                        <h3>Cerca de 900 mil personas podrán ser beneficiadas en las tarifas del Sistema Integrado de Transporte Público</h3>
-                    </a>
-                    <p><strong>Bogotá, 01 de febrero de 2023 (@SectorMovilidad).</strong> A partir de hoy, 01 de febrero, los beneficiarios de la tarifa preferencial para el Sistema Integrado de Transporte Público - SITP son las personas que cuentan con una encuesta validada en Sisbén IV, entre los grupos A1 a B7, la población con menor capacidad de pago en la ciudad.</p>
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" target="_blank" rel="noopener noreferrer">Ver más</a>
-                </div>
-            </div>
-        </div>
-        <style>
-            .box-wrp .box-full-news {
+					<p><strong>Bogotá, 14 de agosto de 2023 (@SectorMovilidad).</strong> Desde febrero de este año, con el Decreto 004 de 2023, inició la aplicación de la tarifa preferencial para el Sistema Integrado de Transporte Público - SITP que están en el Sisbén IV, entre los grupos desde A1 hasta B7, en las que se encuentran más de 545.000 mujeres que pueden recibir el beneficio.</p>
+					<a href="https://www.movilidadbogota.gov.co/web/noticia/mas_de_540000_mujeres_pueden_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" rel="noopener noreferrer" target="_blank">Ver más</a></div>
+			</div>
+			<div class="new">
+				<div class="imagen img-new"><a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" rel="noopener noreferrer" target="_blank"><img alt="Foto de parada de bus zonal en el momento de abordaje" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/03-11-2023/recurso_1-n.jpg" title="Foto de parada de bus zonal en el momento de abordaje"> </a></div>
+
+				<div class="txt-new">
+					<h3><a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" rel="noopener noreferrer" target="_blank">Cerca de 900 mil personas podrán ser beneficiadas en las tarifas del Sistema Integrado de Transporte Público</a></h3>
+
+					<p><strong>Bogotá, 01 de febrero de 2023 (@SectorMovilidad).</strong> A partir de hoy, 01 de febrero, los beneficiarios de la tarifa preferencial para el Sistema Integrado de Transporte Público - SITP son las personas que cuentan con una encuesta validada en Sisbén IV, entre los grupos A1 a B7, la población con menor capacidad de pago en la ciudad.</p>
+					<a href="https://www.movilidadbogota.gov.co/web/noticia/cerca_de_900_mil_personas_podran_ser_beneficiadas_en_las_tarifas_del_sistema_integrado_de" rel="noopener noreferrer" target="_blank">Ver más</a></div>
+			</div>
+		</div>
+		<style type="text/css">.box-wrp .box-full-news {
                 grid-area: box-full-news;
                 padding: 0 2em;
                 margin-top: 2em;
@@ -1045,25 +948,16 @@
             @media(min-width:768px) {
                 .box-full-news .new {
                     gap: 8px;
-                    grid-template-columns: 1fr 1fr;
+                    grid-template-columns: 20% auto;
                     grid-template-areas:
                         'imagen texto';
                 }
             }
-        </style>
-
-
-
-
-    </div>
-    <!-- Fin seccion Ppal Tabs  -->
-
-</div>
-<!-- End Set Wrapper -->
-
-<!-- Styles -->
-<style type='text/css'>
-    .field-item.even .centertil {
+		</style>
+	</div>
+	<!-- Fin seccion Ppal Tabs  --></div>
+<!-- End Set Wrapper --><!-- Styles -->
+<style type="text/css">.field-item.even .centertil {
         visibility: hidden;
         margin-top: -50px;
     }

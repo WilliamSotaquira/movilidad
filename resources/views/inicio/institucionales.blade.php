@@ -3,7 +3,8 @@
 
 
     <div class="row">
-        <div class="col-xs-6 col-sm-offset-2 col-sm-4"><a href="https://www.movilidadbogota.gov.co/web/formulario_de_denuncias" target="_blank" rel="noopener noreferrer"><img class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-03-2022/botonanticorrupcionaprobado.webp" alt="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá" title="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá"></a></div>
+        <div class="col-xs-6 col-sm-4"><a href="https://bogota.gov.co/sdqs/" target="_blank" rel="noopener noreferrer"><img class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-01-2024/log_bte2020.png" alt="Logo Bogotá te escucha" title="Enlace a Bogotá te escucha"></a></div>
+        <div class="col-xs-6 col-sm-4"><a href="https://www.movilidadbogota.gov.co/web/formulario_de_denuncias" target="_blank" rel="noopener noreferrer"><img class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-03-2022/botonanticorrupcionaprobado.webp" alt="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá" title="Logo Denuncie actos de Corrupción - Gobierno Abierto de Bogotá"></a></div>
         <div class="col-xs-6 col-sm-4"><a href="https://www.ideca.gov.co/" target="_blank" rel="noopener noreferrer"><img alt="Logo Ideca" class="img-responsive w-100 center-block p-10" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-03-2022/ideca_logo.png"></a></div>
     </div>
     <div class="row">

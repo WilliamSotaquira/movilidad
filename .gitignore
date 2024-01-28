@@ -2,6 +2,8 @@
 /public/hot
 /public/images
 /public/images/
+/public/videos
+/public/videos/
 /public/storage
 /storage/*.key
 /vendor

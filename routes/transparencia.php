@@ -24,3 +24,7 @@ Route::view('/transparencia/retencionDocumental', 'transparencia/retencionDocume
 
 // Información Entidad
 Route::view('/transparencia/informacionEntidad/directorioEntidades', 'transparencia/informacionEntidad/directorioEntidades');
+
+
+// Seccion 4
+Route::view('/transparencia/4/presupuesto', 'transparencia/4/presupuesto');
