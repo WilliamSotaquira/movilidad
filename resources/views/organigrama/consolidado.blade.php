@@ -13,14 +13,13 @@
     <div class="row">
         <div class="col-xs-12 text-center">
             <div class="boton_org">
-                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-01-2024/organigrama_sdm_enero_2024.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
+                <a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2024/organigrama_sdm_rediseno_2024.pdf" target="_blank" rel="noopener noreferrer">Ver Organigrama Completo</a>
             </div>
         </div>
     </div>
     <hr>
     <div class="map-org-ppal">
         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-10-2021/1_2.png" width="900px" title="Organigrama General de la Entidad" alt="Organigrama General de la Entidad" usemap="#image-map">
-
         <map name="image-map">
             <area id="collapse1" target="" alt="Despacho de la Secretaría " title="Despacho de la Secretaría " href="https://www.movilidadbogota.gov.co/web/organigrama#collapseDespacho" coords="312,169,429,122" shape="rect">
             <area id="collapse2" target="" alt="Subsecretaría de Política de Movilidad" title="Subsecretaría de Política de Movilidad" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSubPolMovilidad" coords="159,292,16,242" shape="rect">
@@ -39,11 +38,10 @@
     <div class="panel-body-mapa">
 
 
-
         <div class="row">
             <div class="col-xs-12 col-sm-4 text-center">
                 <div class="img-ppal w-100">
-                    <img class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2023/deyaniraavila_sdm.png" alt="Deyanira Ávila Moreno - Secretario Distrital de Movilidad">
+                    <img class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-01-2024/claudiadiazacosta.png" alt="Claudia Díaz Acosta - Secretario Distrital de Movilidad">
                 </div>
             </div>
             <div class="col-xs-12 col-sm-8 ">
@@ -55,10 +53,7 @@
                         <p>Fue consultora en el Banco Interamericano de Desarrollo, donde asesoró a varios países de América Latina en el diseño e implementación de iniciativas de transporte seguro, inclusivo y sostenible, así como de estrategias para mejorar la seguridad vial. Así mismo, fue consultora para la Agencia para el Desarrollo Internacional de Estados Unidos y el Servicio Forestal de los Estados Unidos para la Estrategia de Desarrollo Bajo en Carbono de Colombia.</p>
                         <p>A nivel distrital, fue asesora del despacho del secretario de Movilidad y posteriormente jefe de la Oficina de Seguridad Vial y Directora de Seguridad Vial de la Secretaría Distrital de Movilidad, donde lideró la implementación de la política de seguridad vial Visión Cero para Bogotá, logrando reducir el número de muertes por siniestros viales por 4 años consecutivos.</p>
                         <p>Asume el compromiso de hacer de Bogotá un lugar donde se puedan recorrer las calles con tranquilidad, protegiendo la vida en todos los modos de transporte. Seguirá trabajando por la transformación de la movilidad hacia la sostenibilidad, la conciencia vial, un transporte más eficiente y un aire más limpio.</p>
-
                     </div>
-
-
                 </div>
             </div>
         </div>
@@ -260,43 +255,24 @@
                                             </div>
                                             <div class='panel-body-mapa'>
 
-                                                <!-- <div class="row">
-                                                    <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2020/adriana-iza.jpg" alt="Foto: Adriana Ruth Iza Certuche" title="Foto: Adriana Ruth Iza Certuche">
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-8 ">
-                                                        <div class="descripcion">
-                                                            <div>
-                                                                <h1>Adriana Ruth Iza Certuche</h1>
-                                                                <h4>Dirección de Atención al Ciudadano</h4>
-                                                            </div>
-                                                            <div class="descripcion-xs">
-                                                                <p>Es administradora de empresas, tiene un máster en Estudios Políticos de la Universidad Javeriana y una especialización en Evaluación Social de Proyectos de la Universidad de los Andes. Por seis años fue Directora de Estudios Sectoriales de la Secretaría de Movilidad, y ahora es la jefe de Gestión Social. Además fue coordinadora de procesos de emprendimiento y líder del proyecto Colegios Amigos del Turismo, en el Instituto Distrital de Turismo. También tiene experiencia en el sector privado donde fue gerente de Cluster de confecciones alrededor de cuatro años.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div> -->
-
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-01-2023/jayn_patrich_pardo_garcia.png" alt="Foto: Jayn Patrich Pardo García" title="Foto: Jayn Patrich Pardo García">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-02-2024/juan_david_villamarin.png" alt="Foto: Juan David Villamarín García">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Jayn Patrich Pardo García</h1>
-                                                            <h4>Jefe Oficina de Gestión Social</h4>
+                                                            <h1>Juan David Villamarín García</h1>
+                                                            <h4>Jefe de la Oficina de Gestión Social</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Abogado de la Universidad Católica de Colombia; especialista en derecho procesal penal constitucional y justicia penal militar; especialista en derecho administrativo y candidato a magíster en servicios públicos domiciliarios y regulación minero-energética; con habilidades en el uso de fuentes jurídicas, aplicación de la ley a casos concretos, comparación entre sistemas legales, prevención y solución de conflictos.</p>
-                                                                <p>Se ha desempeñado como veedor distrital delegado para la atención de quejas y reclamos en la Veeduría Distrital; Asesor Jurídico en entidades como: RTVC Sistema de Medios Públicos, Superintendencia del Subsidio Familiar y la Agencia Nacional de Hidrocarburos, entre otras. También ha trabajado en el sector privado en temas organizacionales, talento humano y dirección administrativa y financiera.</p>
-                                                                <p>Pertenecer a la Secretaría de Movilidad para él es un reto importante y una meta alcanzada. Se describe como un apasionado del sector movilidad y ve en este cargo una oportunidad enorme para contribuir en todos estos temas que lidera la entidad para el beneficio de la ciudadanía.</p>
+                                                                <p>Politólogo de la Universidad Nacional, especialista en Proyectos de Desarrollo de la Escuela Superior de Administración Pública, y Máster en Gestión Urbana y Desarrollo de la Erasmus Universiteit Rotterdam. Cuenta con más de una década de experiencia profesional en entidades públicas y privadas así como en organismos internacionales, donde ha gerenciado proyectos relacionados con el desarrollo social y urbano.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
+
+
                                             </div>
 
                                         </div>
@@ -481,42 +457,24 @@
                         <div class="panel-body-mapa">
 
                             <div class="row">
-                                <!-- <div class="col-xs-12 col-sm-4 text-center">
-                                    <div class="img-perfil w-100">
-                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-11-2021/juanestebanmartinez_b.webp" alt="Juan Esteban Martínez Ruíz" title="Juan Esteban Martínez Ruíz">
-                                    </div>
-                                </div>
-                                <div class="col-xs-12 col-sm-8 ">
-                                    <div class="descripcion">
-                                        <h1>Juan Esteban Martínez Ruíz</h1>
-                                        <h4>Subsecretario de Política de Movilidad</h4>
-                                        <div class="descripcion-xs">
-                                            <p>Es Ingeniero Civil de la Universidad EAFIT; tiene una especialización en Vías y Transporte de la Universidad de Medellín y otra en Economía de la Universidad de los Andes. Complementa sus estudios una Maestría en Ingeniería de la Universidad de EAFIT, donde también es profesor en Sistemas de Transporte desde hace 10 años.</p>
-                                            <p>Lleva más de 16 años trabajando al servicio del sector público en las dos ciudades más importantes del país: Bogotá y Medellín. En esta última fue Secretario de Movilidad entre los años 2016 y 2017, pero antes de asumir esa responsabilidad se desempeñó durante seis años como Ingeniero de planeación en el Metro de Medellín y luego pasó a ser Subdirector de Movilidad del Área Metropolitana, que comprende los 10 municipios del Valle de Aburrá.</p>
-                                            <p>En TransMilenio coordinó el proceso de adquisición de la flota de 500 buses eléctricos. Hace dos años llegó a Bogotá como consultor del Banco Mundial y del Banco Interamericano de Desarrollo (BID) para apoyar los estudios de expansión de la primera línea del Metro, que partirá desde la calle 72 e irá hasta la localidad de Suba.</p>
-                                            <p>Toda su experiencia laboral la ha adquirido en el sector del transporte y de la movilidad, "He mantenido un interés genuino por todos los sistemas de transporte, llámense, metro, buses, carga, bicicletas o peatones”.</p>
-                                        </div>
-                                    </div>
-                                </div> -->
-
                                 <div class="col-xs-12 col-sm-4 text-center">
                                     <div class="img-perfil w-100">
-                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/oscarjuliangomezcortes.png" alt="Foto: Oscar Julián Gómez Cortés" title="Foto: Oscar Julián Gómez Cortés">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-02-2024/ana_milena_gomez.png" alt="Foto: Ana Milena Gómez Guzmán">
                                     </div>
                                 </div>
-
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
-                                        <h1>Oscar Julián Gómez Cortés</h1>
-                                        <h4>Subsecretario de Política de Movilidad </h4>
+                                        <h1>Ana Milena Gómez Guzmán</h1>
+                                        <h4>Subsecretaria De Política De Movilidad</h4>
                                         <div class="descripcion-xs">
-                                            <p>Ingeniero civil y magíster en ingeniería de transporte de la Universidad Nacional de Colombia, con especialización en finanzas de la Universidad Externado de Colombia. Su investigación se enfocó en la modelación financiera de tecnologías vehiculares eléctricas, gas y diésel.</p>
-                                            <p>Apasionado por la estructuración e implementación técnica y financiera de proyectos de transporte y logística, con amplia experiencia en el sector público en el análisis de la economía del transporte y mejora regulatoria.</p>
-                                            <p>Fue director de infraestructura y vehículos de la Agencia Nacional de Seguridad Vial; subdirector de movilidad y transporte urbano del Departamento Nacional de Planeación; asesor del Ministerio de Transporte; consultor del Banco Interamericano de Desarrollo; entre otros.</p>
+                                            <p>Ingeniera Civil e Ingeniera Ambiental de la Universidad de los Andes, con un título de Magíster en Ingeniería Civil de la misma institución. Con una sólida trayectoria profesional de cerca de 10 años, ha dedicado gran parte de su carrera al ámbito de la movilidad.</p>
+                                            <p>En la Secretaría Distrital de Movilidad, ocupó cargos del nivel asesor y directivo desde el 2 de enero de 2017 y hasta el 2 de mayo de 2021. Durante este periodo, desempeñó un papel fundamental en la definición de lineamientos para el transporte público y privado, así como en la formulación y adopción del Plan Estratégico de la Secretaría Distrital de Movilidad.</p>
+                                            <p>Además, aportó su experiencia en la Financiera de Desarrollo Territorial S.A. - FINDETER, brindando asesoramiento y respaldo a la Dirección de Ciudades en la revisión y elaboración de términos de referencia para proyectos relacionados con transporte y movilidad. Su compromiso y contribuciones han dejado una huella significativa en el desarrollo y mejoramiento de políticas y proyectos en el campo de la movilidad urbana.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
 
                         </div>
 
@@ -1799,22 +1757,24 @@
                                             <div class='panel-body-mapa'>
 
                                                 <div class="row">
+
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2022/yazminandreagomezcastro.png" alt="Yazmín Andrea Gómez Castro" title="Yazmín Andrea Gómez Castro">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-02-2024/maria_jimena_yanez.png" alt="Foto Maria Jimena Yáñez Gelvez">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Yazmín Andrea Gómez Castro</h1>
+                                                            <h1>Maria Jimena Yáñez Gelvez</h1>
                                                             <h4>Directora de Contratación</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Abogada y especialista en Derecho y Nuevas Tecnologías para la Vida de la Universidad Externado de Colombia, con conocimientos en negocios internacionales con énfasis en negocios chinos del Instituto de Altos Estudios de Barcelona, candidata a Doctorado en Derecho de Universidad Externado de Colombia, conciliadora y arbitro, docente investigadora y de posgrados, autora de varios libros y artículos.</p>
-                                                                <p>Tiene experiencia en diferentes entidades entre las cuales se desempeñó como: Directora - Conciliadora y Arbitro del Centro de Conciliación y Arbitraje del Club de Abogados, con amplios conocimientos en manejo de conflictos; Consultora de la GIZ para temas migratorios; Asesora Jurídica Nacional de la Dirección para el Desarrollo y la Integración Fronteriza del Ministerio de Relaciones Exteriores; Asesora Jurídica para la Contratación Pública de la Dirección de Servicio al Ciudadano del Instituto de Bienestar Familiar; Asesora Jurídica del PNUD delegada para la Dirección de Asuntos Étnicos de la Unidad de Restitución de Tierras (Fondo de Justicia Transicional del Programa del Programa de Naciones Unidas para el Desarrollo – PNUD), con experiencia en terreno con comunidades afro e indígenas, manejo legislativo de minorías.</p>
-                                                                <p>Asume esta dirección como un reto profesional y quiere enfocar su gestión a darle cumplimiento al Plan de Adquisiciones, y en cuanto al tema de liquidaciones se propone solventar los contratos dentro de los términos estipulados en los mismos.</p>
+                                                                <p>Abogada de la Universidad del Rosario, especialista en Derecho Comercial y Derecho Contractual de la misma institución. Adicionalmente, posee un título de Magíster en Derecho Internacional de los Negocios de ESADE Law School.</p>
+                                                                <p>Cuenta con una extensa trayectoria profesional relacionada con la dirección en el sector público con amplios conocimientos en contratación estatal y derecho administrativo.</p>
+                                                                <p>Ha estado vinculada a varias entidades del orden nacional como la Agencia Nacional del Espectro, la Unidad Nacional de Protección y la Agencia Nacional de Hidrocarburos, en las cuales desempeñó roles orientados a la formulación de estrategias, planes y programas en aras del fortalecimiento jurídico de estas entidades.</p>
                                                             </div>
                                                         </div>
                                                     </div>
+
                                                 </div>
 
                                             </div>
@@ -2000,26 +1960,27 @@
                                                                 </div>
 
                                                                 <div class='panel-body-mapa'>
-                                                                    <div class="row">
 
+                                                                    <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2020/vladimiro-estrada.jpg" alt="">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-02-2024/jose_david_robayo.png" alt="Foto: Jose David Robayo Fonseca">
                                                                             </div>
                                                                         </div>
-
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Vladimiro Estrada Moncayo</h1>
+                                                                                <h1>Jose David Robayo Fonseca</h1>
                                                                                 <h4>Subdirector Financiero</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Es administrador público de la Escuela Superior de Administración Pública -ESAP-, con formación y estudios especializados en alto gobierno del sector público, planeación estratégica, preparación, evaluación, formulación y seguimiento de proyectos. Experiencia y conocimiento en sistemas de gestión de pagos, indicadores de gestión, finanzas distritales y presupuesto, gestión corporativa, ordenación del gasto, contratación, gestión financiera, análisis y gestión de riesgos.</p>
-                                                                                    <p>Su experiencia profesional es de treinta años, en entidades como FOSYGA en el Ministerio de Salud, Hospital Simón Bolívar, Secretaría Distrital de Salud, Secretaría Distrital de Hacienda, Artesanías de Colombia e Instituto de Desarrollo Urbano entre otros.</p>
+                                                                                    <p>Profesional en Comercio Internacional egresado de la Escuela Colombiana de Carrera Industriales, con especialización en Finanzas y Administración Pública de la Universidad Militar Nueva Granada. Actualmente, se encuentra cursando un Máster Universitario en Dirección en la Gestión Pública.</p>
+                                                                                    <p>Cuenta con una extensa trayectoria profesional con amplios conocimientos en contratación estatal, manejos presupuestales así como en el desarrollo e implementación de ERP  presupuestales como SICAPITAL Y BOGDATA.</p>
+                                                                                    <p>Se encuentra vinculado en calidad de contratista en la Secretaría Distrital de Movilidad desde el año 2008. Dentro de la Subdirección Financiera ha venido desarrollando actividades de ejecución del presupuesto entre las cuales se incluyen expedición de Certificados de Disponibilidad y Registro Presupuestal, seguimiento y programación del PAC, entre otras actividades.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-
                                                                     </div>
+
+
                                                                 </div>
 
                                                             </div>
