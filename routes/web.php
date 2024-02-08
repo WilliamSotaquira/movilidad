@@ -95,6 +95,8 @@ Route::view('/especifico/gerencia/agentes', 'especifico/gerencia/agentes');
 Route::view('/especifico/entidad/planEstrategico', 'especifico/entidad/planEstrategico');
 Route::view('/especifico/entidad/funcionesDeberes', 'especifico/entidad/funcionesDeberes');
 
+// Pico y placa
+Route::view('/especifico/picoyplaca/calendario', 'especifico/picoyplaca/calendario');
 
 //organigrama
 Route::view('/organigrama/consolidado', 'organigrama/consolidado');
