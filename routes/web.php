@@ -99,6 +99,10 @@ Route::view('/especifico/entidad/funcionesDeberes', 'especifico/entidad/funcione
 //organigrama
 Route::view('/organigrama/consolidado', 'organigrama/consolidado');
 
+
+//cybe
+Route::view('/cybe/home', 'cybe/home');
+
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2021
 
 // Contenido Agosto
