@@ -304,3 +304,6 @@ Route::view('/2023/12/puntos', '2023/12/puntos');
 
 // Contenido enero 2024
 Route::view('/2024/01/dscsm', '2024/01/dscsm');
+
+// Contenido febrero 2024
+Route::view('/2024/02/mapaCiclorrutas', '2024/02/mapaCiclorrutas');
