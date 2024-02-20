@@ -89,11 +89,10 @@
         </div>
         <div class='row'>
             <div class='col-xs-12 col-sm-4 col-sm-offset-4'>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkf99G5qE1y2z7DE3eke11XwrkSctzHzdrrrBs8TkBSWMj2g/viewform" target="_blank" rel="noopener noreferrer">
+                <a href="https://forms.gle/qspgzquL2VDj9DD18" target="_blank" rel="noopener noreferrer">
                     <div>
                         <div class="btn-form">
                             Inscribete aquí
-
                         </div>
                     </div>
                 </a>
