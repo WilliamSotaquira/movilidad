@@ -102,6 +102,8 @@ Route::view('/organigrama/consolidado', 'organigrama/consolidado');
 
 //cybe
 Route::view('/cybe/home', 'cybe/home');
+Route::view('/cybe/tecnologias', 'cybe/tecnologias');
+Route::view('/cybe/mitos', 'cybe/mitos');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2021
 

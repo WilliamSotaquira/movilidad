@@ -861,25 +861,7 @@
             }
         </style>
 
-        <div class="contacto-cbe">
-            <h4>¿Quieres saber más? Contáctanos a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a></h4>
-        </div>
-        <style>
-            .contacto-cbe {
-                padding: 40px 25px;
-                text-align: center;
-                background-color: #66e026;
-                /* color: #66e026; */
-                margin-top: 10px;
-                margin-right: -15px;
-                margin-left: -15px;
-            }
 
-            .contacto-cbe h4 {
-                font-weight: 700;
-
-            }
-        </style>
     </div>
     <br>
 
