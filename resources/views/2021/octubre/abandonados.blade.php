@@ -1,135 +1,109 @@
-@extends('welcome')
-@section('contenido')
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap" rel="stylesheet">
-
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
                                                           Bloque Seccion
 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<div class="seccion">
+	<div class="encabezado">
+		<h3>Secretaría Distrital de Movilidad subastará vehículos declarados en abandono</h3>
 
-<div class='seccion'>
+		<h4>Ley 1730 de 2014</h4>
+	</div>
 
-    <div class="encabezado">
-        <h3>Secretaría Distrital de Movilidad subastará vehículos declarados en abandono </h3>
-        <h4>Ley 1730 de 2014</h4>
-    </div>
+	<div class="bloque-1">
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-sm-offset-6">
+				<div class="b1-texto">
+					<p>La Ley 1730 de 2014 faculta a la Secretaría Distrital de Movilidad para declarar el abandono de los vehículos inmovilizados, y que actualmente se encuentran en los patios de la entidad, cuyo ingreso se originó por la comisión de una infracción a las normas de tránsito y que, por su permanencia superior a un (1) año en los mismos; sin que el propietario y/o poseedor los hayan reclamados, pueden ser enajenados a través de subasta.</p>
+				</div>
+			</div>
+		</div>
+	</div>
 
-    <div class="bloque-1">
-        <div class="row">
-            <div class="col-xs-12 col-sm-6 col-sm-offset-6">
-                <div class="b1-texto">
-                    <p>La Ley 1730 de 2014 faculta a la Secretaría Distrital de Movilidad para declarar el abandono de los vehículos inmovilizados, y que actualmente se encuentran en los patios de la entidad, cuyo ingreso se originó por la comisión de una infracción a las normas de tránsito y que, por su permanencia superior a un (1) año en los mismos; sin que el propietario y/o poseedor los hayan reclamados, pueden ser enajenados a través de subasta.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="bloque-video">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-8 col-sm-offset-2'>
-                <div class='text-center'>
-                    <iframe class="w-100" height="400" src="https://www.youtube.com/embed/rdZKWAVZP6E?rel=0&hl=es&cc_lang_pref=es&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="bloque-2">
-        <div class="row">
-            <div class="container-fluid">
-                <div class="col-xs-12 col-sm-4">
-                    <div class="titulo-1">
-                        <h4>Declaración de Abandono</h4>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-8">
-                    <div class="b2-texto">
-                        <p>Para declarar los vehículos en abandono, la Secretaría Distrital de Movilidad pública por una sola vez en un periódico de amplia circulación nacional, el listado de los vehículos. Podrá consultarlas en el siguiente enlace:</p>
-                        <p><a href="https://www.movilidadbogota.gov.co/web/ley-1730-de-2014" target="_blank" rel="noopener noreferrer">(https://www.movilidadbogota.gov.co/web/ley-1730-de-2014)</a></p>
-                        <p>Dentro de los quince (15) días hábiles siguientes a la publicación, el propietario y/o poseedor del vehículo deberá presentarse para subsanar la causa que dio lugar a la inmovilización y cancelar lo adeudado por concepto de servicios de parqueadero y/o grúa.</p>
-                        <p>Vencido el término de reclamación del vehículo, si el propietario y/o poseedor no ha subsanado la obligación, la ley autoriza al organismo de tránsito para que mediante acto administrativo declare en abandono el vehículo inmovilizado.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="b2-img">
-        </div>
-    </div>
+	<div class="bloque-video">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-sm-offset-2">
+				<div class="text-center"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" class="w-100" frameborder="0" height="400" src="https://www.youtube.com/embed/rdZKWAVZP6E?rel=0&amp;hl=es&amp;cc_lang_pref=es&amp;cc_load_policy=1" title="YouTube video player"></iframe></div>
+			</div>
+		</div>
+	</div>
 
-    <div class="bloque-3">
-        <div class="titulo-2">
-            <h4>¿Cómo participar en la subasta?</h4>
-        </div>
-        <div class="b3-texto">
-            <p>Una vez el intermediario comercial dé apertura de la subasta, los ciudadanos podrán verificar los detalles del lote a subastar, hacer sus pujas y consultar en tiempo real el proceso de compra a través de la página web: <a href="https://www.movilidadbogota.gov.co/web/subasta-abandonados" target="_blank" rel="noopener noreferrer">https://www.movilidadbogota.gov.co/web/subasta-abandonados</a>.</p>
-            <p>Con el dinero obtenido de la enajenación del bien, se cancelarán los valores generados por la misma, y lo adeudado por concepto de patios y/o servicio de grúas.</p>
-            <p>La implementación de la Ley 1730 de 2014, contribuye con el propósito 2 del Plan Distrital de Desarrollo 2020-2024, a través del cual la administración distrital busca mitigar el cambio climático. Del lote de vehículos declarados en abandono y que se encuentran próximos a subastar, se encuentran automóviles, camionetas, camperos y motocicletas. Estos vehículos deberán ser destinados para labores de fundición y disposición final de los residuos y, en consecuencia, no pueden ser usados para autopartes.</p>
-            <br>
-            <p><strong>Para realizar el registro inicial, debe seguir el siguiente paso a paso.</strong></p>
-            <ol>
-                <li>Ingresar al portal <a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-17-cto2021-2091-hora-200pm-228112?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc" target="_blank" rel="noopener noreferrer">www.superbid.com.co</a> y hacer clic en “Registro.</li>
-                <li>Luego debe elegir su contraseña y usuario (login).</li>
-                <li>Lo siguiente es validar su login, pues este le permitirá identificarlo a la hora de realizar sus ofertas</li>
-                <li>Finalmente para terminar el registro, debe leer y aceptar el “Procedimiento de Utilización del Portal Superbid Colombia”, haciendo clic en “CONFIRMAR”, enviando la fotocopia de su cédula y el RUT y 24 horas después tendrá la activación de su registro.</li>
-            </ol>
-            <p><strong>Para habilitarse y participar, siga este paso a paso</strong></p>
-            <p>La persona que se registró, debe habilitarse en cada subasta, aceptando los términos y condiciones. Para ello deberá:</p>
-            <ol>
-                <li>Ingresar el login y la contraseña, regresar al inicio y seleccionar la subasta de su interés.</li>
-                <li>Hacer clic en “HABILÍTATE” y recibirá un correo con la confirmación de su solicitud de habilitación, con un link que lo direccionará a las Condiciones de Oferta y Pago (COP) de la subasta seleccionada.</li>
-                <li>Leer el contrato dispuesto por Superbid para participar en las subastas, marcar la declaración de aceptación de términos y hacer clic en aceptar.</li>
-                <li>A continuación puede participar en la subasta, siguiendo las condiciones específicas dispuesta por nuestro intermediario comercial Superbid Colombia.</li>
-            </ol>
+	<div class="bloque-2">
+		<div class="row">
+			<div class="container-fluid">
+				<div class="col-xs-12 col-sm-4">
+					<div class="titulo-1">
+						<h4>Declaración de Abandono</h4>
+					</div>
+				</div>
 
-        </div>
-        <hr>
-        <div class="b3-texto">
-            <p><strong>Si desea participar en las subastas de la Secretaría Distrital de Movilidad, siga estos pasos:</strong></p>
-            <ol>
-                <li>
-                    <a href="https://www.superbid.com.co/evento/secretaria-de-movilidad-custodia-17-cto2021-2091-hora-200pm-228112?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc" target="_blank" rel="noopener noreferrer">
-                        <strong>Regístrese e ingrese aquí</strong>
-                    </a>
-                    para la subasta de vehículos para chatarra o
-                    <a href="https://www.superbid.com.co/evento/secretaria-movilidad-custodia-17-cto2021-2091-hora-200-pm-225336?searchType=all&preOrderBy=orderByFirstOpenedOffers&pageNumber=1&pageSize=30&orderBy=lotNumber:asc;subLotNumber:asc&" target="_blank" rel="noopener noreferrer">
-                        <strong>regístrese e ingrese aquí</strong>
-                    </a>
-                    para la subasta de vehículos de uso.
-            </li>
-                <li>Habilítese para participar en la subasta.</li>
-                <li>Oferte por el lote de su interés.</li>
-                <li>Esté pendiente el día de cierre de la subasta.</li>
-            </ol>
+				<div class="col-xs-12 col-sm-8">
+					<div class="b2-texto">
+						<p>Para declarar los vehículos en abandono, la Secretaría Distrital de Movilidad pública por una sola vez en un periódico de amplia circulación nacional, el listado de los vehículos. Podrá consultarlas en el siguiente enlace:</p>
 
-        </div>
-    </div>
-    <div class="bloque-4">
-        <div class="container-fluid">
-            <div class="b4-footer">
-                <div class="col-xs-12 col-sm-7 text-center">
-                    <div class="item">
-                        <p>Para mayor información comuníquese al <a href="tel:+576017438088">7438088</a> o al correo electrónico <a href="mailto:subastas@superbid.com.co">subastas@superbid.com.co</a></p>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-5">
-                    <div class="item">
-                        <h3>No acepte intermediarios</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+						<p><a href="https://www.movilidadbogota.gov.co/web/ley-1730-de-2014" rel="noopener noreferrer" target="_blank">(https://www.movilidadbogota.gov.co/web/ley-1730-de-2014)</a></p>
+
+						<p>Dentro de los quince (15) días hábiles siguientes a la publicación, el propietario y/o poseedor del vehículo deberá presentarse para subsanar la causa que dio lugar a la inmovilización y cancelar lo adeudado por concepto de servicios de parqueadero y/o grúa.</p>
+
+						<p>Vencido el término de reclamación del vehículo, si el propietario y/o poseedor no ha subsanado la obligación, la ley autoriza al organismo de tránsito para que mediante acto administrativo declare en abandono el vehículo inmovilizado.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="b2-img">&nbsp;</div>
+	</div>
+
+	<div class="bloque-3">
+		<div class="titulo-2">
+			<h4>¿Cómo participar en la subasta?</h4>
+		</div>
+
+		<div class="b3-texto">
+			<p>Una vez el intermediario comercial dé apertura de la subasta, los ciudadanos podrán verificar los detalles del lote a subastar, hacer sus pujas y consultar en tiempo real el proceso de compra.</p>
+
+			<p>Con el dinero obtenido de la enajenación del bien, se cancelarán los valores generados por la misma, y lo adeudado por concepto de patios y/o servicio de grúas.</p>
+
+			<p>La implementación de la Ley 1730 de 2014, contribuye con el propósito 2 del Plan Distrital de Desarrollo 2020-2024, a través del cual la administración distrital busca mitigar el cambio climático. Del lote de vehículos declarados en abandono y que se encuentran próximos a subastar, se encuentran automóviles, camionetas, camperos y motocicletas. Estos vehículos deberán ser destinados para labores de fundición y disposición final de los residuos y, en consecuencia, no pueden ser usados para autopartes.</p>
+		</div>
+
+		<hr>
+		<div class="b3-texto">
+			<p><strong>Si desea participar en las subastas de la Secretaría Distrital de Movilidad, siga estos pasos:</strong></p>
+
+			<ol>
+				<li><a href="https://naveltda.com.co/producto/mil-1-000-automotores-catalogados-como-chatarra-desintegracion/" rel="noopener noreferrer" target="_blank"><strong>Regístrese e ingrese aquí</strong> </a> para la subasta de vehículos para chatarra o <a href="https://naveltda.com.co/producto/ciento-treinta-y-seis-136-motocicletas-catalogadas-como-recuperables-para-traspaso/" rel="noopener noreferrer" target="_blank"> <strong>regístrese e ingrese aquí</strong> </a> para la subasta de vehículos de uso.</li>
+				<li>Habilítese para participar en la subasta.</li>
+				<li>Oferte por el lote de su interés.</li>
+				<li>Esté pendiente el día de cierre de la subasta.</li>
+			</ol>
+		</div>
+	</div>
+
+	<div class="bloque-4">
+		<div class="container-fluid">
+			<div class="b4-footer">
+				<div class="col-xs-12 col-sm-7 text-center">
+					<div class="item">
+						<p>Para mayor información comuníquese al <a href="tel:+576017438088">7438088</a> o al correo electrónico <a href="mailto:subastas@superbid.com.co">subastas@superbid.com.co</a></p>
+					</div>
+				</div>
+
+				<div class="col-xs-12 col-sm-5">
+					<div class="item">
+						<h3>No acepte intermediarios</h3>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-<br>
 
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+<p><br>
+	<!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
                                                         Fin Bloque Sección
------ ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- Hoja de estilo --- ----- ----- ----- ----- ----- ----- ----- ----- -->
-<style type='text/css'>
-    .field-item.even h2 {
+----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- ----- Hoja de estilo --- ----- ----- ----- ----- ----- ----- ----- ----- -->
+	<style type="text/css">.field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
     }
@@ -354,10 +328,8 @@
         padding-top: 40px;
         padding-bottom: 40px;
     }
-</style>
-<style>
-
-    @media(min-width:768px) {
+	</style>
+	<style type="text/css">@media(min-width:768px) {
 
         .encabezado h3 {
             /* font-size: 18px; */
@@ -370,7 +342,5 @@
         }
 
     }
-
-
-</style>
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- -->
+	</style>
+	<!-- ----- ----- ----- ----- ----- ----- ----- ----- Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- --></p>
