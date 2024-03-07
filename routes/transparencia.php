@@ -28,3 +28,6 @@ Route::view('/transparencia/informacionEntidad/directorioEntidades', 'transparen
 
 // Seccion 4
 Route::view('/transparencia/4/presupuesto', 'transparencia/4/presupuesto');
+
+// Seccion 9
+Route::view('/transparencia/9/informesDiaSinCarro', 'transparencia/9/informesDiaSinCarro');
