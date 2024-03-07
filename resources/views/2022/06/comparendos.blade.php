@@ -189,6 +189,9 @@
 		<div class="box-boton"><a class="btn btn-lg btn-nm" href="https://consultas.transitobogota.gov.co:8010/publico/index3.php" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a></div>
 
 		<hr>
+		<div class="box-boton"><a class="btn btn-lg btn-nm" href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/23-01-2024/tabla_autoliquidacion_2024.pdf" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>Tabla de autoliquidación de infracciones 2024</strong></a></div>
+
+		<hr>
 		<style type="text/css">.box-normativo {
                 padding: 30px;
             }
@@ -201,6 +204,28 @@
                 color: rgba(25, 25, 25, 1);
             }
 		</style>
+
+        <!-- Sección box logo-full -->
+        <div class="box-logo-full zoom">
+            <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/27-02-2024/banner_mimovilidad.png" alt="logo banner Movilidad a un clic">
+            </a>
+        </div>
+        <style>
+            .set-wrapper .box-logo-full {
+                grid-area: box-logo-full;
+               margin-bottom: 40px;
+               border-radius: 6px;
+               -webkit-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.16);
+               box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.16);
+            }
+
+            .box-logo-full img {
+                /* max-width: 500px; */
+                border-radius: 6px;
+                margin: auto;
+            }
+        </style>
 		<!-- PDF 4:3 aspect ratio -->
 		<div class="box-pdf">
 			<div class="title title-h3">
@@ -331,7 +356,29 @@
                 'imagen texto';
         }
 
-    }
+        .zoom {
+            transition: 0.5s ease;
+            -moz-transition: 0.5s ease;
+            /* Firefox */
+            -webkit-transition: 0.5s ease;
+            /* Chrome - Safari */
+            -o-transition: 0.5s ease;
+            /* Opera */
+            -ms-transition: 0.5s ease;
+            /* IE9 */
+        }
 
+        .zoom:hover {
+            transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            /* Firefox */
+            -webkit-transform: scale(1.05);
+            /* Chrome - Safari */
+            -o-transform: scale(1.05);
+            /* Opera */
+            -ms-transform: scale(1.05);
+            /* IE9 */
+        }
+    }
 	</style>
 	<!-- End Styles --></p>
