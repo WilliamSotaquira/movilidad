@@ -164,7 +164,7 @@
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://via.placeholder.com/600x600" alt="Foto: José Segundo López Valderrama">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-03-2024/jose_segundo_lopez_valderrama.png" alt="Foto: José Segundo López Valderrama">
                                                         </div>
                                                     </div>
                                                     <div class="col-xs-12 col-sm-8 ">
@@ -172,7 +172,9 @@
                                                             <h1>José Segundo López Valderrama</h1>
                                                             <h4>Jefe de la Oficina de Seguridad Vial</h4>
                                                             <div class="descripcion-xs">
-                                                                <p></p>
+                                                                <p>Ingeniero civil con maestría en ingeniería civil con énfasis en transporte de la universidad de los Andes.</p>
+                                                                <p>Se ha desempeñado como asistente graduado en el grupo de investigación SUR de los Andes, como ingeniero principal en el centro de investigación Despacio, y como coordinador internacional de datos en el equipo de seguridad vial en WRI Centro Ross para Ciudades Sostenibles, rol en el cual desarrolló actividades relacionadas con recolección y análisis de datos e investigación, así como inspecciones y auditorías de seguridad vial. También trabajó en temas de investigación en género y transporte.</p>
+                                                                <p>A lo largo de su carrera ha asesorado proyectos de seguridad vial y movilidad sostenible desde su génesis hasta su evaluación aportando en todas las fases en tomar decisiones basadas en datos. Su objetivo en su nuevo cargo es trabajar en equipo para reducir la cantidad de fatalidades y heridas graves en el tránsito, contribuyendo así a una Bogotá de bien-estar.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -547,11 +549,27 @@
                                                                     </div>
                                                                 </div>
 
-                                                                <!-- <div class="panel-body-mapa">
+                                                                <div class="panel-body-mapa">
+
+                                                                    <div class="row">
+                                                                        <div class="col-xs-12 col-sm-4 text-center">
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2024/francisco_javier_victoria_jaramillo.png" alt="Foto: Francisco Javier Victoria Jaramillo">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="col-xs-12 col-sm-8 ">
+                                                                            <div class="descripcion">
+                                                                                <h1>Francisco Javier Victoria Jaramillo</h1>
+                                                                                <h4>Subdirector de Transporte Privado</h4>
+                                                                                <div class="descripcion-xs">
+                                                                                    <p></p>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
 
 
-
-                                                                </div> -->
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -622,7 +640,7 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://via.placeholder.com/600x600" alt="Foto: Juan Carlos Tovar Rincón">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-03-2024/juan_carlos_tovar_rincon.png" alt="Foto: Juan Carlos Tovar Rincón">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
@@ -630,11 +648,14 @@
                                                                                 <h1>Juan Carlos Tovar Rincón</h1>
                                                                                 <h4>Subdirector de Infraestructura</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p></p>
+                                                                                    <p>Ingeniero Civil de la Pontificia Universidad Javeriana con especialización en Diseño de Vías Urbanas, Tránsito y Transporte, así como en Gerencia de Proyectos.</p>
+                                                                                    <p>Durante 8 años desarrolló proyectos de diseño, construcción e interventoría de infraestructura en el sector privado. Desde el 2005 se vinculó al sector público a través de la Secretaría Distrital de Planeación como profesional y luego como Director Encargado. Más adelante se desempeñó como Director Técnico de Proyectos en el Instituto de Desarrollo Urbano (IDU). En el año 2022 ingresó a la Secretaría Distrital de Movilidad como profesional especializado de carrera administrativa en la Oficina de Seguridad Vial, de la cual fue también Jefe Encargado.</p>
+                                                                                    <p>Como Subdirector de Infraestructura se propone priorizar la accesibilidad y seguridad vial de todas las personas, en especial las más vulnerables, en la formulación y ejecución de Instrumentos de Planeación así como de los proyectos de infraestructura vial y de transporte en Bogotá entre los que se destacan la red Metro, Cables, Corredores de Transporte, Bici y Regiotram.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+
 
                                                                 </div>
                                                             </div>
@@ -1141,21 +1162,24 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
+
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100"><img alt="foto Andrea Ramírez Suárez" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2023/andrea_ramirez_suarez_230703_400x400.png"></div>
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2024/_jhon_alejandro_contreras_torres.png" alt="Foto: Jhon Alejandro Contreras Torres">
+                                                                            </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Andrea Ramírez Suárez</h1>
-                                                                                <h4>Subdirectora de Control e Investigaciones al Transporte Público</h4>
+                                                                                <h1>Jhon Alejandro Contreras Torres</h1>
+                                                                                <h4>Subdirector de Control e Investigaciones al Transporte Público</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Abogada de la Universidad Libre; especialista en gobierno, gerencia y asuntos públicos de la Universidad Externado de Colombia con doble titulación de la Universidad de Columbia; candidata a Magíster en Gobierno y Políticas Públicas; con experiencia en el sector público y privado y alta capacidad para liderar procesos gerenciales. Tiene experiencia en el manejo de talento humano, con habilidad en la toma de decisiones, comprometida con la transformación de la realidad social, crítica y reflexiva, capacitada eficientemente como investigadora social, jurista, sólida e integralmente preparada para practicar y defender la justicia y el derecho.</p>
-                                                                                    <p>Asume este cargo con el objetivo de aportar a la mejora de la Entidad, y de fortalecer los procesos que desde esta subdirección se lideran. Está convencida de la importancia de contribuir a que la ciudadanía cambie el imaginario que tiene sobre el 'ser servidor público', y que esto se logra siendo ejemplo desde su rol, trabajando con empatía y consistencia frente a todos los valores institucionales.</p>
+                                                                                    <p></p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+
                                                                 </div>
                                                             </div>
                                                         </div>
