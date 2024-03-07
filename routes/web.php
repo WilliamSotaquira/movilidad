@@ -99,6 +99,12 @@ Route::view('/especifico/entidad/funcionesDeberes', 'especifico/entidad/funcione
 //organigrama
 Route::view('/organigrama/consolidado', 'organigrama/consolidado');
 
+
+//cybe
+Route::view('/cybe/home', 'cybe/home');
+Route::view('/cybe/tecnologias', 'cybe/tecnologias');
+Route::view('/cybe/mitos', 'cybe/mitos');
+
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2021
 
 // Contenido Agosto
@@ -300,3 +306,6 @@ Route::view('/2023/12/puntos', '2023/12/puntos');
 
 // Contenido enero 2024
 Route::view('/2024/01/dscsm', '2024/01/dscsm');
+
+// Contenido febrero 2024
+Route::view('/2024/02/mapaCiclorrutas', '2024/02/mapaCiclorrutas');

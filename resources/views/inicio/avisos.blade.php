@@ -4,112 +4,79 @@
 
 <!-- Set avisos -->
 <div class="set-wrapper avisos">
+    <div class="cmpnt cmpnt-banner-principal">&nbsp;
+        <div class="item zoom bs"><a href="https://api.whatsapp.com/send?phone=573160231524&text=P%C3%A9gate+al+plan">
+                <picture>
+                    <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/banners_portalpegatealplan_1140_x_200.png">
+                    <img alt="Click aquí para acceder a Pégate al plan" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/piezas_internas_banner_cuadrado.png" title="Imagen: Click aquí para acceder a Pégate al plan">
+                </picture>
+            </a></div>
 
-    <div class="cmpnt cmpnt-banner-principal">
-        <br>
-        <div class="item">
-            <picture>
-                <source media="(min-width: 769px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-01-2024/banner4-1180x160px_web-01.png">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-01-2024/banner4-400x200px-alcaldegalan.png" alt="ir a unid@s por Bogotá" title="banner ir a unid@s por Bogotá">
-            </picture>
-        </div>
         <hr>
     </div>
 
     <div class="cmpnt cmpnt-carousel">
-        <div id="carousel-avisos" class="carousel slide" data-ride="carousel-avisos" data-interval="12000">
-
-            <!-- Indicators -->
+        <div class="carousel slide" data-interval="12000" data-ride="carousel-avisos" id="carousel-avisos"><!-- Indicators -->
             <ol class="carousel-indicators">
-                <li data-target="#carousel-avisos" title="Banner 1" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-avisos" title="Banner 2" data-slide-to="1"></li>
-                <li data-target="#carousel-avisos" title="Banner 3" data-slide-to="2"></li>
-                <li data-target="#carousel-avisos" title="Banner 4" data-slide-to="3"></li>
-                <li data-target="#carousel-avisos" title="Banner 5" data-slide-to="4"></li>
+                <li class="active" data-slide-to="0" data-target="#carousel-avisos" title="Banner 1">&nbsp;</li>
+                <li data-slide-to="1" data-target="#carousel-avisos" title="Banner 2">&nbsp;</li>
+                <li data-slide-to="2" data-target="#carousel-avisos" title="Banner 3">&nbsp;</li>
+                <li data-slide-to="3" data-target="#carousel-avisos" title="Banner 4">&nbsp;</li>
+                <li data-slide-to="4" data-target="#carousel-avisos" title="Banner 5">&nbsp;</li>
             </ol>
-
             <!-- Wrapper for slides -->
+
             <div class="carousel-inner" role="listbox">
+                <div class="item active"><a href="https://portalmimovilidad.movilidadbogota.gov.co/">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/banner_mimovilidad_1.png"> <img alt="Mi movilidad a un clic" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/banner_mimovilidad_2.png" title="Image: Mi movilidad a un clic">
+                        </picture>
+                    </a></div>
 
-                <div class="item active">
-                    <a href="https://portalmimovilidad.movilidadbogota.gov.co/">
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_adelanta_caracterizacion_de_movilidad_a_poblacion_con_discapacidad">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/banner_mimovilidad_1.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/banner_mimovilidad_2.png" class="img-responsive w-100" alt="Mi movilidad a un clic" title="Image: Mi movilidad a un clic">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-01-2024/encuestadiscapacidad_0.png"> <img alt="ir a encuesta para población en condición de discapacidad" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/encuesta-discapacidad_330x300.jpg" title="Image: ir a encuesta para población en condición de discapacidad">
                         </picture>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_adelanta_caracterizacion_de_movilidad_a_poblacion_con_discapacidad">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-01-2024/encuestadiscapacidad_0.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/encuesta-discapacidad_330x300.jpg" class="img-responsive w-100" alt="ir a encuesta para población en condición de discapacidad" title="Image: ir a encuesta para población en condición de discapacidad">
-                        </picture>
-                    </a>
-                </div>
-                <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/plan_de_movilidad_sostenible_y_segura">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2023/benner-pmss_930x300.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2023/banner-pmss_300x330.png" class="img-responsive w-100" alt="Ir a Plan de Movilidad Sostenible y Segura" title="Image: Plan de Movilidad Sostenible y Segura">
-                        </picture>
-                    </a>
-                </div>
+                    </a></div>
 
-                <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/carta_bitacora_senda.pdf">
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/plan_de_movilidad_sostenible_y_segura">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/bitacora_senda_integridad_web_950x400.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/bitacora_senda_integridad_web_340x300.png" class="img-responsive w-100" alt="Ir a bitácora de la senda de integridad" title="Image: bitácora de la senda de integridad">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2023/benner-pmss_930x300.png"> <img alt="Ir a Plan de Movilidad Sostenible y Segura" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2023/banner-pmss_300x330.png" title="Image: Plan de Movilidad Sostenible y Segura">
                         </picture>
-                    </a>
-                </div>
+                    </a></div>
 
-                <div class="item">
-                    <a href="https://www.ventanillamovilidad.com.co/">
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/carta_bitacora_senda.pdf">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/salidapatios_banner1.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/salidapatios_banner2.png" class="img-responsive w-100" alt="Ir a Salida de patios virtual" title="Image: Salida de patios virtual">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/bitacora_senda_integridad_web_950x400.png"> <img alt="Ir a bitácora de la senda de integridad" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-09-2023/bitacora_senda_integridad_web_340x300.png" title="Image: bitácora de la senda de integridad">
                         </picture>
-                    </a>
-                </div>
+                    </a></div>
 
-                <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/abc_ciclomotores_ojos_en_las_vias.pdf">
+                <div class="item"><a href="https://www.ventanillamovilidad.com.co/">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_950x300_web.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_340x300_web.png" class="img-responsive w-100" alt="Ir a Resolución que define la circulación de ciclomotores en Bogotá" title="Image: Resolución que define la circulación de ciclomotores en Bogotá">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/salidapatios_banner1.png"> <img alt="Ir a Salida de patios virtual" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/salidapatios_banner2.png" title="Image: Salida de patios virtual">
                         </picture>
-                    </a>
-                </div>
+                    </a></div>
 
-                <div class="item">
-                    <a href="http://www.fotodeteccionbogota.com/">
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/abc_ciclomotores_ojos_en_las_vias.pdf">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2023/banner_foto_detenciones_banner_950x300.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2023/banner_foto_detenciones_banner_340x300.png" class="img-responsive w-100" alt="Ir a Consulta aquí todo acerca de las fotodetecciones" title="Image: Consulta aquí todo acerca de las fotodetecciones">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_950x300_web.png"> <img alt="Ir a Resolución que define la circulación de ciclomotores en Bogotá" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_340x300_web.png" title="Image: Resolución que define la circulación de ciclomotores en Bogotá">
                         </picture>
-                    </a>
-                </div>
+                    </a></div>
 
+                <div class="item"><a href="http://www.fotodeteccionbogota.com/">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2023/banner_foto_detenciones_banner_950x300.png"> <img alt="Ir a Consulta aquí todo acerca de las fotodetecciones" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2023/banner_foto_detenciones_banner_340x300.png" title="Image: Consulta aquí todo acerca de las fotodetecciones">
+                        </picture>
+                    </a></div>
             </div>
-
-            <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-avisos" role="button" data-slide="prev" title="Anterior">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#carousel-avisos" role="button" data-slide="next" title="Siguiente">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+            <!-- Controls --><a class="left carousel-control" data-slide="prev" href="#carousel-avisos" role="button" title="Anterior"><span class="sr-only">Previous</span> </a> <a class="right carousel-control" data-slide="next" href="#carousel-avisos" role="button" title="Siguiente"> <span class="sr-only">Next</span> </a>
         </div>
     </div>
+
     <hr>
 </div>
-
 <!-- Styles -->
-<style type='text/css'>
+<style type="text/css">
     :root {
         --color-primario: #4c531e;
         --color-secundario: #879225;
@@ -120,10 +87,11 @@
         --color-fondo: #333333;
     }
 
-    .set-wrapper.avisos{
+    .set-wrapper.avisos {
         max-width: 980px;
         margin: auto;
     }
+
     .region-content {
         padding: 0px;
     }
@@ -265,14 +233,14 @@
     }
 
     .zoom:hover {
-        transform: scale(1.1);
-        -moz-transform: scale(1.1);
+        transform: scale(1.03);
+        -moz-transform: scale(1.03);
         /* Firefox */
-        -webkit-transform: scale(1.1);
+        -webkit-transform: scale(1.03);
         /* Chrome - Safari */
-        -o-transform: scale(1.1);
+        -o-transform: scale(1.03);
         /* Opera */
-        -ms-transform: scale(1.1);
+        -ms-transform: scale(1.03);
         /* IE9 */
     }
 </style>

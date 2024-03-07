@@ -3,7 +3,10 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": [],
+    "words": [
+        "actualización"
+    ],
     "ignoreWords": [],
-    "import": []
+    "import": [],
+    "language": "en,es"
 }

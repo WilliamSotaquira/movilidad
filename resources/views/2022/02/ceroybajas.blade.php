@@ -185,7 +185,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>5.337</h3>
+                                <h3>5.583</h3>
                                 <p>Carros Registrados </p><small class="text-black">*Automóviles RDA</small>
                             </div>
                         </div>
@@ -204,7 +204,7 @@
                         </div>
                         <div class="overlay">
                             <div class="text">
-                                <h3>28.458</h3>
+                                <h3>30.014</h3>
                                 <p>Carros registrados</p>
                             </div>
                         </div>
@@ -213,7 +213,7 @@
 
             </div>
             <div>
-                <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 11 de diciembre de 2023.</i>
+                <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 31 de diciembre de 2023.</i>
             </div>
 
         </div>
@@ -383,15 +383,15 @@
                 </style>
 
                 <div class="box-noticia ">
-                    <i>Jueves, Diciembre 28, 2023 - 11:069</i>
-                    <h3>Bogotá estrena primera red de cargadores públicos para carros eléctricos</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_estrena_primera_red_de_cargadores_publicos_para_carros_electricos" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Miércoles, Enero 31, 2024 - 07:58</i>
+                    <h3>Se estima que dejen de circular más de 1.850.000 vehículos particulares y 430.000 motos</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/se_estima_que_dejen_de_circular_mas_de_1850000_vehiculos_particulares_y_430000_motos" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
 
                 <div class="box-noticia ">
-                    <i>Jueves, Diciembre 28, 2023 - 10:59</i>
-                    <h3>El 2023 será recordado como el año de la Bici</h3>
-                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/el_2023_sera_recordado_como_el_ano_de_la_bici" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
+                    <i>Sábado, Enero 27, 2024 - 16:28</i>
+                    <h3>Abecé restricciones y razones de alerta fase 1 por calidad del aire</h3>
+                    <strong><a href="https://www.movilidadbogota.gov.co/web/noticia/abece_restricciones_y_razones_de_alerta_fase_1_por_calidad_del_aire" target="_blank" rel="noopener noreferrer">Ver más</a></strong>
                 </div>
 
                 <div class="box-noticia ">
@@ -2556,7 +2556,7 @@
         </style>
 
         <div class="contacto-cbe">
-            <h4>¿Quieres saber más? Contáctanos a <a href="mailto:movilidadecoeficiente@movilidadbogota.gov.co">movilidadecoeficiente@movilidadbogota.gov.co</a></h4>
+            <h4>¿Quieres saber más? Contáctanos a traves del <a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario radicación de correspondencia</a></h4>
         </div>
         <style>
             .contacto-cbe {
