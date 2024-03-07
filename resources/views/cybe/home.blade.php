@@ -80,7 +80,7 @@
 
     <style>
         .set-wrapper .navbar {
-            background-color: #66e026;
+            background: #66e026;
             border: none;
             border-radius: 0;
             font-size: 16px;
@@ -90,8 +90,39 @@
             text-align: center;
             margin: 0;
             padding: 0;
+            width: 100%;
+        }
+
+        .set-wrapper .navbar-nav>li {
+            background: #66e026;
+            color: #1c2046;
+        }
+
+        .set-wrapper .navbar-nav>li:hover {
+            background: #1c2046;
+            color: #66e026;
+        }
+
+        .set-wrapper .navbar-nav>li>a {
+            color: #1c2046 !important;
+        }
+
+        .set-wrapper .navbar-nav>li>a {
+            color: #1c2046 !important;
+        }
+
+        .set-wrapper .navbar-nav>li:hover>a {
+            color: #66e026 !important;
+        }
+
+        @media(min-width:768px) {
+            .navbar-collapse.collapse {
+                display: inline-block !important;
+                width: auto !important;
+            }
         }
     </style>
+
     <nav class="navbar navbar-default">
         <div class="container-fluid">
 
@@ -281,7 +312,7 @@
         @media(min-width:768px) {
             .MultiCarousel {
                 float: none;
-                width: 70%;
+                width: 90%;
                 margin: auto;
             }
         }
@@ -293,6 +324,7 @@
 
         .MultiCarousel .MultiCarousel-inner .item {
             float: left;
+            border-radius: 8px;
         }
 
         .MultiCarousel .MultiCarousel-inner .item>div {
@@ -323,7 +355,7 @@
         }
 
         .MultiCarousel-inner .pad15 img {
-            width: 140px;
+            max-height: 100px;
         }
 
         .MultiCarousel-inner .pad15 .details {
@@ -362,14 +394,14 @@
     <div class="box-carousel">
         <h3 class="title title-type-3 title-id-4">Cifras</h3>
         <div class="row">
-            <div class="MultiCarousel" data-items="1,3,3,4" data-slide="1" id="MultiCarousel" data-interval="1000">
+            <div class="MultiCarousel" data-items="1,3,3,5" data-slide="1" id="MultiCarousel" data-interval="1000">
                 <div class="MultiCarousel-inner">
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Buses eléctricos
                                 del SIPT</p>
                             <p class="value">1.485</p>
-                            <img src="/images/cybe/icons/bus_electrico.jpg" alt="Icono de bus electrico">
+                            <img src="/images/cybe/icons/bus_electrico.png" alt="Icono de bus electrico">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -377,7 +409,7 @@
                         <div class="pad15">
                             <p class="lead">Flota oficial eléctrica</p>
                             <p class="value">12</p>
-                            <img src="/images/cybe/icons/flota_oficial.jpg" alt="Icono de Flota oficial eléctrica">
+                            <img src="/images/cybe/icons/flota_oficial.png" alt="Icono de Flota oficial eléctrica">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -385,7 +417,7 @@
                         <div class="pad15">
                             <p class="lead">Taxis eléctricos</p>
                             <p class="value">39</p>
-                            <img src="/images/cybe/icons/taxi.jpg" alt="Icono de taxi">
+                            <img src="/images/cybe/icons/taxi.png" alt="Icono de taxi">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -393,7 +425,7 @@
                         <div class="pad15">
                             <p class="lead">Motos eléctricas</p>
                             <p class="value">410</p>
-                            <img src="/images/cybe/icons/moto_electrica.jpg" alt="Icono de moto eléctrica">
+                            <img src="/images/cybe/icons/moto_electrica.png" alt="Icono de moto eléctrica">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -401,7 +433,7 @@
                         <div class="pad15">
                             <p class="lead">Carros eléctricos</p>
                             <p class="value">5.583</p>
-                            <img src="/images/cybe/icons/carro_electrico.jpg" alt="Icono de carro eléctrico">
+                            <img src="/images/cybe/icons/carro_electrico.png" alt="Icono de carro eléctrico">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -409,7 +441,7 @@
                         <div class="pad15">
                             <p class="lead">Carros híbridos</p>
                             <p class="value">3.0014</p>
-                            <img src="/images/cybe/icons/carro_electrico.jpg" alt="Icono de carro eléctrico">
+                            <img src="/images/cybe/icons/carro_electrico.png" alt="Icono de carro eléctrico">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -585,7 +617,7 @@
         @media(min-width:768px) {
             .box-noticias .cmpnt-cards .n-card {
                 display: grid;
-                height: 340px;
+                height: 250px;
                 margin: 3em;
                 padding: 0;
                 background-color: #1c2046;
@@ -606,7 +638,8 @@
         }
 
         .box-noticias .cmpnt-cards .n-card .imagen img {
-            height: 340px;
+            aspect-ratio: 16/9;
+            height: 250px;
             object-fit: cover;
             object-position: 0 0;
             border-radius: 6px 6px 0 0;
@@ -616,7 +649,7 @@
             .box-noticias .cmpnt-cards .n-card .imagen img {
                 height: 100%;
                 object-fit: cover;
-                object-position: -300px 0;
+                object-position: center center;
                 border-radius: 6px 0 0 6px;
             }
         }
@@ -638,7 +671,7 @@
             .box-noticias .cmpnt-cards .n-card .resumen {
                 margin: 0;
                 padding: 16px;
-                height: 340px;
+                height: 250px;
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
@@ -652,7 +685,7 @@
             font-size: 18px;
             font-weight: 500;
             line-height: 1.2;
-            color: #4d4d4d;
+            color: #252525;
             margin: 0;
             padding: 0;
             min-height: 87px;
@@ -668,14 +701,14 @@
             font-size: 14px;
             font-weight: 500;
             line-height: 1.2;
-            color: #1c1c1c;
+            color: #00000099;
             margin: 0;
             padding: 0;
             text-align: left;
             display: -webkit-box;
             -webkit-box-orient: vertical;
-            -webkit-line-clamp: 8;
-            line-clamp: 8;
+            -webkit-line-clamp: 6;
+            line-clamp: 6;
             overflow: hidden;
             padding-top: 8px;
             border-top: 3px solid #66e026;
@@ -717,11 +750,15 @@
 
     <!-- Sección box aliados -->
     <div class="box box-aliados">
-        <h3 class="title title-type-3 title-id-n3">
-            Aliados
-        </h3>
-        <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para invitar a las <strong>organizaciones a que definan compromisos específicos por la movilidad eléctrica.</strong></p>
-        <div class="set-logos-aliados">
+        <div class="set-logos-aliados aliados col-span-2">
+            <h3 class="title title-type-3 title-id-n3">
+                Aliados
+            </h3>
+        </div>
+        <div class="paragraph">
+            <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para invitar a las <strong>organizaciones a que definan compromisos específicos por la movilidad eléctrica.</strong></p>
+        </div>
+        <div class="logos-aliados">
             <div class="logo-aliado img-logo-aliados-1">
                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/unep50logo.png" alt="Logo ONU" title="Logo ONU">
             </div>
@@ -729,10 +766,11 @@
                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/b_move_to_zero-full_color.png" alt="Logo Move to Zero" title="Logo Move to Zero">
             </div>
         </div>
-        <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica.</p>
-        <div>
+        <div class="paragraph col-span-2">
+            <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica.</p>
+        </div>
+        <div class="slider col-span-2">
             <div id="carousel_empresas_b" class="carousel carousel_empresas slide" data-ride="carousel">
-
                 <div class="carousel-inner">
                     <div class="item active">
                         <div class='row logos'>
@@ -828,36 +866,75 @@
             .set-wrapper .box-aliados {
                 grid-area: box-aliados;
                 margin-top: 4em;
-            }
-
-            .box-aliados .title-type-3 {
-                text-align: center;
-                color: rgba(77, 84, 31, 1);
-                font-weight: 700;
-            }
-
-            .box-aliados .set-logos-aliados {
                 display: grid;
-                gap: 8px;
                 grid-auto-flow: dense;
                 grid-template-columns: 1fr;
                 grid-template-rows: auto;
+
+                font-family: 'Montserrat', sans-serif;
+                font-size: 15px;
+                font-weight: 500;
+                text-align: left;
+                line-height: 1.5;
+                color: #252525;
+
+
                 padding-top: 32px;
                 padding-bottom: 32px;
             }
 
-            .set-logos-aliados .logo-aliado img {
-                max-width: 200px;
+            .box-aliados .title-type-3 {
+                text-align: center;
+                text-transform: uppercase;
+                font-size: 40px;
+                color: #1c2046;
+                font-weight: 700;
+                margin-bottom: 32px;
+            }
+
+            .logos-aliados img {
+                max-width: 250px;
                 margin: auto;
             }
 
             @media(min-width:768px) {
-                .box-aliados .set-logos-aliados {
+                .box-aliados .box-aliados {
                     grid-template-columns: 1fr 1fr;
                     padding-left: 8em;
                     padding-right: 8em;
 
                 }
+            }
+            .box-aliados .paragraph{
+                height: px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .col-span-2 {
+                grid-column: span 2;
+            }
+
+            .box-aliados .logos-aliados{
+                display: grid;
+                gap: 8px;
+                grid-auto-flow: dense;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto;
+            }
+            @media(min-width:768px){
+                .box-aliados .logos-aliados{
+                    display: grid;
+                    gap: 8px;
+                    grid-auto-flow: dense;
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-rows: auto;
+                }
+            }
+            .paragraph.col-span-2{
+                margin-bottom: 32px;
             }
         </style>
 

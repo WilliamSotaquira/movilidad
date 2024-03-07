@@ -5,13 +5,20 @@
 <!-- Set avisos -->
 <div class="set-wrapper avisos">
     <div class="cmpnt cmpnt-banner-principal">&nbsp;
-        <div class="item zoom bs"><a href="https://api.whatsapp.com/send?phone=573160231524&text=P%C3%A9gate+al+plan">
+        <!-- <div class="item zoom bs">
+            <a href="https://api.whatsapp.com/send?phone=573160231524&text=P%C3%A9gate+al+plan">
                 <picture>
                     <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/banners_portalpegatealplan_1140_x_200.png">
                     <img alt="Click aquí para acceder a Pégate al plan" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/piezas_internas_banner_cuadrado.png" title="Imagen: Click aquí para acceder a Pégate al plan">
                 </picture>
-            </a></div>
-
+            </a>
+        </div> -->
+        <div class="item zoom bs">
+            <picture>
+                <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-03-2024/sdm_8m_banner_1140x200__0.png">
+                <img alt="Todas somos imparables" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-03-2024/sdm_8m_banner_1600x1600_.png" title="Imagen: Todas somos imparables">
+            </picture>
+        </div>
         <hr>
     </div>
 
