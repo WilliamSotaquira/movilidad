@@ -24,6 +24,7 @@
 	</div>
 </blockquote>
 
+
 <hr>
 <h4><strong>¿Cómo está conformado el equipo del Centro Local de Movilidad?</strong></h4>
 
@@ -45,8 +46,8 @@
 <div class="row">
 	<div class="col-sm-12">
 		<div class="panel-group" id="accordionPRIN">
-            
-            
+
+
             <!-- Sección Plan Institucional De Participación – PIP -->
 			<div class="panel panel-primary">
 				<div class="panel-heading">
@@ -161,8 +162,8 @@
 				</div>
 			</div>
 			<!-- Fin Sección -->
-            
-            
+
+
             <!-- Sección Rendición de Cuentas Locales -->
 			<div class="panel panel-primary">
 				<div class="panel-heading">
@@ -3495,7 +3496,7 @@
 				</div>
 			</div>
 			<!-- Fin Sección -->
-            
+
             <!-- Sección Informes y Seguimiento De Agendas Participativas -->
 			<div class="panel panel-primary">
 				<div class="panel-heading">
@@ -3718,7 +3719,7 @@
 				</div>
 			</div>
 			<!-- Fin Sección -->
-        
+
         </div>
 	</div>
 </div>

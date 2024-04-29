@@ -403,6 +403,7 @@
 										<ol>
 											<li><a href="https://www.simur.gov.co/datos-abiertos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">7.2.1.</span>Datos Abiertos SIMUR</a></li>
 											<li><a href="https://datosabiertos.bogota.gov.co/dataset?organization=sdm" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">7.2.2.</span>Datos Abiertos GOV.co </a></li>
+											<li><a href="https://datos.movilidadbogota.gov.co/" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">7.2.3.</span>Datos Abiertos SDM</a></li>
 										</ol>
 									</li>
 								</ol>

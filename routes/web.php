@@ -106,6 +106,7 @@ Route::view('/cybe/tecnologias', 'cybe/tecnologias');
 Route::view('/cybe/mitos', 'cybe/mitos');
 Route::view('/cybe/metas', 'cybe/metas');
 Route::view('/cybe/recursos', 'cybe/recursos');
+Route::view('/cybe/objetivos', 'cybe/objetivos');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2021
 
@@ -311,3 +312,9 @@ Route::view('/2024/01/dscsm', '2024/01/dscsm');
 
 // Contenido febrero 2024
 Route::view('/2024/02/mapaCiclorrutas', '2024/02/mapaCiclorrutas');
+
+// Contenido marzo 2024
+Route::view('/2024/03/pdd', '2024/03/pdd');
+
+// Contenido marzo 2024
+Route::view('/2024/03/siservipum', '2024/03/siservipum');
