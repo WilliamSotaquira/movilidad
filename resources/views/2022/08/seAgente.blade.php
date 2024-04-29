@@ -1,26 +1,21 @@
 @extends('welcome')
 @section('contenido')
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<link rel='preconnect' href='https://fonts.googleapis.com'>
-<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<!-- Set Wrapper -->
-<div class='container-fluid seAgente'>
-    <div class='box-wrp'>
-        <div class='box-head'>
-            <div class="logo">
-                <div class='imagen'>
-                </div>
-            </div>
-            <div class="titulo">
-                <span class="vector1"></span>
-                <h3>Conoce los requisitos de ingreso, formación y experiencia para ser <span class="enfasis_ppal">Agente Civil de Tránsito y Transporte de Bogotá.</span></h3>
-                <span class="vector2"></span>
-            </div>
-        </div>
-        <style>
-            .box-head {
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- Set Wrapper -->
+<div class="container-fluid seAgente">
+	<div class="box-wrp">
+		<div class="box-head">
+			<div class="logo">
+				<div class="imagen">&nbsp;</div>
+			</div>
+
+			<div class="titulo">
+				<h3>Conoce los requisitos de ingreso, formación y experiencia para ser <span class="enfasis_ppal">Agente Civil de Tránsito y Transporte de Bogotá.</span></h3>
+			</div>
+		</div>
+		<style type="text/css">.box-head {
                 display: grid;
                 grid-template-columns: 1fr;
                 grid-template-rows: auto;
@@ -32,7 +27,7 @@
             }
 
             .box-head .logo {
-                background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-07-2022/seagente_principal.png');
+                background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/se_agente.png');
                 background-size: cover;
                 background-position: top center;
                 background-repeat: no-repeat;
@@ -91,24 +86,27 @@
                 color: rgba(31, 34, 62, 1);
                 margin: 8px;
             }
-        </style>
-        <div class="box-body">
-            <div class="parrafos">
-                <p>Si estás interesado o interesada, deberás registrar tu hoja de vida con los soportes respectivos en: <a href="https://www.talentonopalanca.gov.co/index.html" target="_blank" rel="noopener noreferrer">www.talentonopalanca.gov.co</a> </p>
-                <p>Personas con discapacidad que cumplan los requisitos se pueden presentar.</p>
-                <h4>Requisitos de ingreso</h4>
-                <p>(Artículo 7, ley 1310 de 2009)</p>
-                <ul>
-                    <li>Ser colombiano, mayor de edad, con situación militar definida.</li>
-                    <li>Título de bachiller en cualquier modalidad.</li>
-                    <li>Poseer licencia de conducción de las categorías A2 para motocicletas y C1 para vehículos como mínimo.</li>
-                    <li>No haber sido condenado en cualquier época por sentencia judicial, pena privativa de la libertad, excepto por delitos políticos culposos.</li>
-                    <li>Certificado de Técnico Laboral por competencias en áreas relacionadas con Seguridad Vial, Tránsito y Transporte. Debe acreditar mediante certificados expedidos por instituciones debidamente registradas ante las Secretarías de Educación o Ministerio de Educación Nacional, formación profesional o técnica de conformidad con el artículo 4 de la Resolución 4548 de 2013.</li>
-                    <li>Mínimo 6 meses de experiencia laboral relacionada con las funciones del cargo.</li>
-                </ul>
-            </div>
-            <style>
-                .box-body .parrafos {
+		</style>
+		<div class="box-body">
+			<div class="parrafos">
+				<p>Si estás interesado o interesada, deberás registrar tu hoja de vida con los soportes respectivos en: <a href="https://www.talentonopalanca.gov.co/index.html" rel="noopener noreferrer" target="_blank">www.talentonopalanca.gov.co</a></p>
+
+				<p>Personas con discapacidad que cumplan los requisitos se pueden presentar.</p>
+
+				<h4>Requisitos de ingreso</h4>
+
+				<p>(Artículo 7, ley 1310 de 2009)</p>
+
+				<ul>
+					<li>Ser colombiano, mayor de edad, con situación militar definida.</li>
+					<li>Título de bachiller en cualquier modalidad.</li>
+					<li>Poseer licencia de conducción de las categorías A2 para motocicletas y C1 para vehículos como mínimo.</li>
+					<li>No haber sido condenado en cualquier época por sentencia judicial, pena privativa de la libertad, excepto por delitos políticos culposos.</li>
+					<li>Certificado de Técnico Laboral por competencias en áreas relacionadas con Seguridad Vial, Tránsito y Transporte. Debe acreditar mediante certificados expedidos por instituciones debidamente registradas ante las Secretarías de Educación o Ministerio de Educación Nacional, formación profesional o técnica de conformidad con el artículo 4 de la Resolución 4548 de 2013.</li>
+					<li>Mínimo 6 meses de experiencia laboral relacionada con las funciones del cargo.</li>
+				</ul>
+			</div>
+			<style type="text/css">.box-body .parrafos {
                     margin-top: 40px;
                     margin-bottom: 30px;
                     padding: 0px 30px;
@@ -117,69 +115,65 @@
                 .box-body .parrafos ul>li {
                     margin-top: 16px;
                 }
-            </style>
-            <div class="box-table">
-                <h4>Requisitos de formación y experiencia, según el manual de funciones.</h4>
-                <div class="table">
-                    <div class='table-seAgente table-responsive'>
-                        <p class='text-center'></p>
-                        <table class='table table-bordered table-striped'>
-                            <tr>
-                                <th>PERFIL</th>
-                                <th>REQUISITOS</th>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <strong>Comandante de Tránsito</strong>
-                                </td>
-                                <td>
-                                    <ul>
-                                        <li>Título profesional en disciplina académica del núcleo básico de conocimiento en Derecho y Afines; Formación relacionada con el campo militar o policial; Administración; Ingeniería Ambiental, Sanitaria y Afines; Ingeniería Civil y Afines; Ingeniería de Sistemas, Telemática y Afines; Ingeniería Electrónica, Telecomunicaciones y Afines; Ingeniería Industrial y Afines o Ingeniería Mecánica y Afines; Educación. </li>
-                                        <li>Título de postgrado en la modalidad de especialización en áreas relacionadas con las funciones del cargo.</li>
-                                        <li>6 años de experiencia relacionada con las funciones del cargo.</li>
-                                    </ul>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <strong>Subcomandante de Tránsito</strong>
-                                </td>
-                                <td>
-                                    <ul>
-                                        <li>Título de formación técnica profesional, tecnológica o terminación y aprobación del pénsum académico de educación superior en formación del Núcleo Básico de Conocimiento: en Derecho y Afines; Formación Relacionada con el Campo Militar o Policial; Administración; Ingeniería Ambiental, Sanitaria y Afines; Ingeniería Civil y Afines; Ingeniería de Sistemas, Telemática y Afines; Ingeniería Electrónica, Telecomunicaciones y Afines; Ingeniería Industrial y Afines; Ingeniería Mecánica y Afines; Educación.</li>
-                                        <li>6 años de experiencia relacionada con las funciones del cargo.</li>
-                                    </ul>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <strong>Técnico operativo de Tránsito</strong>
-                                </td>
-                                <td>
-                                    <ul>
-                                        <li>Título de bachiller en cualquier modalidad.</li>
-                                        <li>Dieciocho (18) meses de experiencia relacionada con las funciones del cargo.</li>
-                                    </ul>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <strong>Agente de Tránsito</strong>
-                                </td>
-                                <td>
-                                    <ul>
-                                        <li>Título de bachiller en cualquier modalidad.</li>
-                                        <li>6 meses de experiencia relacionada con las funciones del cargo.</li>
-                                    </ul>
-                                </td>
-                            </tr>
-                        </table>
-                        <p class='text-center'></p>
-                    </div>
-                </div>
-            </div>
-            <style>
-                .box-table {
+			</style>
+			<div class="box-table">
+				<h4>Requisitos de formación y experiencia, según el manual de funciones.</h4>
+
+				<div class="table">
+					<div class="table-seAgente table-responsive">
+						<p class="text-center">&nbsp;</p>
+
+						<table class="table table-bordered table-striped">
+							<tbody>
+								<tr>
+									<th>PERFIL</th>
+									<th>REQUISITOS</th>
+								</tr>
+								<tr>
+									<td><strong>Comandante de Tránsito</strong></td>
+									<td>
+										<ul>
+											<li>Título profesional en disciplina académica del núcleo básico de conocimiento en Derecho y Afines; Formación relacionada con el campo militar o policial; Administración; Ingeniería Ambiental, Sanitaria y Afines; Ingeniería Civil y Afines; Ingeniería de Sistemas, Telemática y Afines; Ingeniería Electrónica, Telecomunicaciones y Afines; Ingeniería Industrial y Afines o Ingeniería Mecánica y Afines; Educación.</li>
+											<li>Título de postgrado en la modalidad de especialización en áreas relacionadas con las funciones del cargo.</li>
+											<li>6 años de experiencia relacionada con las funciones del cargo.</li>
+										</ul>
+									</td>
+								</tr>
+								<tr>
+									<td><strong>Subcomandante de Tránsito</strong></td>
+									<td>
+										<ul>
+											<li>Título de formación técnica profesional, tecnológica o terminación y aprobación del pénsum académico de educación superior en formación del Núcleo Básico de Conocimiento: en Derecho y Afines; Formación Relacionada con el Campo Militar o Policial; Administración; Ingeniería Ambiental, Sanitaria y Afines; Ingeniería Civil y Afines; Ingeniería de Sistemas, Telemática y Afines; Ingeniería Electrónica, Telecomunicaciones y Afines; Ingeniería Industrial y Afines; Ingeniería Mecánica y Afines; Educación.</li>
+											<li>6 años de experiencia relacionada con las funciones del cargo.</li>
+										</ul>
+									</td>
+								</tr>
+								<tr>
+									<td><strong>Técnico operativo de Tránsito</strong></td>
+									<td>
+										<ul>
+											<li>Título de bachiller en cualquier modalidad.</li>
+											<li>Dieciocho (18) meses de experiencia relacionada con las funciones del cargo.</li>
+										</ul>
+									</td>
+								</tr>
+								<tr>
+									<td><strong>Agente de Tránsito</strong></td>
+									<td>
+										<ul>
+											<li>Título de bachiller en cualquier modalidad.</li>
+											<li>6 meses de experiencia relacionada con las funciones del cargo.</li>
+										</ul>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<p class="text-center">&nbsp;</p>
+					</div>
+				</div>
+			</div>
+			<style type="text/css">.box-table {
                     padding: 0px 30px;
 
                 }
@@ -204,9 +198,8 @@
                     color: #fff;
                     text-align: center;
                 }
-            </style>
-            <style>
-                .box-wrp .vector3 {
+			</style>
+			<style type="text/css">.box-wrp .vector3 {
                     background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-07-2022/g887.png');
                     background-size: contain;
                     background-position: center;
@@ -221,17 +214,12 @@
                     padding-bottom: 40px;
                     position: relative;
                 }
-            </style>
-            <span class="vector3"></span>
-
-        </div>
-    </div>
+			</style>
+		</div>
+	</div>
 </div>
-<!-- End Set Wrapper -->
-
-<!-- Styles -->
-<style type='text/css'>
-    .field-item.even h2 {
+<!-- End Set Wrapper --><!-- Styles -->
+<style type="text/css">.field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
     }
