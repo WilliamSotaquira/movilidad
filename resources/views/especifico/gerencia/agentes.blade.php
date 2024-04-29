@@ -85,7 +85,7 @@
 
         .encabezado .img-encabezado {
             height: 200px;
-            background: no-repeat rgba(31, 34, 62, 1) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/img-enc-agentes-1.webp');
+            background: no-repeat rgba(31, 34, 62, 1) url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/encabezado.png');
             background-size: cover;
 
         }
@@ -429,13 +429,13 @@
         <!-- xs -->
             <div class='col-xs-12 visible-xs-12 visible-xs-block'>
                 <a href="https://www.movilidadbogota.gov.co/web/se_agente_de_transito" target="_blank" rel="noopener noreferrer">
-                <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/gerencia_en_via_requisitos_agentes_civilies_banner_320x100_.jpg' alt='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá' title='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá'>
+                <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/banner_xs.png' alt='De clic aqui para ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá' title='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá'>
                 </a>
             </div>
         <!-- lg -->
             <div class='col-sm-12 hidden-xs'>
                 <a href="https://www.movilidadbogota.gov.co/web/se_agente_de_transito" target="_blank" rel="noopener noreferrer">
-                <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-08-2022/gerencia_en_via_requisitos_agentes_civilies_banner_980x120.jpg' alt='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá' title='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá'>
+                <img class='img-responsive w-100 zoom' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/banner_lg.png' alt='De clic aqui para ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá' title='De clic aqui paar ver los requisitos para ser Agente Civil de Tránsito y Transporte de Bogotá'>
                 </a>
             </div>
         </div>
@@ -754,7 +754,7 @@
         }
 
         .img1 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/_jrg9884.webp');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/funciones.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: top center;
@@ -764,7 +764,7 @@
         }
 
         .img2 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/_jrg9896.webp');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/identificar.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: top center;
@@ -774,21 +774,20 @@
         }
 
         .img3 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2022/agentes_3-1.jpg');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/control2.png');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: top right;
             height: 350px;
-            background-position: -120px 0px;
 
 
         }
 
         .img4 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2021/img4.webp');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-04-2024/control1.png');
             background-size: cover;
             background-repeat: no-repeat;
-            background-position: top right;
+            background-position: center right;
             height: 197px;
 
         }
@@ -1041,7 +1040,6 @@
 
         .img3 {
             height: 575px;
-            background-position: -350px 0px;
         }
 
         .img4 {
@@ -1086,12 +1084,11 @@
 
         .img3 {
             height: 360px;
-            background-position: -130px 0px;
 
         }
 
         .img4 {
-            height: 370px;
+            height: 400px;
         }
 
     }
@@ -1130,11 +1127,10 @@
 
         .img3 {
             height: 450px;
-            background-position: -210px 0px;
         }
 
         .img4 {
-            height: 370px;
+            height: 400px;
         }
 
     }
