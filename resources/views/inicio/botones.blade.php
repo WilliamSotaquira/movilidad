@@ -1,165 +1,166 @@
   @extends('welcome')
   @section('contenido')
 
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<div class="container-fluid box-banners-length"><!-- Seccion Botones Pico y Placa  -->
-	<div class="row botones-pyp">
-		<div class="col-xs-12 col-sm-3 col-md-3">
-			<div class="logo-pyp">
-				<div class="row"><!-- xs -->
-					<div class="col-xs-12 visible-xs-12 visible-xs-block"><img alt="Logo Pico y Placa Bogotá - Todo lo que debes saber" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-01-2022/logo_pyp_xs_a.webp" title="Logo Pico y Placa Bogotá - Todo lo que debes saber"></div>
-					<!-- lg -->
+  <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+  <div class="container-fluid box-banners-length"><!-- Seccion Botones Pico y Placa  -->
+      <div class="row botones-pyp">
+          <div class="col-xs-12 col-sm-3 col-md-3">
+              <div class="logo-pyp">
+                  <div class="row"><!-- xs -->
+                      <div class="col-xs-12 visible-xs-12 visible-xs-block"><img alt="Logo Pico y Placa Bogotá - Todo lo que debes saber" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-01-2022/logo_pyp_xs_a.webp" title="Logo Pico y Placa Bogotá - Todo lo que debes saber"></div>
+                      <!-- lg -->
 
-					<div class="col-sm-12 hidden-xs"><img alt="Logo Pico y Placa Bogotá - Todo lo que debes saber" class="img-responsive w-100 hidden-xs " src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-01-2022/logo_pyp_sm_a.webp" title="Logo Pico y Placa Bogotá - Todo lo que debes saber"></div>
-				</div>
-			</div>
-		</div>
+                      <div class="col-sm-12 hidden-xs"><img alt="Logo Pico y Placa Bogotá - Todo lo que debes saber" class="img-responsive w-100 hidden-xs " src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-01-2022/logo_pyp_sm_a.webp" title="Logo Pico y Placa Bogotá - Todo lo que debes saber"></div>
+                  </div>
+              </div>
+          </div>
 
-		<div class="col-xs-12 col-sm-9 col-md-9">
-			<div class="row box-botones">
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<div class="box-pyp">
-						<div class="txt-pyp">
-							<div>
-								<h3><a href="https://www.movilidadbogota.gov.co/web/Pico_y_placa" rel="noopener noreferrer" target="_blank">Calendario <span>Pico y placa 2024</span></a></h3>
-							</div>
-						</div>
-					</div>
-				</div>
+          <div class="col-xs-12 col-sm-9 col-md-9">
+              <div class="row box-botones">
+                  <div class="col-xs-6 col-sm-4 col-md-2">
+                      <div class="box-pyp">
+                          <div class="txt-pyp">
+                              <div>
+                                  <h3><a href="https://www.movilidadbogota.gov.co/web/Pico_y_placa" rel="noopener noreferrer" target="_blank">Calendario <span>Pico y placa 2024</span></a></h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
 
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<div class="box-pyp">
-						<div class="txt-pyp">
-							<div>
-								<h3><a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" rel="noopener noreferrer" target="_blank"><span>Pico y Placa</span> Solidario</a></h3>
-							</div>
-						</div>
-					</div>
-				</div>
+                  <div class="col-xs-6 col-sm-4 col-md-2">
+                      <div class="box-pyp">
+                          <div class="txt-pyp">
+                              <div>
+                                  <h3><a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/" rel="noopener noreferrer" target="_blank"><span>Pico y Placa</span> Solidario</a></h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
 
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<div class="box-pyp">
-						<div class="txt-pyp">
-							<div>
-								<h3><a href="https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular" rel="noopener noreferrer" target="_blank">Registro <span>de vehículos</span> híbridos y eléctricos</a></h3>
-							</div>
-						</div>
-					</div>
-				</div>
+                  <div class="col-xs-6 col-sm-4 col-md-2">
+                      <div class="box-pyp">
+                          <div class="txt-pyp">
+                              <div>
+                                  <h3><a href="https://www.movilidadbogota.gov.co/web/registro_restriccion_vehicular" rel="noopener noreferrer" target="_blank">Registro <span>de vehículos</span> híbridos y eléctricos</a></h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
 
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<div class="box-pyp">
-						<div class="txt-pyp">
-							<div>
-								<h3><a href="https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/login/" rel="noopener noreferrer" target="_blank">Registro de exceptuados <span>de Pico y Placa</span></a></h3>
-							</div>
-						</div>
-					</div>
-				</div>
+                  <div class="col-xs-6 col-sm-4 col-md-2">
+                      <div class="box-pyp">
+                          <div class="txt-pyp">
+                              <div>
+                                  <h3><a href="https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/login/" rel="noopener noreferrer" target="_blank">Registro de exceptuados <span>de Pico y Placa</span></a></h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
 
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<div class="box-pyp">
-						<div class="txt-pyp">
-							<div>
-								<h3><a href="https://www.movilidadbogota.gov.co/web/abece_del_pico_y_placa" rel="noopener noreferrer" target="_blank">Abecé <span>de Pico y Placa</span></a></h3>
-							</div>
-						</div>
-					</div>
-				</div>
+                  <div class="col-xs-6 col-sm-4 col-md-2">
+                      <div class="box-pyp">
+                          <div class="txt-pyp">
+                              <div>
+                                  <h3><a href="https://www.movilidadbogota.gov.co/web/abece_del_pico_y_placa" rel="noopener noreferrer" target="_blank">Abecé <span>de Pico y Placa</span></a></h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
 
-				<div class="col-xs-6 col-sm-4 col-md-2">
-					<div class="box-pyp">
-						<div class="txt-pyp">
-							<div>
-								<h3><a href="https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/consultarPlaca/" rel="noopener noreferrer" target="_blank">Consulta de <span>vehículos</span> exceptuados</a></h3>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- Fin Seccion Botones Pico y Placa  --><br>
-	<!-- Bloque Centro de Contacto --><!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-	<div class="row">
-		<div class="contacto-div">
-			<div class="row titulo">
-				<h3><a href="https://www.movilidadbogota.gov.co/web/canales_de_atencion_al_ciudadano">Centro de Contacto de Movilidad</a></h3>
-			</div>
+                  <div class="col-xs-6 col-sm-4 col-md-2">
+                      <div class="box-pyp">
+                          <div class="txt-pyp">
+                              <div>
+                                  <h3><a href="https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/consultarPlaca/" rel="noopener noreferrer" target="_blank">Consulta de <span>vehículos</span> exceptuados</a></h3>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <!-- Fin Seccion Botones Pico y Placa  --><br>
+      <!-- Bloque Centro de Contacto --><!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+      <div class="row">
+          <div class="contacto-div">
+              <div class="row titulo">
+                  <h3><a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion">Centro de Contacto de Movilidad</a></h3>
+              </div>
 
-			<div class="row">
-				<div class="tabs">
-					<div class="col-xs-6 col-sm-4 col-md-2">
-						<div class="tab zoom">
-							<div class="img-tab"><a href="https://vus.circulemosdigital.com.co/#/login"><img alt="Dar clic aquí para acceder a Agendamiento de citas" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/agendamiento.webp" title="Dar clic aquí para acceder a Agendamiento de citas"> </a></div>
+              <div class="row">
+                  <div class="tabs">
+                      <div class="col-xs-6 col-sm-4 col-md-2">
+                          <div class="tab zoom">
+                              <div class="img-tab"><a href="https://vus.circulemosdigital.com.co/#/login"><img alt="Dar clic aquí para acceder a Agendamiento de citas" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/agendamiento.webp" title="Dar clic aquí para acceder a Agendamiento de citas"> </a></div>
 
-							<div class="txt-tab">
-								<h4><a href="https://vus.circulemosdigital.com.co/#/login">Agendamiento de Citas</a></h4>
-							</div>
-						</div>
-					</div>
+                              <div class="txt-tab">
+                                  <h4><a href="https://vus.circulemosdigital.com.co/#/login">Agendamiento de Citas</a></h4>
+                              </div>
+                          </div>
+                      </div>
 
-					<div class="col-xs-6 col-sm-4 col-md-2">
-						<div class="tab zoom">
-							<div class="img-tab"><a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion"><img alt="Dar clic aquí para acceder a Atención Presencial" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/presencial.webp" title="Dar clic aquí para acceder a Atención Presencial"> </a></div>
+                      <div class="col-xs-6 col-sm-4 col-md-2">
+                          <div class="tab zoom">
+                              <div class="img-tab"><a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion"><img alt="Dar clic aquí para acceder a Atención Presencial" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/presencial.webp" title="Dar clic aquí para acceder a Atención Presencial"> </a></div>
 
-							<div class="txt-tab">
-								<h4><a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion">atención presencial</a></h4>
-							</div>
-						</div>
-					</div>
+                              <div class="txt-tab">
+                                  <h4><a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion">atención presencial</a></h4>
+                              </div>
+                          </div>
+                      </div>
 
-					<div class="col-xs-6 col-sm-4 col-md-2">
-						<div class="tab zoom">
-							<div class="img-tab"><a href="https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/WCSecMovilidadV1?token=37CC9C9E2A638DC23750B4EC3F74D96E&amp;notify=b8c4b55f-8a9e-e6bd-b364-6ab30e41be18&amp;dev=false&amp;type=popup"><img alt="Dar clic aquí para acceder a Chatea con nuestro asesor en linea" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/chatea_20211117.webp" title="Dar clic aquí para acceder a Chatea con nuestro asesor en linea"> </a></div>
+                      <div class="col-xs-6 col-sm-4 col-md-2">
+                          <div class="tab zoom">
+                              <div class="img-tab"><a href="https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/WCSecMovilidadV1?token=37CC9C9E2A638DC23750B4EC3F74D96E&amp;notify=b8c4b55f-8a9e-e6bd-b364-6ab30e41be18&amp;dev=false&amp;type=popup"><img alt="Dar clic aquí para acceder a Chatea con nuestro asesor en linea" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/chatea_20211117.webp" title="Dar clic aquí para acceder a Chatea con nuestro asesor en linea"> </a></div>
 
-							<div class="txt-tab">
-								<h4><a href="https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/WCSecMovilidadV1?token=37CC9C9E2A638DC23750B4EC3F74D96E&amp;notify=b8c4b55f-8a9e-e6bd-b364-6ab30e41be18&amp;dev=false&amp;type=popup">Chatea con nuestro asesor en línea</a></h4>
-							</div>
-						</div>
-					</div>
+                              <div class="txt-tab">
+                                  <h4><a href="https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/WCSecMovilidadV1?token=37CC9C9E2A638DC23750B4EC3F74D96E&amp;notify=b8c4b55f-8a9e-e6bd-b364-6ab30e41be18&amp;dev=false&amp;type=popup">Chatea con nuestro asesor en línea</a></h4>
+                              </div>
+                          </div>
+                      </div>
 
-					<div class="col-xs-6 col-sm-4 col-md-2">
-						<div class="tab zoom">
-							<div class="img-tab"><a href="https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/"><img alt="Dar clic aquí para acceder a Te regresamos la llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/regresamosllamada_20211117.webp" title="Dar clic aquí para acceder a Te regresamos la llamada"> </a></div>
+                      <div class="col-xs-6 col-sm-4 col-md-2">
+                          <div class="tab zoom">
+                              <div class="img-tab"><a href="https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/"><img alt="Dar clic aquí para acceder a Te regresamos la llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/regresamosllamada_20211117.webp" title="Dar clic aquí para acceder a Te regresamos la llamada"> </a></div>
 
-							<div class="txt-tab">
-								<h4><a href="https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/">Te regresamos la llamada</a></h4>
-							</div>
-						</div>
-					</div>
+                              <div class="txt-tab">
+                                  <h4><a href="https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/">Te regresamos la llamada</a></h4>
+                              </div>
+                          </div>
+                      </div>
 
-					<div class="col-xs-6 col-sm-4 col-md-2">
-						<div class="tab zoom">
-							<div class="img-tab"><a href="https://cls45-ws-secmovilidad.inconcertcc.com/C2CSECMOV/"><img alt="Dar clic aquí para acceder a Llámanos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/llamanos_20211117.webp" title="Dar clic aquí para acceder a Llámanos"> </a></div>
+                      <div class="col-xs-6 col-sm-4 col-md-2">
+                          <div class="tab zoom">
+                              <div class="img-tab"><a href="https://cls45-ws-secmovilidad.inconcertcc.com/C2CSECMOV/"><img alt="Dar clic aquí para acceder a Llámanos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/llamanos_20211117.webp" title="Dar clic aquí para acceder a Llámanos"> </a></div>
 
-							<div class="txt-tab">
-								<h4><a href="https://cls45-ws-secmovilidad.inconcertcc.com/C2CSECMOV/">Llámanos</a></h4>
-							</div>
-						</div>
-					</div>
+                              <div class="txt-tab">
+                                  <h4><a href="https://cls45-ws-secmovilidad.inconcertcc.com/C2CSECMOV/">Llámanos</a></h4>
+                              </div>
+                          </div>
+                      </div>
 
-					<div class="col-xs-6 col-sm-4 col-md-2">
-						<div class="tab zoom">
-							<div class="img-tab"><a href="https://cls45-ws-secmovilidad.inconcertcc.com/VCSECMOV/"><img alt="Dar clic aquí para acceder a Hagamos una video llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/videollamada_20211117.webp" title="Dar clic aquí para acceder a Hagamos una video llamada"> </a></div>
+                      <div class="col-xs-6 col-sm-4 col-md-2">
+                          <div class="tab zoom">
+                              <div class="img-tab"><a href="https://cls45-ws-secmovilidad.inconcertcc.com/VCSECMOV/"><img alt="Dar clic aquí para acceder a Hagamos una video llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/videollamada_20211117.webp" title="Dar clic aquí para acceder a Hagamos una video llamada"> </a></div>
 
-							<div class="txt-tab">
-								<h4><a href="https://cls45-ws-secmovilidad.inconcertcc.com/VCSECMOV/">Videollamada en lengua de señas colombiana</a></h4>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+                              <div class="txt-tab">
+                                  <h4><a href="https://cls45-ws-secmovilidad.inconcertcc.com/VCSECMOV/">Videollamada en lengua de señas colombiana</a></h4>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
 
-			<div class="row">
-				<div class="txt-footer">
-					<p>Agende sus citas para <span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span> en nuestros<span class="enfasis"> canales virtuales</span> o comuníquese al<span class="enfasis"> <a href="tel:+576013649400">+57 (601) 364 9400</a>, opción 2.</span></p>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-	<style type="text/css">.container-fluid {
+              <div class="row">
+                  <div class="txt-footer">
+                      <p>Agende sus citas para <span class="enfasis"> impugnaciones, cursos pedagógicos y acuerdos pago</span> en nuestros<span class="enfasis"> canales virtuales</span> o comuníquese al<span class="enfasis"> <a href="tel:+576013649400">+57 (601) 364 9400</a>, opción 2.</span></p>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+      <style type="text/css">
+          .container-fluid {
               padding: 0px !important;
           }
 
@@ -211,6 +212,33 @@
           .contacto-div>.titulo a {
               text-decoration: none;
               color: #66e026;
+          }
+          .contacto-div>.titulo a:hover {
+              text-decoration: none;
+              color: #fff;
+          }
+
+          .contacto-div>.titulo h3::after {
+              content: "";
+              position: absolute;
+              padding: 16px;
+              margin-right: 5px;
+              margin-left: 22px;
+              background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/tocar.png');
+              background-size: contain;
+              background-repeat: no-repeat;
+              background-position: center;
+          }
+          .contacto-div>.titulo h3:hover::after {
+              content: "";
+              position: absolute;
+              padding: 16px;
+              margin-right: 5px;
+              margin-left: 22px;
+              background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/tocar_b.png');
+              background-size: contain;
+              background-repeat: no-repeat;
+              background-position: center;
           }
 
           .contacto-div .tabs {
@@ -304,9 +332,10 @@
           }
 
           /* IE9 */
-	</style>
-	<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-	<style type="text/css">@media(max-width:767px) {
+      </style>
+      <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+      <style type="text/css">
+          @media(max-width:767px) {
               .contacto-div .tab>.txt-tab h4 {
                   font-size: 12px !important;
               }
@@ -332,8 +361,9 @@
                   font-size: 1rem;
               }
           }
-	</style>
-	<style type="text/css">@media(max-width:767px) {
+      </style>
+      <style type="text/css">
+          @media(max-width:767px) {
               .contacto-div .tab>.txt-tab h4 {
                   font-size: 8px;
               }
@@ -367,9 +397,10 @@
           }
 
           @media(min-width:1200px) {}
-	</style>
-	<!-- Fin Bloque Centro de Contacto -->
-	<style type="text/css">#carousel-sdm {
+      </style>
+      <!-- Fin Bloque Centro de Contacto -->
+      <style type="text/css">
+          #carousel-sdm {
               margin: 20px 0;
               z-index: 0;
           }
@@ -447,9 +478,10 @@
               /* IE9 */
 
           }
-	</style>
-	<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-	<style type="text/css">.botones-pyp [class*='col-'] {
+      </style>
+      <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+      <style type="text/css">
+          .botones-pyp [class*='col-'] {
               margin: 0px;
               padding: 0px;
               border: 0;
@@ -497,7 +529,6 @@
           }
 
           .botones-pyp .box-botones a {
-              text-decoration: none !important;
               font-size: 1em !important;
           }
 
@@ -531,8 +562,9 @@
               color: #e59c22;
 
           }
-	</style>
-	<style type="text/css">@media(max-width:300px) {
+      </style>
+      <style type="text/css">
+          @media(max-width:300px) {
 
               .botones-pyp .txt-pyp h3 {
 
@@ -576,6 +608,6 @@
           }
 
           @media(min-width:1200px) {}
-	</style>
-</div>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+      </style>
+  </div>
+  <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->

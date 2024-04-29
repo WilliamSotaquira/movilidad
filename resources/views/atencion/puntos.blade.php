@@ -12,8 +12,14 @@
 <!-- Set puntos -->
 <div class="set-wrapper puntos">
 
+
     <!-- bloque box title-->
     <style>
+        .field-item.even .centertil {
+            visibility: hidden;
+            margin-top: -50px;
+        }
+
         .set-wrapper .box-title {
             margin: 2em 1em 0 1em;
         }
@@ -51,11 +57,7 @@
             <h2 class="title title-type-h2 title-id-ppal">Puntos de atención</h2>
         </div>
         <div class="cmpnt cmpnt-paragraph">
-            <p>Descubre los diferentes lugares donde la Secretaría Distrital de Movilidad te brinda atención presencial,
-                virtual y telefónica. Por medio de nuestros variados canales de comunicación, estarás en contacto
-                directo para recibir asesoramiento e información detallada acerca de nuestros procesos y servicios.
-                Además, tendras la opción de programar tus citas para las impugnaciones, participar en cursos
-                pedagógicos y establecer acuerdos de pago de manera cómoda y oportuna.</p>
+            <p>Descubre los diferentes lugares donde la Secretaría Distrital de Movilidad te brinda atención presencial, virtual y telefónica. Por medio de nuestros variados canales de comunicación, estarás en contacto directo para recibir asesoramiento e información detallada acerca de nuestros procesos y servicios. Además, tendrás la opción de programar tus citas para las impugnaciones, salida de patios, participar en cursos pedagógicos y establecer acuerdos de pago de manera cómoda y oportuna.</p>
         </div>
     </div>
 
@@ -81,7 +83,7 @@
         <div class="cmpnt cmpnt-video-ppal">
             <div class="video video-ppal">
                 <video controls style="width: 100%;">
-                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/video_puntos.mp4" type="video/mp4" poster="" preload>
+                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/video_puntos.mp4" type="video/mp4" poster="" preload>
             </div>
         </div>
     </div>
@@ -173,7 +175,7 @@
         }
 
         .box-bottom .icon1 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/mapas_v.png');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/mapas_v.png');
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
@@ -182,7 +184,7 @@
 
         .box-bottom .icon2 {
 
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/cursor_v.png');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/cursor_v.png');
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
@@ -191,7 +193,7 @@
 
         .box-bottom .icon3 {
 
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/telefono_v.png');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefono_v_0.png');
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
@@ -199,15 +201,15 @@
         }
 
         .box-bottom:hover .icon1 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/mapas_a.png');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/mapas_a.png');
         }
 
         .box-bottom:hover .icon2 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/cursor_a.png');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/cursor_a.png');
         }
 
         .box-bottom:hover .icon3 {
-            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/telefono_a.png');
+            background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefono_a_0.png');
         }
 
         .puntos .box-boxes .box-bottom p {
@@ -231,7 +233,7 @@
         <a onclick="activeBox(1);">
             <div class="box-bottom">
                 <span class="tooltip-img">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/presencial.gif" alt="acceder a presencial" title="acceder a presencial">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/presencial.gif" alt="acceder a presencial" title="acceder a presencial">
                 </span>
                 <div class="icon icon1">
                 </div>
@@ -401,14 +403,14 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/maps_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/maps_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_one_1:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/maps_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/maps_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -420,14 +422,14 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/car_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/car_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_one_2:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/car_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/car_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -439,32 +441,33 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/building_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/building_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_one_3:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/building_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/building_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
+
                     #push_one_4::before {
                         content: "";
                         position: absolute;
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/checklist_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/checklist_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_one_4:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/checklist_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/checklist_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -488,6 +491,7 @@
                         background-repeat: no-repeat;
                         background-position: center;
                     }
+
                     #push_one_6::before {
                         content: "";
                         position: absolute;
@@ -535,11 +539,11 @@
                 </style>
                 <div class="tabs-collapse tabs-collapse-1">
                     <a class="push push-tabpills-1" id="push_one_1" data-tab="1">Centros de servicios</a>
+                    <a class="push push-tabpills-1" id="push_one_6" data-tab="6">Cursos Pedagógicos</a>
                     <a class="push push-tabpills-1" id="push_one_2" data-tab="2">Patios</a>
                     <a class="push push-tabpills-1" id="push_one_3" data-tab="3">Sedes administrativas</a>
                     <a class="push push-tabpills-1" id="push_one_4" data-tab="4">Centros locales de movilidad</a>
-                    <a class="push push-tabpills-1" id="push_one_6" data-tab="6">Cursos Pedagógicos</a>
-                    <a class="push push-tabpills-1" id="push_one_5" data-tab="5">Ventanilla Única de Servicio</a>
+                    <a class="push push-tabpills-1" id="push_one_5" data-tab="5">Ventanilla Única de Servicios</a>
                 </div>
 
                 <style>
@@ -631,6 +635,43 @@
                     <div class="summary-collapse summary-collapse-2">
                         <h3 class="title title-type-3c title-id-3c2">Patios</h3>
                         <div class="box-items">
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>Parqueadero autorizado No. 01</strong></p>
+                                </div>
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/8GeCZHNYkR9JudYA7">Transversal 93 N° 53-35</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                                <div class="item span-2">
+                                    <p><b>Punto de atención:</b></p>
+                                    <p>24 horas 7 días de la semana*</p>
+                                    <p>*Una vez sea autorizada la salida y realizado el pago del trámite.</p>
+                                </div>
+                            </div>
+
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>Transitorio</strong></p>
+                                </div>
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/upv6ZvKuL5HJEy48A">Av. calle 63 # 94 -
+                                            51</a>
+                                    </p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                                <div class="item span-2">
+                                    <p><b>Punto de atención:</b></p>
+                                    <p><b>Para peritaje: </b>Cita previa antes de las 7am.</p>
+                                    <p><b>Para entrega de vehículos:</b>Cita previa Lunes a viernes 9am a 4:30pm.</p>
+                                    <p>Sábados de 9am a 11:30am.</p>
+                                </div>
+                            </div>
+
                             <div class="boxes">
                                 <div class="item item-title span-3">
                                     <p><strong>Alamos 200</strong></p>
@@ -643,9 +684,7 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
@@ -661,9 +700,7 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
@@ -679,30 +716,10 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>Transitorio</strong></p>
-                                </div>
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/upv6ZvKuL5HJEy48A">Av. calle 63 # 94 -
-                                            51</a>
-                                    </p>
-                                    <p>Bogotá - Colombia</p>
-                                </div>
-                                <div class="item span-2">
-                                    <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
-                                </div>
-                            </div>
 
                             <div class="boxes">
                                 <div class="item item-title span-3">
@@ -716,9 +733,7 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
@@ -734,9 +749,7 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
@@ -752,9 +765,7 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
@@ -769,9 +780,7 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
@@ -786,13 +795,12 @@
                                 </div>
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 7:00&nbsp;p.m.</p>
-                                    <p>Sábado 08:00&nbsp;a.m. a 1:00&nbsp;p.m.</p>
-                                    <p>Para trámites de vehículos inmovilizados hasta junio de 2019</p>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 4:00&nbsp;p.m.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <!-- ------------------------------------------------------------------------------------------------------------------------------- -->
                     <div class="summary-collapse summary-collapse-3">
                         <h3 class="title title-type-3c title-id-3c3">Sedes Administrativas</h3>
                         <div class="box-items">
@@ -1217,7 +1225,7 @@
                         </div>
                     </div>
                     <div class="summary-collapse summary-collapse-5">
-                        <h3 class="title title-type-3c title-id-3c5">Ventanilla Única de Servicio</h3>
+                        <h3 class="title title-type-3c title-id-3c5">Ventanilla Única de Servicios</h3>
                         <div class="box-items">
                             <div class="boxes">
                                 <div class="item item-title span-3">
@@ -1680,7 +1688,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
             <script>
                 var temp_one;
@@ -1740,7 +1747,7 @@
         <a onclick="activeBox(2)">
             <div class="box-bottom">
                 <span class="tooltip-img">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/virtual.gif" alt="acceder a virtual" title="acceder a virtual">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/virtual.gif" alt="acceder a virtual" title="acceder a virtual">
                 </span>
                 <div class="icon icon2">
                 </div>
@@ -1863,14 +1870,14 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/chat_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/chat_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_two_1:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/chat_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/chat_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -1882,14 +1889,14 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/llamada_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/llamada_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_two_2:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/llamada_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/llamada_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -1901,14 +1908,14 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/telefono_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefono_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_two_3:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/telefono_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefono_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -1920,14 +1927,14 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/videollamada_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/videollamada_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_two_4:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/videollamada_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/videollamada_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -1939,14 +1946,14 @@
                         padding: 10px;
                         margin-right: 7px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/chatbot_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/chatbot_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_two_5:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/chatbot_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/chatbot_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -1958,14 +1965,14 @@
                         padding: 8px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/cita_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/cita_a.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_two_6:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/cita_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/cita_v.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -2116,7 +2123,7 @@
                             <div class="colspan-2">
                                 <a href="">
                                     <div class="logo logo-lucia">
-                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/lucia.png" alt="logo ">
+                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/lucia.png" alt="logo ">
                                     </div>
                                 </a>
                                 <p class="paragraph ph-type-1 ph-id-6">
@@ -2197,7 +2204,7 @@
         <a onclick="activeBox(3)">
             <div class="box-bottom">
                 <span class="tooltip-img">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/telefonico.gif" alt="acceder a telefónico" title="acceder a telefónico">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefonico.gif" alt="acceder a telefónico" title="acceder a telefónico">
                 </span>
                 <div class="icon icon3">
                 </div>
@@ -2209,7 +2216,7 @@
 
         <div class="box-summary box-summary-3">
             <div class="imagen img-call">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-02-2024/atencion.jpg" alt="" title="">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/atencion.jpg" alt="" title="">
                 <style>
                     .box-summary-3 .img-call img {
                         padding: 2em 6em;
@@ -2441,6 +2448,7 @@
     .puntos .url-map {
         margin-left: 22px;
     }
+
     .puntos .url-map::before {
         content: "";
         position: absolute;

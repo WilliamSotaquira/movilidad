@@ -6,29 +6,26 @@
 
 <!-- Set tramitesServicios -->
 <div class="set-wrapper tramitesServicios">
-
     <template>
         <div class="card-ts">
             <div class="details-ts">
                 <div class="tags-ts">
-                    <div class="tags">
-                        <span class="label label-default">Trámite</span>
-                    </div>
+                    <div class="tags"><span class="label label-default">Trámite</span></div>
                 </div>
-                <a class="link-ppal">
-                    <h3>Inscripción o autorización para la circulación vial (excepciones pico y placa).</h3>
-                </a>
+                <a class="link-ppal"> </a>
+
+                <h3><a class="link-ppal">Inscripción o autorización para la circulación vial (excepciones pico y placa).</a></h3>
+                <a class="link-ppal"> </a>
+
                 <p class="p1">Inscríbete virtualmente al registro de los vehículos exceptuados de la medida de pico y placa en Bogotá.</p>
             </div>
+
             <div class="canals-ts">
-                <ul class="list-canals">
-                    <!-- <li><span><img src="/images/ts/20x20/link_20.png"></span>demos</li> -->
-                </ul>
+                <ul class="list-canals"><!-- <li><span><img src="/images/ts/20x20/link_20.png"></span>demos</li> --></ul>
             </div>
         </div>
     </template>
-
-    <style>
+    <style type="text/css">
         .set-wrapper {
             /* font-family: 'Montserrat', sans-serif; */
             font-size: 16px;
@@ -213,58 +210,31 @@
 
         }
     </style>
-
     <!-- Sección box header-ts -->
     <div class="box box-header-ts">
         <div class="title-ts">
-            <h3 class="title title-type-ppal title-id-1">
-                Trámites, servicios, consultas y otros procedimientos
-            </h3>
+            <h3 class="title title-type-ppal title-id-1">Trámites, servicios, consultas y otros procedimientos</h3>
         </div>
+
         <div class="paragraph-ppal">
             <p>Para conocer los trámites, servicios, PQRSD y otros procedimientos administrativos (OPA) de la Secretaría Distrital de Movilidad, puedes consultarlos en la Guía de trámites y servicios de Bogotá o en el Portafolio de trámites de la secretaría, también puedes buscarlos en la lista que se encuentra a continuación. Al lado derecho encontrarás otros sitios de tu interés.</p>
         </div>
+
         <div class="icons">
-            <a href="https://www.movilidadbogota.gov.co/web/portafolio_tramites_y_servicios" onmouseover="mouseoversound.playclip()" title="Ir a portafolio de tramites y servicios">
-                <div class="icon zoom ico-1">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/portafolio.png" alt="Logo portafolio de trámites y servicios">
-                </div>
-            </a>
+            <div class="icon zoom ico-1"><a href="https://www.movilidadbogota.gov.co/web/portafolio_tramites_y_servicios" onmouseover="mouseoversound.playclip()" title="Ir a portafolio de tramites y servicios"><img alt="Logo portafolio de trámites y servicios" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/portafolio.png"> </a></div>
 
-            <a href="https://www.ventanillamovilidad.com.co/" onmouseover="mouseoversound.playclip()" title="Ir a ventanilla unica de servicios">
-                <div class="icon zoom ico-2">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/vus.png" alt="logo ventanilla unica de servicios">
-                </div>
-            </a>
+            <div class="icon zoom ico-2"><a href="https://www.ventanillamovilidad.com.co/" onmouseover="mouseoversound.playclip()" title="Ir a ventanilla unica de servicios"><img alt="logo ventanilla unica de servicios" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/vus.png"> </a></div>
 
-            <a href="https://bogota.gov.co/servicios/entidad/secretaria-distrital-de-movilidad-sdm" onmouseover="mouseoversound.playclip()" title="Ir a guía de tramites">
-                <div class="icon zoom ico-3">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/guia-tramites.png" alt="Logo guía de tramites SDM">
-                </div>
-            </a>
+            <div class="icon zoom ico-3"><a href="https://bogota.gov.co/servicios/entidad/secretaria-distrital-de-movilidad-sdm" onmouseover="mouseoversound.playclip()" title="Ir a guía de tramites"><img alt="Logo guía de tramites SDM" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/guia-tramites.png"> </a></div>
 
-            <a href="https://www.gov.co/" onmouseover="mouseoversound.playclip()" title="Ir a gov.co">
-                <div class="icon zoom ico-4">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/gov-co.png" alt="Logo GOV CO">
-                </div>
-            </a>
+            <div class="icon zoom ico-4"><a href="https://www.gov.co/" onmouseover="mouseoversound.playclip()" title="Ir a gov.co"><img alt="Logo GOV CO" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/gov-co.png"> </a></div>
 
-            <a href="https://www.funcionpublica.gov.co/web/suit" onmouseover="mouseoversound.playclip()" title="Ir a SUIT">
-                <div class="icon zoom ico-5">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/suit.png" alt="Logo SUIT">
-                </div>
-            </a>
+            <div class="icon zoom ico-5"><a href="https://www.funcionpublica.gov.co/web/suit" onmouseover="mouseoversound.playclip()" title="Ir a SUIT"><img alt="Logo SUIT" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/suit.png"> </a></div>
 
-            <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/pages/landing-page" onmouseover="mouseoversound.playclip()" title="Ir a Mi movilidad">
-                <div class="icon zoom ico-5">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/mimovilidad.png" alt="Logo Mi Movilidad">
-                </div>
-            </a>
-
+            <div class="icon zoom ico-5"><a href="https://portalmimovilidad.movilidadbogota.gov.co/#/pages/landing-page" onmouseover="mouseoversound.playclip()" title="Ir a Mi movilidad"><img alt="Logo Mi Movilidad" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/mimovilidad.png"> </a></div>
         </div>
-
     </div>
-    <style>
+    <style type="text/css">
         .field-item.even .centertil {
             visibility: hidden;
             margin-top: -50px;
@@ -355,16 +325,11 @@
 
         }
     </style>
-
-    <hr>
-    <!-- Sección box bloque-2 -->
+    <hr> <!-- Sección box bloque-2 -->
     <div class="box box-bloque-2">
         <div class="filter">
             <form>
-                <div class="filter-text">
-                    <label for="sentence">Buscar</label>
-                    <input type="text" class="form-control" id="sentence" placeholder="Buscar">
-                </div>
+                <div class="filter-text"><label for="sentence">Buscar</label> <input class="form-control" id="sentence" placeholder="Buscar" type="text"></div>
                 <!-- <div class="filter-radio">
                     <label for="">&nbsp;</label>
                     <div>
@@ -380,24 +345,14 @@
                         </label>
                     </div>
                 </div> -->
-                <div class="filter-clear">
-                    <button class="btn btn-filtro" onclick="limpiarFiltro()">Limpiar Filtro</button>
-                </div>
 
+                <div class="filter-clear"><button class="btn btn-filtro" onclick="limpiarFiltro()">Limpiar Filtro</button></div>
             </form>
         </div>
 
-        <div class="ts-cards">
-
-
-
-        </div>
-        <a href="tel:+"></a>
-
-
-
+        <div class="ts-cards">&nbsp;</div>
     </div>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-bloque-2 {
             grid-area: box-bloque-2;
         }
@@ -460,10 +415,9 @@
             }
         }
     </style>
-
 </div>
 <!-- Fin Set -->
-<style>
+<style type="text/css">
     .checkbox input[type=checkbox],
     .checkbox-inline input[type=checkbox],
     .radio input[type=radio],
@@ -498,7 +452,6 @@
         /* IE9 */
     }
 </style>
-
 <script>
     // Visit JavaScript Kit at http://www.javascriptkit.com/ for full source code
     //** Usage: Instantiate script by calling: var uniquevar=createsoundbite("soundfile1", "fallbackfile2", "fallebacksound3", etc)
@@ -908,14 +861,19 @@
     const template = document.querySelector("template");
     let parent = document.querySelector(`.ts-cards`);
 
+    // console.log(portafolio);
 
-    for (let i = 0; i < portafolio.length; i++) {
+    const rta = portafolio.sort((c, d)=> c.title.toLowerCase().charCodeAt(0) - d.title.toLowerCase().charCodeAt(0))
 
-        let tipo = portafolio[i].type;
-        let title = portafolio[i].title;
-        let description = portafolio[i].description;
-        let url = portafolio[i].url;
-        let canalsCount = portafolio[i].canals;
+    console.log(rta);
+
+    for (let i = 0; i < rta.length; i++) {
+
+        let tipo = rta[i].type;
+        let title = rta[i].title;
+        let description = rta[i].description;
+        let url = rta[i].url;
+        let canalsCount = rta[i].canals;
 
         textData = template.content.cloneNode(true);
 
@@ -994,14 +952,4 @@
         let textFilter = document.querySelector('#sentence');
         textFilter.value = '';
     }
-
-</script>
-
-
-<!-- Ruta de edición: "https://www.movilidadbogota.gov.co/web/node/139509/edit" -->
-
-<script>
-    $(document).ready(function () {
-    window.location.replace("https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones");
-    });
 </script>

@@ -12,3 +12,5 @@ Route::view('/inicio/botones', 'inicio/botones');
 Route::view('/inicio/banners', 'inicio/banners');
 Route::view('/inicio/institucionales', 'inicio/institucionales');
 Route::view('/inicio/footer', 'inicio/footer');
+
+Route::view('/inicio/old/botones', 'inicio/old/botones');
