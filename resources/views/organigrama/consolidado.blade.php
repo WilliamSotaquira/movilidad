@@ -9,7 +9,7 @@
     <hr>
     <div class="row">
         <div class="col-xs-12 text-center">
-            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2024/organigrama_sdm_20240321.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
+            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/organigrama_sdm_rediseni_o_2024_.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
         </div>
     </div>
 
@@ -160,26 +160,27 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
-
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-03-2024/jose_segundo_lopez_valderrama.png" alt="Foto: José Segundo López Valderrama">
-                                                        </div>
+                                                        <div class="img-perfil w-100"><img alt="Foto: José Segundo López Valderrama" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-03-2024/jose_segundo_lopez_valderrama.png"></div>
                                                     </div>
+
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>José Segundo López Valderrama</h1>
+
                                                             <h4>Jefe de la Oficina de Seguridad Vial</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Ingeniero civil con maestría en ingeniería civil con énfasis en transporte de la universidad de los Andes.</p>
+
                                                                 <p>Se ha desempeñado como asistente graduado en el grupo de investigación SUR de los Andes, como ingeniero principal en el centro de investigación Despacio, y como coordinador internacional de datos en el equipo de seguridad vial en WRI Centro Ross para Ciudades Sostenibles, rol en el cual desarrolló actividades relacionadas con recolección y análisis de datos e investigación, así como inspecciones y auditorías de seguridad vial. También trabajó en temas de investigación en género y transporte.</p>
+
                                                                 <p>A lo largo de su carrera ha asesorado proyectos de seguridad vial y movilidad sostenible desde su génesis hasta su evaluación aportando en todas las fases en tomar decisiones basadas en datos. Su objetivo en su nuevo cargo es trabajar en equipo para reducir la cantidad de fatalidades y heridas graves en el tránsito, contribuyendo así a una Bogotá de bien-estar.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
                                     </div>
@@ -421,29 +422,7 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
-                                                <div class="row">
-                                                    <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100"><img alt="Alimar Benítez Molina" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/alimarbenitezmolina.png" title="Alimar Benítez Molina"></div>
-                                                    </div>
 
-                                                    <div class="col-xs-12 col-sm-8 ">
-                                                        <div class="descripcion">
-                                                            <h1>Alimar Benítez Molina</h1>
-
-                                                            <h4>Directora de Inteligencia para la Movilidad</h4>
-
-                                                            <div class="descripcion-xs">
-                                                                <p>Es Licenciada en Estadística, Magister Scientiae en Estadística y se encuentra finalizando su Doctorado en Estadística, estudios que ha adelantado en la Universidad de Los Andes (ULA), Mérida - Venezuela.</p>
-
-                                                                <p>Dedica su vida a liderar procesos de investigación para entender los problemas a los que se enfrentan las organizaciones, con el fin de desarrollar soluciones orientadas a resultados eficientes y coherentes.</p>
-
-                                                                <p>Cuenta con 16 años de experiencia profesional, tiempo en el cual se resalta su trayectoria en el ámbito académico como docente, investigadora, ponente y escritora de artículos indexados; además, su desempeño como profesional especializada en estadística para instituciones como la ULA, Cabildo Verde y Empresa de Transporte del Tercer Milenio TRANSMILENIO S.A.</p>
-
-                                                                <p>En Transmilenio S.A. se destaca su experiencia en el desarrollo de herramientas de BI especializadas con integración de análisis exploratorio, construcción de indicadores multidimensionales, metodologías para el ajuste de la supervisión de los servicios Zonales del SITP. Tiene destrezas en el manejo de software R, Python, SQL. ArcGis, QGIS, SAS, SPSS y SPSS Modeler, STATA, Minitab y manejo avanzado en herramientas de visualización de información como Qlik Sense, R, Tableu, Power BI, Shiny y Dash.</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -466,27 +445,29 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
-
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100">
-                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-02-2024/valentina_acuna_garcia.png" alt="Foto: Valentina Acuña García">
-                                                        </div>
+                                                        <div class="img-perfil w-100"><img alt="Foto: Valentina Acuña García" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-02-2024/valentina_acuna_garcia.png"></div>
                                                     </div>
+
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Valentina Acuña García</h1>
+
                                                             <h4>Directora de Planeación para la Movilidad</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Ingeniera Civil y magíster en Transporte de la Universidad Nacional de Colombia.</p>
+
                                                                 <p>Cuenta con amplia experiencia profesional en planeación del transporte, generación de fuentes de financiación para el transporte público e implementación de estrategias de gestión de la demanda.</p>
+
                                                                 <p>En los últimos 3 años se desempeñó en el cargo de Subdirectora de Transporte Privado, en donde lideró proyectos como Pico y Placa Solidario, valet parking, cargue y descargue en horarios no convencionales y las redes empresariales de la Secretaría de Movilidad.</p>
+
                                                                 <p>Desde su rol busca materializar diferentes proyectos reconociendo las necesidades de la ciudadanía en articulación con las diferentes áreas de la Entidad.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-
 
                                                 <div aria-multiselectable="true" class="panel-group" id="accordionSPM_DPM" role="tablist "><!-- collapseSTPublico -->
                                                     <div class="panel panel-default">
@@ -505,29 +486,25 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
+
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100"><img alt="Ruth Dary Borrero Gómez" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2022/ruthdaryborrerogomez.png"></div>
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/sergio_alejandro_pena_pedreros.png" alt="Foto: Sergio Alejandro Peña Pedreros">
+                                                                            </div>
                                                                         </div>
-
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Ruth Dary Borrero Gómez</h1>
-
-                                                                                <h4>Subdirectora de Transporte Público</h4>
-
+                                                                                <h1>Sergio Alejandro Peña Pedreros</h1>
+                                                                                <h4>Subdirector de Transporte Público</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Ingeniera de Transporte y Vías de la Universidad Pedagógica y Tecnológica de Colombia (UPTC), con especializaciones en Gerencia de Empresas y en Diseño de Vías Urbanas Tránsito y Transporte, y Auditora Interna en el Sistema de Gestión de la Calidad ISO 9001-:2015.</p>
-
-                                                                                    <p>Con más de 15 años de experiencia en el sector público, enfocados principalmente en transporte urbano, ingeniería de tránsito, planeación y operación del transporte público; ha participado en el proceso de implementación del SITP en Bogotá, apoyando los diferentes procesos desde el área técnica de la Secretaría de Movilidad como el análisis, estudios y conceptos que sirven de base para la toma de decisiones.</p>
-
-                                                                                    <p>Ha sido supervisora de diferentes contratos, entre ellos, en el marco de la implementación del SITP, el acceso al transporte de personas con discapacidad y el análisis del transporte ilegal en la ciudad. Ha sido encargada de la Subdirección de Transporte Público y Asesora de Despacho de la SDM.</p>
-
-                                                                                    <p>Está orgullosa de pertenecer a esta Entidad y desde su gestión espera contribuir al Sistema Interoperable de Recaudo, al manejo del Fondo de Estabilización Tarifaria y en general a mejorar los diferentes medios de transporte público.</p>
+                                                                                    <p>Ingeniero en Transporte y Vías, especialista en Diseño de Vías, Tránsito y Transporte, magíster en Ingeniería y transporte, cuenta con una amplia experiencia en el desarrollo de diferentes proyectos de movilidad, Planes Maestros de Movilidad, estructuración de Sistemas Estratégicos de Transporte Público, estimaciones de demanda en diferentes modos de transporte y formulación de políticas en materia de movilidad. </p>
+                                                                                    <p>Desde su nuevo rol en la Secretaría Distrital de Movilidad se compromete a avanzar en el desarrollo de estrategias de transporte público individual de pasajeros, el Sistema Interoperable de Recaudo, el transporte intermunicipal, el Sistema Integrado de Transporte Público (SITP), la implementación del Fondo de Estabilización Tarifaria (FET) y accesibilidad al transporte público.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -550,25 +527,25 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
-
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2024/francisco_javier_victoria_jaramillo.png" alt="Foto: Francisco Javier Victoria Jaramillo">
-                                                                            </div>
+                                                                            <div class="img-perfil w-100"><img alt="Foto: Francisco Javier Victoria Jaramillo" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2024/francisco_javier_victoria_jaramillo.png"></div>
                                                                         </div>
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Francisco Javier Victoria Jaramillo</h1>
+
                                                                                 <h4>Subdirector de Transporte Privado</h4>
+
                                                                                 <div class="descripcion-xs">
-                                                                                    <p></p>
+                                                                                    <p>Ingeniero civil de la Universidad Nacional de Colombia, Magíster en Diseño Urbano de la misma Universidad y Magíster en Gestión del Desarrollo Urbano de la Universidad Erasmus de Rotterdam.</p>
+                                                                                    <p>Ha trabajado en la Secretaría Distrital de movilidad en importantes proyectos relacionados con la promoción del uso de la bicicleta - incluyendo el primer planeador de rutas en bicicleta y la estructuración del actual Sistema de Bicicletas Compartidas - estrategias para la gestión de la demanda del transporte, y en las Zonas de Parqueo Pago. Asimismo trabajó para la Agencia Nacional de Seguridad Vial en la Dirección de Coordinación Interinstitucional para el fortalecimiento de la política pública de seguridad vial.</p>
+                                                                                    <p>En su nuevo cargo tiene presentes tres grandes retos: contribuir a cambiar la forma en la que se mueve la carga dentro de la ciudad y entre la región para que sea más sostenible, eficiente y segura; afianzar la movilidad sostenible en empresas, universidades y entidades públicas; y racionalizar el uso de los autos y las motos a la vez que se promueve el uso de medios sostenibles.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
-
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -636,27 +613,27 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
-
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-03-2024/juan_carlos_tovar_rincon.png" alt="Foto: Juan Carlos Tovar Rincón">
-                                                                            </div>
+                                                                            <div class="img-perfil w-100"><img alt="Foto: Juan Carlos Tovar Rincón" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-03-2024/juan_carlos_tovar_rincon.png"></div>
                                                                         </div>
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Juan Carlos Tovar Rincón</h1>
+
                                                                                 <h4>Subdirector de Infraestructura</h4>
+
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Ingeniero Civil de la Pontificia Universidad Javeriana con especialización en Diseño de Vías Urbanas, Tránsito y Transporte, así como en Gerencia de Proyectos.</p>
+
                                                                                     <p>Durante 8 años desarrolló proyectos de diseño, construcción e interventoría de infraestructura en el sector privado. Desde el 2005 se vinculó al sector público a través de la Secretaría Distrital de Planeación como profesional y luego como Director Encargado. Más adelante se desempeñó como Director Técnico de Proyectos en el Instituto de Desarrollo Urbano (IDU). En el año 2022 ingresó a la Secretaría Distrital de Movilidad como profesional especializado de carrera administrativa en la Oficina de Seguridad Vial, de la cual fue también Jefe Encargado.</p>
+
                                                                                     <p>Como Subdirector de Infraestructura se propone priorizar la accesibilidad y seguridad vial de todas las personas, en especial las más vulnerables, en la formulación y ejecución de Instrumentos de Planeación así como de los proyectos de infraestructura vial y de transporte en Bogotá entre los que se destacan la red Metro, Cables, Corredores de Transporte, Bici y Regiotram.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
-
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -713,7 +690,6 @@
                                         </div>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
 
@@ -744,10 +720,14 @@
                                                         <div class="col-xs-12 col-sm-8 ">
                                                             <div class="descripcion">
                                                                 <h1>Juan Camilo Rodríguez Cárdenas</h1>
+
                                                                 <h4>Director de Ingeniería de Tránsito</h4>
+
                                                                 <div class="descripcion-xs">
                                                                     <p>Arquitecto egresado de la Universidad de La Salle, Especialista en Espacio Público y Magister en Planeación Urbana y Regional de la Universidad Javeriana, apasionado por la planeación de la ciudad y la proyección de medidas que mejoren las condiciones de seguridad vial, priorizando peatones y ciclistas. Con más de diez años de trayectoria profesional, trabajó en la Subdirección de Operaciones de la Secretaría de Hábitat de Bogotá, en la formulación, estructuración y diseño de proyectos integrales de espacio público, como componente de las intervenciones integrales del hábitat.</p>
+
                                                                     <p>En el año 2016 se vinculó a la Secretaría Distrital de Movilidad, en lo que hoy es la Subdirección de la Bicicleta y el Peatón, desarrollando procesos de diseño, viabilización, implementación, análisis y seguimiento de los proyectos de transporte no motorizado. Finalizando el año 2018 se vinculó a la Subsecretaría de Gestión de la Movilidad y la Dirección de Ingeniería de Tránsito, en donde se enfocó en la planeación, priorización, ejecución y seguimiento de las intervenciones del sistema de señalización vial, con alto énfasis en los proyectos de cicloinfraestructura, urbanismos tácticos y corredores arteriales.</p>
+
                                                                     <p>Dentro de sus objetivos en la Dirección están la planeación integral del sistema de señalización vial, a nivel multiescalar, el robustecimiento de las implementaciones en vía, así como la definición de lineamientos para el diseño de proyectos enfocados en mejorar las condiciones de seguridad vial de peatones y ciclistas.</p>
                                                                 </div>
                                                             </div>
@@ -772,22 +752,7 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
-                                                                    <div class="row">
-                                                                        <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100"><img alt="" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2020/mario-gabriel-carbonell.jpg"></div>
-                                                                        </div>
 
-                                                                        <div class="col-xs-12 col-sm-8 ">
-                                                                            <div class="descripcion">
-                                                                                <h1>Mario Gabriel Carbonell Gutiérrez</h1>
-                                                                                <h4>Subdirector de Señalización</h4>
-                                                                                <div class="descripcion-xs">
-                                                                                    <p>Es ingeniero civil De la Universidad Militar Nueva Granada. Especialista en Diseño de Vías Urbanas Tránsito y Transporte de la Universidad Distrital Francisco José de Caldas, con más de 20 años de carrera profesional.</p>
-                                                                                    <p>Tiene amplia experiencia en movilidad, tránsito y transporte en el sector público y privado. Ha sido asesor en temas de tránsito y transporte de la Subdirección General de Infraestructura del IDU. Se desempeñó como profesional especializado de la Secretaría Distrital de Movilidad y Secretaría de Tránsito y Transporte de Bogotá. Participó en la revisión y presentación ante la STT del “Manual de Auditorías Viales”, estrategias para contribuir a la disminución de los índices de accidentalidad vial en la ciudad de Bogotá. “CAL &amp; MAYOR – STT – BANCO MUNDIAL.</p>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -814,12 +779,16 @@
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100"><img alt="" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2020/martha-bayona.jpg"></div>
                                                                         </div>
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Martha Cecilia Bayona Gómez</h1>
+
                                                                                 <h4>Subdirectora de Planes de Manejo de Tránsito</h4>
+
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Es ingeniera civil de la Universidad Gran Colombia, Especialista en Diseño de Vías Urbanas, Tránsito y Transporte de la Universidad Francisco José de Caldas Se ha desempeñó como profesional universitaria en la Secretaría Distrital de Movilidad y en el Instituto de Desarrollo Urbano por más de 12 años. También ha sido consultora y asesora en el sector privado en temas relacionados con señalización, estudios de tránsito y planes de manejo de tránsito.</p>
+
                                                                                     <p>Desde hace ocho años está vinculada a la Secretaría Distrital de Movilidad como líder del equipo de planes de manejo de tránsito (PMT). Ha participado en la construcción de grandes obras de infraestructura vial en Bogotá con diseños de tránsito.</p>
                                                                                 </div>
                                                                             </div>
@@ -862,10 +831,13 @@
                                                         <div class="descripcion">
                                                             <div>
                                                                 <h1>Nathaly Patiño González</h1>
+
                                                                 <h4>Directora de Gestión de Tránsito y Control de Tránsito y Transporte</h4>
                                                             </div>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Ingeniera Civil de la Universidad Nacional de Colombia, con experiencia en tránsito y transporte, especialmente en temas relacionados con gestión en vía en la Secretaría Distrital de Movilidad y en proyectos de consultoría. Tiene una especialización en Tránsito y Transporte de la Universidad Pedagógica y Tecnológica de Colombia.</p>
+
                                                                 <p>Fue contratista en la Subdirección de Gestión en Vía, donde tenía a su cargo las Localidades de Santa Fe, Candelaria, Chapinero y de la Avenida Caracas. Posteriormente, se desempeñó como Subdirectora, rol en el que se destacó por trabajar para que la ciudadanía reconozca a la Entidad como una mano amiga en la vía. Asume esta dirección con el propósito de continuar cuidando a la Ciudad desde la gestión y el control. Además de fortalecer a los equipos que están en vía, demostrando eficiencia en la atención de situaciones de emergencia, y en momentos claves como la época de lluvias, los planes éxodo y retorno y las manifestaciones que se presentan en Bogotá.</p>
                                                             </div>
                                                         </div>
@@ -897,10 +869,14 @@
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Jhon Freddy Domínguez Fuentes</h1>
+
                                                                                 <h4>Subdirector de Gestión en Vía</h4>
+
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Ingeniero civil de la Universidad Industrial de Santander; especialista en gestión de proyectos de la Corporación Universitaria Minuto de Dios; cursó y aprobó todo el contenido académico de la Maestría en Transporte de la Universidad de los Andes.</p>
+
                                                                                     <p>Jhon Freddy es bumangués, llegó a Bogotá en el 2012 y cuenta con 11 años de experiencia en el sector transporte y seguridad vial. Desde que se radicó en la Ciudad ha trabajado en dos organizaciones, una consultora privada y en la Secretaría Distrital de Movilidad. Ingresó a la Entidad en el 2016 desempeñando diferentes funciones para la Subdirección de Gestión en Vía y posteriormente para la Dirección de Gestión de Tránsito y Control de Tránsito y Transporte, De igual forma contribuyó, desde la Subdirección de la Bicicleta y el Peatón, a que el proyecto de bicicletas compartidas llegara a su operación total en enero de 2023.</p>
+
                                                                                     <p>Asume este cargo con el objetivo de seguir aportando al mejoramiento de la calidad de vida de la ciudadanía, en términos de minimizar sus tiempos de viaje y de actuar con celeridad ante cualquier eventualidad en las vías.</p>
                                                                                 </div>
                                                                             </div>
@@ -928,25 +904,23 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
-
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-02-2024/diego_andres_suarez_gomez.png" alt="Foto: Diego Andrés Suárez Gómez">
-                                                                            </div>
+                                                                            <div class="img-perfil w-100"><img alt="Foto: Diego Andrés Suárez Gómez" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-02-2024/diego_andres_suarez_gomez.png"></div>
                                                                         </div>
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Diego Andrés Suárez Gómez</h1>
+
                                                                                 <h4>Subdirector de Semaforización</h4>
+
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Ingeniero de Transporte con especialización en Tránsito y Transporte, y Magíster en Ingeniería con énfasis en transporte de la Universidad Tecnológica y Pedagógica de Colombia, -UPTC- en Tunja. Su formación académica se complementa con cursos adicionales, entre los cuales se destaca el de Modelos de Elección para Análisis Econométricos en Transporte, realizado en la Universidad de los Andes.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
-
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -977,17 +951,21 @@
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Jack David Hurtado Casquette</h1>
+
                                                                                 <h4>Subdirector de Control de Tránsito y Transporte</h4>
+
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Ingeniero Industrial de la Universidad Central, Magíster en Ingeniería Civil con Énfasis en Tránsito y Transporte de la Escuela Colombiana de Ingeniería Julio Garavito.</p>
+
                                                                                     <p>Cuenta con 7 años de experiencia en temáticas asociadas al tránsito y transporte, dirección de personal, diseño e implementación de actividades de control, programación y asignación de recursos, operación de sistemas de préstamo de bicicletas y orientación de tránsito en aglomeraciones de público. Todas estas actividades desarrolladas en campo, buscando proporcionar mejoras a las condiciones de movilidad de los diferentes actores viales.</p>
+
                                                                                     <p>Ingresó a la Secretaría Distrital de Movilidad en el 2008 como guía en bicicleta hasta el 2012. Desde mediados del 2015 laboró como profesional de la DCV en el programa ruta pila, trabajando temas relacionados al control del transporte y el servicio especial a tricimotores.</p>
+
                                                                                     <p>Para su gestión como subdirector, asume como reto el lograr que el cuerpo de agentes civiles se afiance y crezca para suplir las necesidades de la ciudad en términos de control al tránsito y transporte.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1030,9 +1008,12 @@
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
                                         <h1>Adriana Ruth Iza Certuche</h1>
+
                                         <h4>Subsecretaria de Servicios a la Ciudadanía</h4>
+
                                         <div class="descripcion-xs">
                                             <p>Administradora de empresas con máster en Estudios Políticos de la Universidad Javeriana. Candidata a magíster en Derecho y Gestión Urbanística y especialista en Evaluación Social de Proyectos en la Universidad de los Andes.</p>
+
                                             <p>Durante su carrera se ha enfocado en la implementación de estrategias de cambio social, es así que, se destaca su labor dentro de la Secretaría Distrital de Movilidad, donde se ha desempeñado desde diferentes cargos: como Directora de Estudios Sectoriales lideró el proceso de sustitución de vehículos de tracción animal para el transporte en Bogotá a nuevas formas de transporte que mejoraran la calidad de vida de las personas menos beneficiadas. Durante su paso por la Oficina de Gestión Social se enfocó en proyectos de eliminación de brechas de género en el sector de tránsito y transporte y creó y lideró el primer Centro de Orientación a Víctimas de Siniestros Viales (ORVI). Como Subsecretaria de Servicio a la Ciudadanía ha logrado innovaciones en la atención a la ciudadanía como la incorporación de mujeres en la flota de operaciones que conducen grúas, estabilizó la puesta en operación plena de la Ventanilla Única de Servicios, articuló en una sola aplicación “Mi Movilidad a un Clic” los servicios de toda la entidad para facilidad de las personas, implementó el nuevo sistema contravencional para disminuir tiempos de atención, además de la ampliación de canales de atención y 5 nuevas salas de cursos pedagógicos.</p>
                                         </div>
                                     </div>
@@ -1062,9 +1043,12 @@
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Alejandra Rojas Posada</h1>
+
                                                             <h4>Directora de Atención al Ciudadano</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Abogada, especialista en Derecho Penal de la Universidad del Rosario. Se ha desempeñado tanto en el sector público, como en el privado, y su experiencia profesional ha sido con mayor énfasis en derecho administrativo.</p>
+
                                                                 <p>Trabajó en la Superintendencia de Puertos y Transporte y en el bufete del abogado penalista Jaime Granados, además en la Unidad de Restitución de Tierras, y en el Ministerio de Agricultura.</p>
                                                             </div>
                                                         </div>
@@ -1089,23 +1073,27 @@
 
                                             <div class="panel-body-mapa">
                                                 <div class="row">
-
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100"><img alt="Foto: Ana María Corredor" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/anamariacorredor.png" title="Foto: Ana María Corredor"></div>
                                                     </div>
+
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Ana María Corredor Yunis</h1>
+
                                                             <h4>Directora de Investigaciones Administrativas al Tránsito y Transporte</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Abogada egresada de la Universidad Santo Tomás, especialista en Derecho Administrativo del Colegio Mayor de Nuestra Señora del Rosario.</p>
+
                                                                 <p>Su experiencia profesional inició realizando su judicatura en la Corte Constitucional, luego trabajó como asesora en materia de contratación para el Instituto de Casas Fiscales del Ejército. Durante algún tiempo se dedicó al litigio y ejerció un rol de profesional de apoyo en la Comisión Nacional de Televisión, donde llevaba temas de asuntos disciplinarios y asesoraba a la directora de la oficina.</p>
+
                                                                 <p>Ingresó en el año 2007 como profesional universitaria de la oficina de Control Interno a la Secretaría Distrital de Movilidad, por un concurso de la Comisión Nacional del Servicio Civil, luego ascendió a profesional especializado en el área de Control Disciplinario; se ha desempeñado en diferentes dependencias y roles dentro de la SDM, entre los cuales se destacan: Dirección de Atención al Ciudadano y Dirección de Contratación.</p>
+
                                                                 <p>Sus quince (15) años de labor en la entidad, donde ha contribuido en temas misionales y de apoyo, le dan grandes herramientas para asumir la gestión del talento humano como el reto más significado, pues Ana María afirma que el personal de la secretaría es alma de la entidad y su propósito es que se sientan en familia, a través de procesos oportunos, eficientes y humanos que deben ser liderados por este equipo.</p>
                                                             </div>
                                                         </div>
                                                     </div>
-
                                                 </div>
 
                                                 <div aria-multiselectable="true" class="panel-group" id="accordionSSC_DIATT" role="tablist "><!-- collapseContravenciones -->
@@ -1123,23 +1111,25 @@
                                                                 <div class="panel-body-mapa">
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-02-2024/ivan_dario_tarazona_manrique.png" alt="Foto: Iván Darío Tarazona Manrique">
-                                                                            </div>
+                                                                            <div class="img-perfil w-100"><img alt="Foto: Iván Darío Tarazona Manrique" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-02-2024/ivan_dario_tarazona_manrique.png"></div>
                                                                         </div>
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Iván Darío Tarazona Manrique</h1>
+
                                                                                 <h4>Subdirector de Contravenciones</h4>
+
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Abogado de la Universidad Santo Tomás y Master en Derecho Público Fundamental de la Universidad de Burdeos, Francia. Se ha desempeñado como abogado litigante, asesor y consultor en materias de derecho administrativo, sancionador y constitucional, entre otras, en distintas entidades públicas como la Agencia Nacional de Defensa Jurídica del Estado, la Empresa de Acueducto y Alcantarillado de Bogotá EAB-ESP, la Gobernación de Cundinamarca, la Asociación de Corporaciones Autónomas Regionales y de Desarrollo Sostenible - ASOCARS, la Contraloría General de la República, el H. Consejo de Estado colombiano y la Cámara de Representantes.</p>
+
                                                                                     <p>En el ámbito académico ha ejercido roles como director de la Especialización en Derecho Administrativo de la Universidad Santo Tomás y de la Maestría en Derecho Contractual Público y Privado, de la misma casa de estudios; así mismo, como docente de posgrados en las Universidades Santo Tomás, El Rosario, de la Sabana, Sergio Arboleda, Libre, Mariana de Pasto y de la Amazonia.</p>
+
                                                                                     <p>En su nueva función, busca contribuir a la buena marcha de la Secretaría Distrital de Movilidad y afianzar las líneas y criterios jurídicos de la Subdirección de Contravenciones, a fin de optimizar el servicio y la garantía de los derechos de la ciudadanía en el proceso contravencional.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1162,24 +1152,25 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
-
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2024/_jhon_alejandro_contreras_torres.png" alt="Foto: Jhon Alejandro Contreras Torres">
-                                                                            </div>
+                                                                            <div class="img-perfil w-100"><img alt="Foto: Jhon Alejandro Contreras Torres" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2024/_jhon_alejandro_contreras_torres.png"></div>
                                                                         </div>
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Jhon Alejandro Contreras Torres</h1>
+
                                                                                 <h4>Subdirector de Control e Investigaciones al Transporte Público</h4>
+
                                                                                 <div class="descripcion-xs">
-                                                                                    <p></p>
+                                                                                    <p>Abogado de la Universidad Libre de Colombia, especializado en derecho administrativo candidato a Magister en Derecho Público. Cuenta con más de 20 años de experiencia en el sector Público y Privado.</p>
+                                                                                    <p>Se ha desempeñado como Jefe Jurídico del Instituto Distrital de Gestión del Riesgo y Cambio Climático de Bogotá (IDIGER), Gerente de la Lotería de Cundinamarca y Gerente de la Beneficencia de Cundinamarca.</p>
+                                                                                    <p>Desde su cargo se compromete a armonizar las exigencias del sector transporte con el cumplimiento a la normatividad vigente, procurando así, consolidar un sistema enfocado en mejorar las condiciones de seguridad, comodidad y accesibilidad en el servicio de transporte público.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1222,12 +1213,18 @@
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
                                         <h1>Paulo Andrés Rincón Garay</h1>
+
                                         <h4>Subsecretario de Gestión Jurídica</h4>
+
                                         <div class="descripcion-xs">
                                             <p>Es abogado de la Universidad Externado de Colombia, especialista en Derecho Administrativo y Administración Pública de la Universidad de Buenos Aires, Argentina, y actualmente se encuentra cursando una Maestría en Ciudades Inteligentes en la misma universidad de donde es egresado.</p>
+
                                             <p>Cuenta con más de doce años de experiencia profesional asesorando jurídicamente al sector público y privado, en temas como regulación normativa y elaboración de política pública, derecho público, derecho de transporte, defensa judicial ante la jurisdicción contencioso administrativa, civil y laboral.</p>
+
                                             <p>Trabajó como asesor del Despacho y también fue Director de Normatividad y Conceptos en la Secretaría Distrital de Movilidad. En la firma GGC Abogados y Financieros fue coordinador jurídico, alrededor de cinco años.</p>
+
                                             <p>En Departamento para la Prosperidad Social trabajó en la Subdirección de Programas Especiales, Grupo Paz, Desarrollo y Estabilización.</p>
+
                                             <p>También representó a la firma CGG Abogados y Financieros Ltda., en el Hospital Simón Bolívar, en la Gobernación de Caldas y en la Industria Licorera de Caldas.</p>
                                         </div>
                                     </div>
@@ -1253,10 +1250,13 @@
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100"><img alt="" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2020/maria-isabel-hernandez.png"></div>
                                                     </div>
+
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Maria Isabel Hernández Pabón</h1>
+
                                                             <h4>Directora de Representación Judicial</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Abogada de la Universidad del Cauca, especialista en derecho público de la Universidad Externado y especialista en derecho contractual de la Universidad del Rosario. Tiene amplia experiencia en manejo de los instrumentos legales para la resolución de conflictos, procesos de gestión de calidad, defensa de entidades públicas en la jurisdicción laboral, administrativa y constitucional en entidades como el Ministerio de Educación Nacional y en entidades del sector solidario de carácter nacional.</p>
                                                             </div>
@@ -1289,10 +1289,14 @@
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Natalia Catalina Cogollo Uyaban</h1>
+
                                                             <h4>Directora de Normatividad y Conceptos</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Abogada de la Universidad Pedagógica y Tecnológica de Colombia, especialista en Derecho Internacional del Transporte de la Universidad Externado y especialista en Gobierno y Gestión Pública Territorial de la Universidad Javeriana.</p>
+
                                                                 <p>Cuenta con experiencia profesional de más de 10 años en entidades como el Congreso de la República en la Comisión Sexta del Senado; el Ministerio de Transporte como consultora del BID en el grupo de Seguridad Vial; en la Secretaría Distrital de Movilidad con el grupo de Normatividad y Conceptos de la antigua Dirección de Asuntos Legales y en la Agencia Nacional de Seguridad Vial como asesora de la Dirección de Comportamiento y de la Oficina Asesora Jurídica.</p>
+
                                                                 <p>Las labores desempeñadas han consistido en la asesoría y acompañamiento jurídico en la estructuración normativa y de conceptos relacionados con tránsito, transporte, seguridad vial, así como en la estructuración de política pública en el sector transporte. Asume esta dirección con los retos de innovar en el proceso de estructuración normativa de la SDM y contribuir en la conformación de un marco normativo claro, con calidad técnica y jurídica que permita el cumplimiento de la misión y funciones de la entidad.</p>
                                                             </div>
                                                         </div>
@@ -1320,19 +1324,23 @@
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100"><img alt="Foto Maria Jimena Yáñez Gelvez" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-02-2024/maria_jimena_yanez.png"></div>
                                                     </div>
+
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Maria Jimena Yáñez Gelvez</h1>
+
                                                             <h4>Directora de Contratación</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Abogada de la Universidad del Rosario, especialista en Derecho Comercial y Derecho Contractual de la misma institución. Adicionalmente, posee un título de Magíster en Derecho Internacional de los Negocios de ESADE Law School.</p>
+
                                                                 <p>Cuenta con una extensa trayectoria profesional relacionada con la dirección en el sector público con amplios conocimientos en contratación estatal y derecho administrativo.</p>
+
                                                                 <p>Ha estado vinculada a varias entidades del orden nacional como la Agencia Nacional del Espectro, la Unidad Nacional de Protección y la Agencia Nacional de Hidrocarburos, en las cuales desempeñó roles orientados a la formulación de estrategias, planes y programas en aras del fortalecimiento jurídico de estas entidades.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
                                     </div>
@@ -1359,12 +1367,18 @@
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Hernan Sebastián Cortés Osorio</h1>
+
                                                             <h4>Director de Gestión de Cobro</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Abogado de la Universidad la Gran Colombia, conciliador extrajudicial en derecho, con estudios específicos y afianzados en contratación internacional, además, especialista en Instituciones Jurídico Procesales de la Universidad Nacional de Colombia. Experiencia particular en procesos de cobro jurídico civil y cobro coactivo administrativo, en análisis probatorio, en procesos disciplinarios, emisión de actos administrativos decisorios y conceptos jurídicos dentro de las ramas civil y administrativa.</p>
+
                                                                 <p>Ingresó en el 2016 como contratista a la Dirección de Gestión de Cobro (antes Subdirección de Gestión Coactiva) de la Secretaría de Movilidad y luego pasó a planta provisional donde ha ido escalando varias posiciones gracias al liderazgo, el trabajo en equipo y la responsabilidad.</p>
+
                                                                 <p>Con conocimientos avanzados en el idioma inglés y los sistemas informáticos, se propone desarrollar precisas e innovadoras estrategias para el mejoramiento y óptimo funcionamiento de la Dirección a su cargo.</p>
+
                                                                 <p>También ha laborado como abogado en la Junta Central de Contadores, en la Universidad Nacional de Colombia y Sistemcobro S.A.S.</p>
+
                                                                 <p>&nbsp;</p>
                                                             </div>
                                                         </div>
@@ -1398,23 +1412,23 @@
                         </div>
 
                         <div class="panel-body-mapa">
-
                             <div class="row">
                                 <div class="col-xs-12 col-sm-4 text-center">
-                                    <div class="img-perfil w-100"><img alt="" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-04-2020/paula-tatiana-arenas.jpg"></div>
+                                    <div class="img-perfil w-100">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/clemencia_rojas_arias.png" alt="Foto: Clemencia Rojas Arias">
+                                    </div>
                                 </div>
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
-                                        <h1>Paula Tatiana Arenas González</h1>
+                                        <h1>Clemencia Rojas Arias</h1>
                                         <h4>Subsecretaria de Gestión Corporativa</h4>
                                         <div class="descripcion-xs">
-                                            <p>Es abogada de la Universidad Católica y Profesional en Relaciones Internacionales de la Universidad Jorge Tadeo Lozano, donde también cursó la especialización en Gestión Pública. Además, es especialista en Derecho Administrativo de la Universidad Santo Tomás, y tiene una maestría en Derecho en la Universidad Sergio Arboleda.</p>
-                                            <p>Su más reciente cargo fue como Subdirectora de Recursos Humanos del IDU, donde estuvo por espacio de tres años. Durante siete años estuvo en la Comisión Nacional del Servicio Civil, donde fue Gerente de Provisión del Empleo, y también se desempeñó como asesora de despacho. A su experiencia laboral se le suma empleos en la Fiscalía General de la Nación, y en una caja de compensación familiar.</p>
+                                            <p>Clemencia Rojas Arias es abogada de la Universidad de Caldas, con especialización en Derecho Administrativo de la misma universidad, especialización en Contratación Estatal y maestría en Derecho Público, ambas de la Universidad Externado de Colombia.</p>
+                                            <p>Con una experiencia de 29 años en el sector público, a nivel nacional y distrital, ha destacado en roles directivos de gran responsabilidad, demostrando habilidades sólidas para liderar equipos. En su nuevo rol, se enfrenta al desafío de consolidar la gestión institucional hacia una Secretaría de Movilidad más moderna, enfocada en la transparencia en sus procesos y contribuyendo activamente al cumplimiento de sus objetivos.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
 
                         <div class="panel-body-mapa">
@@ -1431,17 +1445,20 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
-
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100"><img alt="Luz Mary Peralta" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2022/luzmaryperalta.png" title="Luz Mary Peralta"></div>
                                                     </div>
+
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Luz Mary Peralta Rodríguez</h1>
+
                                                             <h4>Directora Administrativa y Financiera</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Contadora Pública de la Universidad Antonio Nariño, especialista en Derecho Tributario y Aduanero, Finanzas y Gestión Pública, con más de 15 años de labor en el sector público, amplia experiencia en coordinación de equipos de trabajo y ejecución de auditorías; capacidades para la gestión del talento humano, eficiencia en la ejecución presupuestal, causación contable y relacionamiento estratégico.</p>
+
                                                                 <p>Entre las entidades que ha trabajado se encuentran: Auditoría General de la Nación, Ministerio de Tics, Contraloría Distrital de Bogotá, Empresa de Acueducto y Aguas de Bogotá, Instituto Distrital de Gestión de Riesgos y Cambio Climático, Secretaría Distrital de Desarrollo Económico, entre otras. Trayectoria en la que ha obtenido diferentes logros entre los que se destacan: la coordinación de seminarios y talleres a nivel local y distrital asociados con la participación del sector privado en el mejoramiento de la prestación de los servicios públicos, y la conformación de Mesas Ambientales locales con líderes ambientales, para la protección y adecuado uso de los recursos naturales.</p>
                                                             </div>
                                                         </div>
@@ -1461,24 +1478,27 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
-
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100"><img alt="Foto: Jose David Robayo Fonseca" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-02-2024/jose_david_robayo.png"></div>
                                                                         </div>
+
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Jose David Robayo Fonseca</h1>
+
                                                                                 <h4>Subdirector Financiero</h4>
+
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Profesional en Comercio Internacional egresado de la Escuela Colombiana de Carrera Industriales, con especialización en Finanzas y Administración Pública de la Universidad Militar Nueva Granada. Actualmente, se encuentra cursando un Máster Universitario en Dirección en la Gestión Pública.</p>
+
                                                                                     <p>Cuenta con una extensa trayectoria profesional con amplios conocimientos en contratación estatal, manejos presupuestales así como en el desarrollo e implementación de ERP presupuestales como SICAPITAL Y BOGDATA.</p>
+
                                                                                     <p>Se encuentra vinculado en calidad de contratista en la Secretaría Distrital de Movilidad desde el año 2008. Dentro de la Subdirección Financiera ha venido desarrollando actividades de ejecución del presupuesto entre las cuales se incluyen expedición de Certificados de Disponibilidad y Registro Presupuestal, seguimiento y programación del PAC, entre otras actividades.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1497,19 +1517,18 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
-
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100"><img alt="Sandra Milena Vargas Jurado" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/sandramilenavargasjurado.png" title="Sandra Milena Vargas Jurado"></div>
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/ilba_milady_vargas_guiza.png" alt="Foto: Ilba Milady Vargas Guiza">
+                                                                            </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Sandra Milena Vargas Jurado</h1>
+                                                                                <h1>Ilba Milady Vargas Guiza</h1>
                                                                                 <h4>Subdirectora Administrativa</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Abogada de la Universidad Autónoma de Colombia, especialista en Derecho Administrativo y actualmente en proceso de grado de la maestría en Derecho Administrativo de la Universidad Santo Tomás. Certificada como auditora interna del Sistema de Gestión EFR – (Empresa Familiarmente Responsable) de la Fundación Másfamilia de España, con experiencia laboral tanto en el sector público como en el privado.</p>
-                                                                                    <p>Trabajó en la Secretaría Distrital de Movilidad los años 2020 y 2021, vinculada a la Dirección Administrativa y Financiera y apoyando en general varios procesos de la Subsecretaría de Gestión Corporativa y sus dependencias adscritas. Regresa con el reto de continuar consolidando equipo, dispuesta a sacar los logros y objetivos adelante. También ha laborado en entidades distritales como el IDU, en donde estuvo por más de dos años en la Dirección Técnica Administrativa y Financiera, esta experiencia le permitió desempeñarse en actividades relacionadas con los procesos administrativos como: gestión documental, adquisición de bienes y servicios, sistema de gestión de la calidad y formulación de políticas estratégicas.</p>
-                                                                                    <p>De igual forma, dentro de su experiencia laboral se encuentra su paso por la Comisión Nacional del Servicio Civil, donde ejerció el cargo de Asesora de Despacho y su desempeño como Directora Comercial de Servicios de Información y Valor Agregado SAS - SINVA, entre otros. En el desarrollo de su profesión como abogada posee mayor énfasis en asuntos contractuales y en general en los diferentes campos del derecho administrativo.</p>
+                                                                                    <p></p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1539,24 +1558,27 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
-
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100"><img alt="Paola Adriana Corona Miranda" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/paola_adriana_corona_miranda.png" title="Paola Adriana Corona Miranda"></div>
                                                     </div>
+
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Paola Adriana Corona Miranda</h1>
+
                                                             <h4>Directora de Talento Humano</h4>
+
                                                             <div class="descripcion-xs">
                                                                 <p>Es administradora de empresas y con especialización en Finanzas y Administración Pública de la Universidad Militar Nueva Granada. Es líder de la política de derechos humanos y empresa del sector de comercio, industria y turismo. Líder en temas de responsabilidad social, derechos humanos y manager en la gestión de la conciliación de EFR (Empresa Familiarmente Responsable), de la fundación MAS Familia de España.</p>
+
                                                                 <p>También está certificada como Auditoria de Calidad Seguridad y Salud en el Trabajo y el Medio Ambiente y tiene cursos en gestión de proyectos.</p>
+
                                                                 <p>Por espacio de 10 años estuvo al servicio de la Superintendencia de Industria y Comercio, donde se desempeñó en la Secretaría General, apoyando todos los procesos de talento humano, gestión documental, financiera y recursos físicos, entre otros.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-
                                             </div>
                                         </div>
                                     </div>
@@ -1963,4 +1985,3 @@
         });
     });
 </script>
-
