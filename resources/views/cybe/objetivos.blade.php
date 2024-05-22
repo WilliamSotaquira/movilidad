@@ -76,45 +76,59 @@
             intro: 'lorem ipsum dolor sit amet',
 
             pills: [{
-                    name: 'Metas',
+                    name: 'Metas motos',
                     texto: 'Estas metas aceleran el proceso de transición a vehículos de cero emisiones y ayudan a mitigar la contaminación ambiental y los efectos en la salud pública provocados por la exposición a concentración de material particulado.',
-                    lista: [{
-                            textMeta: 'A partir de 2032, sólo se registrarán en Bogotá motocicletas de cero emisiones.'
+                    items: [{
+                            textMeta: '1. A partir de 2032, sólo se registrarán en Bogotá motocicletas de cero emisiones.'
                         },
                         {
-                            textMeta: 'Desde 2028, sólo circularán motocicletas de cero emisiones en zonas con restricción de circulación, de acuerdo con la clasificación del etiquetado ambiental.'
+                            textMeta: '2. Desde 2028, sólo circularán motocicletas de cero emisiones en zonas con restricción de circulación, de acuerdo con la clasificación del etiquetado ambiental.'
                         }
                     ],
-                    'm1': 'A partir de 2032, sólo se registrarán en Bogotá motocicletas de cero emisiones.',
-                    'm2': 'Desde 2028, sólo circularán motocicletas de cero emisiones en zonas con restricción de circulación, de acuerdo con la clasificación del etiquetado ambiental.'
                 },
+
                 {
                     name: 'Incentivos',
                     texto: 'Estos incentivos buscan promover la adquisición de motocicletas de cero emisiones y fomentar su uso en la ciudad.',
                     imgIncentivos: 'img/motocicletas.jpg',
-                    i1: 'Exención del impuesto de registro para motocicletas de cero emisiones.',
-                    i2: 'Exención del impuesto de circulación para motocicletas de cero emisiones.'
+                    items: [{
+                            titulo: 'Descuento en arancel',
+                            combustion: 'Gravamen arancelario del treinta y cinco por ciento (35%)',
+                            hibrido: 'Gravamen arancelario del cinco por ciento (5%)',
+                            electrico: 'Gravamen arancelario del cero por ciento (0%)',
+                            competencia: 'Nacion',
+                            norma: 'Decreto 2051 de 2019',
+                        },
+                        {
+                            textMeta: 'Exención del impuesto de circulación para motocicletas de cero emisiones.'
+                        }
+                    ],
                 },
                 {
                     name: 'Productos clave',
                     texto: 'Estos productos clave buscan promover la adquisición de motocicletas de cero emisiones y fomentar su uso en la ciudad.',
                     txtProductosClave: 'Estos productos clave buscan promover la adquisición de motocicletas de cero emisiones y fomentar su uso en la ciudad.',
                     imgProductosClave: 'img/motocicletas.jpg',
-                    c1: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.',
-                    c2: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.'
+                    items: [{
+                            textMeta: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.'
+                        },
+                        {
+                            textMeta: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.'
+                        }
+                    ],
                 }
             ]
 
         },
         {
-            title: 'Vehiculos particulares',
+            title: 'Vehículos particulares',
             segmentos: 'M1 y N1',
             intro: 'Estas metas aceleran el proceso de transición a vehículos de cero emisiones y ayudan a mitigar la contaminación ambiental y los efectos en la salud pública provocados por la exposición a concentración de material particulado.',
 
             pills: [{
                     name: 'Metas Carro',
                     texto: '',
-                    lista: [{
+                    items: [{
                             name: 'Meta 1',
                             textMeta: 'Desde 2028, sólo circularán vehículos de cero emisiones en zonas con restricción de circulación, de acuerdo con la clasificación del etiquetado ambiental.'
                         },
@@ -142,15 +156,21 @@
                     name: 'Incentivos Carro',
                     texto: 'Estos incentivos buscan promover la adquisición de motocicletas de cero emisiones y fomentar su uso en la ciudad.',
                     imgIncentivos: 'img/motocicletas.jpg',
-                    i1: 'Exención del impuesto de registro para motocicletas de cero emisiones.',
-                    i2: 'Exención del impuesto de circulación para motocicletas de cero emisiones.'
+                    items: [{
+                        textMeta: 'Exención del impuesto de registro para motocicletas de cero emisiones.'
+                    }, {
+                        textMeta: 'Exención del impuesto de circulación para motocicletas de cero emisiones.'
+                    }],
                 },
                 {
                     name: 'Productos clave Carro',
                     texto: 'Estos productos clave buscan promover la adquisición de motocicletas de cero emisiones y fomentar su uso en la ciudad.',
                     imgProductosClave: 'img/motocicletas.jpg',
-                    c1: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.',
-                    c2: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.'
+                    items: [{
+                        textMeta: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.'
+                    }, {
+                        textMeta: 'Desarrollo de una estrategia de movilidad eléctrica para motocicletas.'
+                    }],
                 }
             ]
 
@@ -192,66 +212,55 @@
     function cargarPills(id) {
 
         const pill = document.querySelector('.b2 .cpt2 .nav-pills');
-        const content = document.querySelector('.b2 .cpt2 .tab-content');
-
-        // const items = document.createElement('div');
-        // items.className = 'items-metas';
-        // document.querySelector('.b2 .cpt2 .tab-content').appendChild(items);
 
         for (let i = 0; i < datos[id].pills.length; i++) {
-
-
             let li = document.createElement('li');
             li.innerHTML = `<a data-toggle="pill" href="#tab-${[i]}">${datos[id].pills[i].name}</a>`;
             pill.appendChild(li);
-
-            let div = document.createElement('div');
-            div.id = `tab-${[i]}`;
-            div.className = 'tab-pane fade';
-            div.innerHTML = //html
-                `
-            <div class="cpt-1">
-            <h3 class="title title-type-2 title-id-b2cpt2">${datos[id].pills[i].name}</h3>
-            <p>${datos[id].pills[i].texto}</p>
-            </div>
-            <div class="cpt-2"></div>
-            `;
-            content.appendChild(div);
-
-
-            if (datos[id].pills[i].lista) {
-                // datos[id].pills[i].lista.forEach(meta => {
-                //     let item = document.createElement('div');
-                //     item.innerHTML = meta.textMeta;
-                //     document.querySelector(`#tab-${[i]} .cpt-2`).appendChild(item);
-                // });
-                let count = 0;
-                for (let j = 0; j < datos[id].pills[i].lista.length; j++) {
-                    let item = document.createElement('div');
-                    item.innerHTML = datos[id].pills[i].lista[j].textMeta;
-                    document.querySelector(`#tab-${[i]} .cpt-2`).appendChild(item);
-                    count++;
-                }
-
-                document.querySelector(`#tab-${[i]} .cpt-2`).classList.add(`gtc-${count}`);
-            }
-
         }
 
-        document.querySelector('.b2 .cpt2 .nav-pills li:first-child').classList.add('active');
-        document.querySelector('.b2 .cpt2 .tab-content div:first-child').classList.add('in', 'active');
+        cargarMetas(id);
 
+        document.querySelector('.b2 .cpt2 .nav-pills li:first-child').classList.add('active');
 
     }
 
 
-    // function cargarMetas() {
-    //     const list = datos[id].metas.forEach(meta => {
-    //         console.log(meta.description);
-    //         let li = document.createElement('li');
-    //         li.innerHTML = meta.description;
-    //         document.querySelector('.tab-content #home').appendChild(li);
-    //     });
-    //     console.log(list);
-    // }
+    function cargarMetas(id) {
+
+        const content = document.querySelector('.b2 .cpt2 .tab-content');
+        console.log(id + ' cargarMetas');
+
+        let div = document.createElement('div');
+        div.i = `tab-${[0]}`;
+        div.className = 'tab-pane fade';
+        div.innerHTML = //html
+            `
+             <div class="cpt-1">
+             <h3 class="title title-type-2 title-id-b2cpt2">${datos[id].pills[0].name}</h3>
+             <p>${datos[id].pills[0].texto}</p>
+             </div>
+             <div class="cpt-2"></div>
+             `;
+        content.appendChild(div);
+
+        document.querySelector('.b2 .cpt2 .tab-content div:first-child').classList.add('in', 'active');
+
+        if (datos[id].pills[i].items) {
+            datos[id].pills[i].items.forEach(meta => {
+                let item = document.createElement('div');
+                // let fragment = [meta.textMeta +' '+meta.titulo +' '+meta.combustion +' '+meta.hibrido +' '+meta.electrico +' '+meta.competencia +' '+meta.norma];
+                item.innerHTML = meta.textMeta;
+                document.querySelector(`#tab-${[i]} .cpt-2`).appendChild(item);
+            });
+            // for (let j = 0; j < datos[id].pills[i].items.length; j++) {
+            //     let item = document.createElement('div');
+            //     item.innerHTML = datos[id].pills[i].items[j];
+            //     document.querySelector(`#tab-${[i]} .cpt-2`).appendChild(item);
+            // }
+
+            // document.querySelector(`#tab-${[i]} .cpt-2`).classList.add(`gtc-${count}`);
+        }
+
+    }
 </script>
