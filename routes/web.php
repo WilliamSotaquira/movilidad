@@ -316,5 +316,9 @@ Route::view('/2024/02/mapaCiclorrutas', '2024/02/mapaCiclorrutas');
 // Contenido marzo 2024
 Route::view('/2024/03/pdd', '2024/03/pdd');
 
-// Contenido marzo 2024
-Route::view('/2024/03/siservipum', '2024/03/siservipum');
+// Contenido abril 2024
+Route::view('/2024/04/siservipum', '2024/04/siservipum');
+Route::view('/2024/04/participacion', '2024/04/participacion');
+
+// Contenido mayo 2024
+Route::view('/2024/05/desvios', '2024/05/desvios');
