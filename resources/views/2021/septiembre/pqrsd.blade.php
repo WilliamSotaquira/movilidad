@@ -1,13 +1,10 @@
 @extends ('welcome')
 @section ('contenido')
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Signika:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Signika:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-
-<style>
-    .field-item.even h2 {
+<style type="text/css">.field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
     }
@@ -360,335 +357,341 @@
     @media(min-width:1200px) {}
 </style>
 <div class="container-fluid seccion">
+	<div class="row"><!-- xs -->
+		<div class="col-xs-12 visible-xs-12 visible-xs-block">
+			<div class="h3-xs d-flex align-items-center">
+				<h1 class="text-center w-75">Tipos de Peticiones</h1>
+			</div>
+		</div>
+		<!-- sm -->
 
-    <div class="row">
-        <!-- xs -->
-        <div class="col-xs-12 visible-xs-12 visible-xs-block">
-            <div class="h3-xs d-flex align-items-center">
-                <h1 class="text-center w-75">Tipos de Peticiones</h1>
-            </div>
-        </div>
-        <!-- sm -->
-        <div class="col-sm-12 hidden-xs">
-            <div class="h3-sm d-flex align-items-center">
-                <h1 class="text-center w-75">Tipos de Peticiones</h1>
-            </div>
-        </div>
-    </div>
+		<div class="col-sm-12 hidden-xs">
+			<div class="h3-sm d-flex align-items-center">
+				<h1 class="text-center w-75">Tipos de Peticiones</h1>
+			</div>
+		</div>
+	</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg1">
-                    <div class="numero">
-                        <h1>1</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Derecho de Petición en Interés General</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Solicitud que busca respuesta a una situación que concierne a un colectivo de individuos.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono1.png' alt='Dercho de petición' title='Dercho de petición'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg1">
+					<div class="numero">
+						<h1>1</h1>
+					</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg1">
-                    <div class="numero">
-                        <h1>2</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Derecho de Petición en Interés Particular</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Solicitud en busca de una respuesta a una situación que le afecta ole concierne a un ciudadano.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono2.png' alt='Dercho de petición' title='Dercho de petición'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Derecho de Petición en Interés General</h3>
+					</div>
+				</div>
+			</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg1">
-                    <div class="numero">
-                        <h1>3</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Queja</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Manifestación de descontento o inconformidad en relación con una conducta que se considera irregular de uno o varios servidores públicos en el desarrollo de sus funciones.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono3.png' alt='Queja' title='Queja'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Solicitud que busca respuesta a una situación que concierne a un colectivo de individuos.</p>
+					</div>
+				</div>
+			</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg1">
-                    <div class="numero">
-                        <h1>4</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Reclamo</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Manifestación de descontento o inconformidad por un proceso relacionado con la prestación de servicios.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono4.png' alt='Icono de reclamo' title='Icono de reclamo'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Dercho de petición" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono1.png" title="Dercho de petición"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg1">
-                    <div class="numero">
-                        <h1>5</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Sugerencia</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Propuesta para mejorar un proceso relacionado con la prestación de un tramite o servicio.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono5.png' alt='Icono de bombillo' title='Icono de bombillo'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg1">
+					<div class="numero">
+						<h1>2</h1>
+					</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg1">
-                    <div class="numero">
-                        <h1>6</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Denuncia posible Acto de Corrupción</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Es la puesta en conocimiento de un presunta conducta irregular por parte de un servidor publico.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono6.png' alt='Icono de balanza' title='Icono de balanza'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Derecho de Petición en Interés Particular</h3>
+					</div>
+				</div>
+			</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg1">
-                    <div class="numero">
-                        <h1>7</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Felicitación</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Manifestación positiva hacia un funcionario o la entidad por la satisfacción del servicio prestado.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono7.png' alt='Icono de manos aplaudiendo' title='Icono de manos aplaudiendo'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Solicitud en busca de una respuesta a una situación que le afecta ole concierne a un ciudadano.</p>
+					</div>
+				</div>
+			</div>
 
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Dercho de petición" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono2.png" title="Dercho de petición"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg2">
-                    <div class="numero">
-                        <h1>8</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Solicitud de Acceso a la Información</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Solicitud para tener acceso a la información sobre las funciones de la entidad y sus distintas dependencias.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono8.png' alt='Icono de lupa' title='Icono de lupa'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg1">
+					<div class="numero">
+						<h1>3</h1>
+					</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg2">
-                    <div class="numero">
-                        <h1>9</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Solicitud de Copias</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Reproducción y entrega de documentos que no tengan el carácter de reservado al interior.</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono9.png' alt='Icono de documentos' title='Icono de documentos'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Queja</h3>
+					</div>
+				</div>
+			</div>
 
-    <div class="box-peticion">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-numero bg3">
-                    <div class="numero">
-                        <h1>10</h1>
-                    </div>
-                    <div class="descripcion">
-                        <h3 class="panel-title text-center">Consulta</h3>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-6'>
-                <div class="box-descripcion">
-                    <div>
-                        <p>Consulta a las autoridades en relación con las materias a su cargo. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-                    </div>
-                </div>
-            </div>
-            <div class='col-xs-12 col-sm-3'>
-                <div class="box-imgpeticion">
-                    <div>
-                        <div class='imagen'>
-                            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono10.png' alt='Icono signo de pregunta' title='Icono signo de pregunta'>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Manifestación de descontento o inconformidad en relación con una conducta que se considera irregular de uno o varios servidores públicos en el desarrollo de sus funciones.</p>
+					</div>
+				</div>
+			</div>
 
-    <style>
-        .box-peticion {
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Queja" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono3.png" title="Queja"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg1">
+					<div class="numero">
+						<h1>4</h1>
+					</div>
+
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Reclamo</h3>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Manifestación de descontento o inconformidad por un proceso relacionado con la prestación de servicios.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Icono de reclamo" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono4.png" title="Icono de reclamo"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg1">
+					<div class="numero">
+						<h1>5</h1>
+					</div>
+
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Sugerencia</h3>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Propuesta para mejorar un proceso relacionado con la prestación de un tramite o servicio.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Icono de bombillo" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono5.png" title="Icono de bombillo"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg1">
+					<div class="numero">
+						<h1>6</h1>
+					</div>
+
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Denuncia posible Acto de Corrupción</h3>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Es la puesta en conocimiento de un presunta conducta irregular por parte de un servidor publico.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Icono de balanza" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono6.png" title="Icono de balanza"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg1">
+					<div class="numero">
+						<h1>7</h1>
+					</div>
+
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Felicitación</h3>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Manifestación positiva hacia un funcionario o la entidad por la satisfacción del servicio prestado.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Icono de manos aplaudiendo" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono7.png" title="Icono de manos aplaudiendo"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg2">
+					<div class="numero">
+						<h1>8</h1>
+					</div>
+
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Solicitud de Acceso a la Información</h3>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Solicitud para tener acceso a la información sobre las funciones de la entidad y sus distintas dependencias.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Icono de lupa" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono8.png" title="Icono de lupa"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg2">
+					<div class="numero">
+						<h1>9</h1>
+					</div>
+
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Solicitud de Copias</h3>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Reproducción y entrega de documentos que no tengan el carácter de reservado al interior.</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Icono de documentos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono9.png" title="Icono de documentos"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="box-peticion">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-numero bg3">
+					<div class="numero">
+						<h1>10</h1>
+					</div>
+
+					<div class="descripcion">
+						<h3 class="panel-title text-center">Consulta</h3>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-6">
+				<div class="box-descripcion">
+					<div>
+						<p>Consulta a las autoridades en relación con las materias a su cargo. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-xs-12 col-sm-3">
+				<div class="box-imgpeticion">
+					<div>
+						<div class="imagen"><img alt="Icono signo de pregunta" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono10.png" title="Icono signo de pregunta"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<style type="text/css">.box-peticion {
             background-color: rgba(240, 240, 240, 1);
             padding: 5px;
             display: inline-flex;
@@ -782,11 +785,8 @@
             max-width: 140px;
             margin: auto;
         }
-    </style>
-
-    <div class="row rh">
-
-        <!--         <div class="col-xs-12 col-sm-6 col-md-3">
+	</style>
+	<div class="row rh"><!--         <div class="col-xs-12 col-sm-6 col-md-3">
             <div class="panel bs panel-default">
                 <div class="panel-heading ph-c1">
                     <h1>1</h1>
@@ -799,280 +799,271 @@
                     <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/28-08-2021/icono1.png" alt="Manos alzadas participando" title="Derecho de petición en interés general">
                 </div>
             </div>
-        </div> -->
+        </div> --></div>
 
+	<hr>
+	<div class="row">
+		<div class="col-xs-12 col-sm-6">
+			<div class="termino-box c-verde">
+				<div>
+					<h3>Término para resolver*</h3>
 
+					<p>LEY 1755 de 2015</p>
+				</div>
+			</div>
+		</div>
 
-
-    </div>
-
-    <hr>
-    <div class="row">
-        <div class="col-xs-12 col-sm-6">
-            <div class="termino-box c-verde">
-                <div class="">
-                    <h3>Término para resolver*</h3>
-                    <p>LEY 1755 de 2015</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-xs-12 col-sm-6 bs">
-            <div class="table-responsive">
-                <table class="table">
-                    <tr>
-                        <th class="text-center">Color:</th>
-                        <th class="text-center">Termino:</th>
-                    </tr>
-                    <tr>
-                        <td class="text-center" style="margin: auto;">
-                            <p class="pc1"></p>
-                        </td>
-                        <td class="text-center">
-                            <p>15 días hábiles</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">
-                            <p class="pc2"></p>
-                        </td>
-                        <td class="text-center">
-                            <p>10 días hábiles</p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="text-center">
-                            <p class="pc3"></p>
-                        </td>
-                        <td class="text-center">
-                            <p>30 días hábiles</p>
-                        </td>
-                    </tr>
-                    <!-- <tr class="c-verde">
+		<div class="col-xs-12 col-sm-6 bs">
+			<div class="table-responsive">
+				<table class="table">
+					<tbody>
+						<tr>
+							<th class="text-center">Color:</th>
+							<th class="text-center">Termino:</th>
+						</tr>
+						<tr>
+							<td class="text-center" style="margin: auto;">
+								<p class="pc1">&nbsp;</p>
+							</td>
+							<td class="text-center">
+								<p>15 días hábiles</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="text-center">
+								<p class="pc2">&nbsp;</p>
+							</td>
+							<td class="text-center">
+								<p>10 días hábiles</p>
+							</td>
+						</tr>
+						<tr>
+							<td class="text-center">
+								<p class="pc3">&nbsp;</p>
+							</td>
+							<td class="text-center">
+								<p>30 días hábiles</p>
+							</td>
+						</tr>
+						<!-- <tr class="c-verde">
                         <td class="text-center" colspan="2"><strong>Ley 1755 de 2015</strong></td>
-                    </tr> -->
-                </table>
-            </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row">
-        <div class="c-verde-2 bs">
-            <h3 class="text-center">Canales donde se puede realizar</h3>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-xs-12 col-sm-4">
-            <div class="btn-icon bs">
-                <div>
-                    <h3>Telefónico</h3>
-                </div>
-                <div>
-                    <i class="fa fa-phone fa-4x" aria-hidden="true"></i>
-                </div>
-                <div>
-                    <p class="p-btn-icon">Teléfono <br><strong><a href="6013649400">(601) 364 9400</a>, opción 2</strong></p>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-4">
-            <div class="btn-icon bs">
-                <a href="https://www.movilidadbogota.gov.co/web/govi-sdqs/crear" target="_blank" rel="noopener noreferrer">
-                    <div>
-                        <h3>Virtual</h3>
-                    </div>
-                    <div>
-                        <i class="fa fa-envelope-o fa-4x" aria-hidden="true"></i>
-                    </div>
-                    <div>
-                        <p class="p-btn-icon">Correo institucional <br><strong> Bogotá te escucha</strong></p>
-                    </div>
-                </a>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-4">
-            <div class="btn-icon bs">
-                <a href="http://www.movilidadbogota.gov.co/web/puntos_de_atencion" target="_blank" rel="noopener noreferrer">
-                    <div>
-                        <h3>Presencial</h3>
-                    </div>
-                    <div>
-                        <i class="fa fa-university fa-4x" aria-hidden="true"></i>
-                    </div>
-                    <div>
-                        <p class="p-btn-icon">Puntos de <br> <strong>Correspondencia </strong></p>
-                    </div>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-xs 12 col-sm-6">
-            <div class="text-center p-pn bs">
-                General
-                <h3>Radicación Documentos</h3>
-                <p class=""><a href="mailto:contactociudadano@movilidadbogota.gov.co">contactociudadano@movilidadbogota.gov.co</a></p>
-            </div>
-        </div>
-        <div class="col-xs 12 col-sm-6">
-            <div class="text-center p-pn bs">
-                Exclusivo
-                <h3>Notificaciones Judiciales</h3>
-                <p class=""><a href="mailto:judicial@movilidadbogota.gov.co">judicial@movilidadbogota.gov.co</a></p>
-            </div>
-        </div>
-    </div>
-    <hr>
-    <div class="row">
-        <div class="col-xs-12">
-            <h2 class="text-center"><strong>MÁS SERVICIOS</strong></h2>
-        </div>
-    </div>
-    <br>
+                    </tr> --></tbody>
+				</table>
+			</div>
+		</div>
+	</div>
 
-    <div class="row">
+	<hr>
+	<div class="row">
+		<div class="c-verde-2 bs">
+			<h3 class="text-center">Canales donde se puede realizar</h3>
+		</div>
+	</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://bogota.gov.co/sdqs/crear-peticion" target="_blank" rel="noopener noreferrer">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/imagen-bogota-te-escucha.jpg" alt="Logo Bogotá te escucha" title="Registre PQRS">
-                    <div class="caption">
-                        <div>
-                            <h3>Registre <br> PQRSD</h3>
-                            <p>Aquí podrás crear peticiones con tu usuario, con las diferentes opciones que te ofrece el sistema. <br> </p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+	<div class="row">
+		<div class="col-xs-12 col-sm-4">
+			<div class="btn-icon bs">
+				<div>
+					<h3>Telefónico</h3>
+				</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://bogota.gov.co/sdqs/consultar-peticion" target="_blank" rel="noopener noreferrer">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/imagen-bogota-te-escucha.jpg" alt="Logo Bogotá te escucha" title="Consulte su petición">
-                    <div class="caption">
-                        <div>
-                            <h3>Consulte su <br> Petición</h3>
-                            <p>Aquí podrás consultar las peticiones con tu usuario, siguiendo las diferentes opciones.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+				<div>&nbsp;</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://gestiondocumental.movilidadbogota.gov.co/orfeo-api/" target="_blank" rel="noopener noreferrer">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/orfeo.png" style="height: 134px;" alt="Logo ORFEO" title="Consulte su radicado">
-                    <div class="caption">
-                        <div>
-                            <h3>Consulte Radicado SDM</h3>
-                            <p>Aquí podrá consultar, con su número de radicado, el estado de su petición.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+				<div>
+					<p class="p-btn-icon">Teléfono<br>
+						<strong><a href="6013649400">(601) 364 9400</a>, opción 2</strong></p>
+				</div>
+			</div>
+		</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/derechos-anonimos" target="_blank" rel="noopener noreferrer">
-                    <!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> -->
-                    <div class="caption">
-                        <div>
-                            <h3>Notificaciones Derechos de <br> Petición Anónimos</h3>
-                            <p>Aquí reposan las respuesta que no tienen datos de los peticionarios</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+		<div class="col-xs-12 col-sm-4">
+			<div class="btn-icon bs">
+				<div>
+					<h3><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php" rel="noopener noreferrer" target="_blank">Virtual</a></h3>
+				</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf_XK6RvcctCN4nyePLpdZ-rA_dND8Y_fZff3jZyBzx8FUSQw/viewform?vc=0&c=0&w=1" target="_blank" rel="noopener noreferrer">
-                    <!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> -->
-                    <div class="caption">
-                        <div>
-                            <h3>Califique Nuestro Servicio</h3>
-                            <p>Apreciado ciudadano: Lo invitamos a calificar la calidad de la respuesta a su requerimiento, ésto nos ayudará a prestar un mejor servicio.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+				<div>&nbsp;</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/respuestas-a-oficio-sin-notificar" target="_blank" rel="noopener noreferrer">
-                    <!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> -->
-                    <div class="caption">
-                        <div>
-                            <h3>Respuestas a Oficio sin Notificar</h3>
-                            <p>Respuestas a sus solicitudes que no pudieron ser entregadas a la dirección física registrada.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+				<div>
+					<p class="p-btn-icon"><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php" rel="noopener noreferrer" target="_blank">Correo institucional<br>
+						<strong>Bogotá te escucha</strong></a></p>
+				</div>
+			</div>
+		</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/05-01-2023/pm04-rg01_reglamento_interno_para_la_gestion_de_pqrsd_v.2.0_16-12-2022_0.pdf" target="_blank" rel="noopener noreferrer">
-                    <div class="caption">
-                        <div>
-                            <h3>Reglamento Interno de Gestión PQRSD</h3>
-                            <p>Con el propósito de orientar de forma clara y concreta sobre el manejo de las peticiones.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+		<div class="col-xs-12 col-sm-4">
+			<div class="btn-icon bs">
+				<div>
+					<h3><a href="http://www.movilidadbogota.gov.co/web/puntos_de_atencion" rel="noopener noreferrer" target="_blank">Presencial</a></h3>
+				</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/carta_de_compromiso_a_la_ciudadania" target="_blank" rel="noopener noreferrer">
-                    <!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> -->
-                    <div class="caption">
-                        <div>
-                            <h3>Carta de Compromiso a la Ciudadanía</h3>
-                            <p>Establece el trato entre ciudadanos y la entidad. Exalta las practicas de un buen Gobierno.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+				<div>&nbsp;</div>
 
-        <div class="col-xs-12 col-sm-4">
-            <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-08-2022/pa02-m03-pt02-protocolo-de-denuncias-por-corrupcion-v-1.0-28-10-2021.pdf" target="_blank" rel="noopener noreferrer">
-                    <div class="caption">
-                        <div>
-                            <h3>Protocolo de Denuncias por Actos de Corrupción</h3>
-                            <p>Directrices y el procedimiento a seguir en la recepción y atención de las denuncias de presuntos hechos de corrupción</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+				<div>
+					<p class="p-btn-icon"><a href="http://www.movilidadbogota.gov.co/web/puntos_de_atencion" rel="noopener noreferrer" target="_blank">Puntos de<br>
+						<strong>Correspondencia </strong></a></p>
+				</div>
+			</div>
+		</div>
+	</div>
 
-        <div class="col-xs-12 col-sm-4 col-sm-offset-4">
-            <div class="thumbnail bs">
-                <a href="https://www.movilidadbogota.gov.co/web/informacion_pqrs" target="_blank" rel="noopener noreferrer">
-                    <div class="caption">
-                        <div>
-                            <h3>Informes de PQRSD</h3>
-                            <p>Informes de todas las solicitudes, quejas y reclamos y los tiempos de respuesta del sujeto obligado.</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-        </div>
+	<div class="row">
+		<div class="col-xs 12 col-sm-6">
+			<div class="text-center p-pn bs">General
+				<h3>Radicación Documentos</h3>
 
-    </div>
+				<p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario radicación de correspondencia</a></p>
+			</div>
+		</div>
 
+		<div class="col-xs 12 col-sm-6">
+			<div class="text-center p-pn bs">Exclusivo
+				<h3>Notificaciones Judiciales</h3>
 
+				<p><a href="mailto:judicial@movilidadbogota.gov.co">judicial@movilidadbogota.gov.co</a></p>
+			</div>
+		</div>
+	</div>
+
+	<hr>
+	<div class="row">
+		<div class="col-xs-12">
+			<h2 class="text-center"><strong>MÁS SERVICIOS</strong></h2>
+		</div>
+	</div>
+	&nbsp;
+
+	<div class="row">
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs"><a href="https://bogota.gov.co/sdqs/crear-peticion" rel="noopener noreferrer" target="_blank"><img alt="Logo Bogotá te escucha" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/imagen-bogota-te-escucha.jpg" title="Registre PQRS"> </a>
+
+				<div class="caption">
+					<div>
+						<h3><a href="https://bogota.gov.co/sdqs/crear-peticion" rel="noopener noreferrer" target="_blank">Registre<br>
+							PQRSD</a></h3>
+
+						<p><a href="https://bogota.gov.co/sdqs/crear-peticion" rel="noopener noreferrer" target="_blank">Aquí podrás crear peticiones con tu usuario, con las diferentes opciones que te ofrece el sistema. </a></p>
+					</div>
+				</div>
+				<a href="https://bogota.gov.co/sdqs/crear-peticion" rel="noopener noreferrer" target="_blank"> </a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs"><a href="https://bogota.gov.co/sdqs/consultar-peticion" rel="noopener noreferrer" target="_blank"><img alt="Logo Bogotá te escucha" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/imagen-bogota-te-escucha.jpg" title="Consulte su petición"> </a>
+
+				<div class="caption">
+					<div>
+						<h3><a href="https://bogota.gov.co/sdqs/consultar-peticion" rel="noopener noreferrer" target="_blank">Consulte su<br>
+							Petición</a></h3>
+
+						<p><a href="https://bogota.gov.co/sdqs/consultar-peticion" rel="noopener noreferrer" target="_blank">Aquí podrás consultar las peticiones con tu usuario, siguiendo las diferentes opciones.</a></p>
+					</div>
+				</div>
+				<a href="https://bogota.gov.co/sdqs/consultar-peticion" rel="noopener noreferrer" target="_blank"> </a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs"><a href="https://gestiondocumental.movilidadbogota.gov.co/orfeo-api/" rel="noopener noreferrer" target="_blank"><img alt="Logo ORFEO" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-11-2020/orfeo.png" style="height: 134px;" title="Consulte su radicado"> </a>
+
+				<div class="caption">
+					<div>
+						<h3><a href="https://gestiondocumental.movilidadbogota.gov.co/orfeo-api/" rel="noopener noreferrer" target="_blank">Consulte Radicado SDM</a></h3>
+
+						<p><a href="https://gestiondocumental.movilidadbogota.gov.co/orfeo-api/" rel="noopener noreferrer" target="_blank">Aquí podrá consultar, con su número de radicado, el estado de su petición.</a></p>
+					</div>
+				</div>
+				<a href="https://gestiondocumental.movilidadbogota.gov.co/orfeo-api/" rel="noopener noreferrer" target="_blank"> </a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs"><a href="https://www.movilidadbogota.gov.co/web/derechos-anonimos" rel="noopener noreferrer" target="_blank"><!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> --> </a>
+
+				<div class="caption">
+					<div>
+						<h3><a href="https://www.movilidadbogota.gov.co/web/derechos-anonimos" rel="noopener noreferrer" target="_blank">Notificaciones Derechos de<br>
+							Petición Anónimos</a></h3>
+
+						<p><a href="https://www.movilidadbogota.gov.co/web/derechos-anonimos" rel="noopener noreferrer" target="_blank">Aquí reposan las respuesta que no tienen datos de los peticionarios</a></p>
+					</div>
+				</div>
+				<a href="https://www.movilidadbogota.gov.co/web/derechos-anonimos" rel="noopener noreferrer" target="_blank"> </a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf_XK6RvcctCN4nyePLpdZ-rA_dND8Y_fZff3jZyBzx8FUSQw/viewform?vc=0&amp;c=0&amp;w=1" rel="noopener noreferrer" target="_blank"><!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> --> </a>
+
+				<div class="caption">
+					<div>
+						<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSf_XK6RvcctCN4nyePLpdZ-rA_dND8Y_fZff3jZyBzx8FUSQw/viewform?vc=0&amp;c=0&amp;w=1" rel="noopener noreferrer" target="_blank">Califique Nuestro Servicio</a></h3>
+
+						<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf_XK6RvcctCN4nyePLpdZ-rA_dND8Y_fZff3jZyBzx8FUSQw/viewform?vc=0&amp;c=0&amp;w=1" rel="noopener noreferrer" target="_blank">Apreciado ciudadano: Lo invitamos a calificar la calidad de la respuesta a su requerimiento, ésto nos ayudará a prestar un mejor servicio.</a></p>
+					</div>
+				</div>
+				<a href="https://docs.google.com/forms/d/e/1FAIpQLSf_XK6RvcctCN4nyePLpdZ-rA_dND8Y_fZff3jZyBzx8FUSQw/viewform?vc=0&amp;c=0&amp;w=1" rel="noopener noreferrer" target="_blank"> </a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs"><a href="https://www.movilidadbogota.gov.co/web/respuestas-a-oficio-sin-notificar" rel="noopener noreferrer" target="_blank"><!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> --> </a>
+
+				<div class="caption">
+					<div>
+						<h3><a href="https://www.movilidadbogota.gov.co/web/respuestas-a-oficio-sin-notificar" rel="noopener noreferrer" target="_blank">Respuestas a Oficio sin Notificar</a></h3>
+
+						<p><a href="https://www.movilidadbogota.gov.co/web/respuestas-a-oficio-sin-notificar" rel="noopener noreferrer" target="_blank">Respuestas a sus solicitudes que no pudieron ser entregadas a la dirección física registrada.</a></p>
+					</div>
+				</div>
+				<a href="https://www.movilidadbogota.gov.co/web/respuestas-a-oficio-sin-notificar" rel="noopener noreferrer" target="_blank"> </a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs">
+				<div class="caption">
+					<div>
+						<h3><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/04-12-2023/pm04-rg01_reglamento_interno_para_la_gestion_de_pqrsd_v.3.0_24-11-2023_2.pdf" rel="noopener noreferrer" target="_blank">Reglamento Interno de Gestión PQRSD</a></h3>
+
+						<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/04-12-2023/pm04-rg01_reglamento_interno_para_la_gestion_de_pqrsd_v.3.0_24-11-2023_2.pdf" rel="noopener noreferrer" target="_blank">Con el propósito de orientar de forma clara y concreta sobre el manejo de las peticiones.</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs"><a href="https://www.movilidadbogota.gov.co/web/trato-digno" rel="noopener noreferrer" target="_blank"><!-- <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/30-08-2021/correo-electronico_0.png" style="height: 155px; color:#4D541F !important" alt="..."> --> </a>
+
+				<div class="caption">
+					<div>
+						<h3><a href="https://www.movilidadbogota.gov.co/web/carta_de_compromiso_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Carta de Compromiso a la Ciudadanía</a></h3>
+
+						<p><a href="https://www.movilidadbogota.gov.co/web/carta_de_compromiso_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Establece el trato entre ciudadanos y la entidad. Exalta las practicas de un buen Gobierno.</a></p>
+					</div>
+				</div>
+				<a href="https://www.movilidadbogota.gov.co/web/trato-digno" rel="noopener noreferrer" target="_blank"> </a></div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4">
+			<div class="thumbnail bs">
+				<div class="caption">
+					<div>
+						<h3><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-08-2022/pa02-m03-pt02-protocolo-de-denuncias-por-corrupcion-v-1.0-28-10-2021.pdf" rel="noopener noreferrer" target="_blank">Protocolo de Denuncias por Actos de Corrupción</a></h3>
+
+						<p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/22-08-2022/pa02-m03-pt02-protocolo-de-denuncias-por-corrupcion-v-1.0-28-10-2021.pdf" rel="noopener noreferrer" target="_blank">Directrices y el procedimiento a seguir en la recepción y atención de las denuncias de presuntos hechos de corrupción</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="col-xs-12 col-sm-4 col-sm-offset-4">
+			<div class="thumbnail bs">
+				<div class="caption">
+					<div>
+						<h3><a href="https://www.movilidadbogota.gov.co/web/informacion_pqrs" rel="noopener noreferrer" target="_blank">Informes de PQRSD</a></h3>
+
+						<p><a href="https://www.movilidadbogota.gov.co/web/informacion_pqrs" rel="noopener noreferrer" target="_blank">Informes de todas las solicitudes, quejas y reclamos y los tiempos de respuesta del sujeto obligado.</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-
 
 
