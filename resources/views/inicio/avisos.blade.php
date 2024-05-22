@@ -1,21 +1,21 @@
 @extends('welcome')
-@section('title','avisos')
+@section('title', 'avisos')
 @section('contenido')
 
 <!-- Set avisos -->
 <div class="set-wrapper avisos">
-    <div class="cmpnt cmpnt-banner-principal">&nbsp;
-        <div class="item zoom bs">
-            <a href="https://api.whatsapp.com/send?phone=573160231524&text=P%C3%A9gate+al+plan">
-                <picture>
-                    <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/banners_portalpegatealplan_1140_x_200.png">
-                    <img alt="Click aquí para acceder a Pégate al plan" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/piezas_internas_banner_cuadrado.png" title="Imagen: Click aquí para acceder a Pégate al plan">
-                </picture>
-            </a>
-        </div>
 
+    <div class="cmpnt cmpnt-banner-principal">&nbsp;
+        <div class="item zoom bs"><a href="https://bogota.gov.co">
+                <picture>
+                    <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/banner_turnos_1140x200.png">
+                    <img alt="Click aquí para conocer más sobre #CierraLaLlaveYa" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/banner_turnos_300x500.png" title="Imagen: Click aquí para conocer más sobre #CierraLaLlaveYa">
+                </picture>
+            </a></div>
         <hr>
     </div>
+
+
 
     <div class="cmpnt cmpnt-carousel">
         <div class="carousel slide" data-interval="12000" data-ride="carousel-avisos" id="carousel-avisos">
@@ -26,50 +26,38 @@
                 <li data-slide-to="2" data-target="#carousel-avisos" title="Banner 3">&nbsp;</li>
                 <li data-slide-to="3" data-target="#carousel-avisos" title="Banner 4">&nbsp;</li>
                 <li data-slide-to="4" data-target="#carousel-avisos" title="Banner 5">&nbsp;</li>
+                <li data-slide-to="5" data-target="#carousel-avisos" title="Banner 6">&nbsp;</li>
             </ol>
             <!-- Wrapper for slides -->
 
             <div class="carousel-inner" role="listbox">
-                <div class="item active"><a href="https://www.movilidadbogota.gov.co/web/pegate_al_plan">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-03-2024/banner_pdd_950x300.png">
-                            <img alt="Pégate al plan" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-03-2024/banner_pdd_340x300.png" title="Image: Pégate al plan">
-                        </picture>
-                    </a></div>
 
-                    <div class="item">
+                <div class="item active">
+                    <a href="https://www.movilidadbogota.gov.co/web/cierres_obras_metro">
                         <picture>
-                           <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2024/susp_de_servicios_240322_ext-banner_950x300.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-03-2024/susp_de_servicios_240322_ext-banner_340x300.png" class="img-responsive w-100" alt="Ir a " title="Image: aviso de mantenimiento ">
-                        </picture>
-                    </div>
-
-                    <div class="item"><a href="https://www.movilidadbogota.gov.co/web/pegate_al_plan">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-03-2024/banner_pdd_950x300.png">
-                            <img alt="Pégate al plan" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-03-2024/banner_pdd_340x300.png" title="Image: Pégate al plan">
-                        </picture>
-                    </a></div>
-
-                <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/canalesatencion_large.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/canalesatencion_short.png" class="img-responsive w-100" alt="Banner Puntos de atención" title="Image: Banner Puntos de atención">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_950x300.png">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_340x300.png" class="img-responsive w-100" alt="Ir a cierre estación Transmilenio calle 26" title="Image: cierre estación Transmilenio calle 26">
                         </picture>
                     </a>
                 </div>
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/noticia/estos_son_los_desvios_autorizados_por_inicio_de_traslado_de_redes_en_la_avenida_caracas">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/10-04-2024/desvios_metro_banner_950x300.jpg">
+                            <img alt="Estos son los desvíos autorizados por inicio de traslado de redes en la Avenida Caracas" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/10-04-2024/desvios_metro_banner_340x300.jpg" title="Image: Estos son los desvíos autorizados por inicio de traslado de redes en la Avenida Caracas">
+                        </picture>
+                    </a></div>
+
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/canalesatencion_large.png">
+                            <img alt="Banner Puntos de atención" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/canalesatencion_short.png" title="Image: Banner Puntos de atención">
+                        </picture>
+                    </a></div>
+
                 <div class="item"><a href="https://portalmimovilidad.movilidadbogota.gov.co/">
                         <picture>
                             <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/banner_mimovilidad_1.png">
                             <img alt="Mi movilidad a un clic" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/banner_mimovilidad_2.png" title="Image: Mi movilidad a un clic">
-                        </picture>
-                    </a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_adelanta_caracterizacion_de_movilidad_a_poblacion_con_discapacidad">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-01-2024/encuestadiscapacidad_0.png">
-                            <img alt="ir a encuesta para población en condición de discapacidad" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/encuesta-discapacidad_330x300.jpg" title="Image: ir a encuesta para población en condición de discapacidad">
                         </picture>
                     </a></div>
 
@@ -283,5 +271,3 @@
         /* IE9 */
     }
 </style>
-
-
