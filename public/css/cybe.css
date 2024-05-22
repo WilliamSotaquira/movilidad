@@ -3,17 +3,24 @@
     font-size: 15px;
     color: #151515;
 }
+
 .obj .b1 {
     display: grid;
     grid-auto-flow: dense;
     grid-template-columns: 1fr;
     grid-template-rows: auto;
+    grid-template-areas: "selector";
+    margin-bottom: 32px;
 }
+
 @media (min-width: 768px) {
     .obj .b1 {
         grid-template-columns: 40% 60%;
+    grid-template-areas: "selector fondo";
+
     }
 }
+
 .obj .b1 .cpt1 {
     background: #66e026;
     height: 300px;
@@ -22,16 +29,56 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    grid-area: selector;
 }
+
+.obj .b1 .cpt2 {
+    grid-area: fondo;
+    display: none;
+}
+
 @media (min-width: 768px) {
     .obj .b1 .cpt1 {
         height: 600px;
     }
+    .obj .b1 .cpt2 {
+        height: 600px;
+        background: url("/images/cybe/portada_selector.png") no-repeat left center;
+        /* background: linear-gradient(
+                45deg,
+                #66e026 0%,
+                rgba(255, 255, 255, 0) 250%
+            ),
+            url("/images/cybe/portada_selector.png"); */
+        background-size: cover;
+        display: block !important;
+    }
 }
+
 .obj .b1 .cpt1 .cpt1 p {
     font-size: 18px;
     color: #151515;
     text-align: center;
+}
+
+.obj .b1.active {
+    grid-template-columns: 1fr;
+    height: 200px;
+}
+.obj .b1.active .cpt1 {
+    height: 200px;
+    background: linear-gradient(45deg, #66e026 0%, rgba(255, 255, 255, 0) 250%),
+        url("/images/cybe/portada_selector.png");
+    background-position: 15% 55%;
+    background-size: cover;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.obj .b1.active .cpt2 {
+    display: none !important;
 }
 
 #select-obj {
@@ -45,32 +92,22 @@
     }
 }
 
-.obj .b1 .cpt2 {
-    background: #fff;
-    background: url("/images/cybe/_4PV1491.jpg") no-repeat left center;
-    background-size: cover;
-    min-height: 600px;
-    padding: 32px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
 .span-col-2 {
     grid-column: span 2;
     height: 150px;
 }
+
 .obj .b1 .cpt1-short {
     height: 160px;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 32px;
-    background: linear-gradient(transparent, #1c2046) no-repeat 0 0 / contain, url("/images/cybe/_4PV1491.jpg") no-repeat left center;
+    background: linear-gradient(transparent, #1c2046) no-repeat 0 0 / contain,
+        url("/images/cybe/portada_selector.png") no-repeat left center;
     background-size: cover;
 }
-.relevant-text{
+.relevant-text {
     color: #66e026;
     font-size: 18px;
     font-weight: 600;
@@ -78,8 +115,24 @@
     padding: 32px;
 }
 
-.hide{
+.hide {
     display: none;
+}
+
+.nav-justified > li > a {
+    background-color: #f1f1f1 !important;
+    margin: 2px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
+    color: #151515;
+}
+
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover {
+    background-color: #1c2046 !important;
+    font-family: "Work Sans", sans-serif;
+    font-size: 16px;
 }
 
 .b2 {
@@ -87,7 +140,20 @@
     grid-auto-flow: dense;
     grid-template-columns: 1fr;
     grid-template-rows: auto;
-    padding: 32px;
+}
+
+@media (min-width: 768px) {
+    .b2 {
+        padding: 32px;
+    }
+}
+
+.b2 .pills {
+    display: none;
+}
+
+.visible {
+    display: block !important;
 }
 
 .b2 .cpt1 {
@@ -96,45 +162,334 @@
     padding: 32px;
 }
 
-.b2 .cpt1 h2{
-    font-size: 28px;
+.b2 .cpnt-head {
+    margin-top: 16px;
+    background: #1c2046;
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/panoramica_2.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 30%;
+    background-size: cover;
+    margin-bottom: 16px;
+}
+
+.b2 .cpnt-head-moto {
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/panoramica_2.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 30%;
+    background-size: cover;
+}
+
+.b2 .cpnt-head-vehiculo {
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/panoramica_3.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 70%;
+    background-size: cover;
+}
+.b2 .cpnt-head-carga {
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/carga_panoramica.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 70%;
+    background-size: cover;
+}
+.b2 .cpnt-head-escolar {
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/escolar_panoramica.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 70%;
+    background-size: cover;
+}
+
+.b2 .cpnt-head-oficial {
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/oficial_panoramica.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 70%;
+    background-size: cover;
+}
+
+.b2 .cpnt-head-publico {
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/publico_panoramica.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 70%;
+    background-size: cover;
+}
+
+.b2 .cpnt-head-taxi {
+    background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 200%),
+        url("/images/cybe/taxi_panoramica.png");
+    border-top: solid 3px #26e02f;
+    border-bottom: solid 10px #66e026;
+    background-position: 15% 70%;
+    background-size: cover;
+}
+
+.b2 .cpnt-head h3 {
+    color: #66e026;
+}
+.b2 .cpnt-head p {
+    color: #f1f1f1;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+}
+
+.b2 .title-type-1 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
     color: #1c2046;
     text-align: center;
     margin: 32px 0 4px 0;
 }
-
-.b2 .cpt1 .ph-id-b2c1p1{
-    font-size: 14px;
+.b2 .title-type-2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
     color: #1c2046;
     text-align: center;
-    margin: 0;
+    margin: 32px 0 32px 0;
+    padding-bottom: 8px;
+}
+.b2 .title-type-3 {
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    color: #1c2046;
+    text-align: left;
+    margin: 32px 0 32px 0;
+    padding-bottom: 8px;
+    border-bottom: solid 1px #1c204675;
 }
 
-.b2 .cpt1 .ph-id-b2c1p2{
+.b2 .paragraph {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: left;
+}
+.b2 .ph-1 {
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
-    color: #151515;
-    text-align: center;
-    margin: 32px 0;
+    font-weight: normal;
+    text-align: left;
+}
+.b2 .ph-summary {
+    font-family: "Montserrat", sans-serif;
 }
 
-.tab-pane .cpt-2{
+.tab-pane .cpt-2 {
     display: grid;
     gap: 8px;
     grid-auto-flow: dense;
     grid-template-rows: auto;
 }
 
-.gtc-1{
+.cpnt-items {
+    display: grid;
+    gap: 8px;
+    grid-auto-flow: dense;
     grid-template-columns: 1fr;
-}
-.gtc-2{
-    grid-template-columns: 1fr 1fr;
-}
-.gtc-3{
-    grid-template-columns: 1fr 1fr 1fr;
-}
-.gtc-4{
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    justify-items: stretch;
+    grid-auto-flow: dense;
+    justify-content: space-around;
 }
 
+@media (min-width: 768px) {
+    .cpnt-items {
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 225px), 1fr));
+        margin-left: 84px;
+        margin-right: 84px;
+        margin-top: 84px;
+    }
+}
 
+.item-metas {
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    padding: 12px;
+}
+
+.item-metas .ph-1 {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    padding: 12px;
+}
+
+.items-incentivo {
+    display: grid;
+    grid-auto-flow: dense;
+}
+
+@media (max-width: 767px) {
+    .items-incentivo {
+        gap: 8px;
+        grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr));
+        grid-template-rows: auto;
+    }
+}
+
+@media (min-width: 768px) {
+    .items-incentivo {
+        gap: 16px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
+    }
+}
+@media (min-width: 992px) {
+    .items-incentivo {
+        grid-template-columns: repeat(3, 1fr);
+        row-gap: 32px;
+        column-gap: 32px;
+        margin: 32px;
+    }
+}
+
+.card-incentivo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 16px;
+    background: #f1f1f1;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background: linear-gradient(rgba(230, 230, 230, 0.932));
+}
+
+.card-incentivo .tipo-incentivo {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 1.2;
+    color: #1c2046;
+}
+
+.card-incentivo .valor-incentivo {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 1.2;
+    color: #1c2046;
+}
+
+.card-incentivo .resumen-incentivo {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 1.2;
+    color: #1c2046;
+}
+
+.card-incentivo .enlace-incentivo {
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 1.2;
+    color: #252525;
+}
+
+@media (min-width: 768px) {
+    .cpnt-incentivos {
+        padding: 32px;
+    }
+}
+
+.cpnt-incentivos .glyphicon-chevron-right::before {
+    color: #252525 !important;
+}
+
+.cpnt-incentivos .glyphicon-chevron-left::before {
+    color: #252525 !important;
+}
+
+.cpnt-incentivos .panel-heading {
+    border-color: #66e026 !important;
+    background-image: linear-gradient(to right, #26e02f, #66e026) !important;
+}
+
+.cpnt-incentivos .panel-heading .panel-title a {
+    font-family: "Work Sans", sans-serif;
+    text-decoration: none;
+    color: #252525 !important;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.cpnt-incentivos .panel-heading .panel-title a:after {
+    font-family: "Glyphicons Halflings";
+    content: "\e080";
+    float: right;
+    color: #252525;
+    font-size: 18px;
+}
+
+.cpnt-incentivos .panel-heading .panel-title a.collapsed:after {
+    content: "\e114";
+}
+
+.cpnt-incentivos .panel-body {
+    /* background-color: #252525; */
+    background-image: linear-gradient(to right, #151515, #1c2046);
+}
+
+@media (min-width: 768px) {
+    .cpnt-incentivos .panel-body {
+        padding: 32px 84px;
+    }
+}
+.b2 .group-data .ph-1 {
+    padding-bottom: 32px;
+    text-align: justify;
+}
+.b2 .group-data img {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px,
+        rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+
+@media (min-width: 768px) {
+    .b2 .group-data {
+        padding: 32px;
+    }
+    .b2 .group-data img {
+        /* padding: 32px; */
+        max-width: 940px;
+        margin: auto;
+    }
+}
+
+.b2 .group-data ul {
+    padding-bottom: 32px;
+}
+.b2 .group-data ul li {
+    padding-bottom: 8px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+.b2 .group-data .embed-container {
+    width: 940px;
+    margin: auto;
+}
