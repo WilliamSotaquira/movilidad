@@ -8,17 +8,27 @@
 
     <!-- Sección box logo-full -->
     <div class="box-logo-full">
-        <img class="img-responsive w-100" src="https://proyectos.camilogarzon.digital/wp-content/uploads/2023/02/logo-orvi.png" alt="logo ORVI">
+        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/logoorvi.png" alt="logo ORVI">
     </div>
     <style>
         .set-wrapper .box-logo-full {
             grid-area: box-logo-full;
             margin-bottom: 40px;
+            padding: 32px;
         }
 
         .box-logo-full img {
             width: 500px;
             margin: auto;
+        }
+
+        @media(min-width:768px) {
+            .set-wrapper .box-logo-full {
+                grid-area: box-logo-full;
+                margin-bottom: 40px;
+                padding: 84px;
+            }
+
         }
     </style>
 
@@ -31,7 +41,7 @@
         </div>
         <div class="paragraph ph-youtube-paragraph">
             <h3>¿Qué es ORVI?</h3>
-            <p><strong>Bogotá D.C. se convirtió en la primera ciudad de Colombia y la segunda en América Latina,</strong> en contar con un <strong>Centro de Orientación para Víctimas por Siniestros Viales.</strong>  En ORVI, informamos y orientamos de manera gratuita a las víctimas por siniestros viales y sus familiares, acerca de los procesos que pueden seguir en materia social, jurídica, psicológica y de formación tras un incidente de tránsito.</p>
+            <p><strong>Bogotá D.C. se convirtió en la primera ciudad de Colombia y la segunda en América Latina,</strong> en contar con un <strong>Centro de Orientación para Víctimas por Siniestros Viales.</strong> En ORVI, informamos y orientamos de manera gratuita a las víctimas por siniestros viales y sus familiares, acerca de los procesos que pueden seguir en materia social, jurídica, psicológica y de formación tras un incidente de tránsito.</p>
             <p>En el centro disponemos de medios presenciales y virtuales para que las víctimas de siniestros viales y/o sus familiares puedan acceder al servicio.</p>
         </div>
     </div>
@@ -618,7 +628,8 @@
         .set-wrapper .box-title-center {
             grid-area: box-title-center;
         }
-        .box-title-center h3{
+
+        .box-title-center h3 {
             text-align: center;
             font-size: 32px;
             font-weight: 700;
@@ -1005,7 +1016,7 @@
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_010.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/convivencia_vial.png",
                 "alt": "Grupo de personas reciben orientación",
                 "title": "Convivencia vial",
                 "summary": "Abordamos aspectos generales de movilidad agresiva, su vinculación con las dinámicas del tránsito, los medios de transporte y actores viales.",
@@ -1032,7 +1043,7 @@
                 "title": "Emociones y conducción",
                 "summary": "Reflexionamos sobre las emociones y cómo gestionarlas para evitar riesgos en la vía.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_016.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/emociones.png",
                 "alt": "Persona conduciendo vehículo",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1064,7 +1075,7 @@
                 "title": "Responsabilidad civil extracontractual",
                 "summary": "Analizamos los procedimientos y criterios en indemnizaciones por los daños causados.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_015.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/resposabilidad_civil.png",
                 "alt": "Mujer conduciendo vehículo",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1072,7 +1083,7 @@
                 "title": "SOAT",
                 "summary": "Descubrimos su alcance, cobertura, características y riesgos.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_013.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/soat.png",
                 "alt": "Mujer junto a vehículo con evidente frustración",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1104,7 +1115,7 @@
                 "title": "Primeros auxilios psicológicos",
                 "summary": "Establecemos pautas para la disminución del impacto emocional y social luego de un siniestro vial.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_014.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/auxilios.png",
                 "alt": "Mujer charlando con otra persona",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1128,7 +1139,7 @@
                 "title": "¿Cómo comunicar la mala noticia?",
                 "summary": "Ofrecemos herramientas para comunicar un hecho negativo.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_020.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/comunicar.png",
                 "alt": "Mujer usa sus manos para cubrir su frente",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1361,15 +1372,15 @@
                 </dl>
                 <dl>
                     <dt>
-                        Teléfono:
+                        Celular y WhatsApp de orientación:
                     </dt>
                     <dd>
-                        <a href="tel:+6016477311">(601) 647-7311</a>
+                        <a href="tel:+3058703478">305 870 3478</a>
                     </dd>
                 </dl>
                 <dl>
                     <dt>
-                        Correo electronico 1:
+                        Correo electrónico 1:
                     </dt>
                     <dd>
                         <a href="mailto:orvi@movilidadbogota.gov.co">orvi@movilidadbogota.gov.co</a>
@@ -1377,28 +1388,14 @@
                 </dl>
                 <dl>
                     <dt>
-                        Correo electronico 2:
+                        Correo electrónico 2:
                     </dt>
                     <dd>
                         <a href="mailto:formacionorvi@movilidadbogota.gov.co">formacionorvi@movilidadbogota.gov.co</a>
                     </dd>
                 </dl>
-                <dl>
-                    <dt>
-                        Celular y whatsapp de orientación:
-                    </dt>
-                    <dd>
-                        <a href="tel:+573058703458">305 870 3458</a>
-                    </dd>
-                    <dd>
-                        <a href="tel:+573005863576">300 586 3576</a>
-
-                    </dd>
-                </dl>
             </div>
-
         </div>
-
     </div>
     <style>
         .set-wrapper .box-footer {
@@ -1479,18 +1476,12 @@
 
         }
     </style>
-
-
-
-
-
-
 </div>
 
 <style>
-    .set-wrapper{
+    .set-wrapper {
         max-width: 1200px;
-            margin: auto;
+        margin: auto;
     }
 </style>
 <!-- Fin Set -->
