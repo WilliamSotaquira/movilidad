@@ -2,51 +2,51 @@
 @section('contenido')
 
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Montserrat -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<link rel='preconnect' href='https://fonts.googleapis.com'>
-<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <div class="container-fluid seccion antisoborno">
     <div class="s1 fa">
         <div class="enc">
             <h3>canal de denuncias antisobor<span class="enc-enfasis">no</span></h3>
         </div>
     </div>
+
     <div class="s2">
-        <div class="img-enc">
-            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2022/antisoborno1.webp" alt="Canal de denuncias antisoborno" title="Canal de denuncias antisoborno">
-        </div>
+        <div class="img-enc"><img alt="Canal de denuncias antisoborno" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/antisoborno.png" title="Canal de denuncias antisoborno"></div>
+
         <div class="escudo-cda">
             <div class="row">
-                <div class="col-xs-3">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/antisoborno_web_512x512_escudo.png" alt="Escudo canal de denuncias antisoborno" title="Escudo canal de denuncias antisoborno">
-                </div>
+                <div class="col-xs-3"><img alt="Escudo canal de denuncias antisoborno" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/antisoborno_web_512x512_escudo.png" title="Escudo canal de denuncias antisoborno"></div>
             </div>
         </div>
     </div>
+
     <div class="s3 fg">
         <div class="pg">
             <p>Con un gran poder viene una gran responsabilidad <span class="enc-enfasis">NO</span> AL SOBORNO</p>
         </div>
+
         <div class="pn">
             <p>La Secretaría Distrital de Movilidad adoptó el Sistema de Gestión Antisoborno, como una herramienta para luchar contra la corrupción.</p>
-            <p>En la SDM cuentas con la fuerza Antisoborno que previene y te apoya contra el soborno.</p>
-            <h3>¿QUÉ ES? </h3>
-            <div class='video_antisoborno'>
-                </div>
-                <p>El Sistema de Gestión Antisoborno bajo los estándares contemplados en la norma técnica ISO 37001:2016, es un instrumento que facilita la articulación de herramientas ya existentes en la entidad que permitirá mejorar la prevención, minimización de los riesgos asociados al soborno que conducen a prácticas y consolidación de hechos de corrupción.</p>
-            </div>
-            <video controls='' style='width: 100%; padding: 25px; '>
-                <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/v2_notijulio_antisoborno.mp4' type='video/mp4'>
-    </div>
-    <div class="s4">
-        <div class="img-vista">
 
+            <p>En la SDM cuentas con la fuerza Antisoborno que previene y te apoya contra el soborno.</p>
+
+            <h3>¿QUÉ ES?</h3>
+
+            <div class="video_antisoborno">&nbsp;</div>
+
+            <p>El Sistema de Gestión Antisoborno bajo los estándares contemplados en la norma técnica ISO 37001:2016, es un instrumento que facilita la articulación de herramientas ya existentes en la entidad que permitirá mejorar la prevención, minimización de los riesgos asociados al soborno que conducen a prácticas y consolidación de hechos de corrupción.</p>
         </div>
+
+        <video controls="" style="width: 100%; padding: 25px;">
+            <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-10-2022/v2_notijulio_antisoborno.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <div class="s4">
+        <div class="img-vista">&nbsp;</div>
+
         <div class="antidoto-txt">
             <div class="row fa">
                 <div class="col-xs-12">
@@ -55,50 +55,71 @@
             </div>
         </div>
     </div>
+
     <div class="s5">
         <div class="antidoto">
             <div class="row">
                 <div class="col-xs-12">
                     <h3><span class="numeral">1. </span>No lo pido</h3>
                 </div>
+
                 <div class="col-xs-12 col-sm-6">
                     <h3><span class="numeral">2. </span>No me le mido</h3>
                 </div>
+
                 <div class="col-xs-12 col-sm-6">
                     <h3><span class="numeral">3. </span>No reparto</h3>
                 </div>
+
                 <div class="col-xs-12 col-sm-6">
                     <h3><span class="numeral">4. </span>No le recibo</h3>
                 </div>
+
                 <div class="col-xs-12 col-sm-6">
                     <h3><span class="numeral">5. </span>No le jalo</h3>
                 </div>
             </div>
         </div>
+
         <div class="pn">
             <p>El sistema de Gestión Antisoborno prohíbe la oferta, el suministro o la aceptación de regalos, atenciones, donaciones y beneficios similares que son o pueden ser considerados soborno.</p>
         </div>
     </div>
+
     <div class="s6">
         <div class="msg">
-            <p>Ni por mi, ni por otro, ni por todos: <br> <span class="enc-enfasis">yo no vendo mis funciones ni mis obligaciones.</span></p>
+            <p>Ni por mi, ni por otro, ni por todos:<br>
+                <span class="enc-enfasis">yo no vendo mis funciones ni mis obligaciones.</span>
+            </p>
         </div>
     </div>
+
     <div class="s7 fg">
         <div class="pn">
-            <p>Para conocer en mayor detalle en qué consiste el <br> Sistema de Gestión Antisobor<strong>NO</strong></p>
+            <p>Para conocer en mayor detalle en qué consiste el<br>
+                Sistema de Gestión Antisobor<strong>NO</strong></p>
         </div>
     </div>
+
     <div class="s8">
         <div class="row row-descargables">
-            <div class="col-xs-1"></div>
+            <div class="col-xs-1">&nbsp;</div>
+
             <div class="col-xs-12 col-sm-2 col-xs-offset-1 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-01-2021/resolucion_no._190_de_2020.pdf" target="_blank">Resolución No. 190 de 2020</a></div>
-            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/pa02-m03_manual_integridad_v._2.0_28-10-2021_1.pdf" target="_blank">Manual de Integridad</a></div>
-            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/intranet/sites/default/files/2022-07-11/pe01-m01_manual_mipg_v_11.0_de_11-07-2022.pdf" target="_blank">Manual MIPG<br>SDM</a></div>
-            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/intranet/sites/default/files/2022-07-28/pa02-m03-pt01_protocolo_de_denuncias_por_actos_de_soborno_v3.0_de_13-07-2022_1.pdf" target="_blank">Protocolo<br>denuncias soborno</a></div>
-            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/pa02-m03-pt02_protocolo_de_denuncias_por_corrupcion_v_1.0_28-10-2021.pdf" target="_blank">Protocolo<br>denuncias corrupción</a></div>
+
+            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-06-2023/pa02-m03_manual_de_integridad_v3.0_de_31-05-2023_1.pdf" target="_blank">Manual de Integridad</a></div>
+
+            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-02-2024/manual_de_mipg_v16.pdf" target="_blank">Manual MIPG<br>
+                    SDM</a></div>
+
+            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/intranet/sites/default/files/2022-07-28/pa02-m03-pt01_protocolo_de_denuncias_por_actos_de_soborno_v3.0_de_13-07-2022_1.pdf" target="_blank">Protocolo<br>
+                    denuncias soborno</a></div>
+
+            <div class="col-xs-12 col-sm-2 descargable"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/pa02-m03-pt02_protocolo_de_denuncias_por_corrupcion_v_1.0_28-10-2021.pdf" target="_blank">Protocolo<br>
+                    denuncias corrupción</a></div>
         </div>
     </div>
+
     <div class="s9">
         <div class="antidoto-txt">
             <div class="row fa">
@@ -108,17 +129,27 @@
             </div>
         </div>
     </div>
+
     <div class="s10 fg">
         <div class="pn">
             <p>“Sabías que, según Transparencia por Bogotá la Secretaría de Movilidad tiene una calificación del 84,1% confirmando que somos una de las 5 entidades más transparentes del Distrito”</p>
+
             <p>La Secretaría Distrital de Movilidad, ratifica su decisión de la lucha contra la corrupción y el soborno, y en aras de una gestión integra y eficiente, propende a la prevención de cualquier posible acto de soborno que pudiera darse en la Entidad, por lo que se compromete a lo siguiente:</p>
+
             <p><i>“Prohibir de manera expresa en el marco de la legislación aplicable cualquier práctica relacionada con la oferta, promesa, entrega, aceptación, o solicitud, de manera personal o interpuesta por otra persona, de una ventaja indebida de cualquier valor (que puede ser de naturaleza financiera o no financiera), en beneficio propio o de un tercero, e independiente de su ubicación, como incentivo o recompensa para que un funcionario o contratista de la Secretaría Distrital de Movilidad, actúe o deje de actuar en relación con el desempeño de sus funciones u obligaciones.</i></p>
+
             <p><i>Cualquier situación que pueda ser considerada soborno podrá reportarse por los canales dispuestos por la Entidad y estas serán recepcionadas y tramitadas por el Oficial de Cumplimiento Antisoborno, garantizando con esto acciones de mejora continua.”</i></p>
+
             <h3>Incumplimiento de la política antisoborno</h3>
+
             <p>El incumplimiento de esta política antisoborno conlleva al inicio de los procesos administrativos y/o disciplinarios a que haya lugar por parte de las instancias internas de la Secretaría Distrital de Movilidad, y el traslado a los organismos de vigilancia y control competentes.</p>
+
             <h3>ALCANCE</h3>
+
             <p>Esta política es aplicable y de obligatorio cumplimiento para los siguientes usuarios y partes interesadas: ciudadanos, usuarios, consultores, contratistas de bienes y servicios, contratistas de obra, interventores, contratistas de prestación de servicios, empresas de servicios públicos, Entidades públicas del nivel nacional y distrital, Entidades sin ánimo de lucro, servidores públicos, contratistas de prestación de servicios y/o de apoyo a la gestión y sistema financiero.</p>
+
             <h3>OBJETIVOS:</h3>
+
             <ul>
                 <li>Mantener las buenas prácticas antisoborno contenidas en la norma ISO 37001 y las demás adoptadas por la Entidad.</li>
                 <li>Promover una cultura de integridad y ética pública en los colaboradores de la SDM, para el cumplimiento del marco de gestión antisoborno definido por la Entidad, y su concientización en la política antisoborno y en los demás elementos que integran el Sistema.</li>
@@ -127,32 +158,35 @@
             </ul>
         </div>
     </div>
+
     <div class="s11">
         <div class="msg">
-            <p>No aceptamos regalos, donaciones y/o boniﬁcaciones. De esta manera demostramos transparencia e integridad en nuestra gestión. </p>
+            <p>No aceptamos regalos, donaciones y/o boniﬁcaciones. De esta manera demostramos transparencia e integridad en nuestra gestión.</p>
         </div>
     </div>
+
     <div class="s12 fg">
         <div class="row">
             <div class="col-xs-12 col-sm-2 text-center">
-                <div class="logo">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/antisoborno_web_512x512_sobre_virtual.png" alt="Sobre de correo">
-                </div>
+                <div class="logo"><img alt="Sobre de correo" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/antisoborno_web_512x512_sobre_virtual.png"></div>
             </div>
+
             <div class="col-xs-12 col-sm-10">
                 <div class="text-mail">
-                    <p>Informa cualquier caso de sospecha de soborno al correo: </p>
+                    <p>Informa cualquier caso de sospecha de soborno al correo:</p>
+
                     <p><a href="mailto:denunciassoborno@movilidadbogota.gov.co">denunciassoborno@movilidadbogota.gov.co</a></p>
                 </div>
             </div>
         </div>
-
     </div>
+
     <div class="s11">
         <div class="msg">
             <p>Si conoces alguna irregularidad que quieras denunciar y que esté relacionada con Soborno, considera lo siguiente:</p>
         </div>
     </div>
+
     <div class="s13 fa">
         <div class="row">
             <div class="col-xs-12 col-sm-8">
@@ -165,28 +199,37 @@
                     <li>No utilices estos canales para levantar falsas denuncias.</li>
                 </ul>
             </div>
+
             <div class="col-xs-12 col-sm-4">
-                <div class="buzon">
-                    <img class="w-100 img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/antisoborno_web_512x512_buzon_.png" alt="Buzon de denucias antisoborno">
-                </div>
+                <div class="buzon"><img alt="Buzon de denucias antisoborno" class="w-100 img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-11-2021/antisoborno_web_512x512_buzon_.png"></div>
             </div>
         </div>
     </div>
+
     <div class="s14 fg">
         <div class="text-mail">
             <p>Tu denuncia es confidencial</p>
+
             <p><strong>Por mi familia, no tengo precio</strong></p>
-            <br>
+            &nbsp;
+
             <p>Si conoces un hecho relacionado con el sobor<span class="enc-enfasis">no</span></p>
             <a href="https://www.movilidadbogota.gov.co/web/formulario_de_denuncias">denuncia aquí</a>
         </div>
     </div>
 
-</div>
+    <div class="s6">
+        <div class="msg">
+            <h3><strong>Sistema de Administración de Riesgo de Lavado de Activos y de la Financiación del Terrorismo – SARLAFT</strong></h3>
 
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<style type='text/css'>
+            <div class="s15">
+                <div class="text-mail"><a href="https://www.movilidadbogota.gov.co/web/sarlaft">Ver SARLAFT</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<style type="text/css">
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
@@ -208,7 +251,7 @@
 
     }
 
-    .antisoborno{
+    .antisoborno {
         max-width: 980px !important;
         margin: auto;
 
@@ -492,10 +535,11 @@
         align-items: center;
         height: 400px;
     }
-    .s14{
+
+    .s14 {
         padding: 3rem;
         color: #28285b;
-     padding-top: 35px;
+        padding-top: 35px;
 
     }
 
@@ -510,22 +554,49 @@
     }
 
     .s14 .text-mail a {
-     background-color: #de1b19;
-     color: #fff;
-     padding: 10px 20px;
-     border-radius: 7px;
-     border: solid 3px #de1b19;
-     text-decoration: none;
-     margin-top: 35px;
-
-    }
-    .s14 .text-mail a:hover{
-     background-color: #f3ac33;
-     color: #28285b;
-     border: solid 3px #de1b19;
-     text-decoration: none;
+        background-color: #de1b19;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 7px;
+        border: solid 3px #de1b19;
+        text-decoration: none;
+        margin-top: 35px;
 
     }
 
+    .s14 .text-mail a:hover {
+        background-color: #f3ac33;
+        color: #28285b;
+        border: solid 3px #de1b19;
+        text-decoration: none;
+
+    }
+
+
+
+
+
+    .s15 .text-mail a {
+        background-color: #f3ac33;
+        color: #28285b;
+        border: solid 3px #de1b19;
+        text-decoration: none;
+        border-radius: 7px;
+        padding: 10px 20px;
+        margin-top: 35px;
+    }
+
+    .s15 .text-mail a:hover {
+        background-color: #eeeeee;
+        color: #28285B;
+        padding: 10px 20px;
+        border-radius: 7px;
+        border: solid 3px #de1b19;
+        text-decoration: none;
+        margin-top: 35px;
+
+
+
+    }
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
