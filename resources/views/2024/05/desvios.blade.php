@@ -16,10 +16,11 @@
             grid-area: b1;
             margin: 16px 0px;
         }
+
         .field-item.even .centertil {
-        visibility: hidden;
-        margin-top: -50px;
-    }
+            visibility: hidden;
+            margin-top: -50px;
+        }
     </style>
     <div class="box b1">
         <div class="cpnt cpnt-head">
@@ -183,6 +184,7 @@
             object-position: center;
 
         }
+
         .b3 .arr-3 {
             background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_10.png');
             background-size: contain;
@@ -206,6 +208,7 @@
             object-position: center;
 
         }
+
         .b3 .arr-5 {
             background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_12.png');
             background-size: contain;
@@ -228,6 +231,12 @@
             object-fit: contain;
             object-position: center;
 
+        }
+
+        @media(min-width:768px) {
+            .b3 .cpnt-video {
+                margin: 32px 84px;
+            }
         }
     </style>
     <div class="box b3">
@@ -277,6 +286,13 @@
                             <div class='box-2'>
                                 <div class="cpnt cpnt-1">
                                     <p class="paragraph">Conoce el cierre de los carriles para vehículos particulares en la Av. Caracas entre las calles 26 y 32 así como los desvíos para movilizarte.</p>
+                                </div>
+                                <div class="cpnt cpnt-video">
+                                    <div class="video video-1 video-16by9">
+                                        <div class="embed-responsive embed-responsive-16by9">
+                                            <iframe width='100%' src='https://www.youtube.com/embed/Z4fnx52C-kE?si=2EKyHsfTM2KQWmDe' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                                        </div>
+                                    </div>
                                 </div>
                                 <div class="cpnt cpnt-2">
                                     <div class="sub">
@@ -344,15 +360,15 @@
                             </div>
                             <!-- box b-4 -->
                             <style>
-                                .set-wrapper .b-4{
+                                .set-wrapper .b-4 {
                                     grid-area: b-4;
                                     margin: 16px 0px;
                                 }
                             </style>
                             <div class="box b-4">
                                 <div class="cpnt cpnt-1">
-                                    </div>
-                                    <div class="cpnt cpnt-2">
+                                </div>
+                                <div class="cpnt cpnt-2">
                                     <div class="sub">
                                         <span>
                                             <h4>Desvío oriente a norte y sur</h4>
@@ -378,7 +394,7 @@
                                     </div>
                                 </div>
                                 <div class="cpnt cpnt-6">
-                                     <p class="paragraph">*Estos carriles mixtos en la Av. Caracas solo quedarán habilitados para la circulación del Sistema troncal de TransMilenio.</p>
+                                    <p class="paragraph">*Estos carriles mixtos en la Av. Caracas solo quedarán habilitados para la circulación del Sistema troncal de TransMilenio.</p>
                                 </div>
                             </div>
                         </div>
