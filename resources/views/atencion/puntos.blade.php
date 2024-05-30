@@ -220,15 +220,19 @@
             color: #252525;
         }
     </style>
-    <div class="box box-boxes"><a onclick="activeBox(1);"> </a>
-        <div class="box-bottom"><a onclick="activeBox(1);"><span class="tooltip-img"><img alt="acceder a presencial" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/presencial.gif" title="acceder a presencial"> </span> </a>
-            <div class="icon icon1">&nbsp;</div>
-            <a onclick="activeBox(1);"> </a>
 
-            <p><a onclick="activeBox(1);"><strong>Presencial</strong> </a></p>
-            <a onclick="activeBox(1);"> </a>
-        </div>
-        <a onclick="activeBox(1);"> </a>
+
+    <div class="box box-boxes">
+
+        <a onclick="activeBox(1);">
+            <div class="box-bottom">
+                <span class="tooltip-img">
+                    <img alt="acceder a presencial" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/presencial.gif" title="acceder a presencial">
+                </span>
+                <div class="icon icon1"></div>
+                <p><strong>Presencial</strong></p>
+            </div>
+        </a>
         <style type="text/css">
             .box-boxes .box-summary {
                 display: none !important;
@@ -281,6 +285,7 @@
                 transition: ease-out 0.5s all !important;
             }
         </style>
+
         <div class="box-summary box-summary-1">
             <div class="cmpnt-title cmpnt-title-1">
                 <h3 class="title title-type-3 title-cmpnt">Conoce nuestros puntos de atención presencial</h3>
@@ -1964,17 +1969,16 @@
                 });
             </script>
         </div>
-        <a onclick="activeBox(2)"> </a>
 
-        <div class="box-bottom"><a onclick="activeBox(2)"><span class="tooltip-img"><img alt="acceder a virtual" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/virtual.gif" title="acceder a virtual"> </span> </a>
-
-            <div class="icon icon2">&nbsp;</div>
-            <a onclick="activeBox(2)"> </a>
-
-            <p><a onclick="activeBox(2)"><strong>Virtual</strong> </a></p>
-            <a onclick="activeBox(2)"> </a>
-        </div>
-        <a onclick="activeBox(2)"> </a>
+        <a onclick="activeBox(2);">
+            <div class="box-bottom">
+                <span class="tooltip-img">
+                    <img alt="acceder a virtual" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/virtual.gif" title="acceder a virtual">
+                </span>
+                <div class="icon icon2"></div>
+                <p><strong>Virtual</strong></p>
+            </div>
+        </a>
 
         <div class="box-summary box-summary-2">
             <div class="cmpnt-title cmpnt-title-1">
@@ -2395,17 +2399,16 @@
                 }
             </script>
         </div>
-        <a onclick="activeBox(3)"> </a>
 
-        <div class="box-bottom"><a onclick="activeBox(3)"><span class="tooltip-img"><img alt="acceder a telefónico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefonico.gif" title="acceder a telefónico"> </span> </a>
-
-            <div class="icon icon3">&nbsp;</div>
-            <a onclick="activeBox(3)"> </a>
-
-            <p><a onclick="activeBox(3)"><strong>Telefónico</strong> </a></p>
-            <a onclick="activeBox(3)"> </a>
-        </div>
-        <a onclick="activeBox(3)"> </a>
+        <a onclick="activeBox(3)">
+            <div class="box-bottom">
+                <span class="tooltip-img">
+                    <img alt="acceder a telefónico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefonico.gif" title="acceder a telefónico">
+                </span>
+                <div class="icon icon3"></div>
+                <p><strong>Telefónico</strong></p>
+            </div>
+        </a>
 
         <div class="box-summary box-summary-3">
             <div class="imagen img-call"><img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/atencion.jpg" title="">
