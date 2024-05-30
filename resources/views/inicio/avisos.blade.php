@@ -34,12 +34,22 @@
                             href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/">
                             <picture>
                                 <source media="(min-width: 465px)"
+                                    srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-05-2024/pieza_pyp-lg.png">
+                                <img alt="Ir a actualización Pico y Placa Solidario" class="img-responsive w-100"
+                                    src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-05-2024/pieza_pyp-xs.png"
+                                    title="Image: actualización Pico y Placa Solidario">
+                            </picture>
+                        </a></div>
+                    <!-- <div class="item active"><a
+                            href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/">
+                            <picture>
+                                <source media="(min-width: 465px)"
                                     srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/banner_lg_pps.jpg">
                                 <img alt="Ir a actualización Pico y Placa Solidario" class="img-responsive w-100"
                                     src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/banner_xs_pps.jpg"
                                     title="Image: actualización Pico y Placa Solidario">
                             </picture>
-                        </a></div>
+                        </a></div> -->
                     <div class="item"><a href="https://www.movilidadbogota.gov.co/web/cierres_obras_metro">
                             <picture>
                                 <source media="(min-width: 465px)"
@@ -65,10 +75,10 @@
                     <div class="item"><a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion">
                             <picture>
                                 <source media="(min-width: 465px)"
-                                    srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/canalesatencion_large.png">
-                                <img alt="Banner Puntos de atención" class="img-responsive w-100"
-                                    src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-03-2024/canalesatencion_short.png"
-                                    title="Image: Banner Puntos de atención">
+                                    srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-05-2024/gyp_banner_950x300.png">
+                                <img alt="Banner retiro de vehículo inmovilizado" class="img-responsive w-100"
+                                    src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-05-2024/gyp_banner_340x300.png"
+                                    title="Image: Banner retiro de vehículo inmovilizado">
                             </picture>
                         </a></div>
 
