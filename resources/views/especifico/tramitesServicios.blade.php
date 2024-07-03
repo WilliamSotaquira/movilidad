@@ -115,5 +115,3 @@
 <p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;"><span style="font-size:18px;">Para mayor información de nuestros horarios y puntos de atención visite&nbsp;</span><a href="https://guiatramitesyservicios.bogota.gov.co/entidad/secretaria_distrital_de_movilidad/">Secretaría Distrital de Movilidad - SDM Archives - Guía de Trámites y Servicios (bogota.gov.co)</a><span style="font-size:18px;">&nbsp;o comuníquese a Línea /span></p>
 
-
-
