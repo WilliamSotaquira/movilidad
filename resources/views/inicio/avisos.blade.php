@@ -9,9 +9,9 @@
             <div class="item zoom bs"><a href="https://bogota.gov.co">
                     <picture>
                         <source media="(min-width: 465px)"
-                            srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-05-2024/banners_entidades_movilidad_1140x275.png">
+                            srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-07-2024/banners_turnos_racionamiento_1140x200_copia.png">
                         <img alt="Click aquí para conocer más sobre #CierraLaLlaveYa" class="img-responsive w-100"
-                            src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-05-2024/banners_entidades_movilidad_1140x275.png"
+                            src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-07-2024/banners_turnos_racionamiento_1140x200_copia.png"
                             title="Imagen: Click aquí para conocer más sobre #CierraLaLlaveYa">
                     </picture>
                 </a>
@@ -30,7 +30,18 @@
                 </ol>
 
                 <div class="carousel-inner" role="listbox">
+
                     <div class="item active"><a
+                            href="https://bogota.gov.co/mi-ciudad/planeacion/aprobado-el-plan-de-desarrollo-bogota-camina-segura-en-el-concejo">
+                            <picture>
+                                <source media="(min-width: 465px)"
+                                    srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2024/banners_portal_950x300.png">
+                                <img alt="Ir a Plan de Desarrollo Distrital" class="img-responsive w-100"
+                                    src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2024/banners_portal_340x300.png"
+                                    title="Image: Plan de Desarrollo Distrital">
+                            </picture>
+                        </a></div>
+                    <div class="item"><a
                             href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/">
                             <picture>
                                 <source media="(min-width: 465px)"
