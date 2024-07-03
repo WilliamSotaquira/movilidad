@@ -9,7 +9,7 @@
     <hr>
     <div class="row">
         <div class="col-xs-12 text-center">
-            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2024/organigrama_sdm_23052024_a.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
+            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2024/organigrama_20240703.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
         </div>
     </div>
 
@@ -421,7 +421,26 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel-body-mapa">&nbsp;</div>
+                                            <div class="panel-body-mapa">
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-4 text-center">
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2024/rafael_unda_venegas.png" alt="Foto: Rafael Unda Venegas">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-8 ">
+                                                        <div class="descripcion">
+                                                            <h1>Rafael Unda Venegas</h1>
+                                                            <h4>Director de Inteligencia para la Movilidad</h4>
+                                                            <div class="descripcion-xs">
+                                                                <p>Ingeniero civil y magíster en ingeniería civil con énfasis en transporte de la Universidad de los Andes. Realizó una maestría en planificación urbana en la Universidad de California en Berkeley, donde vivió tres años, de los cuales trabajó un año en UC Berkeley Safe Transportation Research and Education Center.</p>
+                                                                <p>Se ha desempeñado como consultor en el sector transporte, también laboró en TransMilenio, y dentro de su experiencia laboral se destaca que hizo parte del equipo consultor que realizó la Encuesta de Movilidad 2019 para la Secretaría Distrital de Movilidad.</p>
+                                                                <p>Pertenecer a la Entidad para él es un orgullo y una gran responsabilidad, se ha propuesto desde esta Dirección encontrar un balance entre los temas administrativos y el ser propositivo con ideas que permitan mejorar la movilidad en Bogotá.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -1061,25 +1080,28 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100"><img alt="" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-04-2020/alejandra-rojas-posada.jpg"></div>
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-06-2024/alejandra_rojas_posada.png" alt="Foto: Alejandra Rojas Posada">
+                                                        </div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <h1>Alejandra Rojas Posada</h1>
-
                                                             <h4>Directora de Atención al Ciudadano</h4>
-
                                                             <div class="descripcion-xs">
-                                                                <p>Abogada, especialista en Derecho Penal de la Universidad del Rosario. Se ha desempeñado tanto en el sector público, como en el privado, y su experiencia profesional ha sido con mayor énfasis en derecho administrativo.</p>
-
-                                                                <p>Trabajó en la Superintendencia de Puertos y Transporte y en el bufete del abogado penalista Jaime Granados, además en la Unidad de Restitución de Tierras, y en el Ministerio de Agricultura.</p>
+                                                                <p>Abogada de la Universidad Libre con especialización en Derecho Penal de la Universidad del Rosario. En su trayectoria profesional se ha desempeñado como consultora y asesora de entidades públicas y privadas en asuntos legales, con amplia experiencia en el derecho administrativo y el manejo de relaciones con los clientes. Trabajó en la Superintendencia de Puertos y Transporte, en el bufete del abogado penalista Jaime Granados Peña, además en la Unidad de Restitución de Tierras, y en el Ministerio de Agricultura y Desarrollo Rural, entre otros.</p>
+                                                                <p>En el año 2020, llegó a la Secretaría Distrital de Movilidad con el fin de liderar y orientar los procesos contravencionales como subdirectora de Contravenciones. Enfrentando los retos que trajo la pandemia del covid 19, generó estrategias para virtualizar los procesos y así dar continuidad al servicio que prestaba la Entidad.</p>
+                                                                <p>Desde septiembre del 2020 se desempeña como Directora de Atención al Ciudadano, con el reto liderar a más de 300 personas en su equipo de trabajo, ha logrado desarrollar nuevas estrategias en beneficio de la ciudadanía, como el agendamiento de los servicios para la atención de los trámites, el desarrollo e implementación de la salida virtual para vehículos inmovilizados para 9 infracciones de tránsito.</p>
+                                                                <p>Dentro de sus logros como Directora, en el 2022, la SDM ocupó el 7mo puesto en la mejor atención en las entidades públicas otorgada por la Veeduría Distrital. Ha logrado llevar a cabo 22 subastas de vehículos inmovilizados, descongestionando los patios del Distrito dando aplicación a la Ley 1730. Lideró el proyecto de transición de la Concesión SIM a la Ventanilla única de Servicios, ampliando la cobertura con más puntos de atención y simplificando los trámites para el ciudadano. Su gestión ha llevado a la apertura de 9 salas adicionales para cursos pedagógicos, teniendo actualmente 13 y 4 puntos de atención adicionales para salida de patios presencial. Llevó a cabo con éxito la transición de la entidad al nuevo Centro de Contacto de Movilidad, poniendo al servicio de la ciudadanía diferentes herramientas virtuales de atención como videollamada en lenguaje de señas, chat en línea, el desarrollo de Lucia, la Asistente Virtual, entre otros.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
+
+
                                             </div>
                                         </div>
                                     </div>
