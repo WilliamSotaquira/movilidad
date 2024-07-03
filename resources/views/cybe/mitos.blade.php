@@ -6,8 +6,55 @@
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 
+<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
+
 <!-- Set mitos -->
 <div class="set-wrapper mitos">
+
+    <!-- bloque box header-->
+    <div class="box box-header">
+        <div class="cmpnt cmpnt-vacio">
+        </div>
+        <div class="cmpnt cmpnt-logo-ppal">
+            <div class="logo logo-ppal">
+                <img class="img-responsive w-100" src="/images/cybe/logo_cybe_v3.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+            </div>
+            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>Movilidad Motorizada de
+                    Cero y
+                    Bajas Emisiones</strong></p>
+        </div>
+    </div>
+
+    <!-- bloque navbar-->
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="http://sdm.wdo:8000/cybe/home">Inicio</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/cambio">¿Por qué?</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/solucion">¿Qué solución proponemos?</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/tecnologias">¿Cuáles son las tecnologías?</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/mitos">Verdades y mitos</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/recursos">Recursos</a></li>
+                    <!-- <li><a href="http://sdm.wdo:8000/cybe/metas">¿Cómo lograr la transición?</a></li> -->
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+
     <style>
         .set-wrapper.mitos {
             font-family: 'Montserrat', sans-serif;
@@ -44,7 +91,6 @@
             background: url('/images/cybe/ppal_mitos.png') no-repeat center center;
             margin-top: 32px;
         }
-
     </style>
     <div class="box-title">
         <div class="cmpnt cmpnt-title-ppal">
