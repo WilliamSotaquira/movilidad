@@ -233,8 +233,68 @@
 
         }
 
+        .b3 .arr-7 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/arrow2.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: relative;
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+            object-position: center;
+
+        }
+
+        .b3 .arr-8 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/arrow4.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: relative;
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+            object-position: center;
+
+        }
+
+        .b3 .arr-9 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/arrow5.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: relative;
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+            object-position: center;
+
+        }
+
+        .b3 .arr-10 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/arrow6.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: relative;
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+            object-position: center;
+
+        }
+
+        .b3 .arr-11 {
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/arrow7.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            position: relative;
+            width: 24px;
+            height: 24px;
+            object-fit: contain;
+            object-position: center;
+
+        }
+
         @media(min-width:768px) {
-            .b3 .cpnt-video {
+            .b3 .video-1 {
                 margin: 32px 84px;
             }
         }
@@ -245,27 +305,87 @@
             <!-- collapse-desvios -->
             <div class='panel-group' id='accordion_desvios' role='tablist ' aria-multiselectable='true'>
 
-                <!-- collapse 1 -->
+                <!-- collapse 3 -->
                 <div class='panel panel-default'>
-                    <div class='panel-heading' role='tab' id='heading_1'>
+                    <div class='panel-heading' role='tab' id='heading-3'>
                         <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse_1' aria-expanded='false' aria-controls='collapse_1'>
-                                Entre calles 69 y 77
+                            <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse-3' aria-expanded='false' aria-controls='collapse-3'>
+                                Entre calles 45 y 53
                             </a>
                         </h4>
                     </div>
-                    <div id='collapse_1' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_1' aria-expanded='false'>
+                    <div id='collapse-3' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading-3' aria-expanded='false'>
                         <div class='panel-body'>
-                            <div class='box-1'>
-                                <div class="img-maps">
-                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa1.png">
-                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa1.png" class="img-responsive w-100" alt="Mapa 1 cierres entre calles 69 y 77" title="Image: Mapa 1 cierres entre calles 69 y 77">
-                                    </a>
+                            <div class='body-collapse-3'>
+
+                                <p class="paragraph ph1">Por las obras de la Primera Línea del Metro de Bogotá, a partir del próximo 05 de julio, los carriles para vehículos particulares de la Avenida Caracas, entre calles 45 y 53, estarán cerrados.</p>
+                                <p class="paragraph ph1">Ten en cuenta los siguientes desvíos para que te puedas movilizar por esta zona de la ciudad:</p>
+                                <div class="sub">
+                                    <span>
+                                        <h4>Desvíos norte – sur</h4>
+                                    </span>
                                 </div>
-                                <div class="img-maps">
-                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa2.png">
-                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa2.png" class="img-responsive w-100" alt="Mapa 2 cierres entre calles 69 y 77" title="Image: Mapa 1 cierres entre calles 69 y 77">
-                                    </a>
+                                <div class="item">
+                                    <span class="arrow arr-2"></span>
+                                    <p class="paragraph ph1">Si vas por la Av. Caracas hacia el sur, tomar la diagonal 54 hacia el occiden- te hasta la carrera 15, girar a la izquierda hasta la calle 44, y seguir hasta llegar nuevamente a la Av. Caracas.</p>
+                                </div>
+                                <div class="sub">
+                                    <span>
+                                        <h4>Desvíos sur – norte</h4>
+                                    </span>
+                                </div>
+                                <div class="item">
+                                    <span class="arrow arr-5"></span>
+                                    <p class="paragraph ph1">Si vas por la Av. Caracas hacia el norte, puedes tomar la diagonal 40 A y continuar por la Carrera Séptima.</p>
+                                </div>
+                                <div class="item">
+                                    <span class="arrow arr-7"></span>
+                                    <p class="paragraph ph1">También puedes tomar la Av. Calle 45 hacia el oriente hasta la carrera sexta, girar a la izquierda y seguir hasta la calle 46, nuevamente girar a la izquierda hasta la carrera novena y luego tomar la calle 54 al occidente, tomar las carreras décima y octava hasta la calle 57 al occidente hasta la Av. Caracas.</p>
+                                </div>
+                                <div class="imagen img-mapa img-mapa-1">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/mapa1_160624.png" alt="mapa desvios sur - norte" title="mapa desvios sur - norte">
+                                </div>
+                                <div class="sub">
+                                    <span>
+                                        <h4>Desvío oriente – norte</h4>
+                                    </span>
+                                </div>
+                                <div class="item">
+                                    <span class="arrow arr-8"></span>
+                                    <p class="paragraph ph1">También puedes tomar la Av. Calle 45 hacia el oriente hasta la carrera sexta, girar a la izquierda y seguir hasta la calle 46, nuevamente girar a la izquierda hasta la carrera novena y luego tomar la calle 54 al occidente, tomar las carreras décima y octava hasta la calle 57 al occidente hasta la Av. Caracas.</p>
+                                </div>
+                                <div class="sub">
+                                    <span>
+                                        <h4>Desvío oriente – sur</h4>
+                                    </span>
+                                </div>
+                                <div class="item">
+                                    <span class="arrow arr-9"></span>
+                                    <p class="paragraph ph1">Si vas por la calle 45, seguir hasta la carrera 15 A Bis girar a la derecha y continuar hasta la calle 46, luego girar hacia la derecha y en la carrera 15 girar nuevamente a la derecha hasta la calle 44, girar a la izquierda y por esta seguir hacia el oriente hasta la Av. Caracas.</p>
+                                </div>
+                                <div class="imagen img-mapa img-mapa-1">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/mapa2_160624.png" alt="mapa desvios oriente - sur" title="mapa desvios oriente - sur">
+                                </div>
+                                <div class="sub">
+                                    <span>
+                                        <h4>Desvío occidente - norte</h4>
+                                    </span>
+                                </div>
+                                <div class="item">
+                                    <span class="arrow arr-10"></span>
+                                    <p class="paragraph ph1">Si vas por la calle 53, seguir hasta la Carrera Séptima y luego girar a la izquierda para seguir hacia el norte.</p>
+                                </div>
+                                <div class="sub">
+                                    <span>
+                                        <h4>Desvío oriente - sur</h4>
+                                    </span>
+                                </div>
+                                <div class="item">
+                                    <span class="arrow arr-11"></span>
+                                    <p class="paragraph ph1">Si vas por la calle 53, tomar la carrera 16 hacia el norte hasta la calle 54 A, girar a la derecha y seguir hasta la carrera 15, girar a la derecha hasta la calle 44, girar a la izquierda y seguir hasta llegar nuevamente a la Av. Caracas al sur.</p>
+                                </div>
+                                <div class="imagen img-mapa img-mapa-1">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-06-2024/mapa3_160624.png" alt="mapa desvios oriente - sur" title="mapa desvios oriente - sur">
                                 </div>
                             </div>
                         </div>
@@ -281,120 +401,97 @@
                             </a>
                         </h4>
                     </div>
-                    <div id='collapse_2' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_2' aria-expanded='false'>
+                    <div id='collapse_2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_2' aria-expanded='false'>
                         <div class='panel-body'>
-                            <div class='box-2'>
-                                <div class="cpnt cpnt-1">
-                                    <p class="paragraph">Conoce el cierre de los carriles para vehículos particulares en la Av. Caracas entre las calles 26 y 32 así como los desvíos para movilizarte.</p>
-                                </div>
-                                <div class="cpnt cpnt-video">
-                                    <div class="video video-1 video-16by9">
-                                        <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe width='100%' src='https://www.youtube.com/embed/Z4fnx52C-kE?si=2EKyHsfTM2KQWmDe' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="cpnt cpnt-2">
-                                    <div class="sub">
-                                        <span>
-                                            <h4>Desvíos norte – sur</h4>
-                                        </span>
-                                    </div>
-                                </div>
 
-                                <div class="cpnt cpnt-3">
-                                    <p class="paragraph ph-id-4">Los usuarios que circulan por la Av. Caracas hacia el sur pueden tomar la calle 33A al occidente, girar hacia el sur por la carrera 15 hasta la calle 32 y continuar por: </p>
-                                </div>
-                                <div class="cpnt cpnt-4">
-                                    <div class="imagen img-mapa img-mapa-1">
-                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_20.png" alt="mapa desvio norte - sur" title="mapa desvio norte - sur">
-                                    </div>
-                                </div>
-                                <div class="cpnt cpnt-5">
-                                    <div class="item">
-                                        <span class="arrow arr-1"></span>
-                                        <p class="paragraph"> Opción 1: La carrera 19B hacia el sur. Girar hacia la izquierda para tomar la Av. Calle 24 hasta la carrera 15 al sur y tomar calle 23 para volver a la Av. Caracas.</p>
-                                    </div>
-                                    <div class="item">
-                                        <span class="arrow arr-2"></span>
-                                        <p class="paragraph"> Opción 2: La calle 26 hasta la Av. Caracas hacia el sur.</p>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <!-- box b-3 -->
-                            <style>
-                                .set-wrapper .b-3 {
-                                    grid-area: b-3;
-                                    margin: 16px 0px;
-                                }
-                            </style>
-                            <div class="box b-3">
-                                <div class="cpnt cpnt-1">
-                                </div>
-                                <div class="cpnt cpnt-2">
-                                    <div class="sub">
-                                        <span>
-                                            <h4>Desvíos sur – norte</h4>
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="cpnt cpnt-3">
-                                    <p class="paragraph ph-id-4">Los usuarios que circulan por la Av. Caracas hacia el norte pueden tomar: </p>
-                                </div>
-                                <div class="cpnt cpnt-4">
-                                    <div class="imagen img-mapa img-mapa-1">
-                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_21.png" alt="mapa desvio sur - norte" title="mapa desvio sur - norte">
-                                    </div>
-                                </div>
-                                <div class="cpnt cpnt-5">
-                                    <div class="item">
-                                        <span class="arrow arr-3"></span>
-                                        <p class="paragraph"> Opción 1: La calle 24 al oriente, girar a la izquierda en la Carrera Décima y la Carrera Séptima.</p>
-                                    </div>
-                                    <div class="item">
-                                        <span class="arrow arr-4"></span>
-                                        <p class="paragraph"> Opción 2: La Calle 26 al oriente y girar a la izquierda para tomar la Carrera Séptima al norte. </p>
-                                    </div>
+                            <p class="paragraph">Conoce el cierre de los carriles para vehículos particulares en la Av. Caracas entre las calles 26 y 32 así como los desvíos para movilizarte.</p>
+                            <div class="video video-1 video-16by9">
+                                <div class="embed-responsive embed-responsive-16by9">
+                                    <iframe width='100%' src='https://www.youtube.com/embed/Z4fnx52C-kE?si=2EKyHsfTM2KQWmDe' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                 </div>
                             </div>
-                            <!-- box b-4 -->
-                            <style>
-                                .set-wrapper .b-4 {
-                                    grid-area: b-4;
-                                    margin: 16px 0px;
-                                }
-                            </style>
-                            <div class="box b-4">
-                                <div class="cpnt cpnt-1">
+                            <div class="sub">
+                                <span>
+                                    <h4>Desvíos norte – sur</h4>
+                                </span>
+                            </div>
+
+                            <p class="paragraph ph-id-4">Los usuarios que circulan por la Av. Caracas hacia el sur pueden tomar la calle 33A al occidente, girar hacia el sur por la carrera 15 hasta la calle 32 y continuar por: </p>
+                            <div class="imagen img-mapa img-mapa-1">
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_20.png" alt="mapa desvio norte - sur" title="mapa desvio norte - sur">
+                            </div>
+                            <div class="item">
+                                <span class="arrow arr-1"></span>
+                                <p class="paragraph"> Opción 1: La carrera 19B hacia el sur. Girar hacia la izquierda para tomar la Av. Calle 24 hasta la carrera 15 al sur y tomar calle 23 para volver a la Av. Caracas.</p>
+                                <div class="item">
+                                    <span class="arrow arr-2"></span>
+                                    <p class="paragraph"> Opción 2: La calle 26 hasta la Av. Caracas hacia el sur.</p>
                                 </div>
-                                <div class="cpnt cpnt-2">
-                                    <div class="sub">
-                                        <span>
-                                            <h4>Desvío oriente a norte y sur</h4>
-                                        </span>
-                                    </div>
+                            </div>
+                            <div class="sub">
+                                <span>
+                                    <h4>Desvíos sur – norte</h4>
+                                </span>
+                            </div>
+
+
+                            <p class="paragraph ph-id-4">Los usuarios que circulan por la Av. Caracas hacia el norte pueden tomar: </p>
+                            <div class="imagen img-mapa img-mapa-1">
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_21.png" alt="mapa desvio sur - norte" title="mapa desvio sur - norte">
+                            </div>
+                            <div class="item">
+                                <span class="arrow arr-3"></span>
+                                <p class="paragraph"> Opción 1: La calle 24 al oriente, girar a la izquierda en la Carrera Décima y la Carrera Séptima.</p>
+                            </div>
+                            <div class="item">
+                                <span class="arrow arr-4"></span>
+                                <p class="paragraph"> Opción 2: La Calle 26 al oriente y girar a la izquierda para tomar la Carrera Séptima al norte. </p>
+                            </div>
+
+
+                            <div class="sub">
+                                <span>
+                                    <h4>Desvío oriente a norte y sur</h4>
+                                </span>
+                            </div>
+                            <p class="paragraph ph-id-4">Los usuarios que circulan por la Av. Caracas hacia el norte pueden tomar: </p>
+                            <div class="imagen img-mapa img-mapa-1">
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_22.png" alt="mapa desvio orienta a norte - sur" title="mapa desvio orienta a norte - sur">
+                            </div>
+                            <div class="item">
+                                <span class="arrow arr-5"></span>
+                                <p class="paragraph"> Los usuarios que vienen del oriente por la Calle 26 y se dirigen hacia el norte, pueden tomar la carrera 15 hasta la calle 30, girar a la derecha hasta la carrera 16 y seguir hacia el norte hasta la calle 34. </p>
+                            </div>
+                            <div class="item">
+                                <span class="arrow arr-6"></span>
+                                <p class="paragraph"> Quienes circulan en sentido oriente-occidente por la calle 26 y se dirigen hacia el sur, pueden girar a la derecha por la carrera 20A y subir por la carrera 28 hasta la calle 32 y seguir por la carrera 19B al sur hasta la calle 24, girar hasta la carrera 15 al sur y tomar calle 23 para volver a la Av. Caracas.</p>
+                            </div>
+                            <p class="paragraph">*Estos carriles mixtos en la Av. Caracas solo quedarán habilitados para la circulación del Sistema troncal de TransMilenio.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- collapse 1 -->
+                <div class='panel panel-default'>
+                    <div class='panel-heading' role='tab' id='heading_1'>
+                        <h4 class='panel-title'>
+                            <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse_1' aria-expanded='false' aria-controls='collapse_1'>
+                                Entre calles 69 y 77
+                            </a>
+                        </h4>
+                    </div>
+                    <div id='collapse_1' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_1' aria-expanded='false'>
+                        <div class='panel-body'>
+                            <div class='g1'>
+                                <div class="img-maps">
+                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa1.png">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa1.png" class="img-responsive w-100" alt="Mapa 1 cierres entre calles 69 y 77" title="Image: Mapa 1 cierres entre calles 69 y 77">
+                                    </a>
                                 </div>
-                                <div class="cpnt cpnt-3">
-                                    <p class="paragraph ph-id-4">Los usuarios que circulan por la Av. Caracas hacia el norte pueden tomar: </p>
-                                </div>
-                                <div class="cpnt cpnt-4">
-                                    <div class="imagen img-mapa img-mapa-1">
-                                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-05-2024/recurso_22.png" alt="mapa desvio orienta a norte - sur" title="mapa desvio orienta a norte - sur">
-                                    </div>
-                                </div>
-                                <div class="cpnt cpnt-5">
-                                    <div class="item">
-                                        <span class="arrow arr-5"></span>
-                                        <p class="paragraph"> Los usuarios que vienen del oriente por la Calle 26 y se dirigen hacia el norte, pueden tomar la carrera 15 hasta la calle 30, girar a la derecha hasta la carrera 16 y seguir hacia el norte hasta la calle 34. </p>
-                                    </div>
-                                    <div class="item">
-                                        <span class="arrow arr-6"></span>
-                                        <p class="paragraph"> Quienes circulan en sentido oriente-occidente por la calle 26 y se dirigen hacia el sur, pueden girar a la derecha por la carrera 20A y subir por la carrera 28 hasta la calle 32 y seguir por la carrera 19B al sur hasta la calle 24, girar hasta la carrera 15 al sur y tomar calle 23 para volver a la Av. Caracas.</p>
-                                    </div>
-                                </div>
-                                <div class="cpnt cpnt-6">
-                                    <p class="paragraph">*Estos carriles mixtos en la Av. Caracas solo quedarán habilitados para la circulación del Sistema troncal de TransMilenio.</p>
+                                <div class="img-maps">
+                                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa2.png">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa2.png" class="img-responsive w-100" alt="Mapa 2 cierres entre calles 69 y 77" title="Image: Mapa 1 cierres entre calles 69 y 77">
+                                    </a>
                                 </div>
                             </div>
                         </div>
