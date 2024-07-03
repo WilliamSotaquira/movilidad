@@ -334,21 +334,23 @@
                         padding: 32px;
                     }
 
-                    .info-gr .paragraph-vrt h3{
+                    .info-gr .paragraph-vrt h3 {
                         font-size: 24px;
                         font-weight: 700;
                         text-align: center;
                         line-height: 1.3;
                         color: #3333390;
                     }
-                    .info-gr .paragraph-vrt h4{
+
+                    .info-gr .paragraph-vrt h4 {
                         font-size: 16px;
                         font-weight: 700;
                         text-align: center;
                         line-height: 1.3;
                         color: #333333;
                     }
-                    .info-gr .paragraph-vrt ul>li{
+
+                    .info-gr .paragraph-vrt ul>li {
                         font-size: 16px;
                         font-weight: 500;
                         text-align: inherit;
@@ -408,10 +410,10 @@
             <div class="perfiles">
                 <div class="perfil zoom">
                     <div class="foto">
-                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/paula-tatiana-arenas.png' alt='Foto Paula Tatiana Arenas' title='Foto Paula Tatiana Arenas'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/clemencia_rojas_arias.png' alt='Foto Clemencia Rojas Arias' title='Foto Clemencia Rojas Arias'>
                     </div>
                     <div class="nombre">
-                        <h3>Paula Tatiana Arenas</h3>
+                        <h3>Clemencia Rojas Arias</h3>
                         <h4><strong>Responsable de la Dirección</strong> - Subsecretaria de Gestión Corporativa</h4>
                     </div>
                 </div>
@@ -432,6 +434,8 @@
                         <h3>Paola Adriana Corona Miranda</h3>
                         <h4><strong>Coordinadora efr</strong> - Directora de Talento Humano</h4>
                     </div>
+
+
                 </div>
             </div>
             <div class="titulo">
@@ -440,10 +444,10 @@
             <div class="perfiles">
                 <div class="perfil zoom">
                     <div class="foto">
-                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/sandra_vargas.png' alt='Foto Sandra Vargas' title='Foto Sandra Vargas'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/ilba_milady_vargas_guiza.png' alt='Foto Ilba Milady Vargas Guiza' title='Foto Ilba Milady Vargas Guiza'>
                     </div>
                     <div class="nombre">
-                        <h3>Sandra Vargas Jurado</h3>
+                        <h3>Ilba Milady Vargas Guiza</h3>
                         <h4>Subdirectora Administrativa</h4>
                     </div>
                 </div>
@@ -544,50 +548,7 @@
         <div class="s4">
             <div class="box-parrafo">
                 <div class='row'>
-                    <!-- <div class='col-xs-12 col-sm-8 col-md-8'>
-                    <div class="btn-efr">
-                        <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-11-2020/5._cartilla_de_medidas_efr.pdf">
-                            <div class="titulo">
-                                <div>
-                                    Medidas <strong>efr</strong>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div> -->
-                    <!-- <div class='col-xs-12 col-sm-4 col-md-4'>
-                        <div class="btn-efr">
-                            <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-11-2020/6._diangostico_efr_.pdf">
-                                <div class="titulo">
-                                    <div>
-                                        Resultados de Diagnóstico del <strong>Sistema de Gestión efr</strong>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div> -->
-                    <!-- <div class='col-xs-12 col-sm-8 col-md-8'>
-                        <div class="btn-efr">
-                            <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-11-2020/7._indicadores.pdf">
-                                <div class="titulo">
-                                    <div>
-                                        Sistemas de Gestión <strong>efr - Indicadores</strong>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div> -->
-                    <!-- <div class='col-xs-12 col-sm-4 col-md-4'>
-                        <div class="btn-efr">
-                            <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-11-2020/objetivos-de-mejora-efr.pdf">
-                                <div class="titulo">
-                                    <div>
-                                        Objetivos de <strong>Mejora efr</strong>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div> -->
+
                     <div class='col-xs-12 col-sm-6 col-md-6'>
                         <div class="btn-efr">
                             <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/ppt_cartilla_efr.2.pdf">
@@ -608,6 +569,73 @@
                                     </div>
                                 </div>
                             </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- box b1 -->
+        <style>
+            .set-wrapper .b1 {
+                grid-area: b1;
+                margin-top: 32px
+            }
+
+            .b1 .glyphicon-chevron-right::before {
+                color: #fff !important;
+            }
+
+            .b1 .glyphicon-chevron-left::before {
+                color: #fff !important;
+            }
+
+            .b1 .panel-heading {
+                border-color: #ff6600 !important;
+                background-color: #ff6600 !important;
+                background-image: none !important;
+            }
+
+            .b1 .panel-heading .panel-title a {
+                text-decoration: none;
+                color: #fff !important;
+                font-size: 18px;
+                font-weight: 600;
+                letter-spacing: 1px;
+            }
+
+            .b1 .panel-heading .panel-title a:after {
+                font-family: 'Glyphicons Halflings';
+                content: "\e080";
+                float: right;
+                color: #fff;
+                font-size: 18px;
+            }
+
+            .b1 .panel-heading .panel-title a.collapsed:after {
+                content: "\e114";
+            }
+        </style>
+        <div class="box b1">
+            <div class="cpnt cpnt-collapse">
+                <!-- collapse group recursos -->
+                <div class='panel-group' id='accordion-recursos' role='tablist ' aria-multiselectable='true'>
+                    <!-- collapse 2024 -->
+                    <div class='panel panel-default'>
+                        <div class='panel-heading' role='tab' id='heading-2024'>
+                            <h4 class='panel-title'>
+                                <a role='button' data-toggle='collapse' data-parent='#accordion-recursos' href='#collapse-2024' aria-expanded='false' aria-controls='collapse-2024'>
+                                    Documentos de interés
+                                </a>
+                            </h4>
+                        </div>
+                        <div id='collapse-2024' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-2024' aria-expanded='false'>
+                            <div class='panel-body'>
+                                <div class='body-collapse-2024'>
+                                    <li>
+                                        <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-06-2024/rse_sdm.pptx">Responsabilidad Social Empresarial (.pptx)</a>
+                                    </li>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -856,24 +884,8 @@
             word-break: break-word !important;
         }
 
-        /*
-   .seccion [class*='col-'] {
-      margin: 0px;
-      padding: 0px;
-      border: 0;
-      outline: 0;
-      font-size: 100%;
-      vertical-align: baseline;
-   }
-   */
-
         .w-100 {
             width: 100%;
-        }
-
-        @media(max-width:767px) {
-
-            .box-parrafo {}
         }
 
         @media(min-width:768px) {
@@ -881,10 +893,6 @@
                 padding: 30px 35px 0px 30px;
             }
         }
-
-        @media(min-width:992px) {}
-
-        @media(min-width:1200px) {}
     </style>
     <script>
         javascript: (function() {
