@@ -1,69 +1,19 @@
 @extends('welcome')
-@section('title', 'blade')
+@section('title', 'home')
 @section('contenido')
+
+<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
+
 
 <!-- Google fonts - Montserrat  -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 
-<!-- Set blade -->
-<div class="set-wrapper blade">
+<!-- Set home -->
+<div class="set-wrapper home">
 
     <!-- bloque box header-->
-    <style>
-        .set-wrapper .box-header {
-            background: #66e026;
-            background-image: url('/images/cybe/cybe_portada_2.png');
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-
-            display: grid;
-            grid-auto-flow: dense;
-            grid-template-columns: 1fr;
-            grid-template-rows: auto;
-            grid-template-areas: "box-header";
-        }
-
-        @media(min-width: 908px) {
-            .set-wrapper .box-header {
-                background-position: center -30em;
-                grid-template-columns: 55% 45%;
-                grid-template-areas: "vacio box-header";
-            }
-        }
-
-        .box-header .cmpnt-logo-ppal {
-            grid-area: box-header;
-            /* margin: 2em 1em 0 1em; */
-            height: 250px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .box-header .cmpnt-logo-ppal .logo-ppal {
-            width: 100%;
-            max-width: 200px;
-            margin: 0 auto;
-        }
-
-        .box-header .cmpnt-logo-ppal .paragraph {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 20px;
-            font-weight: 400;
-            text-align: left;
-            line-height: 1.1;
-            color: #fff;
-            text-align: center;
-            margin: 8px 14px;
-            padding: 0;
-            max-width: 400px;
-        }
-    </style>
-
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
         </div>
@@ -77,52 +27,7 @@
         </div>
     </div>
 
-
-    <style>
-        .set-wrapper .navbar {
-            background: #66e026;
-            border: none;
-            border-radius: 0;
-            font-size: 16px;
-            font-weight: 400;
-            line-height: 1.1;
-            color: #fff;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-            width: 100%;
-        }
-
-        .set-wrapper .navbar-nav>li {
-            background: #66e026;
-            color: #1c2046;
-        }
-
-        .set-wrapper .navbar-nav>li:hover {
-            background: #1c2046;
-            color: #66e026;
-        }
-
-        .set-wrapper .navbar-nav>li>a {
-            color: #1c2046 !important;
-        }
-
-        .set-wrapper .navbar-nav>li>a {
-            color: #1c2046 !important;
-        }
-
-        .set-wrapper .navbar-nav>li:hover>a {
-            color: #66e026 !important;
-        }
-
-        @media(min-width:768px) {
-            .navbar-collapse.collapse {
-                display: inline-block !important;
-                width: auto !important;
-            }
-        }
-    </style>
-
+    <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
 
@@ -139,17 +44,19 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="#">¿Por qué?</a></li>
-                    <li><a href="#">¿Cuáles son las tecnologías?</a></li>
-                    <li><a href="#">¿Qué solución proponemos?</a></li>
-                    <li><a href="#">¿Cómo lograr la transición?</a></li>
-                    <li><a href="#">Verdades y mitos</a></li>
-                    <li><a href="#">Normativa aplicable</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/home">Inicio</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/cambio">¿Por qué?</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/solucion">¿Qué solución proponemos?</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/tecnologias">¿Cuáles son las tecnologías?</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/mitos">Verdades y mitos</a></li>
+                    <li><a href="http://sdm.wdo:8000/cybe/recursos">Recursos</a></li>
+                    <!-- <li><a href="http://sdm.wdo:8000/cybe/metas">¿Cómo lograr la transición?</a></li> -->
                 </ul>
 
             </div>
         </div>
     </nav>
+
 
     <!-- bloque box video-->
     <style>
@@ -260,6 +167,7 @@
             }
         }
     </style>
+
     <div class="box box-video">
         <div class="cmpnt cmpnt-video">
             <div class="video video-ppal video-16by9">
@@ -324,7 +232,7 @@
 
         .MultiCarousel .MultiCarousel-inner .item {
             float: left;
-            border-radius: 8px;
+            border-radius: 8px !important;
         }
 
         .MultiCarousel .MultiCarousel-inner .item>div {
@@ -333,10 +241,8 @@
             margin: 10px;
             background: #1c2046;
             color: #fff;
-            /* border: solid 2px #66e026; */
+            border: 5px solid #66e026;
             border-radius: 6px;
-            border: 5px solid transparent;
-            border-image: linear-gradient(45deg, #66e026 0%, #1c2046 100%) 1;
         }
 
         .MultiCarousel-inner .pad15 .lead {
@@ -389,6 +295,11 @@
             pointer-events: none;
             background: #66e026;
         }
+        .box-carousel i{
+            display: block;
+            text-align: center !important;
+            justify-content: center;
+        }
     </style>
 
     <div class="box-carousel">
@@ -408,7 +319,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Flota oficial eléctrica</p>
-                            <p class="value">12</p>
+                            <p class="value">15</p>
                             <img src="/images/cybe/icons/flota_oficial.png" alt="Icono de Flota oficial eléctrica">
                             <p class="details">En operación</p>
                         </div>
@@ -424,7 +335,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Motos eléctricas</p>
-                            <p class="value">410</p>
+                            <p class="value">434</p>
                             <img src="/images/cybe/icons/moto_electrica.png" alt="Icono de moto eléctrica">
                             <p class="details">En operación</p>
                         </div>
@@ -432,7 +343,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros eléctricos</p>
-                            <p class="value">5.583</p>
+                            <p class="value">5.049</p>
                             <img src="/images/cybe/icons/carro_electrico.png" alt="Icono de carro eléctrico">
                             <p class="details">En operación</p>
                         </div>
@@ -440,8 +351,16 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros híbridos</p>
-                            <p class="value">3.0014</p>
+                            <p class="value">34.087</p>
                             <img src="/images/cybe/icons/carro_electrico.png" alt="Icono de carro eléctrico">
+                            <p class="details">En operación</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="pad15">
+                            <p class="lead">Camiones cero y bajas emisiones</p>
+                            <p class="value">475</p>
+                            <img src="/images/cybe/icons/carga.png" alt="Icono de carro eléctrico">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -449,7 +368,8 @@
                 <button class="btn btn-primary leftLst">&#60;</button>
                 <button class="btn btn-primary rightLst">&#62;</button>
             </div>
-        </div>
+    </div>
+        <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 30 de abril de 2024</i>
 
 
     </div>
@@ -639,7 +559,7 @@
 
         .box-noticias .cmpnt-cards .n-card .imagen img {
             aspect-ratio: 16/9;
-            height: 250px;
+            width: 100%;
             object-fit: cover;
             object-position: 0 0;
             border-radius: 6px 6px 0 0;
@@ -714,51 +634,74 @@
             border-top: 3px solid #66e026;
             margin-top: 8px;
         }
+
+        .zoom {
+            transition: 0.5s ease;
+            -moz-transition: 0.5s ease;
+            /* Firefox */
+            -webkit-transition: 0.5s ease;
+            /* Chrome - Safari */
+            -o-transition: 0.5s ease;
+            /* Opera */
+            -ms-transition: 0.5s ease;
+            /* IE9 */
+        }
+
+        .zoom:hover {
+            transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            /* Firefox */
+            -webkit-transform: scale(1.05);
+            /* Chrome - Safari */
+            -o-transform: scale(1.05);
+            /* Opera */
+            -ms-transform: scale(1.05);
+            /* IE9 */
+        }
     </style>
     <div class="box box-noticias">
         <h3 class="title title-type-3 title-id-6">Noticias</h3>
         <div class="cmpnt cmpnt-cards">
-            <div class="n-card card-1">
+
+            <div class="n-card card-1 zoom">
                 <div class="imagen">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/28-12-2023/2023-12-28_11-03.png" alt="Imagen de noticia">
+                    <img src="https://lh7-us.googleusercontent.com/kXGgSo1-ZNx4qqBeOLdT0-pRFWZZeO16ecJv2W5kYC6obGxtxvEPAHujcFmaMnh7qYwAuWqBboptYsVpxk8C1hDY-9ZuiLJPX8oyRaa0sMgAKLo9nRP7IyZ84F6GhhmQl0ilAPhWogxq374GK3Y3Hg" alt="Imagen de noticia">
                 </div>
                 <div class="resumen">
-                    <h4 class="title title-type-enfasis-1 title-id-7">Bogotá estrena primera red de cargadores públicos
-                        para carros eléctricos</h4>
-                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 28 de diciembre de 2023 (@SectorMovilidad).
-                        Con una inversión que supera los 6.000 millones de pesos, la Secretaría Distrital de Movilidad,
-                        La Rolita y Enel Colombia (a través de su línea Enel X) presentaron hoy la primera red de
-                        cargadores públicos para vehículos eléctricos, que estará compuesta por 15 electrolineras
-                        distribuidas en seis zonas estratégicas de la ciudad.</p>
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_vuelve_a_ser_ejemplo_de_movilidad_escolar_activa_en_el_mundo">
+                        <h4 class="title title-type-enfasis-1 title-id-7">Bogotá vuelve a ser ejemplo de movilidad escolar activa en el mundo</h4>
+                    </a>
+                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 3 de mayo de 2024 (@SectorMovilidad). Durante esta semana, estudiantes de medicina, investigadores, profesionales y funcionarios de Maputo - capital de Mozambique- y que hacen parte del proyecto ‘De Camino al Colegio’, visitan Bogotá. Se trata de una investigación global que busca entender la aceptabilidad, el impacto, la viabilidad y la adaptabilidad de programas de movilidad activa desde y hacia el colegio, para fomentar estilos de vida saludable y el bienestar mental en adolescentes escolares de 8 a 16 años.</p>
                 </div>
             </div>
-            <div class="n-card card-2">
+
+            <div class="n-card card-2 zoom">
                 <div class="imagen">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/29-01-2024/obfuscated.png" alt="Imagen de noticia">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/13-02-2024/1_0.jpg" alt="Imagen de noticia">
                 </div>
                 <div class="resumen">
-                    <h4 class="title title-type-enfasis-1 title-id-7">Se estima que dejen de circular más de 1.850.000
-                        vehículos particulares y 430.000 motos</h4>
-                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 29 de enero de 2024 (@SectorMovilidad). La
-                        nueva jornada del Día sin Carro y sin Moto en Bogotá se realizará el próximo jueves, 01 de
-                        febrero, de 5:00 a.m. a 9:00 p.m., con el propósito de generar hábitos en la ciudadanía
-                        encaminados a la movilidad sostenible.</p>
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/como_construir_e_implementar_un_plan_integral_de_movilidad_sostenible_en_las_organizaciones">
+                        <h4 class="title title-type-enfasis-1 title-id-7">Cómo construir e implementar un Plan Integral de Movilidad Sostenible en las organizaciones</h4>
+                    </a>
+                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá. Febrero de 2024. Con el fin de orientar a entidades públicas, empresas privadas y universidades acerca de cómo promover el desarrollo de hábitos de movilidad sostenible en sus trabajadoras/es y estudiantes, la Secretaría Distrital de Movilidad (SDM) publicó la Guía Práctica Cómo construir e implementar un Plan Integral de Movilidad Sostenible (PIMS) en las organizaciones,</p>
                 </div>
             </div>
+
         </div>
     </div>
 
     <!-- Sección box aliados -->
     <div class="box box-aliados">
-        <div class="set-logos-aliados aliados col-span-2">
+
+        <div class="cpnt cpnt-aliados-title">
             <h3 class="title title-type-3 title-id-n3">
                 Aliados
             </h3>
         </div>
-        <div class="paragraph">
+        <div class="cpnt cpnt-aliados-summary">
             <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para invitar a las <strong>organizaciones a que definan compromisos específicos por la movilidad eléctrica.</strong></p>
         </div>
-        <div class="logos-aliados">
+        <div class="cpnt cpnt-logos-aliados">
             <div class="logo-aliado img-logo-aliados-1">
                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/unep50logo.png" alt="Logo ONU" title="Logo ONU">
             </div>
@@ -766,10 +709,10 @@
                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/b_move_to_zero-full_color.png" alt="Logo Move to Zero" title="Logo Move to Zero">
             </div>
         </div>
-        <div class="paragraph col-span-2">
+        <div class="cpnt cpnt-paragraph">
             <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica.</p>
         </div>
-        <div class="slider col-span-2">
+        <div class="cpnt cpnt-slider">
             <div id="carousel_empresas_b" class="carousel carousel_empresas slide" data-ride="carousel">
                 <div class="carousel-inner">
                     <div class="item active">
@@ -870,26 +813,30 @@
                 grid-auto-flow: dense;
                 grid-template-columns: 1fr;
                 grid-template-rows: auto;
-
                 font-family: 'Montserrat', sans-serif;
                 font-size: 15px;
                 font-weight: 500;
                 text-align: left;
                 line-height: 1.5;
                 color: #252525;
-
-
                 padding-top: 32px;
                 padding-bottom: 32px;
             }
 
-            .box-aliados .title-type-3 {
+            .cpnt-aliados-title .title-type-3 {
                 text-align: center;
                 text-transform: uppercase;
                 font-size: 40px;
                 color: #1c2046;
                 font-weight: 700;
                 margin-bottom: 32px;
+            }
+
+            @media(min-width:768px) {
+                .cpnt-aliados-title {
+                    grid-column: span 2;
+
+                }
             }
 
             .logos-aliados img {
@@ -905,36 +852,49 @@
 
                 }
             }
-            .box-aliados .paragraph{
-                height: px;
+
+            .box-aliados .cpnt-aliados-summary {
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
             }
 
-            .col-span-2 {
-                grid-column: span 2;
-            }
-
-            .box-aliados .logos-aliados{
+            .box-aliados .cpnt-logos-aliados {
                 display: grid;
                 gap: 8px;
                 grid-auto-flow: dense;
                 grid-template-columns: 1fr;
                 grid-template-rows: auto;
+                align-items: center;
+                justify-items: center;
             }
-            @media(min-width:768px){
-                .box-aliados .logos-aliados{
+
+            .cpnt-logos-aliados img {
+                max-width: 250px;
+                margin: 2rem;
+            }
+
+            @media(min-width:768px) {
+                .box-aliados .cpnt-logos-aliados {
                     display: grid;
                     gap: 8px;
                     grid-auto-flow: dense;
                     grid-template-columns: 1fr 1fr;
                     grid-template-rows: auto;
+                    grid-row: span 2;
                 }
             }
-            .paragraph.col-span-2{
+
+            .cpnt-paragraph {
                 margin-bottom: 32px;
+            }
+
+            @media(min-width:768px) {
+                .cpnt-slider {
+                    grid-column: span 2;
+                    margin-top: 32px;
+                }
             }
         </style>
 
