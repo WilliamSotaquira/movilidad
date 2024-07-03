@@ -10,6 +10,44 @@
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Sección ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
+
+
+<!-- Modal Olga Viviana Rojas Firacative-->
+<div aria-hidden="true" aria-labelledby="exampleModalLongTitle" class="modal fade" id="modalOlgaRojas" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="foto"><img alt="Foto: Olga Viviana Rojas Firacative" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-06-2024/olga_viviana_rojas_firacative.png" title="Foto: Olga Viviana Rojas Firacative"></div>
+
+                <div class="texto">
+                    <h3>Olga Viviana Rojas Firacative</h3>
+                    <p>Administradora en salud ocupacional, apoya temas relacionados con identificación de peligros y valoración de riesgos, implementación de controles, accidentes de trabajo, elementos de protección personal y Plan Estratégico de Seguridad Vial.</p>
+                </div>
+
+                <div class="sub-close"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cerrar</button></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Lida Zamira León Leal-->
+<div aria-hidden="true" aria-labelledby="exampleModalLongTitle" class="modal fade" id="modalLidaLeon" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="foto"><img alt="Foto: Lida Zamira León Leal" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-06-2024/lida_zamira_leon_leal.png" title="Foto: Lida Zamira León Leal"></div>
+
+                <div class="texto">
+                    <h3>Lida Zamira León Leal</h3>
+                    <p>Ingeniera industrial, apoya los temas relacionados con afiliaciones a la ARL, comunicaciones, Copasst, seguimiento a planes de mejoramiento y las actividades que se requieran para el cumplimiento de los objetivos del sistema.</p>
+                </div>
+
+                <div class="sub-close"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cerrar</button></div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <!-- Modal Lina Hernández -->
 <div aria-hidden="true" aria-labelledby="exampleModalLongTitle" class="modal fade" id="modalLinaHernandez" role="dialog" tabindex="-1">
     <div class="modal-dialog" role="document">
@@ -161,8 +199,7 @@
 
                 <div class="texto">
                     <h3>Valentina Corredor</h3>
-
-                    <p>Tecnóloga en seguridad y salud en el trabajo, apoya el programa de medicina preventiva e investigaciones de incidentes y accidentes de trabajo.</p>
+                    <p>Profesional en Gestión de la Seguridad y Salud Laboral, apoya el programa de medicina preventiva y del trabajo y seguimiento a cumplimiento de criterios en SST de contratistas y terceros.</p>
                 </div>
 
                 <div class="sub-close"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cerrar</button></div>
@@ -182,8 +219,7 @@
 
                 <div class="texto">
                     <h3>Diana Herrera</h3>
-
-                    <p>Técnica en administración de recursos humanos, apoya los temas relacionados a capacitación, asesores de la ARL e intermediarios y las actividades que se requieran para el cumplimiento de los objetivos del sistema.</p>
+                    <p>Técnica en administración de recursos humanos, apoya los temas relacionados a capacitación y las actividades que se requieran para el cumplimiento de los objetivos del sistema.</p>
                 </div>
 
                 <div class="sub-close"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cerrar</button></div>
@@ -425,6 +461,33 @@
         background-color: #27A6CF;
         color: #f5f5f5;
     }
+
+    .tab-box .tab-content>.tab-pane {
+        display: none;
+    }
+
+    .tab-box .tab-content>.active {
+        display: inline-block !important;
+    }
+
+
+    .tab-box .tab-content .video.video-2 {
+        width: 100%;
+    }
+
+    .tab-box .tab-content .video.video-2 .embed-responsive {
+        position: relative;
+        display: flex;
+        min-width: 100%;
+        min-height: 250px;
+        padding: 0px;
+        overflow: visible;
+
+    }
+
+    .tab-box .tab-content .video.video-2 .embed-responsive iframe{
+        position: relative;
+    }
 </style>
 <div class="container-fluid seccion">
     <div class="s1">
@@ -477,9 +540,11 @@
 
                         <div class="tab-pane fade" id="tp_dos" role="tabpanel">
                             <div class="pane-box">
-                                <video controls="" style="width: 100%;">
-                                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-12-2021/dia_de_la_emergencia_-_2021.mp4" type="video/mp4">
-                                </video>
+                                <div class="video video-2 video-16by9">
+                                    <div class='embed-responsive embed-responsive-4by3'>
+                                        <iframe width="100%" src="https://www.youtube.com/embed/jZDn07vJ3pg?si=iZFI7g8A91-g58pZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -504,7 +569,7 @@
                     <ul class="nav nav-tabs" role="tablist">
                         <li class="active" role="presentation"><a aria-controls="tp_cuatro" data-toggle="tab" href="#tp_cuatro" role="tab">Conoce al equipo SST</a></li>
                         <li role="presentation"><a aria-controls="tp_uno" data-toggle="tab" href="#tp_uno" role="tab">Señalética en Braille </a></li>
-                        <li role="presentation"><a aria-controls="tp_dos" data-toggle="tab" href="#tp_dos" role="tab">Día de la emergencia</a></li>
+                        <li role="presentation"><a aria-controls="tp_dos" data-toggle="tab" href="#tp_dos" role="tab">Semana de la Salud</a></li>
                         <li role="presentation"><a aria-controls="tp_tres" data-toggle="tab" href="#tp_tres" role="tab">Importancia de vacunarse</a></li>
                     </ul>
                 </div>
@@ -689,15 +754,15 @@
                         </div>
 
                         <div class="card-profile">
-                            <div class="foto-perfil"><a data-target="#modalCarolinaMartinez" data-toggle="modal"><img alt="Liliana León" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-09-2023/carolinamartinez.png" title="Carolina Martinez"></a></div>
+                            <div class="foto-perfil"><a data-target="#modalOlgaRojas" data-toggle="modal"><img alt="Olga Viviana Rojas" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-06-2024/olga_viviana_rojas_firacative.png" title="Olga Viviana Rojas"></a></div>
 
-                            <h4><a data-target="#modalCarolinaMartinez" data-toggle="modal">Carolina Martínez</a></h4>
+                            <h4><a data-target="#modalOlgaRojas" data-toggle="modal">Olga Vivina Rojas</a></h4>
                         </div>
 
                         <div class="card-profile">
-                            <div class="foto-perfil "><a data-target="#modalDarioAlbarracin" data-toggle="modal"><img alt="Darío Albarracín" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2024/darioalbarracin.png" title="Darío Albarracín"> </a></div>
+                            <div class="foto-perfil "><a data-target="#modalLidaLeon" data-toggle="modal"><img alt="Lida León" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-06-2024/lida_zamira_leon_leal.png" title="Lida León"> </a></div>
 
-                            <h4><a data-target="#modalDarioAlbarracin" data-toggle="modal">Darío Albarracín</a></h4>
+                            <h4><a data-target="#modalLidaLeon" data-toggle="modal">Lida León</a></h4>
                         </div>
 
                         <div class="card-profile">
@@ -742,11 +807,6 @@
                             <h4><a data-target="#modalCarolSuarez" data-toggle="modal">Carol Suárez</a></h4>
                         </div>
 
-                        <div class="card-profile">
-                            <div class="foto-perfil"><a data-target="#modalDianaChacon" data-toggle="modal"><img alt="Diana Chacón" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-05-2024/dianachacon.png" title="Diana Chacón"> </a></div>
-
-                            <h4><a data-target="#modalDianaChacon" data-toggle="modal">Diana Chacón</a></h4>
-                        </div>
 
                         <div class="card-profile">
                             <div class="foto-perfil"><a data-target="#modalSergioRodriguez" data-toggle="modal"><img alt="Sergio Rodríguez" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/sergio_rodriguez.png" title="Sergio Rodríguez"> </a></div>
@@ -942,14 +1002,6 @@
 
     }
 
-    /* .seccion [class*='col-'] {
-        margin: 0px;
-        padding: 0px;
-        border: 0;
-        outline: 0;
-        vertical-align: baseline;
-    } */
-
     .w-100 {
         width: 100%;
     }
@@ -1012,8 +1064,7 @@
     .s2 .img-s2 {
         padding: 25px;
     }
-</style>
-<style type="text/css">
+
     .nav-tabs {
         width: 100%;
     }
@@ -1114,8 +1165,7 @@
     .box-tab ul>li {
         margin-bottom: 10px;
     }
-</style>
-<style type="text/css">
+
     .recuadro {
         position: relative;
         min-height: 50px;
@@ -1202,8 +1252,7 @@
         padding: 9px 15px;
         text-decoration: none;
     }
-</style>
-<style type="text/css">
+
     .tab-box {
         margin-top: 20px;
         margin-bottom: 20px;
@@ -1260,8 +1309,7 @@
     .ol-docs li a:hover {
         color: #A25FA4;
     }
-</style>
-<style type="text/css">
+
     @media(max-width:767px) {
         .tab-box .nav-tabs>li {
             width: 100%;
@@ -1287,10 +1335,6 @@
 
         .s1 .encabezado .logo img {
             width: 150px;
-        }
-
-        .parrafo-encabezado h3 {
-            /* font-size: 2em; */
         }
 
         .s2 .img-s2 {
