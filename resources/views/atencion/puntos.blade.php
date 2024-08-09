@@ -1096,7 +1096,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/3HTSrq39UVpjozbdA">Calle 37 B sur No. 68 i 32</a></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/i8ZWjYdYZhQAxgAp9"> Transversal 78 k # 41 a 04 sur - Alcaldía local de Kennedy</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -1204,13 +1204,13 @@
 
                             <div class="boxes">
                                 <div class="item item-title span-3">
-                                    <p><strong>Los Martires</strong></p>
+                                    <p><strong>Los Mártires</strong></p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/LcMaVH4un1MsZvdh7">Cr 19b N 23 - 90 Junta de Accion Local</a></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/CAR2JsvoiDxj5qaX8">Cr 19b N 23 - 90 Junta Administradora Local</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -1267,7 +1267,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/sRuAwEB4ZwVNgGVY8">Cr 8 No 6b - 36 Casa Santa Barbara</a></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/a3H4GWkoeecBC1Qz9">Cl 12d No. 3 -22 Casa Comunitaria la Concordia</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -1305,7 +1305,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/hyXfGUwJ9QFotLbx9">Diag 62sur No 20f - 20 Alcaldia Local Ciudad Bolivar Piso 2</a></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/FrdRUFRQZJvDAxtw9">Diag 62 sur No 20 f - 20 Alcaldía Local Ciudad Bolivar Piso 2</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -2263,6 +2263,14 @@
                         background: #191C3A;
                         padding: 16px;
                     }
+                    .content-collapse dd{
+                        font-family: 'Montserrat', sans-serif;
+                        font-optical-sizing: auto;
+                        font-size: 14px;
+                        font-weight: normal;
+                        text-align: left;
+                        line-height: 1.4;
+                    }
                 </style>
                 <div class="content-collapse content-collapse-2">
                     <div class="summary-collapse summary-collapse-1">
@@ -2274,7 +2282,8 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/8OLbJ0ICxE0" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 5:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/WCSecMovilidadV1?token=37CC9C9E2A638DC23750B4EC3F74D96E&notify=b8c4b55f-8a9e-e6bd-b364-6ab30e41be18&dev=false&type=popup">Clic aquí para iniciar el chat.</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 6:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://secmovilidad.cariai.com/smb/chatWeb">Clic aquí para iniciar el chat.</a></p>
+
                             </div>
                         </div>
                     </div>
@@ -2289,6 +2298,11 @@
                                 </div>
 
                                 <p class="paragraph ph-type-1 ph-id-sc2">La Secretaría Distrital de Movilidad te brinda esta herramienta para facilitar nuestra comunicación, la puedes usar desde un computador, celular o tableta. <a href="https://cls45-ws-secmovilidad.inconcertcc.com/C2CSECMOV/">Clic aquí para iniciar la llamada</a></p>
+                                <dl>
+                                    <dt>Horario de Atención:</dt>
+                                    <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                </dl>
                             </div>
                         </div>
                     </div>
@@ -2303,6 +2317,11 @@
                                 </div>
 
                                 <p class="paragraph ph-type-1 ph-id-sc3">Déjanos tus datos y te regresamos la llamada respetando tu turno. <a href="https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/">Clic aquí para solicitar que te regresamos la llamada</a></p>
+                                <dl>
+                                    <dt>Horario de Atención:</dt>
+                                    <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                </dl>
                             </div>
                         </div>
                     </div>
@@ -2317,6 +2336,11 @@
                                 </div>
 
                                 <p class="paragraph ph-type-1 ph-id-sc4">Comunícate con un asesor de servicio a través de videollamada. Este servicio también está disponible en lengua de señas. <a href="https://vus.circulemosdigital.com.co/#/login">Clic aquí para hacer el agendamiento.</a></p>
+                                <dl>
+                                    <dt>Horario de Atención:</dt>
+                                    <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                </dl>
                             </div>
                         </div>
                     </div>
@@ -2331,6 +2355,11 @@
 
 
                                 <p class="paragraph ph-type-1 ph-id-6">Da clic en la imagen para conversar con Lucía, tu asesora de Servicios a la Ciudadanía.</p>
+                                <dl>
+                                    <dt>Horario de Atención:</dt>
+                                    <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                </dl>
                             </div>
                             <style type="text/css">
                                 .box-summary-2 .box-items .logo-lucia img {
