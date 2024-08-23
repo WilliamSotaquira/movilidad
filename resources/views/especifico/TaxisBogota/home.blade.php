@@ -4,10 +4,10 @@
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <div class="container-fluid taxis">
 	<div class="row"><!-- xs -->
-		<div class="col-xs-12 visible-xs-12 visible-xs-block"><img alt="Taxis de Bogotá - Servicio legal y de calidad las 24 horas." class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-07-29/banner_si_voy_en_taxi_900_x_300.jpg" title="Taxis de Bogotá - Servicio legal y de calidad las 24 horas."></div>
+		<div class="col-xs-12 visible-xs-12 visible-xs-block"><img alt="Taxis de Bogotá - Servicio legal y de calidad las 24 horas." class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-07-09/banner_si_voy_en_taxi_1920_x_320.png" title="Taxis de Bogotá - Servicio legal y de calidad las 24 horas."></div>
 		<!-- sm -->
 
-		<div class="col-sm-12 hidden-xs"><img alt="Taxis de Bogotá - Servicio legal y de calidad las 24 horas." class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-07-29/banner_si_voy_en_taxi_1920_x_320_1.jpg" title="Taxis de Bogotá - Servicio legal y de calidad las 24 horas."></div>
+		<div class="col-sm-12 hidden-xs"><img alt="Taxis de Bogotá - Servicio legal y de calidad las 24 horas." class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-07-09/banner_si_voy_en_taxi_1920_x_320_2.png" title="Taxis de Bogotá - Servicio legal y de calidad las 24 horas."></div>
 	</div>
 
 	<div class="row">
@@ -200,7 +200,7 @@
 		<div class="col-sm-12">&nbsp;
 			<h1 class="pt-h1">¿Qué es la Tarjeta de Control?</h1>
 
-			<div class="text-center "><img alt="Imagen con ejemplo de la tarjeta de control" class="pt-img" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2021-07-29/que_es_la_tarjeta_de_control-.jpg" title="Tarjeta de control" width="90%">
+			<div class="text-center "><img alt="Imagen con ejemplo de la tarjeta de control" class="pt-img" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-07-09/tarjeta_de_control.png" title="Tarjeta de control" width="90%">
 				<p class="m-0 p-0 f-table text-center"><small>Tarjeta de control</small></p>
 			</div>
 			&nbsp;

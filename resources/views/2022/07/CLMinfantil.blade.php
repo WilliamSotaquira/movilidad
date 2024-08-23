@@ -255,63 +255,48 @@
         <div class="box-s4">
 
             <div class="card-clm">
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2022/clm_ninos_8.png' alt='' title=''>
+                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-07-2024/apropiacion_b.png' alt='' title=''>
                 <div class="title">
-                    <h4>Seguridad vial</h4>
+                    <h4>Apropiación del espacio público</h4>
                 </div>
                 <div class="overlay">
                     <div class="text">
-                        <p>A través del juego conocerás como desplazarte en la vía de forma segura, evitar riesgos usando pasos seguros y los valores ciudadanos para tener una buena relación con los demás actores viales.</p>
+                        <p>Bogotá es un punto de encuentro para todos y todas, por medio de nuestros talleres reconocerás la importancia de espacios que son fundamentales para la socialización, la interacción y la convivencia de las personas, cuidarlos es el mejor regalo que podremos darle a la ciudad.</p>
                     </div>
                 </div>
             </div>
 
             <div class="card-clm">
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2022/clm_ninos_9_0.jpeg' alt='' title=''>
+                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-07-2024/fortalecimiento_b.png' alt='' title=''>
                 <div class="title">
-                    <h4>Movilidad accesible e incluyente</h4>
+                    <h4>Fortalecimiento y promoción de la participación ciudadana incidente</h4>
                 </div>
                 <div class="overlay">
                     <div class="text">
-                        <p>Experimentarás con tus sentidos para entender las personas con discapacidad, sus principales dificultades al desplazarse en el espacio público y la manera en que todos y todas podemos ayudarnos.</p>
+                        <p>Participa en nuestras actividades donde compartimos ideas y aprendemos a tener una ciudadanía activa y responsable. Tu opinión es valiosa, juntos podemos lograr cambios significativos en nuestra ciudad.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="card-clm">
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2022/clm_ninos_7.png' alt='' title=''>
-                <div class="title">
-                    <h4>Movilidad Multimodal</h4>
-                </div>
-                <div class="overlay">
-                    <div class="text">
-                        <p>Con actividades dinámicas conocerás cuáles son los modos y medios de transporte y la importancia de tener hábitos amigables con el planeta al movernos por la ciudad.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="card-clm">
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2022/clm_ninos_3.png' alt='' title=''>
-                <div class="title">
-                    <h4>Movilidad sostenible</h4>
-                </div>
-                <div class="overlay">
-                    <div class="text">
-                        <p>Los cuentos, historias y juegos grupales son la herramienta para entender que la forma de desplazarnos en la ciudad afecta la calidad de vida y el medio ambiente, así conocerás las claves para proteger el planeta utilizando la bici o caminando.</p>
-                    </div>
-                </div>
-            </div>
         </div>
         <style>
             .box-s4 {
                 display: grid;
                 gap: 30px;
                 grid-auto-flow: dense;
-                grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+                grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
                 grid-template-rows: auto;
                 grid-template-areas:
                     '';
                 padding: 30px;
+
+            }
+
+            @media(min-width:768px) {
+                .box-s4 {
+                    margin-left: 150px;
+                    margin-right: 150px;
+                }
             }
 
             .box-s4 .card-clm {
@@ -335,7 +320,7 @@
                 width: 100%;
                 opacity: 0;
                 transition: .5s ease;
-                background-color: #f8b133;
+                background-color: #bcce00ff;
             }
 
             .box-s4 .card-clm {
@@ -348,13 +333,13 @@
             }
 
             .box-s4 .card-clm .title {
-                height: 60px;
+                height: 80px;
                 border-radius: 0px 0px 5px 5px;
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
-                background-color: #f8b133;
+                background-color: #bcce00ff;
                 padding: 10px;
             }
 
@@ -404,19 +389,20 @@
                 grid-template-columns: 1fr;
                 grid-auto-rows: auto;
                 grid-template-areas:
-                'texto'
-                'imagen';
+                    'texto'
+                    'imagen';
             }
 
             .box-footer .paragraph {
                 grid-area: texto;
             }
 
-            .box-footer .paragraph h3{
+            .box-footer .paragraph h3 {
                 text-align: center;
                 margin: 20px;
             }
-            .box-footer .paragraph a{
+
+            .box-footer .paragraph a {
                 word-break: break-all;
             }
 
@@ -429,69 +415,72 @@
                 justify-content: center;
                 align-items: center;
             }
-            .box-footer .imagen img{
+
+            .box-footer .imagen img {
                 max-width: 150px;
             }
         </style>
-            <hr>
+        <hr>
         <div class="box-intereses">
             <h3><strong>También te puede interesar</strong></h3>
-<div class="box-botones">
-         <div class='imagen zoom'>
-                <a href="https://www.movilidadbogota.gov.co/web/ruta-pila-0" target="_blank" rel="noopener noreferrer">
-                    <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-ruta-pila.png' alt='' title=''>
-                </a>
+            <div class="box-botones">
+                <div class='imagen zoom'>
+                    <a href="https://www.movilidadbogota.gov.co/web/ruta-pila-0" target="_blank" rel="noopener noreferrer">
+                        <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-ruta-pila.png' alt='' title=''>
+                    </a>
+                </div>
+                <div class='imagen zoom'>
+                    <a href="https://www.movilidadbogota.gov.co/web/al-colegio-en-bici" target="_blank" rel="noopener noreferrer">
+                        <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-al-colegio-bici.png' alt='' title=''>
+                    </a>
+                </div>
+                <div class='imagen zoom'>
+                    <a href="https://www.movilidadbogota.gov.co/web/ciempies" target="_blank" rel="noopener noreferrer">
+                        <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-ciempies.png' alt='' title=''>
+                    </a>
+                </div>
+                <div class='imagen zoom'>
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-moviparque.png" target="_blank" rel="noopener noreferrer">
+                        <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-moviparque.png' alt='' title=''>
+                    </a>
+                </div>
+                <div class='imagen zoom'>
+                    <a href="https://www.movilidadbogota.gov.co/web/zonas-escolares" target="_blank" rel="noopener noreferrer">
+                        <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-zonas-escolares.png' alt='' title=''>
+                    </a>
+                </div>
+                <div class='imagen zoom'>
+                    <a href="https://www.movilidadbogota.gov.co/web/ninos-primero" target="_blank" rel="noopener noreferrer">
+                        <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2019/btn-ninos-primero.png' alt='' title=''>
+                    </a>
+                </div>
             </div>
-            <div class='imagen zoom'>
-                <a href="https://www.movilidadbogota.gov.co/web/al-colegio-en-bici" target="_blank" rel="noopener noreferrer">
-                    <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-al-colegio-bici.png' alt='' title=''>
-                </a>
-            </div>
-            <div class='imagen zoom'>
-                <a href="https://www.movilidadbogota.gov.co/web/ciempies" target="_blank" rel="noopener noreferrer">
-                    <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-ciempies.png' alt='' title=''>
-                </a>
-            </div>
-            <div class='imagen zoom'>
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-moviparque.png" target="_blank" rel="noopener noreferrer">
-                    <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-moviparque.png' alt='' title=''>
-                </a>
-            </div>
-            <div class='imagen zoom'>
-                <a href="https://www.movilidadbogota.gov.co/web/zonas-escolares" target="_blank" rel="noopener noreferrer">
-                    <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/btn-zonas-escolares.png' alt='' title=''>
-                </a>
-            </div>
-            <div class='imagen zoom'>
-                <a href="https://www.movilidadbogota.gov.co/web/ninos-primero" target="_blank" rel="noopener noreferrer">
-                    <img class='' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-12-2019/btn-ninos-primero.png' alt='' title=''>
-                </a>
-            </div>
-</div>
-       
+
         </div>
         <style>
-            .box-intereses{
-               background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/bg-header.jpg');             
-               background-position: center;
-               background-repeat: no-repeat;
-               background-size: cover;
-               padding: 16px 16px;
+            .box-intereses {
+                background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-10-2019/bg-header.jpg');
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                padding: 16px 16px;
             }
-            .box-intereses h3{
+
+            .box-intereses h3 {
                 /* text-align: center; */
-            margin: 9px 20px 25px 20px ;
+                margin: 9px 20px 25px 20px;
             }
-            .box-botones{
+
+            .box-botones {
                 grid-auto-flow: dense;
                 display: grid;
                 gap: 10px;
                 grid-auto-rows: auto;
                 grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr));
-             
+
             }
-         
-            .box-botones .imagen img{
+
+            .box-botones .imagen img {
                 /* max-width: 15rem; */
                 max-width: 100%;
             }
@@ -599,12 +588,12 @@
 
     @media(min-width:768px) {
         .box-footer {
-                grid-template-columns: repeat(3, 1fr);
-                grid-template-areas:
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-areas:
                 'texto texto imagen';
-                padding: 0px 16px;
-            }
-     
+            padding: 0px 16px;
+        }
+
     }
 
     @media(min-width:992px) {}

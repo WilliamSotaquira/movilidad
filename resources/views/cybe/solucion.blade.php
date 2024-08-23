@@ -2,13 +2,12 @@
 @section('title','solucion')
 @section('contenido')
 
+
 <!-- Google fonts - Montserrat  -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-
-<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
 
 <style>
     #modal_formacion .modal-header,
@@ -43,7 +42,7 @@
     #modal_formacion .modal-body .txt-modal .descripcion-modal h3 {
         font-size: 24px;
         font-weight: 700;
-        color: #1c2046;
+        color: rgba(77, 84, 31, 1);
         margin: 16px 0;
     }
 
@@ -67,7 +66,7 @@
                             <div class='descripcion-modal'>
                                 <h3>Nuevas capacidades - Formación en cero y bajas emisiones</h3>
                                 <figure>
-                                    <img class="img-responsive w-100" src="/images/cybe/solucion/solucion_4.png" alt="imagen cursos complementarios">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/solucion_4.png" alt="imagen cursos complementarios">
                                     <figcaption>
                                         <!-- <p>Foto: . (SDM).</p> -->
                                     </figcaption>
@@ -106,20 +105,130 @@
 <!-- Set solucion -->
 <div class="set-wrapper solucion">
 
+
+
     <!-- bloque box header-->
+    <style>
+        .set-wrapper .box-header {
+            background: #BED000FF;
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/cybe_portada_2.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas: "box-header";
+        }
+
+        @media (min-width: 908px) {
+            .set-wrapper .box-header {
+                background-position: center -30em;
+                grid-template-columns: 55% 45%;
+                grid-template-areas: "vacio box-header";
+            }
+        }
+
+        .box-header .cmpnt-logo-ppal {
+            grid-area: box-header;
+            height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box-header .cmpnt-logo-ppal .logo-ppal {
+            width: 100%;
+            max-width: 260px;
+            margin: 0 auto;
+            background-color: #BED000FF;
+            padding: 32px;
+            -webkit-box-shadow: 0px 0px 10px 3px #BED000FF25;
+            box-shadow: 0px 0px 10px 3px #BED000FF25;
+            margin-bottom: 12px;
+        }
+
+        .box-header .cmpnt-logo-ppal .paragraph {
+            font-family: "Montserrat", sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            text-align: left;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 8px 14px;
+            padding: 0;
+            max-width: 400px;
+        }
+
+        /* Reglas Navbar */
+        .set-wrapper .navbar {
+            background: #BED000FF;
+            border: none;
+            border-radius: 0;
+            font-family: "Montserrat", sans-serif !important;
+            font-size: 14px !important;
+            font-weight: 400;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
+        @media (min-width: 768px) {
+            .set-wrapper .navbar {
+                display: flex;
+                margin: auto;
+                margin-bottom: 6px;
+            }
+        }
+
+        .set-wrapper .navbar-nav>li {
+            background: #BED000FF;
+            color: #3d4a1c;
+        }
+
+        .set-wrapper .navbar-nav>li:hover {
+            background: #828F26;
+            color: #ffffff;
+        }
+
+        .set-wrapper .navbar-nav>li>a {
+            color: #3d4a1c !important;
+            padding: 14px 4px;
+        }
+
+        .set-wrapper .navbar-nav>li:hover>a {
+            color: #ffffff !important;
+        }
+
+        .set-wrapper .navbar-nav>li a.activado {
+            background: rgba(77, 84, 31, 1) !important;
+            color: #BED000FF !important;
+        }
+
+        @media (min-width: 768px) {
+            .navbar-collapse.collapse {
+                display: inline-block !important;
+                width: auto !important;
+            }
+        }
+    </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="/images/cybe/logo_cybe_v3.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
             </div>
-            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>Movilidad Motorizada de
-                    Cero y
-                    Bajas Emisiones</strong></p>
+            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-
     <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -137,19 +246,238 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://sdm.wdo:8000/cybe/home">Inicio</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/cambio">¿Por qué?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/solucion">¿Qué solución proponemos?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/tecnologias">¿Cuáles son las tecnologías?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/mitos">Verdades y mitos</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/recursos">Recursos</a></li>
-                    <!-- <li><a href="http://sdm.wdo:8000/cybe/metas">¿Cómo lograr la transición?</a></li> -->
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución proponemos?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son nuestras metas?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son las tecnologías?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades y mitos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
                 </ul>
 
             </div>
         </div>
     </nav>
 
+    <!-- bloque box video-->
+    <style>
+        .set-wrapper .box-video {
+            grid-area: box-video;
+            background-color: rgba(77, 84, 31, 1);
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas:
+                'texto'
+                'video';
+        }
+
+        @media(min-width:768px) {
+            .set-wrapper .box-video {
+                grid-template-columns: 60% 40%;
+                grid-template-areas:
+                    'video texto';
+            }
+        }
+
+        .box-video .cmpnt-video {
+            padding: 1em;
+            grid-area: video;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        @media(min-width:768px) {
+            .box-video .cmpnt-video {
+                padding: 4em;
+            }
+
+        }
+
+        .box-video .cmpnt-video .video {
+            position: relative;
+            display: block;
+            width: 100%;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000;
+            border-radius: 4px;
+            box-shadow: 0 0 8px 0 rgba(0, 0, 0, .2);
+        }
+
+        .box-video .cmpnt-texto {
+            padding: 4em 2em 1em 2em;
+            grid-area: texto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        @media(min-width:768px) {
+            .box-video .cmpnt-texto {
+                padding: 4em 4em 4em 0;
+            }
+        }
+
+        .box-video .cmpnt-texto .title-type-enfasis-1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 38px;
+            font-weight: 600;
+            text-align: center;
+            line-height: 1;
+            color: #BED000FF;
+            margin: 0;
+            padding: 0;
+            text-transform: uppercase;
+            letter-spacing: 2;
+        }
+
+        .box-video .cmpnt-texto .title-type-enfasis-2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 38px;
+            font-weight: 300;
+            text-align: center;
+            line-height: 1;
+            color: #fff;
+            margin: 0;
+            margin-top: -6px;
+            padding: 0;
+            text-transform: uppercase;
+        }
+
+        .box-video .cmpnt-texto .paragraph {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 18px;
+            font-weight: 300;
+            text-align: center;
+            line-height: 1.1;
+            color: #fff;
+            margin: 24px 14px;
+            padding: 0;
+            max-width: 400px;
+        }
+
+        @media(min-width:768px) {
+            .box-video .cmpnt-texto .paragraph {
+                text-align: left;
+            }
+        }
+    </style>
+
+    <!-- bloque box video-->
+    <style>
+        .set-wrapper .box-video {
+            grid-area: box-video;
+            background-color: rgba(77, 84, 31, 1);
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas:
+                'texto'
+                'video';
+        }
+
+        @media(min-width:768px) {
+            .set-wrapper .box-video {
+                grid-template-columns: 60% 40%;
+                grid-template-areas:
+                    'video texto';
+            }
+        }
+
+        .box-video .cmpnt-video {
+            padding: 1em;
+            grid-area: video;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        @media(min-width:768px) {
+            .box-video .cmpnt-video {
+                padding: 4em;
+            }
+
+        }
+
+        .box-video .cmpnt-video .video {
+            position: relative;
+            display: block;
+            width: 100%;
+            padding: 0;
+            overflow: hidden;
+            background-color: #000;
+            border-radius: 4px;
+            box-shadow: 0 0 8px 0 rgba(0, 0, 0, .2);
+        }
+
+        .box-video .cmpnt-texto {
+            padding: 4em 2em 1em 2em;
+            grid-area: texto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        @media(min-width:768px) {
+            .box-video .cmpnt-texto {
+                padding: 4em 4em 4em 0;
+            }
+        }
+
+        .box-video .cmpnt-texto .title-type-enfasis-1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 38px;
+            font-weight: 600;
+            text-align: center;
+            line-height: 1;
+            color: #BED000FF;
+            margin: 0;
+            padding: 0;
+            text-transform: uppercase;
+            letter-spacing: 2;
+        }
+
+        .box-video .cmpnt-texto .title-type-enfasis-2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 38px;
+            font-weight: 300;
+            text-align: center;
+            line-height: 1;
+            color: #fff;
+            margin: 0;
+            margin-top: -6px;
+            padding: 0;
+            text-transform: uppercase;
+        }
+
+        .box-video .cmpnt-texto .paragraph {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 18px;
+            font-weight: 300;
+            text-align: center;
+            line-height: 1.1;
+            color: #fff;
+            margin: 24px 14px;
+            padding: 0;
+            max-width: 400px;
+        }
+
+        @media(min-width:768px) {
+            .box-video .cmpnt-texto .paragraph {
+                text-align: left;
+            }
+        }
+    </style>
 
     <style>
         .set-wrapper.solucion {
@@ -174,7 +502,7 @@
         .solucion .box-title .title-ppal {
             font-size: 30px;
             font-weight: 700;
-            color: #1c2046;
+            color: rgba(77, 84, 31, 1);
             margin: 32px;
             text-align: center;
         }
@@ -184,10 +512,12 @@
             width: 100%;
             max-width: 940px;
             height: 25rem;
-            background: url('/images/cybe/ppal_mitos.png') no-repeat center center;
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/ppal_mitos.png') no-repeat center center;
             margin-top: 32px;
         }
     </style>
+
+
 
     <div class="box-title">
         <div class="cmpnt cmpnt-title-ppal">
@@ -227,7 +557,7 @@
                                 <div class="fondo-proceso">
                                     <div class="titulo">
                                         <h3>Evitar / Reducir</h3>
-                                        <p>los viajes que no son necesarios y distancias de viaje. Aquí se ubican instrumentos como el <a href="https://www.sdp.gov.co/micrositios/pot/que-es">Plan de Ordenamiento Territorial - POT</a></p>
+                                        <p>Los viajes que no son necesarios y distancias de viaje. Aquí se ubican instrumentos como el <a href="https://www.sdp.gov.co/micrositios/pot/que-es">Plan de Ordenamiento Territorial - POT</a> y el <a href="https://www.movilidadbogota.gov.co/web/plan_de_movilidad_sostenible_y_segura">Plan de Movilidad Segura y Sostenible - PMSS.</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -238,7 +568,7 @@
                                 <div class="fondo-proceso">
                                     <div class="titulo">
                                         <h3>Cambiar</h3>
-                                        <p>promover el cambio modal a modos de transporte sostenibles. Se incluye la <a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales">Política Pública de la Bicicleta para el D.C. 2021-2039. (CONPES D.C. 15 de 2021).</a></p>
+                                        <p>Promover el cambio modal a modos de transporte sostenibles. Se incluye la <a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales">Política Pública de la Bicicleta para el D.C. 2021-2039. (CONPES D.C. 15 de 2021) y la Política Pública del Peatón.</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -249,7 +579,7 @@
                                 <div class="fondo-proceso">
                                     <div class="titulo">
                                         <h3>Mejorar</h3>
-                                        <p>emplear tecnologías vehiculares y comportamientos más limpios y eficientes.</p>
+                                        <p>Emplear tecnologías vehiculares y comportamientos más limpios y eficientes. <a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales">Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023-2040 - PCBE</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -298,22 +628,22 @@
 
                             /* IE9 */
                             .wrapper-pdi .btn1 {
-                                background: #1c2046;
-                                background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2022/bogota-4463698_1280.webp');
+                                background: rgba(77, 84, 31, 1);
+                                background: linear-gradient(45deg, rgba(77, 84, 31, 1) 0%, rgba(255, 255, 255, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/solucion_1.png');
                                 background-size: cover;
                                 background-position: 90% 0%;
                             }
 
                             .wrapper-pdi .btn2 {
-                                background: #1c2046;
-                                background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 100%), url('/images/cybe/solucion/solucion_2.png');
+                                background: rgba(77, 84, 31, 1);
+                                background: linear-gradient(45deg, rgba(77, 84, 31, 1) 0%, rgba(255, 255, 255, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/solucion_2.png');
                                 background-size: cover;
                                 background-position: 37% 10%;
                             }
 
                             .wrapper-pdi .btn3 {
-                                background: #1c2046;
-                                background: linear-gradient(45deg, #1c2046 0%, rgba(255, 255, 255, 0) 100%), url('/images/cybe/solucion/solucion_3.png');
+                                background: rgba(77, 84, 31, 1);
+                                background: linear-gradient(45deg, rgba(77, 84, 31, 1) 0%, rgba(255, 255, 255, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/solucion_3.png');
                                 background-size: cover;
                                 background-position: 70% 0%;
                             }
@@ -340,8 +670,8 @@
                                 margin: 10px;
                                 padding: 8px;
                                 color: #fff;
-                                border-bottom: solid 2px #66e026;
-                                border-top: solid 2px #66e026;
+                                border-bottom: solid 2px #BED000FF;
+                                border-top: solid 2px #BED000FF;
                                 text-transform: uppercase;
                                 font-size: 18px;
                                 font-weight: 700;
@@ -360,15 +690,15 @@
                             }
 
                             .wrapper-pdi .btn-proceso:hover {
-                                background: linear-gradient(45deg, #66e026 30%, #66e02650 100%);
+                                background: linear-gradient(45deg, #BED000FF 30%, #BED00050 100%);
                                 justify-content: center;
                                 /* transition-timing-function: linear; */
                             }
 
                             .wrapper-pdi .btn-proceso:hover h3 {
                                 color: #151515;
-                                border-bottom: solid 2px #1c2046;
-                                border-top: solid 2px #1c2046;
+                                border-bottom: solid 2px rgba(77, 84, 31, 1);
+                                border-top: solid 2px rgba(77, 84, 31, 1);
                             }
 
                             .wrapper-pdi .btn-proceso:hover p {
@@ -377,6 +707,8 @@
 
                             .botones a {
                                 text-decoration: none !important;
+                                color: rgba(77, 84, 31, 1);
+                                font-weight: 600;
                             }
                         </style>
                     </div>
@@ -449,20 +781,20 @@
 
         .b-2 .list-products dl {
             padding: 16px 16px 16px 42px !important;
-            background-color: #fff;
+            background-color: #E3E8AD;
         }
 
         @media(min-width:768px) {
             .b-2 .list-products dl {
                 padding: 16px;
-                background-color: #fff;
+                background-color: #E3E8AD;
             }
         }
 
         .b-2 .list-products dt {
-            margin-top: 16px;
+            margin-top: 0px;
             font-size: 1em;
-            color: #151515;
+            color: #252525;
         }
 
         .b-2 .list-products dd {
@@ -470,16 +802,16 @@
         }
 
         .b-2 .glyphicon-chevron-right::before {
-            color: #1c2046 !important;
+            color: rgba(77, 84, 31, 1) !important;
         }
 
         .b-2 .glyphicon-chevron-left::before {
-            color: #1c2046 !important;
+            color: rgba(77, 84, 31, 1) !important;
         }
 
         .b-2 .panel-heading {
-            border-color: #66e026 !important;
-            background-color: #66e026 !important;
+            border-color: #BED000FF !important;
+            background-color: #BED000FF !important;
             background-image: none !important;
         }
 
@@ -495,7 +827,7 @@
             font-family: 'Glyphicons Halflings';
             content: "\e080";
             float: right;
-            color: #1c2046;
+            color: rgba(77, 84, 31, 1);
             font-size: 18px;
         }
 
@@ -505,7 +837,7 @@
     </style>
     <div class="box b-2">
         <div class="cpnt cpnt-1">
-            <p class="paragraph ph-1">Aquí se encuentra la <a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales">Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023-2040 - PCBE</a> (CONPES 30 DE 2023), que se constituye como la hoja de ruta para consolidar esta movilidad, como una alternativa sostenible, accesible, competitiva y atractiva en Bogotá y la Región Metropolitana.</p>
+            <p class="paragraph ph-1">Aquí se encuentra la Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones 2023-2040 - PCBE (CONPES 30 DE 2023), la cual hace parte de las soluciones para consolidar esta movilidad, como una alternativa sostenible, accesible, competitiva y atractiva en la Región Metropolitana Bogotá - Cundinamarca.</p>
             <p class="paragraph ph-1">Se estructuraron cuatro (4) objetivos que buscan facilitar la transición de los vehículos de combustión a tecnologías de cero y bajas emisiones en los diferentes segmentos del transporte:</p>
         </div>
         <div class="cpnt cpnt-collapse cpnt-collapse-objs">
@@ -530,7 +862,7 @@
                                     </div>
                                     <div class="text-goal text-goal-1">
                                         <p>Promover la <strong>transición de los modos de transporte carreteros</strong> motorizados hacia tecnologías de cero y bajas emisiones.</p>
-                                        <p>Este objetivo contempla los cambios tecnológicos proyectados para las diferentes flotas de transporte terrestre que circulan en la ciudad. <a href="http://sdm.wdo:8000/cybe/metas">Conocer más.</a> </p>
+                                        <p>Este objetivo contempla los cambios tecnológicos proyectados para las diferentes flotas de transporte terrestre que circulan en la ciudad. <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas"><strong>Conoce más.</strong></a> </p>
                                         <p></p>
                                     </div>
                                 </div>
@@ -563,23 +895,28 @@
                                     <dl>
                                         <dt>Resultados previstos</dt>
                                         <dd>Aumentar las capacidades para la <b>gestión de baterías</b> de los vehículos eléctricos</dd>
-                                        <dt>Productos estratégicos</dt>
-                                        <dd><b>Guía de manejo</b> de baterías</dd>
-                                        <dd><b>Estrategia de promoción</b> de gestión adecuada de las baterías</dd>
-                                        <dt>Entidad líder</dt>
-                                        <dd>Secretaría de Ambiente</dd>
+                                        <dl>
+                                            <dt>Productos estratégicos</dt>
+                                            <dd><b>Guía de manejo</b> de baterías</dd>
+                                            <dd><b>Estrategia de promoción</b> de gestión adecuada de las baterías</dd>
+                                        </dl>
                                     </dl>
+
                                     <dl>
                                         <dt>Resultados previstos</dt>
                                         <dd>Organizaciones y actores vinculados a la <b>Red de Movilidad Eléctrica</b></dd>
-                                        <dt>Productos estratégicos</dt>
-                                        <dd><b>Compromisos</b> de actores vinculados a la red.</dd>
-                                        <dd><b>Comisión</b> intersectorial de transición energética del transporte.</dd>
-                                        <dd><b>Cooperación técnica</b> con los municipios de la región.</dd>
-                                        <dd>Eventos de <b>intercambio de conocimiento</b>.</dd>
-                                        <dd>Programa de <b>Reconocimiento</b> a los aliados por la Movilidad Eléctrica.</dd>
-                                        <dt>Entidad líder</dt>
-                                        <dd>Secretaría de Movilidad</dd>
+                                        <dl>
+                                            <dt>Productos estratégicos</dt>
+                                            <dd><b>Compromisos</b> de actores vinculados a la red.</dd>
+                                            <dd><b>Comisión</b> intersectorial de transición energética del transporte.</dd>
+                                            <dd><b>Cooperación técnica</b> con los municipios de la región.</dd>
+                                            <dd>Eventos de <b>intercambio de conocimiento</b>.</dd>
+                                            <dd>Programa de <b>Reconocimiento</b> a los aliados por la Movilidad Eléctrica.</dd>
+                                        </dl>
+                                    </dl>
+                                    <dl>
+                                        <dt>Entidades involucradas</dt>
+                                        <dd>Secretaría de Distrital de Ambiente, Secretaría Distrital de Movilidad.</dd>
                                     </dl>
 
                                 </div>
@@ -613,24 +950,27 @@
                                         <dl>
                                             <dt>Resultados previstos</dt>
                                             <dd><b>Información a la ciudadanía</b> sobre tecnología de cero y bajas emisiones </dd>
-                                            <dt>Productos estratégicos</dt>
-                                            <dd><b>Estrategías de comunicación y cultura ciudadana</b> sobre tecnología de cero y bajas emisiones.</dd>
-                                            <dd>Herramienta comparativa de alternativas de movilidad.</dd>
-                                            <dd><b><a data-target="#modal_formacion" data-toggle="modal">Procesos de formación</a></b> para la ciudadanía.</dd>
-                                            <dd>Formación y cualificación de mujeres.</dd>
-                                            <dt>Entidad líder</dt>
-                                            <dd>Secretaría de Ambiente</dd>
+                                            <dl>
+                                                <dt>Productos estratégicos</dt>
+                                                <dd><b>Estrategías de comunicación y cultura ciudadana</b> sobre tecnología de cero y bajas emisiones.</dd>
+                                                <dd>Herramienta comparativa de alternativas de movilidad.</dd>
+                                                <dd><b><a data-target="#modal_formacion" data-toggle="modal">Procesos de formación</a></b> para la ciudadanía.</dd>
+                                                <dd>Formación y cualificación de mujeres.</dd>
+                                            </dl>
                                         </dl>
                                         <dl>
                                             <dt>Resultados previstos</dt>
                                             <dd>Aumento del conocimiento y aplicación de las prácticas de conducción sostenible</b></dd>
-                                            <dt>Productos estratégicos</dt>
-                                            <dd>Procesos de <b>aprendizaje de conducción sostenible.</b></dd>
-                                            <dd>Estrategía distrital de <b>conducción sostenible</b> y buenas prácticas de Mantenimiento (ECoS).</dd>
-                                            <dt>Entidad líder</dt>
-                                            <dd>Secretaría de Ambiente</dd>
+                                            <dl>
+                                                <dt>Productos estratégicos</dt>
+                                                <dd>Procesos de <b>aprendizaje de conducción sostenible.</b></dd>
+                                                <dd>Estrategía distrital de <b>conducción sostenible</b> y buenas prácticas de Mantenimiento (ECoS).</dd>
+                                            </dl>
                                         </dl>
-
+                                        <dl>
+                                            <dt>Entidades involucradas</dt>
+                                            <dd>Secretaría de Distrital de Ambiente, Secretaría Distrital de Movilidad, Secretaría de la Mujer.</dd>
+                                        </dl>
                                     </div>
                                 </div>
                             </div>
@@ -662,13 +1002,17 @@
                                     <dl>
                                         <dt>Resultados previstos</dt>
                                         <dd>Atención del 100 % de la demanda de infraestructura de recarga de acceso público para vehículos.</dd>
-                                        <dt>Productos estratégicos</dt>
-                                        <dd>Consolidación de la <b><a href="">red de estaciones</a></b> de recarga en vía y fuera de vía.</dd>
-                                        <dd>Beneficios tributarios para desarrollo de infraestructura de recarga en el distrito.</dd>
-                                        <dd>Gestión para la eliminación del IVA al servicio de recarga para vehículos eléctricos.</dd>
-                                        <dd>Reglamentación de interoperabilidad de la infraestructura de recarga.</dd>
-                                        <dt>Entidad líder</dt>
-                                        <dd>Secretaría de Movilidad</dd>
+                                        <dl>
+                                            <dt>Productos estratégicos</dt>
+                                            <dd>Consolidación de la <b><a href="">red de estaciones</a></b> de recarga en vía y fuera de vía.</dd>
+                                            <dd>Beneficios tributarios para desarrollo de infraestructura de recarga en el distrito.</dd>
+                                            <dd>Gestión para la eliminación del IVA al servicio de recarga para vehículos eléctricos.</dd>
+                                            <dd>Reglamentación de interoperabilidad de la infraestructura de recarga.</dd>
+                                        </dl>
+                                    </dl>
+                                    <dl>
+                                        <dt>Entidades involucradas</dt>
+                                        <dd>Secretaría de Distrital de Ambiente, Secretaría Distrital de Movilidad.</dd>
                                     </dl>
                                 </div>
                             </div>

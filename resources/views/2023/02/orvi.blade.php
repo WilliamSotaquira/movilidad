@@ -4,13 +4,9 @@
 @section('contenido')
 
 <!-- Set orvi -->
-<div class="set-wrapper orvi container">
-
-    <!-- Sección box logo-full -->
-    <div class="box-logo-full">
-        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/logoorvi.png" alt="logo ORVI">
-    </div>
-    <style>
+<div class="set-wrapper orvi container"><!-- Sección box logo-full -->
+    <div class="box-logo-full"><img alt="logo ORVI" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/logoorvi.png"></div>
+    <style type="text/css">
         .set-wrapper .box-logo-full {
             grid-area: box-logo-full;
             margin-bottom: 40px;
@@ -31,21 +27,21 @@
 
         }
     </style>
-
     <!-- Componente box youtube-paragraph -->
     <div class="box-youtube-paragraph">
-        <div class='video video-ppal video-4by3'>
-            <div class='embed-responsive embed-responsive-4by3'>
-                <iframe width='100%' src='https://www.youtube.com/embed/VsJyXZ8zpHY' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
-            </div>
+        <div class="video video-ppal video-4by3">
+            <div class="embed-responsive embed-responsive-4by3"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/l9KMh2RAqOk" title="YouTube video player" width="100%"></iframe></div>
         </div>
+
         <div class="paragraph ph-youtube-paragraph">
             <h3>¿Qué es ORVI?</h3>
-            <p><strong>Bogotá D.C. se convirtió en la primera ciudad de Colombia y la segunda en América Latina,</strong> en contar con un <strong>Centro de Orientación para Víctimas por Siniestros Viales.</strong> En ORVI, informamos y orientamos de manera gratuita a las víctimas por siniestros viales y sus familiares, acerca de los procesos que pueden seguir en materia social, jurídica, psicológica y de formación tras un incidente de tránsito.</p>
-            <p>En el centro disponemos de medios presenciales y virtuales para que las víctimas de siniestros viales y/o sus familiares puedan acceder al servicio.</p>
+
+            <p>Orvi es el Centro de Orientación a Víctimas de Siniestros Viales, de la Secretaría Distrital de Movilidad, el primero en Colombia y el segundo en América Latina. En ORVI acompañamos, informamos y orientamos de manera gratuita a las víctimas por siniestros viales y sus familias, acerca de los procesos que pueden seguir en materia social, jurídica y psicológica. También contamos con una oferta formativa enfocada en la prevención de siniestros viales.</p>
+
+            <p>En ORVI disponemos de medios presenciales y virtuales para que las víctimas de siniestros viales y/o sus familiares puedan acceder a nuestro servicio.</p>
         </div>
     </div>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-youtube-paragraph {
 
             grid-area: box-youtube-paragraph;
@@ -83,7 +79,7 @@
             font-weight: 700;
             line-height: 1.5;
             text-align: left;
-            color: #1C1D3C;
+            color: #4d541f;
         }
 
         .box-youtube-paragraph .ph-youtube-paragraph p {
@@ -116,54 +112,51 @@
 
         }
     </style>
-
     <!-- Sección box icons-featured -->
     <div class="box-icons-featured">
-
         <div class="set-icons">
-
             <div class="card-icon">
-                <div class="imagen img-card">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-02-2023/asistencia-social.png" alt="icono de asistencia social" title="icono de asistencia social">
-                </div>
+                <div class="imagen img-card"><img alt="icono de asistencia social" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-02-2023/asistencia-social.png" title="icono de asistencia social"></div>
+
                 <div class="title-card">
                     <h3>¿A quién ayudamos?</h3>
                 </div>
+
                 <div class="sumary-card">
-                    <p>A toda persona que haya sufrido daño o afectación como consecuencia directa de un siniestro vial.</p>
+                    <p>A todas las personas que hayan sufrido daño o afectación como consecuencia directa e indirecta de un siniestro vial y a sus familiares.</p>
                 </div>
             </div>
+
             <div class="card-icon">
-                <div class="imagen img-card">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-02-2023/apreton-de-manos.png" alt="icono de apretón de manos" title="icono de apretón de manos">
-                </div>
+                <div class="imagen img-card"><img alt="icono de apretón de manos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-02-2023/apreton-de-manos.png" title="icono de apretón de manos"></div>
+
                 <div class="title-card">
                     <h3>¿Qué hacemos?</h3>
                 </div>
+
                 <div class="sumary-card">
-                    <p>Ofrecemos herramientas para adaptarse adecuadamente a las nuevas condiciones de vida.</p>
+                    <p>Acompañamos, informamos y orientamos de manera gratuita, acerca de los procesos que pueden seguir en materia social, jurídica y psicológica. También contamos con una oferta formativa enfocada en la prevención de siniestros viales.</p>
                 </div>
             </div>
+
             <div class="card-icon">
-                <div class="imagen img-card">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-02-2023/ok.png" alt="icono gesto OK" title="icono gesto OK">
-                </div>
+                <div class="imagen img-card"><img alt="icono gesto OK" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-02-2023/ok.png" title="icono gesto OK"></div>
+
                 <div class="title-card">
                     <h3>¿Qué garantizamos?</h3>
                 </div>
+
                 <div class="sumary-card">
-                    <p>Un trato con enfoque de derecho, diferencial y de género para todas las personas.</p>
+                    <p>Un trato cordial y empático, atento a las necesidades particulares de las personas, desde un enfoque diferencial, de género y de derechos.</p>
                 </div>
             </div>
-
         </div>
+
         <div class="summary">
-            <p>La implementación y operación del Centro <strong>ORVI</strong> se enmarca en el Plan Distrital de Seguridad Vial 2017-2026 (Decreto 813 de 2017) y del Plan Distrital de Desarrollo 2020 – 2024 Un nuevo contrato social y ambiental para el siglo XXI (Acuerdo 761 de 2020).</p>
+            <p>La implementación y operación del Centro <strong>ORVI</strong> se enmarca bajo el decreto 494 de 2023 “por el cual se adopta el Plan Distrital de Seguridad Vial y de motociclistas 2023-2032”</p>
         </div>
-
-
     </div>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-icons-featured {
             grid-area: box-icons-featured;
             margin-bottom: 40px;
@@ -176,7 +169,7 @@
             grid-template-columns: 1fr;
             grid-template-rows: auto;
 
-            background-color: #1C1D3C;
+            background-color: #4d541f;
 
             border-radius: 8px 8px 0 0;
         }
@@ -239,21 +232,17 @@
             }
         }
     </style>
-
     <!-- Sección box paragraph-full-buttons-2 -->
     <div class="box-paragraph-full-buttons-2">
         <div class="paragraph ph-full">
             <h2>¿Eres víctima de un siniestro vial?</h2>
+
             <p>Te acompañamos y orientamos como víctima directa, a tu cónyuge y/o familiar en primer y segundo grado de consanguinidad (padre, madre, hermana, hermano, hijo e hija natural o civil).</p>
         </div>
-        <div class="buttons">
-            <a class="link-clic" href="https://vus.circulemosdigital.com.co/#/login" target="_blank" rel="noopener noreferrer"><span class="icon-clic"></span>Solicita tu cita de atención</a>
-            <a class="link-wa" href="https://wa.link/iq4xn4" target="_blank" rel="noopener noreferrer"><span class="icon-wa"></span>Chatea con nosotros</a>
 
-        </div>
-
+        <div class="buttons"><a class="link-clic" href="https://vus.circulemosdigital.com.co/#/login" rel="noopener noreferrer" target="_blank">Regístrate y solicita tu cita de atención</a> <a class="link-wa" href="https://wa.link/iq4xn4" rel="noopener noreferrer" target="_blank">Chatea con nosotros</a></div>
     </div>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-paragraph-full-buttons-2 {
             grid-area: box-paragraph-full-buttons-2;
             margin-bottom: 60px;
@@ -269,7 +258,7 @@
             font-weight: 700;
             text-align: center;
             line-height: 1.3;
-            color: #1C1D3C;
+            color: #4d541f;
         }
 
         .paragraph p {
@@ -293,7 +282,7 @@
         .buttons a {
             padding: 0.6em 2em;
 
-            background-color: #1C1D3C;
+            background-color: #4d541f;
             color: #bed000;
             border-radius: 8px;
             -webkit-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.16);
@@ -338,7 +327,7 @@
 
         .buttons a:hover {
             background-color: #bed000;
-            color: #1C1D3C;
+            color: #4d541f;
         }
 
         .buttons a:active,
@@ -353,154 +342,131 @@
             }
         }
     </style>
-
     <!-- Sección box img-collapse -->
     <div class="box-img-collapse">
-
-        <div class="imagen img-collapse">
-            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_2.png" alt="Imagen de personas conversando" title="Imagen de personas conversando">
-        </div>
+        <div class="imagen img-collapse"><img alt="Imagen de personas conversando" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_2.png" title="Imagen de personas conversando"></div>
 
         <div class="set-collapse">
             <h3>Enfoques de Orientación</h3>
-            <p></p>
-            <!-- collapse-grupo -->
-            <div class='panel-group' id='accordion-grupo' role='tablist ' aria-multiselectable='true'>
 
-                <!-- collapse uno -->
-                <div class='panel panel-primary'>
-                    <div class='panel-heading' role='tab' id='heading_uno'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion-grupo' href='#collapse_uno' aria-expanded='false' aria-controls='collapse_uno'>
-                                ORIENTACIÓN SOCIAL
-                            </a>
-                        </h4>
+            <p>&nbsp;</p>
+            <!-- collapse-grupo -->
+
+            <div aria-multiselectable="true" class="panel-group" id="accordion-grupo" role="tablist "><!-- collapse uno -->
+                <div class="panel panel-primary">
+                    <div class="panel-heading" id="heading_uno" role="tab">
+                        <h4 class="panel-title"><a aria-controls="collapse_uno" aria-expanded="false" data-parent="#accordion-grupo" data-toggle="collapse" href="#collapse_uno" role="button">ORIENTACIÓN SOCIAL </a></h4>
                     </div>
-                    <div id='collapse_uno' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_uno' aria-expanded='false'>
-                        <div class='panel-body'>
-                            <div class='box-uno'>
-                                <div class="imagen img-1">
-                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_3.png" alt="foto" title="foto">
-                                </div>
+
+                    <div aria-expanded="false" aria-labelledby="heading_uno" class="panel-collapse collapse" id="collapse_uno" role="tabpanel">
+                        <div class="panel-body">
+                            <div class="box-uno">
+                                <div class="imagen img-1"><img alt="foto" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_3.png" title="foto"></div>
+
                                 <h3>Orientación Social:</h3>
-                                <p>En la orientación social evaluamos las condiciones sociales que hayan sido afectadas por consecuencia del siniestro vial. Esto nos permite informarte acerca de los programas sociales vigentes ofrecidos por el Distrito, en los que de manera voluntaria podrás inscribirte de acuerdo a tus intereses, necesidades y condiciones de cada programa, obteniendo herramientas para adaptarte a tus nuevas condiciones de vida.</p>
-                                <p>La orientación social tiene un número de citas máximo por persona o por grupo familiar de: 3.</p>
+
+                                <p>Evaluamos las condiciones sociales que hayan sido afectadas por consecuencia del siniestro vial. Esto nos permite informarte acerca de los programas sociales vigentes ofrecidos por el Distrito, en los que de manera voluntaria podrás inscribirte de acuerdo a tus intereses, necesidades y condiciones de cada programa, obteniendo herramientas para adaptarte a tus nuevas condiciones de vida.</p>
                             </div>
                         </div>
                     </div>
-                    <style>
+                    <style type="text/css">
                         .box-uno {
                             grid-area: uno;
                         }
                     </style>
                 </div>
-
                 <!-- collapse dos -->
-                <div class='panel panel-primary'>
-                    <div class='panel-heading' role='tab' id='heading_dos'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion-grupo' href='#collapse_dos' aria-expanded='false' aria-controls='collapse_dos'>
-                                ORIENTACIÓN JURÍDICA
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapse_dos' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_dos' aria-expanded='false'>
-                        <div class='panel-body'>
-                            <div class='box-dos'>
-                                <div class="imagen img-dos">
-                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_6.png" alt="imagen" title="imagen">
 
+                <div class="panel panel-primary">
+                    <div class="panel-heading" id="heading_dos" role="tab">
+                        <h4 class="panel-title"><a aria-controls="collapse_dos" aria-expanded="false" data-parent="#accordion-grupo" data-toggle="collapse" href="#collapse_dos" role="button">ORIENTACIÓN JURÍDICA </a></h4>
+                    </div>
+
+                    <div aria-expanded="false" aria-labelledby="heading_dos" class="panel-collapse collapse" id="collapse_dos" role="tabpanel">
+                        <div class="panel-body">
+                            <div class="box-dos">
+                                <div class="imagen img-dos"><img alt="imagen" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_6.png" title="imagen">
                                     <h3>Orientación Jurídica:</h3>
-                                    <p>En la orientación jurídica te informamos y orientamos en la preparación de documentos y procedimientos previos de cualquier trámite que requieras como víctima, relacionado con la ocurrencia de un siniestro vial y las reclamaciones a que haya lugar, de carácter civil, penal, laboral, administrativo, reclamación de pólizas de seguro o cualquier otro tipo de instancia. Ofrecemos la información necesaria para el inicio, trámite y posible consecución de los diferentes procesos a que exista lugar. Lo anterior con miras a garantizar que tú como víctima o tus beneficiarios cuenten con información oportuna, eficiente e idónea. Esta actividad se desarrolla a nivel de orientación y <strong>en ningún momento ejercemos una representación judicial.</strong></p>
-                                    <p>La orientación jurídica tiene un número de citas máximo por persona o por grupo familiar de: 5.</p>
-                                    <br>
+
+                                    <p>En la orientación jurídica te informamos y orientamos en la preparación de documentos y procedimientos previos a cualquier trámite que requieras como víctima, relacionado con la ocurrencia de un siniestro vial y las reclamaciones a que haya lugar, de carácter civil, penal, laboral, administrativo, exigencia de pólizas de seguro o cualquier otro tipo de instancia. Esta actividad se desarrolla a nivel de orientación y en ningún momento ejercemos una representación judicial ante el proceso.</p>
+
                                     <p><strong>Términos para acceder a la Orientación Jurídica:</strong></p>
+
                                     <p>La orientación debe cumplir estándares de oportunidad. Para lograr esto el orientador jurídico verifica que las acciones, reclamaciones y/o trámites a gestionar, sean oportunos en cuanto a sus términos legales de caducidad y prescripción. Las consultas legales que estén caducadas o prescritas, no serán atendidas por los orientadores.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <style>
+                    <style type="text/css">
                         .box-dos {
                             grid-area: dos;
                         }
                     </style>
                 </div>
-
                 <!-- collapse tres -->
-                <div class='panel panel-primary'>
-                    <div class='panel-heading' role='tab' id='heading_tres'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion-grupo' href='#collapse_tres' aria-expanded='false' aria-controls='collapse_tres'>
-                                ORIENTACIÓN PSICOLÓGICA
-                            </a>
-                        </h4>
-                    </div>
-                    <div id='collapse_tres' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_tres' aria-expanded='false'>
-                        <div class='panel-body'>
-                            <div class='box-tres'>
-                                <div class="imagen img-tres">
-                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_5.png" alt="imagen dos" title="imagen dos">
 
-                                </div>
+                <div class="panel panel-primary">
+                    <div class="panel-heading" id="heading_tres" role="tab">
+                        <h4 class="panel-title"><a aria-controls="collapse_tres" aria-expanded="false" data-parent="#accordion-grupo" data-toggle="collapse" href="#collapse_tres" role="button">ORIENTACIÓN PSICOLÓGICA </a></h4>
+                    </div>
+
+                    <div aria-expanded="false" aria-labelledby="heading_tres" class="panel-collapse collapse" id="collapse_tres" role="tabpanel">
+                        <div class="panel-body">
+                            <div class="box-tres">
+                                <div class="imagen img-tres"><img alt="imagen dos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_5.png" title="imagen dos"></div>
+
                                 <h3>Orientación Psicológica:</h3>
-                                <p>Realizamos orientación psicológica primaria, con el fin de valorar el daño/afectación asociados al siniestro vial, para brindarte recomendaciones con relación a las posibles afectaciones psicológicas y un posible tratamiento a seguir.</p>
-                                <p>Aunque <strong>en ORVI no brindemos un tratamiento psicológico,</strong> el/la profesional podrá recomendar realizarlo por medio del régimen de salud o el servicio de salud especializado de tu preferencia.</p>
+
+                                <p>Realizamos orientación psicológica primaria, con el fin de valorar el daño asociado al siniestro vial, para brindar recomendaciones y herramientas con relación a las posibles afectaciones psicológicas y un eventual tratamiento a seguir.</p>
+
+                                <p>Aunque en ORVI no brindemos un tratamiento psicológico, el/la profesional podrá recomendar realizarlo por medio del régimen de salud o el servicio de salud especializado de su preferencia.</p>
+
                                 <p>Hacemos orientación enfocada en primeros auxilios psicológicos cuando haya lugar, con el fin de apoyar el restablecimiento y la funcionalidad a nivel conductual, emocional y cognitiva.</p>
-                                <i>La orientación psicológica tiene un número de citas máximo por persona de: 5 (también podrán plantearse otras modalidades de atención: grupal o familiar y lo recomendado por el profesional de orientación psicológica).</i>
                             </div>
                         </div>
                     </div>
-                    <style>
+                    <style type="text/css">
                         .box-tres {
                             grid-area: tres;
                         }
                     </style>
                 </div>
-
                 <!-- collapse cuatro -->
-                <div class='panel panel-primary'>
-                    <div class='panel-heading' role='tab' id='heading_cuatro'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion-grupo' href='#collapse_cuatro' aria-expanded='false' aria-controls='collapse_cuatro'>
-                                ¿QUIÉN PUEDE ACCEDER?
-                            </a>
-                        </h4>
+
+                <div class="panel panel-primary">
+                    <div class="panel-heading" id="heading_cuatro" role="tab">
+                        <h4 class="panel-title"><a aria-controls="collapse_cuatro" aria-expanded="false" data-parent="#accordion-grupo" data-toggle="collapse" href="#collapse_cuatro" role="button">¿QUIÉN PUEDE ACCEDER? </a></h4>
                     </div>
-                    <div id='collapse_cuatro' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_cuatro' aria-expanded='false'>
-                        <div class='panel-body'>
-                            <div class='box-cuatro'>
-                                <div class="imagen img-cuatro">
-                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_4.png" alt="imagen" title="imagen">
-                                </div>
-                                <br>
+
+                    <div aria-expanded="false" aria-labelledby="heading_cuatro" class="panel-collapse collapse" id="collapse_cuatro" role="tabpanel">
+                        <div class="panel-body">
+                            <div class="box-cuatro">
+                                <div class="imagen img-cuatro"><img alt="imagen" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_4.png" title="imagen"></div>
+                                &nbsp;
+
                                 <p><strong>En ORVI</strong> enfocamos la atención en la víctima directa, cónyuge o compañero (a) permanente, familiares en primer y segundo grado de consanguinidad (hijos/hijas, padres/madres, hermanos/hermanas). Los menores de edad deben estar acompañados de sus padres, madres o acudientes legalmente designados.</p>
                             </div>
                         </div>
                     </div>
-                    <style>
+                    <style type="text/css">
                         .box-cuatro {
                             grid-area: cuatro;
                         }
                     </style>
                 </div>
-
                 <!-- collapse cinco -->
-                <div class='panel panel-primary'>
-                    <div class='panel-heading' role='tab' id='heading_cinco'>
-                        <h4 class='panel-title'>
-                            <a role='button' data-toggle='collapse' data-parent='#accordion-grupo' href='#collapse_cinco' aria-expanded='false' aria-controls='collapse_cinco'>
-                                TEN EN CUENTA
-                            </a>
-                        </h4>
+
+                <div class="panel panel-primary">
+                    <div class="panel-heading" id="heading_cinco" role="tab">
+                        <h4 class="panel-title"><a aria-controls="collapse_cinco" aria-expanded="false" data-parent="#accordion-grupo" data-toggle="collapse" href="#collapse_cinco" role="button">TEN EN CUENTA </a></h4>
                     </div>
-                    <div id='collapse_cinco' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_cinco' aria-expanded='false'>
-                        <div class='panel-body'>
-                            <div class='box-cinco'>
-                                <div class="imagen img-cinco">
-                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_1.png" alt="imagen" title="imagen">
-                                </div>
-                                <br>
+
+                    <div aria-expanded="false" aria-labelledby="heading_cinco" class="panel-collapse collapse" id="collapse_cinco" role="tabpanel">
+                        <div class="panel-body">
+                            <div class="box-cinco">
+                                <div class="imagen img-cinco"><img alt="imagen" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/ten-en-cuenta.jpg" title="imagen"></div>
+                                &nbsp;
+
                                 <ul>
                                     <li>Ofrecemos orientación a las víctimas de siniestros viales desde el 2014 y que hayan sido registradas por medio del <strong>IPAT (Informe Policial de Accidentes de Tránsito)</strong> o cuya ocurrencia pueda ser comprobada.</li>
                                     <li><strong>En ORVI no actuamos como un ente de reacción inmediata</strong> al siniestro de tránsito, ni como un mecanismo de atención primaria en salud. <strong>En caso de emergencia, llama al 123.</strong></li>
@@ -509,18 +475,17 @@
                             </div>
                         </div>
                     </div>
-                    <style>
+                    <style type="text/css">
                         .box-cinco {
                             grid-area: cinco;
                         }
                     </style>
                 </div>
-
             </div>
             <!-- /#fin -grupo -->
         </div>
     </div>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-img-collapse {
             grid-area: box-img-collapse;
             display: grid;
@@ -557,7 +522,7 @@
             font-weight: 700;
             line-height: 1.5;
             text-align: center;
-            color: #1C1D3C;
+            color: #4d541f;
         }
 
         @media(min-width:768px) {
@@ -573,11 +538,11 @@
         }
 
         .box-img-collapse .glyphicon-chevron-right::before {
-            color: #1C1D3C !important;
+            color: #4d541f !important;
         }
 
         .box-img-collapse .glyphicon-chevron-left::before {
-            color: #1C1D3C !important;
+            color: #4d541f !important;
         }
 
         .box-img-collapse .panel-primary {
@@ -602,7 +567,7 @@
             font-family: 'Glyphicons Halflings';
             content: "\e080";
             float: right;
-            color: #1C1D3C;
+            color: #4d541f;
             font-size: 14px;
         }
 
@@ -614,12 +579,11 @@
             border-top-color: #c5c5c5;
         }
     </style>
-
     <!-- Component box title-center -->
     <div class="box-title-center">
         <h3>Paso a paso</h3>
     </div>
-    <style>
+    <style type="text/css">
         .field-item.even .centertil {
             visibility: hidden;
             margin-top: -50px;
@@ -636,33 +600,28 @@
             color: rgba(77, 84, 31, 1);
         }
     </style>
-
     <!-- Sección box step-by-step -->
     <div class="box-step-by-step">
-
         <div class="card-step card-step-1">
             <div>
-                <div class="bg-circle">
-                    <span class="step-number">1</span>
-                </div>
+                <div class="bg-circle"><span class="step-number">1</span></div>
+
                 <h4>Agenda</h4>
             </div>
 
             <div class="overlay">
-                <p>Agenda tu cita de atención haciendo clic aquí</p>
-                <span class="btn-step-1">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8B8JF8rKSgLddeq9w61IaY_3hwXHbkcoD_LVad_A5ytk6xg/viewform" target="_blank" rel="noopener noreferrer">Agenda aquí</a>
-                </span>
+                <p>Regístrate y solicita tu cita de atención</p>
+                <span class="btn-step-1"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc8B8JF8rKSgLddeq9w61IaY_3hwXHbkcoD_LVad_A5ytk6xg/viewform" rel="noopener noreferrer" target="_blank">Regístrate</a> </span>
             </div>
         </div>
 
         <div class="card-step  card-step-2">
             <div>
-                <div class="bg-circle">
-                    <span class="step-number">2</span>
-                </div>
+                <div class="bg-circle"><span class="step-number">2</span></div>
+
                 <h4>Acogida</h4>
             </div>
+
             <div class="overlay">
                 <p>Evaluamos tus necesidades y te guiamos en la orientación que necesites en material Social, Psicológica o Jurídica.</p>
             </div>
@@ -670,11 +629,11 @@
 
         <div class="card-step  card-step-3">
             <div>
-                <div class="bg-circle">
-                    <span class="step-number">3</span>
-                </div>
+                <div class="bg-circle"><span class="step-number">3</span></div>
+
                 <h4>Orientación</h4>
             </div>
+
             <div class="overlay">
                 <p>Profesionales de los diferentes enfoques te acompañarán en el proceso.</p>
             </div>
@@ -682,31 +641,28 @@
 
         <div class="card-step card-step-4">
             <div>
-                <div class="bg-circle">
-                    <span class="step-number">4</span>
-                </div>
+                <div class="bg-circle"><span class="step-number">4</span></div>
+
                 <h4>Cierre</h4>
             </div>
+
             <div class="overlay">
                 <p>Culminamos el proceso de orientación en cada uno de los enfoques sugeridos.</p>
             </div>
         </div>
 
-
         <div class="card-step  card-step-5">
             <div>
-                <div class="bg-circle">
-                    <span class="step-number">5</span>
-                </div>
+                <div class="bg-circle"><span class="step-number">5</span></div>
+
                 <h4>Seguimiento</h4>
             </div>
+
             <div class="overlay">
                 <p>Hacemos seguimiento sobre los avances de tu proceso de orientación</p>
             </div>
         </div>
-
-
-        <style>
+        <style type="text/css">
             .box-step-by-step .bg-circle {
                 display: block;
                 /* width: 100%; */
@@ -723,7 +679,7 @@
                 width: 100%;
                 opacity: 0;
                 transition: .5s ease;
-                background-color: #1C1D3C;
+                background-color: #4d541f;
                 border-radius: 15px;
                 padding: 12px;
 
@@ -755,10 +711,8 @@
                 text-align: center;
             }
         </style>
-
-
     </div>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-step-by-step {
             grid-area: box-step-by-step;
             margin-top: 40px;
@@ -782,7 +736,7 @@
         }
 
         .box-step-by-step .card-step:hover {
-            background-color: #1C1D3C;
+            background-color: #4d541f;
         }
 
         .box-step-by-step .card-step:hover .bg-circle {
@@ -794,7 +748,7 @@
         }
 
         .box-step-by-step .card-step .bg-circle {
-            background-color: #1C1D3C;
+            background-color: #4d541f;
             border-radius: 50%;
             width: 60px;
             height: 60px;
@@ -879,12 +833,13 @@
             }
         }
     </style>
-
     <!-- Component box title-center -->
     <div class="box-title-center">
         <h3>Oferta formativa</h3>
+
+        <p>Desde el área de formación de ORVI realizamos charlas y talleres con el fin de prevenir, controlar y disminuir los riesgos que conllevan un siniestro vial. Escríbenos a <a href="mailto:formacionorvi@movilidadbogota.gov.co">formacionorvi@movilidadbogota.gov.co</a> para registrarte o recibir más información.</p>
     </div>
-    <style>
+    <style type="text/css">
         .field-item.even .centertil {
             visibility: hidden;
             margin-top: -50px;
@@ -900,46 +855,43 @@
             text-align: center;
             font-size: 32px;
             font-weight: 700;
-            color: #1C1D3C;
+            color: #4d541f;
         }
     </style>
-
     <!-- Sección box slider-cards-hz -->
     <div class="box-slider-cards-hz">
+
 
         <template>
             <div class="summary-card">
                 <div class="img-card">
-                    <img src="https://proyectos.camilogarzon.digital/wp-content/uploads/2023/02/pexels-cottonbro-studio-8465067.jpg" alt="...">
-                    <span class="tag">Charla</span>
+                    <img alt="..." src="https://proyectos.camilogarzon.digital/wp-content/uploads/2023/02/pexels-cottonbro-studio-8465067.jpg"> <span class="tag">Charla</span>
                 </div>
                 <div class="text-summary">
                     <h4>¿QUÉ ES ORVI?: RUTA DE ATENCIÓN</h4>
                     <p>Te orientamos e informamos sobre los procesos necesarios para solicitar los servicios de ORVI.</p>
                 </div>
-                <div class="link-summary">
-                    <a href="" target="_blank" rel="noopener noreferrer">Regístrate aquí</a>
-                </div>
+                <!--<div class="link-summary"><a href="" rel="noopener noreferrer" target="_blank">Regístrate aquí</a></div>-->
             </div>
         </template>
 
         <h3>Charlas y talleres</h3>
 
+        <!-- Controls -->
         <div class="set-cards-sliders">
-
+            <a class="left carousel-control" onclick="controlLeft()" role="button" data-slide="prev" title="Anterior">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="right carousel-control" onclick="controlRight()" role="button" data-slide="next" title="Siguiente">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Siguiente</span>
+            </a>
         </div>
 
-        <!-- Controls -->
-        <a class="left slider-control" role="button" onClick="controlLeft()">
-            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="right slider-control" role="button" onClick="controlRight()">
-            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
 
-        <style>
+        <!-- Controls -->
+        <style type="text/css">
             .box-slider-cards-hz {
                 position: relative;
             }
@@ -968,11 +920,10 @@
             .box-slider-cards-hz .left {
                 position: absolute;
                 font-size: 30px;
-                color: #fff;
-                top: calc(50% - 15px);
-                left: 20px;
+                color: #BED000;
+                left: 0px;
                 text-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.50);
-                ;
+                z-index: 1000;
 
 
 
@@ -981,25 +932,24 @@
             .box-slider-cards-hz .right {
                 position: absolute;
                 font-size: 30px;
-                color: #fff;
-                top: calc(50% - 15px);
-                right: 20px;
+                color: #BED000;
+                /* top: calc(50% - 15px); */
+                right: 0px;
                 text-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.50);
-                ;
-
+                z-index: 1000;
 
             }
 
             .box-slider-cards-hz>a .glyphicon-chevron-right:hover,
             .box-slider-cards-hz>a .glyphicon-chevron-left:hover {
 
-                color: #1C1D3C !important;
+                color: #4d541f !important;
             }
         </style>
     </div>
     <script>
         const cards_sliders = [{
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_007.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/que-es-orvi.jpg",
                 "alt": "Persona recibe información por parte de funcionario de la SDM",
                 "title": "¿Qué es ORVI?",
                 "summary": "Orientamos e informamos sobre los servicios gratuitos ofrecidos.",
@@ -1008,7 +958,7 @@
 
             },
             {
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_012.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/educacion-seguridad-vial.jpg",
                 "alt": "Personas reciben charla en grupo",
                 "title": "Educación para la seguridad vial",
                 "summary": "Ofrecemos conceptos básicos sobre los factores de riesgo que pueden ocasionar un siniestro vial.",
@@ -1016,7 +966,7 @@
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/convivencia_vial.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/convivencia-vial.jpg",
                 "alt": "Grupo de personas reciben orientación",
                 "title": "Convivencia vial",
                 "summary": "Abordamos aspectos generales de movilidad agresiva, su vinculación con las dinámicas del tránsito, los medios de transporte y actores viales.",
@@ -1024,7 +974,7 @@
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
             {
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_005.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/ensenanza-seguridad-vial.jpg",
                 "alt": "Conductores de SITP reciben capacitación",
                 "title": "Cultura vial para una movilidad segura",
                 "summary": "Reflexionamos sobre las acciones armoniosas, respetuosas y empáticas en la vía.",
@@ -1035,7 +985,7 @@
                 "title": "Sesgos en la conducción",
                 "summary": "Estudiamos sesgos cognitivos en la conducción.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_003.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/sesgos-conduccion.jpg",
                 "alt": "Funcionario de la SDM brinda información a ciclista urbano",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1043,7 +993,7 @@
                 "title": "Emociones y conducción",
                 "summary": "Reflexionamos sobre las emociones y cómo gestionarlas para evitar riesgos en la vía.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/emociones.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/emociones-conduccion.jpg",
                 "alt": "Persona conduciendo vehículo",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1051,7 +1001,7 @@
                 "title": "Tecnologías y comunicaciones en la seguridad vial",
                 "summary": "Exploramos las herramientas tecnológicas al conducir y su aporte en la prevención de siniestros viales.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_002.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/tecnologias-seguridad-vial.jpg",
                 "alt": "Ciclista urbano recibe información por parte de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1067,7 +1017,7 @@
                 "title": "Acciones penales y civiles tras un siniestro vial",
                 "summary": "Analizamos los procedimientos legales que se pueden emprender.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-04-2023/recurso_orvi_021.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/siniestro-vial-terminos-legales.jpg",
                 "alt": "Personas conversando en una sala.",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1075,7 +1025,7 @@
                 "title": "Responsabilidad civil extracontractual",
                 "summary": "Analizamos los procedimientos y criterios en indemnizaciones por los daños causados.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/resposabilidad_civil.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/responsabilidad-civil-extracontractual.jpg",
                 "alt": "Mujer conduciendo vehículo",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1091,7 +1041,7 @@
                 "title": "Atención a víctimas de siniestros viales",
                 "summary": "Informamos las acciones emprendidas en la atención a víctimas viales.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_009.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/atencion-victimas.jpg",
                 "alt": "Grupo de conductores del SITP reciben charla de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1107,7 +1057,7 @@
                 "title": "Primer respondiente",
                 "summary": "Estudiamos las acciones de primeros auxilios para atender un evento vial con lesionados.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_018.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/primer-respondiente.jpg",
                 "alt": "Grupo de personas reciben charla de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1115,7 +1065,7 @@
                 "title": "Primeros auxilios psicológicos",
                 "summary": "Establecemos pautas para la disminución del impacto emocional y social luego de un siniestro vial.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/auxilios.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/primeros-auxilios-psicologicos.jpg",
                 "alt": "Mujer charlando con otra persona",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1123,7 +1073,7 @@
                 "title": "Esterotipos de género en la movilidad",
                 "summary": "Analizamos las experiencias de movilidad y reconocemos las necesidades en el espacio público.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_019.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/movilidad-diversa-incluyente.jpg",
                 "alt": "Mujer al volante de autobús",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1131,7 +1081,7 @@
                 "title": "Factores de riesgo en la siniestralidad vial",
                 "summary": "Identificamos los factores de riesgo relacionados con los roles viales.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_001.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/factores-riesgo-siniestros-viales.jpg",
                 "alt": "Ciclista urbano recibe información de fincionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1148,7 +1098,7 @@
                 "title": "¿Cómo proceder ante un siniestro vial simple?",
                 "summary": "Revisamos los aspectos que podrían incidir en la reclamación de un siniestro vial con daños materiales.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2023/recurso_orvi_006.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/siniestro-vial-danos-materiales.jpg",
                 "alt": "Funcionario de la SDM brinda taller a conductores del SITP",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1177,7 +1127,7 @@
                 let img = cards_sliders[index].img;
                 let summary = cards_sliders[index].summary;
                 let type = cards_sliders[index].type;
-                let url = cards_sliders[index].url;
+                //let url = cards_sliders[index].url;
 
                 const textData = template.content.cloneNode(true);
 
@@ -1186,7 +1136,7 @@
                 textData.querySelector("h4").textContent = cards_sliders[index].title;
                 textData.querySelector(".tag").textContent = cards_sliders[index].type;
                 textData.querySelector("p").textContent = cards_sliders[index].summary;
-                textData.querySelector("a").href = cards_sliders[index].url;
+                //textData.querySelector("a").href = cards_sliders[index].url;
                 box.appendChild(textData);
 
 
@@ -1204,10 +1154,10 @@
             document.querySelector(".set-cards-sliders").scrollLeft += 272;
         }
     </script>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-slider-cards-hz {
             grid-area: box-slider-cards-hz;
-            background-color: #1C1D3C;
+            background-color: #4d541f;
             position: relative;
             margin-bottom: 40px;
             border-radius: 8px;
@@ -1348,56 +1298,42 @@
             }
 
             .box-slider-cards-hz .set-cards-sliders {
-                border-left: solid #1C1D3C 60px;
-                border-right: solid #1C1D3C 60px;
+                border-left: solid #4d541f 60px;
+                border-right: solid #4d541f 60px;
             }
         }
     </style>
-
     <!-- Sección box footer -->
     <div class="box-footer">
-        <div class="imagen img-logo-sdm">
-            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2020/logo-footer.png" alt="Logo Secretaria Distrital de Movilidad" title="Logo Secretaria Distrital de Movilidad">
-        </div>
+        <div class="imagen img-logo-sdm"><img alt="Logo Secretaria Distrital de Movilidad" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2020/logo-footer.png" title="Logo Secretaria Distrital de Movilidad"></div>
+
         <div class="contacto">
             <h3>Contacto</h3>
+
             <div class="list">
                 <dl>
-                    <dt>
-                        Dirección:
-                    </dt>
-                    <dd>
-                        Centro Comercial Mallplaza NQS - <strong>Av Cra 30 # 19 Piso 4</strong>
-                    </dd>
+                    <dt>Dirección:</dt>
+                    <dd>Centro Comercial Mallplaza NQS - <strong>Av Cra 30 # 19 Piso 4</strong></dd>
                 </dl>
+
                 <dl>
-                    <dt>
-                        Celular y WhatsApp de orientación:
-                    </dt>
-                    <dd>
-                        <a href="tel:+3058703478">305 870 3478</a>
-                    </dd>
+                    <dt>Celular y WhatsApp de orientación:</dt>
+                    <dd><a href="tel:+3058703458">305 870 3458</a></dd>
                 </dl>
+
                 <dl>
-                    <dt>
-                        Correo electrónico 1:
-                    </dt>
-                    <dd>
-                        <a href="mailto:orvi@movilidadbogota.gov.co">orvi@movilidadbogota.gov.co</a>
-                    </dd>
+                    <dt>Correo electrónico:</dt>
+                    <dd><a href="mailto:orvi@movilidadbogota.gov.co">orvi@movilidadbogota.gov.co</a></dd>
                 </dl>
+
                 <dl>
-                    <dt>
-                        Correo electrónico 2:
-                    </dt>
-                    <dd>
-                        <a href="mailto:formacionorvi@movilidadbogota.gov.co">formacionorvi@movilidadbogota.gov.co</a>
-                    </dd>
+                    <dt>Correo solicitudes charlas o talleres de formación:</dt>
+                    <dd><a href="mailto:formacionorvi@movilidadbogota.gov.co">formacionorvi@movilidadbogota.gov.co</a></dd>
                 </dl>
             </div>
         </div>
     </div>
-    <style>
+    <style type="text/css">
         .set-wrapper .box-footer {
             grid-area: box-footer;
             background: #bed000;
@@ -1477,8 +1413,7 @@
         }
     </style>
 </div>
-
-<style>
+<style type="text/css">
     .set-wrapper {
         max-width: 1200px;
         margin: auto;

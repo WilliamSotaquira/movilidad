@@ -134,19 +134,19 @@
 									<li><a href="https://www.movilidadbogota.gov.co/web/organigrama" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.2.</span>Estructura orgánica - Organigrama</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/procesos-y-procedimientos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.3.</span>Mapas y Cartas descriptivas de los procesos</a></li>
 									<li><a href="http://www.movilidadbogota.gov.co/web/puntos_de_atencion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.4.</span>Directorio Institucional</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/funcionarios" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.5.</span>Directorio de servidores públicos, empleados o contratistas</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/funcionarios" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.5.</span>Directorio de servidoras, servidores públicos, empleadas, empleados o contratistas</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/directorio_entidades" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.6.</span>Directorio de entidades</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/directorio_de_agremiaciones_asociaciones_y_otros_grupos_de_interes" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.7.</span>Directorio de agremiaciones o asociaciones en las que participe</a></li>
 									<li><span class="enfasis_num">1.8.</span>Servicio al público, normas, formularios y protocolos de atención
 										<ul>
 											<li><a href="https://www.movilidadbogota.gov.co/web/preguntas_frecuentes" rel="noopener noreferrer" target="_blank">Preguntas y respuestas frecuentes</a></li>
 											<!-- <li><a href="https://www.movilidadbogota.gov.co/web/derechos_y_deberes_de_los_ciudadanos" rel="noopener noreferrer" target="_blank">Derechos y Deberes de los Ciudadanos</a></li> -->
-											<li><a href="https://www.movilidadbogota.gov.co/web/carta_de_compromiso_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Derechos y Deberes de los Ciudadanos</a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/carta_de_compromiso_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Derechos y Deberes a la Ciudadanía</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/manual_de_servicio_a_la_ciudadania" rel="noopener noreferrer" target="_blank">Manual de Servicio a la Ciudadanía</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/glosario" rel="noopener noreferrer" target="_blank">Glosario</a></li>
 										</ul>
 									</li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/procesos-y-procedimientos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.9.</span>Procedimientos que se siguen para tomar decisiones en las diferentes áreas</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/procedimientos_que_se_siguen_para_tomar_decisiones_en_las_diferentes_areas" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.9.</span>Procedimientos que se siguen para tomar decisiones en las diferentes áreas</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.10.</span>Mecanismo de presentación directa de solicitudes, quejas y reclamos a disposición del público en relación con acciones u omisiones del sujeto obligado</a>
 										<div class="box-blockquote">
 											<blockquote>
@@ -157,7 +157,7 @@
 									<!-- <li><a href="https://www.movilidadbogota.gov.co/web/calendario_de_actividades" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.11.</span>Calendario de actividades y eventos</a></li> -->
 									<li><a href="https://www.movilidadbogota.gov.co/web/calendario_de_eventos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.11.</span>Calendario de actividades y eventos</a></li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/historico_noticias" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.12.</span>Información sobre decisiones que puede afectar al público</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/mecanismos-control-supervision" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.13.</span>Entes y autoridades que lo vigilan</a></li>
+									<li><a href="https://www.movilidadbogota.gov.co/web/mecanismos-control-supervision" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.13.</span>Entes y autoridades que vigilan la SDM</a></li>
 									<li><a href="https://serviciocivil.gov.co/transparencia/publicacion-hojas-de-vida" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">1.14.</span>Publicación de hojas de vida aspirantes</a></li>
 									<!-- <li><a href="#" target="_blank" rel="noopener noreferrer"><span class="enfasis_num">1.15.</span>Aporte público al empleo</a></li> --></ol>
 							</div>
@@ -450,15 +450,15 @@
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_del_dia_sin_carro_y_sin_moto" rel="noopener noreferrer" target="_blank">Informes del Día sin Carro y sin Moto</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_siniestralidad_sitp_asociada_a_exceso_de_velocidad" rel="noopener noreferrer" target="_blank">Informes de siniestralidad SITP asociada a exceso de velocidad</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/informes_de_ciclovias_temporales" rel="noopener noreferrer" target="_blank">Informes de Ciclovías Temporales</a></li>
-											<li><a href="https://www.movilidadbogota.gov.co/web/balance_anual_de_los_consejos_locales_de_la_bicicleta" rel="noopener noreferrer" target="_blank">Balance anual de los Consejos Locales de la Bicicleta</a></li>
+											<!-- <li><a href="https://www.movilidadbogota.gov.co/web/balance_anual_de_los_consejos_locales_de_la_bicicleta" rel="noopener noreferrer" target="_blank">Balance anual de los Consejos Locales de la Bicicleta</a></li> -->
 											<li><a href="https://www.movilidadbogota.gov.co/web/libros_y_cartillas" rel="noopener noreferrer" target="_blank">Libros y cartillas</a></li>
-											<li><a href="https://www.movilidadbogota.gov.co/web/encuesta_de_movilidad_2019" rel="noopener noreferrer" target="_blank">Encuesta de Movilidad - La Movilidad en Datos </a></li>
+											<li><a href="https://www.movilidadbogota.gov.co/web/la_movilidad_en_datos" rel="noopener noreferrer" target="_blank">La Movilidad en Datos</a></li>
 										</ul>
 									</li>
 									<li><a href="https://www.movilidadbogota.gov.co/web/eliminaciones_documentales_trd" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.2.</span>Eliminaciones Documentales - TRD</a></li>
 									<li><span class="enfasis_num">9.3.</span>Convocatorias
 										<ul>
-											<li><a href="https://observatorio.movilidadbogota.gov.co/" rel="noopener noreferrer" target="_blank">Movi-innova</a></li>
+											<li><a href="https://observatorio.movilidadbogota.gov.co/memorias" rel="noopener noreferrer" target="_blank">Movi-innova</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/movilab" rel="noopener noreferrer" target="_blank">Histórico vigencia 2022</a></li>
 											<li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2023/bases_del_concurso_2023v2.pdf">Innovadores Escolares en Seguridad Vial</a></li>
 										</ul>
@@ -471,8 +471,8 @@
 											<li><a href="https://talentonopalanca.gov.co/index.html" rel="noopener noreferrer" target="_blank">Trabaja con nosotros</a></li>
 										</ul>
 									</li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.6.</span>Denuncias por actos de corrupción</a></li>
-									<li><a href="https://www.movilidadbogota.gov.co/web/agenda_directivos" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.7.</span>Agenda Directivos</a>
+									<li><a href="https://www.movilidadbogota.gov.co/web/canal_anticorrupcion" rel="noopener noreferrer" target="_blank"><span class="enfasis_num">9.6.</span>Denuncias por actos de corrupción y antisoborno</a></li>
+									<li><a><span class="enfasis_num">9.7.</span>Agenda Directivos</a>
 										<ul>
 											<li><a href="https://gobiernoabiertobogota.gov.co/transparencia" rel="noopener noreferrer" target="_blank">Agendas Abiertas - Gobierno Abierto de Bogotá (GAB)</a></li>
 										</ul>
@@ -485,6 +485,8 @@
 					<!-- /#collapseNueve --></div>
 			</div>
 		</div>
+
+
 
 		<hr>
 		<div class="row">
@@ -682,3 +684,5 @@
         }
 </style>
 <!-- Fin Set -->
+
+

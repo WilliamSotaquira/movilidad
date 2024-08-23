@@ -7,7 +7,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- Styles -->
 <style type="text/css">
     :root {
-        --color-primario: #20223D;
+        --color-primario: #4d541f;
         --color-secundario: #BBCE31;
         --color-terciario: #bed000;
         --color-cuaternario: #98A520;
@@ -17,6 +17,7 @@
         --color-negro: #191919;
         --color-fondo: #333333;
     }
+
 
     .field-item.even .centertil {
         visibility: hidden;
@@ -56,9 +57,13 @@
 </style>
 <!-- End Styles --><!-- Set Wrapper -->
 <div class="container-fluid defensor">
-    <div class="set-wrapper"><!-- Sección box header -->
+    <div class="set-wrapper">
+
+        <!-- Sección box header -->
         <div class="box-header">
-            <div class="logo logo-ppal"><img alt="logo - Defensor Ciudadano" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/recurso_3.png"></div>
+            <div class="logo logo-ppal">
+                <img alt="logo - Defensor Ciudadano" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-08-2024/logo-defensor-ajustado_3.png ">
+            </div>
             <style type="text/css">
                 .box-header .logo-ppal {
                     grid-area: cpte-logo-ppal;
@@ -70,9 +75,9 @@
                     margin: auto;
                 }
             </style>
-            <div class="title title-h2-ppal">
+            <!-- <div class="title title-h2-ppal">
                 <h2>Soy defensor del ciudadano</h2>
-            </div>
+            </div> -->
             <style type="text/css">
                 .box-header .title-h2-ppal {
                     grid-area: cpte-title-ppal;
@@ -91,9 +96,9 @@
 
                 }
             </style>
-            <div class="title title-h3-sdo">
+            <!-- <div class="title title-h3-sdo">
                 <h3>¡Estoy para servirte!</h3>
-            </div>
+            </div> -->
             <style type="text/css">
                 .box-header .title-h3-sdo {
                     grid-area: cpte-title-sdo;
@@ -105,7 +110,7 @@
                     font-weight: 600;
                     text-align: center;
                     line-height: 1;
-                    color: var(--color-blanco);
+                    color: var(--color-primario);
                     text-transform: uppercase;
                     margin: 0px;
                 }
@@ -122,7 +127,7 @@
         <style type="text/css">
             .set-wrapper .box-header {
                 grid-area: box-header;
-                background-color: var(--color-primario);
+                background-color: var(--color-gris);
                 background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-11-2022/recurso_10.png');
                 background-repeat: no-repeat;
                 background-size: cover;
@@ -177,7 +182,7 @@
         <!-- Sección box definicion -->
         <div class="box-definicion">
             <div class="paragraph ph-1">
-                <p>La Secretaría Distrital de Movilidad cuenta con la figura del <strong>Defensor de la Ciudadanía</strong>, como herramienta que garantiza el cumplimiento de los derechos y deberes a los ciudadanos, a obtener respuestas oportunas y de calidad a sus requerimientos, que sus quejas y reclamos sean solucionadas y que se establezcan mecanismos de participación en el diseño y prestación de servicios.</p>
+                <p>La Secretaría Distrital de Movilidad cuenta con la figura de la <strong>Defensora de la Ciudadanía</strong>, como herramienta que garantiza el cumplimiento de los derechos y deberes a la ciudadanía, a obtener respuestas oportunas y de calidad a sus requerimientos, que sus quejas y reclamos sean solucionadas y que se establezcan mecanismos de participación en el diseño y prestación de servicios.</p>
 
                 <p><strong>En cumplimiento al Decreto 847 de 2019 y a la Resolución 078 de 2019, de la Secretaría Distrital de Movilidad.</strong></p>
             </div>
@@ -240,7 +245,7 @@
                     font-weight: 700;
                     text-align: center;
                     line-height: 1.3;
-                    color: var(--color-primario);
+                    color: var(--color-negro);
                 }
 
                 @media(min-width:768px) {
@@ -260,7 +265,7 @@
                 @media(min-width:992px) {}
             </style>
             <div class="paragraph ph-2">
-                <p><strong>Si tu PQRS no fue resuelta u obtuviste una respuesta incompleta y oportuna, podrás hacer una reiteración.</strong> En esta situación, luego de haber efectuado la reiteración, continúas obteniendo la misma respuesta que no te satisface o responde de fondo a la solicitud, podrás requerir una cita con el defensor del ciudadano para buscar una solución definitiva.</p>
+                <p><strong>Si tu PQRS no fue resuelta u obtuviste una respuesta incompleta y oportuna, podrás hacer una reiteración.</strong> En esta situación, luego de haber efectuado la reiteración, continúas obteniendo la misma respuesta que no te satisface o responde de fondo a la solicitud, podrás requerir una cita con la defensora de la ciudadanía para buscar una solución definitiva.</p>
             </div>
         </div>
         <style type="text/css">
@@ -339,9 +344,9 @@
         <!-- Sección box col-uno -->
         <div class="box-col box-col-uno">
             <ul>
-                <li><strong>Ser vocero</strong> de los ciudadanos y las ciudadanas para la protección de sus derechos y conocer sus deberes.</li>
-                <li><strong>Conocer y hacer </strong>seguimiento a los requerimientos, quejas, reclamos o solicitudes de los ciudadanos por el posible incumplimiento de las normatividades vigentes, dentro de los tiempos establecidos; que rigen el desarrollo de los trámites y servicios que presta la entidad.</li>
-                <li><strong>Promover y divulgar</strong> la figura del Defensor del Ciudadano y sus actividades a la ciudadanía.</li>
+                <li><strong>Ser vocera</strong> de las y los ciudadanos para la protección de sus derechos y conocer sus deberes.</li>
+                <li><strong>Conocer y hacer</strong> seguimiento a los requerimientos, quejas, reclamos o solicitudes de la ciudadanía por el posible incumplimiento de las normatividades vigentes, dentro de los tiempos establecidos; que rigen el desarrollo de los trámites y servicios que presta la Entidad.</li>
+                <li><strong>Promover y divulgar</strong> la figura de la Defensora de la Ciudadanía y sus actividades a la ciudadanía.</li>
                 <li><strong>Diseñar e Implementar</strong> estrategias acerca de los derechos y deberes de la ciudadanía.</li>
             </ul>
         </div>
@@ -354,8 +359,8 @@
         <!-- Sección box col-dos -->
         <div class="box-col box-col-dos">
             <ul>
-                <li><strong>Ser mediador</strong> entre la ciudadanía y la Entidad en pro de solucionar de manera oportuna, clara y efectiva las diferencias que se presentan en la relación Estado-ciudadano-ciudadana.</li>
-                <li><strong>Generar reportes</strong> a la Secretaría General de la Alcaldía Mayor de Bogotá, D.C., y la Veeduría Distrital.</li>
+                <li><strong>Ser mediadora</strong> entre la ciudadanía y la Entidad en pro de solucionar de manera oportuna, clara y efectiva las diferencias que se presentan en la relación Estado-ciudadano-ciudadana.</li>
+                <li>Generar reportes a la Secretaría General de la Alcaldía Mayor de Bogotá, D.C., y la Veeduría Distrital.</li>
                 <li>Las demás que se requieran para el ejercicio eficiente de las funciones asignadas.</li>
             </ul>
         </div>
@@ -404,7 +409,7 @@
             <div class="box-btn">
                 <div class="row">
                     <div class="col-xs-12">
-                        <div class="btn-defensor"><a href="https://www.movilidadbogota.gov.co/web/govi-sdqs/crear">Realiza aquí tu solicitud al Defensor del Ciudadano </a></div>
+                        <div class="btn-defensor"><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Realiza aquí tu solicitud al Defensor del Ciudadano </a></div>
                     </div>
                 </div>
             </div>
@@ -414,29 +419,42 @@
             <br>
             <!-- Sección box collapse -->
             <div class="box-collapse">
-                <div class="panel-group" id="accordion">
-
-                    <!-- collapse defensor2023 -->
-                    <div class='panel panel-primary'>
-                        <div class='panel-heading' role='tab' id='heading_defensor2023'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse_defensor2023' aria-expanded='false' aria-controls='collapse_defensor2023'>
-                                    2023
-                                </a>
-                            </h4>
+                <div class="panel-group" id="accordion"><!-- collapse defensor2023 -->
+                    <div class="panel panel-primary">
+                        <div class="panel-heading" id="heading_defensor2024" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse_defensor2024" aria-expanded="false" data-parent="#accordion" data-toggle="collapse" href="#collapse_defensor2024" role="button">2024 </a></h4>
                         </div>
-                        <div id='collapse_defensor2023' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_defensor2023' aria-expanded='false'>
-                            <div class='panel-body'>
-                                <div class='box-defensor2023'>
-                                    <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-07-2023/-informe_del_defensor_del_ciudadano_i_semestre_de_2023_0.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2023</a></p>
-                                    <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-07-2023/-anexo_informe_semestral_de_gestion_defensor_de_la_ciudadania_-_buenas_practicas_i_semestre_2023_definitivo_0.pdf" target="_blank">INFORME ANEXO AL INFORME SEMESTRAL DE GESTIÓN DEFENSOR DE LA CIUDADANÍA - BUENAS PRÁCTICAS I SEMESTRE 2023</a></p>
 
+                        <div aria-expanded="false" aria-labelledby="heading_defensor2024" class="panel-collapse collapse in" id="collapse_defensor2024" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="box-defensor2024">
+                                    <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-08-2024/pdf-sec-movilidad-1-sem-2024.pdf" target="_blank">Informe Defensor al ciudadano I semestre 2024</a></p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
+                    <div class="panel panel-primary">
+                        <div class="panel-heading" id="heading_defensor2023" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse_defensor2023" aria-expanded="false" data-parent="#accordion" data-toggle="collapse" href="#collapse_defensor2023" role="button">2023 </a></h4>
+                        </div>
+
+                        <div aria-expanded="false" aria-labelledby="heading_defensor2023" class="panel-collapse collapse" id="collapse_defensor2023" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="box-defensor2023">
+                                    <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-07-2023/-informe_del_defensor_del_ciudadano_i_semestre_de_2023_0.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO I SEMESTRE 2023</a></p>
+
+                                    <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-07-2023/-anexo_informe_semestral_de_gestion_defensor_de_la_ciudadania_-_buenas_practicas_i_semestre_2023_definitivo_0.pdf" target="_blank">INFORME ANEXO AL INFORME SEMESTRAL DE GESTIÓN DEFENSOR DE LA CIUDADANÍA - BUENAS PRÁCTICAS I SEMESTRE 2023</a></p>
+
+                                    <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2024/informe_del_defensora_de_la_ciudadania_ii_semestre_de_2023.pdf" target="_blank">INFORME DEFENSOR DEL CIUDADANO II SEMESTRE 2023</a></p>
+
+                                    <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2024/informe_de_buenas_practicas_2023.pdf" target="_blank">INFORME ANEXO AL INFORME SEMESTRAL DE GESTIÓN DEFENSOR DE LA CIUDADANÍA - BUENAS PRÁCTICAS II SEMESTRE 2023</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <!-- collapse_defensor2022 -->
+
                     <div class="panel panel-primary">
                         <div class="panel-heading" id="heading_defensor2022" role="tab">
                             <h4 class="panel-title"><a aria-controls="collapse_defensor2022" aria-expanded="true" data-parent="#accordion" data-toggle="collapse" href="#collapse_defensor2022" role="button">2022 </a></h4>
@@ -533,7 +551,7 @@
             }
 
             .set-wrapper .s4 .btn-defensor {
-                background: #1C1D3C !important;
+                background: var(--color-primario) !important;
                 color: #fff;
                 border-radius: 0px;
                 border: none;
@@ -553,7 +571,7 @@
 
             .set-wrapper .s4 .btn-defensor:hover {
                 background: #c6d21d !important;
-                color: #000;
+                color: #00000099;
                 -webkit-box-shadow: none;
                 box-shadow: none;
             }
@@ -673,12 +691,8 @@
                 margin-top: 50px;
             }
         }
-
-        @media(min-width:992px) {
-            .set-wrapper {}
-        }
     </style>
 </div>
 
-<p><br>
-    <!-- End Set Wrapper --><!-- End defensor  --></p>
+<p><br></p>
+<!-- End Set Wrapper --><!-- End defensor  -->

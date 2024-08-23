@@ -7,12 +7,16 @@
 <!-- Set tramitesServicios -->
 <div class="set-wrapper tramitesServicios">
     <template>
-        <div class="card-ts">
+        <div class="column card-ts">
             <div class="details-ts">
                 <div class="tags-ts">
-                    <div class="tags"><span class="label label-default">Tramite</span></div>
+                    <div class="tags"><span class="label label-default">Trámite</span></div>
                 </div>
-                <a class="link-ppal"><h3>Inscripción o autorización para la circulación vial (excepciones pico y placa).</h3></a>
+                <a class="link-ppal"> </a>
+
+                <h3><a class="link-ppal">Inscripción o autorización para la circulación vial (excepciones pico y placa).</a></h3>
+                <a class="link-ppal"> </a>
+
                 <p class="p1">Inscríbete virtualmente al registro de los vehículos exceptuados de la medida de pico y placa en Bogotá.</p>
             </div>
 
@@ -39,9 +43,8 @@
         }
 
         .card-ts {
-            display: none;
-
             background: #fff;
+            display: grid;
             gap: 8px;
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
@@ -56,11 +59,6 @@
             -webkit-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.08);
             box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.08);
             margin-bottom: 16px;
-
-        }
-
-        .uncover {
-            display: grid !important;
         }
 
         @media(min-width:768px) {
@@ -165,7 +163,82 @@
             /* padding-top: 1.5em; */
         }
 
-        .set-wrapper .box-calendar {
+        ---------------------------------------------------------------------------------------------------------------------------------------------- *
+
+        body {
+            background-color: #f1f1f1;
+            padding: 20px;
+            font-family: Arial;
+        }
+
+        /* Center website */
+        .main {
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h1 {
+            font-size: 50px;
+            word-break: break-all;
+        }
+
+        .row {
+            margin: 8px -16px;
+        }
+
+        /* Add padding BETWEEN each column (if you want) */
+        .row,
+        .row>.column {
+            padding: 8px;
+        }
+
+        /* Create three equal columns that floats next to each other */
+        .column {
+            float: left;
+            /* width: 33.33%; */
+            display: none;
+            /* Hide columns by default */
+        }
+
+        /* Clear floats after rows */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Content */
+        .content {
+            background-color: white;
+            padding: 10px;
+        }
+
+        /* The "show" class is added to the filtered elements */
+        .show {
+            display: block;
+        }
+
+        /* Style the buttons */
+        .btn {
+            border: none;
+            outline: none;
+            padding: 12px 16px;
+            background-color: white;
+            cursor: pointer;
+        }
+
+        /* Add a grey background color on mouse-over */
+        .btn:hover {
+            background-color: #ddd;
+        }
+
+        /* Add a dark background color to the active button */
+        .btn.active {
+            background-color: #666;
+            color: white;
+        }
+
+        ---------------------------------------------------------------------------------------------------------------------------------------------- .set-wrapper .box-calendar {
             display: grid;
             row-gap: 2em;
             grid-auto-flow: dense;
@@ -215,15 +288,15 @@
     <!-- Sección box header-ts -->
     <div class="box box-header-ts">
         <div class="title-ts">
-            <h3 class="title title-type-ppal title-id-1">Tramites, servicios, consultas y otros procedimientos</h3>
+            <h3 class="title title-type-ppal title-id-1">Trámites, servicios, consultas y otros procedimientos</h3>
         </div>
 
         <div class="paragraph-ppal">
-            <p>Para conocer los tramites, servicios, PQRSD y otros procedimientos administrativos (OPA) de la Secretaría Distrital de Movilidad, puedes consultarlos en la Guía de tramites y servicios de Bogotá o en el Portafolio de tramites de la secretaría, también puedes buscarlos en la lista que se encuentra a continuación. Al lado derecho encontrarás otros sitios de tu interés.</p>
+            <p>Para conocer los trámites, servicios, PQRSD y otros procedimientos administrativos (OPA) de la Secretaría Distrital de Movilidad, puedes consultarlos en la Guía de trámites y servicios de Bogotá o en el Portafolio de trámites de la secretaría, también puedes buscarlos en la lista que se encuentra a continuación. Al lado derecho encontrarás otros sitios de tu interés.</p>
         </div>
 
         <div class="icons">
-            <div class="icon zoom ico-1"><a href="https://www.movilidadbogota.gov.co/web/portafolio_tramites_y_servicios" onmouseover="mouseoversound.playclip()" title="Ir a portafolio de tramites y servicios"><img alt="Logo portafolio de tramites y servicios" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/portafolio.png"> </a></div>
+            <div class="icon zoom ico-1"><a href="https://www.movilidadbogota.gov.co/web/portafolio_tramites_y_servicios" onmouseover="mouseoversound.playclip()" title="Ir a portafolio de tramites y servicios"><img alt="Logo portafolio de trámites y servicios" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/portafolio.png"> </a></div>
 
             <div class="icon zoom ico-2"><a href="https://www.ventanillamovilidad.com.co/" onmouseover="mouseoversound.playclip()" title="Ir a ventanilla unica de servicios"><img alt="logo ventanilla unica de servicios" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/vus.png"> </a></div>
 
@@ -326,22 +399,21 @@
 
 
         }
-
     </style>
     <hr>
 
     <!-- Sección box bloque-2 -->
     <div class="box box-bloque-2">
         <div class="filter">
-            <div id="buttonsFilter">
-                <button class="btn active" onclick="filterSelection('all')"> Mostrar todo</button>
-                <button class="btn" onclick="filterSelection('tramites')"> Trámites</button>
-                <button class="btn" onclick="filterSelection('servicios')"> Servicios</button>
-                <button class="btn" onclick="filterSelection('pqrsds')"> PQRSD</button>
-            </div>
-
             <form>
                 <div class="filter-text"><label for="sentence">Buscar</label> <input class="form-control" id="sentence" placeholder="Buscar" type="text"></div>
+                <div id="myBtnContainer">
+                    <button class="btn active" onclick="filterSelection('all')"> Show all</button>
+                    <button class="btn" onclick="filterSelection('trámite')"> Trámite</button>
+                    <button class="btn" onclick="filterSelection('pqrsd')"> PQRSD</button>
+                    <button class="btn" onclick="filterSelection('servicio')"> Servicio</button>
+                </div>
+
                 <div class="filter-clear"><button class="btn btn-filtro" onclick="limpiarFiltro()">Limpiar Filtro</button></div>
             </form>
         </div>
@@ -356,16 +428,6 @@
         .box-bloque-2 .filter {
             padding: 16px;
             margin-bottom: 32px;
-            display: grid;
-            gap: 8px;
-            grid-auto-flow: dense;
-            grid-template-columns: 1fr 1fr;
-            grid-template-rows: auto;
-            align-items: end;
-        }
-        .box-bloque-2 #buttonsFilter{
-            display: inline-flex;
-            gap: 8px;
 
         }
 
@@ -377,6 +439,7 @@
             grid-template-columns: 1fr;
             grid-template-areas:
                 'buscar'
+                'checkbox'
                 'limpiar';
             margin: 0px;
         }
@@ -384,16 +447,18 @@
         @media(min-width:768px) {
             .box-bloque-2 form {
                 column-gap: 32px;
-                grid-template-columns: 60% auto;
+                grid-template-columns: 40% 40% auto;
                 grid-template-areas:
-                'buscar limpiar';
-                align-items: center;
+                    'buscar checkbox limpiar';
             }
         }
 
-
         .box-bloque-2 form .filter-text {
             grid-area: buscar;
+        }
+
+        .box-bloque-2 form .filter-radio {
+            grid-area: checkbox;
         }
 
         .box-bloque-2 form .filter-clear {
@@ -457,7 +522,12 @@
     }
 </style>
 <script>
-    var html5_audiotypes = {
+    // Visit JavaScript Kit at http://www.javascriptkit.com/ for full source code
+    //** Usage: Instantiate script by calling: var uniquevar=createsoundbite("soundfile1", "fallbackfile2", "fallebacksound3", etc)
+    //** Call: uniquevar.playclip() to play sound
+
+    var html5_audiotypes = { //define list of audio file extensions and their associated audio types. Add to it if your specified audio file isn't on this list:
+        "mp3": "audio/mpeg",
         "mp4": "audio/mp4",
         "ogg": "audio/ogg",
         "wav": "audio/wav"
@@ -669,9 +739,9 @@
         },
     ];
 
+
     const portafolio = [{
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Inscripción o autorización para la circulación vial (excepciones pico y placa)',
             description: 'Inscríbete virtualmente al registro de los vehículos exceptuados de la medida de pico y placa en Bogotá.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/inscripcion-o-autorizacion-para-la-circulacion-vial-sdm',
@@ -679,7 +749,6 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Curso Pedagógico por Infracción a las Normas de Tránsito',
             description: 'Promover en los asistentes la participación, reflexión y sensibilización frente a los cambios de comportamiento y hábitos en la vía. Agenda la asistencia al curso pedagógico, dando clic en agendar o llamando al (601) 3649400 opción 2.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/curso-sobre-normas-de-transito-sdm-37156-2',
@@ -687,7 +756,6 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Orden de Entrega de Vehículo Inmovilizado',
             description: 'Para retirar el vehículo inmovilizado del parqueadero de patios, agenda virtualmente tu cita para la orden de entrega. Una vez agendado, dirígete al punto de atención.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/orden-de-entrega-de-vehiculo-inmovilizado-sdm-37092',
@@ -695,15 +763,13 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Facilidades de pago para los deudores de obligaciones no tributarias',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/facilidades-de-pago-para-los-deudores-de-obligaciones-no-tributarias-sdm-37027',
             description: 'Obtén por el deudor o por un tercero a su nombre, facilidades para el pago de las obligaciones no tributarias, agenda tu cita.',
             canals: [7, 9, 10, 3, 4, 5, 6]
         },
         {
-            type: 'Trámite',
-            logtype: 'tramites',
+            type: 'Tramite',
             title: 'Devolución y/o compensación de pagos en exceso y de lo no debido por conceptos no tributarios.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/devolucion-yo-compensacion-de-pagos-en-exceso-y-de-lo-no-debido-por-conceptos-no-tributarios-sdm',
             description: 'Si ha cancelado sumas mayores por concepto de obligaciones no tributarias, solicita la devolución.',
@@ -711,7 +777,6 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Devolución y/o compensación de pagos en exceso y pagos de lo no debido.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/devolucion-yo-compensacion-de-pagos-en-exceso-y-pagos-de-lo-no-debido-sdm',
             description: 'Si ha efectuado pagos sin que exista causa legal para hacer exigible su cumplimiento, solicita la devolución.',
@@ -719,7 +784,6 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Plan de Manejo de Tránsito - PMT',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/plan-de-manejo-de-transito-sdm',
             description: 'Herramienta técnica que plantea las estrategias necesarias, para mitigar el impacto generado en la movilidad por la ejecución de una obra o por la realización de un evento en el espacio público.',
@@ -727,7 +791,6 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Revisión y aprobación de estudios de tránsito',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/revision-y-aprobacion-de-estudios-de-transito-sdm',
             description: 'Contiene el análisis de la situación actual del tránsito, de la demanda vehicular proyectada y de los impactos que un proyecto urbanístico genera, sobre la movilidad circundante y su zona de influencia. ',
@@ -735,7 +798,6 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Permiso de circulación para carga extrapesada y/o extradimensionada e indivisible',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-circulacion-para-carga-extrapesada-yo-extradimensionada-sdm',
             description: 'Autorización para movilizar por la red vial, maquinaria o carga con dimensiones extremas de longitud, anchura y altura o que exceda los límites de peso.',
@@ -743,7 +805,6 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Registro ruta escolar',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/registro-de-ruta-de-transporte-escolar-sdm',
             description: 'Permitir que los establecimientos educativos (públicos y/o privados), ubicados dentro del perímetro capital, presenten el informe anual de transporte escolar, con el objetivo de adelantar acciones de control de tipo administrativo y operativo sobre vehículos de servicio público especial, que presenten transporte escolar.',
@@ -751,15 +812,13 @@
         },
         {
             type: 'Trámite',
-            logtype: 'tramites',
             title: 'Emisión concepto a técnicas de señalización',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/emision-de-concepto-propuestas-tecnicas-de-disenos-de-senalizacion',
-            description: 'Efectuar el tramites de emisión de conceptos a propuestas de proyectos de diseños de señalización, frente a las solicitudes presentadas ante la Secretaría Distrital de Movilidad.',
+            description: 'Efectuar el trámite de emisión de conceptos a propuestas de proyectos de diseños de señalización, frente a las solicitudes presentadas ante la Secretaría Distrital de Movilidad.',
             canals: [13, 14, 18, 3, 4, 5, 6]
         },
         {
             type: 'Servicio',
-            logtype: 'servicios',
             title: 'Impugnación de comparendos',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/impugnacion-de-comparendos-notificados-en-via-sdm-37109-2',
             description: 'Agenda virtualmente tu cita para la impugnación. Una vez agendado, ve al punto de atención.',
@@ -767,7 +826,6 @@
         },
         {
             type: 'Servicio',
-            logtype: 'servicios',
             title: 'Entrega de licencias de conducción retenidas por infracción a las normas de tránsito',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/entrega-de-licencia-retenidas-por-infraccion-a-las-normas-de-transito-sdm-37108-2',
             description: 'Informar sobre la autorización para realizar el Curso de Sensibilización (Horas Comunitarias) para la prevención de la conducción bajo la influencia de alcohol o sustancias psicoactivas. Brindar información para la entrega de las licencias retenidas, al haber cumplido el tiempo de sanción por infracciones a las normas de tránsito.',
@@ -775,7 +833,6 @@
         },
         {
             type: 'Servicio',
-            logtype: 'servicios',
             title: 'Registro de Bici Bogotá',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/puntos-de-atencion-registro-bici',
             description: 'Asocia los datos personales de los ciudadanos con los de su bicicleta.',
@@ -783,15 +840,13 @@
         },
         {
             type: 'Servicio',
-            logtype: 'servicios',
             title: 'Sellos de calidad cicloparqueaderos',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/requisitos-sello-de-calidad-cicloparqueaderos',
             description: 'Postula un cicloparqueadero que merece sello de calidad, expedido por la Secretaría Distrital de Movilidad.',
             canals: [23, 3, 4, 5, 6]
         },
         {
-            type: 'Trámite',
-            logtype: 'tramites',
+            type: 'Servicio',
             title: 'Pico y placa solidario',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/pico-y-placa-solidario',
             description: 'Permiso especial que, durante su vigencia, permite que los vehículos inscritos no estén sujetos a la restricción de circulación por Pico y Placa.',
@@ -799,7 +854,6 @@
         },
         {
             type: 'Servicio',
-            logtype: 'servicios',
             title: 'Descuento tributario por la habilitación y mantenimiento de cicloparqueaderos - Plan Marshall',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/descuento-tributario-por-la-habilitacion-y-mantenimiento-de-ciclo-parqueaderos',
             description: 'Orientar y dar una guía sobre los requisitos que los contribuyentes deben tener presente, al momento de presentar su proyecto de inversión para habilitar y/o mantener cicloparqueaderos, cuya actividad económica no sea plazas de estacionamiento para automóviles, garajes (parqueaderos).',
@@ -807,7 +861,6 @@
         },
         {
             type: 'Servicio',
-            logtype: 'servicios',
             title: 'Centro de orientación a víctimas de siniestros viales - ORVI',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/centro-de-orientacion-para-victimas-de-siniestros-viales',
             description: 'El Centro de orientación para víctimas de siniestros viales tiene como propósito informar y orientar a las víctimas y sus familiares sobre procedimientos a seguir luego de un siniestro vial.',
@@ -815,7 +868,6 @@
         },
         {
             type: 'Servicio',
-            logtype: 'servicios',
             title: 'Plan estratégico de seguridad vial - PESV',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/planes-estrategicos-de-seguridad-vial-pesv',
             description: 'Dar a conocer a los Centros de Enseñanza Automovilística (CEAs) el proceso a seguir, para que la Secretaría Distrital de Movilidad realice la revisión y el seguimiento a la implementación de los Planes Estratégicos de Seguridad Vial.',
@@ -823,23 +875,20 @@
         },
         {
             type: 'PQRSD',
-            logtype: 'pqrsds',
             title: 'Desvinculación administrativa de vehículos de transporte público',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/desvinculacion-administrativa-de-vehiculos-de-transporte-publico',
             description: 'Desvincular un vehículo de servicio público individual o colectivo cuando no exista mutuo acuerdo entre las partes (empresa vinculadora y propietario). Hazlo a través de Bogotá tu escucha.',
             canals: [11, 12, 17, 3, 4, 5, 6]
         },
         {
-            type: 'PQRSD',
-            logtype: 'pqrsds',
+            type: 'PQRSD​',
             title: 'Verificación documental para la desintegración física del vehículo',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/informacion-sobre-la-desintegracion-fisica-de-vehiculos-de-servicio-publico-y-particular-sdm',
             description: 'La desintegración física de vehículos de transporte público se define como la destrucción de todos los elementos y componentes del automotor, hasta convertirlos en chatarra.',
             canals: [11, 12, 17, 3, 4, 5, 6]
         },
         {
-            type: 'PQRSD',
-            logtype: 'pqrsds',
+            type: 'PQRSD​',
             title: 'Reporte de semáforos que presentan fallas en la vía',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/reporte-de-semaforos-que-presentan-fallas-en-la-via',
             description: 'Restituir los elementos dañados o faltantes de los semáforos en la vía.',
@@ -847,7 +896,6 @@
         },
         {
             type: 'PQRSD',
-            logtype: 'pqrsds',
             title: 'Solicitud de prescripción',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/solicitud-de-prescripcion',
             description: 'El propósito de este servicio es solicitar la prescripción de obligaciones contraídas por contravenir las normas de tránsito. Como resultado usted obtendrá estudio de cartera, conforme al artículo 159 de la ley 769 de 2002 y los artículos 817 y 818 del Estatuto Tributario con el fin de identificar, prescribiendo, si corresponde, los comparendos, y los comparendos integrados en acuerdo de pago que sobrepasaron el límite del término impartido por la ley.',
@@ -855,7 +903,6 @@
         },
         {
             type: 'PQRSD',
-            logtype: 'pqrsds',
             title: 'Entrega de copias de informes policiales de accidentes de tránsito',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/Entrega-de-las-copias-de-informes-policiales-de-accidente-de-transito-sdm-43014-opa',
             description: 'Descriptivo de un accidente de tránsito simple, con lesiones o fallecidos, realizado en el sitio de los hechos por el Policía de Tránsito.',
@@ -863,7 +910,6 @@
         },
         {
             type: 'PQRSD',
-            logtype: 'pqrsds',
             title: 'Revocatoria directa por infracciones a las normas de tránsito',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/solicitud-de-revocatoria-directa-por-infracciones-a-las-normas-de-transito-sdm',
             description: 'Restablecer el derecho del ciudadano, mediante la revocación directa del acto mediante el cual fue sancionado por infringir las normas de tránsito.',
@@ -871,7 +917,6 @@
         },
         {
             type: 'PQRSD',
-            logtype: 'pqrsds',
             title: 'Solicitud de desembargo por multas e infracciones a las normas de tránsito y transporte público',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/solicitud-desembargo-por-multas-infracciones-de-normas-de-transito-y-transporte-publico-autorizacion-apropiaci%C3%B3n-devolucion-titulo-judicial-sdm',
             description: 'Desembargar un bien o inmueble por deudas a favor de la Secretaría Distrital de Movilidad. Previa cancelación de las obligaciones que hayan motivado el embargo.',
@@ -885,13 +930,14 @@
     const template = document.querySelector("template");
     let parent = document.querySelector(`.ts-cards`);
 
-
+    // console.log(portafolio);
 
     const rta = portafolio.sort((c, d) => c.title.toLowerCase().charCodeAt(0) - d.title.toLowerCase().charCodeAt(0))
+
     console.log(rta);
+
     for (let i = 0; i < rta.length; i++) {
 
-        let logtipo = rta[i].logtype;
         let tipo = rta[i].type;
         let title = rta[i].title;
         let description = rta[i].description;
@@ -900,7 +946,7 @@
 
         textData = template.content.cloneNode(true);
 
-        textData.querySelector(".card-ts").classList.add(logtipo.toLowerCase());
+        textData.querySelector(".card-ts").classList.add(tipo.toLowerCase());
         textData.querySelector(".link-ppal").setAttribute("href", url);
         textData.querySelector("h3").textContent = title;
         textData.querySelector(".tags .label-default").textContent = tipo;
@@ -924,50 +970,71 @@
             canalResume.innerHTML = `<span><img src="${icon}" alt="icono"></span><a href="${urlCanal}">${nameCanal}</a>`;
             textData.querySelector(".list-canals").appendChild(canalResume);
         }
+
         parent.appendChild(textData);
 
 
     }
 
+    let find = document.addEventListener('keyup', (e) => {
+        let sentence = document.querySelector('#sentence').value;
+        let cards = document.querySelectorAll('.card-ts');
+        let filter = sentence.toLowerCase();
+
+        cards.forEach((card) => {
+            let title = card.querySelector('h3').textContent.toLowerCase();
+            let description = card.querySelector('p').textContent.toLowerCase();
+            let tags = card.querySelector('.tags').textContent.toLowerCase();
+
+            if (title.indexOf(filter) > -1 || description.indexOf(filter) > -1 || tags.indexOf(filter) > -1) {
+                card.style.display = '';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    });
 
 
-    // let find = document.addEventListener('keyup', (e) => {
-    //     let sentence = document.querySelector('#sentence').value;
-    //     let cards = document.querySelectorAll('.card-ts');
-    //     let filter = sentence.toLowerCase();
 
-    //     cards.forEach((card) => {
-    //         let title = card.querySelector('h3').textContent.toLowerCase();
-    //         let description = card.querySelector('p').textContent.toLowerCase();
-    //         let tags = card.querySelector('.tags').textContent.toLowerCase();
 
-    //         if (title.indexOf(filter) > -1 || description.indexOf(filter) > -1 || tags.indexOf(filter) > -1) {
-    //             card.style.display = '';
-    //         } else {
-    //             card.style.display = 'none';
-    //         }
-    //     });
-    // });
 
-    // function limpiarFiltro() {
+    let checkbox = document.querySelectorAll('input[type=checkbox]');
+    checkbox.forEach((check) => {
+        check.addEventListener('change', (e) => {
+            let cards = document.querySelectorAll('.card-ts');
+            let filter = e.target.value.toLowerCase();
 
-    //     preventDefault();
-    //     let textFilter = document.querySelector('#sentence');
-    //     textFilter.value = '';
-    // }
+            cards.forEach((card) => {
+                let tags = card.querySelector('.tags').textContent.toLowerCase();
+
+                if (tags.indexOf(filter) > -1) {
+                    card.style.display = '';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+
+    function limpiarFiltro() {
+
+        preventDefault();
+        let textFilter = document.querySelector('#sentence');
+        textFilter.value = '';
+    }
 
     filterSelection("all")
 
-    // Execute the function and uncover all columns
+    // Execute the function and show all columns
+
     function filterSelection(c) {
         var x, i;
-        x = document.getElementsByClassName("card-ts");
-        console.log(c);
+        x = document.getElementsByClassName("column");
         if (c == "all") c = "";
-        // Add the "uncover" class (display:block) to the filtered elements, and remove the "uncover" class from the elements that are not selected
+        // Add the "show" class (display:block) to the filtered elements, and remove the "show" class from the elements that are not selected
         for (i = 0; i < x.length; i++) {
-            w3RemoveClass(x[i], "uncover");
-            if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "uncover");
+            w3RemoveClass(x[i], "show");
+            if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
         }
     }
 
@@ -997,7 +1064,7 @@
     }
 
     // Add active class to the current button (highlight it)
-    var btnContainer = document.getElementById("buttonsFilter");
+    var btnContainer = document.getElementById("myBtnContainer");
     var btns = btnContainer.getElementsByClassName("btn");
     for (var i = 0; i < btns.length; i++) {
         btns[i].addEventListener("click", function() {

@@ -2,31 +2,139 @@
 @section('title', 'home')
 @section('contenido')
 
-<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
-
-
 <!-- Google fonts - Montserrat  -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+
 <!-- Set home -->
 <div class="set-wrapper home">
 
     <!-- bloque box header-->
+    <style>
+        .set-wrapper .box-header {
+            background: #BED000FF;
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/cybe_portada_2.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas: "box-header";
+        }
+
+        @media (min-width: 908px) {
+            .set-wrapper .box-header {
+                background-position: center -30em;
+                grid-template-columns: 55% 45%;
+                grid-template-areas: "vacio box-header";
+            }
+        }
+
+        .box-header .cmpnt-logo-ppal {
+            grid-area: box-header;
+            height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box-header .cmpnt-logo-ppal .logo-ppal {
+            width: 100%;
+            max-width: 260px;
+            margin: 0 auto;
+            background-color: #BED000FF;
+            padding: 32px;
+            -webkit-box-shadow: 0px 0px 10px 3px #BED000FF25;
+            box-shadow: 0px 0px 10px 3px #BED000FF25;
+            margin-bottom: 12px;
+        }
+
+        .box-header .cmpnt-logo-ppal .paragraph {
+            font-family: "Montserrat", sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            text-align: left;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 8px 14px;
+            padding: 0;
+            max-width: 400px;
+        }
+
+        /* Reglas Navbar */
+        .set-wrapper .navbar {
+            background: #BED000FF;
+            border: none;
+            border-radius: 0;
+            font-family: "Montserrat", sans-serif !important;
+            font-size: 14px !important;
+            font-weight: 400;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
+        @media (min-width: 768px) {
+            .set-wrapper .navbar {
+                display: flex;
+                margin: auto;
+                margin-bottom: 6px;
+            }
+        }
+
+        .set-wrapper .navbar-nav>li {
+            background: #BED000FF;
+            color: #3d4a1c;
+        }
+
+        .set-wrapper .navbar-nav>li:hover {
+            background: #828F26;
+            color: #ffffff;
+        }
+
+        .set-wrapper .navbar-nav>li>a {
+            color: #3d4a1c !important;
+            padding: 14px 4px;
+        }
+
+        .set-wrapper .navbar-nav>li:hover>a {
+            color: #ffffff !important;
+        }
+
+        .set-wrapper .navbar-nav>li a.activado {
+            background: rgba(77, 84, 31, 1) !important;
+            color: #BED000FF !important;
+        }
+
+        @media (min-width: 768px) {
+            .navbar-collapse.collapse {
+                display: inline-block !important;
+                width: auto !important;
+            }
+        }
+    </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="/images/cybe/logo_cybe_v3.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
             </div>
-            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>Movilidad Motorizada de
-                    Cero y
-                    Bajas Emisiones</strong></p>
+            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-
     <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -44,13 +152,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://sdm.wdo:8000/cybe/home">Inicio</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/cambio">¿Por qué?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/solucion">¿Qué solución proponemos?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/tecnologias">¿Cuáles son las tecnologías?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/mitos">Verdades y mitos</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/recursos">Recursos</a></li>
-                    <!-- <li><a href="http://sdm.wdo:8000/cybe/metas">¿Cómo lograr la transición?</a></li> -->
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución proponemos?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son nuestras metas?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son las tecnologías?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades y mitos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
                 </ul>
 
             </div>
@@ -62,7 +170,7 @@
     <style>
         .set-wrapper .box-video {
             grid-area: box-video;
-            background-color: #1c2046;
+            background-color: #3d4a1c;
             display: grid;
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
@@ -123,13 +231,17 @@
             }
         }
 
+        .box-video .cmpnt-texto .title-1 {
+            margin: 16px;
+        }
+
         .box-video .cmpnt-texto .title-type-enfasis-1 {
             font-family: 'Montserrat', sans-serif;
-            font-size: 40px;
+            font-size: 38px;
             font-weight: 600;
             text-align: center;
             line-height: 1;
-            color: #66e026;
+            color: #BED000FF;
             margin: 0;
             padding: 0;
             text-transform: uppercase;
@@ -138,7 +250,7 @@
 
         .box-video .cmpnt-texto .title-type-enfasis-2 {
             font-family: 'Montserrat', sans-serif;
-            font-size: 40px;
+            font-size: 38px;
             font-weight: 300;
             text-align: center;
             line-height: 1;
@@ -154,16 +266,20 @@
             font-size: 18px;
             font-weight: 300;
             text-align: center;
-            line-height: 1.1;
+            line-height: 1.2;
             color: #fff;
-            margin: 24px 14px;
+            margin: 8px;
             padding: 0;
             max-width: 400px;
+
         }
 
         @media(min-width:768px) {
             .box-video .cmpnt-texto .paragraph {
-                text-align: left;
+                text-align: justify;
+                font-size: 16px;
+                font-family: 'Montserrat', sans-serif;
+                font-weight: 300;
             }
         }
     </style>
@@ -177,24 +293,18 @@
             </div>
         </div>
         <div class="cmpnt cmpnt-texto">
-            <h3 class="title title-type-enfasis-1 title-id-1">Movilidad</h3>
-            <h3 class="title title-type-enfasis-2 title-id-2">Sostenible</h3>
+            <div class="title-1">
+                <h3 class="title title-type-enfasis-1 title-id-1">Movilidad</h3>
+                <h3 class="title title-type-enfasis-2 title-id-2">Sostenible</h3>
+            </div>
             <p class="paragraph ph-type-video ph-id-2">
                 La política Pública de Movilidad Motorizada de Cero y Bajas Emisiones es una hoja de ruta al 2040, para
-                facilitar la transición hacia una movilidad más sostebible en la ciudad y la Región Metropolitana.
-                Invitamos al sector privado, al sector público y a la ciudadanía a sumarse a esta apuesta.
+                facilitar la transición hacia una movilidad más sostebible en la Región Metropolitana Bogotá - Cundinamarca.
             </p>
+            <p class="paragraph ph2">Invitamos al sector privado, al sector público y a la ciudadanía a sumarse a esta apuesta.</p>
+            <a href="http://" target="_blank" rel="noopener noreferrer"></a>
         </div>
     </div>
-
-
-
-    {{-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"> --}}
-    {{-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script> --}}
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-    <!------ Include the above in your HEAD tag ---------->
-
-
     <style>
         .box-carousel .title-type-3 {
             font-family: 'Montserrat', sans-serif;
@@ -220,14 +330,16 @@
         @media(min-width:768px) {
             .MultiCarousel {
                 float: none;
-                width: 90%;
+                width: 88%;
                 margin: auto;
             }
         }
 
         .MultiCarousel .MultiCarousel-inner {
+            display: flex;
             transition: 1s ease all;
             float: left;
+            gap: 35px;
         }
 
         .MultiCarousel .MultiCarousel-inner .item {
@@ -237,31 +349,40 @@
 
         .MultiCarousel .MultiCarousel-inner .item>div {
             text-align: center;
-            padding: 10px;
-            margin: 10px;
-            background: #1c2046;
+            padding: 8px;
+            background: #BED000FF;
             color: #fff;
-            border: 5px solid #66e026;
             border-radius: 6px;
         }
 
         .MultiCarousel-inner .pad15 .lead {
+            font-size: 16px;
+            font-family: "Work Sans", sans-serif;
+            font-weight: 600;
             margin: 8px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 30px;
+
             line-height: 1;
-            font-size: 18px;
             min-height: 36px;
+            color: #3d4a1c;
         }
 
         .MultiCarousel-inner .pad15 .value {
             font-size: 28px;
-            font-weight: 600;
-            margin: 8px;
+            font-weight: 700;
+            margin: 0px;
             line-height: 1;
-            color: #66e026
+            color: #3d4a1c;
         }
 
         .MultiCarousel-inner .pad15 img {
-            max-height: 100px;
+            max-height: 90px;
+            padding: 2px;
         }
 
         .MultiCarousel-inner .pad15 .details {
@@ -269,6 +390,8 @@
             line-height: 1;
             font-size: 12px;
             font-weight: 500;
+            font-family: 'Montserrat', sans-serif;
+            color: #252525;
         }
 
 
@@ -277,25 +400,27 @@
             position: absolute;
             border-radius: 50%;
             top: calc(50% - 20px);
-            background: #1c2046;
+            background: #3d4a1c;
+            width: 32px;
         }
 
         .MultiCarousel .leftLst {
             left: 0;
-            background: #1c2046;
+            background: #3d4a1c;
         }
 
         .MultiCarousel .rightLst {
             right: 0;
-            background: #1c2046;
+            background: #3d4a1c;
         }
 
         .MultiCarousel .leftLst.over,
         .MultiCarousel .rightLst.over {
             pointer-events: none;
-            background: #66e026;
+            background: #a7b61aff;
         }
-        .box-carousel i{
+
+        .box-carousel i {
             display: block;
             text-align: center !important;
             justify-content: center;
@@ -309,34 +434,9 @@
                 <div class="MultiCarousel-inner">
                     <div class="item">
                         <div class="pad15">
-                            <p class="lead">Buses eléctricos
-                                del SIPT</p>
+                            <p class="lead">Buses eléctricos SITP</p>
                             <p class="value">1.485</p>
-                            <img src="/images/cybe/icons/bus_electrico.png" alt="Icono de bus electrico">
-                            <p class="details">En operación</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="pad15">
-                            <p class="lead">Flota oficial eléctrica</p>
-                            <p class="value">15</p>
-                            <img src="/images/cybe/icons/flota_oficial.png" alt="Icono de Flota oficial eléctrica">
-                            <p class="details">En operación</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="pad15">
-                            <p class="lead">Taxis eléctricos</p>
-                            <p class="value">39</p>
-                            <img src="/images/cybe/icons/taxi.png" alt="Icono de taxi">
-                            <p class="details">En operación</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="pad15">
-                            <p class="lead">Motos eléctricas</p>
-                            <p class="value">434</p>
-                            <img src="/images/cybe/icons/moto_electrica.png" alt="Icono de moto eléctrica">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_bus.png" alt="Icono de bus electrico">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -344,23 +444,47 @@
                         <div class="pad15">
                             <p class="lead">Carros eléctricos</p>
                             <p class="value">5.049</p>
-                            <img src="/images/cybe/icons/carro_electrico.png" alt="Icono de carro eléctrico">
-                            <p class="details">En operación</p>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_electrico.png" alt="Icono de carro eléctrico">
+                            <p class="details">Registrados</p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros híbridos</p>
                             <p class="value">34.087</p>
-                            <img src="/images/cybe/icons/carro_electrico.png" alt="Icono de carro eléctrico">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_hibrido.png" alt="Icono de carro híbrido">
+                            <p class="details">Registrados</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="pad15">
+                            <p class="lead">Motos eléctricas</p>
+                            <p class="value">434</p>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_moto.png" alt="Icono de moto eléctrica">
+                            <p class="details">Registradas</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="pad15">
+                            <p class="lead">Camiones <small>cero y bajas emisiones</small></p>
+                            <p class="value">475</p>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_carga.png" alt="Icono de carga eléctrico">
+                            <p class="details">Registrados</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="pad15">
+                            <p class="lead">Taxis eléctricos</p>
+                            <p class="value">39</p>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_taxi.png" alt="Icono de taxi">
                             <p class="details">En operación</p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="pad15">
-                            <p class="lead">Camiones cero y bajas emisiones</p>
-                            <p class="value">475</p>
-                            <img src="/images/cybe/icons/carga.png" alt="Icono de carro eléctrico">
+                            <p class="lead">Flota oficial eléctrica</p>
+                            <p class="value">15</p>
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_oficial.png" alt="Icono de Flota oficial eléctrica">
                             <p class="details">En operación</p>
                         </div>
                     </div>
@@ -368,7 +492,7 @@
                 <button class="btn btn-primary leftLst">&#60;</button>
                 <button class="btn btn-primary rightLst">&#62;</button>
             </div>
-    </div>
+        </div>
         <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 30 de abril de 2024</i>
 
 
@@ -388,9 +512,6 @@
             });
 
             ResCarouselSize();
-
-
-
 
             $(window).resize(function() {
                 ResCarouselSize();
@@ -487,7 +608,7 @@
         .set-wrapper .box-noticias {
             grid-area: box-noticias;
             margin: 2em 0 0 0;
-            background: #66e026;
+            background: #D6DE80;
         }
 
         .box-noticias .title-type-3 {
@@ -496,7 +617,7 @@
             font-weight: 600;
             text-align: center;
             line-height: 1;
-            color: #1c2046;
+            color: #3d4a1c;
             margin: 32px 0;
             padding: 32px 0 0 0;
             text-transform: uppercase;
@@ -524,7 +645,7 @@
             display: grid;
             margin: 1em;
             padding: 1em;
-            background-color: #1c2046;
+            background-color: #3d4a1c;
             color: #fff;
             border-radius: 4px;
             box-shadow: 0 0 8px 0 rgba(0, 0, 0, .2);
@@ -540,7 +661,7 @@
                 height: 250px;
                 margin: 3em;
                 padding: 0;
-                background-color: #1c2046;
+                background-color: #3d4a1c;
                 color: #fff;
                 border-radius: 6px;
                 box-shadow: 0 0 8px 0 rgba(0, 0, 0, .2);
@@ -631,7 +752,7 @@
             line-clamp: 6;
             overflow: hidden;
             padding-top: 8px;
-            border-top: 3px solid #66e026;
+            border-top: 3px solid #BED000FF;
             margin-top: 8px;
         }
 
@@ -700,17 +821,12 @@
         </div>
         <div class="cpnt cpnt-aliados-summary">
             <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para invitar a las <strong>organizaciones a que definan compromisos específicos por la movilidad eléctrica.</strong></p>
+            <p>A 2023, son más de 50 organizaciones comprometidas que han generado más de 100 compromisos por la movilidad eléctrica.</p>
         </div>
         <div class="cpnt cpnt-logos-aliados">
             <div class="logo-aliado img-logo-aliados-1">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/unep50logo.png" alt="Logo ONU" title="Logo ONU">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-08-2024/onu_pnuma.jpg" alt="Logo ONU" title="Logo ONU">
             </div>
-            <div class="logo-aliado img-logo-aliados-2">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-05-2022/b_move_to_zero-full_color.png" alt="Logo Move to Zero" title="Logo Move to Zero">
-            </div>
-        </div>
-        <div class="cpnt cpnt-paragraph">
-            <p>Ya son más de 30 organizaciones comprometidas que han generado más de 60 compromisos por la movilidad eléctrica.</p>
         </div>
         <div class="cpnt cpnt-slider">
             <div id="carousel_empresas_b" class="carousel carousel_empresas slide" data-ride="carousel">
@@ -727,7 +843,7 @@
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_andemos_400.png" alt="">
                             </div>
                             <div class='col-xs-12 col-sm-2'>
-                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_enel_400.png" alt="">
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-08-2024/enel_x_400.png" alt="">
                             </div>
                             <div class='col-xs-12 col-sm-2'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_colturex_400.png" alt="">
@@ -827,7 +943,7 @@
                 text-align: center;
                 text-transform: uppercase;
                 font-size: 40px;
-                color: #1c2046;
+                color: #3d4a1c;
                 font-weight: 700;
                 margin-bottom: 32px;
             }
@@ -858,32 +974,25 @@
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
+                padding: 32px;
+            }
+            .box-aliados .cpnt-aliados-summary p {
+                margin: 8;
+                padding: 0;
+                text-align: justify;
             }
 
             .box-aliados .cpnt-logos-aliados {
-                display: grid;
-                gap: 8px;
-                grid-auto-flow: dense;
-                grid-template-columns: 1fr;
-                grid-template-rows: auto;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
                 align-items: center;
-                justify-items: center;
             }
 
             .cpnt-logos-aliados img {
                 max-width: 250px;
                 margin: 2rem;
-            }
-
-            @media(min-width:768px) {
-                .box-aliados .cpnt-logos-aliados {
-                    display: grid;
-                    gap: 8px;
-                    grid-auto-flow: dense;
-                    grid-template-columns: 1fr 1fr;
-                    grid-template-rows: auto;
-                    grid-row: span 2;
-                }
+                padding: 32px;
             }
 
             .cpnt-paragraph {

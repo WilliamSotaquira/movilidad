@@ -13,28 +13,25 @@
 			<div class="box-definicion">
 				<p style="text-indent:0px; -webkit-text-stroke-width:0px; text-align:justify; margin-bottom:10px"><span>La participación ciudadana es una condición de primer orden para una gestión pública íntegra y transparente, por lo tanto, la Secretaría Distrital de Movilidad (SDM) procura constantemente que sus acciones estén dotadas de valor público, es decir, que su quehacer institucional sea percibido por la ciudadanía en general como un ejercicio que genera cambios positivos en el bienestar social del Distrito. Para que esto sea posible, especialmente en un sector de tan alta complejidad como la movilidad en una ciudad como Bogotá, se requiere de la generación de mecanismos de confianza entre la ciudadanía y la institución pública, por medio de un ejercicio sistemático de comunicación y participación ciudadana.</span></p>
 
-				<p><span>Es por ello que la&nbsp;Secretaría Distrital de Movilidad (SDM) cuenta con un Plan Institucional de Participación Ciudadana el cual tiene como objetivo&nbsp;promover la incidencia de la participación ciudadana en las acciones, proyectos, programas, planes y políticas de Movilidad, orientadas al desarrollo de iniciativas de movilidad segura, accesible, incluyente, sostenible y multimodal en el Distrito Capital.</span></p>
+				<p><span>Es por ello que la Secretaría Distrital de Movilidad (SDM) cuenta con un Plan Institucional de Participación Ciudadana el cual tiene como objetivo promover la incidencia de la participación ciudadana en las acciones, proyectos, programas, planes y políticas de Movilidad, orientadas al desarrollo de iniciativas de movilidad segura, accesible, incluyente, sostenible y multimodal en el Distrito Capital, a través de estrategias de gestión social.</span></p>
 			</div>
 
 			<div class="box-estrategicos">
-				<h4 class="text-center"><strong>Ejes Estratégicos del Plan Institucional de Participación</strong></h4>
+				<h4 class="text-center"><strong>Líneas estratégicas del Plan Institucional de Participación</strong></h4>
 				&nbsp;
 
 				<ul>
 					<li>
-						<p><strong>EJE 1. GESTIÓN DEL CONOCIMIENTO</strong> Aportar herramientas y conocimientos a la ciudadanía, incentivando su participación de manera incidente, viable y efectiva en las políticas, programas y proyectos liderados por la Secretaría Distrital de Movilidad.</p>
+						<p><strong>Línea estratégica 1: Gestión Social de las Políticas Públicas</strong>Fortalece el cumplimiento de las políticas públicas sociales en los procesos participativos, así como en los planes, programas y proyectos de la Secretaría Distrital de Movilidad, a través de herramientas de gestión social que faciliten la transversalización de los enfoques diferencial, poblacional, territorial y de género.</p>
 					</li>
 					<li>
-						<p><strong>EJE 2: MEDIACIÓN COMUNITARIA: GESTIÓN DE CONFLICTOS, RIESGOS SOCIALES Y HECHOS VICTIMIZANTES</strong> Gestionar los conflictos ocasionados por temas de movilidad, o que la afecten, así como los impactos negativos de la implementación, operaciones e infraestructura vial, y los hechos victimizantes de los siniestros viales identificados en el Distrito.</p>
+						<p><strong>Línea estratégica 2: Gestión Social de Proyectos</strong> Desarrolla acciones que garanticen la inclusión de la gestión social en las fases del desarrollo del ciclo de programas y proyectos de tránsito, transporte y movilidad, operación e infraestructura vial del servicio de transporte público de pasajeros y pasajeras y transporte no motorizado a cargo de la SDM, a través del diseño de estrategias de gestión social y participación ciudadana</p>
 					</li>
 					<li>
-						<p><strong>EJE 3: GESTIÓN SOCIAL DE PROYECTOS</strong> Generar acciones que garanticen la inclusión de los procesos de gestión social en las fases de desarrollo del ciclo de programas y proyectos de tránsito, transporte y movilidad, operación e infraestructura vial del servicio de transporte público de pasajeros y transporte no motorizado a cargo de la SDM.</p>
+						<p><strong>Línea estratégica 3: Rendición de cuentas</strong> Genera un ejercicio de transparencia que permita fortalecer la confianza entre las entidades que conforman el Sector Movilidad y la ciudadanía, a partir de la información, el diálogo y la responsabilidad.</p>
 					</li>
 					<li>
-						<p><strong>EJE 4: RENDICIÓN DE CUENTAS</strong> Promover la transparencia de la gestión de la administración pública y lograr la adopción de los principios de Buen Gobierno, eficiencia, eficacia, transparencia y rendición de cuentas, en la cotidianidad de la gestión pública de la Secretaría Distrital de Movilidad.</p>
-					</li>
-					<li>
-						<p><strong>EJE 5: GESTIÓN SOCIAL DE LAS POLÍTICAS PÚBLICAS</strong> Incorporar los enfoques diferenciales, poblacionales, territoriales y de género en los procesos participativos, así como en los planes, programas y proyectos de la Secretaría Distrital de Movilidad, desde una perspectiva incluyente e intersectorial.</p>
+						<p><strong>Línea estratégica 4: Gestión Social Local</strong> Fortalecer la participación ciudadana en la escala local, mediante acciones de información, fortalecimiento de capacidades y conocimientos de la entidad, así como gestión de las solicitudes ciudadanas, con el fin de garantizar el derecho a la movilidad y aportar desde esta línea en el cumplimiento de los logros institucionales.</p>
 					</li>
 				</ul>
 			</div>
@@ -43,9 +40,6 @@
 				<div class="pip"><a href="https://www.movilidadbogota.gov.co/web/transparencia/plan_institucional_de_participacion" rel="noopener noreferrer" target="_blank"><img alt="Portada de el Plan Institucional de Participación" class="zoom img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2024/caratula.jpg" title="De clic aqui para ir al historico de Plan Institucional De Participación – PIP"> </a></div>
 
 				<div class="parrafo-pip">
-					<div>
-						<div class="imagen-clm"><a href="https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad" rel="noopener noreferrer" target="_blank"><img alt="Centros Locales de Movilidad" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-07-2022/clm_ninos_logo_0.png" title="Centros Locales de Movilidad"> </a></div>
-					</div>
 
 					<div>
 						<h4>Aquí podrás acceder al Plan Institucional De Participación</h4>
@@ -68,7 +62,7 @@
 				</div>
 
 				<div class="boton-clm zoom">
-					<h4><a href="https://www.movilidadbogota.gov.co/web/agendas_participativas" rel="noopener noreferrer" target="_blank">Informes y seguimiento de agendas participativas</a></h4>
+					<h4><a href="https://www.movilidadbogota.gov.co/web/agendas_participativas" rel="noopener noreferrer" target="_blank">Informes de seguimiento y planes de acción</a></h4>
 				</div>
 
 				<div class="boton-clm zoom">
