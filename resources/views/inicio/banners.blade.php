@@ -7,45 +7,22 @@
     <div class="container-fluid box-banners-short">
         <hr>
         <div class="row">
-            <div class="col-sm-6"><a href="https://www.encuestademovilidad2023.com/" rel="noopener noreferrer" target="_blank"><img alt="Resultados encuesta de movilidad 2023" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2023/btn_encuesta_de_movilidad_2023_450x150_op1.png" title="Resultados encuesta de movilidad 2023"> </a></div>
-
+            <div class="col-sm-6"><a href="http://observatorio.movilidadbogota.gov.co/" rel="noopener noreferrer" target="_blank"><img alt="Resultados encuesta de movilidad 2023" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-06-2024/encuesta_movilidad_pag_web_xs.png" title="Resultados encuesta de movilidad 2023"> </a></div>
             <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/ventanilla_unica_de_servicios" rel="noopener noreferrer" target="_blank" title="Click aquí para acceder a la Ventanilla Unica de Servicios"><img alt="Clic aquí para Consulta y pagos de comparendos" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-05-2023/vus_banner_abr2023_2.jpg"> </a></div>
         </div>
 
         <div class="row">
-            <div class="col-sm-6">
-                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2024/diseno_documento_abece_consulta_y_pago_de_comparendos.pdf" target="_blank" rel="noopener noreferrer">
-                        <img alt="Ir a abecé consulta y pago de comparendos" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2024/prioridad_-_favor_diseno_banner_abece_consulta_y_pago_de_comparendos_450x150.png" title="Ir a abecé consulta y pago de comparendos">
-                    </a>
-                </div>
-
+            <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2024/diseno_documento_abece_consulta_y_pago_de_comparendos.pdf" rel="noopener noreferrer" target="_blank"><img alt="Ir a abecé consulta y pago de comparendos" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-03-2024/prioridad_-_favor_diseno_banner_abece_consulta_y_pago_de_comparendos_450x150.png" title="Ir a abecé consulta y pago de comparendos"> </a></div>
             <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/consulta_de_comparendos" rel="noopener noreferrer" target="_blank"><img alt="Click aquí para acceder al sitio de consulta de comparendos" class="img-responsive bs zoom w-100 img-rounded focusable" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2022/comparendos_20220220307_xs.jpg" title="Consulta de Comparendos"> </a></div>
-            <!-- <div class="col-sm-6">
-                <a href="https://www.encuestademovilidad2023.com/" target="_blank" rel="noopener noreferrer">
-                    <img alt="Encuesta de movilidad 2023" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-03-2023/encuesta_de_movilidad_banner_450x150.png" title="Encuesta de movilidad 2023">
-                </a>
-            </div> -->
         </div>
 
         <div class="row">
             <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/agencia_regional_de_movilidad" rel="noopener noreferrer" target="_blank"><img alt="Clic aqui para ir a la Agencia Regional de Movilidad - ARM" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-04-2023/banner_web_arm_mesa_de_trabajo_1.jpg" title="Clic aqui para ir a la Agencia Regional de Movilidad - ARM"> </a></div>
-            <!-- <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/agentesdetransitociviles" rel="noopener noreferrer" target="_blank"><img alt="Ir a pagina web Agentes Civiles de Tránsito" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2023/banner_agentes_230703_703x234.png" title="Ir a pagina web Agentes Civiles de Tránsito"> </a></div> -->
-            <!-- <div class="col-sm-6">
-                <a href="https://www.movilidadbogota.gov.co/web/abecedesembargos" target="_blank" rel="noopener noreferrer">
-                    <img alt="Abecé desembargos" class="img-responsive bs zoom w-100 img-rounded  center-block" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/boton_desembargo_900x300.webp" title="Abecé desembargos">
-                </a>
-            </div> -->
-
             <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/cursos_teorico_practicos_motociclistas" rel="noopener noreferrer" target="_blank"><img alt="Cursos Teórico Prácticos de Conducción en Moto" class="img-responsive bs zoom w-100 img-rounded" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-02-2023/2023-02-08_banner_cursos_motos_900x300.png" title="Cursos Teórico Prácticos de Conducción en Moto"> </a></div>
         </div>
 
-        <div class="row"><!-- <div class="col-sm-6">
-        <a target="_blank" rel="noopener noreferrer" href="https://www.movilidadbogota.gov.co/web/mapa_de_ciclorrutas_de_bogota">
-            <img alt="Mas y mejores cicloparqueaderos" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-06-2022/2022-06-16_banner-mapa-ciclorrutas_1.png" title="Mapa de Ciclorrutas de Bogotá">
-        </a>
-    </div> -->
+        <div class="row">
             <div class="col-sm-6"><a href="https://registrobicibogota.movilidadbogota.gov.co/" rel="noopener noreferrer" target="_blank"><img alt="Ir a Registro Bici Bogotá" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-11-2023/rb_450x150.jpg" title="Banner de Registro Bici Bogotá"> </a></div>
-
             <div class="col-sm-6"><a href="https://www.movilidadbogota.gov.co/web/ORVI" rel="noopener noreferrer" target="_blank"><img alt="Clic aquí para acceder a orientación a las victimas de siniestros viales - ORVI" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-04-2023/banner_orvi_450-150.png" title="Clic aquí para acceder a orientación a las victimas de siniestros viales - ORVI"> </a></div>
         </div>
 
@@ -74,7 +51,11 @@
                     </ol>
 
                     <div class="carousel-inner">
-                        <div class="item active"><a href="https://www.movilidadbogota.gov.co/subsitp/" rel="noopener noreferrer" target="_blank"><img alt="Banner tu llave" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-11-2023/sdm_boton_tullave_1014x169.png"></a></div>
+                        <div class="item active"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-10-2023/mimovilidad_abc_oct2023_v3_0.pdf" rel="noopener noreferrer" target="_blank"><img alt="Banner Abecé de Mi Movilida a un Clic" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-07-2024/bitmap_pagina_1_abc_mimovilidad.png"></a></div>
+
+                        <div class="item "><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2024/protocolo_vehiculos_inmovilizados_1_3.pdf" rel="noopener noreferrer" target="_blank"><img alt="Banner protocolo salida de vehículo" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2024/banner_protocolo_lg.png"></a></div>
+
+                        <div class="item"><a href="https://www.movilidadbogota.gov.co/subsitp/" rel="noopener noreferrer" target="_blank"><img alt="Banner " class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-11-2023/sdm_boton_tullave_1014x169.png"></a></div>
 
                         <div class="item"><a href="https://tembici.com.co/" rel="noopener noreferrer" target="_blank"><img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-06-2023/banner_compartidas_230626_1920x320.png" title="Click aquí para acceder al sistema de bicicletas compartidas"></a></div>
 
@@ -124,7 +105,12 @@
                     </ol>
 
                     <div class="carousel-inner">
-                        <div class="item active"><a href="https://www.movilidadbogota.gov.co/subsitp/" rel="noopener noreferrer" target="_blank"><img alt="Banner tu llave" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-11-2023/sdm_boton_tullave_450x150.png"></a></div>
+
+                    <div class="item active"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-10-2023/mimovilidad_abc_oct2023_v3_0.pdf" rel="noopener noreferrer" target="_blank"><img alt="Banner Abecé de Mi Movilida a un Clic" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-07-2024/bitmap_pagina_2_abc_mimovilidad.png"></a></div>
+
+                        <div class="item"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-06-2024/protocolo_vehiculos_inmovilizados_1_3.pdf" rel="noopener noreferrer" target="_blank"><img alt="Banner protocolo salida de vehículo" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-07-2024/protocolo_vehiculos_inmovilizados_xs_pagina_19.png"></a></div>
+
+                        <div class="item"><a href="https://www.movilidadbogota.gov.co/subsitp/" rel="noopener noreferrer" target="_blank"><img alt="Banner tu llave" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-11-2023/sdm_boton_tullave_450x150.png"></a></div>
 
                         <div class="item"><a href="https://tembici.com.co/" rel="noopener noreferrer" target="_blank"><img alt="Click aquí para acceder al sistema de bicicletas compartidas" class="img-rounded w-100 img-responsive bs" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-09-2022/sbcb_900x300.png" title="Click aquí para acceder al sistema de bicicletas compartidas"></a></div>
 

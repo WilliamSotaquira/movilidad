@@ -2,30 +2,138 @@
 @section('title','tecnologias')
 @section('contenido')
 
+<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
+
 <!-- Google fonts - Montserrat  -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 
-<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
-
 <!-- Set tecnologias -->
 <div class="set-wrapper tecnologias">
 
     <!-- bloque box header-->
+    <style>
+        .set-wrapper .box-header {
+            background: #BED000FF;
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/cybe_portada_2.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas: "box-header";
+        }
+
+        @media (min-width: 908px) {
+            .set-wrapper .box-header {
+                background-position: center -30em;
+                grid-template-columns: 55% 45%;
+                grid-template-areas: "vacio box-header";
+            }
+        }
+
+        .box-header .cmpnt-logo-ppal {
+            grid-area: box-header;
+            height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box-header .cmpnt-logo-ppal .logo-ppal {
+            width: 100%;
+            max-width: 260px;
+            margin: 0 auto;
+            background-color: #BED000FF;
+            padding: 32px;
+            -webkit-box-shadow: 0px 0px 10px 3px #BED000FF25;
+            box-shadow: 0px 0px 10px 3px #BED000FF25;
+            margin-bottom: 12px;
+        }
+
+        .box-header .cmpnt-logo-ppal .paragraph {
+            font-family: "Montserrat", sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            text-align: left;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 8px 14px;
+            padding: 0;
+            max-width: 400px;
+        }
+
+        /* Reglas Navbar */
+        .set-wrapper .navbar {
+            background: #BED000FF;
+            border: none;
+            border-radius: 0;
+            font-family: "Montserrat", sans-serif !important;
+            font-size: 14px !important;
+            font-weight: 400;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
+        @media (min-width: 768px) {
+            .set-wrapper .navbar {
+                display: flex;
+                margin: auto;
+                margin-bottom: 6px;
+            }
+        }
+
+        .set-wrapper .navbar-nav>li {
+            background: #BED000FF;
+            color: #3d4a1c;
+        }
+
+        .set-wrapper .navbar-nav>li:hover {
+            background: #828F26;
+            color: #ffffff;
+        }
+
+        .set-wrapper .navbar-nav>li>a {
+            color: #3d4a1c !important;
+            padding: 14px 4px;
+        }
+
+        .set-wrapper .navbar-nav>li:hover>a {
+            color: #ffffff !important;
+        }
+
+        .set-wrapper .navbar-nav>li a.activado {
+            background: rgba(77, 84, 31, 1) !important;
+            color: #BED000FF !important;
+        }
+
+        @media (min-width: 768px) {
+            .navbar-collapse.collapse {
+                display: inline-block !important;
+                width: auto !important;
+            }
+        }
+    </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="/images/cybe/logo_cybe_v3.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
             </div>
-            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>Movilidad Motorizada de
-                    Cero y
-                    Bajas Emisiones</strong></p>
+            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-
     <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -43,18 +151,19 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://sdm.wdo:8000/cybe/home">Inicio</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/cambio">¿Por qué?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/solucion">¿Qué solución proponemos?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/tecnologias">¿Cuáles son las tecnologías?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/mitos">Verdades y mitos</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/recursos">Recursos</a></li>
-                    <!-- <li><a href="http://sdm.wdo:8000/cybe/metas">¿Cómo lograr la transición?</a></li> -->
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución proponemos?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son nuestras metas?</a></li>
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son las tecnologías?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades y mitos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
                 </ul>
 
             </div>
         </div>
     </nav>
+
 
 
     <!-- box b1 -->
@@ -77,7 +186,7 @@
             font-weight: 600;
             margin: 16px;
             text-align: center;
-            color: #1c2046;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b1 .cpnt-botones {
@@ -101,41 +210,41 @@
             font-size: 1em;
             font-weight: 600;
             padding: 8px 16px;
-            border: solid 1px #1c2046;
+            border: solid 1px rgba(77, 84, 31, 1);
             border-radius: 8px;
-            background-color: #1c2046;
+            background-color: rgba(77, 84, 31, 1);
             color: white;
             cursor: pointer;
         }
 
         .b1 .cpnt-botones .btn.active {
             background-color: white;
-            color: #1c2046;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b1 .cpnt-botones .btn:hover {
-            background-color: #66e026;
-            color: #1c2046;
+            background-color: #BED000FF;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b1 .cpnt-botones .btn:hover.active {
             background-color: white;
-            color: #1c2046;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b1 .cpnt-botones .btn:active {
-            background-color: #66e026;
-            color: #1c2046;
+            background-color: #BED000FF;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b1 .cpnt-botones .btn:active.active {
             background-color: white;
-            color: #1c2046;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b1 .cpnt-botones .btn:focus {
-            background-color: #66e026;
-            color: #1c2046;
+            background-color: #BED000FF;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b1 .cpnt-cards {
@@ -188,22 +297,23 @@
 
         .b1 .cpnt-cards .content h4 {
             font-family: 'Montserrat', sans-serif;
-            font-size: 1.2em;
+            font-size: 18px;
             font-weight: 600;
-            margin: 16px;
+            margin: 12px 12px 4px 12px;
             display: -webkit-box;
             text-align: center;
         }
 
         .b1 .cpnt-cards .content p {
             font-family: 'Montserrat', sans-serif;
-            font-size: 1em;
-            margin: 16px;
+            font-size: 14px;
+            margin: 12px;
+            padding: 4px 12px;
             text-align: justify;
 
             font-optical-sizing: auto;
             font-weight: normal;
-            line-height: 1.5;
+            line-height: 1.2;
 
 
             display: -webkit-box;
@@ -234,42 +344,42 @@
 
             <div class="column cero">
                 <div class="content">
-                    <img src="/images/cybe/tecnologias/tecnologias_1.png" alt="Mountains" style="width:100%">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/tecnologias_1.png" alt="Mountains" style="width:100%">
                     <h4>Vehículos eléctricos</h4>
                     <p>Impulsados exclusivamente por uno o más motores eléctricos, que obtienen corriente de un sistema de almacenamiento de energía recargable, como baterías.</p>
                 </div>
             </div>
             <div class="column cero">
                 <div class="content">
-                    <img src="/images/cybe/tecnologias/tecnologias_2.png" alt="Lights" style="width:100%">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/tecnologias_2.png" alt="Lights" style="width:100%">
                     <h4>Vehículos hidrógeno</h4>
                     <p>Vehículos diseñados y construidos para operar con hidrógeno como fuente primaria de energía para propulsarse.</p>
                 </div>
             </div>
             <div class="column bajas">
                 <div class="content">
-                    <img src="/images/cybe/tecnologias/tecnologias_3.png" alt="Fuente: grupo Absa. Disponible en: https://grupoabsa.es/tienda-2/diferencia-entre-coche-hibrido-y-enchufable/" style="width:100%">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/tecnologias_3.png" alt="Fuente: grupo Absa. Disponible en: https://grupoabsa.es/tienda-2/diferencia-entre-coche-hibrido-y-enchufable/" style="width:100%">
                     <h4>Híbridos enchufables</h4>
                     <p>Cuentan con una batería eléctrica que se puede cargar conectándolo a la red, sin embargo, mantienen su motor de combustión y continúan utilizando combustibles fósiles.</p>
                 </div>
             </div>
             <div class="column bajas">
                 <div class="content">
-                    <img src="/images/cybe/tecnologias/tecnologias_4.png" alt="Nature" style="width:100%">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/tecnologias_4.png" alt="Nature" style="width:100%">
                     <h4>Vehículos híbridos</h4>
                     <p>Vehículos con un motor eléctrico, como complemento del motor de combustión. El motor eléctrico se carga a partir del combustible fósil de su motor de combustión.</p>
                 </div>
             </div>
             <div class="column bajas">
                 <div class="content">
-                    <img src="/images/cybe/tecnologias/tecnologias_5.png" alt="Nature" style="width:100%">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/tecnologias_5.png" alt="Nature" style="width:100%">
                     <h4>Vehículos a Gas Natural Vehicular (GNV) dedicado</h4>
                     <p>Vehículo de combustión diseñado y fabricado desde el inicio para funcionar exclusivamente con GNV. No se incluyen los vehículos modificados posteriormente.</p>
                 </div>
             </div>
             <div class="column bajas double">
                 <div class="content">
-                    <img src="/images/cybe/tecnologias/tecnologias_6.png" alt="Nature" style="width:100%">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/tecnologias_6.png" alt="Nature" style="width:100%">
                     <h4>Diésel Euro VI</h4>
                     <p>Euro VI corresponde al estándar más reciente y limpio de la norma europea que regula los límites aceptables para las emisiones de gases y material particulado de los vehículos de combustión. Este estándar se adoptó en Colombia por medio de la Ley 1972 de 2019. Se estima que un bus diésel Euro VI reduciría las emisiones de material particulado en al menos 95 % si se compara con un bus Euro V (Transmilenio S.A, 2020).</p>
                 </div>
@@ -278,16 +388,15 @@
         </div>
     </div>
 
+    <hr>
     <!-- box b2 -->
     <style>
         .set-wrapper .b2 {
             grid-area: b2;
-            margin-top: 32px
+            margin-top: 42px
         }
 
-        .b2 .cpnt-1 {
-            margin: 32px;
-        }
+        .b2 .cpnt-1 {}
 
         .b2 .cpnt-1 .title {
             font-family: 'Montserrat', sans-serif;
@@ -295,7 +404,7 @@
             font-weight: 600;
             margin: 16px;
             text-align: center;
-            color: #1c2046;
+            color: rgba(77, 84, 31, 1);
         }
 
         .b2 .table {
@@ -315,7 +424,7 @@
         }
 
         .b2 .table img {
-            margin: 6px;
+            margin: 0px;
 
         }
 
@@ -330,13 +439,13 @@
         }
 
         .b2 th {
-            background-color: #e0e0e0 !important;
+            background-color: #E3E8AD !important;
         }
 
         .b2 table,
         .b2 th,
         .b2 td {
-            border: 1.5px rgba(28, 32, 70, 1) dotted !important;
+            border: 1.5px rgba(77, 84, 31, 1) dotted !important;
         }
 
         .b2 tr:hover {
@@ -358,7 +467,7 @@
             flex-direction: column;
             justify-content: space-evenly;
             align-items: center;
-            padding: 15px;
+            padding: 10px;
         }
 
         .b2 .text-table {
@@ -368,6 +477,7 @@
             line-height: 1.2;
             color: rgba(25, 25, 25, 1);
             padding: 10px;
+            background: #E3E8AD; #4d541f
 
         }
 
@@ -377,7 +487,7 @@
             text-align: center;
             line-height: 1.2;
             color: rgba(25, 25, 25, 1);
-            padding: 10px;
+            padding: 4px;
         }
 
         .b2 .title-table {
@@ -398,33 +508,33 @@
                     <tr>
                         <th>
                             <div class='table-imagen'>
-                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/estacion.png' alt='icono gasolinera' title='icono gasolinera'>
+                                <img width="70px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_gas.png' alt='icono gasolinera' title='icono gasolinera'>
                                 <span class="text-table">VS</span>
-                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/electrica.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
+                                <img width="70px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_electrica.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
                             </div>
                         </th>
                         <th>
                             <div class='table-imagen-v'>
-                                <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/vehiculo.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/vehiculo.png' alt='icono vehículo vista lateral' title='icono vehículo vista lateral'>
                                 <span class="text-table">Vehículo Convencional</span>
                             </div>
                         </th>
                         <th>
                             <div class='table-imagen-v'>
-                                <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/vehiculo_a.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/hibrido.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
                                 <span class="text-table">Vehículo Híbridos</span>
                             </div>
 
                         </th>
                         <th>
                             <div class='table-imagen-v'>
-                                <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/vehiculo_b.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/hibrido.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
                                 <span class="text-table">Vehículo Híbridos <br> <sub>Eléctrico Enchufable</sub></span>
                             </div>
                         </th>
                         <th>
                             <div class='table-imagen-v'>
-                                <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/vehiculo_d.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/electrico.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
                                 <span class="text-table">Vehículo Eléctrico <br> <sub>100%</sub></span>
                             </div>
                         </th>
@@ -441,29 +551,29 @@
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/estacion_a.png' alt='icono gasolinera' title='icono gasolinera'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_gas.png' alt='icono gasolinera' title='icono gasolinera'>
                                 <span class="text-table2">Gasolina, Biocombustible</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/estacion_b.png' alt='icono gasolinera' title='icono gasolinera'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_gas.png' alt='icono gasolinera' title='icono gasolinera'>
                                 <span class="text-table2">Gasolina, Biocombustible</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
                                 <div>
-                                    <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/estacion_c.png' alt='icono gasolinera' title='icono gasolinera'>
+                                    <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_gas.png' alt='icono gasolinera' title='icono gasolinera'>
                                     <span class="text-table">+</span>
-                                    <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/electrica_c.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
+                                    <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_electrica.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
                                 </div>
                                 <span class="text-table2">Gasolina, Biocombustible, Energía Eléctrica</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="40px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/electrica_b.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_electrica.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
                                 <span class="text-table2">Energía Eléctrica</span>
                             </div>
                         </td>
@@ -479,29 +589,29 @@
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="30px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/galon_b.png' alt='icono galón' title='icono galón'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/galon_combustible.png' alt='icono galón' title='icono galón'>
                                 <span class="text-table2">34,9</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="30px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/galon_c.png' alt='icono galón' title='icono galón'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/galon_combustible.png' alt='icono galón' title='icono galón'>
                                 <span class="text-table2">63,4</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
                                 <div>
-                                    <img width="30px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/galon_d.png' alt='icono galón' title='icono galón'>
+                                    <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/galon_combustible.png' alt='icono galón' title='icono galón'>
                                     <span class="text-table">+</span>
-                                    <img width="20px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/bataria_b.png' alt='icono batería' title='icono batería'>
+                                    <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/bateria.png' alt='icono batería' title='icono batería'>
                                 </div>
                                 <span class="text-table2">119,2</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="20px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/bateria_d.png' alt='icono batería' title='icono batería'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/bateria.png' alt='icono batería' title='icono batería'>
                                 <span class="text-table2">97,1</span>
                             </div>
                         </td>
@@ -516,25 +626,25 @@
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo.png' alt='icono humo' title='icono humo'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/contaminante.png' alt='icono humo' title='icono humo'>
                                 <span class="text-table2">21,9</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo_a.png' alt='icono humo' title='icono humo'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/contaminante.png' alt='icono humo' title='icono humo'>
                                 <span class="text-table2">12,0</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo_b.png' alt='icono humo' title='icono humo'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/contaminante.png' alt='icono humo' title='icono humo'>
                                 <span class="text-table2">5,1</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
-                                <img width="50px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-05-2022/humo_d.png' alt='icono humo' title='icono humo'>
+                                <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/ecologico.png' alt='icono humo' title='icono humo'>
                                 <span class="text-table2"><strong>0,0</strong></span>
                             </div>
                         </td>

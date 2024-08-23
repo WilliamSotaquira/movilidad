@@ -108,7 +108,7 @@ Route::view('/cybe/metas', 'cybe/metas');
 Route::view('/cybe/recursos', 'cybe/recursos');
 Route::view('/cybe/objetivos', 'cybe/objetivos');
 Route::view('/cybe/solucion', 'cybe/solucion');
-Route::view('/cybe/cambio', 'cybe/cambio');
+Route::view('/cybe/porque', 'cybe/porque');
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2021
 
@@ -326,5 +326,15 @@ Route::view('/2024/04/participacion', '2024/04/participacion');
 Route::view('/2024/05/desvios', '2024/05/desvios');
 Route::view('/2024/05/cartaCompromiso', '2024/05/cartaCompromiso');
 
-// Contenido mayo 2024
+// Contenido junio 2024
 Route::view('/2024/06/parqueo', '2024/06/parqueo');
+
+// Contenido julio 2024
+Route::view('/2024/07/pdd', '2024/07/pdd');
+
+// Contenido agosto 2024
+Route::view('/2024/08/mipg', '2024/08/mipg');
+Route::view('/2024/08/estadistica', '2024/08/estadistica');
+Route::view('/2024/08/innovacion', '2024/08/innovacion');
+Route::view('/2024/08/movilidadDatos', '2024/08/movilidadDatos');
+

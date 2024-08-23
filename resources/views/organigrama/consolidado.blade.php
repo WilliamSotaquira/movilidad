@@ -6,45 +6,50 @@
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Montserrat -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 <div class="seccion">
+    <div class="cpnt cpnt-1">
+        <h3>Estructura Organizacional Secretaría de Movilidad</h3>
+        <p class="paragraph ph1">En este espacio se encuentra la estructura organizacional de la Secretaría de Movilidad, también podrá consultar quiénes son las personas que ejercen un rol directivo en nuestra Entidad, haciendo énfasis en sus perfiles profesionales, estudios y experiencia laboral previa. </p>
+    </div>
     <hr>
     <div class="row">
         <div class="col-xs-12 text-center">
-            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2024/organigrama_20240703.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
+            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/organigrama_sdm_rediseno_2024_.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
         </div>
     </div>
-
     <hr>
-    <div class="map-org-ppal"><img alt="Organigrama General de la Entidad" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-10-2021/1_2.png" title="Organigrama General de la Entidad" usemap="#image-map" width="900px"><map name="image-map"><area alt="Despacho de la Secretaría " coords="312,169,429,122" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseDespacho" id="collapse1" shape="rect" target="" title="Despacho de la Secretaría "> <area alt="Subsecretaría de Política de Movilidad" coords="159,292,16,242" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSubPolMovilidad" id="collapse2" shape="rect" target="" title="Subsecretaría de Política de Movilidad"> <area alt="Subsecretaría de Gestión de la Movilidad" coords="205,242,347,291" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSGM" id="collapse3" shape="rect" target="" title="Subsecretaría de Gestión de la Movilidad"> <area alt="Subsecretaría de Servicios a la Ciudadanía" coords="396,242,536,290" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSSC" id="collapse4" shape="rect" target="" title="Subsecretaría de Servicios a la Ciudadanía"> <area alt="Subsecretaría de Gestión Jurídica" coords="584,242,727,291" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSGJ" id="collapse5" shape="rect" target="" title="Subsecretaría de Gestión Jurídica"> <area alt="Subsecretaría de Gestión Corporativa" coords="776,242,915,291" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseGestionCorporativa" id="collapse6" shape="rect" target="" title="Subsecretaría de Gestión Corporativa"></map></div>
+    <div class="cpnt cpnt-2">
+        <div class="map-org-ppal"><img alt="Organigrama General de la Entidad" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-10-2021/1_2.png" title="Organigrama General de la Entidad" usemap="#image-map" width="900px"><map name="image-map"><area alt="Despacho de la Secretaría " coords="312,169,429,122" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseDespacho" id="collapse1" shape="rect" target="" title="Despacho de la Secretaría "> <area alt="Subsecretaría de Política de Movilidad" coords="159,292,16,242" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSubPolMovilidad" id="collapse2" shape="rect" target="" title="Subsecretaría de Política de Movilidad"> <area alt="Subsecretaría de Gestión de la Movilidad" coords="205,242,347,291" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSGM" id="collapse3" shape="rect" target="" title="Subsecretaría de Gestión de la Movilidad"> <area alt="Subsecretaría de Servicios a la Ciudadanía" coords="396,242,536,290" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSSC" id="collapse4" shape="rect" target="" title="Subsecretaría de Servicios a la Ciudadanía"> <area alt="Subsecretaría de Gestión Jurídica" coords="584,242,727,291" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseSGJ" id="collapse5" shape="rect" target="" title="Subsecretaría de Gestión Jurídica"> <area alt="Subsecretaría de Gestión Corporativa" coords="776,242,915,291" href="https://www.movilidadbogota.gov.co/web/organigrama#collapseGestionCorporativa" id="collapse6" shape="rect" target="" title="Subsecretaría de Gestión Corporativa"></map></div>
+    </div>
+    <hr>
+    <div class="cpnt cpnt-3">
+        <div class="panel-body-mapa">
+            <div class="row">
+                <div class="col-xs-12 col-sm-4 text-center">
+                    <div class="img-ppal w-100"><img alt="Claudia Díaz Acosta - Secretario Distrital de Movilidad" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-01-2024/claudiadiazacosta.png"></div>
+                </div>
 
-    <hr><!-- Seccion perfil del Secretario Distrital  -->
-    <div class="panel-body-mapa">
-        <div class="row">
-            <div class="col-xs-12 col-sm-4 text-center">
-                <div class="img-ppal w-100"><img alt="Claudia Díaz Acosta - Secretario Distrital de Movilidad" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-01-2024/claudiadiazacosta.png"></div>
-            </div>
+                <div class="col-xs-12 col-sm-8 ">
+                    <div class="descripcion">
+                        <h1>Claudia Díaz Acosta</h1>
 
-            <div class="col-xs-12 col-sm-8 ">
-                <div class="descripcion">
-                    <h1>Claudia Díaz Acosta</h1>
+                        <h4>Secretaria Distrital de Movilidad</h4>
 
-                    <h4>Secretaria Distrital de Movilidad</h4>
+                        <div class="descripcion-xs">
+                            <p>Ingeniera ambiental con maestría en Ingeniería Civil en el área de transporte de la Universidad de Los Andes. Tiene más de 13 años de experiencia diseñando, gestionando y ejecutando políticas y proyectos de movilidad tanto en el sector público como para organizaciones internacionales.</p>
 
-                    <div class="descripcion-xs">
-                        <p>Ingeniera ambiental con maestría en Ingeniería Civil en el área de transporte de la Universidad de Los Andes. Tiene más de 13 años de experiencia diseñando, gestionando y ejecutando políticas y proyectos de movilidad tanto en el sector público como para organizaciones internacionales.</p>
+                            <p>Fue consultora en el Banco Interamericano de Desarrollo, donde asesoró a varios países de América Latina en el diseño e implementación de iniciativas de transporte seguro, inclusivo y sostenible, así como de estrategias para mejorar la seguridad vial. Así mismo, fue consultora para la Agencia para el Desarrollo Internacional de Estados Unidos y el Servicio Forestal de los Estados Unidos para la Estrategia de Desarrollo Bajo en Carbono de Colombia.</p>
 
-                        <p>Fue consultora en el Banco Interamericano de Desarrollo, donde asesoró a varios países de América Latina en el diseño e implementación de iniciativas de transporte seguro, inclusivo y sostenible, así como de estrategias para mejorar la seguridad vial. Así mismo, fue consultora para la Agencia para el Desarrollo Internacional de Estados Unidos y el Servicio Forestal de los Estados Unidos para la Estrategia de Desarrollo Bajo en Carbono de Colombia.</p>
+                            <p>A nivel distrital, fue asesora del despacho del secretario de Movilidad y posteriormente jefe de la Oficina de Seguridad Vial y Directora de Seguridad Vial de la Secretaría Distrital de Movilidad, donde lideró la implementación de la política de seguridad vial Visión Cero para Bogotá, logrando reducir el número de muertes por siniestros viales por 4 años consecutivos.</p>
 
-                        <p>A nivel distrital, fue asesora del despacho del secretario de Movilidad y posteriormente jefe de la Oficina de Seguridad Vial y Directora de Seguridad Vial de la Secretaría Distrital de Movilidad, donde lideró la implementación de la política de seguridad vial Visión Cero para Bogotá, logrando reducir el número de muertes por siniestros viales por 4 años consecutivos.</p>
-
-                        <p>Asume el compromiso de hacer de Bogotá un lugar donde se puedan recorrer las calles con tranquilidad, protegiendo la vida en todos los modos de transporte. Seguirá trabajando por la transformación de la movilidad hacia la sostenibilidad, la conciencia vial, un transporte más eficiente y un aire más limpio.</p>
+                            <p>Asume el compromiso de hacer de Bogotá un lugar donde se puedan recorrer las calles con tranquilidad, protegiendo la vida en todos los modos de transporte. Seguirá trabajando por la transformación de la movilidad hacia la sostenibilidad, la conciencia vial, un transporte más eficiente y un aire más limpio.</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-    <hr><!-- Fin Seccion perfil del Secretario Distrital  -->
-    <div class="colapsable">
+    <hr>
+    <div class="cpnt cpnt-3 colapsable">
         <div aria-multiselectable="true" class="panel-group" id="accordionPerfiles" role="tablist "><!-- Seccion Collapse Despacho de la Secretaría  -->
             <div class="panel panel-default">
                 <div class="panel-heading ph-1" id="despacho" role="tab">
@@ -72,27 +77,26 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100"><img alt="Foto: Andrea Paola Luna Torres" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-12-2023/andrea_luna.png" title="Foto: Andrea Paola Luna Torres"></div>
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-07-2024/ana_maria_catano_blanco.png" alt="Foto: Ana María Cataño Blanco">
+                                                        </div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Andrea Paola Luna Torres</h1>
-
-                                                            <h4>Jefe Oficina Asesora de Comunicaciones y Cultura para la Movilidad</h4>
-
+                                                            <h1>Ana María Cataño Blanco</h1>
+                                                            <h4>Jefe de la Oficina Asesora de Comunicaciones y Cultura para la Movilidad</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Profesional en Ciencia Política y Gobierno de la Universidad del Rosario, con maestría en Acción Política, Fortalecimiento Institucional y Participación Ciudadana en el Estado de Derecho de la Universidad Francisco de Vitoria. Cuenta con una formación interdisciplinaria orientada hacia la asesoría en comunicación y asuntos públicos; asimismo, a la gestión de gobierno, su organización y funcionamiento en el escenario nacional e internacional.</p>
-
-                                                                <p>Está preparada para participar en la transformación sociopolítica, económica, así como para intervenir en asesorías en comunicaciones corporativas y consultorías en proyectos políticos, del sector privado, social y de acción gubernamental. Entre su experiencia se destaca que ha trabajado siempre en temas asociados a la comunicación política y corporativa, cultura ciudadana y los más de seis años laborados en TransMilenio, donde además de ser parte de la estructuración de la Política de Cultura Ciudadana de esta Entidad, se desempeñó como asesora de comunicaciones de los proyectos estratégicos y estructuró el programa EcoTransMi, un proyecto de ecoeficiencia que busca promover la movilidad sostenible, el cuidado del medio ambiente y fortalecer la cultura de pago en el sistema integrado de transporte.</p>
-
-                                                                <p>Desde su rol, espera ser una servidora y colaboradora para todos y seguir promoviendo los proyectos y mensajes claves de la Secretaría de Movilidad, que contribuyen a que la ciudadanía valore la gestión de la Entidad, y reconozca cómo esta va a impactar a futuro en la calidad de vida de la población bogotana.</p>
+                                                                <p>Comunicadora social y periodista de la Universidad Pontificia Bolivariana, con maestría en Ciencias Políticas de la Universidad de los Andes. Tiene más de 13 años de experiencia en comunicación corporativa, mercadeo, posicionamiento de marca y relaciones públicas.</p>
+                                                                <p>Se desempeñó como consultora de comunicaciones estratégicas y de marca, directora de desarrollo de negocios y mercadeo y gerente de comunicaciones en reconocidas empresas privadas, ganando así una sólida reputación como experta en comunicación 360, posicionamiento de marca, comunicación estratégica y corporativa, y estructuración de áreas y procesos de comunicación.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
+
+
                                             </div>
                                         </div>
                                     </div>
@@ -115,29 +119,25 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100"><img alt="Foto: Leydy Yohana Pineda Afanador" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/leydy_yohana_pineda_afanador.png" title="Foto: Leydy Yohana Pineda Afanador"></div>
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-07-2024/edgar_eduardo_romero_bohorquez.png" alt="Foto: Edgar Eduardo Romero Bohórquez">
+                                                        </div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <div>
-                                                                <h1>Leydy Yohana Pineda Afanador</h1>
-
-                                                                <h4>Jefe Oficina de Tecnologías de la Información y las Comunicaciones</h4>
-                                                            </div>
-
+                                                            <h1>Edgar Eduardo Romero Bohórquez</h1>
+                                                            <h4>Jefe Oficina de Tecnología de la Información y las Comunicaciones</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Ingeniera de Sistemas y Especialista en Tecnologías Avanzadas en Desarrollo de Software de la Universidad Autónoma de Bucaramanga, capacitada para crear soluciones informáticas que conlleven a la satisfacción de las necesidades de las organizaciones, teniendo en cuenta la investigación, los estándares y tecnologías de punta.</p>
-
-                                                                <p>Tiene experiencia en el desarrollo, ejecución y seguimiento de proyectos software, así como en la planeación de los mismos. Trabajó como Jefe de la Oficina TICS en la Caja de la Vivienda Popular, además, laboró en diferentes entidades públicas como el Ministerio de Salud y Protección Social, el Instituto de Desarrollo Urbano - IDU y la Secretaría de Desarrollo Social y Económico de Piedecuesta - Santander.</p>
-
-                                                                <p>Se describe como una profesional proactiva encaminada al análisis, obtención de resultados de calidad y mejoramiento continuo; con habilidades como la administración de infraestructura, seguridad de la información y gestión de proyectos, entre otras, con las cuales espera aportar de manera significativa a la SDM.</p>
+                                                                <p>Ingeniero de sistemas y magíster en ingeniería industrial de la Universidad de los Andes, con más de 30 años de experiencia profesional tanto en el sector privado como público. Experiencia en los sectores de hidrocarburos, impuestos, logística, distribución y movilidad.</p>
+                                                                <p>Entre su trayectoria laboral se destaca que trabajó en Coljuegos como Jefe Oficina de Tecnología de la Información y en la Secretaría de Movilidad como Jefe Oficina de Información Sectorial entre los años 2016 y 2019. Cuenta con pericia en el liderazgo de las TI y en la gerencia de operaciones en áreas y proyectos de tecnología.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>
@@ -1611,7 +1611,24 @@
                                                 <p>Formula y dirige la formulación, ejecución y evaluación de las políticas, programas, planes y proyectos referentes al talento humano en la entidad, buscando el desarrollo integral del personal y cumpliendo con las disposiciones legales vigentes y objetivos institucionales de la Secretaría Distrital Movilidad.</p>
                                             </div>
 
-                                            <div class="panel-body-mapa">&nbsp;</div>
+                                            <div class="panel-body-mapa">
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-4 text-center">
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/maria_teresa_rodriguez_leal.png" alt="Foto: María Teresa Rodríguez Leal">
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-8 ">
+                                                        <div class="descripcion">
+                                                            <h1>María Teresa Rodríguez Leal</h1>
+                                                            <h4>Directora de Talento Humano</h4>
+                                                            <div class="descripcion-xs">
+                                                                <p></p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -1624,6 +1641,7 @@
             </div>
         </div>
     </div>
+
 </div>
 <style type="text/css">
     .w-100 {
@@ -1659,6 +1677,18 @@
         fill: #efefef;
         /* stroke: #000; */
         /* stroke-width: 1px; */
+    }
+
+    .seccion .cpnt-1 {
+        margin-top: 32px;
+    }
+
+    .seccion .cpnt-1 h3 {
+        font-size: 24px;
+        font-weight: 700;
+        color: #4D541F;
+        margin-bottom: 20px;
+        text-align: center;
     }
 
     .secccion .panel {

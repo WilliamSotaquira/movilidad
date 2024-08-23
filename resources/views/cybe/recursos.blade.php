@@ -29,7 +29,7 @@
         color: #252525;
         text-align: center;
         margin-bottom: 32px;
-        color: #1c2046;
+        color: #4d541f;
         font-family: 'Montserrat', sans-serif;
         text-transform: uppercase;
         font-weight: light;
@@ -45,12 +45,12 @@
 
     .cpnt-recursos .title-type-2 {
         font-size: 20px;
-        color: #1c2046;
+        color: #4d541f;
         text-align: left;
         font-weight: 500;
         margin-bottom: 32px;
         display: inline-block;
-        border-bottom: solid 2px #1c2046;
+        border-bottom: solid 2px #4d541f;
         width: 100%;
         padding-bottom: 12px;
     }
@@ -66,25 +66,138 @@
         font-size: 16px;
         color: #252525;
         text-align: left;
-        margin-bottom: 16px;
+        margin-bottom: 6px;
+    }
+
+    .cpnt-recursos{
+        font-family: 'Montserrat', sans-serif;
     }
 </style>
 <div class="set-wrapper recursos">
 
+
     <!-- bloque box header-->
+    <style>
+        .set-wrapper .box-header {
+            background: #BED000FF;
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/cybe_portada_2.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas: "box-header";
+        }
+
+        @media (min-width: 908px) {
+            .set-wrapper .box-header {
+                background-position: center -30em;
+                grid-template-columns: 55% 45%;
+                grid-template-areas: "vacio box-header";
+            }
+        }
+
+        .box-header .cmpnt-logo-ppal {
+            grid-area: box-header;
+            height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box-header .cmpnt-logo-ppal .logo-ppal {
+            width: 100%;
+            max-width: 260px;
+            margin: 0 auto;
+            background-color: #BED000FF;
+            padding: 32px;
+            -webkit-box-shadow: 0px 0px 10px 3px #BED000FF25;
+            box-shadow: 0px 0px 10px 3px #BED000FF25;
+            margin-bottom: 12px;
+        }
+
+        .box-header .cmpnt-logo-ppal .paragraph {
+            font-family: "Montserrat", sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            text-align: left;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 8px 14px;
+            padding: 0;
+            max-width: 400px;
+        }
+
+        /* Reglas Navbar */
+        .set-wrapper .navbar {
+            background: #BED000FF;
+            border: none;
+            border-radius: 0;
+            font-family: "Montserrat", sans-serif !important;
+            font-size: 14px !important;
+            font-weight: 400;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
+        @media (min-width: 768px) {
+            .set-wrapper .navbar {
+                display: flex;
+                margin: auto;
+                margin-bottom: 6px;
+            }
+        }
+
+        .set-wrapper .navbar-nav>li {
+            background: #BED000FF;
+            color: #3d4a1c;
+        }
+
+        .set-wrapper .navbar-nav>li:hover {
+            background: #828F26;
+            color: #ffffff;
+        }
+
+        .set-wrapper .navbar-nav>li>a {
+            color: #3d4a1c !important;
+            padding: 14px 4px;
+        }
+
+        .set-wrapper .navbar-nav>li:hover>a {
+            color: #ffffff !important;
+        }
+
+        .set-wrapper .navbar-nav>li a.activado {
+            background: rgba(77, 84, 31, 1) !important;
+            color: #BED000FF !important;
+        }
+
+        @media (min-width: 768px) {
+            .navbar-collapse.collapse {
+                display: inline-block !important;
+                width: auto !important;
+            }
+        }
+    </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="/images/cybe/logo_cybe_v3.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
             </div>
-            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>Movilidad Motorizada de
-                    Cero y
-                    Bajas Emisiones</strong></p>
+            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-
     <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -102,13 +215,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://sdm.wdo:8000/cybe/home">Inicio</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/cambio">¿Por qué?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/solucion">¿Qué solución proponemos?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/tecnologias">¿Cuáles son las tecnologías?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/mitos">Verdades y mitos</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/recursos">Recursos</a></li>
-                    <!-- <li><a href="http://sdm.wdo:8000/cybe/metas">¿Cómo lograr la transición?</a></li> -->
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución proponemos?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son nuestras metas?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son las tecnologías?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades y mitos</a></li>
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
                 </ul>
 
             </div>
@@ -125,10 +238,8 @@
         <h3 class="title title-type-2 title-id-1-1">Proyecto de electrificación de rutas escolares</h3>
         <div class="imagen img-r1">
             <figure>
-                <img class="img-responsive w-100" src="/images/cybe/recursos/escolares1.png" alt="imagen ">
-                <figcaption>
-                    <p>Foto: . (SDM).</p>
-                </figcaption>
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/escolares1.png" alt="imagen ">
+
             </figure>
         </div>
         <p class="paragraph ph-type-1 ph-id-r1">Con el apoyo de la Cooperación internacional City Climate Finance Gap Fund (Gap Fund) se están llevando a cabo estudios para iniciar la hoja de ruta hacia la electrificación de la flota escolar de la ciudad.</p>
@@ -146,10 +257,8 @@
         <h3 class="title title-type-2 title-id-1-2">Infraestructura de recarga</h3>
         <div class="imagen img-r1">
             <figure>
-                <img class="img-responsive w-100" src="/images/cybe/recursos/recarga3.png" alt="imagen ">
-                <figcaption>
-                    <p>Foto: . (SDM).</p>
-                </figcaption>
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/recarga3.png" alt="imagen ">
+
             </figure>
         </div>
         <p class="paragraph ph-type-1 ph-id-r3">Lograr la provisión de energía para los vehículos eléctricos requiere del trabajo conjunto entre la Nación, el Distrito y el sector privado; aquí algunos documentos que permiten conocer más sobre el desarrollo de la red de infraestructura:</p>
@@ -166,10 +275,8 @@
         <h3 class="title title-type-2 title-id-1-3">Logística baja en carbono</h3>
         <div class="imagen img-r1">
             <figure>
-                <img class="img-responsive w-100" src="/images/cybe/recursos/logistica1.png" alt="imagen ">
-                <figcaption>
-                    <p>Foto: . (SDM).</p>
-                </figcaption>
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/logistica1.png" alt="imagen ">
+
             </figure>
         </div>
         <p class="paragraph ph-type-1 ph-id-r7"><a href="https://drive.google.com/file/d/1gIUY-Gp-pqO3qZt94p8L-RCLOlWMH2fT/view?usp=sharing">Plan de acción de logística urbana baja en carbono (pdf)</a> - En asistencia técnica con ICLEI - Gobiernos Locales por la Sustentabilidad, orienta el camino para que Bogotá reduzca las emisiones de gases de efecto invernadero (GEI) en el sector de logística urbana.</p>
@@ -180,10 +287,8 @@
         <h3 class="title title-type-2 title-id-1-4">Impactos del transporte</h3>
         <div class="imagen img-r1">
             <figure>
-                <img class="img-responsive w-100" src="/images/cybe/recursos/impacto3.png" alt="imagen ">
-                <figcaption>
-                    <p>Foto: . (SDM).</p>
-                </figcaption>
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/impacto3.png" alt="imagen ">
+
             </figure>
         </div>
         <p class="paragraph ph-type-1 ph-id-r9"><a href="https://drive.google.com/file/d/1EBK3puRKK9GbJ8LqBi8aIUuE6NfEsYAu/view?usp=sharing">Desarrollo de herramientas para la evaluación integrada de impactos en salud del transporte en América Latina (pdf)</a> - Desarrollado por el Banco Mundial, evalúa de manera integral los impactos en salud del transporte bajo escenarios que incentivan el uso de la bicicleta, en ciudades de países de ingresos bajos y medios.</p>
@@ -192,15 +297,16 @@
     <style>
         .cpnt-recursos-documentos {
             display: grid;
-            gap: 8px;
+            gap: 16px;
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
             grid-template-rows: auto;
+            align-items: start;
         }
 
         @media(min-width:768px) {
             .cpnt-recursos-documentos {
-                grid-template-columns: 40% auto;
+                grid-template-columns: 35% auto;
             }
         }
 
@@ -210,6 +316,11 @@
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
             grid-template-rows: auto;
+        }
+        @media(min-width:768px){
+            .cpnt-recursos-collapse{
+                padding-top: 90px;
+            }
         }
 
         .cpnt-recursos .panel-body ul>li{
@@ -227,7 +338,7 @@
             <div class='panel-group' id='accordion-documents' role='tablist ' aria-multiselectable='true'>
 
                 <!-- collapse internacional -->
-                <div class='panel panel-default'>
+                <div class='panel panel-primary'>
                     <div class='panel-heading' role='tab' id='heading_internacional'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion-documents' href='#collapse_internacional' aria-expanded='false' aria-controls='collapse_internacional'>
@@ -250,7 +361,7 @@
                 </div>
 
                 <!-- collapse nacional -->
-                <div class='panel panel-default'>
+                <div class='panel panel-primary'>
                     <div class='panel-heading' role='tab' id='heading_nacional'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion-documents' href='#collapse_nacional' aria-expanded='false' aria-controls='collapse_nacional'>
@@ -280,7 +391,7 @@
                 </div>
 
                 <!-- collapse distrital -->
-                <div class='panel panel-default'>
+                <div class='panel panel-primary'>
                     <div class='panel-heading' role='tab' id='heading_distrital'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion-documents' href='#collapse_distrital' aria-expanded='false' aria-controls='collapse_distrital'>
@@ -293,6 +404,7 @@
                             <div class='box-distrital'>
                                 <ul>
                                     <li><strong>Plan Distrital de Desarrollo 2024 - 2027 Bogotá Camina Segura </strong><a href="https://www.sdp.gov.co/gestion-a-la-inversion/programacion-y-seguimiento-a-la-inversion/planes-de-desarrollo-distrital">enlace</a></li>
+                                    <li><strong>Resolución 149772 de 2023.</strong> Por la cual se adopta el protocolo general para el aprovechamiento económico del espacio público para la actividad de recarga de vehículos eléctricos y se establecen otras disposiciones.<a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=143481"></a></li>
                                     <li><strong>CONPES DISTRITAL 31 DE 2023.</strong> Política Pública de Acción Climática 2023-2050<a href="https://www.sdp.gov.co/gestion-socioeconomica/conpes-dc/politicas-publicas">(Documentos disponibles)</a></li>
                                     <li><strong>CONPES DISTRITAL 30 DE 2023.</strong> Política Pública de Movilidad Motorizada de Cero y bajas Emisiones<a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales">(Documentos disponibles)</a></li>
                                     <li><strong>Decreto 203 del 31 de mayo de 2023.</strong> Por medio del cual se establecen lineamientos para la constitución, administración y funcionamiento del Fondo Distrital para la Promoción del Ascenso Tecnológico de volquetas y del parque automotor que preste el servicio de transporte de carga de que trata el artículo 32 de la Ley 2169 de 2021, y se dictan otras disposiciones.<a href="https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=142660&dt=S">(Ver en línea)</a></li>

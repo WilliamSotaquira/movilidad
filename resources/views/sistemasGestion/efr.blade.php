@@ -81,76 +81,53 @@
                 <li data-target='#carousel-efr' data-slide-to='4'></li>
                 <li data-target='#carousel-efr' data-slide-to='5'></li>
                 <li data-target='#carousel-efr' data-slide-to='6'></li>
-                <li data-target='#carousel-efr' data-slide-to='7'></li>
-                <li data-target='#carousel-efr' data-slide-to='8'></li>
-                <li data-target='#carousel-efr' data-slide-to='9'></li>
-                <li data-target='#carousel-efr' data-slide-to='10'></li>
-                <li data-target='#carousel-efr' data-slide-to='11'></li>
-                <li data-target='#carousel-efr' data-slide-to='12'></li>
-                <li data-target='#carousel-efr' data-slide-to='13'></li>
-                <li data-target='#carousel-efr' data-slide-to='14'></li>
-                <li data-target='#carousel-efr' data-slide-to='15'></li>
-                <li data-target='#carousel-efr' data-slide-to='16'></li>
-                <li data-target='#carousel-efr' data-slide-to='17'></li>
+
             </ol>
 
             <!-- Wrapper for slides -->
             <div class='carousel-inner'>
                 <div class='item active'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_movipet_230629_1200x670_001.png' alt='Fotografia memoria movipet efr' title='Fotografia memoria movipet efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_10.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_diafamilia_230629_1200x670_001.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_2.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_olimpiadas_230629_1200x670_001.png' alt='Fotografia memoria memoria efr' title='Fotografia memoria olimpiadas efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_3.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_olimpiadas_230629_1200x670_002.png' alt='Fotografia memoria memoria efr' title='Fotografia memoria olimpiadas efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_4.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_movipet_230629_1200x670_002.png' alt='Fotografia memoria movipet efr' title='Fotografia memoria movipet efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_5.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_diafamilia_230629_1200x670_002.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_6.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_olimpiadas_230629_1200x670_003.png' alt='Fotografia memoria memoria efr' title='Fotografia memoria olimpiadas efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_7.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_movipet_230629_1200x670_003.png' alt='Fotografia memoria movipet efr' title='Fotografia memoria movipet efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_8.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_diafamilia_230629_1200x670_003.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_9.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_olimpiadas_230629_1200x670_004.png' alt='Fotografia memoria memoria efr' title='Fotografia memoria olimpiadas efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_1.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_movipet_230629_1200x670_004.png' alt='Fotografia memoria movipet efr' title='Fotografia memoria movipet efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_11.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_diafamilia_230629_1200x670_004.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_12.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_olimpiadas_230629_1200x670_005.png' alt='Fotografia memoria memoria efr' title='Fotografia memoria olimpiadas efr'>
-                </div>
-                <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_movipet_230629_1200x670_005.png' alt='Fotografia memoria movipet efr' title='Fotografia memoria movipet efr'>
-                </div>
-                <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_diafamilia_230629_1200x670_005.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
-                </div>
-                <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_olimpiadas_230629_1200x670_006.png' alt='Fotografia memoria memoria efr' title='Fotografia memoria olimpiadas efr'>
-                </div>
-                <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_movipet_230629_1200x670_006.png' alt='Fotografia memoria movipet efr' title='Fotografia memoria movipet efr'>
-                </div>
-                <div class='item'>
-                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-06-2023/efr_diafamilia_230629_1200x670_006.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_13.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
             </div>
+
+            <a href="http://" target="_blank" rel="noopener noreferrer"></a>
 
             <!-- Left and right controls -->
             <a class='left carousel-control' href='#carousel-efr' data-slide='prev'>
@@ -199,7 +176,7 @@
                         <div role="tabpanel" class="tab-pane" id="menu2">
                             <div class="video video-2 video-16by9">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width='100%' src='https://www.youtube.com/embed/qcCbvKTUgfs' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                                    <iframe width='100%' src='https://www.youtube.com/embed/nFRsa6mKVEk?si=UMMONExKvEU4vr7U' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -207,7 +184,7 @@
                         <div role="tabpanel" class="tab-pane" id="menu3">
                             <div class="video video-3 video-16by9">
                                 <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe width='100%' src='https://www.youtube.com/embed/NWJrqplIAGw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                                    <iframe width='100%' src='https://www.youtube.com/embed/Nff8QxYbbIE?si=hQIPJA4sd-udLJX-' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -247,10 +224,10 @@
                         <a href="#menu1" aria-controls="tab" role="tab" data-toggle="tab">Firma <br>compromiso</a>
                     </li>
                     <li role="presentation">
-                        <a href="#menu2" aria-controls="tab" role="tab" data-toggle="tab">Olimpiadas <br> Deportivas 2023</a>
+                        <a href="#menu2" aria-controls="tab" role="tab" data-toggle="tab">Olimpiadas <br> Deportivas 2024</a>
                     </li>
                     <li role="presentation">
-                        <a href="#menu3" aria-controls="tab" role="tab" data-toggle="tab">Día de la <br>Familia 2023</a>
+                        <a href="#menu3" aria-controls="tab" role="tab" data-toggle="tab">Día de la <br>Familia 2024</a>
                     </li>
                     <li role="presentation">
                         <a href="#menu4" aria-controls="tab" role="tab" data-toggle="tab">Equipo <br>efr</a>
@@ -428,10 +405,10 @@
                 </div>
                 <div class="perfil zoom">
                     <div class="foto">
-                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/paola_adriana_corona_miranda_0.png' alt='Foto Paola Adriana Corona Miranda' title='Foto Paola Adriana Corona Miranda'>
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/maria_teresa_rodriguez_leal.png' alt='Foto María Teresa Rodríguez Leal' title='Foto María Teresa Rodríguez Leal'>
                     </div>
                     <div class="nombre">
-                        <h3>Paola Adriana Corona Miranda</h3>
+                        <h3>María Teresa Rodríguez Leal</h3>
                         <h4><strong>Coordinadora efr</strong> - Directora de Talento Humano</h4>
                     </div>
 
@@ -449,15 +426,6 @@
                     <div class="nombre">
                         <h3>Ilba Milady Vargas Guiza</h3>
                         <h4>Subdirectora Administrativa</h4>
-                    </div>
-                </div>
-                <div class="perfil zoom">
-                    <div class="foto">
-                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/maria_claudia_gomez.png' alt='Foto María Claudia Gómez Salazar' title='Foto María Claudia Gómez Salazar'>
-                    </div>
-                    <div class="nombre">
-                        <h3>María Claudia Gómez Salazar</h3>
-                        <h4>Profesional Dirección de Talento Humano</h4>
                     </div>
                 </div>
                 <div class="perfil zoom">
@@ -486,14 +454,20 @@
             }
 
             .box-perfiles .perfiles {
-                display: grid;
+
+                display: flex;
+                flex-direction: row;
+                flex-wrap: wrap;
+                justify-content: center;
+                align-items: normal;
+                align-content: normal;
                 gap: 10px;
-                grid-auto-flow: dense;
-                grid-template-columns: repeat(auto-fill, minmax(min(100%, 200px), 1fr));
-                grid-template-rows: auto;
-                grid-template-areas:
-                    '';
-                margin: auto;
+
+            }
+
+            .box-perfiles .perfil{
+                width: 220px;
+
             }
 
             .box-perfiles .perfiles .perfil .foto img {

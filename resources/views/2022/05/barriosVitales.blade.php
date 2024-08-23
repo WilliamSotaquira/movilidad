@@ -831,7 +831,7 @@
                 </div>
             </div>
             <div class="paragraph">
-                <p>E-mail: <a href="mailto:barriosvitales@movilidadogota.gov.co">barriosvitales@movilidadogota.gov.co</a></p>
+                <p>E-mail: <a href="mailto:barriosvitales@movilidadbogota.gov.co">barriosvitales@movilidadbogota.gov.co</a></p>
 
             </div>
         </div>

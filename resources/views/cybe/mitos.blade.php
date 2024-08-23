@@ -1,30 +1,139 @@
 @extends('welcome')
 @section('title','mitos')
 @section('contenido')
+
+<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
+
 <!-- Google fonts - Montserrat  -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 
-<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
-
 <!-- Set mitos -->
 <div class="set-wrapper mitos">
 
     <!-- bloque box header-->
+    <style>
+        .set-wrapper .box-header {
+            background: #BED000FF;
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/cybe_portada_2.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            grid-template-areas: "box-header";
+        }
+
+        @media (min-width: 908px) {
+            .set-wrapper .box-header {
+                background-position: center -30em;
+                grid-template-columns: 55% 45%;
+                grid-template-areas: "vacio box-header";
+            }
+        }
+
+        .box-header .cmpnt-logo-ppal {
+            grid-area: box-header;
+            height: 250px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box-header .cmpnt-logo-ppal .logo-ppal {
+            width: 100%;
+            max-width: 260px;
+            margin: 0 auto;
+            background-color: #BED000FF;
+            padding: 32px;
+            -webkit-box-shadow: 0px 0px 10px 3px #BED000FF25;
+            box-shadow: 0px 0px 10px 3px #BED000FF25;
+            margin-bottom: 12px;
+        }
+
+        .box-header .cmpnt-logo-ppal .paragraph {
+            font-family: "Montserrat", sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            text-align: left;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 8px 14px;
+            padding: 0;
+            max-width: 400px;
+        }
+
+        /* Reglas Navbar */
+        .set-wrapper .navbar {
+            background: #BED000FF;
+            border: none;
+            border-radius: 0;
+            font-family: "Montserrat", sans-serif !important;
+            font-size: 14px !important;
+            font-weight: 400;
+            line-height: 1.1;
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
+        @media (min-width: 768px) {
+            .set-wrapper .navbar {
+                display: flex;
+                margin: auto;
+                margin-bottom: 6px;
+            }
+        }
+
+        .set-wrapper .navbar-nav>li {
+            background: #BED000FF;
+            color: #3d4a1c;
+        }
+
+        .set-wrapper .navbar-nav>li:hover {
+            background: #828F26;
+            color: #ffffff;
+        }
+
+        .set-wrapper .navbar-nav>li>a {
+            color: #3d4a1c !important;
+            padding: 14px 4px;
+        }
+
+        .set-wrapper .navbar-nav>li:hover>a {
+            color: #ffffff !important;
+        }
+
+        .set-wrapper .navbar-nav>li a.activado {
+            background: rgba(77, 84, 31, 1) !important;
+            color: #BED000FF !important;
+        }
+
+        @media (min-width: 768px) {
+            .navbar-collapse.collapse {
+                display: inline-block !important;
+                width: auto !important;
+            }
+        }
+    </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="/images/cybe/logo_cybe_v3.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
             </div>
-            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>Movilidad Motorizada de
-                    Cero y
-                    Bajas Emisiones</strong></p>
+            <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-
     <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -42,13 +151,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="http://sdm.wdo:8000/cybe/home">Inicio</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/cambio">¿Por qué?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/solucion">¿Qué solución proponemos?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/tecnologias">¿Cuáles son las tecnologías?</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/mitos">Verdades y mitos</a></li>
-                    <li><a href="http://sdm.wdo:8000/cybe/recursos">Recursos</a></li>
-                    <!-- <li><a href="http://sdm.wdo:8000/cybe/metas">¿Cómo lograr la transición?</a></li> -->
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución proponemos?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son nuestras metas?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son las tecnologías?</a></li>
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades y mitos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
                 </ul>
 
             </div>
@@ -62,7 +171,7 @@
             font-weight: 500;
             text-align: left;
             line-height: 1.4;
-            color: #00000099;
+            color: #252525;
         }
 
         .box-title {
@@ -72,13 +181,13 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            background-color: #fff;
+            background-color: #ffffff;
         }
 
         .mitos .box-title .title-ppal {
             font-size: 30px;
             font-weight: 700;
-            color: #1c2046;
+            color: #4d541f;
             margin: 32px;
             text-align: center;
         }
@@ -88,13 +197,13 @@
             width: 100%;
             max-width: 940px;
             height: 25rem;
-            background: url('/images/cybe/ppal_mitos.png') no-repeat center center;
+            background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/ppal_mitos.png') no-repeat center center;
             margin-top: 32px;
         }
     </style>
     <div class="box-title">
         <div class="cmpnt cmpnt-title-ppal">
-            <h3 class="title-ppal center-text">Verdades y mitos sobre estas tecnologías</h3>
+            <h3 class="title-ppal center-text">Verdades y mitos de las tecnologías de cero y bajas emisiones.</h3>
         </div>
         <div class="cmpnt cmpnt-description">
             <p>La transición hacia la movilidad sostenible genera algunas dudas, aquí se encuentran algunos datos sobre los vehículos eléctricos para conocer.</p>
@@ -115,16 +224,16 @@
         }
 
         .box-body .glyphicon-chevron-right::before {
-            color: #1c2046 !important;
+            color: #4d541f !important;
         }
 
         .box-body .glyphicon-chevron-left::before {
-            color: #1c2046 !important;
+            color: #4d541f !important;
         }
 
         .box-body .panel-heading {
-            border-color: #e5e5e5 !important;
-            background-color: #e5e5e5 !important;
+            border-color: #D6DE80 !important;
+            background-color: #D6DE80 !important;
             background-image: none !important;
         }
 
@@ -141,12 +250,15 @@
             font-family: 'Glyphicons Halflings';
             content: "\e080";
             float: right;
-            color: #1c2046;
+            color: #4d541f;
             font-size: 18px;
         }
 
         .box-body .panel-heading .panel-title a.collapsed:after {
             content: "\e114";
+        }
+        .box-body .panel-body{
+            background: #f5f5f5;
         }
     </style>
     <div class="box-body">
@@ -165,7 +277,7 @@
                 <div id='collapse_a' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_a' aria-expanded='false'>
                     <div class='panel-body'>
                         <div class='box-a'>
-                            <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80 % la batería del vehículo. Bogotá ya cuenta con cargadores rápidos de uso público, puedes conocerlos <a href="">acá</a></p>
+                            <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80 % la batería del vehículo. Bogotá ya cuenta con cargadores rápidos de uso público, puedes conocerlos <a href="https://experience.arcgis.com/experience/52ee7be2e8274fb89b85d092eb602925/page/Menu/?draft=true&views=ACB-2022%2CAMBIENTE">acá</a></p>
                             <p>Si se utiliza un cargador semi-rápido, tardaría entre 2 y 4 horas, mientras que con un cargador lento el tiempo sería mayor a 6 horas. Este tipo de cargadores son más adecuados para la recarga en el hogar.</p>
                         </div>
                     </div>
@@ -252,7 +364,7 @@
                 <div id='collapse_d' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_d' aria-expanded='false'>
                     <div class='panel-body'>
                         <div class='box-d'>
-                            <p>Verdadero, en promedio, los costos de operación y mantenimiento de los vehículos eléctricos son menores que los de los vehículos convencionales, esto se debe principalmente a que el costo de la energía es más barato que el costo del combustible y que los vehículos eléctricos tienen menos componentes susceptibles a mantenimiento.</p>
+                            <p>Verdadero, en promedio los costos de operación y mantenimiento de un vehículo de combustión son más altos que los de un vehículo eléctrico. Esto se debe principalmente a que el costo del combustible es más alto respecto al costo de la energía adicionalmente, los vehículos eléctricos tienen menos componentes susceptibles a mantenimiento.</p>
                         </div>
                     </div>
                 </div>

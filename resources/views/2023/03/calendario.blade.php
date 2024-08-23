@@ -206,7 +206,7 @@
 
     <!-- Component box title-center -->
     <div class="box-title-center">
-        <h2>Calendario de eventos 2023</h2>
+        <h2>Calendario de eventos y actividades 2024</h2>
         <p>Consulte aquí los próximos eventos de movilidad a realizarse en la ciudad. Al hacer clic en las pestañas desplegables, encontrará información correspondiente a cada uno.</p>
         <br>
     </div>
@@ -477,115 +477,56 @@
 
 <script>
     const datos = {
-        enero: [{
-            date: '30 y 31 de enero',
-            title: 'Semana de la movilidad sostenible ',
-            summary: 'Bogotá ha realizado una inversión histórica para transformarse en la ciudad integral, ecourbana y sostenible que todos soñamos. En la semana de la Movilidad Sostenible el Distrito socializa los megaproyectos en desarrollo tanto a la ciudadanía como a un selecto grupo de expertos internacionales, quienes a su vez comparten experiencias de innovación en movilidad alrededor del globo.',
-            subjects: 'Alcaldía mayor de Bogotá, Secretaría Distrital de Movilidad,  expertos internacionales',
-            tags: ['Movilidad Sostenible', 'Ciudades Sostenibles'],
-            url: '#',
-        }],
-        febrero: [{
-                date: '1, 2 y 3 de febrero',
-                title: 'Semana de la movilidad sostenible ',
-                summary: 'Bogotá ha realizado una inversión histórica para transformarse en la ciudad integral, ecourbana y sostenible que todos soñamos. En la semana de la Movilidad Sostenible el Distrito socializa los megaproyectos en desarrollo tanto a la ciudadanía como a un selecto grupo de expertos internacionales, quienes a su vez comparten experiencias de innovación en movilidad alrededor del globo.',
-                subjects: 'Alcaldía mayor de Bogotá, Secretaría Distrital de Movilidad,  expertos internacionales',
-                tags: ['Movilidad Sostenible', 'Ciudades Sostenibles'],
-                url: '#',
-            },
-            {
-                date: '21 de febrero',
-                title: 'Lanzamiento Encuesta de Movilidad 2023 Bogotá - Región',
-                summary: 'Una herramienta que permitirá diseñar políticas públicas para mejorar la movilidad y calidad de vida de los habitantes de la Región Metropolitana. Este instrumento permitirá conocer las dinámicas de movilidad de la población mayor a 5 años de edad, en Bogotá y 20 municipios vecinos.',
-                subjects: 'Secretaría Distrital de Movilidad en sinergia con autoridades de Cundinamarca. Ciudadanía diversa.',
-                tags: ['Encuesta de Movilidad', 'Bogotá - Región', 'Región Metropolitana', 'Movilidad Sostenible'],
-                url: 'https://www.encuestademovilidad2023.com/',
-            },
-            {
-                date: '24 de febrero',
-                title: 'Rendición de Cuentas Nodo Sector Movilidad Distrital',
-                summary: 'Diálogo en doble vía entre las entidades del Sector Movilidad y la ciudadanía, un ejercicio de transparencia en el cual informamos y explicamos los avances y resultados de nuestra gestión.',
-                subjects: 'Ciudadanía diversa, SDM, UMV, IDU, TMSA, EMB, TTSA, ODT',
-                tags: ['Sector Movilidad', 'Rendición de Cuentas', 'Participación ciudadana'],
-                url: '',
-            }
-        ],
-        marzo: [{
-            date: '22 y 23 de marzo',
-            title: 'Autonomy mobility world Expo ',
-            summary: 'Visibilizar procesos de integración y sostenibilidad como el sistema de bicis compartidas, posicionando a Bogotá como una de las ciudades de América Latina que más usan y promueven este medio de transporte sostenible.',
-            subjects: 'Secretaría Distrital de Movilidad',
-            tags: ['Green cities', 'Cycling cities', 'movilidad sostenible', 'bicis compartidas'],
-            url: 'https://www.amwe.world/',
-        }],
-        mayo: [{
-            date: 'Por confirmar nueva fecha',
-            title: 'Relanzamiento ORVI',
-            summary: 'Relanzamiento del Centro de Atención a Víctimas por Siniestros Viales (ORVI) el cual operará en el centro comercial Mall Plaza, ofeciendo asesoría jurídica, psicológica y social a todas aquellas personas involucradas en un siniestro vial en Bogotá.',
-            subjects: 'Ciudadanía diversa, Secretaría Distrital de Movilidad',
-            tags: ['Seguridad Vial', 'Siniestros viales', 'atención a la ciudadanía'],
-            url: '#',
-        }],
-        junio: [{
-            date: '23 y 24 de junio',
-            title: 'Mobilize learning lab Bogota',
-            summary: 'Bogotá es la ciudad anfitriona de este encuentro colaborativo que busca explorar soluciones y mejores prácticas en movilidad en nuestras regiones para un futuro sostenible. ',
-            subjects: 'ITDP, Secretaría Distrital de Movilidad, Fundación Volvo',
-            tags: ['Movilidad sostenible', 'desarrollo sostenible'],
-            url: '#',
-        }],
+
         agosto: [{
-                date: '',
-                title: 'Semana del taxista',
-                summary: 'Teniendo en cuenta que el 5 de agosto el día del taxista, la Secretaría Distrital de Movilidad dedica una semana completa para celebrar a los conductores y conductoras de taxi con actividades de integración y bienestar.',
-                subjects: 'Secretaría Distrital de Movilidad, Secretaría de Desarrollo económico, Invitados, gremio de taxistas.  ',
-                tags: ['Movilidad Bogotá', 'atención a la ciudadanía'],
-                url: '#',
-            },
-            {
-                date: '25 de agosto',
-                title: 'Reconocimiento Excelencia Logística ',
-                summary: 'El Reconocimiento Excelencia Logística de la Red de Logística Urbana busca fomentar y desarrollar la gestión logística de empresas que operan en la Región Metropolitana Bogotá-Cundinamarca, con la firme voluntad de estimular la innovación en el sector. Habrán 4 categorías: sostenibilidad social, sostenibilidad ambiental, eficiencia operativa y tecnologías e innovación.',
+                date: '17 de agosto',
+                title: 'El Día Internacional del Peatón',
+                summary: 'Se conmemora una fecha de gran importancia para la seguridad vial a nivel mundial: el Día Mundial del Peatón. Esta celebración, promovida por la Organización Mundial de la Salud (OMS), tiene sus raíces en un acontecimiento histórico que marcó un antes y un después en la percepción de la seguridad de los peatones. En 1897, se registró el primer incidente de tráfico con una víctima peatonal, un suceso que evidenció la necesidad de proteger a quienes transitan a pie.',
                 subjects: '',
                 tags: [],
                 url: '#',
+            },
+            {
+                date: '20, 21 y 22 de agosto',
+                title: 'II Foro de Ciudades del Aprendizaje de Latinoamérica',
+                summary: 'Bogotá será sede del II Foro de Ciudades del Aprendizaje de Latinoamérica, el cual que se llevará a cabo del 20 al 22 de agosto en el Hotel Grand Hyatt. Este es un encuentro organizado en el marco de la Red Mundial de Ciudades del Aprendizaje de la Unesco, junto con la Red de Ciudades del Aprendizaje de México y el Instituto de Aprendizaje a lo Largo de Toda la Vida de la Unesco.',
+                subjects: 'Secretaría de Movilidad de Bogotá',
+                tags: ['Movilidad sostenible'],
+                url: 'https://www.redciudadesaprendizajelatam.org/foro',
+            },
+            {
+                date: '26 de agosto',
+                title: 'Aniversario Barrio Vital San Felipe',
+                summary: 'El Barrio Vital de San Felipe y Juan XXII es el primer territorio en la ciudad donde actúa la estrategia de intervención de Barrios Vitales 1. Barrios Vitales se configura como una estrategia de intervención que busca estructurar a través de acciones en la movilidad, espacio público y revitalización urbana, una ciudad compacta y de proximidad.',
+                subjects: '',
+                tags: ['Barrios Vitales'],
+                url: 'https://www.movilidadbogota.gov.co/web/barrios_vitales',
             }
         ],
         septiembre: [{
-                date: '7 de septiembre',
-                title: 'Primer año La Rolita',
-                summary: 'Evento en el que se destacará el proceso de La Rolita durante su primer año de funcionamiento, esto en término de viajes, número de usuarios y equidad de género.',
+                date: '9 de septiembre',
+                title: 'Aniversario Barrio Vital Bosa El Porvenir',
+                summary: 'El Barrio Vital Bosa El Porvenir es el tercer territorio en la ciudad de implementación de la estrategia de intervención de Barrios Vitales1, la cual se configura como una estrategia que busca estructurar a través de acciones en la movilidad, espacio público y revitalización urbana, una ciudad compacta y de proximidad.',
                 subjects: 'Sector Movilidad. Distrito.',
                 tags: [
-                    'Equidad de género',
-                    'Mujeres conductoras',
-                    'Transporte público eléctrico'
+                    'Barrios Vitales'
                 ],
-                url: '',
+                url: 'https://www.movilidadbogota.gov.co/web/barrios_vitales',
             },
             {
-                date: '8 de septiembre',
-                title: 'Movi Innova',
-                summary: 'Por medio de la estrategia MOVI-INNOVA la Secretaría Distrital de Movilidad SDM invita a la ciudadanía, entidades del sector público y privado y a la academia a participar en un espacio que promueve soluciones innovadoras en materia de movilidad, donde cada actor se identifique como parte activa de la solución y aporte mediante sus ideas, prácticas innovadoras y transferencia de conocimientos en el mejoramiento de la movilidad y la calidad de vida de los habitantes de Bogotá - Región.',
-                subjects: 'Secretaría Distrital de Movilidad. Ciudadanía. Entidades del sector público y privado',
+                date: '23 de septiembre',
+                title: 'III Feria de Tecnologías y Movilidad Sostenible para el transporte de carga',
+                summary: 'La feria está dirigida a todos los pequeños y medianos transportadores de carga, empresas de logística, entidades públicas, entre otros actores que estén interesados en participar en el cambio de tecnologías que permitan mejorar la calidad del aire de la ciudad.',
+                subjects: 'Secretaría de Ambiente, Secretaría Distrital de Movilidad.',
                 tags: [
                     'Movilidad sostenible',
                     'Innovación',
-                    'Bogotá- Región'
                 ],
                 url: '',
             },
             {
-                date: '16 de septiembre',
-                title: 'II Feria de Tecnologías y  Movilidad Sostenible para el transporte de carga',
-                summary: 'Se busca generar un entorno comercial de servicios entre proveedores y consumidores de tecnologías para el transporte de carga urbana y divulgar las estrategias del Distrito sobre el ascenso tecnológico, las prácticas de conducción y mantenimiento con un enfoque de movilidad sostenible.',
-                subjects: '',
-                tags: '',
-                url: '',
-            },
-            {
-                date: 'Desde el 22 hasta el 01 de octubre',
-                title: 'Semana de la Bici',
+                date: 'Desde el 22 hasta el 30 de septiembre',
+                title: 'XV Semana de la Bici',
                 summary: 'Evento con diferentes actividades diarias en las que se rinde un homenaje a la bicicleta. Este año su tema central será el autocuidado, la idea sera llevar un mensaje de seguridad vial a los ciclistas para que se hagan ver en la vía. ',
                 subjects: 'Secretaría Distrital de Movilidad, entidades distritales, colectivos, empresas privadas, entidades aliadas y Universidades.',
                 tags: [
@@ -593,55 +534,20 @@
                     'Bicicleta',
                     'Seguridad vial'
                 ],
-                url: 'https://www.movilidadbogota.gov.co/web/xvi_semana_de_la_bici',
-            },
-            {
-                date: '28 de septiembre',
-                title: 'Reconocimiento Red Muévete mejor y premio Al Trabajo en Bici',
-                summary: 'Evento de reconocimiento a las empresas, entidades y universidades de la Red Muévete mejor que en el último año han fomentado el uso de medios de transporte sostenibles, y que en general han realizado acciones en pro de la movilidad sostenible en la ciudad.',
-                subjects: 'Secretaría Distrital de Movilidad, miembros de la Red Muévete Mejor',
-                tags: [],
-                url: '#',
+                url: 'https://www.movilidadbogota.gov.co/web/xv_semana_de_la_bici',
             }
         ],
-        octubre: [
-
-            {
-                date: 'Desde el 1 hasta el 6 octubre',
-                title: 'Semana de la seguridad vial ',
-                summary: 'Evento que celebra la Secretaria Distrital de Movilidad, desde el año 2007, en 2022 llega a su edición XVI, por medio de diferentes conversatorios, actividades y foros se busca llegar y sensibilizar a la ciudadanía frente a la importancia de la seguridad vial para todos los actores en la vía.',
-                subjects: 'Secretaría Distrital de Movilidad. Ciudadanía. Expertos internacionales. Entidades del sector público y privado.',
-                tags: ['Seguridad vial'],
-                url: 'https://www.movilidadbogota.gov.co/web/semana_de_la_seguridad_vial_2023',
-            },
-            {
-                date: '5 de octubre',
-                title: 'Concurso Innovadores Escolares en Seguridad Vial',
-                summary: 'Evento en el cual grupos de estudiantes de la capital, exponen sus propuestas innovadoras para la seguridad vial en entornos escolares.',
-                subjects: 'Secretaría Distrital de Movilidad, Instituciones Educativas del Distrito',
-                tags: ['seguridad vial', 'entornos escolares seguros'],
-                url: '#',
-            },
-            // {
-            //     date: '6 de octubre',
-            //     title: 'Reconocimiento Red de Seguridad Vial',
-            //     summary: 'Los reconocimientos otorgados por la *Red de Seguridad Vial* tienen como objetivo destacar y premiar las *Buenas Prácticas* que llevan a cabo las organizaciones miembros en pro de la seguridad vial. Dichas prácticas son fundamentales para garantizar un sistema de enfoque seguro, tanto para los usuarios de la vía como para los trabajadores que se desplazan en vehículos motorizados.',
-            //     subjects: '',
-            //     tags: [],
-            //     url: '#',
-            // },
-            {
-                date: '7 de octubre',
-                title: 'Dia del motociclista Distrital',
-                summary: 'Evento dirigido a motociclistas para mejorar la seguridad vial ',
-                subjects: 'Secretaría Distrital de Movilidad. Ciudadanía.',
-                tags: [
-                    'Motociclistas',
-                    'Seguridad vial'
-                ],
-                url: '#',
-            },
-        ],
+        octubre: [{
+            date: '7 de octubre',
+            title: 'Dia del motociclista Distrital',
+            summary: 'Evento dirigido a motociclistas para mejorar la seguridad vial ',
+            subjects: 'Secretaría Distrital de Movilidad. Ciudadanía.',
+            tags: [
+                'Motociclistas',
+                'Seguridad vial'
+            ],
+            url: '#',
+        }, ],
         noviembre: [{
                 date: 'Primera semana de noviembre',
                 title: 'Cierre de año programa Niños y niñas primero',
@@ -652,6 +558,14 @@
                     'Movilidad incluyente',
                     'Movilidad Sostenible'
                 ],
+                url: '#',
+            },
+            {
+                date: '12 de noviembre',
+                title: 'Día del Peatón',
+                summary: 'Iniciativa que busca promover el uso de medios de transporte sostenibles y seguros, como la bicicleta, el transporte público y la caminata.*',
+                subjects: 'Secretaría Distrital de Movilidad. ',
+                tags: ['Seguridad vial'],
                 url: '#',
             },
             {
@@ -667,24 +581,16 @@
                 url: '#',
             },
             {
-                date: '5 de noviembre',
-                title: 'Día Mundial de las Víctimas de Siniestros Viales',
+                date: '17 de noviembre',
+                title: 'Día mundial en memoria de las víctimas de siniestros viales ',
                 summary: 'Conmemorar la memoria de las personas que fallecieron en el tránsito y generar conciencia sobre la importancia de la seguridad vial en la ciudad.',
-                subjects: 'Secretaría Distrital de Movilidad. ',
-                tags: ['Seguridad vial'],
-                url: '#',
-            },
-            {
-                date: 'Por definir',
-                title: 'Día del Peatón',
-                summary: 'Iniciativa que busca promover el uso de medios de transporte sostenibles y seguros, como la bicicleta, el transporte público y la caminata.*',
                 subjects: 'Secretaría Distrital de Movilidad. ',
                 tags: ['Seguridad vial'],
                 url: '#',
             }
         ],
         diciembre: [{
-            date: 'Segunda semana de diciembre',
+            date: 'Por definir',
             title: 'Ciclovia nocturna',
             summary: 'El objetivo es promover el transporte sostenible, la recreación y el disfrute de la iluminación navideña.*',
             subjects: 'Secretaría Distrital de Movilidad. ',
