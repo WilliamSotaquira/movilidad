@@ -19,8 +19,8 @@
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2024/tenencuenta_22ago_banner1.jpg">
-                            <img alt="Suspensión de servicios calle 13" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2024/tenencuenta_22ago_banner2.jpg" title="Suspensión de servicios calle 13">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2024/este-fin-de-semana_banner1.jpg">
+                            <img alt="Suspensión de servicios calle 13" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-08-2024/este-fin-de-semana_banner2.jpg" title="Suspensión de servicios calle 13">
                         </picture>
                     </div>
 
