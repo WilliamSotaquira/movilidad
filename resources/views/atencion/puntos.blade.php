@@ -2282,7 +2282,7 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/8OLbJ0ICxE0" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 6:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://secmovilidad.cariai.com/smb/chatWeb">Clic aquí para iniciar el chat.</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 6:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://secmovilidad.cari.ai/smb/chatWeb">Clic aquí para iniciar el chat.</a></p>
 
                             </div>
                         </div>
@@ -2297,7 +2297,7 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/kn6vuBAKo1Y" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc2">La Secretaría Distrital de Movilidad te brinda esta herramienta para facilitar nuestra comunicación, la puedes usar desde un computador, celular o tableta. <a href="https://cls45-ws-secmovilidad.inconcertcc.com/C2CSECMOV/">Clic aquí para iniciar la llamada</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc2">La Secretaría Distrital de Movilidad te brinda esta herramienta para facilitar nuestra comunicación, la puedes usar desde un computador, celular o tableta. <a href="https://secmovilidad.cari.ai/smb/llamadas">Clic aquí para iniciar la llamada</a></p>
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
@@ -2316,7 +2316,7 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/ZebTw7k0rkk" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc3">Déjanos tus datos y te regresamos la llamada respetando tu turno. <a href="https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/">Clic aquí para solicitar que te regresamos la llamada</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc3">Déjanos tus datos y te regresamos la llamada respetando tu turno. <a href="https://secmovilidad.cari.ai/smb/callBack">Clic aquí para solicitar que te regresamos la llamada</a></p>
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
@@ -2335,7 +2335,7 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/yimG3ap9aE4" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc4">Comunícate con un asesor de servicio a través de videollamada. Este servicio también está disponible en lengua de señas. <a href="https://vus.circulemosdigital.com.co/#/login">Clic aquí para hacer el agendamiento.</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc4">Comunícate con un asesor de servicio a través de videollamada. Este servicio también está disponible en lengua de señas. <a href="https://secmovilidad.cari.ai/smb/videollamada">Clic aquí para hacer el agendamiento.</a></p>
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
