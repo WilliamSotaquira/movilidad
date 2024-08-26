@@ -1610,8 +1610,8 @@
                                             <div class="panel-dependencia">
                                                 <p>Formula y dirige la formulación, ejecución y evaluación de las políticas, programas, planes y proyectos referentes al talento humano en la entidad, buscando el desarrollo integral del personal y cumpliendo con las disposiciones legales vigentes y objetivos institucionales de la Secretaría Distrital Movilidad.</p>
                                             </div>
-
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100">
@@ -1623,11 +1623,15 @@
                                                             <h1>María Teresa Rodríguez Leal</h1>
                                                             <h4>Directora de Talento Humano</h4>
                                                             <div class="descripcion-xs">
-                                                                <p></p>
+                                                                <p>Abogada y licenciada en Ciencias Políticas. Especializada en Derecho Administrativo con amplia experiencia y conocimiento en la dirección y liderazgo en procesos de gestión integral del talento humano y gestión jurídica.</p>
+                                                                <p>Capacidad de planeación y organización, alto nivel de responsabilidad, compromiso, liderazgo, honestidad y facilidad para dinamizar grupos de trabajo en procura de la obtención de los resultados proyectados.</p>
+                                                                <p>Cuenta con amplia experiencia en el sector público; se destaca que trabajó en el Departamento Administrativo del Servicio Civil como subdirectora Jurídica, logrando analizar y emitir conceptos de los Proyectos de Acuerdos del Concejo de Bogotá, Decretos Distritales, Proyectos de Ley y demás normativa relacionada con la gestión del talento humano, del empleo público, formulación de planes de bienestar social y estímulos. También laboró en la Secretaría Distrital de la Mujer como directora de Talento Humano y en la Secretaría de Hacienda como subdirectora de Talento Humano, entre otros. </p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
+
+
                                             </div>
                                         </div>
                                     </div>
