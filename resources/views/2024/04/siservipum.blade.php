@@ -238,14 +238,8 @@
                     <img src="https://www.movilidadbogota.gov.co/intranet/sites/default/files/2024-05-29/transparencia.png" alt="valores siservipum - Transparencia" width="112" height="112"> <span>Transparencia</span>
                 </div>
             </div>
-         <div class="btn-group">
-           <button class="btn btn-default btn-lg dropdown-toggle " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-             Large button <span class="caret">example</span>
-           </button>
-           <ul class="dropdown-menu">
 
-           </ul>
-         </div>
+
         </div>
     </div>
 </div>
