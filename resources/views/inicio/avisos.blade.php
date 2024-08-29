@@ -50,16 +50,6 @@
                             </picture>
                         </a></div>
 
-                    <div class="item">
-                        <picture>
-                            <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-08-2024/cumplebogota_ago2024_banner1.png">
-                            <img alt="Aviso de suspención de servicios" class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-08-2024/cumplebogota_ago2024_banner2.png"
-                                title="Image: Aviso de suspención de servicios">
-                        </picture>
-                    </div>
-
                     <div class="item"><a href="https://webfenix.movilidadbogota.gov.co/#/consulta-pagos">
                             <picture>
                                 <source media="(min-width: 465px)"
