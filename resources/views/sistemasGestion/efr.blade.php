@@ -430,6 +430,15 @@
                 </div>
                 <div class="perfil zoom">
                     <div class="foto">
+                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/maria_claudia_gomez.png' alt='Foto María Claudia Gomez Salazar' title='Foto María Claudia Gomez Salazar'>
+                    </div>
+                    <div class="nombre">
+                        <h3>María Claudia Gomez Salazar</h3>
+                        <h4>Profesional Dirección de Talento Humano</h4>
+                    </div>
+                </div>
+                <div class="perfil zoom">
+                    <div class="foto">
                         <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/claudia_gonzalez.png' alt='Foto Claudia Marcela González Sánchez' title='Foto Claudia Marcela González Sánchez'>
                     </div>
                     <div class="nombre">
@@ -607,6 +616,9 @@
                                 <div class='body-collapse-2024'>
                                     <li>
                                         <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-06-2024/rse_sdm.pptx">Responsabilidad Social Empresarial (.pptx)</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-08-2024/nuestra_evolucion_en_el_modelo_efr.pptx">Nuestra evolución en el Modelo efr (.pptx)</a>
                                     </li>
                                 </div>
                             </div>
