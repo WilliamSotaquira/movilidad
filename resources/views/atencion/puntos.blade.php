@@ -580,7 +580,7 @@
 
                                     <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
 
-                                    <p>Sábado 08:00&nbsp;a.m. a 12:00&nbsp;m</p>
+                                    <p>Sábado 7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
                                 </div>
 
                                 <div class="item">
@@ -615,7 +615,7 @@
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
 
-                                    <p>unes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+                                    <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
 
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
@@ -1480,10 +1480,9 @@
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
-
                                     <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
-
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+                                    <p>Domingos:&nbsp;8:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
