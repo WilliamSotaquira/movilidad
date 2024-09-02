@@ -3,7 +3,8 @@
 @section('contenido')
 
 <!-- Set avisos -->
-<div class="set-wrapper avisos">&nbsp;
+<hr>
+<div class="set-wrapper avisos">
     <div class="cmpnt cmpnt-carousel">
         <div class="carousel slide" data-interval="12000" data-ride="carousel-avisos" id="carousel-avisos">
             <ol class="carousel-indicators">
@@ -52,9 +53,9 @@
                 <div class="item"><a href="https://bogota.gov.co/">
                         <picture>
                             <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-08-2024/banners_turnos_racionamiento_950x300.png">
+                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-09-2024/piezas_del_nuevo_turno_-_racionamiento_de_agua_del_1_al_29_de_septiembre_950x300.png">
                             <img alt="Ir a turnos de racionamiento" class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-08-2024/banners_turnos_racionamiento_340x300.png"
+                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-09-2024/piezas_del_nuevo_turno_-_racionamiento_de_agua_del_1_al_29_de_septiembre_340x300.png"
                                 title="Image: turnos de racionamiento">
                         </picture>
                     </a></div>
