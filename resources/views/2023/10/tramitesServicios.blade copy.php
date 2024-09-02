@@ -995,9 +995,6 @@
     });
 
 
-
-
-
     let checkbox = document.querySelectorAll('input[type=checkbox]');
     checkbox.forEach((check) => {
         check.addEventListener('change', (e) => {

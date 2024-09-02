@@ -12,7 +12,9 @@
                 <div class="tags-ts">
                     <div class="tags"><span class="label label-default">Tramite</span></div>
                 </div>
-                <a class="link-ppal"><h3>Inscripción o autorización para la circulación vial (excepciones pico y placa).</h3></a>
+                <a class="link-ppal">
+                    <h3>Inscripción o autorización para la circulación vial (excepciones pico y placa).</h3>
+                </a>
                 <p class="p1">Inscríbete virtualmente al registro de los vehículos exceptuados de la medida de pico y placa en Bogotá.</p>
             </div>
 
@@ -326,7 +328,6 @@
 
 
         }
-
     </style>
     <hr>
 
@@ -363,7 +364,8 @@
             grid-template-rows: auto;
             align-items: end;
         }
-        .box-bloque-2 #buttonsFilter{
+
+        .box-bloque-2 #buttonsFilter {
             display: inline-flex;
             gap: 8px;
 
@@ -386,7 +388,7 @@
                 column-gap: 32px;
                 grid-template-columns: 60% auto;
                 grid-template-areas:
-                'buscar limpiar';
+                    'buscar limpiar';
                 align-items: center;
             }
         }
@@ -888,7 +890,7 @@
 
 
     const rta = portafolio.sort((c, d) => c.title.toLowerCase().charCodeAt(0) - d.title.toLowerCase().charCodeAt(0))
-    console.log(rta);
+    // console.log(rta);
     for (let i = 0; i < rta.length; i++) {
 
         let logtipo = rta[i].logtype;
@@ -926,35 +928,9 @@
         }
         parent.appendChild(textData);
 
-
     }
 
 
-
-    // let find = document.addEventListener('keyup', (e) => {
-    //     let sentence = document.querySelector('#sentence').value;
-    //     let cards = document.querySelectorAll('.card-ts');
-    //     let filter = sentence.toLowerCase();
-
-    //     cards.forEach((card) => {
-    //         let title = card.querySelector('h3').textContent.toLowerCase();
-    //         let description = card.querySelector('p').textContent.toLowerCase();
-    //         let tags = card.querySelector('.tags').textContent.toLowerCase();
-
-    //         if (title.indexOf(filter) > -1 || description.indexOf(filter) > -1 || tags.indexOf(filter) > -1) {
-    //             card.style.display = '';
-    //         } else {
-    //             card.style.display = 'none';
-    //         }
-    //     });
-    // });
-
-    // function limpiarFiltro() {
-
-    //     preventDefault();
-    //     let textFilter = document.querySelector('#sentence');
-    //     textFilter.value = '';
-    // }
 
     filterSelection("all")
 
@@ -962,7 +938,7 @@
     function filterSelection(c) {
         var x, i;
         x = document.getElementsByClassName("card-ts");
-        console.log(c);
+        // console.log(x);
         if (c == "all") c = "";
         // Add the "uncover" class (display:block) to the filtered elements, and remove the "uncover" class from the elements that are not selected
         for (i = 0; i < x.length; i++) {
@@ -1005,5 +981,40 @@
             current[0].className = current[0].className.replace(" active", "");
             this.className += " active";
         });
+    }
+
+
+    let find = document.addEventListener('keyup', (e) => {
+        let sentence = document.querySelector('#sentence').value;
+        let cards = document.querySelectorAll('.card-ts');
+        let filter = sentence.toLowerCase();
+
+
+        for (i = 0; i < cards.length; i++) {
+
+            let title = cards[i].querySelector('h3').textContent.toLowerCase();
+            let description = cards[i].querySelector('p').textContent.toLowerCase();
+            let tags = cards[i].querySelector('.tags').textContent.toLowerCase();
+
+            console.log('Title', title);
+
+            if (title.indexOf(filter) > -1 || description.indexOf(filter) > -1 || tags.indexOf(filter) > -1) {
+
+                cards[i].style.display = 'uncover';
+            } else {
+                w3RemoveClass(cards[i], "uncover");
+            }
+
+
+        }
+
+
+
+    });
+
+    function limpiarFiltro() {
+        preventDefault();
+        let textFilter = document.querySelector('#sentence');
+        textFilter.value = '';
     }
 </script>
