@@ -38,18 +38,6 @@
                     </a>
                 </div>
 
-                <div class="item"><a
-                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/abece_plan_piloto_de_salida_v_5_0.pdf"
-                        target="_blank">
-                        <picture>
-                            <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/12-08-2024/banner-plan-piloto-salida-desktop.png">
-                            <img alt="Ir a Plan piloto de salida" class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/12-08-2024/banner-plan-piloto-salida-mobile.png"
-                                title="Image: Plan piloto de salida">
-                        </picture>
-                    </a></div>
-
                 <div class="item"><a href="https://bogota.gov.co/">
                         <picture>
                             <source media="(min-width: 465px)"
@@ -110,16 +98,6 @@
                             <img alt="Ir a Plan de Desarrollo Distrital" class="img-responsive w-100"
                                 src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-07-2024/banners_aprobado_el_pdd_bogota_camina_segura_340x300.png"
                                 title="Image: Plan de Desarrollo Distrital">
-                        </picture>
-                    </a></div>
-
-                <div class="item"><a href="https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/">
-                        <picture>
-                            <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-05-2024/pieza_pyp-lg.png">
-                            <img alt="Ir a actualización Pico y Placa Solidario" class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-05-2024/pieza_pyp-xs.png"
-                                title="Image: actualización Pico y Placa Solidario">
                         </picture>
                     </a></div>
 
