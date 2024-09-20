@@ -129,7 +129,9 @@
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                </a>
             </div>
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
@@ -206,7 +208,7 @@
             <h3 class="title-ppal center-text">Verdades y mitos de las tecnologías de cero y bajas emisiones.</h3>
         </div>
         <div class="cmpnt cmpnt-description">
-            <p>La transición hacia la movilidad sostenible genera algunas dudas, aquí se encuentran algunos datos sobre los vehículos eléctricos para conocer.</p>
+            <p>La transición hacia la movilidad sostenible genera algunas dudas, presentamos datos sobre algunos vehículos eléctricos para conocer más.</p>
         </div>
         <div class="imagen img-ppal">
         </div>
@@ -277,7 +279,7 @@
                 <div id='collapse_a' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_a' aria-expanded='false'>
                     <div class='panel-body'>
                         <div class='box-a'>
-                            <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80 % la batería del vehículo. Bogotá ya cuenta con cargadores rápidos de uso público, puedes conocerlos <a href="https://experience.arcgis.com/experience/52ee7be2e8274fb89b85d092eb602925/page/Menu/?draft=true&views=ACB-2022%2CAMBIENTE">acá</a></p>
+                            <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80 % la batería del vehículo.  Bogotá cuenta con cargadores rápidos de uso público, para conocer los puntos ingresar <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/infraestructura_de_recarga_electrica_en_bogota">aquí.</a></p>
                             <p>Si se utiliza un cargador semi-rápido, tardaría entre 2 y 4 horas, mientras que con un cargador lento el tiempo sería mayor a 6 horas. Este tipo de cargadores son más adecuados para la recarga en el hogar.</p>
                         </div>
                     </div>

@@ -11,6 +11,27 @@
 
 
 <!-- Set home -->
+<style>
+    #lectura .region-content {
+        padding: 0px;
+    }
+
+    @media(min-width:768px) {
+        #lectura .region-content {
+            padding: 20px;
+        }
+    }
+
+    .home .navbar-header .navbar-toggle {
+        margin-right: 0px;
+    }
+
+    @media(min-width:768px) {
+        .home .navbar-header .navbar-toggle {
+            margin-right: 15px;
+        }
+    }
+</style>
 <div class="set-wrapper home">
 
     <!-- bloque box header-->
@@ -130,12 +151,13 @@
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                </a>
             </div>
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-    <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
 
@@ -288,7 +310,7 @@
         <div class="cmpnt cmpnt-video">
             <div class="video video-ppal video-16by9">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <iframe width='100%' src='https://www.youtube.com/embed/i3Wx02KJX4Q' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                    <iframe width='100%' src='https://www.youtube.com/embed/1kWS0SpyyXc?si=80VhL6jugcJKSR82' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -443,7 +465,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros eléctricos</p>
-                            <p class="value">5.049</p>
+                            <p class="value">6.485</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_electrico.png" alt="Icono de carro eléctrico">
                             <p class="details">Registrados</p>
                         </div>
@@ -451,7 +473,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros híbridos</p>
-                            <p class="value">34.087</p>
+                            <p class="value">37.753</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_hibrido.png" alt="Icono de carro híbrido">
                             <p class="details">Registrados</p>
                         </div>
@@ -459,15 +481,15 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Motos eléctricas</p>
-                            <p class="value">434</p>
+                            <p class="value">439</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_moto.png" alt="Icono de moto eléctrica">
                             <p class="details">Registradas</p>
                         </div>
                     </div>
                     <div class="item">
                         <div class="pad15">
-                            <p class="lead">Camiones <small>cero y bajas emisiones</small></p>
-                            <p class="value">475</p>
+                            <p class="lead">Camiones cero y bajas emisiones</p>
+                            <p class="value">472</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_carga.png" alt="Icono de carga eléctrico">
                             <p class="details">Registrados</p>
                         </div>
@@ -483,7 +505,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Flota oficial eléctrica</p>
-                            <p class="value">15</p>
+                            <p class="value">19</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_oficial.png" alt="Icono de Flota oficial eléctrica">
                             <p class="details">En operación</p>
                         </div>
@@ -493,7 +515,7 @@
                 <button class="btn btn-primary rightLst">&#62;</button>
             </div>
         </div>
-        <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 30 de abril de 2024</i>
+        <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 31 de julio de 2024</i>
 
 
     </div>
@@ -608,7 +630,7 @@
         .set-wrapper .box-noticias {
             grid-area: box-noticias;
             margin: 2em 0 0 0;
-            background: #D6DE80;
+            background: rgba(255, 255, 255, 1);
         }
 
         .box-noticias .title-type-3 {
@@ -784,27 +806,27 @@
         <h3 class="title title-type-3 title-id-6">Noticias</h3>
         <div class="cmpnt cmpnt-cards">
 
-            <div class="n-card card-1 zoom">
+            <div class="n-card card-2 zoom">
                 <div class="imagen">
-                    <img src="https://lh7-us.googleusercontent.com/kXGgSo1-ZNx4qqBeOLdT0-pRFWZZeO16ecJv2W5kYC6obGxtxvEPAHujcFmaMnh7qYwAuWqBboptYsVpxk8C1hDY-9ZuiLJPX8oyRaa0sMgAKLo9nRP7IyZ84F6GhhmQl0ilAPhWogxq374GK3Y3Hg" alt="Imagen de noticia">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/09-07-2024/1.jpg" alt="Imagen de noticia">
                 </div>
                 <div class="resumen">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_vuelve_a_ser_ejemplo_de_movilidad_escolar_activa_en_el_mundo">
-                        <h4 class="title title-type-enfasis-1 title-id-7">Bogotá vuelve a ser ejemplo de movilidad escolar activa en el mundo</h4>
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_y_c40_son_reconocidas_en_londres_por_buenas_practicas_en_equidad_de_genero_y">
+                        <h4 class="title title-type-enfasis-1 title-id-7">Bogotá y C40 son reconocidas en Londres por buenas prácticas en equidad de género y movilidad sostenible en los Premios Polaris 2024</h4>
                     </a>
-                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 3 de mayo de 2024 (@SectorMovilidad). Durante esta semana, estudiantes de medicina, investigadores, profesionales y funcionarios de Maputo - capital de Mozambique- y que hacen parte del proyecto ‘De Camino al Colegio’, visitan Bogotá. Se trata de una investigación global que busca entender la aceptabilidad, el impacto, la viabilidad y la adaptabilidad de programas de movilidad activa desde y hacia el colegio, para fomentar estilos de vida saludable y el bienestar mental en adolescentes escolares de 8 a 16 años.</p>
+                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá D.C., 09 de julio de 2024 (@SectorMovilidad). Bogotá y C40 Cities han sido galardonados con el Premio Polaris 2024 en la categoría de `Igualdades´, por la campaña de comunicación #PrimerAñoLaRolita que promueve la igualdad y equidad de género en el transporte público. Este reconocimiento internacional se otorgó durante la ceremonia celebrada el viernes 21 de junio en Londres, donde la campaña se destacó por su contribución al empoderamiento de las mujeres y la promoción de empleos verdes en el sector de la movilidad sostenible.</p>
                 </div>
             </div>
 
-            <div class="n-card card-2 zoom">
+            <div class="n-card card-1 zoom">
                 <div class="imagen">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/13-02-2024/1_0.jpg" alt="Imagen de noticia">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/04-07-2024/1.jpg" alt="Imagen de noticia">
                 </div>
                 <div class="resumen">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/como_construir_e_implementar_un_plan_integral_de_movilidad_sostenible_en_las_organizaciones">
-                        <h4 class="title title-type-enfasis-1 title-id-7">Cómo construir e implementar un Plan Integral de Movilidad Sostenible en las organizaciones</h4>
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_reconocio_a_las_empresas_con_las_mejores_practicas_logisticas">
+                        <h4 class="title title-type-enfasis-1 title-id-7">Bogotá reconoció a las empresas con las mejores prácticas logísticas</h4>
                     </a>
-                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá. Febrero de 2024. Con el fin de orientar a entidades públicas, empresas privadas y universidades acerca de cómo promover el desarrollo de hábitos de movilidad sostenible en sus trabajadoras/es y estudiantes, la Secretaría Distrital de Movilidad (SDM) publicó la Guía Práctica Cómo construir e implementar un Plan Integral de Movilidad Sostenible (PIMS) en las organizaciones,</p>
+                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 4 de julio de 2024 (@SectorMovilidad). Este jueves, la Secretaría Distrital de Movilidad, por medio de la Red de Logística Urbana, celebró el Reconocimiento Excelencia Logística 2024, un evento que se lleva a cabo de forma anual y que destaca las mejores iniciativas de empresas privadas, en pro de la movilidad y la calidad del medio ambiente en la ciudad.</p>
                 </div>
             </div>
 
@@ -813,6 +835,82 @@
 
     <!-- Sección box aliados -->
     <div class="box box-aliados">
+        <style>
+            .cpnt-slider #carousel_empresas_b {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+            }
+
+            #carousel_empresas_b .carousel-inner figure img {
+                object-fit: cover;
+                width: 100% !important;
+                /* height: 16.25em; */
+            }
+
+            @media(max-width:767px) {
+                #carousel_empresas_b .carousel-inner figure img {
+                    height: 16.25em;
+                }
+            }
+
+            @media(min-width:768px) {
+                #carousel_empresas_b .carousel-inner figure img {
+                    height: 25em;
+                }
+            }
+
+            @media(min-width:992px) {
+                #carousel_empresas_b .carousel-inner figure img {
+                    height: 28em;
+                }
+            }
+
+            #carousel_empresas_b .carousel-control.left {
+                background-image: -webkit-linear-gradient(right, rgba(0, 0, 0, .0001) 0, rgba(190, 208, 0, 0.5) 100%);
+                background-image: -o-linear-gradient(right, rgba(0, 0, 0, .0001) 0, rgba(190, 208, 0, 0.5) 100%);
+                background-image: -webkit-gradient(linear, right top, left top, from(rgba(0, 0, 0, .0001)), to(rgba(190, 208, 0, 0.5)));
+                background-image: linear-gradient(to left, rgba(0, 0, 0, .0001) 0, rgba(190, 208, 0, 0.5) 100%);
+                background-repeat: repeat-x !important;
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#BED000', GradientType=1);
+            }
+
+            #carousel_empresas_b .carousel-control.right {
+                background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(190, 208, 0, 0.5) 100%);
+                background-image: -o-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(190, 208, 0, 0.5) 100%);
+                background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(190, 208, 0, 0.5)));
+                background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(190, 208, 0, 0.5) 100%);
+                background-repeat: repeat-x !important;
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#BED000', GradientType=1);
+
+            }
+
+            #carousel_empresas_b .carousel-control {
+                color: #BED000;
+                opacity: 1;
+            }
+
+            #carousel_empresas_b .carousel-control:focus,
+            #carousel_empresas_b .carousel-control:hover {
+                color: #BED000;
+                opacity: 0.7;
+            }
+
+
+
+            #carousel_empresas_b .carousel-indicators li {
+                background-color: #404040;
+                border-color: #40404050;
+                box-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+            }
+
+            #carousel_empresas_b .carousel-indicators .active {
+                background-color: #ffe145;
+                border-color: #A6B517;
+            }
+        </style>
 
         <div class="cpnt cpnt-aliados-title">
             <h3 class="title title-type-3 title-id-n3">
@@ -830,6 +928,7 @@
         </div>
         <div class="cpnt cpnt-slider">
             <div id="carousel_empresas_b" class="carousel carousel_empresas slide" data-ride="carousel">
+
                 <div class="carousel-inner">
                     <div class="item active">
                         <div class='row logos'>
@@ -852,8 +951,9 @@
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_defencarga_400.png" alt="">
                             </div>
                         </div>
-
                     </div>
+
+
                     <div class="item">
                         <div class="row logos">
                             <div class='col-xs-12 col-sm-2'>
@@ -906,110 +1006,112 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- Left and right controls -->
-                    <a class="left carousel-control" href="#carousel_empresas_b" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left"></span>
-                        <span class="sr-only">Anterior</span>
-                    </a>
-                    <a class="right carousel-control" href="#carousel_empresas_b" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right"></span>
-                        <span class="sr-only">Siguiente</span>
-                    </a>
                 </div>
 
+                <!-- Left and right controls -->
+                <a class="left carousel-control" href="#carousel_empresas_b" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Anterior</span>
+                </a>
+                <a class="right carousel-control" href="#carousel_empresas_b" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Siguiente</span>
+                </a>
             </div>
 
         </div>
-        <style>
-            .set-wrapper .box-aliados {
-                grid-area: box-aliados;
-                margin-top: 4em;
-                display: grid;
-                grid-auto-flow: dense;
-                grid-template-columns: 1fr;
-                grid-template-rows: auto;
-                font-family: 'Montserrat', sans-serif;
-                font-size: 15px;
-                font-weight: 500;
-                text-align: left;
-                line-height: 1.5;
-                color: #252525;
-                padding-top: 32px;
-                padding-bottom: 32px;
-            }
-
-            .cpnt-aliados-title .title-type-3 {
-                text-align: center;
-                text-transform: uppercase;
-                font-size: 40px;
-                color: #3d4a1c;
-                font-weight: 700;
-                margin-bottom: 32px;
-            }
-
-            @media(min-width:768px) {
-                .cpnt-aliados-title {
-                    grid-column: span 2;
-
-                }
-            }
-
-            .logos-aliados img {
-                max-width: 250px;
-                margin: auto;
-            }
-
-            @media(min-width:768px) {
-                .box-aliados .box-aliados {
-                    grid-template-columns: 1fr 1fr;
-                    padding-left: 8em;
-                    padding-right: 8em;
-
-                }
-            }
-
-            .box-aliados .cpnt-aliados-summary {
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-                padding: 32px;
-            }
-            .box-aliados .cpnt-aliados-summary p {
-                margin: 8;
-                padding: 0;
-                text-align: justify;
-            }
-
-            .box-aliados .cpnt-logos-aliados {
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-            }
-
-            .cpnt-logos-aliados img {
-                max-width: 250px;
-                margin: 2rem;
-                padding: 32px;
-            }
-
-            .cpnt-paragraph {
-                margin-bottom: 32px;
-            }
-
-            @media(min-width:768px) {
-                .cpnt-slider {
-                    grid-column: span 2;
-                    margin-top: 32px;
-                }
-            }
-        </style>
-
 
     </div>
-    <br>
+    <style>
+        .set-wrapper .box-aliados {
+            grid-area: box-aliados;
+            margin-top: 4em;
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 15px;
+            font-weight: 500;
+            text-align: left;
+            line-height: 1.5;
+            color: #252525;
+            padding-top: 32px;
+            padding-bottom: 32px;
+        }
+
+        .cpnt-aliados-title .title-type-3 {
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 40px;
+            color: #3d4a1c;
+            font-weight: 700;
+            margin-bottom: 32px;
+        }
+
+        @media(min-width:768px) {
+            .cpnt-aliados-title {
+                grid-column: span 2;
+
+            }
+        }
+
+        .logos-aliados img {
+            max-width: 250px;
+            margin: auto;
+        }
+
+        @media(min-width:768px) {
+            .box-aliados .box-aliados {
+                grid-template-columns: 1fr 1fr;
+                padding-left: 8em;
+                padding-right: 8em;
+
+            }
+        }
+
+        .box-aliados .cpnt-aliados-summary {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 32px;
+        }
+
+        .box-aliados .cpnt-aliados-summary p {
+            margin: 8;
+            padding: 0;
+            text-align: justify;
+        }
+
+        .box-aliados .cpnt-logos-aliados {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .cpnt-logos-aliados img {
+            max-width: 250px;
+            margin: 2rem;
+            padding: 32px;
+        }
+
+        .cpnt-paragraph {
+            margin-bottom: 32px;
+        }
+
+        @media(min-width:768px) {
+            .cpnt-slider {
+                grid-column: span 2;
+                margin-top: 32px;
+            }
+        }
+    </style>
+
+
+</div>
+<br>
 
 
 

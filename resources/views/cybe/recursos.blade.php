@@ -7,23 +7,6 @@
 
 <!-- Set recursos -->
 <style>
-    .set-wrapper .recursos {
-        font-family: 'Montserrat', sans-serif;
-        font-size: 16px;
-        font-weight: 500;
-        text-align: left;
-        line-height: 1.5;
-    }
-
-    .recursos .box-header {
-        background-color: #f2f2f2;
-        padding: 32px;
-    }
-
-    .recursos .cpnt-recursos-header {
-        margin-top: 64px;
-    }
-
     .cpnt-recursos .title-type-ppal {
         font-size: 32px;
         color: #252525;
@@ -193,7 +176,9 @@
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                </a>
             </div>
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
@@ -228,14 +213,13 @@
         </div>
     </nav>
 
-
     <div class="cpnt-recursos cpnt-recursos-header">
         <h2 class="title title-type-ppal title-id-1">Recursos</h2>
         <p class="paragraph ph-type-1">La movilidad sostenible es un pilar fundamental para el desarrollo de ciudades más habitables y eficientes. En este espacio web, encontrarás información detallada sobre las últimas tendencias y avances en estrategias de movilidad sostenible, como la transición energética, la digitalización del transporte y la promoción de medios de transporte de bajas emisiones. Además, podrás explorar iniciativas globales y locales que buscan mejorar la calidad de vida y reducir el impacto ambiental, contribuyendo así a un futuro más verde y conectado.</p>
     </div>
 
     <div class="cpnt-recursos cpnt-recursos-escolares" class="escolares">
-        <h3 class="title title-type-2 title-id-1-1">Proyecto de electrificación de rutas escolares</h3>
+        <h3 class="title title-type-2 title-id-1-1" id="electrificacion_rutas">Proyecto de electrificación de rutas escolares</h3>
         <div class="imagen img-r1">
             <figure>
                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/escolares1.png" alt="imagen ">
@@ -251,6 +235,15 @@
             <li><a href="https://drive.google.com/file/d/1CTm5SAh0QvWCB69rpBlD5HdLN0BLziuV/view?usp=sharing">Hoja de ruta con acciones prioritarias para la fase piloto y la fase de escalabilidad (.pdf).</a> Diseñar una hoja de ruta con acciones prioritarias para la fase piloto del proceso de electrificación.</li>
         </ul>
         <p class="paragraph ph-type-1 ph-id-r2">Durante el año 2024, adelantamos una segunda fase donde recopilaremos mayor información de la operación del servicio y daremos a conocer los beneficios de este cambio.</p>
+         <p class="paragraph ph-type-1 ph-id-r2">Como parte de esta segunda fase también hemos desarrollado una estrategía de comunicaciones que nos permitirá divulgar los resultados de los estudios realizados e impulsar la movilidad eléctrica para el transporte escolar. Puedes descargar nuestro material a continuación:</p>
+         <ul>
+            <li>
+           <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/transporte_escolar_electrico.pdf">Transporte Escolar Eléctrico (pdf).</a> Datos claves para que todos podamos conocer los beneficios para nuestra salud con la transición hacia vehículos eléctricos en el transporte escolar.
+            </li>
+            <li>
+            <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/cartilla_proxima_parada_cero_emisiones.pdf">Cartilla Próxima Parada Cero Emisiones (pdf).</a> Esta cartilla guía a los más pequeños a conocer los beneficios del transporte eléctrico escolar y cuidar nuestro planeta.
+            </li>
+         </ul>
     </div>
 
     <div class="cpnt-recursos cpnt-recursos-recarga" class="recarga">
@@ -352,8 +345,8 @@
                                 <ul>
                                     <li>Agenda 2030. Objetivos de desarrollo sostenible.<a href="https://www.un.org/sustainabledevelopment/es/development-agenda/">Ver en línea</a></li>
                                     <li>Acuerdo de París. Naciones Unidas 2015<a href="https://unfccc.int/sites/default/files/spanish_paris_agreement.pdf">(.pdf)</a></li>
-                                    <li>Declaración de crecimiento verde. Organización para la Cooperación y el Desarrollo Económicos (OCDE)<a href="www.oecd.org/greengrowth/49709364.pdf">(.pdf)</a></li>
-                                    <li>Convención Marco de las Naciones Unidas sobre el Cambio Climático. Naciones Unidas. 1992<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://unfccc.int/resource/docs/convkp/convsp.pdf">(.pdf)</a></li>
+                                    <li>Declaración de crecimiento verde. Organización para la Cooperación y el Desarrollo Económicos (OCDE)<a href="https://www.oecd.org/greengrowth/49709364.pdf">(.pdf)</a></li>
+                                    <li>Convención Marco de las Naciones Unidas sobre el Cambio Climático. Naciones Unidas. 1992<a href="https://unfccc.int/resource/docs/convkp/convsp.pdf">(.pdf)</a></li>
                                 </ul>
                             </div>
                         </div>
