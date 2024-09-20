@@ -21,6 +21,22 @@
 
                 <div class="item active">
                     <picture>
+                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-09-2024/p_banners_campana_no_dia_sin_carro_p1.png">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-09-2024/p_banners_campana_no_dia_sin_carro_p2.png" class="img-responsive w-100" alt="Aviso campaña aviso no día sin carro" title="Image: Aviso campaña aviso no día sin carro">
+                    </picture>
+                </div>
+
+                <div class="item">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-09-2024/agenda_semana_bici_-_v6.pdf">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-09-2024/banner_temporal_semana_bici_900x300.png">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-09-2024/banner_temporal_semana_bici_340x300.png" class="img-responsive w-100" alt="Ir a Agenda Semana de la Bici" title="Image: Agenda Semana de la Bici">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <picture>
                         <source media="(min-width: 465px)"
                             srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/16-08-2024/apertura_nuestrobogota_banner1.jpg">
                         <img alt="Ir a Plan piloto de salida" class="img-responsive w-100"
@@ -152,18 +168,6 @@
                         </picture>
                     </a></div>
 
-                <div class="item"><a
-                        href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/abc_ciclomotores_ojos_en_las_vias.pdf">
-                        <picture>
-                            <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_950x300_web.png">
-                            <img alt="Ir a Resolución que define la circulación de ciclomotores en Bogotá"
-                                class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-05-2023/pantallas_y_creditos_ciclomotores_340x300_web.png"
-                                title="Image: Resolución que define la circulación de ciclomotores en Bogotá">
-                        </picture>
-                    </a></div>
-
                 <div class="item"><a href="http://www.fotodeteccionbogota.com/">
                         <picture>
                             <source media="(min-width: 465px)"
@@ -175,10 +179,8 @@
                         </picture>
                     </a></div>
             </div>
-            <a class="left carousel-control" data-slide="prev" href="#carousel-avisos" role="button"
-                title="Anterior"><span class="sr-only">Anterior</span></a> <a class="right carousel-control"
-                data-slide="next" href="#carousel-avisos" role="button" title="Siguiente"> <span
-                    class="sr-only">Siguiente</span></a>
+            <a class="left carousel-control" data-slide="prev" href="#carousel-avisos" title="Anterior"><span class="sr-only">Anterior</span></a>
+            <a class="right carousel-control" data-slide="next" href="#carousel-avisos" title="Siguiente"><span class="sr-only">Siguiente</span></a>
         </div>
     </div>
 
