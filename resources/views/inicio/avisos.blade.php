@@ -20,19 +20,19 @@
             <div class="carousel-inner" role="listbox">
 
                 <div class="item active">
+                    <a href="https://www.movilidadbogota.gov.co/web/semana_de_la_bici_2024">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/banner_temporal_semana_bici_900x300.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/banner_temporal_semana_bici_340x300.jpg" class="img-responsive w-100" alt="Ir a Agenda Semana de la Bici" title="Image: Agenda Semana de la Bici">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
                     <picture>
                         <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-09-2024/p_banners_campana_no_dia_sin_carro_p1.png">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-09-2024/p_banners_campana_no_dia_sin_carro_p2.png" class="img-responsive w-100" alt="Aviso campaña aviso no día sin carro" title="Image: Aviso campaña aviso no día sin carro">
                     </picture>
-                </div>
-
-                <div class="item">
-                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-09-2024/agenda_semana_bici_-_v6.pdf">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-09-2024/banner_temporal_semana_bici_900x300.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-09-2024/banner_temporal_semana_bici_340x300.png" class="img-responsive w-100" alt="Ir a Agenda Semana de la Bici" title="Image: Agenda Semana de la Bici">
-                        </picture>
-                    </a>
                 </div>
 
                 <div class="item">
