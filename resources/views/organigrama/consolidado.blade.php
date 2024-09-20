@@ -13,7 +13,7 @@
     <hr>
     <div class="row">
         <div class="col-xs-12 text-center">
-            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/organigrama_sdm_rediseno_2024_.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
+            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/organigrama_sdm_sept_2024_.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
         </div>
     </div>
     <hr>
@@ -1157,27 +1157,26 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
+
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100"><img alt="Foto: Iván Darío Tarazona Manrique" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-02-2024/ivan_dario_tarazona_manrique.png"></div>
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/juan_manuel_garzon.png" alt="Foto: Juan Manuel Garzón Monroy">
+                                                                            </div>
                                                                         </div>
-
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Iván Darío Tarazona Manrique</h1>
-
-                                                                                <h4>Subdirector de Contravenciones</h4>
-
+                                                                                <h1>Juan Manuel Garzón Monroy</h1>
+                                                                                <h4>Subdirección de Contravenciones (e)</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Abogado de la Universidad Santo Tomás y Master en Derecho Público Fundamental de la Universidad de Burdeos, Francia. Se ha desempeñado como abogado litigante, asesor y consultor en materias de derecho administrativo, sancionador y constitucional, entre otras, en distintas entidades públicas como la Agencia Nacional de Defensa Jurídica del Estado, la Empresa de Acueducto y Alcantarillado de Bogotá EAB-ESP, la Gobernación de Cundinamarca, la Asociación de Corporaciones Autónomas Regionales y de Desarrollo Sostenible - ASOCARS, la Contraloría General de la República, el H. Consejo de Estado colombiano y la Cámara de Representantes.</p>
-
-                                                                                    <p>En el ámbito académico ha ejercido roles como director de la Especialización en Derecho Administrativo de la Universidad Santo Tomás y de la Maestría en Derecho Contractual Público y Privado, de la misma casa de estudios; así mismo, como docente de posgrados en las Universidades Santo Tomás, El Rosario, de la Sabana, Sergio Arboleda, Libre, Mariana de Pasto y de la Amazonia.</p>
-
-                                                                                    <p>En su nueva función, busca contribuir a la buena marcha de la Secretaría Distrital de Movilidad y afianzar las líneas y criterios jurídicos de la Subdirección de Contravenciones, a fin de optimizar el servicio y la garantía de los derechos de la ciudadanía en el proceso contravencional.</p>
+                                                                                    <p>Abogado y especialista en Derecho Administrativo y Constitucional de la Universidad Católica de Colombia. Magíster en Gobierno y Políticas Públicas de la Universidad Externado de Colombia, tiene una tesis meritoria en seguridad vial y pedagogía.</p>
+                                                                                    <p>Desde el 2007 ingresó a trabajar a la Secretaría de Movilidad, como contratista, al Centro de Servicios, y en el 2008 empezó a ejercer como autoridad de tránsito; tiene un corto periodo en el 2020 donde se va de la SDM para laborar como inspector de policía. En el año 2021 regresa a la Entidad en carrera administrativa con funciones de autoridad de tránsito. Ahora que está encargado de esta Subdirección, desde este rol, quiere apostarle a la virtualización de procesos, para que la ciudadanía tenga la posibilidad de acceder a salida de vehículos e impugnaciones de comparendos desde la virtualidad.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+
+
                                                                 </div>
                                                             </div>
                                                         </div>
