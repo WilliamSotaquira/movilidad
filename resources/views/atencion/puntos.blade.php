@@ -587,6 +587,7 @@
                                     <p><b>Radicación Presencial:</b></p>
 
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
 
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
@@ -847,25 +848,20 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
-
                                     <p><a class="url-map" href="https://maps.app.goo.gl/jcvxRhuBeXSYSu5H8">Calle 13 # 37 - 35 </a></p>
-
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
-
                                     <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
-
                                     <p>Sábado 08:00&nbsp;a.m. a 12:00&nbsp;m</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
-
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
-
+                                    <p>Sábado 08:00&nbsp;a.m. a 12:00&nbsp;m</p>
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
                             </div>
