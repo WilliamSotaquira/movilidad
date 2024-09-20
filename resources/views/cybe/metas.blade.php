@@ -348,7 +348,8 @@
         align-items: center;
         align-content: center;
     }
-    .item-metas svg{
+
+    .item-metas svg {
         width: 100%;
         max-width: 100px;
     }
@@ -570,6 +571,34 @@
             grid-template-areas: "box-header";
         }
 
+        .cpnt-collapse .panel-title>a {
+            display: inline-block;
+        }
+
+        .zoom {
+            transition: 0.5s ease;
+            -moz-transition: 0.5s ease;
+            /* Firefox */
+            -webkit-transition: 0.5s ease;
+            /* Chrome - Safari */
+            -o-transition: 0.5s ease;
+            /* Opera */
+            -ms-transition: 0.5s ease;
+            /* IE9 */
+        }
+
+        .zoom:hover {
+            transform: scale(1.05);
+            -moz-transform: scale(1.05);
+            /* Firefox */
+            -webkit-transform: scale(1.05);
+            /* Chrome - Safari */
+            -o-transform: scale(1.05);
+            /* Opera */
+            -ms-transform: scale(1.05);
+            /* IE9 */
+        }
+
         @media (min-width: 908px) {
             .set-wrapper .box-header {
                 background-position: center -30em;
@@ -665,13 +694,23 @@
                 width: auto !important;
             }
         }
+        .enlace-metas{
+            color: #BED000;
+            font-weight: bold;
+        }
+        .enlace-metas:hover{
+            color: #fff;
+        }
+
     </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                </a>
             </div>
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
@@ -748,8 +787,11 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_vehiculos'>
                                 <h4 class='panel-title'>
+                                    Vehiculos particulares (segmentos M1 y N1)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion-sg1-v' href='#collapse_vehiculos' aria-expanded='false' aria-controls='collapse_vehiculos'>
-                                        Vehiculos particulares (segmentos M1 y N1)
+                                        <span class="icon ico1 zoom">
+                                            <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
+                                        </span>
                                     </a>
                                 </h4>
                             </div>
@@ -794,8 +836,11 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_vehiculos'>
                                 <h4 class='panel-title'>
+                                    Motocicletas (segmentos L1 - L7)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion-sg1-m' href='#collapse_motos' aria-expanded='false' aria-controls='collapse_motos'>
-                                        Motocicletas (segmentos L1 - L7)
+                                        <span class="icon ico1 zoom">
+                                            <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
+                                        </span>
                                     </a>
                                 </h4>
                             </div>
@@ -1138,8 +1183,11 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_collapse_carga'>
                                 <h4 class='panel-title'>
+                                    Vehículos de transporte de carga (segmentos N2 y N3)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_collapse_carga' href='#collapse_collapse_carga' aria-expanded='false' aria-controls='collapse_collapse_carga'>
-                                        Vehículos de transporte de carga (segmentos N2 y N3)
+                                        <span class="icon ico1 zoom">
+                                            <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
+                                        </span>
                                     </a>
                                 </h4>
                             </div>
@@ -1577,7 +1625,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-escolar cpnt-head-escolar-metas">
                         <h3 class="title title-type-2">Metas para la transición de vehículos de transporte escolar</h3>
-                        <p class="paragraph ph-1">Se buscará la promoción de las tecnologías de cero emisiones para los vehículos que prestan servicio de transporte escolar, particularmente en las instituciones educativas públicas. Esto permitirá reflejar una mejora en las condiciones ambientales de la ciudad y reducirá las repercusiones en salud de miles de niños y niñas que diariamente se ven expuestos a la contaminación del aire en microambientes de transporte motorizado.</p>
+                        <p class="paragraph ph-1">Se buscará la promoción de las tecnologías de cero emisiones para los vehículos que prestan servicio de transporte escolar, particularmente en las instituciones educativas públicas. Esto permitirá reflejar una mejora en las condiciones ambientales de la ciudad y reducirá las repercusiones en salud de miles de niños y niñas que diariamente se ven expuestos a la contaminación del aire en microambientes de transporte motorizado. Más información <a class="enlace-metas" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos#electrificacion_rutas">aquí</a></p>
                     </div>
                     <div class="cpnt cpnt-collapse cpnt-collapse-escolar">
 
@@ -1585,8 +1633,11 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_metas_escolar'>
                                 <h4 class='panel-title'>
+                                    Transporte escolar (segmentos M1 a M3)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_metas_escolar' href='#collapse_metas_escolar' aria-expanded='false' aria-controls='collapse_metas_escolar'>
-                                        Transporte escolar (segmentos M1 a M3)
+                                        <span class="icon ico1 zoom">
+                                            <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
+                                        </span>
                                     </a>
                                 </h4>
                             </div>
@@ -1754,6 +1805,11 @@
 
                     </div>
                 </div>
+                <style>
+                    #tab-escolar-3 .video-1{
+                        padding: 16px 64px;
+                    }
+                </style>
                 <div id="tab-escolar-3" class="tab-pane fade">
 
                     <div class="cpnt cpnt-head cpnt-head-escolar cpnt-head-escolar-clave">
@@ -1764,12 +1820,11 @@
                         <div class="group-data">
                             <h4 class="title title-type-3">Estrategia de conocimiento en la movilidad escolar eléctrica.</h4>
                             <p class="paragraph ph-1">A cargo de las Secretarías de Movilidad y Ambiente. Se llevarán a cabo mediciones, estudios y sensibilización de las rutas escolares, los cuales permitirán recopilar insumos técnicos, operacionales y ambientales que permitirán fomentar el cambio a vehículos eléctricos en el sector escolar.</p>
-                            <figure>
-                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/escolar_1.png" alt="imagen ">
-                                <figcaption>
-                                    <p>Foto: Secretaría Distrital de Movilidad 2022</p>
-                                </figcaption>
-                            </figure>
+                            <div class="video video-1">
+                                <video controls style="width: 100%;" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/portada_video.jpg">
+                                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/rutas_electricasalta.mp4" type="video/mp4"  preload>
+                                </video>
+                            </div>
                         </div>
                         <div class="group-data">
                             <h4 class="title title-type-3">Incentivos para vehículos cero y bajas emisiones en el transporte escolar.</h4>
@@ -1810,8 +1865,11 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_metas_oficial'>
                                 <h4 class='panel-title'>
+                                    Flota oficial (segmentos M1 y N1)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_metas_oficial' href='#collapse_metas_oficial' aria-expanded='false' aria-controls='collapse_metas_oficial'>
-                                        Flota oficial (segmentos M1 y N1)
+                                        <span class="icon ico1 zoom">
+                                            <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
+                                        </span>
                                     </a>
                                 </h4>
                             </div>
@@ -2208,8 +2266,11 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_metas_publico'>
                                 <h4 class='panel-title'>
+                                    Transporte público (segmentos M2 y M3)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_metas_publico' href='#collapse_metas_publico' aria-expanded='false' aria-controls='collapse_metas_publico'>
-                                        Transporte público (segmentos M2 y M3)
+                                        <span class="icon ico1 zoom">
+                                            <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
+                                        </span>
                                     </a>
                                 </h4>
                             </div>
@@ -2310,8 +2371,11 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_metas_taxi'>
                                 <h4 class='panel-title'>
+                                    Flota de taxis (segmentos M1 y N1)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion_metas_taxi' href='#collapse_metas_taxi' aria-expanded='false' aria-controls='collapse_metas_taxi'>
-                                        Flota de taxis (segmentos M1 y N1)
+                                        <span class="icon ico1 zoom">
+                                            <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
+                                        </span>
                                     </a>
                                 </h4>
                             </div>

@@ -129,7 +129,9 @@
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                </a>
             </div>
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
@@ -516,26 +518,26 @@
                         <th>
                             <div class='table-imagen-v'>
                                 <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/vehiculo.png' alt='icono vehículo vista lateral' title='icono vehículo vista lateral'>
-                                <span class="text-table">Vehículo Convencional</span>
+                                <span class="text-table">Vehículo convencional</span>
                             </div>
                         </th>
                         <th>
                             <div class='table-imagen-v'>
                                 <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/hibrido.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
-                                <span class="text-table">Vehículo Híbridos</span>
+                                <span class="text-table">Vehículo híbrido</span>
                             </div>
 
                         </th>
                         <th>
                             <div class='table-imagen-v'>
                                 <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/hibrido.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
-                                <span class="text-table">Vehículo Híbridos <br> <sub>Eléctrico Enchufable</sub></span>
+                                <span class="text-table">Vehículo híbrido <br> <sub>eléctrico enchufable</sub></span>
                             </div>
                         </th>
                         <th>
                             <div class='table-imagen-v'>
                                 <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/electrico.png' alt='icono vehículo vista frontal' title='icono vehículo vista frontal'>
-                                <span class="text-table">Vehículo Eléctrico <br> <sub>100%</sub></span>
+                                <span class="text-table">Vehículo eléctrico <br> <sub>100%</sub></span>
                             </div>
                         </th>
                     </tr>
@@ -552,13 +554,13 @@
                         <td>
                             <div class='table-imagen-v'>
                                 <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_gas.png' alt='icono gasolinera' title='icono gasolinera'>
-                                <span class="text-table2">Gasolina, Biocombustible</span>
+                                <span class="text-table2">Gasolina, biocombustible</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
                                 <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_gas.png' alt='icono gasolinera' title='icono gasolinera'>
-                                <span class="text-table2">Gasolina, Biocombustible</span>
+                                <span class="text-table2">Gasolina, biocombustible</span>
                             </div>
                         </td>
                         <td>
@@ -568,13 +570,13 @@
                                     <span class="text-table">+</span>
                                     <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_electrica.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
                                 </div>
-                                <span class="text-table2">Gasolina, Biocombustible, Energía Eléctrica</span>
+                                <span class="text-table2">Gasolina, biocombustible, energía eléctrica</span>
                             </div>
                         </td>
                         <td>
                             <div class='table-imagen-v'>
                                 <img width="60px" src='https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/estacion_electrica.png' alt='icono estación eléctrica' title='icono estación eléctrica'>
-                                <span class="text-table2">Energía Eléctrica</span>
+                                <span class="text-table2">Energía eléctrica</span>
                             </div>
                         </td>
                     </tr>

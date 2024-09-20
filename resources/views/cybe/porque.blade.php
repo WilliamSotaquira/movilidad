@@ -12,11 +12,10 @@
 <!-- Set tecnologias -->
 <div class="set-wrapper tecnologias">
 
-
     <!-- bloque box header-->
     <style>
         .set-wrapper .box-header {
-            background: #bdcf00;
+            background: #BED000FF;
             background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/cybe_portada_2.png");
             background-size: cover;
             background-repeat: no-repeat;
@@ -50,10 +49,10 @@
             width: 100%;
             max-width: 260px;
             margin: 0 auto;
-            background-color: #bdcf00;
+            background-color: #BED000FF;
             padding: 32px;
-            -webkit-box-shadow: 0px 0px 10px 3px #bdcf0025;
-            box-shadow: 0px 0px 10px 3px #bdcf0025;
+            -webkit-box-shadow: 0px 0px 10px 3px #BED000FF25;
+            box-shadow: 0px 0px 10px 3px #BED000FF25;
             margin-bottom: 12px;
         }
 
@@ -72,7 +71,7 @@
 
         /* Reglas Navbar */
         .set-wrapper .navbar {
-            background: #bdcf00;
+            background: #BED000FF;
             border: none;
             border-radius: 0;
             font-family: "Montserrat", sans-serif !important;
@@ -95,7 +94,7 @@
         }
 
         .set-wrapper .navbar-nav>li {
-            background: #bdcf00;
+            background: #BED000FF;
             color: #3d4a1c;
         }
 
@@ -130,12 +129,13 @@
         </div>
         <div class="cmpnt cmpnt-logo-ppal">
             <div class="logo logo-ppal">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">
+                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-08-2024/logo_cbe_2024.png" alt="logo Movilidad de Cero y Bajas Emisiones">
+                </a>
             </div>
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-    <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
 
@@ -164,6 +164,8 @@
             </div>
         </div>
     </nav>
+
+
 
     <!-- bloque box video-->
     <style>
@@ -236,7 +238,7 @@
             font-weight: 600;
             text-align: center;
             line-height: 1;
-            color: #BED000FF;
+            color: #BED000;
             margin: 0;
             padding: 0;
             text-transform: uppercase;
@@ -300,9 +302,8 @@
                 grid-template-rows: auto;
                 grid-template-areas:
                     'titulo titulo'
-                    'parrafo cifra1'
-                    'parrafo cifra2';
-                padding: 1.5rem 1.5rem 1.5rem 3rem;
+                    'parrafo parrafo';
+                padding: 3rem;
                 background-color: rgba(77, 84, 31, 1);
             }
         }
@@ -399,14 +400,6 @@
                 color: #ffffff;
             }
         }
-
-        .box-intro-tech .cmpnt-cifra-1 {
-            grid-area: cifra1;
-        }
-
-        .box-intro-tech .cmpnt-cifra-2 {
-            grid-area: cifra2;
-        }
     </style>
 
     <div class="box box-intro-tech">
@@ -414,17 +407,9 @@
             <h3 class="title title-type-tech-1 title-id-1">¿Por qué necesitamos una movilidad limpia?</h3>
         </div>
         <div class="cmpnt cmpnt-cifras">
-            <p class="paragraph ph1">Según la Organización Mundial de la Salud (OMS), en el mundo, cerca de <strong>7 millones</strong> de personas mueren cada año por exposición al aire contaminado. En Bogotá más de <strong>2.000 muertes</strong> al año son atribuidas a esta misma causa.</p>
-            <p class="paragraph ph2">Teniendo en cuenta que el <strong>65% de los viajes</strong> que se realizan en Bogotá se hacen en modos motorizados <strong>principalmente de combustión como gasolina, diésel, gas natural vehícular, entre otros</strong> los cuales emiten contaminantes locales como el material particulado causante de la <strong>contaminación del aire</strong> y gases de efecto invernadero causantes del <strong>cambio climático.</strong></p>
+            <p class="paragraph ph1">Según la Organización Mundial de la Salud (OMS), en el mundo, cerca de <strong>7 millones</strong> de personas mueren cada año por exposición al aire contaminado. En Bogotá más de <strong>2.000 muertes al año</strong> son atribuidas a esta misma causa.</p>
+            <p class="paragraph ph2">Teniendo en cuenta que el <strong>65% de los viajes</strong> que se realizan en Bogotá se hacen en modos motorizados <strong>principalmente emplean gasolina, diésel, gas natural vehícular, entre otros.</strong> Los cuales emiten contaminantes locales como el material particulado causante de la <strong>contaminación del aire</strong> y gases de efecto invernadero causantes del <strong>cambio climático.</strong></p>
             <p class="paragraph ph3">Es necesario implementar estrategias de <strong>movilidad multimodal, incluyente y sostenible</strong> que contribuyan a la mejora de la <strong>calidad de vida de la ciudadanía.</strong></p>
-        </div>
-        <div class="cmpnt-cifra cmpnt-cifra-1">
-            <span>22%</span>
-            <p>de las emisiones básicas de material particulado PM2.5. Fuente: Inventario de emisiones. Secretaría de Ambiente 2021.</p>
-        </div>
-        <div class="cmpnt-cifra cmpnt-cifra-2">
-            <span>40%</span>
-            <p>de los gases de efecto invernadero generado en la sociedad.</p>
         </div>
     </div>
 
@@ -467,20 +452,20 @@
         }
 
         .box-carousel .carousel-control {
-            color: #ffe145;
+            color: #BED000;
             opacity: 1;
+            width: 10%;
         }
 
         .box-carousel .carousel-control:focus,
         .box-carousel .carousel-control:hover {
-            color: #404040;
-            opacity: 0.7;
+            color: #4d541f;
+            opacity: 0.9;
         }
 
         .box-carousel .carousel-indicators {
             bottom: 0px !important;
             position: absolute;
-            bottom: 8px;
             left: calc(50% - 70px);
             z-index: 15;
             width: 140px;
@@ -491,19 +476,18 @@
             padding: 0 8px;
             background: #fafafa99;
             border-radius: 15px;
-            /* border: solid 1px #40404080; */
             box-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
         }
 
         .box-carousel .carousel-indicators li {
-            background-color: #404040;
-            border-color: #40404050;
+            background-color: #4d541f;
+            border-color: #4d541f;
             box-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
         }
 
         .box-carousel .carousel-indicators .active {
-            background-color: #ffe145;
-            border-color: #A6B517;
+            background-color: #BED000;
+            border-color: #BED000;
         }
 
         .carousel-control .glyphicon-chevron-left,
@@ -519,13 +503,13 @@
             box-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
         }
 
-        .box-carousel-tech .item {
-            position: relative;
+        .box-carousel-control .item {
+            max-height: 600px;
         }
 
-        .box-carousel-tech .item .enfasis .enfasis-carousel {
+        .box-carousel-control .item .enfasis .enfasis-carousel {
             font-family: 'Montserrat', sans-serif;
-            color: #ffe145;
+            color: #BED000;
             font-size: 24px;
             font-weight: 700;
             line-height: 1.5;
@@ -534,27 +518,31 @@
             text-align: center;
         }
 
-        .box-carousel-tech .item .enfasis {
+        .box-carousel-control .item .enfasis {
             position: relative;
             bottom: 0px;
             left: 0px;
             right: 0px;
-            background: #25252590;
+            background: #4d541f;
             color: #ffffff;
             padding: 1em;
             margin-bottom: 40px;
         }
 
         @media(min-width:768px) {
-            .box-carousel-tech .item .enfasis {
-                position: absolute;
-                bottom: 30px;
-                left: 30px;
+            .box-carousel-control .item .enfasis {
+                /* position: absolute; */
+                bottom: 250px;
+                left: 120px;
                 width: 400px;
-                background: #25252590;
+                background: #4d541f90;
                 color: #ffffff;
-                padding: 1em;
+                padding: 16px;
                 border-radius: 6px;
+            }
+
+            .box-carousel-control .carousel-indicators{
+                bottom: 40px !important;
             }
 
         }
@@ -562,46 +550,65 @@
 
     <div class="box-carousel box-carousel-tech">
 
-        <div id="carousel-tech" class="carousel slide" data-ride="carousel-tech">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#carousel-tech" data-slide-to="0" class="active"></li>
-                <li data-target="#carousel-tech" data-slide-to="1"></li>
-                <!-- <li data-target="#carousel-tech" data-slide-to="2"></li>
-                <li data-target="#carousel-tech" data-slide-to="3"></li>
-                <li data-target="#carousel-tech" data-slide-to="4"></li> -->
-            </ol>
+        <!-- Component Box Carousel control-->
+        <div class="box-carousel box-carousel-control">
 
+            <div id="carousel-control" class="carousel slide" data-ride="carousel-control">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-control" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-control" data-slide-to="1"></li>
+                    <li data-target="#carousel-control" data-slide-to="2"></li>
+                </ol>
 
-
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner" role="listbox">
-
-                <div class="item active">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/contaminacion.png" class="img-responsive w-100" alt="Foto de cielo de Bogotá contaminado" title="Image: Foto de cielo de Bogotá contaminado">
-                    <div class="enfasis">
-                        <span class="enfasis-carousel">Contaminación del aire</span>
-                        <p>En Bogota se emiten 4628 t de material particulado 2.5 al año, de las cuales el 31 % son debido a la combustión en vehículos en carretera en Bogotá. Fuente: Inventario de Emisiones de la Secretaría de Ambiente - 2022</p>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/incendio.png" class="img-responsive w-100" alt="Foto de cielo de Bogotá contaminado" title="Image: Foto de cielo de Bogotá contaminado">
+                        <div class="enfasis">
+                            <span class="enfasis-carousel">Cambio climático</span>
+                            <p>40 % de las emisiones efecto invernadero son debido al sector transporte en Bogotá. Fuente: Inventario de Emisiones de la Secretaría de Ambiente - 2022.</p>
+                        </div>
                     </div>
-                </div>
-                <div class="item">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/incendio.png" class="img-responsive w-100" alt="Foto de cielo de Bogotá contaminado" title="Image: Foto de cielo de Bogotá contaminado">
-                    <div class="enfasis">
-                        <span class="enfasis-carousel">Cambio climático</span>
-                        <p>40 % de las emisiones efecto invernadero son debido al sector transporte en Bogotá. Fuente: Inventario de Emisiones de la Secretaría de Ambiente - 2022</p>
+                    <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/09-09-2024/contaminacion3_a.png" class="img-responsive w-100" alt="Foto de cielo de Bogotá contaminado" title="Image: Foto de cielo de Bogotá contaminado">
+                        <div class="enfasis">
+                            <span class="enfasis-carousel">Contaminación del aire</span>
+                            <p>En Bogotá se emiten 4628 t de material particulado 2.5 al año, de las cuales el 31 % son debido a la combustión en vehículos en carretera en Bogotá. Fuente: Inventario de Emisiones de la Secretaría de Ambiente - 2022.</p>
+                        </div>
                     </div>
+                    <div class="item">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/contaminacion_2.png" class="img-responsive w-100" alt="Foto de cielo de Bogotá contaminado" title="Image: Foto de cielo de Bogotá contaminado">
+                        <div class="enfasis">
+                            <span class="enfasis-carousel">Contaminación del aire</span>
+                            <p>22% de las emisiones básicas de material particulado PM2.5. Fuente: Inventario de emisiones. Secretaría de Ambiente 2021.</p>
+                        </div>
+                    </div>
+
                 </div>
+
+                <!-- Controls -->
+                <a class="left carousel-control" href="#carousel-control" role="button" data-slide="prev" title="Anterior">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel-control" role="button" data-slide="next" title="Siguiente">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
 
-            <!-- Controls -->
-            <a class="left carousel-control" href="#carousel-tech" role="button" data-slide="prev" title="Anterior">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#carousel-tech" role="button" data-slide="next" title="Siguiente">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
+            <style>
+                .set-wrapper .box-carousel-control {
+                    grid-area: box-carousel-control;
+                    margin-bottom: 48px;
+                    font-size: 16px;
+                }
+            </style>
+
+
+
+
         </div>
 
     </div>
