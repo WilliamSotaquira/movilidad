@@ -35,6 +35,16 @@
                     </picture>
                 </div>
 
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/cierres_obras_metro">
+                        <picture>
+                            <source media="(min-width: 465px)"
+                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_950x300.png">
+                            <img alt="Ir a cierre estación Transmilenio calle 26" class="img-responsive w-100"
+                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_340x300.png"
+                                title="Image: cierre estación Transmilenio calle 26">
+                        </picture>
+                    </a></div>
+
                 <div class="item">
                     <picture>
                         <source media="(min-width: 465px)"
@@ -114,16 +124,6 @@
                             <img alt="Ir a Plan de Desarrollo Distrital" class="img-responsive w-100"
                                 src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-07-2024/banners_aprobado_el_pdd_bogota_camina_segura_340x300.png"
                                 title="Image: Plan de Desarrollo Distrital">
-                        </picture>
-                    </a></div>
-
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/cierres_obras_metro">
-                        <picture>
-                            <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_950x300.png">
-                            <img alt="Ir a cierre estación Transmilenio calle 26" class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_340x300.png"
-                                title="Image: cierre estación Transmilenio calle 26">
                         </picture>
                     </a></div>
 
