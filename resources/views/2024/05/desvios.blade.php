@@ -96,7 +96,7 @@
             content: "\e114";
         }
 
-        .b3 .img-maps {
+        .desvios .img-maps {
             margin: 24px;
             padding: 12px;
             max-width: 700px;
@@ -305,6 +305,41 @@
             <!-- collapse-desvios -->
             <div class='panel-group' id='accordion_desvios' role='tablist ' aria-multiselectable='true'>
 
+                <!-- collapse_3 -->
+                <div class='panel panel-default'>
+                    <div class='panel-heading' role='tab' id='heading_3'>
+                        <h4 class='panel-title'>
+                            <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse_3' aria-expanded='false' aria-controls='collapse_3'>
+                                Entre calles 57 y 67
+                            </a>
+                        </h4>
+                    </div>
+                    <div id='collapse_3' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_3' aria-expanded='false'>
+                        <div class='panel-body'>
+                            <div class='body-collapse_3'>
+                                <div class="imagen img-maps">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2024/p1_cierre_av_caracas_63_-_mapas_d_norte-sur_1.jpg" alt="desvios norte-sur" title="desvios norte-sur">
+                                </div>
+                                <div class="imagen img-maps">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2024/p5_cierre_av_caracas_63_-_mapas_d_oriente-occidente_1.jpg" alt="desvio norte-sur" title="desvio norte-sur">
+                                </div>
+                                <div class="imagen img-maps">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2024/p6_cierre_av_caracas_63_-_mapas_d_todos_1.jpg" alt="desvio norte-sur" title="desvio norte-sur">
+                                </div>
+                                <div class="imagen img-maps">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2024/p2_cierre_av_caracas_63_-_mapas_d_sur-norte_1.jpg" alt="desvio sur norte" title="desvio sur norte">
+                                </div>
+                                <div class="imagen img-maps">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2024/p3_cierre_av_caracas_63_-_mapas_d_oriente-norte_1.jpg" alt="desvio oriente-norte" title="desvio oriente-norte">
+                                </div>
+                                <div class="imagen img-maps">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-09-2024/p4_cierre_av_caracas_63_-_mapas_d_occidente-norte_2.jpg" alt="desvio occidente-norte" title="desvio occidente-norte">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- collapse 3 -->
                 <div class='panel panel-default'>
                     <div class='panel-heading' role='tab' id='heading-3'>
@@ -314,7 +349,7 @@
                             </a>
                         </h4>
                     </div>
-                    <div id='collapse-3' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading-3' aria-expanded='false'>
+                    <div id='collapse-3' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-3' aria-expanded='false'>
                         <div class='panel-body'>
                             <div class='body-collapse-3'>
 
