@@ -408,8 +408,8 @@
         </div>
         <div class="cmpnt cmpnt-cifras">
             <p class="paragraph ph1">Según la Organización Mundial de la Salud (OMS), en el mundo, cerca de <strong>7 millones</strong> de personas mueren cada año por exposición al aire contaminado. En Bogotá más de <strong>2.000 muertes al año</strong> son atribuidas a esta misma causa.</p>
-            <p class="paragraph ph2">Teniendo en cuenta que el <strong>65% de los viajes</strong> que se realizan en Bogotá se hacen en modos motorizados <strong>principalmente emplean gasolina, diésel, gas natural vehícular, entre otros.</strong> Los cuales emiten contaminantes locales como el material particulado causante de la <strong>contaminación del aire</strong> y gases de efecto invernadero causantes del <strong>cambio climático.</strong></p>
-            <p class="paragraph ph3">Es necesario implementar estrategias de <strong>movilidad multimodal, incluyente y sostenible</strong> que contribuyan a la mejora de la <strong>calidad de vida de la ciudadanía.</strong></p>
+            <p class="paragraph ph2">En Bogotá, el <b>65% de los viajes</b> se realizan en medios de transporte motorizados que utilizan <b>combustibles como gasolina, diésel y gas natural vehicular.</b> Estos vehículos son responsables de la emisión de contaminantes locales, como el material particulado que contribuye a la contaminación del aire, así como de gases de efecto invernadero que aceleran el cambio climático.</p>
+            <p class="paragraph ph3">Ante esta realidad, es fundamental adoptar estrategias de <b>movilidad multimodal, inclusiva y sostenible</b> que mejoren la calidad de vida de los ciudadanos y reduzcan el impacto ambiental. Apostar por soluciones que integren <b>diversos modos de transporte</b> contribuye a un futuro más limpio y saludable para Bogotá.</p>
         </div>
     </div>
 
@@ -574,14 +574,14 @@
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/09-09-2024/contaminacion3_a.png" class="img-responsive w-100" alt="Foto de cielo de Bogotá contaminado" title="Image: Foto de cielo de Bogotá contaminado">
                         <div class="enfasis">
                             <span class="enfasis-carousel">Contaminación del aire</span>
-                            <p>En Bogotá se emiten 4628 t de material particulado 2.5 al año, de las cuales el 31 % son debido a la combustión en vehículos en carretera en Bogotá. Fuente: Inventario de Emisiones de la Secretaría de Ambiente - 2022.</p>
+                            <p>En Bogotá se emiten al año 4628 t de material particulado PM 2.5 al año, de las cuales el 31 % son debido a la combustión de vehículos en Bogotá. Fuente: Inventario de Emisiones de la Secretaría de Ambiente - 2022.</p>
                         </div>
                     </div>
                     <div class="item">
                         <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/contaminacion_2.png" class="img-responsive w-100" alt="Foto de cielo de Bogotá contaminado" title="Image: Foto de cielo de Bogotá contaminado">
                         <div class="enfasis">
                             <span class="enfasis-carousel">Contaminación del aire</span>
-                            <p>22% de las emisiones básicas de material particulado PM2.5. Fuente: Inventario de emisiones. Secretaría de Ambiente 2021.</p>
+                            <p>22% de las emisiones básicas de material particulado PM2.5. son producidas por fuentes asociadas al transporte. Fuente: Inventario de emisiones. Secretaría de Ambiente 2021.</p>
                         </div>
                     </div>
 

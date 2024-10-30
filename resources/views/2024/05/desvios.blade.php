@@ -25,8 +25,8 @@
     <div class="box b1">
         <div class="cpnt cpnt-head">
             <picture>
-                <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/banner_950x300.png">
-                <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/banner_340x300.png" class="img-responsive w-100" alt="ancabezado banner desvios por obras del metro" title="Image: ancabezado banner desvios por obras del metro">
+                <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-10-2024/solicitud_piezas_metro_950x300.png">
+                <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-10-2024/1.png" class="img-responsive w-100" alt="ancabezado banner desvios por obras del metro" title="Image: ancabezado banner desvios por obras del metro">
             </picture>
         </div>
     </div>
@@ -50,7 +50,7 @@
     <div class="box b2">
         <div class="cpnt cpnt-1">
             <p class="paragraph ph-type-1 ph-id-1">
-                Teniendo en cuenta los diferentes cierres que se adelantan en la Avenida Caracas para darle paso a la construcción de la Primera Línea del Metro de Bogotá, a continuación se encuentran las opciones de desvíos para movilizarse por esta zona de la ciudad:
+                Teniendo en cuenta los diferentes cierres que se adelantan en la ciudad para darle paso a la construcción de la Línea 1 del Metro de Bogotá, a continuación se encuentran las opciones de desvíos para movilizarse por esta zona de la ciudad:
             </p>
         </div>
     </div>
@@ -298,6 +298,9 @@
                 margin: 32px 84px;
             }
         }
+        .b3 #collapse-4 .img-1 img{
+            margin: auto;
+        }
     </style>
     <div class="box b3">
         <div class="cpnt cpnt-2">
@@ -305,16 +308,41 @@
             <!-- collapse-desvios -->
             <div class='panel-group' id='accordion_desvios' role='tablist ' aria-multiselectable='true'>
 
+                <!-- collapse 4 -->
+                <div class='panel panel-default'>
+                    <div class='panel-heading' role='tab' id='heading-4'>
+                        <h4 class='panel-title'>
+                            <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse-4' aria-expanded='false' aria-controls='collapse-4'>
+                                Avenida Primero de Mayo, entre carrera 50 y Autopista Sur
+                            </a>
+                        </h4>
+                    </div>
+                    <div id='collapse-4' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading-4' aria-expanded='false'>
+                        <div class='panel-body'>
+                            <div class='body-collapse-4'>
+                                <div class="imagen img-1">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-10-2024/1m_1_copy_1.png" alt="Mapa de cierre" title="Mapa de cierre">
+                                </div>
+                                <br>
+                                <div class="imagen img-2">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-10-2024/1m_2_copy_1.png" alt="Información del cierre" title="Información del cierre">
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- collapse_3 -->
                 <div class='panel panel-default'>
                     <div class='panel-heading' role='tab' id='heading_3'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse_3' aria-expanded='false' aria-controls='collapse_3'>
-                                Entre calles 57 y 67
+                               Avenida Caracas entre calles 57 y 67
                             </a>
                         </h4>
                     </div>
-                    <div id='collapse_3' class='panel-collapse collapse in' role='tabpanel' aria-labelledby='heading_3' aria-expanded='false'>
+                    <div id='collapse_3' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_3' aria-expanded='false'>
                         <div class='panel-body'>
                             <div class='body-collapse_3'>
                                 <div class="imagen img-maps">
@@ -345,7 +373,7 @@
                     <div class='panel-heading' role='tab' id='heading-3'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse-3' aria-expanded='false' aria-controls='collapse-3'>
-                                Entre calles 45 y 53
+                               Avenida Caracas entre calles 45 y 53
                             </a>
                         </h4>
                     </div>
@@ -353,7 +381,7 @@
                         <div class='panel-body'>
                             <div class='body-collapse-3'>
 
-                                <p class="paragraph ph1">Por las obras de la Primera Línea del Metro de Bogotá, a partir del próximo 05 de julio, los carriles para vehículos particulares de la Avenida Caracas, entre calles 45 y 53, estarán cerrados.</p>
+                                <p class="paragraph ph1">Por las obras de la Primera Línea del Metro de Bogotá, a partir del próximo 05 de julio, los carriles para vehículos particulares de la Avenida Caracas,Avenida Caracas entre calles 45 y 53, estarán cerrados.</p>
                                 <p class="paragraph ph1">Ten en cuenta los siguientes desvíos para que te puedas movilizar por esta zona de la ciudad:</p>
                                 <div class="sub">
                                     <span>
@@ -432,14 +460,14 @@
                     <div class='panel-heading' role='tab' id='heading_2'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse_2' aria-expanded='false' aria-controls='collapse_2'>
-                                Entre calles 26 y 32
+                               Avenida Caracas entre calles 26 y 32
                             </a>
                         </h4>
                     </div>
                     <div id='collapse_2' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_2' aria-expanded='false'>
                         <div class='panel-body'>
 
-                            <p class="paragraph">Conoce el cierre de los carriles para vehículos particulares en la Av. Caracas entre las calles 26 y 32 así como los desvíos para movilizarte.</p>
+                            <p class="paragraph">Conoce el cierre de los carriles para vehículos particulares en la Av. CaracasAvenida Caracas entre las calles 26 y 32 así como los desvíos para movilizarte.</p>
                             <div class="video video-1 video-16by9">
                                 <div class="embed-responsive embed-responsive-16by9">
                                     <iframe width='100%' src='https://www.youtube.com/embed/Z4fnx52C-kE?si=2EKyHsfTM2KQWmDe' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
@@ -511,7 +539,7 @@
                     <div class='panel-heading' role='tab' id='heading_1'>
                         <h4 class='panel-title'>
                             <a role='button' data-toggle='collapse' data-parent='#accordion_desvios' href='#collapse_1' aria-expanded='false' aria-controls='collapse_1'>
-                                Entre calles 69 y 77
+                               Avenida Caracas entre calles 69 y 77
                             </a>
                         </h4>
                     </div>
@@ -520,12 +548,12 @@
                             <div class='g1'>
                                 <div class="img-maps">
                                     <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa1.png">
-                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa1.png" class="img-responsive w-100" alt="Mapa 1 cierres entre calles 69 y 77" title="Image: Mapa 1 cierres entre calles 69 y 77">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa1.png" class="img-responsive w-100" alt="Mapa 1 cierresAvenida Caracas entre calles 69 y 77" title="Image: Mapa 1 cierresAvenida Caracas entre calles 69 y 77">
                                     </a>
                                 </div>
                                 <div class="img-maps">
                                     <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa2.png">
-                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa2.png" class="img-responsive w-100" alt="Mapa 2 cierres entre calles 69 y 77" title="Image: Mapa 1 cierres entre calles 69 y 77">
+                                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-05-2024/mapa2.png" class="img-responsive w-100" alt="Mapa 2 cierresAvenida Caracas entre calles 69 y 77" title="Image: Mapa 1 cierres entre calles 69 y 77">
                                     </a>
                                 </div>
                             </div>

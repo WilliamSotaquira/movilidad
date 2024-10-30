@@ -42,8 +42,8 @@
         .paragraph-desc {
             font-family: 'Montserrat', sans-serif;
             font-optical-sizing: auto;
-            font-size: 16px;
-            font-weight: 700;
+            font-size: 18px;
+            font-weight: 500;
             text-align: center;
             line-height: 1.5;
             color: rgba(77, 84, 31, 1);
@@ -55,7 +55,7 @@
     <style>
         .set-wrapper .bh {
             grid-area: bh;
-            background-color: #1b1d39;
+            background-color: #4d541f;
             background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/parqueo_landing_1.png");
             background-size: cover;
             background-repeat: no-repeat;
@@ -64,13 +64,14 @@
         }
 
         .set-wrapper .head {
-            background-color: #1b1d39;
+            background-color: #4d541f;
             opacity: 0.9;
             padding: 32px;
         }
 
         .bh .cpnt-title-ppal {
-            margin-bottom: 32px;
+            margin-top: 32px;
+            margin-bottom: 48px;
         }
 
         .bh .cpnt-title-ppal .enf {
@@ -81,7 +82,7 @@
             font-weight: bold;
             text-align: center;
             line-height: 1.2;
-            /* color: #bdcf44; */
+            /* color: #BED000; */
             color: #ffffff;
             margin-bottom: 8px;
 
@@ -121,8 +122,8 @@
             font-weight: bold;
             text-align: center;
             line-height: 1;
-            color: #1b1d39;
-            background-color: #bdcf44;
+            color: #4d541f;
+            background-color: #BED000;
             border-radius: 50px;
 
             height: auto;
@@ -151,7 +152,7 @@
         }
 
         .bh .icon1 {
-            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/coche_a.png");
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/coche_nfb.png");
             height: 50px;
             width: 50px;
             min-width: 50px;
@@ -163,11 +164,11 @@
         }
 
         .bh .btn-anchor:hover .icon1 {
-            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/coche_v.png");
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/coche_cfo.png");
         }
 
         .bh .icon2 {
-            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/choque_a.png");
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/accidente_nfb.png");
             height: 50px;
             width: 50px;
             min-width: 50px;
@@ -179,18 +180,18 @@
         }
 
         .bh .btn-anchor:hover .icon2 {
-            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/choque_v.png");
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/accidente_cfo.png");
         }
     </style>
     <div class="box bh">
         <div class="head">
             <div class="cpnt cpnt-title-ppal">
-                <span class='enf enf1'>Si tu vehículo fue inmovilizado te indicamos qué hacer</span>
-                <h2 class="title title-ppal">Grúas y Parqueaderos</h2>
+                <span class='enf enf1'>Inmovilización y Salida de Patios</span>
+                <h2 class="title title-ppal">Si tu vehículo fue inmovilizado, te indicamos qué hacer</h2>
             </div>
             <div class="cpnt cpnt-botones">
                 <a class="btn btn-anchor btn-anchor-1" href="#box-infraccion">Inmovilización por infracción a las normas de tránsito <span class="icon1"></span></a>
-                <a class="btn btn-anchor btn-anchor-2" href="#box-siniestro">Inmovilizado por siniestro vial <span class="icon2"></span></a>
+                <a class="btn btn-anchor btn-anchor-2" href="#box-siniestro">Inmovilización por siniestro vial <span class="icon2"></span></a>
             </div>
         </div>
     </div>
@@ -214,7 +215,7 @@
             font-weight: bold;
             text-align: center;
             line-height: 1.2;
-            color: #1b1d39;
+            color: #4d541f;
             margin-bottom: 8px;
         }
 
@@ -226,7 +227,7 @@
             font-weight: normal;
             text-align: center;
             line-height: 1;
-            color: #1b1d39;
+            color: #4d541f;
             margin: 32px;
         }
 
@@ -235,7 +236,6 @@
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
             grid-template-rows: auto;
-            gap: 16px;
         }
 
         @media(min-width:768px) {
@@ -243,8 +243,12 @@
                 display: grid;
                 grid-auto-flow: dense;
                 grid-template-columns: 40% 60%;
-                gap: 32px;
             }
+
+        }
+
+        .b1 .cpnt-2 .img1 {
+            border-radius: 8px;
 
         }
 
@@ -254,7 +258,12 @@
             width: 100%;
             height: auto;
             object-fit: cover;
-            border-radius: 8px;
+            padding-bottom: 16px;
+
+            @media(min-width:768px) {
+                padding-right: 32px;
+                padding-bottom: 0px;
+            }
         }
 
         .b1 .cpnt-2 .collapse-infraccion {
@@ -262,30 +271,40 @@
             grid-auto-flow: dense;
             grid-template-columns: 1fr;
             grid-template-rows: auto;
-            gap: 16px;
-            padding: 16px;
+            padding-right: 0px;
+            padding-left: 0px;
             border-radius: 8px;
             box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-            background-color: #f5f5f5;
+            background-color: #e9e9e9;
+
+            @media(min-width:768px) {
+                padding-right: 32px;
+                padding-left: 32px;
+            }
         }
 
         #accordion-infraccion {
             display: flex;
             flex-direction: column;
-            justify-content: center;
+            justify-content: space-evenly;
+            row-gap: 8px;
         }
 
         .b1 .glyphicon-chevron-right::before {
-            color: #1b1d39 !important;
+            color: #4d541f !important;
         }
 
         .b1 .glyphicon-chevron-left::before {
-            color: #1b1d39 !important;
+            color: #4d541f !important;
         }
 
         .b1 .panel,
         .b1 .panel-default {
             border-radius: 25px !important;
+        }
+
+        .b1 .panel-group {
+            margin-bottom: 0px;
         }
 
         .b1 .panel-group .panel-heading+.panel-collapse>.list-group,
@@ -294,8 +313,8 @@
         }
 
         .b1 .panel-heading {
-            border-color: #bdcf44 !important;
-            background-color: #bdcf44 !important;
+            border-color: #BED000 !important;
+            background-color: #BED000 !important;
             background-image: none !important;
             height: 50px;
             display: flex;
@@ -310,7 +329,7 @@
 
         .b1 .panel-heading .panel-title a {
             font-family: 'Montserrat', sans-serif;
-            color: #1b1d39 !important;
+            color: #4d541f !important;
             font-size: 16px;
             font-weight: 600;
         }
@@ -319,7 +338,7 @@
             font-family: 'Glyphicons Halflings';
             content: "\e080";
             float: right;
-            color: #1b1d39;
+            color: #4d541f;
             font-size: 18px;
             margin-left: 12px;
         }
@@ -371,10 +390,10 @@
                             <div class='panel-body'>
                                 <div class='body-collapse-menor'>
                                     <ol>
-                                        <li><b>Valida</b> aquí si tu vehículo se encuentra inmovilizado: <a href="https://consultas.transitobogota.gov.co:8010/publico/index3.php">https://consultas.transitobogota.gov.co:8010/publico/index3.php</a></li>
-                                        <li><b>Agenda tu cita</b> de Salida de Patios en <a href="https://www.ventanillamovilidad.com.co/">https://www.ventanillamovilidad.com.co/</a> o recibe más información en la línea (601) – 364 9400, opción 2. También puedes agendar la cita en <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/">Mi Movilidad a un Clic</a>.</li>
+                                        <li><b>Valida</b> aquí si tu vehículo se encuentra inmovilizado: <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/pages/inmovilizaciones/consulta-vehiculos">https://portalmimovilidad.movilidadbogota.gov.co/#/pages/inmovilizaciones/consulta-vehiculos</a></li>
+                                        <li><b>Agenda tu cita</b> de Salida de Patios en <a href="https://www.ventanillamovilidad.com.co/">https://www.ventanillamovilidad.com.co/</a> o recibe más información en la línea <a href="tel:+576013649400">(601) – 364 9400</a>, opción 2. También puedes agendar la cita en <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/">Mi Movilidad a un Clic</a>.</li>
                                         <li>Asiste a tu cita con los <b>documentos</b> solicitados para el trámite.</li>
-                                        <li>Realiza el <b>pago</b> de la liquidación de patios y grúas en <a href="https://cmovilgyp.com/wliquidacion/">línea</a> o en los puntos autorizados.</li>
+                                        <li>Realiza el <b>pago</b> de la liquidación de patios y grúas <a href="https://cmovilgyp.com/wliquidacion/">en línea</a> o en los puntos autorizados.</li>
                                         <li>Preséntate al patio autorizado Nro 1, con la <b>orden de salida y liquidación</b> cancelada originales.</li>
                                         <li><b>Retira</b> tu vehículo.</li>
                                     </ol>
@@ -397,7 +416,7 @@
                                 <div class='body-collapse-mayor'>
                                     <ol>
                                         <li><b>Acércate</b> al Centro de Servicios de Movilidad en la Calle 13 # 37 -35, para validar en qué patios se encuentra tu vehículo.</li>
-                                        <li><b>Agenda tu cita</b> de Salida de Patios en <a href="https://www.ventanillamovilidad.com.co/">https://www.ventanillamovilidad.com.co/</a> o recibe más información en la línea (601) – 364 9400, opción 2. También puedes agendar la cita en <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/">Mi Movilidad a un Clic.</a></li>
+                                        <li><b>Agenda tu cita</b> de Salida de Patios en <a href="https://www.ventanillamovilidad.com.co/">https://www.ventanillamovilidad.com.co/</a> o recibe más información en la línea <a href="tel:+576013649400">(601) – 364 9400</a>, opción 2. También puedes agendar la cita en <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/">Mi Movilidad a un Clic.</a></li>
                                         <li>Asiste a tu cita con los <b>documentos</b> solicitados para el trámite.</li>
                                         <li>Realiza el <b>pago</b> de la liquidación de patios y grúas en los puntos autorizados.</li>
                                         <li>Preséntate al patio indicado, con la <b>orden de salida y liquidación cancelada</b> originales.</li>
@@ -451,38 +470,34 @@
             font-weight: bold;
             text-align: center;
             line-height: 1.2;
-            color: #1b1d39;
+            color: #4d541f;
             margin-bottom: 8px;
         }
 
 
         .b2 .cpnt-2 {
             margin-top: 48px;
+            max-width: 700px;
+            margin: auto;
         }
 
-        .b2 .cpnt-2 .imagen img {
-            display: block;
-            padding: auto 16px;
-            width: 100%;
-            height: auto;
-            object-fit: cover;
-            border-radius: 8px;
-            -webkit-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.16);
-            box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.16);
+        .b2 .cpnt-2 .video-1 {
+            margin-top: 32px;
+
         }
     </style>
     <div class="box b2">
         <div class="cpnt cpnt-1">
             <h3 class="title title1">Salida de Patios Virtual</h3>
-            <p class="paragraph ph1 paragraph-desc">Ahorra tiempo y saca tu vehículo de los patios de forma virtual. Olvídate de esperar. ¡Haz clic y descubre lo fácil que puede ser!</p>
+            <p class="paragraph ph1 paragraph-desc">Ahorra&nbsp;tiempo&nbsp;y&nbsp;saca&nbsp;tu&nbsp;vehículo&nbsp;de&nbsp;los&nbsp;patios&nbsp;de&nbsp;forma&nbsp;virtual. Olvídate de esperar. ¡Haz&nbsp;clic&nbsp;y&nbsp;descubre&nbsp;lo&nbsp;fácil&nbsp;que&nbsp;puede&nbsp;ser!</p>
         </div>
         <div class="cpnt cpnt-2">
-            <div class="imagen img-1 zoom">
-                <a href="https://b2cprdciudadanos.b2clogin.com/b2cprdciudadanos.onmicrosoft.com/b2c_1a_signinvus/oauth2/v2.0/authorize?client_id=dbf00fe0-455f-4d25-baab-403f2ff4a277&scope=openid%20offline_access%20profile&redirect_uri=https%3A%2F%2Fvus.circulemosdigital.com.co%2F&client-request-id=d2910a3e-552b-48bd-952e-e9382af182e3&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.30.0&client_info=1&code_challenge=4aTiaBPZy7gZc9hmqpdvhRjR7Hmi5XECgt5cZeYeeLw&code_challenge_method=S256&nonce=79328171-a40e-4cd0-8ed3-a8908f6b0be9&state=eyJpZCI6IjE5MzczN2RiLWQyOWMtNGZjMS1iZTQ2LThiOGM0N2YxM2I1NCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/img-parqueo-3.png" alt="Imagen: Salida de patios virtual" title="Imagen: Salida de patios virtual">
-                </a>
+            <div class="video video-1">
+                <video controls style="width: 100%;" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/241021_1920x1080_80.png">
+                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/salida_de_patios_final_1.12_subti_e_inter.mp4" type="video/mp4" preload>
+                    <track label="Español" kind="captions" srclang="es" src="resources/myvideo-es.vtt">
+                </video>
             </div>
-
         </div>
     </div>
 
@@ -501,7 +516,7 @@
             font-weight: bold;
             text-align: center;
             line-height: 1.2;
-            color: #252525;
+            color: #4d541f;
             margin-bottom: 32px;
         }
 
@@ -512,33 +527,49 @@
             justify-content: center;
             align-items: normal;
             align-content: normal;
+            gap: 32px;
+
+            @media(min-width:768px) {
+
+                padding: 42px;
+            }
         }
 
 
         .b3 .cpnt-cards .card {
-            display: block;
-            flex-grow: 0;
-            flex-shrink: 1;
-            flex-basis: auto;
-            align-self: auto;
+            /* display: block;
+        flex-grow: 0;
+        flex-shrink: 1;
+        flex-basis: auto;
+        align-self: auto;
+        text-align: center; */
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
             padding: 16px;
-            margin: 16px;
             width: 280px;
             border-radius: 8px;
             box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
             background-color: #ffffff;
-            text-align: center;
+        }
+
+        @media(min-width:768px) {
+            .b3 .cpnt-cards .card-4 {
+                width: 450px;
+            }
         }
 
         .b3 .cpnt-cards .card:hover {
-            background-color: #bdcf44;
+            background-color: #f5f5f5;
         }
 
         .b3 .cpnt-cards .imagen {
             display: inline-block;
             margin: auto;
             width: 100%;
-            max-width: 200px;
+            max-width: 120px;
         }
 
         .b3 .cpnt-cards .title-card {
@@ -549,19 +580,19 @@
             font-weight: bold;
             text-align: center;
             line-height: 1.25;
-            color: #1b1d39;
+            color: #4d541f;
             margin-bottom: 8px;
         }
 
         .b3 .cpnt-cards .ph-card {
             display: inline-block;
-            font-family: 'Work Sans', sans-serif;
+            font-family: 'Montserrat', sans-serif;
             font-optical-sizing: auto;
             font-size: 15px;
             font-weight: normal;
             text-align: center;
-            line-height: 1.25;
-            color: #1b1d39;
+            line-height: 1.2;
+            color: #4d541f;
 
             overflow-y: auto;
 
@@ -597,8 +628,8 @@
             font-weight: bold;
             text-align: center;
             line-height: 1;
-            color: #1b1d39;
-            background-color: #bdcf44;
+            color: #4d541f;
+            background-color: #BED000;
             border-radius: 50px;
 
             height: auto;
@@ -613,8 +644,8 @@
         }
 
         .b3 .cpnt-boton .btn-download:hover {
-            background-color: #1b1d39;
-            color: #bdcf44;
+            background-color: #4d541f;
+            color: #BED000;
             -webkit-box-shadow: 0px 0px 10px 3px rgba(250, 250, 250, 0.16);
             box-shadow: 0px 0px 10px 3px rgba(250, 250, 250, 0.16);
         }
@@ -644,31 +675,31 @@
         <div class="cpnt cpnt-cards">
 
             <div class="card card-1">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/pare.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_1.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
                 <h4 class="title title-card">1. Inmovilización</h4>
                 <p class="paragraph ph-card">La inmovilización del vehículo consiste en la suspensión temporal de su circulación y solo la ordena la autoridad de tránsito.</p>
             </div>
 
             <div class="card card-2">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/patios.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_2.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
                 <h4 class="title title-card">2. Traslado a Patios</h4>
                 <p class="paragraph ph-card">La Policía de Tránsito o Secretaría Distrital de Movilidad (SDM), solicita al concesionario el servicio de grúa, que se requiere en vía.</p>
             </div>
 
             <div class="card card-3">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/grua.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_3.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
                 <h4 class="title title-card">3. Grúas</h4>
                 <p class="paragraph ph-card">El servicio de grúa se presta para traslado de vehículos que infringen las normas de tránsito, descritas en el Código Nacional de Tránsito y el Manual de Infracciones, accidentes, despeje de vías, carros volcados, orilladas, entre otros.</p>
             </div>
 
             <div class="card card-4">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/patios-camara.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_4.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
                 <h4 class="title title-card">4. Parqueadero (Patio)</h4>
                 <p class="paragraph ph-card">Una vez la grúa hace el traslado a los patios, los vehículos inmovilizados son objeto de un inventario digital de ingreso, donde se detallan sus condiciones y partes y se realiza un video de ingreso. Se toman fotos de apoyo, de los comparendos y de la grúa que trasladó el vehículo.</p>
             </div>
 
             <div class="card card-5">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/retiro-patios.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_5.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
                 <h4 class="title title-card">5. Retiro</h4>
                 <p class="paragraph ph-card">Para el retiro de los vehículos inmovilizados, los propietarios o infractores deben presentarse al patio indicado, con la orden de salida y liquidación cancelada originales.</p>
             </div>
@@ -680,7 +711,7 @@
 
     <!-- box b4 -->
     <style>
-        .set-wrapper .b4 {
+        #box-siniestro {
             grid-area: b4;
             margin-top: 32px;
             background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/parqueo_landing_2.png");
@@ -690,17 +721,14 @@
         }
 
         .fondo2 {
-            background: #1b1d39;
+            background: #4d541f;
             opacity: 0.9;
-        }
-
-        .b4 {
-            background-color: #1c1d39;
+            padding: 8px;
         }
 
         @media(min-width:768px) {
             .fondo2 {
-                padding: 64px;
+                padding: 32px 64px;
             }
         }
 
@@ -726,7 +754,7 @@
             font-weight: normal;
             text-align: center;
             line-height: 1.5;
-            color: #bdcf44;
+            color: rgba(255, 255, 255, 1);
         }
 
         .b4 .cpnt-1 .paragraph {
@@ -734,20 +762,20 @@
         }
 
         .b4 .glyphicon-chevron-right::before {
-            color: #1b1d39 !important;
+            color: #4d541f !important;
         }
 
         .b4 .glyphicon-chevron-left::before {
-            color: #1b1d39 !important;
+            color: #4d541f !important;
         }
 
         .b4 .panel {
-            border: solid 1px #bdcf44;
+            border: solid 1px #BED000;
         }
 
         .b4 .panel-heading {
-            border-color: #bdcf44 !important;
-            background-color: #bdcf44 !important;
+            border-color: #BED000 !important;
+            background-color: #BED000 !important;
             background-image: none !important;
             border-radius: 25px;
         }
@@ -764,7 +792,7 @@
             font-family: 'Glyphicons Halflings';
             content: "\e080";
             float: right;
-            color: #1b1d39;
+            color: #4d541f;
             font-size: 18px;
         }
 
@@ -774,6 +802,7 @@
 
         .b4 .panel-default {
             border-radius: 25px !important;
+            opacity: 1;
         }
 
         .b4 .panel-body ol>li {
@@ -797,7 +826,7 @@
     <div class="box b4" id="box-siniestro">
         <div class="fondo2">
             <div class="cpnt cpnt-1">
-                <h3 class="title title-1">Inmovilizado por siniestro vial</h3>
+                <h3 class="title title-1"><b>Inmovilizado por siniestro vial</b></h3>
                 <p class="paragraph ph-1">Si tu vehículo se encuentra inmovilizado por un siniestro vial (con persona herida o fallecida), ten en cuenta los siguientes requisitos para su salida del patio transitorio. </p>
             </div>
 
@@ -818,14 +847,14 @@
                         <div id='collapse-peritaje' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-peritaje' aria-expanded='false'>
                             <div class='panel-body'>
                                 <div class='body-collapse-peritaje'>
-                                    <h3 class="">El trámite NO tiene costo y no necesita intermediarios.</h3>
-                                    <b>PARA SOLICITAR CITA DE PERITAJE</b>
+                                    <p class="paragraph ph-1 text-uppercase"><strong>El trámite NO tiene costo y no necesita intermediarios.</strong></p>
+                                    <p class="paragraph ph-1"><b>PARA SOLICITAR CITA DE PERITAJE:</b></p>
                                     <ol>
-                                        <li>Debes contar con disponibilidad de 2 Horas como mínimo.</li>
-                                        <li>A partir del día siguiente a la inmovilización del vehículo, preséntate en el Patio Transitorio (Av. Calle 63 No. 94-51/93), antes de las 7:00 Am para la asignación de la cita de “PERITAJE” por parte del Seccional de Tránsito de la Policía Nacional.</li>
+                                        <li>Debes contar con disponibilidad de 2 horas como mínimo.</li>
+                                        <li>A partir del día siguiente a la inmovilización del vehículo, preséntate en el Patio Transitorio (Av. Calle 63 No. 94-51/93), antes de las 7:00 a.m. para la asignación de la cita de “PERITAJE” por parte del Seccional de Tránsito de la Policía Nacional.</li>
                                         <li>Si cuenta con el Informe policial de accidente de tránsito – IPAT preséntelo y si no, con la copia de la licencia de tránsito (tarjeta de propiedad).</li>
                                     </ol>
-                                    <b>AL MOMENTO DEL PERITAJE:</b>
+                                    <p class="paragraph ph-1"><b>AL MOMENTO DEL PERITAJE:</b></p>
                                     <ol>
                                         <li>Presenta el Formato de solicitud de análisis con la noticia criminal completa FPJ12.</li>
                                         <li>Lleva las llaves del vehículo en caso de no haberlas entregado al momento de la inmovilización.</li>
@@ -859,7 +888,7 @@
                         <div id='collapse-retiro' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-retiro' aria-expanded='false'>
                             <div class='panel-body'>
                                 <div class='body-collapse-retiro'>
-                                    <h3>El trámite NO tiene costo y no necesita intermediarios.</h3>
+                                    <p class="paragraph ph-1 text-uppercase"><strong>El trámite NO tiene costo y no necesita intermediarios.</strong></p>
                                     <p>Para realizar el retiro de tu vehículo inmovilizado del patio transitorio, debes aportar los siguientes documentos: </p>
                                     <ul>
                                         <li>Original del Oficio expedido por la Fiscalía General de la Nación, el cual será confirmado con la URI correspondiente.</li>
@@ -881,31 +910,19 @@
     <!-- box b5 -->
     <style>
         .set-wrapper .b5 {
-            grid-area: b5;
             padding-top: 32px;
-            background: #bdcf44;
+            background: #BED000;
+            padding: 16px 8px;
+            border-radius: 16px;
+            margin-top: 32px;
 
-            display: grid;
-            gap: 8px;
-            grid-auto-flow: dense;
-            grid-template-columns: 1fr;
-            grid-template-rows: auto;
-            grid-template-areas:
-                'b5-titulo'
-                'b5-collapse'
-                'b5-imagen';
-            padding: 32px;
-        }
+            @media(min-width:768px) {
+                margin-top: 62px;
 
-        @media(min-width:768px) {
-            .set-wrapper .b5 {
-                grid-template-columns: 60% 40%;
-                grid-template-rows: auto;
-                grid-template-areas:
-                    'b5-titulo b5-titulo'
-                    'b5-collapse b5-imagen';
             }
         }
+
+
 
         .b5 .cpnt-1 {
             grid-area: b5-titulo;
@@ -919,7 +936,7 @@
             font-weight: bold;
             text-align: center;
             line-height: 1.2;
-            color: #1b1d39;
+            color: #4d541f;
             margin-bottom: 32px;
         }
 
@@ -928,24 +945,30 @@
             padding: 0px;
 
             display: flex;
-            flex-direction: column;
-            flex-wrap: wrap;
-            justify-content: center;
-            align-items: normal;
-            align-content: normal;
-
-        }
-
-        .b5 .cpnt-2 {
-            display: flex;
             flex-direction: row;
             flex-wrap: wrap;
             justify-content: center;
             align-items: normal;
             align-content: normal;
-            margin-top: 32px;
-            margin-bottom: 32px;
+
+            font-weight: normal;
+            font-size: clamp(2rem, 3vw + 2rem, 2rem);
+            margin: 0px;
+            padding: 32px;
+            color: #4d541f;
+            line-height: 1.2;
+
+            font-weight: normal;
+            font-family: 'Montserrat', sans-serif;
+            margin: 0px;
+            padding: 32px;
+
         }
+
+        .b5 .cpnt-2 p>a{
+            color: #252525;
+        }
+
 
         .b5 .cpnt-2 .btn-enlace {
             position: relative;
@@ -957,8 +980,8 @@
             font-weight: bold;
             text-align: center;
             line-height: 1;
-            color: #bdcf44;
-            background-color: #1b1d39;
+            color: #BED000;
+            background-color: #4d541f;
             border-radius: 50px;
 
             height: 60px;
@@ -975,7 +998,7 @@
 
         .b5 .cpnt-2 .btn-enlace:hover {
             background-color: #f5f5f5;
-            color: #1b1d39;
+            color: #4d541f;
             -webkit-box-shadow: 0px 0px 10px 3px rgba(250, 250, 250, 0.16);
             box-shadow: 0px 0px 10px 3px rgba(250, 250, 250, 0.16);
         }
@@ -997,7 +1020,6 @@
         }
 
         .b5 .cpnt-3 {
-            grid-area: b5-imagen;
             padding: 0px 0px 16px 0px;
 
         }
@@ -1019,15 +1041,14 @@
         @media(min-width:768px) {
             .b5 .cpnt-1 .title-1 {
                 margin: 0;
-
             }
 
             .b5 .cpnt-2 {
-                padding: 32px;
+                padding: 16px;
             }
 
             .b5 .cpnt-2 p {
-                padding: 32px;
+                padding: 16px;
                 font-optical-sizing: auto;
                 font-size: 18px;
                 font-weight: normal;
@@ -1049,13 +1070,8 @@
             <h3 class="title title-1">Ubicación de Patios</h3>
         </div>
         <div class="cpnt cpnt-2 .cpnt-boton">
-            <p>Conoce la ubicación de los patios en nuestra página de Puntos de atención. Si tu vehículo está inmovilizado hace más de un año, recuerda acércate al Centro de Servicios de Movilidad en la Calle 13 # 37 -35, para validar en qué patios se encuentra tu vehículo.</p>
+            <p>Conoce la ubicación de los patios en nuestra página de <a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion"><b>Puntos de atención.</b></a> Si tu vehículo está inmovilizado hace más de un año, recuerda acércate al Centro de Servicios de Movilidad en la <a href="https://maps.app.goo.gl/SnQZ4eSVgHPhmqJR8"><b>Calle 13 # 37 -35,</b></a> para validar en qué patios se encuentra tu vehículo.</p>
             <a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion" class="btn btn-enlace">Ir a puntos de atención<span class="icon-enlace"></span></a>
-        </div>
-        <div class="cpnt cpnt-3">
-            <div class="imagen img-1">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/img-parqueo-4.png" alt="imagen: cuenta conmigo" title="imagen: cuenta conmigo">
-            </div>
         </div>
     </div>
 
@@ -1064,21 +1080,228 @@
         .set-wrapper .b6 {
             grid-area: b6;
             margin-top: 32px;
-            background-color: rgb(30, 34, 61);
+            background-color: #4d541f;
+            position: relative;
+
         }
-        .b6 .cpnt-1 {
-            padding: 16px;
+
+        .b6 .group-images .img-1 {
+            position: absolute;
+            width: 357px;
+            left: calc(42% - 200px);
+            z-index: -0;
+            visibility: hidden;
+
+            @media(min-width:768px) {
+                visibility: visible;
+            }
+        }
+
+        .b6 .group-images .img-2 {
+            position: absolute;
+            width: 110px;
+            bottom: 0;
+        }
+
+        .b6 .group-images .img-3 {
+            position: absolute;
+            width: 300px;
+            right: 0;
+        }
+
+        .b6 .group-text {
+            display: grid;
+            grid-auto-flow: dense;
+            grid-template-columns: 1fr;
+            grid-template-rows: auto;
+            padding: 32px 16px;
+            align-items: center;
+            gap: 32px;
+
+            @media(min-width:768px) {
+                grid-template-columns: 1fr 1fr;
+                padding: 20px;
+            }
+        }
+
+        .b6 .group-text .logo-1 img {
+            width: 200px;
+            margin: auto;
+
+            @media(min-width:768px) {
+                width: 240px;
+                margin: 0px;
+            }
+
+        }
+
+        .b6 .cpnt-2 {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: normal;
+            align-content: normal;
+
+            @media(min-width:768px) {
+                padding-left: 72px;
+
+            }
+        }
+
+        .b6 .cpnt-2 .paragraph {
+            font-family: 'Montserrat', sans-serif;
             text-align: center;
+            color: #ffffff;
+        }
+
+        .b6 .cpnt-2 .ph-1 {
+            font-size: 24px;
+            line-height: 1.2;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .b6 .cpnt-2 .ph-2 {
+            padding: 8px;
+            font-size: 16px;
+            text-align: left;
+        }
+
+        .b6 .cpnt-2 .btn-movilidad {
+            background: #BED000;
+            color: #1c1d39;
+            text-align: center;
+            margin: auto;
+            font-weight: bold;
+            border-radius: 50px;
+
+        }
+
+        .b6 .cpnt-2 .btn-movilidad:hover {
+            background: #ffffff;
+            color: #4d541f;
         }
     </style>
     <div class="box b6">
-        <div class="cpnt cpnt-1">
+
+        <div class="group-images">
             <div class="imagen img-1">
-                <a href="https://b2cprdciudadanos.b2clogin.com/b2cprdciudadanos.onmicrosoft.com/b2c_1a_signinvus/oauth2/v2.0/authorize?client_id=dbf00fe0-455f-4d25-baab-403f2ff4a277&scope=openid%20offline_access%20profile&redirect_uri=https%3A%2F%2Fvus.circulemosdigital.com.co%2F&client-request-id=d2910a3e-552b-48bd-952e-e9382af182e3&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.30.0&client_info=1&code_challenge=4aTiaBPZy7gZc9hmqpdvhRjR7Hmi5XECgt5cZeYeeLw&code_challenge_method=S256&nonce=79328171-a40e-4cd0-8ed3-a8908f6b0be9&state=eyJpZCI6IjE5MzczN2RiLWQyOWMtNGZjMS1iZTQ2LThiOGM0N2YxM2I1NCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D">
-                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/img-parqueo-5.png" alt="Imagen: Mi movilidad a un clic" title="Imagen: Mi movilidad a un clic">
-                </a>
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g273.png" alt="recurso 1" title="recurso 1">
+            </div>
+            <div class="imagen img-2">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g272.png" alt="recurso 2" title="recurso 2">
+            </div>
+            <div class="imagen img-3">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g274.png" alt="recurso 3" title="recurso 3">
+            </div>
+
+            <div class="group-text">
+                <div class="cpnt cpnt-1">
+                    <div class="logo logo-1">
+                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g271.png" alt="logo Mo Movilidad a un Clic">
+                    </div>
+                </div>
+                <div class="cpnt cpnt-2">
+                    <p class="paragraph ph-1">Toda la información de la <b>Secretaría Distrital de Movilidad</b>, personalizada y en tu dispositivo.</p>
+                    <p class="paragraph ph-2">Agendamiento de citas, comparendos, inmovilizaciones, cursos pedagógicos, pico y placa y más.</p>
+                    <a class="btn btn-movilidad" href="https://portalmimovilidad.movilidadbogota.gov.co/">Accede y Regístrate aquí</a>
+                </div>
             </div>
         </div>
+
     </div>
+
+    <!-- box b7 -->
+    <style>
+        .set-wrapper .b7 {
+            grid-area: b7;
+            margin-top: 32px;
+            border: solid 2px #BED000;
+            margin-bottom: 32px;
+
+            display: grid;
+            gap: 8px;
+            grid-auto-flow: dense;
+            grid-template-rows: auto;
+            grid-template-columns: 1fr;
+            align-content: center;
+            align-items: center;
+            justify-items: center;
+
+            @media(min-width:768px) {
+                grid-template-columns: 70% 30%;
+
+            }
+        }
+
+        .b7 .cpnt-1 .paragraph {
+            font-weight: bold;
+            line-height: 1.2;
+            font-size: clamp(2rem, 3vw + 2rem, 3rem);
+            margin: 0px;
+            padding: 32px;
+            color: #4d541f;
+            text-align: right;
+        }
+
+        .b7 .btn-anchor {
+            display: inline-flex;
+            padding: 8px 16px;
+            font-family: 'Montserrat', sans-serif;
+            font-optical-sizing: auto;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            line-height: 1;
+            color: #4d541f;
+            background-color: #BED000;
+            border-radius: 50px;
+
+            height: auto;
+            word-break: break-word;
+            word-wrap: break-word;
+            width: 100%;
+            min-width: 150px;
+            max-width: 360px;
+            white-space: normal;
+            justify-content: space-between;
+            align-items: center;
+
+        }
+
+        .b7 .btn-anchor:hover {
+            background-color: #252525;
+            color: #BED000;
+            -webkit-box-shadow: 0px 0px 10px 3px rgba(250, 250, 250, 0.16);
+            box-shadow: 0px 0px 10px 3px rgba(250, 250, 250, 0.16);
+        }
+
+
+        .b7 .icon1 {
+            background-image: url("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/coche_a.png");
+            height: 50px;
+            width: 50px;
+            min-width: 50px;
+            top: 0px;
+            right: 0px;
+            position: relative;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+    </style>
+    <div class="box b7">
+        <div class="cpnt cpnt-1">
+            <p class="paragraph ph-1">Conoce el portal de Integridad, Antisoborno y Anticorrupción</p>
+        </div>
+        <div class="cpnt cpnt-2">
+            <a class="btn btn-anchor btn-anchor-1" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion">Ingresa aquí<span class="icon2"></span></a>
+        </div>
+    </div>
+
+
+</div>
+
+
 </div>
 <!-- Fin Set -->

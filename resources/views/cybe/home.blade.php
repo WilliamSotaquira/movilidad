@@ -465,7 +465,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros eléctricos</p>
-                            <p class="value">6.485</p>
+                            <p class="value">7.132</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_electrico.png" alt="Icono de carro eléctrico">
                             <p class="details">Registrados</p>
                         </div>
@@ -473,7 +473,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros híbridos</p>
-                            <p class="value">37.753</p>
+                            <p class="value">40.699</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_hibrido.png" alt="Icono de carro híbrido">
                             <p class="details">Registrados</p>
                         </div>
@@ -481,7 +481,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Motos eléctricas</p>
-                            <p class="value">439</p>
+                            <p class="value">442</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_moto.png" alt="Icono de moto eléctrica">
                             <p class="details">Registradas</p>
                         </div>
@@ -489,7 +489,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Camiones cero y bajas emisiones</p>
-                            <p class="value">472</p>
+                            <p class="value">471</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_carga.png" alt="Icono de carga eléctrico">
                             <p class="details">Registrados</p>
                         </div>
@@ -515,7 +515,7 @@
                 <button class="btn btn-primary rightLst">&#62;</button>
             </div>
         </div>
-        <i>Fuente: Registro Distrital Automotor - RDA. *Cifras preliminares a 31 de julio de 2024</i>
+        <i>Fuente: Registro Distrital Automotor - RDA. *Cifras a 30 de septiembre de 2024</i>
 
 
     </div>
@@ -808,25 +808,25 @@
 
             <div class="n-card card-2 zoom">
                 <div class="imagen">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/09-07-2024/1.jpg" alt="Imagen de noticia">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/27-09-2024/1_2.jpg" alt="Foto recurso de la noticia">
                 </div>
                 <div class="resumen">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_y_c40_son_reconocidas_en_londres_por_buenas_practicas_en_equidad_de_genero_y">
-                        <h4 class="title title-type-enfasis-1 title-id-7">Bogotá y C40 son reconocidas en Londres por buenas prácticas en equidad de género y movilidad sostenible en los Premios Polaris 2024</h4>
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/el_distrito_premio_a_las_organizaciones_publicas_y_privadas_que_incentivan_la_movilidad">
+                        <h4 class="title title-type-enfasis-1 title-id-7">El Distrito premió a las organizaciones públicas y privadas que incentivan la movilidad sostenible</h4>
                     </a>
-                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá D.C., 09 de julio de 2024 (@SectorMovilidad). Bogotá y C40 Cities han sido galardonados con el Premio Polaris 2024 en la categoría de `Igualdades´, por la campaña de comunicación #PrimerAñoLaRolita que promueve la igualdad y equidad de género en el transporte público. Este reconocimiento internacional se otorgó durante la ceremonia celebrada el viernes 21 de junio en Londres, donde la campaña se destacó por su contribución al empoderamiento de las mujeres y la promoción de empleos verdes en el sector de la movilidad sostenible.</p>
+                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 26 de septiembre de 2024. @Sectormovilidad.- En el marco de la XVII Semana de la Bici, la Secretaría Distrital de Movilidad, celebró este jueves dos importantes reconocimientos: los Premios Al Trabajo en Bici y la II Bienal de Estacionamientos de Micromovilidad.</p>
                 </div>
             </div>
 
             <div class="n-card card-1 zoom">
                 <div class="imagen">
-                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/04-07-2024/1.jpg" alt="Imagen de noticia">
+                    <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/26-09-2024/1_1.jpg" alt="Foto recurso de la noticia">
                 </div>
                 <div class="resumen">
-                    <a href="https://www.movilidadbogota.gov.co/web/noticia/bogota_reconocio_a_las_empresas_con_las_mejores_practicas_logisticas">
-                        <h4 class="title title-type-enfasis-1 title-id-7">Bogotá reconoció a las empresas con las mejores prácticas logísticas</h4>
+                    <a href="https://www.movilidadbogota.gov.co/web/noticia/san_felipe_y_bosa_el_porvenir_barrios_vitales_que_avanzan_seguros_y_sostenibles">
+                        <h4 class="title title-type-enfasis-1 title-id-7">San Felipe y Bosa El Porvenir: Barrios vitales que avanzan seguros y sostenibles</h4>
                     </a>
-                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 4 de julio de 2024 (@SectorMovilidad). Este jueves, la Secretaría Distrital de Movilidad, por medio de la Red de Logística Urbana, celebró el Reconocimiento Excelencia Logística 2024, un evento que se lleva a cabo de forma anual y que destaca las mejores iniciativas de empresas privadas, en pro de la movilidad y la calidad del medio ambiente en la ciudad.</p>
+                    <p class="paragraph ph-type-noticia ph-id-8">Bogotá, 25 de septiembre de 2024 (@SectorMovilidad). Este miércoles se conmemora el aniversario de los Barrios Vitales San Felipe y Bosa El Porvenir, como parte de una estrategia integral que beneficia a cerca de 95,000 personas en sectores estratégicos de la ciudad, incluyendo San Cristóbal y Las Cruces, destacando su impacto en la vida de los ciudadanos.</p>
                 </div>
             </div>
 
@@ -931,77 +931,78 @@
 
                 <div class="carousel-inner">
                     <div class="item active">
-                        <div class='row logos'>
-                            <div class='col-xs-12 col-sm-2'>
+
+                        <div class='logos'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akt_electric_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_akuai_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_andemos_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-08-2024/enel_x_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_colturex_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                        </div>
+                    </div>
+
+
+                    <div class="item">
+                        <div class="logos">
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_defencarga_400.png" alt="">
                             </div>
-                        </div>
-                    </div>
-
-
-                    <div class="item">
-                        <div class="row logos">
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_uniandes_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_evoelectric_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_girozero_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_heliox_400.png" alt="">
-                            </div>
-                            <div class='col-xs-12 col-sm-2'>
-                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_insepet_400.png" alt="">
-                            </div>
-                            <div class='col-xs-12 col-sm-2'>
-                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_navisaf_400.png" alt="">
                             </div>
 
                         </div>
                     </div>
                     <div class="item">
-                        <div class="row logos">
-                            <div class='col-xs-12 col-sm-2'>
+                        <div class="logos">
+                            <div class='logo'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_insepet_400.png" alt="">
+                            </div>
+                            <div class='logo'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_navisaf_400.png" alt="">
+                            </div>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_piot_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_renting_400.png" alt="">
                             </div>
-                            <div class='col-xs-12 col-sm-2'>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_solistica_400.png" alt="">
-                            </div>
-                            <div class='col-xs-12 col-sm-2'>
-                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
-                            </div>
-                            <div class='col-xs-12 col-sm-2'>
-                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_deepsea_230628_120x120.png" alt="">
-                            </div>
-                            <div class='col-xs-12 col-sm-2'>
-                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_navitrans_230628_120x123.png" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="row logos">
-                            <div class='col-xs-12 col-sm-2 col-sm-offset-5'>
+                        <div class="logos">
+                            <div class='logo'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-05-2022/logo_tractec_400.png" alt="">
+                            </div>
+                            <div class='logo'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_deepsea_230628_120x120.png" alt="">
+                            </div>
+                            <div class='logo'>
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_navitrans_230628_120x123.png" alt="">
+                            </div>
+                            <div class='logo'>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-06-2023/icono_motorysa-byd_230628_120x120.png" alt="">
                             </div>
                         </div>
@@ -1095,6 +1096,37 @@
             max-width: 250px;
             margin: 2rem;
             padding: 32px;
+        }
+
+        .cpnt-slider .logos {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: normal;
+            align-content: normal;
+        }
+
+        .cpnt-slider .logos {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: normal;
+            align-content: normal;
+            column-gap: 16px;
+        }
+
+        .cpnt-slider .logos .logo {
+            max-width: 120px;
+            width: 120px;
+
+            @media(min-width:768px){
+             max-width: 160px;
+             width: 160px;
+
+         }
+
         }
 
         .cpnt-paragraph {

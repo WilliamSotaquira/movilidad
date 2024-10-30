@@ -259,7 +259,8 @@
         .box-body .panel-heading .panel-title a.collapsed:after {
             content: "\e114";
         }
-        .box-body .panel-body{
+
+        .box-body .panel-body {
             background: #f5f5f5;
         }
     </style>
@@ -279,7 +280,7 @@
                 <div id='collapse_a' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading_a' aria-expanded='false'>
                     <div class='panel-body'>
                         <div class='box-a'>
-                            <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80 % la batería del vehículo.  Bogotá cuenta con cargadores rápidos de uso público, para conocer los puntos ingresar <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/infraestructura_de_recarga_electrica_en_bogota">aquí.</a></p>
+                            <p>No siempre, utilizando un cargador rápido tardaría aproximadamente 30 minutos en cargar hasta en un 80 % la batería del vehículo. Bogotá cuenta con cargadores rápidos de uso público, para conocer los puntos ingresar <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/infraestructura_de_recarga_electrica_en_bogota">aquí.</a></p>
                             <p>Si se utiliza un cargador semi-rápido, tardaría entre 2 y 4 horas, mientras que con un cargador lento el tiempo sería mayor a 6 horas. Este tipo de cargadores son más adecuados para la recarga en el hogar.</p>
                         </div>
                     </div>
@@ -310,7 +311,7 @@
                 <div class='panel-heading' role='tab' id='heading_c'>
                     <h4 class='panel-title'>
                         <a role='button' data-toggle='collapse' data-parent='#accordion_mitos' href='#collapse_c' aria-expanded='false' aria-controls='collapse_c'>
-                            ¿Con una carga completa, podría recorrer más de 100 km en un vehículo eléctrico de uso privado?
+                            ¿Con una carga completa, podría recorrer más de 100 kilómetros en un vehículo eléctrico de uso privado?
                         </a>
                     </h4>
                 </div>
@@ -319,28 +320,33 @@
                         <div class='box-c'>
                             <p>Verdadero, a continuación se brindan algunos ejemplos de autonomías reportadas de vehículos eléctricos en el mercado colombiano:</p>
                             <ul>
-                                <li>100 km: vehículos biplaza como Renault Twizy y Oransh</li>
-                                <li>150 km: vehículos biplaza como Zhidou D2S y Jiayuan</li>
-                                <li>Otros vehiculos
+                                <li>Hasta 300 kilómetros:
                                     <ul>
-                                        <li>200 km: Renault MASTER E-TECH</li>
+                                        <li>Renault Twizy, y Oransh - vehículos biplaza (100 km)</li>
+                                        <li>Auteco Zhidou, y Jiayuan - vehículos biplaza (150 km) </li>
+                                        <li>Foton FKR EV 3.4 Ton (150 km)</li>
+                                        <li>Renault MASTER E-TECH (204 km)</li>
+                                        <li>Changan E-Star (300 km)</li>
                                     </ul>
                                 </li>
-                                <li>Entre 300 y 400 km:
+                                <br>
+                                <li>Entre 300 y 500 kilómetros:
                                     <ul>
-                                        <li>Renault Zoe (300 km)</li>
-                                        <li>Nissan Leaf (350 km)</li>
+                                        <li>Renault Zoe (385 km)</li>
+                                        <li>Nissan Leaf (385 km)</li>
                                         <li>BYD i Dolphin (400 km)</li>
+                                        <li>Renault Megane E-Tech (470 km)</li>
+                                        <li>Kia Niro EV (460 km)</li>
                                     </ul>
                                 </li>
-                                <li>400 Km en adelante
+                                <br>
+                                <li>500 kilómetros en adelante:
                                     <ul>
-                                        <li>Chevrolet Bolt</li>
-                                        <li>Kia Niro EV</li>
-                                        <li>BMW iX3 M SPORT</li>
-                                        <li>Porsche Taycan</li>
-                                        <li>BYD Yuan Plus EV</li>
-                                        <li>Tesla Model 3</li>
+                                        <li>Kia Niro EV (460 km)</li>
+                                        <li>Mercedes Benz EQS 450 4 Matic (513 km)</li>
+                                        <li>BMW iX (620 km) </li>
+                                        <li>Tesla Model 3 (629 km)</li>
+                                        <li>Porsche Taycan (630 km)</li>
                                     </ul>
                                 </li>
                             </ul>

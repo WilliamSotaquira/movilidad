@@ -647,9 +647,6 @@
                                             <td class="s11">VIERNES 27 SEP</td>
                                         </tr>
                                         <tr style="height: 19px">
-                                            <td class="s12">30. Caravana con &#39;Las fuerzas de la bici&#39; y entrega de andenes/ciclorruta autonorte </td>
-                                        </tr>
-                                        <tr style="height: 19px">
                                             <td class="s13">31. Taller: Diseñando redes y calles para ciclistas</td>
                                         </tr>
                                         <tr style="height: 19px">
@@ -1314,29 +1311,6 @@
 
                     </div>
                     <div class="tab-pane" id="tab5">
-
-                        <div class="event event1">
-                            <div class="title-event">
-                                <h3>CARAVANA DE RECONOCIMIENTO A LOS EQUIPOS QUE CONFORMAN “LAS FUERZAS DE LA BICI” Y ENTREGA DE CICLORRUTA / ANDENES AUTONORTE</h3>
-                            </div>
-                            <div class="description-event">
-                                <p class="paragraph ph1">Recorrido en bici liderado por el alcalde Carlos Fernando Galán y los equipos que conforman ‘Las Fuerzas de la Bici’. En esta actividad se reconocerá y exaltará el trabajo y la trascendencia de quienes, durante años, se han consolidado para brindar un servicio a la ciudadanía en diferentes contextos y actividades a bordo de su bicicleta (guardianes de la ciclovía, guías ACB, guías en vía SDM, guías de turismo, Policía). Finalizada la caravana, se hará la entrega de un nuevo proyecto de cicloinfraestructura que tiene como objetivo mejorar las condiciones y calidad de vida de la ciudadanía, mediante accesibilidad, sostenibilidad y seguridad vial.</p>
-                                <p class="paragraph ph2">Actividad con inscripción previa</p>
-                            </div>
-                            <div class="info-event">
-                                <p class="paragraph ph-hour"><span class="glyphicon glyphicon-time" aria-hidden="true"></span>7:00 a.m a 9:00 a.m.</p>
-                                <p class="paragraph ph-site"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>Punto de encuentro: Parque Alcalá, autopista Norte con calle 137</p>
-                                <p class="paragraph ph-site"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>Punto de llegada: Parque Alhambra. av. calle 116 con canal Molinos</p>
-                            </div>
-                            <div class="contact-event">
-                                <p class="paragraph ph1">Enlace al formulario de inscripción:</p>
-                                <p class="paragraph ph2"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>https://forms.gle/L9c6q7N1tV7ghwKz7</p>
-                            </div>
-                            <div class="contact-organizer">
-                                <p class="paragraph ph1">Organiza:</p>
-                                <p class="paragraph ph2">Secretaría Distrital de Movilidad / Instituto De Desarrollo Urbano</p>
-                            </div>
-                        </div>
 
                         <div class="event event2">
                             <div class="title-event">

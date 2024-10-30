@@ -580,7 +580,7 @@
 
                                     <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
 
-                                    <p>Sábado 7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
@@ -593,6 +593,7 @@
                                 </div>
                             </div>
 
+                            dg
                             <div class="boxes">
                                 <div class="item item-title span-3">
                                     <p><strong>Centro&nbsp;de&nbsp;Servicios&nbsp;de&nbsp;Movilidad - Paloquemao</strong></p>
