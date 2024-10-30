@@ -87,6 +87,21 @@
             <!-- Wrapper for slides -->
             <div class='carousel-inner'>
                 <div class='item active'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-10-2024/imagen_firma1.png' alt='Fotografía compromiso de la dirección con el sistema de gestión EFR' title='Fotografía compromiso de la dirección con el sistema de gestión EFR'>
+                </div>
+                <div class='item'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-10-2024/imagen_firma2.png' alt='Fotografía compromiso de la dirección con el sistema de gestión EFR' title='Fotografía compromiso de la dirección con el sistema de gestión EFR'>
+                </div>
+                <div class='item'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-10-2024/imagen_firma3.png' alt='Fotografía compromiso de la dirección con el sistema de gestión EFR' title='Fotografía compromiso de la dirección con el sistema de gestión EFR'>
+                </div>
+                <div class='item'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-10-2024/imagen_firma4.png' alt='Fotografía compromiso de la dirección con el sistema de gestión EFR' title='Fotografía compromiso de la dirección con el sistema de gestión EFR'>
+                </div>
+                <div class='item'>
+                    <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-10-2024/imagen_firma5.png' alt='Fotografía compromiso de la dirección con el sistema de gestión EFR' title='Fotografía compromiso de la dirección con el sistema de gestión EFR'>
+                </div>
+                <div class='item'>
                     <img src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/recurso_efr_10.png' alt='Fotografia memoria día de la familia efr' title='Fotografia memoria día de la familia efr'>
                 </div>
                 <div class='item'>
@@ -357,12 +372,12 @@
                 <h3>Compromiso de la dirección con el Sistema de Gestión <span class="enfasis2">efr</span></h3>
             </div>
             <div class='imagen'>
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-11-2022/efr_landing.png" target="_blank" rel="noopener noreferrer">
-                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-11-2022/efr_landing.png' alt='documento compromiso efr' title='documento compromiso EF'>
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/diseno_efr_mailing_op2.jpg" target="_blank" rel="noopener noreferrer">
+                    <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/diseno_efr_mailing_op2.jpg' alt='documento compromiso efr' title='documento compromiso EF'>
                 </a>
             </div>
             <br>
-            <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-10-2022/compromiso_por_la_direccion_2022.pdf" target="_blank" rel="noopener noreferrer" download>De clic aquí y descargue aquí el documento .pdf "Compromiso de la Dirección con el Sistema de Gestión - efr"</a></p>
+            <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/doc102124-10212024090633.pdf" target="_blank" rel="noopener noreferrer" download>De clic aquí y descargue aquí el documento .pdf "Compromiso de la Dirección con el Sistema de Gestión - efr"</a></p>
         </div>
         <style>
             .box-pdf {
@@ -474,7 +489,7 @@
 
             }
 
-            .box-perfiles .perfil{
+            .box-perfiles .perfil {
                 width: 220px;
 
             }

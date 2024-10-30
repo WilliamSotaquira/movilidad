@@ -14,34 +14,70 @@
                 <li data-slide-to="3" data-target="#carousel-avisos" title="Banner 4"></li>
                 <li data-slide-to="4" data-target="#carousel-avisos" title="Banner 5"></li>
                 <li data-slide-to="5" data-target="#carousel-avisos" title="Banner 6"></li>
-
             </ol>
 
             <div class="carousel-inner" role="listbox">
 
-                <div class="item active">
-                    <a href="https://www.movilidadbogota.gov.co/web/semana_de_la_bici_2024">
+            <div class="item active">
+                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-10-2024/v_5_abece_plan_piloto_de_salida.pdf">
+                    <picture>
+                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2024/modificacion_piezas_pyp_2_y_9_nov_banner_de_pyp_240812_b1_950-300.jpg">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2024/modificacion_piezas_pyp_2_y_9_nov_banner_de_pyp_240812_b2_340_x_300.jpg" class="img-responsive w-100" alt="plan piloto de salida los sábados 2 y 9 de noviembre" title="Image: plan piloto de salida los sábados 2 y 9 de noviembre">
+                    </picture>
+                </a>
+            </div>
+
+            <div class="item">
+                <a href="https://www.movilidadbogota.gov.co/web/movilidad_segura">
+                    <picture>
+                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/campanas_micrositio-lg.png">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/campanas_micrositio-xs.png" class="img-responsive w-100" alt="Campañas de conciencia Vial" title="Image: Campañas de conciencia Vial">
+                    </picture>
+                </a>
+            </div>
+            <div class="item">
+                    <a>
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/banner_temporal_semana_bici_900x300.jpg">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/banner_temporal_semana_bici_340x300.jpg" class="img-responsive w-100" alt="Ir a Agenda Semana de la Bici" title="Image: Agenda Semana de la Bici">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2024/feria_barriosunidos_banner_lg.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2024/feria_barriosunidos_banner_xs.jpg" class="img-responsive w-100" alt="Feria A Tu Servicio en Barrios Unidos" title="Image: Feria A Tu Servicio en Barrios Unidos">
                         </picture>
                     </a>
                 </div>
 
                 <div class="item">
-                    <picture>
-                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-09-2024/p_banners_campana_no_dia_sin_carro_p1.png">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-09-2024/p_banners_campana_no_dia_sin_carro_p2.png" class="img-responsive w-100" alt="Aviso campaña aviso no día sin carro" title="Image: Aviso campaña aviso no día sin carro">
-                    </picture>
+                    <a href="https://whatsapp.com/channel/0029VadhWYGJENyA2aKsbF2B">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-10-2024/banner_pag_web_canal_whatsapp_950x300_v2.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-10-2024/banner_pag_web_canal_whatsapp_340x300_op1.jpg" class="img-responsive w-100" alt="Únete a nuestro canal de Whatsapp" title="Image: Únete a nuestro canal de Whatsapp">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="https://bogota.gov.co/racionamiento-agua-bogota/">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_zorro_sdm_2_-_950x300.png">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_zorro_sdm_3_-_340x300.png" class="img-responsive w-100" alt="Turnos de racionamiento" title="Image: Turnos de racionamiento">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="https://bogota.gov.co/racionamiento-agua-bogota/">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_sdm_2_-_950x300.png">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_sdm_3_-_340x300.png" class="img-responsive w-100" alt="Turnos de racionamiento 2" title="Image: Turnos de racionamiento 2">
+                        </picture>
+                    </a>
                 </div>
 
                 <div class="item"><a href="https://www.movilidadbogota.gov.co/web/cierres_obras_metro">
                         <picture>
                             <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_950x300.png">
-                            <img alt="Ir a cierre estación Transmilenio calle 26" class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-05-2024/piezas_metro_banners_banner_340x300.png"
-                                title="Image: cierre estación Transmilenio calle 26">
+                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-10-2024/solicitud_piezas_metro_950x300.png">
+                            <img alt="Ir aLas obras de la Línea 1 del Metro avanzan" class="img-responsive w-100"
+                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-10-2024/solicitud_piezas_metro_340x300.png"
+                                title="Image:Las obras de la Línea 1 del Metro avanzan">
                         </picture>
                     </a></div>
 
@@ -63,16 +99,6 @@
                         </picture>
                     </a>
                 </div>
-
-                <div class="item"><a href="https://bogota.gov.co/">
-                        <picture>
-                            <source media="(min-width: 465px)"
-                                srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-09-2024/piezas_del_nuevo_turno_-_racionamiento_de_agua_del_1_al_29_de_septiembre_950x300.png">
-                            <img alt="Ir a turnos de racionamiento" class="img-responsive w-100"
-                                src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-09-2024/piezas_del_nuevo_turno_-_racionamiento_de_agua_del_1_al_29_de_septiembre_340x300.png"
-                                title="Image: turnos de racionamiento">
-                        </picture>
-                    </a></div>
 
                 <div class="item"><a href="https://webfenix.movilidadbogota.gov.co/#/consulta-pagos">
                         <picture>
@@ -105,16 +131,6 @@
                                 title="Image: Aviso a partir del 22 de julio inicia la operacion del nuevo carril preferencial en la carrera 13">
                         </picture>
                     </a></div>
-
-                <div class="item">
-                    <picture>
-                        <source media="(min-width: 465px)"
-                            srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-07-2024/agendamiento_jul2024_950x300.png">
-                        <img alt="Ir a Agendamiento Virtual" class="img-responsive w-100"
-                            src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-07-2024/agendamiento_jul2024_340x300.png"
-                            title="Image: Agendamiento virtual">
-                    </picture>
-                </div>
 
                 <div class="item"><a
                         href="https://www.movilidadbogota.gov.co/web/plan_distrital_de_desarrollo_2024_2027">
@@ -179,8 +195,15 @@
                         </picture>
                     </a></div>
             </div>
-            <a class="left carousel-control" data-slide="prev" href="#carousel-avisos" title="Anterior"><span class="sr-only">Anterior</span></a>
-            <a class="right carousel-control" data-slide="next" href="#carousel-avisos" title="Siguiente"><span class="sr-only">Siguiente</span></a>
+
+            <a class="left carousel-control" data-slide="prev" href="#carousel-avisos" title="Anterior">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="right carousel-control" data-slide="next" href="#carousel-avisos" title="Siguiente">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Siguiente</span>
+            </a>
         </div>
     </div>
 
@@ -216,6 +239,7 @@
     .carousel-control.left {
         width: 15% !important;
         border-radius: 7px !important;
+        z-index: 0;
     }
 
     #carousel-avisos .carousel-control.left {
@@ -235,6 +259,7 @@
     #carousel-avisos .carousel-control .glyphicon-chevron-left,
     #carousel-avisos .carousel-control .icon-prev {
         left: 25% !important;
+        font-size: 35px !important;
     }
 
     #carousel-avisos .carousel-control.right {
@@ -254,6 +279,7 @@
     #carousel-avisos .carousel-control .glyphicon-chevron-right,
     #carousel-avisos .carousel-control .icon-prev {
         right: 25% !important;
+        font-size: 35px !important;
     }
 
     #carousel-avisos .carousel-control:focus,
@@ -269,6 +295,7 @@
     #carousel-avisos .carousel-control .icon-prev {
         color: var(--color-terciario);
         background-color: #4c531e;
+        border: solid 2px #4c531e;
         border-radius: 50%;
         width: 40px;
         height: 40px;
@@ -284,8 +311,7 @@
     #carousel-avisos .carousel-control .icon-prev:focus {
         color: var(--color-gris);
         background-color: #333333;
-
-
+        border: dotted 2px red;
     }
 
     /* bootstrap.min.css | https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css */
@@ -311,7 +337,7 @@
 
     #carousel-avisos .carousel-indicators li:hover {
         background-color: var(--color-blanco) !important;
-        border: 1px solid var(--color-terciario) !important;
+        border: 1px dotted red !important;
     }
 
     #carousel-avisos .carousel-indicators .active {
@@ -325,10 +351,11 @@
     }
 
     #carousel-avisos .carousel-inner .item img {
-        max-height: 300px;
-        object-fit: cover;
+        max-height: 360px;
+        object-fit: contain;
         object-position: center;
         margin: auto;
+        height: 100%;
     }
 
     .zoom {

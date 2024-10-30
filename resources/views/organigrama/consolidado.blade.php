@@ -1120,25 +1120,20 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100"><img alt="Foto: Ana María Corredor" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/anamariacorredor.png" title="Foto: Ana María Corredor"></div>
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-10-2024/giovanny_andres_garcia.png" alt="Giovanny Andrés García Rodríguez">
+                                                        </div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <h1>Ana María Corredor Yunis</h1>
-
-                                                            <h4>Directora de Investigaciones Administrativas al Tránsito y Transporte</h4>
-
+                                                            <h1>Giovanny Andrés García Rodríguez</h1>
+                                                            <h4>Dirección de Investigaciones Administrativas al Tránsito y Transporte</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Abogada egresada de la Universidad Santo Tomás, especialista en Derecho Administrativo del Colegio Mayor de Nuestra Señora del Rosario.</p>
-
-                                                                <p>Su experiencia profesional inició realizando su judicatura en la Corte Constitucional, luego trabajó como asesora en materia de contratación para el Instituto de Casas Fiscales del Ejército. Durante algún tiempo se dedicó al litigio y ejerció un rol de profesional de apoyo en la Comisión Nacional de Televisión, donde llevaba temas de asuntos disciplinarios y asesoraba a la directora de la oficina.</p>
-
-                                                                <p>Ingresó en el año 2007 como profesional universitaria de la oficina de Control Interno a la Secretaría Distrital de Movilidad, por un concurso de la Comisión Nacional del Servicio Civil, luego ascendió a profesional especializado en el área de Control Disciplinario; se ha desempeñado en diferentes dependencias y roles dentro de la SDM, entre los cuales se destacan: Dirección de Atención al Ciudadano y Dirección de Contratación.</p>
-
-                                                                <p>Sus quince (15) años de labor en la entidad, donde ha contribuido en temas misionales y de apoyo, le dan grandes herramientas para asumir la gestión del talento humano como el reto más significado, pues Ana María afirma que el personal de la secretaría es alma de la entidad y su propósito es que se sientan en familia, a través de procesos oportunos, eficientes y humanos que deben ser liderados por este equipo.</p>
+                                                                <p>Abogado, especialista en Derecho Procesal Penal y actualmente aspirante a Maestría en Gobierno y Políticas Públicas de la Universidad Externado de Colombia. Conocimientos en el diseño e implementación de estrategias jurídicas en el sector público y privado, orientadas a incrementar los índices de sostenibilidad, rentabilidad y reputación organizacional.</p>
+                                                                <p>Experiencia de más de 20 años liderando procesos y equipos en el campo administrativo, civil, sanitario y penal. Ya había laborado en la Secretaría Distrital de Movilidad entre el 2016 y el 2022, desempeñándose como abogado, Coordinador Grupo de Defensa Judicial, Director de Representación Judicial y Director de Gestión de Cobro. También trabajó en la DIAN, el Departamento Nacional de Planeación, y la Secretaría Distrital de Hacienda en funciones directivas; regresa a la Entidad con los objetivos de: aportar a los desafíos tecnológicos que se vienen para la Secretaría, y para hacer procesos contravencionales más amigables para la ciudadanía; asimismo, unificar el criterio jurídico de la Dirección y contribuir al funcionamiento y afianzamiento de la herramienta Fénix.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1161,16 +1156,16 @@
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
                                                                             <div class="img-perfil w-100">
-                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/juan_manuel_garzon.png" alt="Foto: Juan Manuel Garzón Monroy">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/juan_manuel_garzon.png" alt="Foto: Juan Manuel Garzón Monroy ">
                                                                             </div>
                                                                         </div>
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Juan Manuel Garzón Monroy</h1>
+                                                                                <h1>Juan Manuel Garzón Monroy </h1>
                                                                                 <h4>Subdirección de Contravenciones (e)</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Abogado y especialista en Derecho Administrativo y Constitucional de la Universidad Católica de Colombia. Magíster en Gobierno y Políticas Públicas de la Universidad Externado de Colombia, tiene una tesis meritoria en seguridad vial y pedagogía.</p>
-                                                                                    <p>Desde el 2007 ingresó a trabajar a la Secretaría de Movilidad, como contratista, al Centro de Servicios, y en el 2008 empezó a ejercer como autoridad de tránsito; tiene un corto periodo en el 2020 donde se va de la SDM para laborar como inspector de policía. En el año 2021 regresa a la Entidad en carrera administrativa con funciones de autoridad de tránsito. Ahora que está encargado de esta Subdirección, desde este rol, quiere apostarle a la virtualización de procesos, para que la ciudadanía tenga la posibilidad de acceder a salida de vehículos e impugnaciones de comparendos desde la virtualidad.</p>
+                                                                                    <p>Abogado y especialista en Derecho Administrativo y Constitucional de la Universidad Católica de Colombia. Magíster en Gobierno y Políticas Públicas de la Universidad Externado de Colombia, tiene una tesis meritoria en seguridad vial y pedagogía. Es auditor interno integral en la norma NTCGP en sistemas integrados de gestión de calidad y gestión del riesgo. </p>
+                                                                                    <p>Experto en la formulación, diseño y ejecución de políticas públicas en tránsito, transporte y seguridad vial, enfocadas en la implementación de estrategia preventivas y de protección a la ciudadanía. Cuenta con catorce años de experiencia en el desarrollo de procesos y procedimientos administrativos, sancionatorios y procesos contravencionales y de control e investigaciones al transporte público. Desde el 2007 trabajó en la Secretaría de Movilidad, tiene un corto período fuera de la Entidad y en el año 2021 regresa en carrera administrativa con funciones de autoridad de tránsito. Ahora, desde este rol y esta Subdirección, quiere apostarle a la virtualización de procesos, para que la ciudadanía tenga la posibilidad de acceder a salida de vehículos e impugnaciones de comparendos desde la virtualidad. </p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -1408,6 +1403,7 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100"><img alt="Hernan Sebastián Cortés Osorio" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/hernancortes.png" title="Hernan Sebastián Cortés Osorio"></div>
@@ -1433,6 +1429,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>

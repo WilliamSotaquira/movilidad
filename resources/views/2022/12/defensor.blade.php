@@ -62,7 +62,7 @@
         <!-- Sección box header -->
         <div class="box-header">
             <div class="logo logo-ppal">
-                <img alt="logo - Defensor(A) Ciudadano" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-08-2024/logo-defensor-ajustado_3.png ">
+                <img alt="logo - Defensor(A) Ciudadano" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-10-2024/logo-defensor-ajustado_4.png">
             </div>
             <style type="text/css">
                 .box-header .logo-ppal {

@@ -478,7 +478,8 @@
 
     .cpnt-incentivos .panel-heading {
         border-color: #BED000 !important;
-        background-image: linear-gradient(to right, #26e02f, #BED000) !important;
+        /* background-image: linear-gradient(to right, #26e02f, #BED000) !important; */
+        background: #BED000 !important;
     }
 
     .cpnt-incentivos .panel-heading .panel-title a {
@@ -502,8 +503,8 @@
     }
 
     .cpnt-incentivos .panel-body {
-        /* background-color: #252525; */
-        background-image: linear-gradient(to right, #151515, rgba(77, 84, 31, 1));
+        background-color: #4d541f;
+        /* background-image: linear-gradient(to right, #151515, rgba(77, 84, 31, 1)); */
     }
 
     @media (min-width: 768px) {
@@ -879,7 +880,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-vehiculo cpnt-head-vehiculo-incentivos">
                         <h3 class="title title-type-2">Incentivos para vehículos particulares</h3>
-                        <p class="paragraph ph-1">Cada producto incluye las acciones esperadas que convierten una insumos y gestiones en bienes, servicios para lograr la transición de cada uno de estos modos de transporte. </p>
+                        <p class="paragraph ph-1">Cada producto incluye las acciones necesarias  que a su vez sirven   como insumos y gestiones de bienes y servicios facilitando la transición de cada uno de estos modos de transporte.</p>
                     </div>
 
                     <div class="cpnt cpnt-incentivos">
@@ -1122,7 +1123,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-vehiculo cpnt-head-vehiculo-clave">
                         <h3 class="title title-type-2">Productos claves para lograr la transición de los vehículos particulares y motocicletas hacia las cero emisiones:</h3>
-                        <p class="paragraph ph-1">Cada producto incluye las acciones esperadas que convierten una insumos y gestiones en bienes, servicios para lograr la transición de cada uno de estos modos de transporte. </p>
+                        <p class="paragraph ph-1">Cada producto incluye las acciones necesarias  que a su vez sirven   como insumos y gestiones de bienes y servicios facilitando la transición de cada uno de estos modos de transporte.</p>
                     </div>
                     <div class="cpnt cpnt-body">
                         <div class="group-data">
@@ -1147,7 +1148,7 @@
                         </div>
                         <div class="group-data">
                             <h4 class="title title-type-3">Plazas de parqueo preferencial para cero emisiones.</h4>
-                            <p class="paragraph ph-1">Se busca aumentar la oferta de estacionamientos para vehículos eléctricos (Ley 1964 de 2019 artículo 7), generando la reglamentación para exigir que los estacionamientos de la ciudad, registrados en el Registro Distrital de Estacionamientos, cuenten con estos espacios, reglamentación que está a cargo de las secretarías distritales de Movilidad y de Gobierno.</p>
+                            <p class="paragraph ph-1">Se busca aumentar la oferta de estacionamientos para vehículos eléctricos (Ley 1964 de 2019 artículo 7), generando la reglamentación para exigir que los estacionamientos de la ciudad, incluidos en el Registro Distrital de Estacionamientos, cuenten con estos espacios, reglamentación que está a cargo de las secretarías distritales de Movilidad y de Gobierno.</p>
                             <figure>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/16-08-2024/estacioncarga2.png" alt="imagen ">
                                 <figcaption>
@@ -1585,7 +1586,7 @@
                             <i></i>
                         </div>
                         <div class="group-data">
-                            <h4 class="title title-type-3">Proyectos de ciclologística.</h4>
+                            <h4 class="title title-type-3">Proyectos de ciclologística <a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos#logistica">(enlace)</a></h4>
                             <p class="paragraph ph-1">A cargo de la Secretaría de Movilidad, que ha adelantado una serie de pilotos con apoyo de organismos multilaterales para probar tecnologías y modelos de operación con bicicletas de carga electroasistidas y motocarros eléctricos, encontrando que los resultados obtenidos son el camino para la escabilidad de este modelo en el transporte de carga de último kilómetro con vehículos cero emisiones, pues facilitan la entrega de mercancía de forma rápida y eficiente.</p>
                             <p class="paragraph ph-1">Las tipologías vehiculares empleadas en estos proyectos, deberán ser cero emisiones y estar en línea con la normativa que el Gobierno Nacional expida al respecto, entre ellas, la Resolución 160 de 2017.</p>
                             <figure>
@@ -2608,7 +2609,7 @@
                         </div>
                         <div class="group-data">
                             <h4 class="title title-type-3">Fondo de renovación de taxis por tecnologías cero emisiones.</h4>
-                            <p class="paragraph ph-1">A cargo de la Secretaría de Movilidad. Se implementarán acciones que faciliten el acceso a financiamiento de esta población objetivo.</p>
+                            <p class="paragraph ph-1">A cargo de la Secretaría de Movilidad. Se implementarán acciones distritales y conjuntas con el Gobierno Nacional, que faciliten el acceso a financiamiento de esta población objetivo.</p>
                             <figure>
                                 <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/taxi_2.png" alt="imagen ">
                                 <figcaption>

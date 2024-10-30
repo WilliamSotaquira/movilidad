@@ -29,6 +29,7 @@ Route::view('/menu/principal', 'menu/principal');
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- Menu
 Route::view('/components/tabpills', 'components/tabpills');
 Route::view('/components/collapse_btn', 'components/collapse_btn');
+Route::view('/components/scroll', 'components/scroll');
 
 
 
@@ -341,6 +342,8 @@ Route::view('/2024/08/movilidadDatos', '2024/08/movilidadDatos');
 
 // Contenido septiembre 2024
 Route::view('/2024/09/sdb', '2024/09/sdb');
-Route::view('/2024/09/ssv', '2024/09/ssv');
 
-
+// Contenido octubre 2024
+Route::view('/2024/10/contratos', '2024/10/contratos');
+Route::view('/2024/10/ssv', '2024/10/ssv');
+Route::view('/2024/10/seguridad', '2024/10/seguridad');

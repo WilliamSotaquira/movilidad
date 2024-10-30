@@ -327,7 +327,7 @@
 
         @media(min-width:768px) {
             .b1 .cpnt-cards .content p {
-                min-height: 7em;
+                min-height: 10em;
             }
         }
     </style>
