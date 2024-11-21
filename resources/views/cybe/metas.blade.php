@@ -8,6 +8,9 @@
 <link href='https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet'>
 <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+
 
 <style>
     /* Reglas de la sección de objetivos */
@@ -317,27 +320,27 @@
     }
 
     .cpnt-items {
-        display: grid;
+        /* display: grid;
         gap: 8px;
         grid-auto-flow: dense;
         grid-template-columns: 1fr;
         grid-template-rows: auto;
         justify-items: stretch;
         grid-auto-flow: dense;
-        justify-content: space-around;
-    }
+        justify-content: space-around; */
 
-    @media (min-width: 768px) {
-        .cpnt-items {
-            grid-template-columns: repeat(auto-fit, minmax(min(100%, 225px), 1fr));
-            margin-left: 32px;
-            margin-right: 32px;
-            margin-top: 32px;
-        }
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
     }
 
     .item-metas {
+        max-width: 280px;
         display: flex;
+        flex-wrap: wrap;
         font-size: 14px;
         font-weight: normal;
         text-align: center;
@@ -347,6 +350,10 @@
         justify-content: center;
         align-items: center;
         align-content: center;
+
+        @media(min-width:768px){
+            max-width: 450px;
+        }
     }
 
     .item-metas svg {
@@ -362,6 +369,15 @@
         padding: 12px;
         max-width: 350px;
     }
+
+    .item-metas-grafica {
+        /* grid-column: 1 / span 2; */
+        max-width: 900px;
+        width: 100%;
+        margin: auto;
+        padding: 32px;
+    }
+
 
     .cpnt-collapse h4 {
         font-weight: bold;
@@ -695,14 +711,15 @@
                 width: auto !important;
             }
         }
-        .enlace-metas{
+
+        .enlace-metas {
             color: #BED000;
             font-weight: bold;
         }
-        .enlace-metas:hover{
+
+        .enlace-metas:hover {
             color: #fff;
         }
-
     </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
@@ -788,7 +805,7 @@
                         <div class=''>
                             <div class='panel-heading' role='tab' id='heading_vehiculos'>
                                 <h4 class='panel-title'>
-                                    Vehiculos particulares (segmentos M1 y N1)
+                                    Vehículos particulares (segmentos M1 y N1)
                                     <a role='button' data-toggle='collapse' data-parent='#accordion-sg1-v' href='#collapse_vehiculos' aria-expanded='false' aria-controls='collapse_vehiculos'>
                                         <span class="icon ico1 zoom">
                                             <img width="20px" class="img-responsive" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/10-09-2024/informacion.png">
@@ -827,6 +844,126 @@
                                 <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
                             </svg>
                             <p class="paragraph ph-1">A partir de 2040, sólo se registrarán en Bogotá vehículos de cero emisiones.</p>
+                        </div>
+
+                        <div class="item-metas-grafica">
+                            <canvas height="200" id="particulares" width="400"></canvas>
+                            <script>
+                                var vp = document.getElementById('particulares').getContext('2d');
+                                var particulares = new Chart(vp, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ['2023', '2027', '2031', '2035', '2040'],
+                                        datasets: [{
+                                            label: 'Altas',
+                                            data: [69, 31, 0, 0, 0],
+                                            backgroundColor: "#3d4a1c95",
+                                            borderColor: "#4d541f",
+                                            borderWidth: 1
+                                        }, {
+                                            label: 'Bajas',
+                                            data: [25, 42, 45, 24, 0],
+                                            backgroundColor: "#828F2695",
+                                            borderColor: "#828F26",
+                                            borderWidth: 1
+                                        }, {
+                                            label: 'Cero',
+                                            data: [6, 27, 55, 76, 100],
+                                            backgroundColor: "#bed00095",
+                                            borderColor: "#BED000",
+                                            borderWidth: 1
+                                        }],
+                                    },
+                                    options: {
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: 'Vehículos particulares',
+                                                color: '#4d541f',
+                                                font: {
+                                                    family: 'Montserrat',
+                                                    size: 24,
+                                                    weight: 'bold',
+                                                    lineHeight: 1.2,
+                                                },
+                                                padding: {
+                                                    top: 32,
+                                                    left: 0,
+                                                    right: 0,
+                                                    bottom: 32
+                                                },
+                                            },
+                                            datalabels: {
+                                                color: 'blue',
+                                                labels: {
+                                                    title: {
+                                                        font: {
+                                                            weight: 'bold'
+                                                        }
+                                                    },
+                                                    value: {
+                                                        color: 'green'
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            x: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Año',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            },
+                                            y: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Valor (%) de implementación',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        animations: {
+                                            tension: {
+                                                duration: 5000,
+                                                easing: 'linear',
+                                                from: 1,
+                                                to: 0,
+                                                loop: true
+                                            }
+                                        },
+                                        ChartDataLabels: {
+
+                                        }
+                                    }
+                                });
+                            </script>
                         </div>
 
                     </div>
@@ -873,6 +1010,119 @@
                             </svg>
                             <p class="paragraph ph-1">A partir de 2032, sólo se registrarán en Bogotá motocicletas de cero emisiones.</p>
                         </div>
+                        <div class="item-metas-grafica">
+                            <canvas height="200" id="motos" width="400"></canvas>
+                            <script>
+                                var vp = document.getElementById('motos').getContext('2d');
+                                var particulares = new Chart(vp, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ['2023', '2027', '2031', '2035', '2040'],
+                                        datasets: [{
+                                            label: 'Altas',
+                                            data: [100, 85, 25, 0, 0],
+                                            backgroundColor: "#3d4a1c95",
+                                            borderColor: "#4d541f",
+                                            borderWidth: 1
+                                        }, {
+                                            label: 'Cero',
+                                            data: [0, 15, 75, 100, 100],
+                                            backgroundColor: "#bed00095",
+                                            borderColor: "#BED000",
+                                            borderWidth: 1
+                                        }],
+                                    },
+                                    options: {
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: 'Motocicletas',
+                                                color: '#4d541f',
+                                                font: {
+                                                    family: 'Montserrat',
+                                                    size: 24,
+                                                    weight: 'bold',
+                                                    lineHeight: 1.2,
+                                                },
+                                                padding: {
+                                                    top: 32,
+                                                    left: 0,
+                                                    right: 0,
+                                                    bottom: 32
+                                                },
+                                            },
+                                            datalabels: {
+                                                color: 'blue',
+                                                labels: {
+                                                    title: {
+                                                        font: {
+                                                            weight: 'bold'
+                                                        }
+                                                    },
+                                                    value: {
+                                                        color: 'green'
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            x: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Año',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            },
+                                            y: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Valor (%) de implementación',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        animations: {
+                                            tension: {
+                                                duration: 5000,
+                                                easing: 'linear',
+                                                from: 1,
+                                                to: 0,
+                                                loop: true
+                                            }
+                                        },
+                                        ChartDataLabels: {
+
+                                        }
+                                    }
+                                });
+                            </script>
+                        </div>
                     </div>
 
                 </div>
@@ -880,7 +1130,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-vehiculo cpnt-head-vehiculo-incentivos">
                         <h3 class="title title-type-2">Incentivos para vehículos particulares</h3>
-                        <p class="paragraph ph-1">Cada producto incluye las acciones necesarias  que a su vez sirven   como insumos y gestiones de bienes y servicios facilitando la transición de cada uno de estos modos de transporte.</p>
+                        <p class="paragraph ph-1">Conoce los incentivos que ya existen para apoyar la implementación de estas tecnologías.</p>
                     </div>
 
                     <div class="cpnt cpnt-incentivos">
@@ -1123,7 +1373,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-vehiculo cpnt-head-vehiculo-clave">
                         <h3 class="title title-type-2">Productos claves para lograr la transición de los vehículos particulares y motocicletas hacia las cero emisiones:</h3>
-                        <p class="paragraph ph-1">Cada producto incluye las acciones necesarias  que a su vez sirven   como insumos y gestiones de bienes y servicios facilitando la transición de cada uno de estos modos de transporte.</p>
+                        <p class="paragraph ph-1">Cada producto incluye las acciones necesarias que a su vez sirven como insumos y gestiones de bienes y servicios facilitando la transición de cada uno de estos modos de transporte.</p>
                     </div>
                     <div class="cpnt cpnt-body">
                         <div class="group-data">
@@ -1215,6 +1465,125 @@
                             </svg>
                             <p class="paragraph ph-1">A partir de 2035, el registro de vehículos de carga será únicamente de cero emisiones, de conformidad con la Ley 1972 de 2019.</p>
                         </div>
+                        <div class="item-metas-grafica">
+                            <canvas height="200" id="carga" width="400"></canvas>
+                            <script>
+                                var vp = document.getElementById('carga').getContext('2d');
+                                var carga = new Chart(vp, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ['2023', '2027', '2031', '2035', '2040'],
+                                        datasets: [{
+                                            label: 'Altas',
+                                            data: [98, 83, 51, 0, 0],
+                                            backgroundColor: "#3d4a1c95",
+                                            borderColor: "#4d541f",
+                                            borderWidth: 1
+                                        }, {
+                                            label: 'Bajas',
+                                            data: [2, 13, 25, 45, 44],
+                                            backgroundColor: "#828F2695",
+                                            borderColor: "#828F26",
+                                            borderWidth: 1
+                                        }, {
+                                            label: 'Cero',
+                                            data: [0, 4, 24, 55, 56],
+                                            backgroundColor: "#bed00095",
+                                            borderColor: "#BED000",
+                                            borderWidth: 1
+                                        }],
+                                    },
+                                    options: {
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: 'Transporte de carga',
+                                                color: '#4d541f',
+                                                font: {
+                                                    family: 'Montserrat',
+                                                    size: 24,
+                                                    weight: 'bold',
+                                                    lineHeight: 1.2,
+                                                },
+                                                padding: {
+                                                    top: 32,
+                                                    left: 0,
+                                                    right: 0,
+                                                    bottom: 32
+                                                },
+                                            },
+                                            datalabels: {
+                                                color: 'blue',
+                                                labels: {
+                                                    title: {
+                                                        font: {
+                                                            weight: 'bold'
+                                                        }
+                                                    },
+                                                    value: {
+                                                        color: 'green'
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            x: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Año',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            },
+                                            y: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Valor (%) de implementación',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        animations: {
+                                            tension: {
+                                                duration: 5000,
+                                                easing: 'linear',
+                                                from: 1,
+                                                to: 0,
+                                                loop: true
+                                            }
+                                        },
+                                        ChartDataLabels: {
+
+                                        }
+                                    }
+                                });
+                            </script>
+                        </div>
 
                     </div>
                 </div>
@@ -1222,7 +1591,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-carga cpnt-head-carga-incentivos">
                         <h3 class="title title-type-2">Incentivos para vehículos de transporte de carga</h3>
-                        <p class="paragraph ph-1">Cada producto incluye las acciones esperadas que convierten una insumos y gestiones en bienes, servicios para lograr la transición de cada uno de estos modos de transporte.</p>
+                        <p class="paragraph ph-1">Conoce los incentivos que ya existen para apoyar la implementación de estas tecnologías.</p>
                     </div>
 
                     <div class="cpnt cpnt-incentivos">
@@ -1673,6 +2042,113 @@
                             </svg>
                             <p class="paragraph ph-1">A 2032 el 100% de buses escolares nuevos que se registren serán solo de Cero Emisiones.</p>
                         </div>
+                        <div class="item-metas-grafica">
+                            <canvas height="200" id="escolar" width="400"></canvas>
+                            <script>
+                                var vp = document.getElementById('escolar').getContext('2d');
+                                var escolar = new Chart(vp, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ['2023', '2027', '2031', '2035', '2040'],
+                                        datasets: [{
+                                            label: 'Cero',
+                                            data: [0, 0, 6, 18, 54],
+                                            backgroundColor: "#bed00095",
+                                            borderColor: "#BED000",
+                                            borderWidth: 1
+                                        }],
+                                    },
+                                    options: {
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: 'Transporte escolar',
+                                                color: '#4d541f',
+                                                font: {
+                                                    family: 'Montserrat',
+                                                    size: 24,
+                                                    weight: 'bold',
+                                                    lineHeight: 1.2,
+                                                },
+                                                padding: {
+                                                    top: 32,
+                                                    left: 0,
+                                                    right: 0,
+                                                    bottom: 32
+                                                },
+                                            },
+                                            datalabels: {
+                                                color: 'blue',
+                                                labels: {
+                                                    title: {
+                                                        font: {
+                                                            weight: 'bold'
+                                                        }
+                                                    },
+                                                    value: {
+                                                        color: 'green'
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            x: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Año',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            },
+                                            y: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Valor (%) de implementación',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        animations: {
+                                            tension: {
+                                                duration: 5000,
+                                                easing: 'linear',
+                                                from: 1,
+                                                to: 0,
+                                                loop: true
+                                            }
+                                        },
+                                        ChartDataLabels: {
+
+                                        }
+                                    }
+                                });
+                            </script>
+                        </div>
 
                     </div>
                 </div>
@@ -1680,7 +2156,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-escolar cpnt-head-escolar-incentivos">
                         <h3 class="title title-type-2">Incentivos para vehículos de transporte escolar</h3>
-                        <p class="paragraph ph-1">A cargo de la Secretaría de Educación. Se incorporarán incentivos en los procesos de contratación que adelante la Secretaría de Educación del Distrito.</p>
+                        <p class="paragraph ph-1">Conoce los incentivos que ya existen para apoyar la implementación de estas tecnologías.</p>
                     </div>
 
                     <div class="cpnt cpnt-incentivos">
@@ -1807,7 +2283,7 @@
                     </div>
                 </div>
                 <style>
-                    #tab-escolar-3 .video-1{
+                    #tab-escolar-3 .video-1 {
                         padding: 16px 64px;
                     }
                 </style>
@@ -1823,7 +2299,7 @@
                             <p class="paragraph ph-1">A cargo de las Secretarías de Movilidad y Ambiente. Se llevarán a cabo mediciones, estudios y sensibilización de las rutas escolares, los cuales permitirán recopilar insumos técnicos, operacionales y ambientales que permitirán fomentar el cambio a vehículos eléctricos en el sector escolar.</p>
                             <div class="video video-1">
                                 <video controls style="width: 100%;" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/portada_video.jpg">
-                                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/rutas_electricasalta.mp4" type="video/mp4"  preload>
+                                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/rutas_electricasalta.mp4" type="video/mp4" preload>
                                 </video>
                             </div>
                         </div>
@@ -1904,6 +2380,120 @@
                             </svg>
                             <p class="paragraph ph-1">Para 2028 el 100% de la flota oficial propia o contratada de uso de las entidades distritales para transporte de pasajeros de tipología automóvil, campero y/o camioneta, será cero emisiones.</p>
                         </div>
+                        <div class="item-metas-grafica">
+                            <canvas height="200" id="oficial" width="400"></canvas>
+                            <script>
+                                var vp = document.getElementById('oficial').getContext('2d');
+                                var oficial = new Chart(vp, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ['2023', '2027', '2031', '2035', '2040'],
+                                        datasets: [{
+                                            label: 'Altas',
+                                            data: [98, 31, 0, 0, 0],
+                                            backgroundColor: "#3d4a1c95",
+                                            borderColor: "#4d541f",
+                                            borderWidth: 1
+                                        }, {
+                                            label: 'Cero',
+                                            data: [2, 69, 100, 100, 100],
+                                            backgroundColor: "#bed00095",
+                                            borderColor: "#BED000",
+                                            borderWidth: 1
+                                        }],
+                                    },
+                                    options: {
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: 'Vehículos particulares',
+                                                color: '#4d541f',
+                                                font: {
+                                                    family: 'Montserrat',
+                                                    size: 24,
+                                                    weight: 'bold',
+                                                    lineHeight: 1.2,
+                                                },
+                                                padding: {
+                                                    top: 32,
+                                                    left: 0,
+                                                    right: 0,
+                                                    bottom: 32
+                                                },
+                                            },
+                                            datalabels: {
+                                                color: 'blue',
+                                                labels: {
+                                                    title: {
+                                                        font: {
+                                                            weight: 'bold'
+                                                        }
+                                                    },
+                                                    value: {
+                                                        color: 'green'
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            x: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Año',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            },
+                                            y: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Valor (%) de implementación',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        animations: {
+                                            tension: {
+                                                duration: 5000,
+                                                easing: 'linear',
+                                                from: 1,
+                                                to: 0,
+                                                loop: true
+                                            }
+                                        },
+                                        ChartDataLabels: {
+
+                                        }
+                                    }
+                                });
+                            </script>
+                        </div>
+
 
                     </div>
                 </div>
@@ -1911,7 +2501,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-oficial cpnt-head-oficial-incentivos">
                         <h3 class="title title-type-2">Incentivos para vehículos de la flota oficial</h3>
-                        <p class="paragraph ph-1">Cada producto incluye las acciones esperadas que convierten una insumos y gestiones en bienes, servicios para lograr la transición de cada uno de estos modos de transporte.</p>
+                        <p class="paragraph ph-1">Conoce los incentivos que ya existen para apoyar la implementación de estas tecnologías.</p>
                     </div>
 
                     <div class="cpnt cpnt-incentivos">
@@ -2412,6 +3002,120 @@
                             <p class="paragraph ph-1">Para el año 2035, únicamente circularán en la ciudad taxis de cero emisiones.</p>
                         </div>
 
+                        <div class="item-metas-grafica">
+                            <canvas height="200" id="taxis" width="400"></canvas>
+                            <script>
+                                var vp = document.getElementById('taxis').getContext('2d');
+                                var taxis = new Chart(vp, {
+                                    type: 'bar',
+                                    data: {
+                                        labels: ['2023', '2027', '2031', '2035', '2040'],
+                                        datasets: [{
+                                            label: 'Altas',
+                                            data: [100, 90, 60, 0, 0],
+                                            backgroundColor: "#3d4a1c95",
+                                            borderColor: "#4d541f",
+                                            borderWidth: 1
+                                        }, {
+                                            label: 'Cero',
+                                            data: [0, 10, 40, 100, 100],
+                                            backgroundColor: "#bed00095",
+                                            borderColor: "#BED000",
+                                            borderWidth: 1
+                                        }],
+                                    },
+                                    options: {
+                                        plugins: {
+                                            title: {
+                                                display: true,
+                                                text: 'Flota de taxis',
+                                                color: '#4d541f',
+                                                font: {
+                                                    family: 'Montserrat',
+                                                    size: 24,
+                                                    weight: 'bold',
+                                                    lineHeight: 1.2,
+                                                },
+                                                padding: {
+                                                    top: 32,
+                                                    left: 0,
+                                                    right: 0,
+                                                    bottom: 32
+                                                },
+                                            },
+                                            datalabels: {
+                                                color: 'blue',
+                                                labels: {
+                                                    title: {
+                                                        font: {
+                                                            weight: 'bold'
+                                                        }
+                                                    },
+                                                    value: {
+                                                        color: 'green'
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        scales: {
+                                            x: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Año',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            },
+                                            y: {
+                                                stacked: true,
+                                                title: {
+                                                    display: true,
+                                                    text: 'Valor (%) de implementación',
+                                                    color: '#363636',
+                                                    font: {
+                                                        family: 'Montserrat',
+                                                        size: 16,
+                                                        weight: 'bold',
+                                                        lineHeight: 1.2,
+                                                    },
+                                                    padding: {
+                                                        top: 20,
+                                                        left: 0,
+                                                        right: 0,
+                                                        bottom: 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        animations: {
+                                            tension: {
+                                                duration: 5000,
+                                                easing: 'linear',
+                                                from: 1,
+                                                to: 0,
+                                                loop: true
+                                            }
+                                        },
+                                        ChartDataLabels: {
+
+                                        }
+                                    }
+                                });
+                            </script>
+                        </div>
+
                     </div>
                 </div>
 
@@ -2419,7 +3123,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-taxi cpnt-head-taxi-incentivos">
                         <h3 class="title title-type-2">Incentivos para taxis</h3>
-                        <p class="paragraph ph-1">Cada producto incluye las acciones esperadas que convierten una insumos y gestiones en bienes, servicios para lograr la transición de cada uno de estos modos de transporte.</p>
+                        <p class="paragraph ph-1">Conoce los incentivos que ya existen para apoyar la implementación de estas tecnologías.</p>
                     </div>
 
                     <div class="cpnt cpnt-items cpnt-incentivos">

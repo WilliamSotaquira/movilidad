@@ -5,6 +5,7 @@
 <!-- Set avisos -->
 <hr>
 <div class="set-wrapper avisos">
+
     <div class="cmpnt cmpnt-carousel">
         <div class="carousel slide" data-interval="12000" data-ride="carousel-avisos" id="carousel-avisos">
             <ol class="carousel-indicators">
@@ -16,33 +17,45 @@
                 <li data-slide-to="5" data-target="#carousel-avisos" title="Banner 6"></li>
             </ol>
 
+
             <div class="carousel-inner" role="listbox">
 
-            <div class="item active">
-                <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-10-2024/v_5_abece_plan_piloto_de_salida.pdf">
-                    <picture>
-                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2024/modificacion_piezas_pyp_2_y_9_nov_banner_de_pyp_240812_b1_950-300.jpg">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2024/modificacion_piezas_pyp_2_y_9_nov_banner_de_pyp_240812_b2_340_x_300.jpg" class="img-responsive w-100" alt="plan piloto de salida los sábados 2 y 9 de noviembre" title="Image: plan piloto de salida los sábados 2 y 9 de noviembre">
-                    </picture>
-                </a>
-            </div>
-
-            <div class="item">
-                <a href="https://www.movilidadbogota.gov.co/web/movilidad_segura">
-                    <picture>
-                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/campanas_micrositio-lg.png">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/campanas_micrositio-xs.png" class="img-responsive w-100" alt="Campañas de conciencia Vial" title="Image: Campañas de conciencia Vial">
-                    </picture>
-                </a>
-            </div>
-            <div class="item">
-                    <a>
+                <div class="item active">
+                    <a href="https://www.movilidadbogota.gov.co/web/consulta_de_comparendos">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2024/feria_barriosunidos_banner_lg.jpg">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2024/feria_barriosunidos_banner_xs.jpg" class="img-responsive w-100" alt="Feria A Tu Servicio en Barrios Unidos" title="Image: Feria A Tu Servicio en Barrios Unidos">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-11-2024/banner-final-aministias-nov-desktop-v2.png">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/19-11-2024/banner-final-aministias-nov-mobile-v1.png" class="img-responsive w-100" alt="'Últimos días Amnistía'" title="Image: 'Últimos días Amnistía'">
                         </picture>
                     </a>
                 </div>
+
+                <div class="item">
+                    <a>
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-11-2024/info_importante_csm_nov2024_banner1.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-11-2024/info_importante_csm_nov2024_banner2.jpg" class="img-responsive w-100" alt="¡Información importante! Centro de Servicios de Movilidad Calle 13" title="Image: ¡Información importante! Centro de Servicios de Movilidad Calle 13">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2024/abc_recategorizacion.pdf">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2024/banner_web_recategorizacion_nov2024_lg.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-11-2024/banner_web_recategorizacion_nov2024_xs.jpg" class="img-responsive w-100" alt="Convocatoria gratuita para mujeres - Recategorización de licencia" title="Image: Convocatoria gratuita para mujeres - Recategorización de licencia">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="https://www.movilidadbogota.gov.co/web/movilidad_segura">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/campanas_micrositio-lg.png">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/23-10-2024/campanas_micrositio-xs.png" class="img-responsive w-100" alt="Campañas de conciencia Vial" title="Image: Campañas de conciencia Vial">
+                        </picture>
+                    </a>
+                </div>
+
 
                 <div class="item">
                     <a href="https://whatsapp.com/channel/0029VadhWYGJENyA2aKsbF2B">
@@ -56,17 +69,8 @@
                 <div class="item">
                     <a href="https://bogota.gov.co/racionamiento-agua-bogota/">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_zorro_sdm_2_-_950x300.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_zorro_sdm_3_-_340x300.png" class="img-responsive w-100" alt="Turnos de racionamiento" title="Image: Turnos de racionamiento">
-                        </picture>
-                    </a>
-                </div>
-
-                <div class="item">
-                    <a href="https://bogota.gov.co/racionamiento-agua-bogota/">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_sdm_2_-_950x300.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-09-2024/banner_turnos_racionamiento_sdm_3_-_340x300.png" class="img-responsive w-100" alt="Turnos de racionamiento 2" title="Image: Turnos de racionamiento 2">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2024/nuevos_turnos_de_racionamiento_de_agua_noviembre_-_consumo_responsable_950x300.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2024/nuevos_turnos_de_racionamiento_de_agua_noviembre_-_consumo_responsable_300x340.jpg" class="img-responsive w-100" alt="Turnos de racionamiento 2" title="Image: Turnos de racionamiento 2">
                         </picture>
                     </a>
                 </div>
@@ -80,25 +84,6 @@
                                 title="Image:Las obras de la Línea 1 del Metro avanzan">
                         </picture>
                     </a></div>
-
-                <div class="item">
-                    <picture>
-                        <source media="(min-width: 465px)"
-                            srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/16-08-2024/apertura_nuestrobogota_banner1.jpg">
-                        <img alt="Ir a Plan piloto de salida" class="img-responsive w-100"
-                            src="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/16-08-2024/apertura_nuestrobogota_banner2.jpg"
-                            title="Image: Plan piloto de salida">
-                    </picture>
-                </div>
-
-                <div class="item">
-                    <a href="https://encuestas.veeduriadistrital.gov.co:447/index.php/2?lang=es">
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-08-2024/banner_veeduria_900x330.png">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-08-2024/banner_veeduria-340x300.png" class="img-responsive w-100" alt="Ir a Banner de inscripción Reconocimiento al Control Social" title="Image: Banner de inscripción Reconocimiento al Control Social">
-                        </picture>
-                    </a>
-                </div>
 
                 <div class="item"><a href="https://webfenix.movilidadbogota.gov.co/#/consulta-pagos">
                         <picture>

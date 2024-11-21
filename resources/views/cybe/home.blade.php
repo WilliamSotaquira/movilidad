@@ -918,14 +918,10 @@
             </h3>
         </div>
         <div class="cpnt cpnt-aliados-summary">
-            <p>Nos unimos con el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) para invitar a las <strong>organizaciones a que definan compromisos específicos por la movilidad eléctrica.</strong></p>
-            <p>A 2023, son más de 50 organizaciones comprometidas que han generado más de 100 compromisos por la movilidad eléctrica.</p>
+            <p>Nuestra red empresarial reúne a empresas, entidades públicas y académicas que, mediante compromisos específicos, impulsan la transición tecnológica de propulsión vehicular hacia una movilidad de cero y bajas emisiones, promoviendo un entorno urbano más limpio y saludable para todos.</p>
+            <p>Hoy hacen parte de la Red de Movilidad de Cero y Bajas Emisiones (RCBE) más de 70 organizaciones que aportan a la cadena de valor del fortalecimiento de una mejor calidad del aire en Bogotá DC.</p>
         </div>
-        <div class="cpnt cpnt-logos-aliados">
-            <div class="logo-aliado img-logo-aliados-1">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-08-2024/onu_pnuma.jpg" alt="Logo ONU" title="Logo ONU">
-            </div>
-        </div>
+
         <div class="cpnt cpnt-slider">
             <div id="carousel_empresas_b" class="carousel carousel_empresas slide" data-ride="carousel">
 
