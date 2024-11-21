@@ -151,7 +151,7 @@
             font-weight: 700;
             text-align: left;
             line-height: 1.2;
-            color: #333333ff;
+            color: #363636;
             font-size: 24px;
         }
 
@@ -198,12 +198,17 @@
         .canals-ts ul li span {
             position: absolute;
             margin-left: -24px;
+        }
+
+        .canals-ts ul li span img{
+            width: 20px;
 
         }
 
         .canals-ts ul li a {
-            color: #191c3d;
+            color: #4d541f;
             text-decoration: underline;
+            font-weight: 600;
 
         }
 
@@ -253,7 +258,7 @@
             font-weight: 700;
             text-align: center;
             line-height: 1.2;
-            color: #191c3d;
+            color: #4d541f;
             margin-bottom: 32px;
         }
 
@@ -359,17 +364,47 @@
             margin-bottom: 32px;
             display: grid;
             gap: 8px;
+            grid-template-columns: 1fr;
             grid-auto-flow: dense;
-            grid-template-columns: 1fr 1fr;
             grid-template-rows: auto;
             align-items: end;
+
+            @media(min-width:768px) {
+                grid-template-columns: 1fr 1fr;
+
+            }
         }
 
         .box-bloque-2 #buttonsFilter {
             display: inline-flex;
             gap: 8px;
+            align-content: center;
+            flex-wrap: wrap;
+            justify-content: center;
 
+            @media(min-width:768px) {
+                justify-content: flex-start;
+            }
         }
+
+        .box-bloque-2 .btn{
+            width: auto !important;
+            background-color: #BED000;
+            color: #252525;
+        }
+
+        .box-bloque-2 .btn:hover{
+            width: auto !important;
+            background-color: #4d541f;
+            color: #fff;
+        }
+
+        .box-bloque-2 .btn:focus{
+            width: auto !important;
+            background-color: #4d541f;
+            color: #fff;
+        }
+
 
         .box-bloque-2 form {
             display: grid;
@@ -494,180 +529,181 @@
     var mouseoversound = createsoundbite("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/click.ogg", "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/click.mp3");
     var clicksound = createsoundbite("https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/click.ogg", "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/click.mp3");
 
+
     const canals = [{
             position: 0,
             name: 'Solicítalo',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/SIMUR/excepciones/login/',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 1,
             name: 'Presencial Sede Calle 13 (Personas con discapacidad)',
             urlCanal: 'https://goo.gl/maps/HZtRnz1zADb64a1y6',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 2,
             name: 'Presencial Sede Paloquemao (Personas con discapacidad)',
             urlCanal: 'https://goo.gl/maps/G3w4osY6PFcf39Y67',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 3,
             name: 'Llámanos',
             urlCanal: 'tel:6013649400',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/phone_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/phone_20.png'
         },
         {
             position: 4,
             name: 'Te regresamos la llamada',
             urlCanal: 'https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/call_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/call_20.png'
         },
         {
             position: 5,
             name: 'Chat en línea',
             urlCanal: 'https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/WCSecMovilidadV1?token=37CC9C9E2A638DC23750B4EC3F74D96E&notify=b8c4b55f-8a9e-e6bd-b364-6ab30e41be18&dev=false&type=popup',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/chat_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/chat_20.png'
 
         },
         {
             position: 6,
             name: 'Videollamada en lengua de señas colombiana',
             urlCanal: 'https://cls45-ws-secmovilidad.inconcertcc.com/VCSECMOV/',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/lengua_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/lengua_20.png'
         },
         {
             position: 7,
             name: 'Agenda la cita',
             urlCanal: 'https://vus.circulemosdigital.com.co/#/login',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/calendar_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/calendar_20.png'
         },
         {
             position: 8,
             name: 'Puntos de atención (previo agendamiento)',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/puntos_de_atencion',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 9,
             name: 'Presencial Sede Calle 13 (Previo agendamiento)',
             urlCanal: 'https://goo.gl/maps/HZtRnz1zADb64a1y6',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 10,
             name: 'Presencial Sede Paloquemao (Previo agendamiento)',
             urlCanal: 'https://goo.gl/maps/G3w4osY6PFcf39Y67',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 11,
             name: 'Solicítalo',
             urlCanal: 'https://bogota.gov.co/sdqs',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 12,
             name: 'Radicar correo',
             urlCanal: 'https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/email_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/email_20.png'
         },
         {
             position: 13,
             name: 'Solicítalo',
             urlCanal: 'https://vucapp.habitatbogota.gov.co/vuc/login.seam',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 14,
             name: 'Presencial Sede Paloquemao',
             urlCanal: 'https://goo.gl/maps/G3w4osY6PFcf39Y67',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 15,
             name: 'Solicítalo',
             urlCanal: 'https://bogota.gov.co/sdqs/crear-peticion',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 16,
             name: 'Solicítalo',
             urlCanal: 'https://bogota.gov.co/sdqs/',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 17,
             name: 'Presencial: Puntos de radicación de correspondencia',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/puntos_de_atencion',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 18,
             name: 'Presencial Sede Calle 13',
             urlCanal: 'https://goo.gl/maps/HZtRnz1zADb64a1y6',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 19,
             name: 'Presencial (Previo agendamiento) Sede Calle 13',
             urlCanal: 'https://goo.gl/maps/HZtRnz1zADb64a1y6',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 20,
             name: 'Solicítalo',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/entrega_de_licencia_retenida_y_realizacion_del_curso',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/calendar_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/calendar_20.png'
         },
         {
             position: 21,
             name: 'Solicítalo',
             urlCanal: 'https://registrobicibogota.movilidadbogota.gov.co/#!/',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 22,
             name: 'Presencial: Centros locales de movilidad',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/centros-locales-de-movilidad',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/posicion_20.png'
         },
         {
             position: 23,
             name: 'Solicítalo',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/cicloparqueaderos',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 24,
             name: 'Solicítalo',
             urlCanal: 'https://picoyplacasolidario.movilidadbogota.gov.co/PortalCiudadano/#/',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 25,
             name: 'Solicítalo',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/content/plan_marshall',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 26,
             name: 'Ve a la página web',
             urlCanal: 'https://www.movilidadbogota.gov.co/web/ORVI',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 27,
             name: 'Escríbe por Whatsapp',
             urlCanal: 'https://api.whatsapp.com/send?phone=573058703458&text=Hola%20somos%20ORVI%2C%20el%20Centro%20de%20Orientaci%C3%B3n%20para%20V%C3%ADctimas%20por%20Siniestros%20Viales%C2%A0de%C2%A0Bogot%C3%A1%20D.C%2C%20%C2%BFEn%20qu%C3%A9%20te%20podemos%20ayudar%3F',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
         {
             position: 28,
             name: 'Repórtalo',
             urlCanal: 'https://bogota.gov.co/sdqs/',
-            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
     ];
 

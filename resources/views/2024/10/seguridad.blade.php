@@ -300,6 +300,35 @@
         </div>
         <div class="cards-campaigns">
 
+            <div class="card card-velocidad velocidad">
+                <div class="lashing">
+                    <div class="summary-card">
+                        <div class="year-summary">
+                            <p class="paragraph ph-1">2024</p>
+                        </div>
+                        <div class="title-summary">
+                            <h4 class="title title-1">No somos una cifra, <br>respeta el límite</h4>
+                        </div>
+                        <div class="description-summary">
+                            <p class="paragraph ph-1"><b>Factor de riesgo: Velocidad</b></p>
+                            <p class="paragraph ph-1">En esta campaña el Dr. Juan Manuel Martínez, cirujano de trauma y emergencia, explica porqué la tecnología y los controles en vía son importantes para salvar vidas, ya que a diario, ve morir personas en su sala de cirugía debido al exceso de velocidad. Esta campaña cambio de comportamiento  ‘No somos una cifra, respeta el límite’ busca aumentar la percepción de riesgo de los conductores frente al exceso de velocidad y los invita a respetar el límite establecido.</p>
+                        </div>
+                        <div class="line-summary">
+                            <div class="logo logo-1">
+                                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-10-2024/line_a.png" alt="logo line">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="video-card">
+                        <div class="video video-1 video-16by9">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width='100%' src='https://www.youtube.com/embed/COOVUTlpVvA' title='YouTube video player' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <div class="card card-embriaguez embriaguez">
                 <div class="lashing">
                     <div class="summary-card">

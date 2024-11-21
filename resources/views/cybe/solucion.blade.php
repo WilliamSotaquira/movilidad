@@ -1038,7 +1038,7 @@
                                         <dd>Aumentar las capacidades para la <b>gestión de baterías</b> de los vehículos eléctricos.</dd>
                                         <dl>
                                             <dt>Productos estratégicos:</dt>
-                                            <dd><b>Guía de manejo</b> de baterías.</dd>
+                                            <dd><b><a href="https://www.ambientebogota.gov.co/documents/10184/7025375/Guia+de+baterias+actualizada+-+24+julio+2024_compressed.pdf/3f1ace77-1467-4145-a6b0-72f43725eb62" target="_blank" rel="noopener noreferrer">Guía</a> de manejo</b> de baterías.</dd>
                                             <dd><b>Estrategia de promoción</b> de gestión adecuada de las baterías.</dd>
                                         </dl>
                                     </dl>

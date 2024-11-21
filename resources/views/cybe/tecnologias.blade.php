@@ -317,12 +317,6 @@
             font-weight: normal;
             line-height: 1.2;
 
-
-            display: -webkit-box;
-            -webkit-box-orient: vertical;
-            -webkit-line-clamp: 5;
-            line-clamp: 5;
-            overflow: auto;
         }
 
         @media(min-width:768px) {
@@ -382,8 +376,8 @@
             <div class="column bajas double">
                 <div class="content">
                     <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/17-07-2024/tecnologias_6.png" alt="Nature" style="width:100%">
-                    <h4>Diésel Euro VI</h4>
-                    <p>Euro VI corresponde al estándar más reciente y limpio de la norma europea que regula los límites aceptables para las emisiones de gases y material particulado de los vehículos de combustión. Este estándar se adoptó en Colombia por medio de la Ley 1972 de 2019. Se estima que un bus diésel Euro VI reduciría las emisiones de material particulado en al menos 95 % si se compara con un bus Euro V (Transmilenio S.A, 2020).</p>
+                    <h4>Diésel Euro VI (Ley 1972 de 2019)</h4>
+                    <p>Euro VI corresponde al estándar más reciente de la norma europea para los límites aceptables de emisiones de gases y material particulado. Se estima que un bus diésel Euro VI reduciría las emisiones de material particulado en al menos 95 % frente a un bus Euro V (Transmilenio S.A, 2020).</p>
                 </div>
             </div>
 

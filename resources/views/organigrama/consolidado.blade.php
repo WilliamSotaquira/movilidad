@@ -13,7 +13,7 @@
     <hr>
     <div class="row">
         <div class="col-xs-12 text-center">
-            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-09-2024/organigrama_sdm_sept_2024_.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
+            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-10-2024/organigrama_sdm_oct_1_2024.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
         </div>
     </div>
     <hr>

@@ -593,7 +593,6 @@
                                 </div>
                             </div>
 
-                            dg
                             <div class="boxes">
                                 <div class="item item-title span-3">
                                     <p><strong>Centro&nbsp;de&nbsp;Servicios&nbsp;de&nbsp;Movilidad - Paloquemao</strong></p>
@@ -601,10 +600,7 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
-
                                     <p><a class="url-map" href="https://maps.app.goo.gl/JmkpBQXuDmzxeo9eA">Cra 28 A # 17 A 20</a></p>
-                                    <p>&nbsp;</p>
-                                    <div class="alert alert-danger m-auto" role="alert"> Cerrado temporalmente</div>
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
@@ -882,9 +878,7 @@
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
-                                    <!-- <p>Lunes a viernes 8:00&nbsp;a.m. a 5:00&nbsp;p.m.</p> -->
-                                    <p>&nbsp;</p>
-                                    <div class="alert alert-danger m-auto" role="alert"> Cerrado temporalmente</div>
+                                    <p>Lunes a viernes 8:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
                                 </div>
 
                                 <div class="item">
@@ -1773,24 +1767,20 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
-
                                     <p><a class="url-map" href="https://maps.app.goo.gl/56YDWyJ4Pcg37o456">Calle 13 #37-35</a></p>
                                 </div>
                             </div>
 
-                            <div class="boxes">
+                            <!-- <div class="boxes">
                                 <div class="item item-title span-3">
                                     <p><strong>Centro de Servicios de Movilidad Paloquemao</strong></p>
                                     <span>Localidad: Los Mártires</span>
                                 </div>
-
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
                                     <p><a class="url-map" href="https://maps.app.goo.gl/YnesuS5JXnwafYE68">Carrera 28 A #18-20</a></p>
-                                    <p>&nbsp;</p>
-                                    <div class="alert alert-danger m-auto" role="alert"> Cerrado temporalmente</div>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="boxes">
                                 <div class="item item-title span-3">
