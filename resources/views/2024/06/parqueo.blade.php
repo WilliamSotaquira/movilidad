@@ -432,7 +432,7 @@
                         <div class='panel-heading' role='tab' id='heading-tarifas'>
                             <h4 class='panel-title'>
                                 <a role='button' data-toggle='collapse' data-parent='#accordion-infraccion' href='#collapse-tarifas' aria-expanded='false' aria-controls='collapse-tarifas'>
-                                    Tarifas 2024
+                                    Tarifas 2025
                                 </a>
                             </h4>
                         </div>
@@ -440,8 +440,8 @@
                             <div class='panel-body'>
                                 <div class='body-collapse-tarifas'>
                                     <div class="imagen img1">
-                                        <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/img-parqueo-2.png">
-                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/img-parqueo-2.png" alt="Imagen: Tarifas servicios de parqueo y grúa" title="Imagen: Tarifas servicios de parqueo y grúa">
+                                        <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/tarifas_grua_y_patio_2025_dig_horizontal4x.png">
+                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/tarifas_grua_y_patio_2025_dig_horizontal4x.png" alt="Imagen: Tarifas servicios de parqueo y grúa" title="Imagen: Tarifas servicios de parqueo y grúa">
                                         </a>
                                     </div>
                                 </div>

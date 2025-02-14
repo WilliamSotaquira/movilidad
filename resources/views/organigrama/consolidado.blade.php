@@ -13,7 +13,7 @@
     <hr>
     <div class="row">
         <div class="col-xs-12 text-center">
-            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-10-2024/organigrama_sdm_oct_1_2024.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
+            <div class="boton_org"><a class="btn-org" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-12-2024/organigrama_sdm_2024_12_17.pdf" rel="noopener noreferrer" target="_blank">Ver Organigrama Completo</a></div>
         </div>
     </div>
     <hr>
@@ -283,31 +283,26 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
-                                                        <div class="img-perfil w-100"><img alt="Foto: Guetty Caycedo Caycedo" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/22-10-2020/guetty-caycedo.jpg" title="Foto: Guetty Caycedo Caycedo"></div>
+                                                        <div class="img-perfil w-100">
+                                                            <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2024/claudia_patricia_tabares_forero.png" alt="Foto: Claudia Patricia Tabares Forero">
+                                                        </div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
-                                                            <div>
-                                                                <h1>Guetty Caycedo Caycedo</h1>
-
-                                                                <h4>Jefe de Oficina de Control Disciplinario</h4>
-                                                            </div>
-
+                                                            <h1>Claudia Patricia Tabares Forero</h1>
+                                                            <h4>Oficina de Control Interno Disciplinario</h4>
                                                             <div class="descripcion-xs">
-                                                                <p>Profesional con amplia trayectoria en el sector público, particularmente en los campos del derecho administrativo, constitucional y disciplinario.</p>
-
-                                                                <p>Es abogada, egresada de la Universidad Colegio Mayor de Cundinamarca, y especialista en Derecho Administrativo y Constitucional de la Universidad Católica de Colombia.</p>
-
-                                                                <p>Trabajó en el Ministerio de Tecnologías de la Información y las Comunicaciones (Mintic), como asesora del despacho, con funciones de coordinación del grupo de talento humano y del grupo de control disciplinario.</p>
-
-                                                                <p>También tiene experiencia laboral en las Superintendencias de Sociedades y de Industria y Comercio, entidades que en las que fue secretaría administrativa del grupo de control disciplinario, además coordinadora del grupo de notificaciones y de atención al ciudadano, por espacio de 13 años.</p>
+                                                                <p>Abogada, egresada de la Universidad Externado de Colombia, especialista en Derecho Disciplinario del mismo claustro, y en Derecho Constitucional de la Universidad Nacional; con más de 32 años de experiencia en el ámbito jurídico. Ha dedicado su carrera a la investigación y gestión de procesos penales, administrativos y disciplinarios, siempre guiada por la búsqueda de la verdad, la transparencia y la justicia.</p>
+                                                                <p>Dentro de su trayectoria ha desempeñado roles clave como: en la Rama Judicial fue sustanciadora y secretaria en Juzgados de Menores (hoy infancia y adolescencia) y Juzgados Penales del Circuito, y Juez Penal Municipal. Fue abogada asistente en el Consejo Seccional de la Judicatura- Sala Disciplinaria, y en la Procuraduría trabajó como asesora del despacho del Procurador General en moralidad pública, contratación estatal, juzgamiento de servidores públicos de elección popular y en instrucción disciplinaria en procesos de seguimiento de tutela, de la Corte Constitucional. Experiencia que le permitió fortalecer su compromiso con la ética y el servicio público.</p>
+                                                                <p>Asume el cargo con el propósito de liderar y fortalecer los procesos disciplinarios internos, garantizando decisiones justas, objetivas y fundamentadas en un análisis riguroso. Tiene como objetivo promover una cultura de integridad, prevenir conductas contrarias a la ética y asegurar el manejo transparente de los recursos públicos.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>
@@ -330,11 +325,11 @@
                                             </div>
 
                                             <div class="panel-body-mapa">
+
                                                 <div class="row">
                                                     <div class="col-xs-12 col-sm-4 text-center">
                                                         <div class="img-perfil w-100"><img alt="Foto: Alba Enidia Villamil Muñoz" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-09-2022/alba_enidia_villamil_munoz.png" title="Foto: Alba Enidia Villamil Muñoz"></div>
                                                     </div>
-
                                                     <div class="col-xs-12 col-sm-8 ">
                                                         <div class="descripcion">
                                                             <div>
@@ -353,6 +348,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>
@@ -381,27 +377,28 @@
                         </div>
 
                         <div class="panel-body-mapa">
+
                             <div class="row">
                                 <div class="col-xs-12 col-sm-4 text-center">
-                                    <div class="img-perfil w-100"><img alt="Foto: Ana Milena Gómez Guzmán" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/06-02-2024/ana_milena_gomez.png"></div>
+                                    <div class="img-perfil w-100">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-12-2024/liliana_paola_onate_acosta.png" alt="Foto: Liliana Paola Oñate Acosta">
+                                    </div>
                                 </div>
-
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
-                                        <h1>Ana Milena Gómez Guzmán</h1>
-
-                                        <h4>Subsecretaria De Política De Movilidad</h4>
-
+                                        <h1>Liliana Paola Oñate Acosta</h1>
+                                        <h4>Subsecretaría de Política de Movilidad</h4>
                                         <div class="descripcion-xs">
-                                            <p>Ingeniera Civil e Ingeniera Ambiental de la Universidad de los Andes, con un título de Magíster en Ingeniería Civil de la misma institución. Con una sólida trayectoria profesional de cerca de 10 años, ha dedicado gran parte de su carrera al ámbito de la movilidad.</p>
-
-                                            <p>En la Secretaría Distrital de Movilidad, ocupó cargos del nivel asesor y directivo desde el 2 de enero de 2017 y hasta el 2 de mayo de 2021. Durante este periodo, desempeñó un papel fundamental en la definición de lineamientos para el transporte público y privado, así como en la formulación y adopción del Plan Estratégico de la Secretaría Distrital de Movilidad.</p>
-
-                                            <p>Además, aportó su experiencia en la Financiera de Desarrollo Territorial S.A. - FINDETER, brindando asesoramiento y respaldo a la Dirección de Ciudades en la revisión y elaboración de términos de referencia para proyectos relacionados con transporte y movilidad. Su compromiso y contribuciones han dejado una huella significativa en el desarrollo y mejoramiento de políticas y proyectos en el campo de la movilidad urbana.</p>
+                                            <p>Arquitecta, magister en Planeación Urbana y Regional, especialista en Finanzas y Negocios Internacionales, con una sólida trayectoria en la formulación y gestión de políticas urbanas y regionales.</p>
+                                            <p>Su experiencia en política pública, planificación urbana, infraestructura y desarrollo sostenible, le ha permitido contribuir al diseño e implementación de políticas públicas orientadas a mejorar la calidad de vida de la ciudadanía.</p>
+                                            <p>Se ha desempeñado como directora técnica de coordinación interinstitucional de la Agencia de Seguridad Vial y como asesora en distintas entidades, entre ellas: La Terminal de Transporte de Bogotá, la Financiera de Desarrollo Nacional – FDN, Fondo Adaptación, Departamento Nacional de Planeación – DNP, Fondo Financiero de Proyectos de Desarrollo – ENTerritorio, Financiera de Desarrollo – Findeter, entre otros.</p>
+                                            <p>Su objetivo desde la Subsecretaría de Política de Movilidad, es continuar contribuyendo al desarrollo de Bogotá, como una ciudad líder en movilidad urbana sostenible, integrando tecnologías innovadoras, promoviendo la inclusión social, y asegurando que las políticas respondan a las necesidades presentes y futuras de todos los habitantes.</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+
                         </div>
 
                         <div class="panel-body-mapa">
@@ -544,27 +541,26 @@
                                                                 </div>
 
                                                                 <div class="panel-body-mapa">
+
                                                                     <div class="row">
                                                                         <div class="col-xs-12 col-sm-4 text-center">
-                                                                            <div class="img-perfil w-100"><img alt="Foto: Francisco Javier Victoria Jaramillo" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/07-03-2024/francisco_javier_victoria_jaramillo.png"></div>
+                                                                            <div class="img-perfil w-100">
+                                                                                <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-12-2024/sandra_rodriguez_castaneda.png" alt="Foto: Sandra Rodríguez Castañeda">
+                                                                            </div>
                                                                         </div>
-
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
-                                                                                <h1>Francisco Javier Victoria Jaramillo</h1>
-
-                                                                                <h4>Subdirector de Transporte Privado</h4>
-
+                                                                                <h1>Sandra Esperanza Rodríguez Castañeda</h1>
+                                                                                <h4>Subdirectora de Transporte Privado</h4>
                                                                                 <div class="descripcion-xs">
-                                                                                    <p>Ingeniero civil de la Universidad Nacional de Colombia, Magíster en Diseño Urbano de la misma Universidad y Magíster en Gestión del Desarrollo Urbano de la Universidad Erasmus de Rotterdam.</p>
-
-                                                                                    <p>Ha trabajado en la Secretaría Distrital de movilidad en importantes proyectos relacionados con la promoción del uso de la bicicleta - incluyendo el primer planeador de rutas en bicicleta y la estructuración del actual Sistema de Bicicletas Compartidas - estrategias para la gestión de la demanda del transporte, y en las Zonas de Parqueo Pago. Asimismo trabajó para la Agencia Nacional de Seguridad Vial en la Dirección de Coordinación Interinstitucional para el fortalecimiento de la política pública de seguridad vial.</p>
-
-                                                                                    <p>En su nuevo cargo tiene presentes tres grandes retos: contribuir a cambiar la forma en la que se mueve la carga dentro de la ciudad y entre la región para que sea más sostenible, eficiente y segura; afianzar la movilidad sostenible en empresas, universidades y entidades públicas; y racionalizar el uso de los autos y las motos a la vez que se promueve el uso de medios sostenibles.</p>
+                                                                                    <p>Ingeniera civil y magíster en ingeniería civil con énfasis en transporte de la Universidad de los Andes, becada y con intercambio en la Universidad de Melbourne (Australia). Además, obtuvo la Beca Colfuturo para realizar la maestría en Planeación y Desarrollo Urbano en University College London, Reino Unido. A lo largo de su trayectoria profesional ha trabajado desde la academia, sector público y privado. Se desempeñó como consultora senior en IDOM Consulting Engineering Architecture, en proyectos en Arabia Saudita, Colombia, Perú, República Dominicana y Venezuela, desarrollando diferentes soluciones en materia de análisis de información geográfica, planeación urbana y transporte.</p>
+                                                                                    <p>En el sector público, fue asesora en la Secretaría de Movilidad de la Gobernación de Cundinamarca donde trabajó en la estructuración de proyectos de transporte como la línea 3 del metro, Transmilenio Fase IV a Soacha, Cables de la Calera y Soacha. En la Unidad Administrativa de Catastro Distrital contribuyó en la definición de lineamientos técnicos para el análisis de la información de la entidad mediante técnicas de estadística geográfica. Desde la Secretaría de Movilidad de Bogotá, entre 2018-2020, trabajó en la evaluación técnica de proyectos relacionados con el Plan de Ordenamiento Territorial y Plan Maestro de Movilidad, la regulación del aprovechamiento económico del espacio público para el alquiler de patinetas eléctricas, y el censo de bicitaxis de Bogotá.</p>
+                                                                                    <p>Ahora regresa a la SDM como subdirectora de Transporte Privado, donde impulsará estrategias, y proyectos en el ámbito del transporte privado en todas sus modalidades, para la gestión de la demanda, fortalecer la movilidad sostenible en empresas, universidades y entidades públicas y aportar a mejorar la eficiencia en la que se mueve la carga dentro de la ciudad.</p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1045,25 +1041,28 @@
                         </div>
 
                         <div class="panel-body-mapa">
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-4 text-center">
-                                    <div class="img-perfil w-100"><img alt="Foto Adriana Ruth Iza Certuche" class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/adrianaruthizacertuche.png"></div>
-                                </div>
 
+                            <div class="row">
+
+                                <div class="col-xs-12 col-sm-4 text-center">
+                                    <div class="img-perfil w-100">
+                                        <img class="img-circle" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-07-2022/adrianaruthizacertuche.png" alt="Foto Adriana Ruth Iza Certuche">
+                                    </div>
+                                </div>
                                 <div class="col-xs-12 col-sm-8 ">
                                     <div class="descripcion">
                                         <h1>Adriana Ruth Iza Certuche</h1>
-
                                         <h4>Subsecretaria de Servicios a la Ciudadanía</h4>
-
                                         <div class="descripcion-xs">
-                                            <p>Administradora de empresas con máster en Estudios Políticos de la Universidad Javeriana. Candidata a magíster en Derecho y Gestión Urbanística y especialista en Evaluación Social de Proyectos en la Universidad de los Andes.</p>
-
-                                            <p>Durante su carrera se ha enfocado en la implementación de estrategias de cambio social, es así que, se destaca su labor dentro de la Secretaría Distrital de Movilidad, donde se ha desempeñado desde diferentes cargos: como Directora de Estudios Sectoriales lideró el proceso de sustitución de vehículos de tracción animal para el transporte en Bogotá a nuevas formas de transporte que mejoraran la calidad de vida de las personas menos beneficiadas. Durante su paso por la Oficina de Gestión Social se enfocó en proyectos de eliminación de brechas de género en el sector de tránsito y transporte y creó y lideró el primer Centro de Orientación a Víctimas de Siniestros Viales (ORVI). Como Subsecretaria de Servicio a la Ciudadanía ha logrado innovaciones en la atención a la ciudadanía como la incorporación de mujeres en la flota de operaciones que conducen grúas, estabilizó la puesta en operación plena de la Ventanilla Única de Servicios, articuló en una sola aplicación “Mi Movilidad a un Clic” los servicios de toda la entidad para facilidad de las personas, implementó el nuevo sistema contravencional para disminuir tiempos de atención, además de la ampliación de canales de atención y 5 nuevas salas de cursos pedagógicos.</p>
+                                            <p>Adriana Iza combina una sólida formación académica con una trayectoria destacada en la gestión pública. Es administradora de empresas, con una maestría en Estudios Políticos de la Universidad Javeriana, magíster en Derecho y Gestión Urbanística de la Universidad del Rosario, y especialista en Evaluación Social de Proyectos por la Universidad de los Andes y en Gestión Urbana por la Universidad del Rosario.</p>
+                                            <p>Su amplia preparación ha sido clave para liderar proyectos de gran impacto en Bogotá, como la transición de vehículos de tracción animal y la creación del primer Centro de Orientación a Víctimas de Siniestros Viales (ORVI). Además, ha impulsado la inclusión de mujeres en el sector transporte, el desarrollo de la app "Mi Movilidad a un Clic" y la optimización de los servicios ciudadanos a través de la Ventanilla Única de Servicios.</p>
                                         </div>
                                     </div>
                                 </div>
+
                             </div>
+
+
                         </div>
 
                         <div class="panel-body-mapa">
@@ -1162,7 +1161,7 @@
                                                                         <div class="col-xs-12 col-sm-8 ">
                                                                             <div class="descripcion">
                                                                                 <h1>Juan Manuel Garzón Monroy </h1>
-                                                                                <h4>Subdirección de Contravenciones (e)</h4>
+                                                                                <h4>Subdirección de Contravenciones</h4>
                                                                                 <div class="descripcion-xs">
                                                                                     <p>Abogado y especialista en Derecho Administrativo y Constitucional de la Universidad Católica de Colombia. Magíster en Gobierno y Políticas Públicas de la Universidad Externado de Colombia, tiene una tesis meritoria en seguridad vial y pedagogía. Es auditor interno integral en la norma NTCGP en sistemas integrados de gestión de calidad y gestión del riesgo. </p>
                                                                                     <p>Experto en la formulación, diseño y ejecución de políticas públicas en tránsito, transporte y seguridad vial, enfocadas en la implementación de estrategia preventivas y de protección a la ciudadanía. Cuenta con catorce años de experiencia en el desarrollo de procesos y procedimientos administrativos, sancionatorios y procesos contravencionales y de control e investigaciones al transporte público. Desde el 2007 trabajó en la Secretaría de Movilidad, tiene un corto período fuera de la Entidad y en el año 2021 regresa en carrera administrativa con funciones de autoridad de tránsito. Ahora, desde este rol y esta Subdirección, quiere apostarle a la virtualización de procesos, para que la ciudadanía tenga la posibilidad de acceder a salida de vehículos e impugnaciones de comparendos desde la virtualidad. </p>

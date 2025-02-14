@@ -55,6 +55,19 @@
     .cpnt-recursos {
         font-family: 'Montserrat', sans-serif;
     }
+
+    #collapse-aniversario .img-1 {
+        max-width: 700px;
+        margin: auto;
+        padding-bottom: 32px;
+    }
+
+    #collapse-rutas .img-1 {
+        max-width: 700px;
+        margin: auto;
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
 </style>
 <div class="set-wrapper recursos">
 
@@ -233,7 +246,7 @@
         <div class='panel-group' id='accordion-recursos' role='tablist ' aria-multiselectable='true'>
 
             <!-- collapse aniversario -->
-            <div class='panel panel-default'>
+            <div class='panel panel-primary'>
                 <div class='panel-heading' role='tab' id='heading-aniversario'>
                     <h4 class='panel-title'>
                         <a role='button' data-toggle='collapse' data-parent='#accordion-recursos' href='#collapse-aniversario' aria-expanded='false' aria-controls='collapse-aniversario'>
@@ -245,6 +258,9 @@
                     <div class='panel-body'>
                         <div class='body-collapse-aniversario'>
                             <div class="cpnt-recursos cpnt-aniversario">
+                                <div class="imagen img-1">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/26-12-2024/portada_2.png" alt="" title="">
+                                </div>
                                 <h3 class="title title-type-2 title-id-1-1" id="electrificacion_rutas">Primer aniversario de la Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones</h3>
                                 <p class="paragraph ph-type-1 ph-id-r1">La Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones celebró su primer año con logros importantes en sostenibilidad, y apuntando a una movilidad más limpia y amigable con el medio ambiente en Bogotá.</p>
                                 <p class="paragraph ph-type-1 ph-id-r1">Los resultados obtenidos y las experiencias que expertos compartieron durante el evento, se pueden consultar a continuación:</p>
@@ -313,7 +329,7 @@
             </div>
 
             <!-- collapse rutas -->
-            <div class='panel panel-default'>
+            <div class='panel panel-primary'>
                 <div class='panel-heading' role='tab' id='heading-rutas'>
                     <h4 class='panel-title'>
                         <a role='button' data-toggle='collapse' data-parent='#accordion-recursos' href='#collapse-rutas' aria-expanded='false' aria-controls='collapse-rutas'>
@@ -332,7 +348,10 @@
 
                                     </figure>
                                 </div>
-                                <p class="paragraph ph-type-1 ph-id-r1">Con el apoyo de la Cooperación internacional City Climate Finance Gap Fund (Gap Fund) se están llevando a cabo estudios para iniciar la hoja de ruta hacia la electrificación de la flota escolar de la ciudad.</p>
+
+
+                                <p class="paragraph ph-type-1 ph-id-r1">Con el apoyo de la Cooperación internacional City Climate Finance Gap Fund (Gap Fund) se llevó a cabo estudios para iniciar la hoja de ruta hacia la electrificación de la flota escolar de la ciudad.</p>
+                                <p class="paragraph ph-type-1 ph-id-r1">Estos estudios se dividieron en dos fases: </p>
                                 <p class="paragraph ph-type-1 ph-id-r2">En la primera fase se realizó la <strong>"Previabilidad del ascenso tecnológico de la flota escolar para la ciudad de Bogotá"</strong> cuyo alcance fue, conceptualizar un proyecto piloto y opciones de escalabilidad para la electrificación de la flota escolar de Bogotá, tanto para colegios públicos como privados.</p>
                                 <p class="paragraph ph-type-1 ph-id-r2">Producto de esta consultoría, se realizaron tres entregas documentadas, cuyos temas centrales son los siguientes:</p>
                                 <ul>
@@ -340,8 +359,10 @@
                                     <li><a href="https://drive.google.com/file/d/1nYZ1x3R4ZGecoqpAQU-tHTue-d0mT52N/view?usp=sharing">Actores claves, modelos de negocio posibles y estructuras de financiación para la electrificación de la flota (pdf).</a> Identificar las partes interesadas, los posibles modelos de negocio y las estructuras de financiación para la electrificación.</li>
                                     <li><a href="https://drive.google.com/file/d/1CTm5SAh0QvWCB69rpBlD5HdLN0BLziuV/view?usp=sharing">Hoja de ruta con acciones prioritarias para la fase piloto y la fase de escalabilidad (.pdf).</a> Diseñar una hoja de ruta con acciones prioritarias para la fase piloto del proceso de electrificación.</li>
                                 </ul>
-                                <p class="paragraph ph-type-1 ph-id-r2">A lo largo del año 2024, estamos llevando a cabo una segunda fase en la que recopilamos más información sobre la operación del servicio, y próximamente presentaremos los beneficios de la adopción de estas nuevas tecnologías.</p>
-                                <p class="paragraph ph-type-1 ph-id-r2">Como parte de esta segunda fase, hemos desarrollado una estrategia de comunicación que nos permitirá difundir los resultados de los estudios realizados y promover el uso de la movilidad eléctrica en el transporte escolar. A continuación, puedes descargar nuestro material:</p>
+                                <p class="paragraph ph-type-1 ph-id-r2">En la segunda fase se recopiló más información sobre la operación del servicio, y los beneficios de la adopción de estas nuevas tecnologías; también se desarrolló una estrategia de comunicaciones que nos permite difundir los resultados de los estudios realizados y promover el uso de la movilidad eléctrica en el transporte escolar. A continuación, puedes descargar nuestro material:</p>
+                                <div class="imagen img-1">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/26-12-2024/energia_limpia-27_2.png" alt="" title="">
+                                </div>
                                 <ul>
                                     <li>
                                         <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/transporte_escolar_electrico.pdf">Transporte Escolar Eléctrico (pdf).</a> Datos claves para que todos podamos conocer los beneficios para nuestra salud con la transición hacia vehículos eléctricos en el transporte escolar.
@@ -358,7 +379,7 @@
             </div>
 
             <!-- collapse infraestructura -->
-            <div class='panel panel-default'>
+            <div class='panel panel-primary'>
                 <div class='panel-heading' role='tab' id='heading-infraestructura'>
                     <h4 class='panel-title'>
                         <a role='button' data-toggle='collapse' data-parent='#accordion-recursos' href='#collapse-infraestructura' aria-expanded='false' aria-controls='collapse-infraestructura'>
@@ -390,7 +411,7 @@
             </div>
 
             <!-- collapse logistica -->
-            <div class='panel panel-default'>
+            <div class='panel panel-primary'>
                 <div class='panel-heading' role='tab' id='heading-logistica'>
                     <h4 class='panel-title'>
                         <a role='button' data-toggle='collapse' data-parent='#accordion-recursos' href='#collapse-logistica' aria-expanded='false' aria-controls='collapse-logistica'>
@@ -419,7 +440,7 @@
             </div>
 
             <!-- collapse transporte -->
-            <div class='panel panel-default'>
+            <div class='panel panel-primary'>
                 <div class='panel-heading' role='tab' id='heading-transporte'>
                     <h4 class='panel-title'>
                         <a role='button' data-toggle='collapse' data-parent='#accordion-recursos' href='#collapse-transporte' aria-expanded='false' aria-controls='collapse-transporte'>

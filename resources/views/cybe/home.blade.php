@@ -319,10 +319,7 @@
                 <h3 class="title title-type-enfasis-1 title-id-1">Movilidad</h3>
                 <h3 class="title title-type-enfasis-2 title-id-2">Sostenible</h3>
             </div>
-            <p class="paragraph ph-type-video ph-id-2">
-                La política Pública de Movilidad Motorizada de Cero y Bajas Emisiones es una hoja de ruta al 2040, para
-                facilitar la transición hacia una movilidad más sostebible en la Región Metropolitana Bogotá - Cundinamarca.
-            </p>
+            <p class="paragraph ph-type-video ph-id-2">La política Pública de Movilidad Motorizada de Cero y Bajas Emisiones es la  hoja de ruta a 2040, para facilitar la transición hacia una movilidad más sostenible en la Región Metropolitana Bogotá - Cundinamarca. </p>
             <p class="paragraph ph2">Invitamos al sector privado, al sector público y a la ciudadanía a sumarse a esta apuesta.</p>
             <a href="http://" target="_blank" rel="noopener noreferrer"></a>
         </div>
@@ -457,7 +454,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Buses eléctricos SITP</p>
-                            <p class="value">1.485</p>
+                            <p class="value">1.486</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_bus.png" alt="Icono de bus electrico">
                             <p class="details">En operación</p>
                         </div>
@@ -465,7 +462,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros eléctricos</p>
-                            <p class="value">7.132</p>
+                            <p class="value">8.899</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_electrico.png" alt="Icono de carro eléctrico">
                             <p class="details">Registrados</p>
                         </div>
@@ -473,7 +470,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Carros híbridos</p>
-                            <p class="value">40.699</p>
+                            <p class="value">44.975</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_hibrido.png" alt="Icono de carro híbrido">
                             <p class="details">Registrados</p>
                         </div>
@@ -481,7 +478,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Motos eléctricas</p>
-                            <p class="value">442</p>
+                            <p class="value">460</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_moto.png" alt="Icono de moto eléctrica">
                             <p class="details">Registradas</p>
                         </div>
@@ -489,7 +486,7 @@
                     <div class="item">
                         <div class="pad15">
                             <p class="lead">Camiones cero y bajas emisiones</p>
-                            <p class="value">471</p>
+                            <p class="value">470</p>
                             <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/21-08-2024/icono_carga.png" alt="Icono de carga eléctrico">
                             <p class="details">Registrados</p>
                         </div>
@@ -515,7 +512,7 @@
                 <button class="btn btn-primary rightLst">&#62;</button>
             </div>
         </div>
-        <i>Fuente: Registro Distrital Automotor - RDA. *Cifras a 30 de septiembre de 2024</i>
+        <i>Fuente: Registro Distrital Automotor - RDA. *Cifras a 30 de noviembre de 2024</i>
 
 
     </div>

@@ -692,7 +692,7 @@
                                 <div class="fondo-proceso">
                                     <div class="titulo">
                                         <h3>Cambiar</h3>
-                                        <p>Promover el cambio modal a modos de transporte sostenibles. Se incluye la <a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales">Política Pública de la Bicicleta para el D.C. 2021-2039. (CONPES D.C. 15 de 2021) y la Política Pública del Peatón.</a></p>
+                                        <p>Promover el cambio modal a modos de transporte sostenibles. Se incluye la <a href="https://www.movilidadbogota.gov.co/web/politicas_publicas_distritales">Política Pública de la Bicicleta para el D.C. 2021-2039. (CONPES D.C. 15 de 2021) y la Política Pública del Peatón (CONPES D.C 36 de 2023).</a></p>
                                     </div>
                                 </div>
                             </div>

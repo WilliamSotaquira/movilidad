@@ -468,6 +468,7 @@
 
     .tab-box .tab-content>.active {
         display: inline-block !important;
+        width: -webkit-fill-available;
     }
 
 
@@ -478,14 +479,25 @@
     .tab-box .tab-content .video.video-2 .embed-responsive {
         position: relative;
         display: flex;
-        min-width: 100%;
-        min-height: 250px;
+        height: 51.7vw;
         padding: 0px;
         overflow: visible;
 
+        @media(min-width:768px) {
+            max-width: 354px;
+            width: 354px;
+            height: 199px;
+        }
+
+        @media(min-width:992px) {
+            max-width: 440px;
+            width: 440px;
+            height: 246px;
+        }
+
     }
 
-    .tab-box .tab-content .video.video-2 .embed-responsive iframe{
+    .tab-box .tab-content .video.video-2 .embed-responsive iframe {
         position: relative;
     }
 </style>
@@ -558,9 +570,12 @@
 
                         <div class="tab-pane fade in active" id="tp_cuatro" role="tabpanel">
                             <div class="pane-box">
-                                <video controls="" style="width: 100%;">
-                                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/subtitulado_sst.mp4" type="video/mp4">
-                                </video>
+                                <div class="video video-2 video-16by9">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <iframe width="720" height="405" src="https://www.youtube.com/embed/Gg9XUYIun9c" title="Conoce al equipo de Seguridad y Salud en el Trabajo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                        <!-- <iframe width='100%' src='https://www.youtube.com/embed/Gg9XUYIun9c?controls=0&color=white&iv_load_policy=3' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe> -->
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1426,3 +1441,6 @@
     @media(min-width:1200px) {}
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- Fin Set -->
+
+
+

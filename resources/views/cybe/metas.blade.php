@@ -320,21 +320,16 @@
     }
 
     .cpnt-items {
-        /* display: grid;
-        gap: 8px;
-        grid-auto-flow: dense;
-        grid-template-columns: 1fr;
-        grid-template-rows: auto;
-        justify-items: stretch;
-        grid-auto-flow: dense;
-        justify-content: space-around; */
-
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
         align-content: center;
+
+        @media(min-width:768px) {
+            flex-wrap: nowrap;
+        }
     }
 
     .item-metas {
@@ -351,7 +346,7 @@
         align-items: center;
         align-content: center;
 
-        @media(min-width:768px){
+        @media(min-width:768px) {
             max-width: 450px;
         }
     }
@@ -830,23 +825,29 @@
 
                     <div class="cpnt cpnt-items cpnt-items-vehiculo">
 
-                        <div class="item-metas item-metas-vehiculos">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
-                            </svg>
-                            <p class="paragraph ph-1">A partir de 2032, sólo se registrarán en Bogotá vehículos particulares de cero y bajas emisiones.</p>
+                        <div class="set-items">
+
+                            <div class="item-metas item-metas-vehiculos">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
+                                </svg>
+                                <p class="paragraph ph-1">A partir de 2032, sólo se registrarán en Bogotá vehículos particulares de cero y bajas emisiones.</p>
+                            </div>
+
+                            <div class="item-metas item-metas-vehiculos">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
+                                </svg>
+                                <p class="paragraph ph-1">A partir de 2040, sólo se registrarán en Bogotá vehículos de cero emisiones.</p>
+                            </div>
+
                         </div>
 
-                        <div class="item-metas item-metas-vehiculos">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
-                            </svg>
-                            <p class="paragraph ph-1">A partir de 2040, sólo se registrarán en Bogotá vehículos de cero emisiones.</p>
-                        </div>
 
                         <div class="item-metas-grafica">
+                            <p>Con la implementación de la Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones, se proyecta que, entre 2023 y 2040, los vehículos particulares de combustión sean reemplazados paulatinamente por tecnologías de cero emisiones.</p>
                             <canvas height="200" id="particulares" width="400"></canvas>
                             <script>
                                 var vp = document.getElementById('particulares').getContext('2d');
@@ -855,19 +856,19 @@
                                     data: {
                                         labels: ['2023', '2027', '2031', '2035', '2040'],
                                         datasets: [{
-                                            label: 'Altas',
+                                            label: 'Altas emisiones',
                                             data: [69, 31, 0, 0, 0],
                                             backgroundColor: "#3d4a1c95",
                                             borderColor: "#4d541f",
                                             borderWidth: 1
                                         }, {
-                                            label: 'Bajas',
+                                            label: 'Bajas emisiones',
                                             data: [25, 42, 45, 24, 0],
                                             backgroundColor: "#828F2695",
                                             borderColor: "#828F26",
                                             borderWidth: 1
                                         }, {
-                                            label: 'Cero',
+                                            label: 'Cero emisiones',
                                             data: [6, 27, 55, 76, 100],
                                             backgroundColor: "#bed00095",
                                             borderColor: "#BED000",
@@ -878,7 +879,6 @@
                                         plugins: {
                                             title: {
                                                 display: true,
-                                                text: 'Vehículos particulares',
                                                 color: '#4d541f',
                                                 font: {
                                                     family: 'Montserrat',
@@ -912,7 +912,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Año',
+                                                    text: 'Año de implementación de la política',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -932,7 +932,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Valor (%) de implementación',
+                                                    text: 'Implementación (%)',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -1003,14 +1003,18 @@
                     </div>
 
                     <div class="cpnt cpnt-items cpnt-items-moto">
-                        <div class="item-metas item-metas-motos">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">3</text>
-                            </svg>
-                            <p class="paragraph ph-1">A partir de 2032, sólo se registrarán en Bogotá motocicletas de cero emisiones.</p>
+
+                        <div class="set-items">
+                            <div class="item-metas item-metas-motos">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">3</text>
+                                </svg>
+                                <p class="paragraph ph-1">A partir de 2032, sólo se registrarán en Bogotá motocicletas de cero emisiones.</p>
+                            </div>
                         </div>
                         <div class="item-metas-grafica">
+                            <p>Las motocicletas son un medio de transporte fundamental para la movilidad de Bogotá por eso se proyecta que, para el año 2035 sean de cero emisiones.</p>
                             <canvas height="200" id="motos" width="400"></canvas>
                             <script>
                                 var vp = document.getElementById('motos').getContext('2d');
@@ -1019,13 +1023,13 @@
                                     data: {
                                         labels: ['2023', '2027', '2031', '2035', '2040'],
                                         datasets: [{
-                                            label: 'Altas',
+                                            label: 'Altas emisiones',
                                             data: [100, 85, 25, 0, 0],
                                             backgroundColor: "#3d4a1c95",
                                             borderColor: "#4d541f",
                                             borderWidth: 1
                                         }, {
-                                            label: 'Cero',
+                                            label: 'Cero emisiones',
                                             data: [0, 15, 75, 100, 100],
                                             backgroundColor: "#bed00095",
                                             borderColor: "#BED000",
@@ -1036,7 +1040,6 @@
                                         plugins: {
                                             title: {
                                                 display: true,
-                                                text: 'Motocicletas',
                                                 color: '#4d541f',
                                                 font: {
                                                     family: 'Montserrat',
@@ -1070,7 +1073,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Año',
+                                                    text: 'Año de implementación de la política',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -1090,7 +1093,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Valor (%) de implementación',
+                                                    text: 'Implementación (%)',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -1458,14 +1461,17 @@
                     </div>
                     <div class="cpnt cpnt-items cpnt-items-carga">
 
-                        <div class="item-metas item-metas-cargas">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
-                            </svg>
-                            <p class="paragraph ph-1">A partir de 2035, el registro de vehículos de carga será únicamente de cero emisiones, de conformidad con la Ley 1972 de 2019.</p>
+                        <div class="set-items">
+                            <div class="item-metas item-metas-cargas">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
+                                </svg>
+                                <p class="paragraph ph-1">A partir de 2035, el registro de vehículos de carga será únicamente de cero emisiones, de conformidad con la Ley 1972 de 2019.</p>
+                            </div>
                         </div>
                         <div class="item-metas-grafica">
+                            <p>El transporte de carga tiene un gran potencial para impulsar el desarrollo de nuevas tecnologías. Por ello se proyecta que, para el año 2040 esta flota adopte vehículos de cero y bajas emisiones.</p>
                             <canvas height="200" id="carga" width="400"></canvas>
                             <script>
                                 var vp = document.getElementById('carga').getContext('2d');
@@ -1474,19 +1480,19 @@
                                     data: {
                                         labels: ['2023', '2027', '2031', '2035', '2040'],
                                         datasets: [{
-                                            label: 'Altas',
+                                            label: 'Altas emisiones',
                                             data: [98, 83, 51, 0, 0],
                                             backgroundColor: "#3d4a1c95",
                                             borderColor: "#4d541f",
                                             borderWidth: 1
                                         }, {
-                                            label: 'Bajas',
+                                            label: 'Bajas emisiones',
                                             data: [2, 13, 25, 45, 44],
                                             backgroundColor: "#828F2695",
                                             borderColor: "#828F26",
                                             borderWidth: 1
                                         }, {
-                                            label: 'Cero',
+                                            label: 'Cero emisiones',
                                             data: [0, 4, 24, 55, 56],
                                             backgroundColor: "#bed00095",
                                             borderColor: "#BED000",
@@ -1497,7 +1503,6 @@
                                         plugins: {
                                             title: {
                                                 display: true,
-                                                text: 'Transporte de carga',
                                                 color: '#4d541f',
                                                 font: {
                                                     family: 'Montserrat',
@@ -1531,7 +1536,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Año',
+                                                    text: 'Año de implementación de la política',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -1551,7 +1556,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Valor (%) de implementación',
+                                                    text: 'Implementación (%)',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -2028,21 +2033,25 @@
                     </div>
                     <div class="cpnt cpnt-items cpnt-items-escolar">
 
-                        <div class="item-metas item-metas-escolars">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
-                            </svg>
-                            <p class="paragraph ph-1">El registro de estos vehículos será de cero y bajas emisiones para 2026.</p>
+                        <div class="set-items">
+                            <div class="item-metas item-metas-escolars">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
+                                </svg>
+                                <p class="paragraph ph-1">El registro de estos vehículos será de cero y bajas emisiones para 2026.</p>
+                            </div>
+                            <div class="item-metas item-metas-escolars">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
+                                </svg>
+                                <p class="paragraph ph-1">A 2032 el 100% de buses escolares nuevos que se registren serán solo de Cero Emisiones.</p>
+                            </div>
                         </div>
-                        <div class="item-metas item-metas-escolars">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
-                            </svg>
-                            <p class="paragraph ph-1">A 2032 el 100% de buses escolares nuevos que se registren serán solo de Cero Emisiones.</p>
-                        </div>
+
                         <div class="item-metas-grafica">
+                            <p>El transporte escolar constituye un desafío importante para la ciudad. No obstante, esta política pública busca que para el año 2040, los niños, niñas y jóvenes beneficiarios del Programa de Movilidad Escolar de la Secretaría Distrital de Educación sean transportados principalmente en vehículos cero y bajas emisiones a 2040.</p>
                             <canvas height="200" id="escolar" width="400"></canvas>
                             <script>
                                 var vp = document.getElementById('escolar').getContext('2d');
@@ -2051,7 +2060,7 @@
                                     data: {
                                         labels: ['2023', '2027', '2031', '2035', '2040'],
                                         datasets: [{
-                                            label: 'Cero',
+                                            label: 'Cero emisiones',
                                             data: [0, 0, 6, 18, 54],
                                             backgroundColor: "#bed00095",
                                             borderColor: "#BED000",
@@ -2062,7 +2071,6 @@
                                         plugins: {
                                             title: {
                                                 display: true,
-                                                text: 'Transporte escolar',
                                                 color: '#4d541f',
                                                 font: {
                                                     family: 'Montserrat',
@@ -2096,7 +2104,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Año',
+                                                    text: 'Año de implementación de la política',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -2116,7 +2124,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Valor (%) de implementación',
+                                                    text: 'Implementación (%)',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -2296,7 +2304,9 @@
                     <div class="cpnt cpnt-body">
                         <div class="group-data">
                             <h4 class="title title-type-3">Estrategia de conocimiento en la movilidad escolar eléctrica.</h4>
-                            <p class="paragraph ph-1">A cargo de las Secretarías de Movilidad y Ambiente. Se llevarán a cabo mediciones, estudios y sensibilización de las rutas escolares, los cuales permitirán recopilar insumos técnicos, operacionales y ambientales que permitirán fomentar el cambio a vehículos eléctricos en el sector escolar.</p>
+                            <p class="paragraph ph-1">En 2024, gracias a la asistencia técnica de la <b>Cooperación internacional City Climate Finance Gap Fund (Gap Fund)</b> y con el apoyo de la <b>Secretaría Distrital de Ambiente,</b> desarrollamos este proyecto enfocado en el transporte escolar sostenible.</p>
+                            <p class="paragraph ph-1">Como parte del estudio, realizamos mediciones operacionales y ambientales en una ruta del <b>Programa de Movilidad Escolar</b> de la Secretaría de Educación del Distrito. Con la información recopilada, analizamos los beneficios de implementar transporte escolar eléctrico en la ciudad.</p>
+                            <p class="paragraph ph-1">Los resultados detallados de estos análisis están disponibles en nuestra sección <b>Recursos.</b></p>
                             <div class="video video-1">
                                 <video controls style="width: 100%;" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/portada_video.jpg">
                                     <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/12-09-2024/rutas_electricasalta.mp4" type="video/mp4" preload>
@@ -2366,21 +2376,25 @@
                     </div>
                     <div class="cpnt cpnt-items cpnt-items-oficial">
 
-                        <div class="item-metas item-metas-oficials">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
-                            </svg>
-                            <p class="paragraph ph-1">A partir de 2023, el registro de vehículos oficiales (automóviles, camperos y camionetas) será exclusivamente de cero y bajas emisiones. </p>
+                        <div class="set-items">
+                            <div class="item-metas item-metas-oficials">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
+                                </svg>
+                                <p class="paragraph ph-1">A partir de 2023, el registro de vehículos oficiales (automóviles, camperos y camionetas) será exclusivamente de cero y bajas emisiones. </p>
+                            </div>
+                            <div class="item-metas item-metas-oficials">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
+                                </svg>
+                                <p class="paragraph ph-1">Para 2028 el 100% de la flota oficial propia o contratada de uso de las entidades distritales para transporte de pasajeros de tipología automóvil, campero y/o camioneta, será cero emisiones.</p>
+                            </div>
                         </div>
-                        <div class="item-metas item-metas-oficials">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
-                            </svg>
-                            <p class="paragraph ph-1">Para 2028 el 100% de la flota oficial propia o contratada de uso de las entidades distritales para transporte de pasajeros de tipología automóvil, campero y/o camioneta, será cero emisiones.</p>
-                        </div>
+
                         <div class="item-metas-grafica">
+                            <p>Los vehículos utilizados por las diferentes entidades del distrito para el transporte de pasajeros comenzaron su transición en 2023. Gracias al trabajo conjunto entre estas entidades, se espera que para el año 2028, estas flotas adopten tecnologías de cero emisiones.</p>
                             <canvas height="200" id="oficial" width="400"></canvas>
                             <script>
                                 var vp = document.getElementById('oficial').getContext('2d');
@@ -2389,13 +2403,13 @@
                                     data: {
                                         labels: ['2023', '2027', '2031', '2035', '2040'],
                                         datasets: [{
-                                            label: 'Altas',
+                                            label: 'Altas emisiones',
                                             data: [98, 31, 0, 0, 0],
                                             backgroundColor: "#3d4a1c95",
                                             borderColor: "#4d541f",
                                             borderWidth: 1
                                         }, {
-                                            label: 'Cero',
+                                            label: 'Cero emisiones',
                                             data: [2, 69, 100, 100, 100],
                                             backgroundColor: "#bed00095",
                                             borderColor: "#BED000",
@@ -2406,7 +2420,6 @@
                                         plugins: {
                                             title: {
                                                 display: true,
-                                                text: 'Vehículos particulares',
                                                 color: '#4d541f',
                                                 font: {
                                                     family: 'Montserrat',
@@ -2440,7 +2453,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Año',
+                                                    text: 'Año de implementación de la política',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -2460,7 +2473,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Valor (%) de implementación',
+                                                    text: 'Implementación (%)',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -2848,7 +2861,7 @@
 
                     <div class="cpnt cpnt-head cpnt-head-publico cpnt-head-publico-metas">
                         <h3 class="title title-type-2">Metas para la transición del transporte público</h3>
-                        <p class="paragraph ph-1">Los vehículos del sistema integrado de transporte público - SITP, ya empezaron su transición hacia la movilidad de cero y bajas emisiones. De los 10.984 vehículos que conforman la flota, 1.485 son eléctricos, que corresponde al 13,5 % de la flota (Fuente: Transmilenio octubre de 2023).</p>
+                        <p class="paragraph ph-1">Los vehículos del sistema integrado de transporte público - SITP, ya empezaron su transición hacia la movilidad de cero y bajas emisiones. De los 10.519vehículos que conforman la flota (Troncal, Zonal y Alimentación), 1.486 son eléctricos, es decir el 14,1 % de la flota, mientras que en total 4.904 buses que corresponde al 46,6% del total de vehículos operan con tecnologías de cero y bajas emisiones. (Fuente: Transmilenio octubre de 2024).</p>
                     </div>
 
                     <div class="cpnt cpnt-collapse cpnt-collapse-publico">
@@ -2898,6 +2911,7 @@
                         </div>
 
                     </div>
+                    <p class="paragraph ph-1 text-center">Quieres conocer más sobre el Sistema Integrado de Transporte Público de Bogotá ingresa al <a href="https://observatorio.movilidadbogota.gov.co/indicadores/sistema-integrado-de-transporte-publico-sitp" target="_blank" rel="noopener noreferrer">Observatorio de Movilidad</a></p>
                 </div>
 
                 <div id="tab-publico-3" class="tab-pane fade">
@@ -2986,23 +3000,26 @@
 
                     <div class="cpnt cpnt-items cpnt-items-taxi">
 
-                        <div class="item-metas item-metas-taxis">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
-                            </svg>
-                            <p class="paragraph ph-1">A partir de 2026, el registro de taxis será exclusivamente de cero emisiones. </p>
-                        </div>
+                        <div class="set-items">
+                            <div class="item-metas item-metas-taxis">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">1</text>
+                                </svg>
+                                <p class="paragraph ph-1">A partir de 2026, el registro de taxis será exclusivamente de cero emisiones. </p>
+                            </div>
 
-                        <div class="item-metas item-metas-taxis">
-                            <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
-                                <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
-                                <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
-                            </svg>
-                            <p class="paragraph ph-1">Para el año 2035, únicamente circularán en la ciudad taxis de cero emisiones.</p>
+                            <div class="item-metas item-metas-taxis">
+                                <svg version="1.1" baseProfile="full" width="100" height="100" xmlns="/web/sites/default/files/cybe/17-07-2024/Bi1CircleFill.svg">
+                                    <circle cx="50" cy="50" r="40" fill="rgba(77, 84, 31, 1)" />
+                                    <text fill="#f5f5f5" font-size="45" font-family="Verdana" x="36" y="68">2</text>
+                                </svg>
+                                <p class="paragraph ph-1">Para el año 2035, únicamente circularán en la ciudad taxis de cero emisiones.</p>
+                            </div>
                         </div>
 
                         <div class="item-metas-grafica">
+                            <p>Gracias a la política de cero y bajas emisiones y la articulación con el Gobierno Nacional y el sector privado, se espera que, para el año 2035, los taxis de Bogotá utilicen tecnologías cero emisiones a 2035.</p>
                             <canvas height="200" id="taxis" width="400"></canvas>
                             <script>
                                 var vp = document.getElementById('taxis').getContext('2d');
@@ -3011,13 +3028,13 @@
                                     data: {
                                         labels: ['2023', '2027', '2031', '2035', '2040'],
                                         datasets: [{
-                                            label: 'Altas',
+                                            label: 'Altas emisiones',
                                             data: [100, 90, 60, 0, 0],
                                             backgroundColor: "#3d4a1c95",
                                             borderColor: "#4d541f",
                                             borderWidth: 1
                                         }, {
-                                            label: 'Cero',
+                                            label: 'Cero emisiones',
                                             data: [0, 10, 40, 100, 100],
                                             backgroundColor: "#bed00095",
                                             borderColor: "#BED000",
@@ -3028,7 +3045,6 @@
                                         plugins: {
                                             title: {
                                                 display: true,
-                                                text: 'Flota de taxis',
                                                 color: '#4d541f',
                                                 font: {
                                                     family: 'Montserrat',
@@ -3062,7 +3078,8 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Año',
+                                                    .cpnt - items
+                                                    text: 'Año de implementación de la política',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
@@ -3082,7 +3099,7 @@
                                                 stacked: true,
                                                 title: {
                                                     display: true,
-                                                    text: 'Valor (%) de implementación',
+                                                    text: 'Implementación (%)',
                                                     color: '#363636',
                                                     font: {
                                                         family: 'Montserrat',
