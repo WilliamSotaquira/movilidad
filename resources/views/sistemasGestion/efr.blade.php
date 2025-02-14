@@ -655,7 +655,7 @@
                     <div class="resumen">
                         <dl>
                             <dt>Fundación Más Familia:</dt>
-                            <dd> <a href="https://www.masfamilia.org/canal/">https://www.masfamilia.org/canal/</a></dd>
+                            <dd> <a href="http://www.soyefr.org/canal">http://www.soyefr.org/canal</a></dd>
                         </dl>
 
                         <dl>

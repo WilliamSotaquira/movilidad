@@ -111,6 +111,8 @@ Route::view('/cybe/objetivos', 'cybe/objetivos');
 Route::view('/cybe/solucion', 'cybe/solucion');
 Route::view('/cybe/porque', 'cybe/porque');
 Route::view('/cybe/mapas', 'cybe/mapas');
+Route::view('/cybe/aliados', 'cybe/aliados');
+
 
 // --------------------------------------------------------------------------------------------------------------------------------------------------------- 2021
 
@@ -347,3 +349,11 @@ Route::view('/2024/09/sdb', '2024/09/sdb');
 Route::view('/2024/10/contratos', '2024/10/contratos');
 Route::view('/2024/10/ssv', '2024/10/ssv');
 Route::view('/2024/10/seguridad', '2024/10/seguridad');
+
+// Contenido noviembre 2024
+Route::view('/2024/11/seguridad', '2024/11/seguridad');
+
+// Contenido diciembre 2024
+Route::view('/2024/12/notificaciones', '2024/12/notificaciones');
+Route::view('/2024/12/pqrsd', '2024/12/pqrsd');
+Route::view('/2024/12/temporizador', '2024/12/temporizador');

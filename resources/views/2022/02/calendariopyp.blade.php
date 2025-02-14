@@ -8,6 +8,11 @@
             <h3>Pico y Placa</h3>
         </div>
 
+        <div class="row">
+            <p class="paragraph ph-1">Consulte el <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-12-24/decreto_463_de_2024_1.pdf" target="_blank" rel="noopener noreferrer">Decreto 463 de 2024</a> “Por medio del cual se sustituye el parágrafo transitorio del artículo 1 deI Decreto Distrital 003 de 2023, que suspende temporalmente la medida de restricción del parágrafo 2 en la circulación de los vehículos automotores de servicio particular en el perímetro urbano de la ciudad de Bogotá”.</p>
+        </div>
+        <hr>
+
         <div>
             <div class="descripcion">
                 <p>Descargue o vea en línea el calendario oficial del Pico y Placa en Bogotá</p>
@@ -16,9 +21,13 @@
 
         <div class="row">
             <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-                <p style="text-align: center;">
-                    <a class="btn btn-primary btn-lg btn-block" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-10-30/calendario_pico_y_placa_2024-_nov.pdf" role="button" target="_blank">Pico y Placa noviembre de 2024</a>
-                </p>
+                <p style="text-align: center;"><a class="btn btn-primary btn-lg btn-block" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-12-31/calendario_pico_y_placa_2025-enero.pdf" role="button" target="_blank">Pico y placa enero de 2025</a></p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">&nbsp;
+                <p>Conozca la normativa que sustenta la medida de Pico y Placa para vehículos particulares, taxis, transporte especial y vehículos de carga mayores a 20 años en Bogotá.</p>
             </div>
         </div>
 
@@ -101,6 +110,8 @@
                             <div class="panel-body">
                                 <div class="box-2024">
                                     <ul>
+                                        <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-12-09/calendario_pico_y_placa_2024-dic-1.pdf">Pico y placa diciembre de 2024</a></li>
+                                        <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-10-30/calendario_pico_y_placa_2024-_nov.pdf">Pico y placa noviembre de 2024</a></li>
                                         <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-10-02/calendario_pico_y_placa_2024-_octubre.pdf">Pico y placa octubre de 2024</a></li>
                                         <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-09-02/calendario_pico_y_placa_2024-_septiembre.pdf">Pico y placa septiembre de 2024</a></li>
                                         <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-08-02/calendario_pico_y_placa_2024-agosto_2.pdf">Pico y placa agosto de 2024</a></li>

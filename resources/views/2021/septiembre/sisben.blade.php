@@ -51,7 +51,7 @@
                     <p>Comprende hogares que no están en situación de pobreza. Este grupo tendrá 21 subgrupos desde el D1 hasta el D21.</p>
                 </li>
             </ul>
-            <p>Para verificar si cuentas con encuesta vigente, puedes consultar la página <a href="https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx" target="_blank" rel="noopener noreferrer">https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx</a></p>
+            <p>Para verificar si cuentas con encuesta vigente, puedes consultar la página <a href="https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html" target="_blank" rel="noopener noreferrer">https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html</a></p>
             <h3>¿Para qué sirve tener la Encuesta SISBÉN vigente?</h3>
             <p>Para que las entidades del Distrito evalúen si estás dentro de los grupos de beneficiarios potenciales de los programas sociales del Distrito. Para el caso de la Secretaría Distrital de Movilidad, para que evalúe si estás dentro de los beneficiarios del subsidio a la tarifa del pasaje en el Sistema Integrado de Transporte Público (SITP) de Bogotá.</p>
             <h3>¿Qué ocurre si no tengo SISBÉN vigente?</h3>
@@ -95,7 +95,7 @@
 </div>
 
 <!-- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-                                                        Fin Bloque Sección 
+                                                        Fin Bloque Sección
 ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
 
 

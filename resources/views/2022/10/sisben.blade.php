@@ -352,7 +352,7 @@
                                             <p>si cuentas con clasificación Sisbén IV y a qué grupo perteneces.</p>
 
                                             <div class="boton enlace-consulta">
-                                                <div class="banner zoom"><a href="https://www.sisben.gov.co/Paginas/consulta-tu-grupo.aspx" rel="noopener noreferrer" target="_blank"><img alt="Botón que direcciona a la consulta de grupo Sisbén" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-07-2022/recurso_8.png" title="Botón que direcciona a la consulta de grupo Sisbén"> </a></div>
+                                                <div class="banner zoom"><a href="https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html" rel="noopener noreferrer" target="_blank">https://www.sisben.gov.co/Paginas/consulta-tu-grupo.html</a></div>
                                             </div>
                                         </div>
                                     </div>

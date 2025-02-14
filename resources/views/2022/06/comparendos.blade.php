@@ -83,8 +83,10 @@
 
             <div class="box-boton"><a class="btn btn-nm btn-lg btn-block" href="https://webfenix.movilidadbogota.gov.co/#/consulta-pagos" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a></div>
         </div>
+
         <hr>
         <div class="box-boton"><a class="btn btn-lg btn-nm" href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-08-2024/abece-amnistias-2024.pdf" rel="noopener noreferrer" target="_blank">Conozca aquí<strong> el Abecé de la Amnistía 2024</strong></a></div>
+
         <hr>
         <style type="text/css">
             .box-mensaje {
@@ -195,7 +197,7 @@
         <div class="box-boton"><a class="btn btn-lg btn-nm" href="https://webfenix.movilidadbogota.gov.co/#/consulta-pagos" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a></div>
 
         <hr>
-        <div class="box-boton"><a class="btn btn-lg btn-nm" href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/23-01-2024/tabla_autoliquidacion_2024.pdf" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>Tabla de autoliquidación de infracciones 2024</strong></a></div>
+        <div class="box-boton"><a class="btn btn-lg btn-nm" href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/31-12-2024/tabla_autoliquidacion_2025.pdf" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>Tabla de autoliquidación de infracciones 2025</strong></a></div>
 
         <hr>
         <style type="text/css">
@@ -389,7 +391,6 @@
     </style>
     <!-- End Styles -->
 </p>
-
 <!-- End Set Wrapper --><!-- Styles -->
 <style type="text/css">
     .field-item.even h2 {
@@ -517,4 +518,7 @@
         }
     }
 </style>
-<!-- End Styles --></p>
+<!-- End Styles -->
+<p>&nbsp;</p>
+
+
