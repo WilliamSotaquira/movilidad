@@ -2,7 +2,8 @@
 @section('contenido')
 
 <!-- Set instancias -->
-<div class="set-wrapper instancias"><!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<div class="set-wrapper instancias">
+
     <div class="container-fluid seccion">
         <h3>Participación en instancias de coordinación</h3>
 
@@ -12,8 +13,7 @@
 
         <hr>
         <div class="panel-group" id="accordion">
-
-            <div class="panel panel-primary">
+            <div class="panel panel-default">
                 <div class="panel-heading ph1">
                     <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse11">Comité Sectorial de Gestión y Desempeño del Sector Movilidad</a></h4>
                 </div>
@@ -23,7 +23,7 @@
                         <p>El Comité Sectorial de Gestión y Desempeño del Sector Movilidad será la instancia de articulación para la formulación y adopción de planes, programas, proyectos, estrategias y políticas del Sector Movilidad, así como el escenario para realizar el seguimiento a su planeación y ejecución</p>
 
                         <div class="panel-group" id="accordion1122">
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion1122" data-toggle="collapse" href="#collapse1121">Actas y anexos</a></h4>
                                 </div>
@@ -31,7 +31,7 @@
                                 <div class="panel-collapse collapse" id="collapse1121">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion11221">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion11221" data-toggle="collapse" href="#collapse11212024">2024</a></h4>
                                                 </div>
@@ -39,7 +39,7 @@
                                                 <div class="panel-collapse collapse" id="collapse11212024">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordion43212024">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212024" data-toggle="collapse" href="#collapse202402">Febrero</a></h4>
                                                                 </div>
@@ -59,7 +59,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212024" data-toggle="collapse" href="#collapse202406">Junio</a></h4>
                                                                 </div>
@@ -80,7 +80,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212024" data-toggle="collapse" href="#collapse202408">Agosto</a></h4>
                                                                 </div>
@@ -102,7 +102,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212024" data-toggle="collapse" href="#collapse202411">Noviembre</a></h4>
                                                                 </div>
@@ -129,7 +129,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion11221" data-toggle="collapse" href="#collapse11212023">2023</a></h4>
                                                 </div>
@@ -137,7 +137,7 @@
                                                 <div class="panel-collapse collapse" id="collapse11212023">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordion43212023">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212023" data-toggle="collapse" href="#collapse202302">Febrero</a></h4>
                                                                 </div>
@@ -159,7 +159,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212023" data-toggle="collapse" href="#collapse202305">Mayo</a></h4>
                                                                 </div>
@@ -181,7 +181,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212023" data-toggle="collapse" href="#collapse202308">Agosto</a></h4>
                                                                 </div>
@@ -204,7 +204,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212023" data-toggle="collapse" href="#collapse202312">Diciembre</a></h4>
                                                                 </div>
@@ -229,7 +229,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion11221" data-toggle="collapse" href="#collapse11212022">2022</a></h4>
                                                 </div>
@@ -237,7 +237,7 @@
                                                 <div class="panel-collapse collapse" id="collapse11212022">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordion43212022">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212022" data-toggle="collapse" href="#collapse202201">Enero</a></h4>
                                                                 </div>
@@ -257,7 +257,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212022" data-toggle="collapse" href="#collapse202204">Abril</a></h4>
                                                                 </div>
@@ -281,7 +281,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212022" data-toggle="collapse" href="#collapse202206">Junio</a></h4>
                                                                 </div>
@@ -301,7 +301,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212022" data-toggle="collapse" href="#collapse202207">Julio</a></h4>
                                                                 </div>
@@ -322,7 +322,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212022" data-toggle="collapse" href="#collapse202209">Septiembre</a></h4>
                                                                 </div>
@@ -343,7 +343,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212022" data-toggle="collapse" href="#collapse202210">Octubre</a></h4>
                                                                 </div>
@@ -366,7 +366,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212022" data-toggle="collapse" href="#collapse202211">Noviembre</a></h4>
                                                                 </div>
@@ -390,7 +390,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion11221" data-toggle="collapse" href="#collapse11212021">2021</a></h4>
                                                 </div>
@@ -398,7 +398,7 @@
                                                 <div class="panel-collapse collapse" id="collapse11212021">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordion43212021">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212021" data-toggle="collapse" href="#collapse202101">Enero</a></h4>
                                                                 </div>
@@ -418,7 +418,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212021" data-toggle="collapse" href="#collapse202102">Febrero</a></h4>
                                                                 </div>
@@ -438,7 +438,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212021" data-toggle="collapse" href="#collapseCICJSAM_abril" role="button">Abril </a></h4>
                                                                 </div>
@@ -461,7 +461,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212021" data-toggle="collapse" href="#collapse202107">Julio</a></h4>
                                                                 </div>
@@ -483,7 +483,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212021" data-toggle="collapse" href="#collapse2021010">Octubre</a></h4>
                                                                 </div>
@@ -506,7 +506,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion43212021" data-toggle="collapse" href="#collapse2021012">Diciembre</a></h4>
                                                                 </div>
@@ -532,7 +532,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion11221" data-toggle="collapse" href="#collapse11212020">2020</a></h4>
                                                 </div>
@@ -540,7 +540,7 @@
                                                 <div class="panel-collapse collapse" id="collapse11212020">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordion4321">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202002">Febrero</a></h4>
                                                                 </div>
@@ -559,7 +559,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202004">Abril</a></h4>
                                                                 </div>
@@ -575,7 +575,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202005">Mayo</a></h4>
                                                                 </div>
@@ -590,7 +590,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202006">Junio</a></h4>
                                                                 </div>
@@ -609,7 +609,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202007">Julio</a></h4>
                                                                 </div>
@@ -626,7 +626,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202008">Agosto</a></h4>
                                                                 </div>
@@ -642,7 +642,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202009">Septiembre</a></h4>
                                                                 </div>
@@ -660,7 +660,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202010">Octubre</a></h4>
                                                                 </div>
@@ -675,7 +675,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordion4321" data-toggle="collapse" href="#collapse202012">Diciembre</a></h4>
                                                                 </div>
@@ -694,7 +694,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion11221" data-toggle="collapse" href="#collapse11212019">2019</a></h4>
                                                 </div>
@@ -744,7 +744,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion11221" data-toggle="collapse" href="#collapse11222018">2018</a></h4>
                                                 </div>
@@ -788,7 +788,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion1122" data-toggle="collapse" href="#collapse1122Inf">Informes</a></h4>
                                 </div>
@@ -796,7 +796,7 @@
                                 <div class="panel-collapse collapse" id="collapse1122Inf">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion112245">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion112245" data-toggle="collapse" href="#collapse112452024">2024</a></h4>
                                                 </div>
@@ -814,7 +814,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion112245" data-toggle="collapse" href="#collapse112452023">2023</a></h4>
                                                 </div>
@@ -832,7 +832,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion112245" data-toggle="collapse" href="#collapse112452022">2022</a></h4>
                                                 </div>
@@ -850,7 +850,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion112245" data-toggle="collapse" href="#collapse112452021">2021</a></h4>
                                                 </div>
@@ -868,7 +868,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion112245" data-toggle="collapse" href="#collapse112452020">2020</a></h4>
                                                 </div>
@@ -886,7 +886,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion112245" data-toggle="collapse" href="#collapse112452019">2019</a></h4>
                                                 </div>
@@ -901,7 +901,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion112245" data-toggle="collapse" href="#collapse112245018">2018</a></h4>
                                                 </div>
@@ -919,7 +919,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion1122" data-toggle="collapse" href="#collapse1123Nor">Normatividad</a></h4>
                                 </div>
@@ -936,7 +936,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion1122" data-toggle="collapse" href="#collapse1123Plan">Plan de trabajo</a></h4>
                                 </div>
@@ -944,7 +944,21 @@
                                 <div class="panel-collapse collapse" id="collapse1123Plan">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion1123pl">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading ph2">
+                                                    <h4 class="panel-title"><a data-parent="#accordion1123pl" data-toggle="collapse" href="#collapse112pl2025">2025</a></h4>
+                                                </div>
+
+                                                <div class="panel-collapse collapse" id="collapse112pl2025">
+                                                    <div class="panel-body">
+                                                        <ul>
+                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-02-2025/plan_anual_de_trabajo_comite_sectorial_de_gestion_y_desempeno_del_sector_movilidad_2025.pdf" type="application/pdf; length=1049045">Plan anual de trabajo Comité Sectorial de Gestión y Desempeño del Sector Movilidad 2025</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion1123pl" data-toggle="collapse" href="#collapse112pl2024">2024</a></h4>
                                                 </div>
@@ -958,7 +972,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion1123pl" data-toggle="collapse" href="#collapse112pl2023">2023</a></h4>
                                                 </div>
@@ -972,7 +986,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion1123pl" data-toggle="collapse" href="#collapse112pl2022">2022</a></h4>
                                                 </div>
@@ -994,7 +1008,7 @@
                 </div>
             </div>
 
-            <div class="panel panel-primary">
+            <div class="panel panel-default">
                 <div class="panel-heading ph1">
                     <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse2">Comisión Intersectorial de Seguridad Vial</a></h4>
                 </div>
@@ -1004,7 +1018,7 @@
                         <p>La Comisión Intersectorial de Seguridad Vial es la instancia encargada de articular y coordinar a las entidades y organismos responsables de la implementación y cumplimiento de las metas y/o programas contemplados en el Plan Distrital de Seguridad Vial para Bogotá, Distrito Capital y efectuar el seguimiento a la ejecución del mismo.</p>
 
                         <div class="panel-group" id="accordion22">
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion22" data-toggle="collapse" href="#collapse221">Actas y anexos</a></h4>
                                 </div>
@@ -1012,7 +1026,40 @@
                                 <div class="panel-collapse collapse" id="collapse221">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion221">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading ph2">
+                                                    <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse20252025">2025</a></h4>
+                                                </div>
+
+                                                <div class="panel-collapse collapse" id="collapse20252025">
+                                                    <div class="panel-body">
+                                                        <div class="panel-group" id="accordionsec2025">
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading ph2">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionsec2025" data-toggle="collapse" href="#collapse2025_ene">Enero</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapse2025_ene">
+                                                                    <div class="panel-body">
+                                                                        <ul>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-02-2025/acta_no._1_sesion_no._46_del_23_de_enero_de_2025_1.pdf">Acta No. 1 Sesión No. 46 del 23 de enero de 2025 (.pdf)</a>
+
+                                                                                <ul>
+                                                                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-02-2025/anexo_1._presentacion_sdm_sesion_no._46_cisv_1.pdf" target="_blank">Anexo 1. Presentación SDM Sesión No. 46 CISV (.pdf)</a></li>
+                                                                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-02-2025/anexo_2._plan_de_accion_para_2025_pdsv_2023_2032_1.pdf" target="_blank">Anexo 2. Plan de Acción para 2025 PDSV 2023-2032 (.pdf)</a></li>
+                                                                                    <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-02-2025/anexo_3._reporte_pdsv_iv_trim_2024_1.pdf" target="_blank">Anexo 3. Reporte PDSV IV Trimestre 2024 (.pdf)</a></li>
+                                                                                </ul>
+                                                                            </li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse20242024">2024</a></h4>
                                                 </div>
@@ -1020,7 +1067,7 @@
                                                 <div class="panel-collapse collapse" id="collapse20242024">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordionsec2024">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2024" data-toggle="collapse" href="#collapse2024_ene">Enero</a></h4>
                                                                 </div>
@@ -1041,7 +1088,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2024" data-toggle="collapse" href="#collapse2024_4">Abril</a></h4>
                                                                 </div>
@@ -1055,7 +1102,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2024" data-toggle="collapse" href="#collapse2024_5">Mayo</a></h4>
                                                                 </div>
@@ -1077,7 +1124,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2024" data-toggle="collapse" href="#collapse2024_7">Julio</a></h4>
                                                                 </div>
@@ -1098,7 +1145,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2024" data-toggle="collapse" href="#collapse2024_10">Octubre</a></h4>
                                                                 </div>
@@ -1123,7 +1170,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse20232023">2023</a></h4>
                                                 </div>
@@ -1131,7 +1178,7 @@
                                                 <div class="panel-collapse collapse" id="collapse20232023">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordionsec2023">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2023" data-toggle="collapse" href="#collapse2023_ene">Enero</a></h4>
                                                                 </div>
@@ -1150,7 +1197,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2023" data-toggle="collapse" href="#collapse2023_abri">Abril</a></h4>
                                                                 </div>
@@ -1169,7 +1216,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2023" data-toggle="collapse" href="#collapse2023_7">Julio</a></h4>
                                                                 </div>
@@ -1188,7 +1235,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2023" data-toggle="collapse" href="#collapse2023_10">Octubre</a></h4>
                                                                 </div>
@@ -1211,7 +1258,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse2222022">2022</a></h4>
                                                 </div>
@@ -1219,7 +1266,7 @@
                                                 <div class="panel-collapse collapse" id="collapse2222022">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordionsec2022">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2022" data-toggle="collapse" href="#collapse222_ene">Enero</a></h4>
                                                                 </div>
@@ -1238,7 +1285,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2022" data-toggle="collapse" href="#collapse222_abril">Abril</a></h4>
                                                                 </div>
@@ -1257,7 +1304,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2022" data-toggle="collapse" href="#collapse222_julio">Julio</a></h4>
                                                                 </div>
@@ -1276,7 +1323,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2022" data-toggle="collapse" href="#collapse222_octubre">Octubre</a></h4>
                                                                 </div>
@@ -1299,7 +1346,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse2222021">2021</a></h4>
                                                 </div>
@@ -1307,7 +1354,7 @@
                                                 <div class="panel-collapse collapse" id="collapse2222021">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordionsec2021">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2021" data-toggle="collapse" href="#collapse221_oct">Octubre</a></h4>
                                                                 </div>
@@ -1326,7 +1373,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2021" data-toggle="collapse" href="#collapse221_1">Julio</a></h4>
                                                                 </div>
@@ -1345,7 +1392,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2021" data-toggle="collapse" href="#collapse221_2">Abril</a></h4>
                                                                 </div>
@@ -1364,7 +1411,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2021" data-toggle="collapse" href="#collapse221_3">Febrero</a></h4>
                                                                 </div>
@@ -1383,7 +1430,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2021" data-toggle="collapse" href="#collapse221_4">Enero</a></h4>
                                                                 </div>
@@ -1406,7 +1453,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse2222020">2020</a></h4>
                                                 </div>
@@ -1414,7 +1461,7 @@
                                                 <div class="panel-collapse collapse" id="collapse2222020">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordionsec2020">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2020" data-toggle="collapse" href="#SESION-25">Febrero</a></h4>
                                                                 </div>
@@ -1428,7 +1475,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2020" data-toggle="collapse" href="#SESION-26">Mayo</a></h4>
                                                                 </div>
@@ -1461,7 +1508,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2020" data-toggle="collapse" href="#SESION-27">Agosto</a></h4>
                                                                 </div>
@@ -1475,7 +1522,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2020" data-toggle="collapse" href="#SESION-28">Noviembre</a></h4>
                                                                 </div>
@@ -1493,7 +1540,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse2212019">2019</a></h4>
                                                 </div>
@@ -1501,7 +1548,7 @@
                                                 <div class="panel-collapse collapse" id="collapse2212019">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordionsec2019">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2019" data-toggle="collapse" href="#SESION-21">Febrero</a></h4>
                                                                 </div>
@@ -1515,7 +1562,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2019" data-toggle="collapse" href="#SESION-22">Junio</a></h4>
                                                                 </div>
@@ -1529,7 +1576,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2019" data-toggle="collapse" href="#SESION-23">Septiembre</a></h4>
                                                                 </div>
@@ -1543,7 +1590,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2019" data-toggle="collapse" href="#SESION-24">Diciembre</a></h4>
                                                                 </div>
@@ -1573,7 +1620,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion221" data-toggle="collapse" href="#collapse2222018">2018</a></h4>
                                                 </div>
@@ -1581,7 +1628,7 @@
                                                 <div class="panel-collapse collapse" id="collapse2222018">
                                                     <div class="panel-body">
                                                         <div class="panel-group" id="accordionsec2018">
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2018" data-toggle="collapse" href="#SESION-18">Mayo</a></h4>
                                                                 </div>
@@ -1600,7 +1647,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2018" data-toggle="collapse" href="#SESION-19">Agosto</a></h4>
                                                                 </div>
@@ -1614,7 +1661,7 @@
                                                                 </div>
                                                             </div>
 
-                                                            <div class="panel panel-primary">
+                                                            <div class="panel panel-default">
                                                                 <div class="panel-heading ph2">
                                                                     <h4 class="panel-title"><a data-parent="#accordionsec2018" data-toggle="collapse" href="#SESION-20">Diciembre</a></h4>
                                                                 </div>
@@ -1636,7 +1683,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion22" data-toggle="collapse" href="#collapse222Inf">Informes</a></h4>
                                 </div>
@@ -1644,7 +1691,7 @@
                                 <div class="panel-collapse collapse" id="collapse222Inf">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion2245">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion2245" data-toggle="collapse" href="#collapse22452024">2024</a></h4>
                                                 </div>
@@ -1655,12 +1702,14 @@
                                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-04-2024/informe_de_gestion_i_trimestre_2024_jsl.pdf">Informe de gestión I trimestre 2024 (.pdf)</a></li>
                                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-07-2024/informe_de_gestia3n_ii_trimestre_2024.pdf">Informe de gestión II trimestre 2024 (.pdf)</a></li>
                                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2024/informe_de_gestion_iii_trimestre_2024.docx.pdf">Informe de gestión III trimestre 2024 (.pdf)</a></li>
+                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/informe_iv_trimestre_2024_cisv_1.pdf">Informe de gestión IV trimestre 2024 (.pdf)</a></li>
+                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-12-2024/informe_de_gestion_anual_2024.docx.pdf">Informe de gestión anual 2024 (.pdf)</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion2245" data-toggle="collapse" href="#collapse22452023">2023</a></h4>
                                                 </div>
@@ -1678,7 +1727,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion2245" data-toggle="collapse" href="#collapse22452022">2022</a></h4>
                                                 </div>
@@ -1696,7 +1745,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion2245" data-toggle="collapse" href="#collapse22452021">2021</a></h4>
                                                 </div>
@@ -1714,7 +1763,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion2245" data-toggle="collapse" href="#collapse22452020">2020</a></h4>
                                                 </div>
@@ -1731,7 +1780,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion2245" data-toggle="collapse" href="#collapse22452019">2019</a></h4>
                                                 </div>
@@ -1746,7 +1795,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion2245" data-toggle="collapse" href="#collapse22245018">2018</a></h4>
                                                 </div>
@@ -1765,7 +1814,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion22" data-toggle="collapse" href="#collapse223Lin">Lineamientosde Seguridad Vial</a></h4>
                                 </div>
@@ -1776,7 +1825,11 @@
 
                                         <ul>
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-04-2020/2._lineamiento_ciclistas.pdf">Lineamiento Ciclistas (.pdf)</a></li>
-                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-04-2020/3._lineamiento_auditorias_de_seguridad_vial.pdf">Lineamiento Auditorias de Seguridad Vial (.pdf)</a></li>
+                                            <li><a data-saferedirecturl="https://www.google.com/url?q=https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index%3D1703&amp;source=gmail&amp;ust=1738941354406000&amp;usg=AOvVaw2xG_N6Vk5EFI3B0VCiMJgf" href="https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index=1703" target="_blank">[PE03-L03] LINEAMIENTOS TÉCNICOS EN MATERIA DE SEGURIDAD VIAL. TEMA: AUDITORÍAS DE SEGURIDAD VIAL - V2</a>
+                                                <ul>
+                                                    <li><a data-saferedirecturl="https://www.google.com/url?q=https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index%3D1712&amp;source=gmail&amp;ust=1738941354406000&amp;usg=AOvVaw3EVHRwhl4CWmCuzTl29XnE" href="https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index=1712" target="_blank">[PE03-L03-F01] FICHA REGISTRO DE HALLAZGOS ASV/ISV - V1</a></li>
+                                                </ul>
+                                            </li>
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-06-2021/lineamiento_externo_de_semaforos_-_v2.pdf">Lineamiento Semaforización (.pdf)</a></li>
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-04-2020/6._lineamiento_medidas_de_pacificacion.pdf">Lineamiento Señalización y Medidas de Pacificación (.pdf)</a></li>
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-06-2021/lineamiento_peatones_v2_11-06-2021.pdf">Lineamiento Peatones (.pdf)</a></li>
@@ -1784,14 +1837,18 @@
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-06-2021/lineamiento_de_rutas_sitp_v2_26-05-2021.pdf">Lineamiento Rutas SITP (.pdf)</a></li>
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/02-04-2020/11._lineamiento_sistemas_de_contencion_vehicular.pdf">Lineamiento Sistemas de Contención Vehícular (.pdf)</a></li>
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-11-2022/lineamiento_carga_1.pdf">Lineamiento Carga (.pdf)</a></li>
-                                            <li><a href="https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index=1498">PE03-L01 Lineamiento Resaltos Parabólicos</a></li>
+                                            <li><a data-saferedirecturl="https://www.google.com/url?q=https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index%3D1498&amp;source=gmail&amp;ust=1740667385157000&amp;usg=AOvVaw2hsh9f0vw8oeJVTe44ZpsS" href="https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index=1498" target="_blank">[PE03-L01] LINEAMIENTOS TÉCNICOS EN MATERIA DE SEGURIDAD VIAL. TEMA: RESALTOS PARABÓLICOS O CIRCULARES Y TRAPEZOIDALES O POMPEYANOS - V2</a>
+                                                <ul>
+                                                    <li><a data-saferedirecturl="https://www.google.com/url?q=https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index%3D1756&amp;source=gmail&amp;ust=1740667385157000&amp;usg=AOvVaw3NE03NkqDIwwgHLt52GTsf" href="https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index=1756" target="_blank">[PE03-L01-F01] FICHA TÉNICA PARA EVALUACIÓN Y VIABILIZACIÓN DE RESALTOS - V1</a></li>
+                                                </ul>
+                                            </li>
                                             <li><a href="https://daruma.movilidadbogota.gov.co/app.php/staff/document/viewPublic?index=1544">PE03-L02 Lineamiento Ubicaciones Críticas por Siniestralidad</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion22" data-toggle="collapse" href="#collapse223Nor">Normatividad</a></h4>
                                 </div>
@@ -1819,7 +1876,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion22" data-toggle="collapse" href="#collapse223plan">Plan de Trabajo</a></h4>
                                 </div>
@@ -1827,7 +1884,21 @@
                                 <div class="panel-collapse collapse" id="collapse223plan">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion223planf">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading ph2">
+                                                    <h4 class="panel-title"><a data-parent="#accordion223planf" data-toggle="collapse" href="#collapse223planf2025">2025</a></h4>
+                                                </div>
+
+                                                <div class="panel-collapse collapse" id="collapse223planf2025">
+                                                    <div class="panel-body">
+                                                        <ul>
+                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-02-2025/plan_anual_de_trabajo_comision_intersectorial_de_seguridad_vial_2025.pdf">Plan de Anual de Trabajo Comisión Intersectorial de Seguridad Vial 2025 (.pdf)</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion223planf" data-toggle="collapse" href="#collapse223planf2024">2024</a></h4>
                                                 </div>
@@ -1841,7 +1912,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion223planf" data-toggle="collapse" href="#collapse223planf2023">2023</a></h4>
                                                 </div>
@@ -1856,7 +1927,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion223planf" data-toggle="collapse" href="#collapse223planf2022">2022</a></h4>
                                                 </div>
@@ -1880,7 +1951,7 @@
                 </div>
             </div>
 
-            <div class="panel panel-primary">
+            <div class="panel panel-default">
                 <div class="panel-heading ph1">
                     <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse33">Comité Intersectorial de Coordinación Jurídica del Sector Administrativo de Movilidad</a></h4>
                 </div>
@@ -1890,7 +1961,7 @@
                         <p>El presente Comité tiene por objeto coordinar la gestión jurídica al interior del sector de Movilidad y divulgar las políticas y lineamientos adoptados en el Comité Jurídico Distrital y en el Comité de Apoyo a la Contratación</p>
 
                         <div class="panel-group" id="accordion3322">
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion3322" data-toggle="collapse" href="#collapse3321">Actas y anexos</a></h4>
                                 </div>
@@ -1898,14 +1969,65 @@
                                 <div class="panel-collapse collapse" id="collapse3321">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion33221">
-                                            <div class="panel panel-primary">
+
+                                            <!-- collapse33212025 -->
+                                            <div class='panel panel-default'>
+                                                <div class='panel-heading' role='tab' id='heading33212025'>
+                                                    <h4 class='panel-title'>
+                                                        <a role='button' data-toggle='collapse' data-parent='#accordion33221' href='#collapse33212025' aria-expanded='false' aria-controls='collapse33212025'>
+                                                            2025
+                                                        </a>
+                                                    </h4>
+                                                </div>
+                                                <div id='collapse33212025' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading33212025' aria-expanded='false'>
+                                                    <div class='panel-body'>
+                                                        <div class='body-collapse33212025'>
+
+                                                            <!-- collapse group33212025-g -->
+                                                            <div class='panel-group' id='accordion33212025-g' role='tablist ' aria-multiselectable='true'>
+
+                                                                <!-- collapse 33212025-febrero -->
+                                                                <div class='panel panel-default'>
+                                                                    <div class='panel-heading' role='tab' id='heading-33212025-febrero'>
+                                                                        <h4 class='panel-title'>
+                                                                            <a role='button' data-toggle='collapse' data-parent='#accordion33212025-g' href='#collapse-33212025-febrero' aria-expanded='false' aria-controls='collapse-33212025-febrero'>
+                                                                                Febrero
+                                                                            </a>
+                                                                        </h4>
+                                                                    </div>
+                                                                    <div id='collapse-33212025-febrero' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-33212025-febrero' aria-expanded='false'>
+                                                                        <div class='panel-body'>
+                                                                            <div class='body-collapse-33212025-febrero'>
+                                                                                <ul>
+                                                                                    <li><a href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2025/acta_comite_primera_sesion_2025_docx_0.pdf' rel='noopener noreferrer' target='_blank'>Acta de Comité Primera Sesión (.pdf)</a>
+                                                                                        <ul>
+                                                                                            <li><a href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2025/actualizacion_de_la_politica_de_prevencion_del_dano_antijuridico_-_contrato_realidad.pptx' rel='noopener noreferrer' target='_blank'>Presentación Primer Trimestre Comité Jurídico Intersectorial (.pptx)</a></li>
+                                                                                        </ul>
+                                                                                    </li>
+                                                                                </ul>
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212024">2024</a></h4>
                                                 </div>
 
                                                 <div class="panel-collapse collapse" id="collapse33212024">
                                                     <div class="panel-body">
-                                                        <div aria-multiselectable="true" class="panel-group " id="accordionCICJSAM24" role="tablist "><!-- /#fin CICJSAM_mayo --><!-- collapseCICJSAM_febrero -->
+                                                        <div aria-multiselectable="true" class="panel-group " id="accordionCICJSAM24" role="tablist ">
+
+                                                            <!-- collapseCICJSAM_febrero -->
                                                             <div class="panel panel-default">
                                                                 <div class="panel-heading ph2" id="headingCICJSAM_febrero24" role="tab">
                                                                     <h4 class="panel-title"><a aria-controls="collapseCICJSAM_febrero" aria-expanded="true" data-parent="#accordionCICJSAM24" data-toggle="collapse" href="#collapseCICJSAM_febrero24" role="button">Febrero </a></h4>
@@ -1967,12 +2089,30 @@
                                                                     </div>
                                                                 </div>
                                                             </div>
+                                                            <!-- collapse CICJSAM_diciembre -->
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading" id="heading-CICJSAM_diciembre" role="tab">
+                                                                    <h4 class="panel-title"><a aria-controls="collapse-CICJSAM_diciembre" aria-expanded="false" data-parent="#accordionCICJSAM24" data-toggle="collapse" href="#collapse-CICJSAM_diciembre" role="button">Diciembre </a></h4>
+                                                                </div>
+
+                                                                <div aria-expanded="false" aria-labelledby="heading-CICJSAM_diciembre" class="panel-collapse collapse" id="collapse-CICJSAM_diciembre" role="tabpanel">
+                                                                    <div class="panel-body">
+                                                                        <div class="body-collapse-CICJSAM_diciembre">
+                                                                            <ul>
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-12-2024/acta_4to_trimestre_comite_juridico_intersectorial.pdf" rel="noopener noreferrer" target="_blank">Acta de Comité Cuarta Sesión</a></li>
+                                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-12-2024/presentacion_4to_trimestre_comite_juridico_intersectorial.pdf" rel="noopener noreferrer" target="_blank">Presentación Cuarto Trimestre Comité Jurídico Intersectorial</a></li>
+                                                                            </ul>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212023">2023</a></h4>
                                                 </div>
@@ -2067,7 +2207,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212022">2022</a></h4>
                                                 </div>
@@ -2148,7 +2288,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212021">2021</a></h4>
                                                 </div>
@@ -2248,7 +2388,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212020">2020</a></h4>
                                                 </div>
@@ -2362,7 +2502,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212019">2019</a></h4>
                                                 </div>
@@ -2389,7 +2529,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212018">2018</a></h4>
                                                 </div>
@@ -2431,7 +2571,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion33221" data-toggle="collapse" href="#collapse33212017">2017</a></h4>
                                                 </div>
@@ -2449,7 +2589,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion3322" data-toggle="collapse" href="#collapse3322Inf">Informes</a></h4>
                                 </div>
@@ -2457,7 +2597,29 @@
                                 <div class="panel-collapse collapse" id="collapse3322Inf">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion332245">
-                                            <div class="panel panel-primary">
+
+                                            <!-- collapse3322452025 -->
+                                            <div class='panel panel-default'>
+                                                <div class='panel-heading' role='tab' id='heading3322452025'>
+                                                    <h4 class='panel-title'>
+                                                        <a role='button' data-toggle='collapse' data-parent='#accordion332245' href='#collapse3322452025' aria-expanded='false' aria-controls='collapse3322452025'>
+                                                            2025
+                                                        </a>
+                                                    </h4>
+                                                </div>
+                                                <div id='collapse3322452025' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading3322452025' aria-expanded='false'>
+                                                    <div class='panel-body'>
+                                                        <div class='body-collapse3322452025'>
+                                                            <ul>
+                                                                <li><a href='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2025/informe_primer_trimestre_2025.pdf' target='_blank' type='application/pdf; length=658312'>Informe de Gestión Primer Trimestre 2025 (.pdf)</a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245" data-toggle="collapse" href="#collapse332452024">2024</a></h4>
                                                 </div>
@@ -2468,12 +2630,14 @@
                                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-04-2024/primer_informe_trimestral_2024.pdf" target="_blank" type="application/pdf; length=658312">Informe de Gestión Primer Trimestre 2024</a></li>
                                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-06-2024/informe_gestion_segundotrimestre_2024.pdf" target="_blank" type="application/pdf; length=658312">Informe de Gestión Segundo Trimestre 2024</a></li>
                                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/informe_3er_trimestre_2024_-_ajustado.pdf" rel="noopener noreferrer" target="_blank">Informe de Gestión Tercer Trimestre 2024</a></li>
+                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-12-2024/informe_de_gestion_4to_trimestre_comite_juridico_intersectorial.pdf" rel="noopener noreferrer" target="_blank">Informe de Gestión Cuarto Trimestre 2024</a></li>
+                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/informe_anual_vigencia_2024.pdf" rel="noopener noreferrer" target="_blank">Informe Anual – Vigencia 2024</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245" data-toggle="collapse" href="#collapse332452023">2023</a></h4>
                                                 </div>
@@ -2491,7 +2655,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245" data-toggle="collapse" href="#collapse332452022">2022</a></h4>
                                                 </div>
@@ -2509,7 +2673,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245" data-toggle="collapse" href="#collapse332452021">2021</a></h4>
                                                 </div>
@@ -2527,7 +2691,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245" data-toggle="collapse" href="#collapse332452020">2020</a></h4>
                                                 </div>
@@ -2544,7 +2708,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245" data-toggle="collapse" href="#collapse332452019">2019</a></h4>
                                                 </div>
@@ -2558,7 +2722,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245" data-toggle="collapse" href="#collapse332452018">2018</a></h4>
                                                 </div>
@@ -2576,7 +2740,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion3322" data-toggle="collapse" href="#collapse3322Norm">Normatividad</a></h4>
                                 </div>
@@ -2605,7 +2769,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion3322" data-toggle="collapse" href="#collapse3322plantrabajo">Plan de trabajo</a></h4>
                                 </div>
@@ -2613,7 +2777,21 @@
                                 <div class="panel-collapse collapse" id="collapse3322plantrabajo">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordion332245pt">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
+                                                <div class="panel-heading ph2">
+                                                    <h4 class="panel-title"><a data-parent="#accordion332245pt" data-toggle="collapse" href="#collapse3322pt2025">2025</a></h4>
+                                                </div>
+
+                                                <div class="panel-collapse collapse" id="collapse3322pt2025">
+                                                    <div class="panel-body">
+                                                        <ul>
+                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-02-2025/plan_anual_de_trabajo_comite_juridico_intersectorial_sector_movilidad_2025_1.xlsx">Plan Anual de Trabajo Comité Jurídico Intersectorial Sector Movilidad 2025</a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245pt" data-toggle="collapse" href="#collapse3322pt2024">2024</a></h4>
                                                 </div>
@@ -2627,7 +2805,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245pt" data-toggle="collapse" href="#collapse3322pt2023">2023</a></h4>
                                                 </div>
@@ -2641,7 +2819,7 @@
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordion332245pt" data-toggle="collapse" href="#collapse3322pt2022">2022</a></h4>
                                                 </div>
@@ -2663,7 +2841,7 @@
                 </div>
             </div>
 
-            <div class="panel panel-primary">
+            <div class="panel panel-default">
                 <div class="panel-heading ph1">
                     <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapse77">Comité Distrital de Valorización y Vigilancia - No Vigente</a></h4>
                 </div>
@@ -2671,7 +2849,7 @@
                 <div class="panel-collapse collapse" id="collapse77">
                     <div class="panel-body">
                         <div class="panel-group" id="accordion7722">
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion7722" data-toggle="collapse" href="#collapse7721">Actas y anexos</a></h4>
                                 </div>
@@ -2690,7 +2868,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion7722" data-toggle="collapse" href="#collapse7722Inf">Informes</a></h4>
                                 </div>
@@ -2709,7 +2887,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordion7722" data-toggle="collapse" href="#collapse7722Norm">Normatividad</a></h4>
                                 </div>
@@ -2737,7 +2915,7 @@
                 </div>
             </div>
 
-            <div class="panel panel-primary">
+            <div class="panel panel-default">
                 <div class="panel-heading ph1">
                     <h4 class="panel-title"><a data-parent="#accordion" data-toggle="collapse" href="#collapsecib">Comisión Intersectorial de la Bicicleta</a></h4>
                 </div>
@@ -2747,62 +2925,175 @@
                         <p>Comisión Intersectorial de la Bicicleta del Distrito Capital es la instancia encargada de fortalecer la gestión, fomentar el uso de la bicicleta y la economía centrada en ella.</p>
 
                         <div class="panel-group" id="accordioncib22">
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
-                                    <h4 class="panel-title"><a data-parent="#accordioncib22" data-toggle="collapse" href="#collapsecib22Norm">Normatividad</a></h4>
-                                </div>
-
-                                <div class="panel-collapse collapse" id="collapsecib22Norm">
-                                    <div class="panel-body">
-                                        <ul>
-                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-12-2023/acuerdo_anexo_1_reglamento_comision_intersectorial_bici.pdf">Acuerdo No. 01 de 2023-Reglamento Interno de la Comisión Intersectorial de la bicicleta</a></li>
-                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2023/acuerdo_002_de_2023_reglamento_interno_cib.pdf">Acuerdo 002 de 2023. Reglamento interno Comisión intersectorial de la bicicleta</a></li>
-                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-01-2024/decreto_480_de_2022_cib.pdf">Decreto 480 de 2022. "Por medio del cual se crea la Comisión Interectorial de la Bicicleta del Distrito Capital y se dictan otras disposiciones"</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="panel panel-primary">
-                                <div class="panel-heading ph2">
-                                    <h4 class="panel-title"><a data-parent="#accordioncib22" data-toggle="collapse" href="#collapsecib22actas">Actas</a></h4>
+                                    <h4 class="panel-title"><a data-parent="#accordioncib22" data-toggle="collapse" href="#collapsecib22actas">Actas y anexos</a></h4>
                                 </div>
 
                                 <div class="panel-collapse collapse" id="collapsecib22actas">
                                     <div class="panel-body">
                                         <div class="panel-group" id="accordionciba">
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordionciba" data-toggle="collapse" href="#collapseciba2024">2024</a></h4>
                                                 </div>
 
                                                 <div class="panel-collapse collapse" id="collapseciba2024">
                                                     <div class="panel-body">
-                                                        <ol>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-07-2024/1._sesion_extraordinaria_1._acta_comision_intersectorial_de_la_bicicleta_20-02-2024.pdf">Sesión extraordinaria. Acta comisión intersectorial de la bicicleta 20-02-2024 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2024/2._sesion_ordinaria_1_._acta_de_comision_intersectorial_de_la_bicicleta_14-03-2024.pdf">Sesión ordinaria . Acta comisión intersectorial de la bicicleta 14-03-2024 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-07-2024/3._sesion_ordinaria_2._acta_de_comision_intersectorial_13-06-2024.pdf">Sesión ordinaria 2 . Acta de comisión intersectorial 13-06-2024 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2024/4._sesion_ordinaria_3._acta_de_comision_intersectorial_23_09-2024.pdf">Sesión ordinaria 3 . Acta de comisión intersectorial 23- 09-2024 (.pdf)</a></li>
-                                                        </ol>
+                                                        <div class="panel-group" id="accordionbici2024">
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2024" data-toggle="collapse" href="#collapsebici20242">Febrero</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici20242">
+                                                                    <div class="panel-body">
+                                                                        <ol>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-07-2024/1._sesion_extraordinaria_1._acta_comision_intersectorial_de_la_bicicleta_20-02-2024.pdf">Acta 1 Sesión 7 de 20 de febrero de 2024 (.pdf)</a></li>
+                                                                        </ol>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2024" data-toggle="collapse" href="#collapsebici20243">Marzo</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici20243">
+                                                                    <div class="panel-body">
+                                                                        <ol>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2024/2._sesion_ordinaria_1_._acta_de_comision_intersectorial_de_la_bicicleta_14-03-2024.pdf">Acta 2 Sesión 8 de 14 de febrero de 2024 (.pdf)</a></li>
+                                                                        </ol>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2024" data-toggle="collapse" href="#collapsebici20246">Junio</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici20246">
+                                                                    <div class="panel-body">
+                                                                        <ol>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-07-2024/3._sesion_ordinaria_2._acta_de_comision_intersectorial_13-06-2024.pdf">Acta 3 Sesión 9 de 13 de junio de 2024 (.pdf)</a></li>
+                                                                        </ol>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2024" data-toggle="collapse" href="#collapsebici20249">Septiembre</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici20249">
+                                                                    <div class="panel-body">
+                                                                        <ol>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2024/4._sesion_ordinaria_3._acta_de_comision_intersectorial_23_09-2024.pdf">Acta 4 Sesión 10 de 23 de septiembre de 2024 (.pdf)</a></li>
+                                                                        </ol>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2024" data-toggle="collapse" href="#collapsebici202412">Diciembre</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici202412">
+                                                                    <div class="panel-body">
+                                                                        <ol>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/5._acta_sesion_ordinaria_4._acta_comision_intersectorial_16-12-2024.pdf">Acta 5 Sesión 11 de 16 de diciembre de 2024 (.pdf)</a></li>
+                                                                        </ol>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
 
-                                            <div class="panel panel-primary">
+                                            <div class="panel panel-default">
                                                 <div class="panel-heading ph2">
                                                     <h4 class="panel-title"><a data-parent="#accordionciba" data-toggle="collapse" href="#collapseciba2023">2023</a></h4>
                                                 </div>
 
                                                 <div class="panel-collapse collapse" id="collapseciba2023">
                                                     <div class="panel-body">
-                                                        <ul>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/1._sesion_ordinaria_1._acta_comision_intersectorial_de_la_bicicleta_22-03-23_1.pdf">1. Sesión Ordinaria 1. Acta comisión intersectorial de la bicicleta 22-03-23 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/2._sesion_ordinaria_2._acta_comision_intersectorial_de_la_bicicleta_28-03-23_1.pdf">2. Sesión Ordinaria 2. Acta comisión intersectorial de la bicicleta 28-03-23 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/3._sesion_extraordinaria_3._acta_comision_intersectorial_de_la_bicicleta_20_04-23.pdf">3. Sesión Extraordinaria. Acta comisión intersectorial de la bicicleta 20-04-23 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/4._sesion_ordinaria_4._acta_comision_intersectorial_de_la_bicicleta_22_06-23.pdf">4. Sesión Ordinaria 3. Acta comisión intersectorial de la bicicleta 22-06-2023 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/5._sesion_ordinaria_5._acta_comision_intersectorial_de_la_bicicleta_29_09-23.pdf">5. Sesión Ordinaria 4. Acta comisión intersectorial de la bicicleta 29-10-2023 (.pdf)</a></li>
-                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/6._sesion_ordinaria_6._acta_comision_intersectorial_de_la_bicicleta_14_12-23.pdf">6. Sesión Ordinaria 5. Acta comisión intersectorial de la bicicleta 14-12-2023 (.pdf)</a></li>
-                                                        </ul>
+                                                        <div class="panel-group" id="accordionbici2023">
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2023" data-toggle="collapse" href="#collapsebici20233">Marzo</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici20233">
+                                                                    <div class="panel-body">
+                                                                        <ul>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/1._sesion_ordinaria_1._acta_comision_intersectorial_de_la_bicicleta_22-03-23_1.pdf">Acta 1 Sesión 1 de 22 de marzo de 2023 (.pdf)</a></li>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/2._sesion_ordinaria_2._acta_comision_intersectorial_de_la_bicicleta_28-03-23_1.pdf">Acta 2 Sesión 2 de 28 de marzo de 2023 (.pdf)</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2023" data-toggle="collapse" href="#collapsebici20234">Abril</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici20234">
+                                                                    <div class="panel-body">
+                                                                        <ul>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/1._sesion_ordinaria_1._acta_comision_intersectorial_de_la_bicicleta_22-03-23_1.pdf">Acta 3 Sesión 3 de 20 de abril de 2023 (.pdf)</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2023" data-toggle="collapse" href="#collapsebici20236">Junio</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici20236">
+                                                                    <div class="panel-body">
+                                                                        <ul>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/4._sesion_ordinaria_4._acta_comision_intersectorial_de_la_bicicleta_22_06-23.pdf">Acta 4 Sesión 4 de 22 de junio de 2023 (.pdf)</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2023" data-toggle="collapse" href="#collapsebici202310">Octubre</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici202310">
+                                                                    <div class="panel-body">
+                                                                        <ul>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/5._sesion_ordinaria_5._acta_comision_intersectorial_de_la_bicicleta_29_09-23.pdf">Acta 5 Sesión 5 de 29 de octubre de 2023 (.pdf)</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="panel panel-default">
+                                                                <div class="panel-heading">
+                                                                    <h4 class="panel-title"><a data-parent="#accordionbici2023" data-toggle="collapse" href="#collapsebici202312">Diciembre</a></h4>
+                                                                </div>
+
+                                                                <div class="panel-collapse collapse" id="collapsebici202312">
+                                                                    <div class="panel-body">
+                                                                        <ul>
+                                                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/6._sesion_ordinaria_6._acta_comision_intersectorial_de_la_bicicleta_14_12-23.pdf">Acta 6 Sesión 6 de 13 de diciembre de 2023 (.pdf)</a></li>
+                                                                        </ul>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2811,7 +3102,7 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordioncib22" data-toggle="collapse" href="#collapsecib22info">Informes</a></h4>
                                 </div>
@@ -2828,11 +3119,11 @@
                                                     <div class="panel-body">
                                                         <div class="box-bi2024">
                                                             <ul>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2024/1._informe_gestion_i_cib_enero-febrero-marzo_2024.pdf">Informe Gestión I CIB (Enero-Febrero-Marzo) 2024 (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/informe_gestion_ii_cib_abril-mayo-junio_2024_fi_240731_202132.pdf">Informe Gestión II CIB (Abril-Mayo-Junio) 2024 (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2024/informe_gestion_iii_cib_julio-agosto-septiembre_2024.pdf">Informe Gestión III CIB (Julio-Agosto-Septiembre) 2024 (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/listado_comision_intersectorial_de_la_bici_13-06-24.pdf">Anexo 1. Listado Comisión Intersectorial de la Bici 13-06-24 (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/presentacion_sesion_ordinaria_cib_13-06-24.pptx.pdf">Anexo 2. Presentación Sesión ordinaria CIB 13-06-24 (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-05-2024/1._informe_gestion_i_cib_enero-febrero-marzo_2024.pdf">Informe de gestión I Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-08-2024/informe_gestion_ii_cib_abril-mayo-junio_2024_fi_240731_202132.pdf">Informe de gestión II Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2024/informe_gestion_iii_cib_julio-agosto-septiembre_2024.pdf">Informe de gestión III Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/informe_gestion_iv_cib_octubre_noviembre_diciembre_2024.pdf">Informe de gestión IV Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/informe_gestion_anual_vigencia_2024_cib.pdf">Informe de gestión anual 2024 (.pdf)</a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -2849,11 +3140,11 @@
                                                     <div class="panel-body">
                                                         <div class="box-bi2023">
                                                             <ul>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_i_cib_enero-febrero-marzo.pdf">Informe Gestión I (Enero-Febrero-Marzo) CIB 2023 (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_ii_cib_abril-mayo-junio.pdf">Informe Gestión II (Abril-Mayo-Junio) CIB 2023 (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_iii_cib_julio-agosto-septiembre_firmado.pdf">Informe Gestión III (Julio-Agosto-Septiembre) CIB 2023 (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_iv_cib_octubre-noviembre-diciembre_firmado.pdf">Informe Gestión IV (Octubre-Noviembre-Diciembre) (.pdf)</a></li>
-                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_anual_vigencia_2023_cib.pdf">Informe Gestión Anual Vigencia 2023 CIB (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_i_cib_enero-febrero-marzo.pdf">Informe de gestión I Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_ii_cib_abril-mayo-junio.pdf">Informe de gestión II Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_iii_cib_julio-agosto-septiembre_firmado.pdf">Informe de gestión III Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_iv_cib_octubre-noviembre-diciembre_firmado.pdf">Informe de gestión IV Trimestre (.pdf)</a></li>
+                                                                <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/01-02-2024/informe_gestion_anual_vigencia_2023_cib.pdf">Informe de gestión anual 2023 (.pdf)</a></li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -2865,7 +3156,23 @@
                                 </div>
                             </div>
 
-                            <div class="panel panel-primary">
+                            <div class="panel panel-default">
+                                <div class="panel-heading ph2">
+                                    <h4 class="panel-title"><a data-parent="#accordioncib22" data-toggle="collapse" href="#collapsecib22Norm">Normatividad</a></h4>
+                                </div>
+
+                                <div class="panel-collapse collapse" id="collapsecib22Norm">
+                                    <div class="panel-body">
+                                        <ul>
+                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-12-2023/acuerdo_anexo_1_reglamento_comision_intersectorial_bici.pdf">Acuerdo No. 01 de 2023-Reglamento Interno de la Comisión Intersectorial de la bicicleta</a></li>
+                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-12-2023/acuerdo_002_de_2023_reglamento_interno_cib.pdf">Acuerdo 002 de 2023. Reglamento interno Comisión intersectorial de la bicicleta</a></li>
+                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/18-01-2024/decreto_480_de_2022_cib.pdf">Decreto 480 de 2022. "Por medio del cual se crea la Comisión Interectorial de la Bicicleta del Distrito Capital y se dictan otras disposiciones"</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="panel panel-default">
                                 <div class="panel-heading ph2">
                                     <h4 class="panel-title"><a data-parent="#accordioncib22" data-toggle="collapse" href="#collapsecib22plan">Plan de trabajo</a></h4>
                                 </div>
@@ -2873,111 +3180,13 @@
                                 <div class="panel-collapse collapse" id="collapsecib22plan">
                                     <div class="panel-body">
                                         <ul>
+                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-02-2025/plan_anual_de_trabajo_comision_intersectorial_bicicleta_2025.pdf">Plan de anual de trabajo vigencia 2025 CIB</a></li>
                                             <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-02-2024/plan_anual_de_trabajo_comision_intersectorial_bicicleta_2024.pdf">Plan de anual de trabajo vigencia 2024 CIB</a></li>
-                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-07-2024/plan_anual_de_trabajo_comision_intersectorial_bicicleta_2023.pdf">Plan_anual_de_trabajo_comisión_intersectorial_bicicleta_2023</a></li>
+                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/12-07-2024/plan_anual_de_trabajo_comision_intersectorial_bicicleta_2023.pdf">Plan anual de trabajo comisión intersectorial bicicleta 2023</a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- collapse ccdj -->
-            <div class='panel panel-primary'>
-                <div class='panel-heading ph1' role='tab' id='heading-ccdj'>
-                    <h4 class='panel-title'>
-                        <a role='button' data-toggle='collapse' data-parent='#accordion' href='#collapse-ccdj' aria-expanded='false' aria-controls='collapse-ccdj'>
-                            Comité de Conciliación y Defensa Judicial
-                        </a>
-                    </h4>
-                </div>
-                <div id='collapse-ccdj' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-ccdj' aria-expanded='false'>
-                    <div class='panel-body'>
-                        <div class='body-collapse-ccdj'>
-                            <!-- <p class="paragraph ph-1"></p> -->
-
-                            <!-- collapse group Gccdj -->
-                            <div class='panel-group' id='accordion-Gccdj' role='tablist ' aria-multiselectable='true'>
-
-                            <!-- collapse Nccdj -->
-                            <div class='panel panel-primary'>
-                               <div class='panel-heading ph2' role='tab' id='heading-Nccdj'>
-                                <h4 class='panel-title'>
-                                   <a role='button' data-toggle='collapse' data-parent='#accordion-Gccdj' href='#collapse-Nccdj' aria-expanded='false' aria-controls='collapse-Nccdj'>
-                                    Normatividad
-                                   </a>
-                                </h4>
-                               </div>
-                               <div id='collapse-Nccdj' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-Nccdj' aria-expanded='false'>
-                                <div class='panel-body'>
-                                    <div class='body-collapse-Nccdj'>
-                                        <ul>
-                                            <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-12-2024/resolucion_numero_286623_de_2024.pdf" target="_blank" rel="noopener noreferrer">Resolución Número 286623 de 2024</a>&nbsp;<i>"Por medio de la cual modifica la Resolución 058 de 2019 ‘Por medio de la cual se organiza el Comité de Conciliación y Defensa Judicial de la Secretaría Distrital de Movilidad, y se delega la participación del Secretario Distrital de Movilidad en el Comité de Conciliación de la entidad y se dictan otras disposiciones'"</i></li>
-                                        </ul>
-
-                                    </div>
-                                </div>
-                               </div>
-                            </div>
-
-                            <!-- collapse Accdj -->
-                            <div class='panel panel-primary'>
-                               <div class='panel-heading ph2' role='tab' id='heading-Accdj'>
-                                <h4 class='panel-title'>
-                                   <a role='button' data-toggle='collapse' data-parent='#accordion-Gccdj' href='#collapse-Accdj' aria-expanded='false' aria-controls='collapse-Accdj'>
-                                    Actas y anexos
-                                   </a>
-                                </h4>
-                               </div>
-                               <div id='collapse-Accdj' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-Accdj' aria-expanded='false'>
-                                <div class='panel-body'>
-                                    <div class='body-collapse-Accdj'>
-
-                                    </div>
-                                </div>
-                               </div>
-                            </div>
-
-                            <!-- collapse Iccdj -->
-                            <div class='panel panel-primary'>
-                               <div class='panel-heading ph2' role='tab' id='heading-Iccdj'>
-                                <h4 class='panel-title'>
-                                   <a role='button' data-toggle='collapse' data-parent='#accordion-Gccdj' href='#collapse-Iccdj' aria-expanded='false' aria-controls='collapse-Iccdj'>
-                                    Informes
-                                   </a>
-                                </h4>
-                               </div>
-                               <div id='collapse-Iccdj' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-Iccdj' aria-expanded='false'>
-                                <div class='panel-body'>
-                                    <div class='body-collapse-Iccdj'>
-
-                                    </div>
-                                </div>
-                               </div>
-                            </div>
-
-                            <!-- collapse Pccdj -->
-                            <div class='panel panel-primary'>
-                               <div class='panel-heading ph2' role='tab' id='heading-Pccdj'>
-                                <h4 class='panel-title'>
-                                   <a role='button' data-toggle='collapse' data-parent='#accordion-Gccdj' href='#collapse-Pccdj' aria-expanded='false' aria-controls='collapse-Pccdj'>
-                                    Plan de trabajo
-                                   </a>
-                                </h4>
-                               </div>
-                               <div id='collapse-Pccdj' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-Pccdj' aria-expanded='false'>
-                                <div class='panel-body'>
-                                    <div class='body-collapse-Pccdj'>
-
-                                    </div>
-                                </div>
-                               </div>
-                            </div>
-
-                            </div>
-
                         </div>
                     </div>
                 </div>
@@ -3139,10 +3348,6 @@
 
         .seccion .panel-body>p {
             line-height: 1.4;
-        }
-
-        .seccion .panel-title {
-            text-transform: ;
         }
     </style>
     <p>&nbsp;</p>

@@ -3,23 +3,21 @@
 @section('contenido')
 
 
-
 <!-- Set tramitesServicios -->
-<div class="set-wrapper tramitesServicios">
-    <template>
+<div class="set-wrapper tramitesServicios"><template>
         <div class="card-ts">
             <div class="details-ts">
                 <div class="tags-ts">
                     <div class="tags"><span class="label label-default">Tramite</span></div>
                 </div>
-                <a class="link-ppal">
-                    <h3>Inscripción o autorización para la circulación vial (excepciones pico y placa).</h3>
-                </a>
+                <a class="link-ppal"><h3>Inscripción o autorización para la circulación vial (excepciones pico y placa).</h3></a>
                 <p class="p1">Inscríbete virtualmente al registro de los vehículos exceptuados de la medida de pico y placa en Bogotá.</p>
             </div>
 
             <div class="canals-ts">
-                <ul class="list-canals"><!-- <li><span><img src="/images/ts/20x20/link_20.png"></span>demos</li> --></ul>
+                <ul class="list-canals">
+                    <!-- <li><span><img src="/images/ts/20x20/link_20.png"></span>demos</li> -->
+                </ul>
             </div>
         </div>
     </template>
@@ -57,7 +55,7 @@
             border-radius: 5px;
             -webkit-box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.08);
             box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.08);
-            margin-bottom: 16px;
+            margin-bottom: 12px;
 
         }
 
@@ -67,7 +65,7 @@
 
         @media(min-width:768px) {
             .card-ts {
-                padding: 2rem;
+                padding: 0px 14px;
             }
 
         }
@@ -94,7 +92,7 @@
 
         .canals-ts {
             grid-area: canals-ts;
-            margin: 16px;
+            padding: 8px;
 
         }
 
@@ -104,13 +102,14 @@
 
         @media(min-width:768px) {
             .card-ts {
-                grid-template-columns: repeat(3, 1fr);
+                grid-template-columns: 100%;
                 grid-template-rows: auto;
                 grid-template-areas:
                     /* 'tags-ts tags-ts canals-ts' */
                     /* 'details-ts details-ts canals-ts' */
-                    'details-ts details-ts canals-ts';
-                padding-top: 24px;
+                    'details-ts'
+                    'canals-ts';
+                padding-top: 12px;
             }
 
             .tags-ts a {
@@ -147,16 +146,17 @@
         .card-ts h3 {
 
             padding-top: 0;
-            padding-bottom: 0.1em;
+            padding-bottom: 0;
             font-weight: 700;
             text-align: left;
             line-height: 1.2;
             color: #363636;
-            font-size: 24px;
+            font-size: 20px;
+            margin: 0px;
         }
 
         .card-ts p {
-            font-size: 16px;
+            font-size: 14px;
             font-weight: 500;
             text-align: left;
             line-height: 1.3;
@@ -200,7 +200,7 @@
             margin-left: -24px;
         }
 
-        .canals-ts ul li span img{
+        .canals-ts ul li span img {
             width: 20px;
 
         }
@@ -334,25 +334,19 @@
 
         }
     </style>
-    <hr>
-
-    <!-- Sección box bloque-2 -->
+    <hr> <!-- Sección box bloque-2 -->
     <div class="box box-bloque-2">
         <div class="filter">
-            <div id="buttonsFilter">
-                <button class="btn active" onclick="filterSelection('all')"> Mostrar todo</button>
-                <button class="btn" onclick="filterSelection('tramites')"> Trámites</button>
-                <button class="btn" onclick="filterSelection('servicios')"> Servicios</button>
-                <button class="btn" onclick="filterSelection('pqrsds')"> PQRSD</button>
-            </div>
+            <div id="buttonsFilter"><button class="btn active" onclick="filterSelection('all')">Mostrar todo</button><button class="btn" onclick="filterSelection('tramites')">Trámites</button><button class="btn" onclick="filterSelection('servicios')">Servicios</button><button class="btn" onclick="filterSelection('pqrsds')">PQRSD</button></div>
 
             <form>
                 <div class="filter-text"><label for="sentence">Buscar</label> <input class="form-control" id="sentence" placeholder="Buscar" type="text"></div>
+
                 <div class="filter-clear"><button class="btn btn-filtro" onclick="limpiarFiltro()">Limpiar Filtro</button></div>
             </form>
         </div>
 
-        <div class="ts-cards">&nbsp;</div>
+        <div class="ts-cards"></div>
     </div>
     <style type="text/css">
         .set-wrapper .box-bloque-2 {
@@ -387,19 +381,19 @@
             }
         }
 
-        .box-bloque-2 .btn{
+        .box-bloque-2 .btn {
             width: auto !important;
             background-color: #BED000;
             color: #252525;
         }
 
-        .box-bloque-2 .btn:hover{
+        .box-bloque-2 .btn:hover {
             width: auto !important;
             background-color: #4d541f;
             color: #fff;
         }
 
-        .box-bloque-2 .btn:focus{
+        .box-bloque-2 .btn:focus {
             width: auto !important;
             background-color: #4d541f;
             color: #fff;
@@ -447,6 +441,13 @@
 
         .box-bloque-2 .ts-cards {
             padding: 0px;
+            gap: 8px;
+            display: grid;
+            grid-template-columns: 50% 50%;
+            align-content: stretch;
+            justify-content: space-around;
+            align-items: stretch;
+            justify-items: stretch;
         }
 
         @media(min-width:768px) {
@@ -455,7 +456,6 @@
             }
         }
     </style>
-
 </div>
 <!-- Fin Set -->
 <style type="text/css">
@@ -557,20 +557,20 @@
         {
             position: 4,
             name: 'Te regresamos la llamada',
-            urlCanal: 'https://cls45-ws-secmovilidad.inconcertcc.com/CALLBACKSECMOV/',
+            urlCanal: 'https://secmovilidad.cari.ai/smb/callBack',
             icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/call_20.png'
         },
         {
             position: 5,
             name: 'Chat en línea',
-            urlCanal: 'https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/WCSecMovilidadV1?token=37CC9C9E2A638DC23750B4EC3F74D96E&notify=b8c4b55f-8a9e-e6bd-b364-6ab30e41be18&dev=false&type=popup',
+            urlCanal: 'https://secmovilidad.cari.ai/smb/chatWeb',
             icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/chat_20.png'
 
         },
         {
             position: 6,
             name: 'Videollamada en lengua de señas colombiana',
-            urlCanal: 'https://cls45-ws-secmovilidad.inconcertcc.com/VCSECMOV/',
+            urlCanal: 'https://secmovilidad.cari.ai/smb/videollamada',
             icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/lengua_20.png'
         },
         {

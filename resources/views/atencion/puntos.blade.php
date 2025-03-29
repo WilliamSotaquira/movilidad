@@ -78,7 +78,7 @@
         <div class="cmpnt cmpnt-video-ppal">
             <div class="video video-ppal">
                 <video controls="" style="width: 100%;">
-                    <source poster="" preload="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/video_puntos.mp4" type="video/mp4">
+                    <source poster="" preload="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-03-2025/video_final_puntos_atencion_1.5_subti_e_inter.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
@@ -577,15 +577,12 @@
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
-
                                     <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
-
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
-
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
 
@@ -606,15 +603,14 @@
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
-
-                                    <p>Lunes a viernes 8:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes 7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
-
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
-
+                                    <!-- <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p> -->
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
                             </div>
@@ -663,11 +659,9 @@
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
 
-                                    <p><b>Para peritaje: </b>Cita previa antes de las 7am.</p>
-
-                                    <p><b>Para entrega de vehículos:</b>Cita previa Lunes a viernes 9am a 4:30pm.</p>
-
-                                    <p>Sábados de 9am a 11:30am.</p>
+                                    <p><b>Para peritaje: </b>Cita previa antes de las 7 a.m.</p>
+                                    <p><b>Para entrega de vehículos:</b>Cita previa Lunes a viernes 9 a.m. a 4:30 p.m.</p>
+                                    <p>Sábados de 9 a.m. a 11:30 a.m.</p>
                                 </div>
                             </div>
 
@@ -799,7 +793,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a>Calle 64 # 94 - 91</a></p>
+                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187367471.1873543637.1046124&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">Calle 64 # 94 - 91</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -819,7 +813,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a>Calle 57R # 75D - 11</a></p>
+                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187301934.1873150412.23069953&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">Calle 57R # 75D - 11</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -870,22 +864,20 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
-
                                     <p><a class="url-map" href="https://maps.app.goo.gl/JmkpBQXuDmzxeo9eA">Cra 28 A # 17 A 20</a></p>
-
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 8:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes 7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
-
-                                    <p>unes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
-
+                                    <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
                             </div>
@@ -1348,17 +1340,13 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
-
                                     <p><a class="url-map" href="https://maps.app.goo.gl/3pwubyBqAHk9s4m48">Calle 14 Sur # 22 - 27</a></p>
-
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
-
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
-
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
                             </div>
@@ -1379,9 +1367,7 @@
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
-
                                     <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
-
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
                             </div>
@@ -1426,7 +1412,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1449,7 +1435,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1471,7 +1457,7 @@
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                     <p>Domingos:&nbsp;8:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1494,7 +1480,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1517,7 +1503,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1540,7 +1526,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1563,7 +1549,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1609,7 +1595,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1655,7 +1641,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1678,7 +1664,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1701,7 +1687,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1724,7 +1710,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1747,7 +1733,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -2678,3 +2664,10 @@
         background-position: center;
     }
 </style>
+
+<script>
+    alert("Redireccionando a la página de Carta de compromiso a la ciudadanía de la Secretaría de Movilidad de Bogotá");
+    $(document).ready(function () {
+    window.location.replace("https://www.movilidadbogota.gov.co/web/carta_de_compromiso_con_la_ciudadania").delay(8000);
+    });
+</script>

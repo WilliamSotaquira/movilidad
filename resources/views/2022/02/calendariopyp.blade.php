@@ -9,10 +9,10 @@
         </div>
 
         <div class="row">
-            <p class="paragraph ph-1">Consulte el <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-12-24/decreto_463_de_2024_1.pdf" target="_blank" rel="noopener noreferrer">Decreto 463 de 2024</a> “Por medio del cual se sustituye el parágrafo transitorio del artículo 1 deI Decreto Distrital 003 de 2023, que suspende temporalmente la medida de restricción del parágrafo 2 en la circulación de los vehículos automotores de servicio particular en el perímetro urbano de la ciudad de Bogotá”.</p>
+            <p class="paragraph ph-1">Consulte el <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-12-24/decreto_463_de_2024_1.pdf" rel="noopener noreferrer" target="_blank">Decreto 463 de 2024</a> “Por medio del cual se sustituye el parágrafo transitorio del artículo 1 deI Decreto Distrital 003 de 2023, que suspende temporalmente la medida de restricción del parágrafo 2 en la circulación de los vehículos automotores de servicio particular en el perímetro urbano de la ciudad de Bogotá”.</p>
         </div>
-        <hr>
 
+        <hr>
         <div>
             <div class="descripcion">
                 <p>Descargue o vea en línea el calendario oficial del Pico y Placa en Bogotá</p>
@@ -21,13 +21,7 @@
 
         <div class="row">
             <div class="col-xs-12 col-sm-8 col-sm-offset-2">
-                <p style="text-align: center;"><a class="btn btn-primary btn-lg btn-block" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-12-31/calendario_pico_y_placa_2025-enero.pdf" role="button" target="_blank">Pico y placa enero de 2025</a></p>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">&nbsp;
-                <p>Conozca la normativa que sustenta la medida de Pico y Placa para vehículos particulares, taxis, transporte especial y vehículos de carga mayores a 20 años en Bogotá.</p>
+                <p style="text-align: center;"><a class="btn btn-primary btn-lg btn-block" href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2025-02-28/calendario_pico_y_placa_2025_marzo_1.pdf" role="button" target="_blank">Pico y placa marzo de 2025</a></p>
             </div>
         </div>
 
@@ -102,11 +96,28 @@
             <div class="col-xs-12 col-sm-10 col-sm-offset-1"><!-- collapse_historico -->
                 <div aria-multiselectable="true" class="panel-group" id="accordion_historico" role="tablist "><!-- collapse 2024 -->
                     <div class="panel panel-primary">
+                        <div class="panel-heading" id="heading_2025" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse_2025" aria-expanded="false" data-parent="#accordion_historico" data-toggle="collapse" href="#collapse_2025" role="button">Histórico 2025 </a></h4>
+                        </div>
+
+                        <div aria-expanded="false" aria-labelledby="heading_2025" class="panel-collapse collapse in" id="collapse_2025" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="box-2024">
+                                    <ul>
+                                        <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Noticias/04-02-2025/calendario_pico_y_placa_febrero_2025.pdf">Pico y placa febrero de 2025</a></li>
+                                        <li><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Temas/2024-12-31/calendario_pico_y_placa_2025-enero.pdf">Pico y placa enero de 2025</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="panel panel-primary">
                         <div class="panel-heading" id="heading_2024" role="tab">
                             <h4 class="panel-title"><a aria-controls="collapse_2024" aria-expanded="false" data-parent="#accordion_historico" data-toggle="collapse" href="#collapse_2024" role="button">Histórico 2024 </a></h4>
                         </div>
 
-                        <div aria-expanded="false" aria-labelledby="heading_2024" class="panel-collapse collapse in" id="collapse_2024" role="tabpanel">
+                        <div aria-expanded="false" aria-labelledby="heading_2024" class="panel-collapse collapse" id="collapse_2024" role="tabpanel">
                             <div class="panel-body">
                                 <div class="box-2024">
                                     <ul>
@@ -127,7 +138,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- collapse 2023 -->
+                    <!-- collapse 2024 -->
 
                     <div class="panel panel-primary">
                         <div class="panel-heading" id="heading_2023" role="tab">

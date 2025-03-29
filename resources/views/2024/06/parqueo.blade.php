@@ -2,14 +2,13 @@
 @section('title','parqueo')
 @section('contenido')
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&amp;family=Work+Sans:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet">
 
 <!-- Set parqueo -->
 <div class="set-wrapper parqueo">
-
-    <style>
+    <style type="text/css">
         .field-item.even .centertil {
             visibility: hidden;
             margin-top: -50px;
@@ -50,9 +49,8 @@
 
         }
     </style>
-
     <!-- box bh -->
-    <style>
+    <style type="text/css">
         .set-wrapper .bh {
             grid-area: bh;
             background-color: #4d541f;
@@ -185,19 +183,15 @@
     </style>
     <div class="box bh">
         <div class="head">
-            <div class="cpnt cpnt-title-ppal">
-                <span class='enf enf1'>Inmovilización y Salida de Patios</span>
+            <div class="cpnt cpnt-title-ppal"><span class="enf enf1">Inmovilización y Salida de Patios</span>
                 <h2 class="title title-ppal">Si tu vehículo fue inmovilizado, te indicamos qué hacer</h2>
             </div>
-            <div class="cpnt cpnt-botones">
-                <a class="btn btn-anchor btn-anchor-1" href="#box-infraccion">Inmovilización por infracción a las normas de tránsito <span class="icon1"></span></a>
-                <a class="btn btn-anchor btn-anchor-2" href="#box-siniestro">Inmovilización por siniestro vial <span class="icon2"></span></a>
-            </div>
+
+            <div class="cpnt cpnt-botones"><a class="btn btn-anchor btn-anchor-1" href="#box-infraccion">Inmovilización por infracción a las normas de tránsito </a> <a class="btn btn-anchor btn-anchor-2" href="#box-siniestro">Inmovilización por siniestro vial </a></div>
         </div>
     </div>
-
     <!-- box b1 -->
-    <style>
+    <style type="text/css">
         .set-wrapper .b1 {
             grid-area: b1;
             margin-top: 84px;
@@ -366,29 +360,22 @@
     <div class="box b1" id="box-infraccion">
         <div class="cpnt cpnt-1">
             <h3 class="title title1">Inmovilización por infracción a las normas de tránsito</h3>
-            <a href="https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/orden-de-entrega-de-vehiculo-inmovilizado-sdm-37092"><span class='enf enf1'>Consulta el paso a paso</span></a>
+            <a href="https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/orden-de-entrega-de-vehiculo-inmovilizado-sdm-37092"><span class="enf enf1">Consulta el paso a paso</span></a>
         </div>
+
         <div class="cpnt cpnt-2">
-            <div class="imagen img1">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/img-parqueo-1.png" alt="Foto: Inmovilización de vehículo en la vía" title="Foto: Inmovilización de vehículo en la vía">
-            </div>
-            <div class="collapse-infraccion">
+            <div class="imagen img1"><img alt="Foto: Inmovilización de vehículo en la vía" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/26-07-2024/img-parqueo-1.png" title="Foto: Inmovilización de vehículo en la vía"></div>
 
-                <!-- collapse group infraccion -->
-                <div class='panel-group' id='accordion-infraccion' role='tablist ' aria-multiselectable='true'>
-
-                    <!-- collapse menor -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='heading-menor'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion-infraccion' href='#collapse-menor' aria-expanded='false' aria-controls='collapse-menor'>
-                                    Vehículos inmovilizados hace menos de un año
-                                </a>
-                            </h4>
+            <div class="collapse-infraccion"><!-- collapse group infraccion -->
+                <div aria-multiselectable="true" class="panel-group" id="accordion-infraccion" role="tablist "><!-- collapse menor -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading" id="heading-menor" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse-menor" aria-expanded="false" data-parent="#accordion-infraccion" data-toggle="collapse" href="#collapse-menor" role="button">Vehículos inmovilizados hace menos de un año </a></h4>
                         </div>
-                        <div id='collapse-menor' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-menor' aria-expanded='false'>
-                            <div class='panel-body'>
-                                <div class='body-collapse-menor'>
+
+                        <div aria-expanded="false" aria-labelledby="heading-menor" class="panel-collapse collapse" id="collapse-menor" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="body-collapse-menor">
                                     <ol>
                                         <li><b>Valida</b> aquí si tu vehículo se encuentra inmovilizado: <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/pages/inmovilizaciones/consulta-vehiculos">https://portalmimovilidad.movilidadbogota.gov.co/#/pages/inmovilizaciones/consulta-vehiculos</a></li>
                                         <li><b>Agenda tu cita</b> de Salida de Patios en <a href="https://www.ventanillamovilidad.com.co/">https://www.ventanillamovilidad.com.co/</a> o recibe más información en la línea <a href="tel:+576013649400">(601) – 364 9400</a>, opción 2. También puedes agendar la cita en <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/">Mi Movilidad a un Clic</a>.</li>
@@ -401,19 +388,16 @@
                             </div>
                         </div>
                     </div>
-
                     <!-- collapse mayor -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='heading-mayor'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion-infraccion' href='#collapse-mayor' aria-expanded='false' aria-controls='collapse-mayor'>
-                                    Vehículos inmovilizados hace más de un año
-                                </a>
-                            </h4>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading" id="heading-mayor" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse-mayor" aria-expanded="false" data-parent="#accordion-infraccion" data-toggle="collapse" href="#collapse-mayor" role="button">Vehículos inmovilizados hace más de un año </a></h4>
                         </div>
-                        <div id='collapse-mayor' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-mayor' aria-expanded='false'>
-                            <div class='panel-body'>
-                                <div class='body-collapse-mayor'>
+
+                        <div aria-expanded="false" aria-labelledby="heading-mayor" class="panel-collapse collapse" id="collapse-mayor" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="body-collapse-mayor">
                                     <ol>
                                         <li><b>Acércate</b> al Centro de Servicios de Movilidad en la Calle 13 # 37 -35, para validar en qué patios se encuentra tu vehículo.</li>
                                         <li><b>Agenda tu cita</b> de Salida de Patios en <a href="https://www.ventanillamovilidad.com.co/">https://www.ventanillamovilidad.com.co/</a> o recibe más información en la línea <a href="tel:+576013649400">(601) – 364 9400</a>, opción 2. También puedes agendar la cita en <a href="https://portalmimovilidad.movilidadbogota.gov.co/#/">Mi Movilidad a un Clic.</a></li>
@@ -426,38 +410,27 @@
                             </div>
                         </div>
                     </div>
-
                     <!-- collapse tarifas -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='heading-tarifas'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion-infraccion' href='#collapse-tarifas' aria-expanded='false' aria-controls='collapse-tarifas'>
-                                    Tarifas 2025
-                                </a>
-                            </h4>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading" id="heading-tarifas" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse-tarifas" aria-expanded="false" data-parent="#accordion-infraccion" data-toggle="collapse" href="#collapse-tarifas" role="button">Tarifas 2025 </a></h4>
                         </div>
-                        <div id='collapse-tarifas' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-tarifas' aria-expanded='false'>
-                            <div class='panel-body'>
-                                <div class='body-collapse-tarifas'>
-                                    <div class="imagen img1">
-                                        <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/tarifas_grua_y_patio_2025_dig_horizontal4x.png">
-                                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/tarifas_grua_y_patio_2025_dig_horizontal4x.png" alt="Imagen: Tarifas servicios de parqueo y grúa" title="Imagen: Tarifas servicios de parqueo y grúa">
-                                        </a>
-                                    </div>
+
+                        <div aria-expanded="false" aria-labelledby="heading-tarifas" class="panel-collapse collapse" id="collapse-tarifas" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="body-collapse-tarifas">
+                                    <div class="imagen img1"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/tarifas_grua_y_patio_2025_dig_horizontal4x.png"><img alt="Imagen: Tarifas servicios de parqueo y grúa" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-12-2024/tarifas_grua_y_patio_2025_dig_horizontal4x.png" title="Imagen: Tarifas servicios de parqueo y grúa"> </a></div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
-
             </div>
         </div>
     </div>
-
-    <!-- box b2 -->
-    <style>
-        .set-wrapper .b2 {
+    <!-- box b2
+	<style type="text/css">.set-wrapper .b2 {
             grid-area: b2;
             margin-top: 84px;
             margin-bottom: 32px;
@@ -485,24 +458,21 @@
             margin-top: 32px;
 
         }
-    </style>
-    <div class="box b2">
-        <div class="cpnt cpnt-1">
-            <h3 class="title title1">Salida de Patios Virtual</h3>
-            <p class="paragraph ph1 paragraph-desc">Ahorra&nbsp;tiempo&nbsp;y&nbsp;saca&nbsp;tu&nbsp;vehículo&nbsp;de&nbsp;los&nbsp;patios&nbsp;de&nbsp;forma&nbsp;virtual. Olvídate de esperar. ¡Haz&nbsp;clic&nbsp;y&nbsp;descubre&nbsp;lo&nbsp;fácil&nbsp;que&nbsp;puede&nbsp;ser!</p>
-        </div>
-        <div class="cpnt cpnt-2">
-            <div class="video video-1">
-                <video controls style="width: 100%;" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/241021_1920x1080_80.png">
-                    <source src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/salida_de_patios_final_1.12_subti_e_inter.mp4" type="video/mp4" preload>
-                    <track label="Español" kind="captions" srclang="es" src="resources/myvideo-es.vtt">
-                </video>
-            </div>
-        </div>
-    </div>
+	</style>
+	<div class="box b2">
+		<div class="cpnt cpnt-1">
+			<h3 class="title title1">Salida de Patios Virtual</h3>
 
-    <!-- box b3 -->
-    <style>
+			<p class="paragraph ph1 paragraph-desc">Ahorra&nbsp;tiempo&nbsp;y&nbsp;saca&nbsp;tu&nbsp;vehículo&nbsp;de&nbsp;los&nbsp;patios&nbsp;de&nbsp;forma&nbsp;virtual. Olvídate de esperar. ¡Haz&nbsp;clic&nbsp;y&nbsp;descubre&nbsp;lo&nbsp;fácil&nbsp;que&nbsp;puede&nbsp;ser!</p>
+		</div>
+
+		<div class="cpnt cpnt-2">
+			<div class="video video-1">
+				<video controls="" poster="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/241021_1920x1080_80.png" style="width: 100%;"><source preload="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/salida_de_patios_final_1.12_subti_e_inter.mp4" type="video/mp4"> <track kind="captions" label="Español" src="resources/myvideo-es.vtt" srclang="es"></video>
+			</div>
+		</div>
+	</div>--><!-- box b3 -->
+    <style type="text/css">
         .set-wrapper .b3 {
             grid-area: b3;
             margin-top: 84px;
@@ -669,48 +639,46 @@
     <div class="box b3">
         <div class="cpnt cpnt-1">
             <h3 class="title title1">Ruta de inmovilización por por infracción a las normas de tránsito</h3>
+
             <p class="paragraph ph1 paragraph-desc">Conoce el paso a paso de todo el procedimiento de inmovilización de vehículo por infracción a las normas de tránsito y transporte.</p>
-
         </div>
-        <div class="cpnt cpnt-cards">
 
-            <div class="card card-1">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_1.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+        <div class="cpnt cpnt-cards">
+            <div class="card card-1"><img alt="icono indicacion de mano alto" class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_1.png" title="icono indicacide mano alto">
                 <h4 class="title title-card">1. Inmovilización</h4>
+
                 <p class="paragraph ph-card">La inmovilización del vehículo consiste en la suspensión temporal de su circulación y solo la ordena la autoridad de tránsito.</p>
             </div>
 
-            <div class="card card-2">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_2.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+            <div class="card card-2"><img alt="icono indicacion de mano alto" class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_2.png" title="icono indicacide mano alto">
                 <h4 class="title title-card">2. Traslado a Patios</h4>
+
                 <p class="paragraph ph-card">La Policía de Tránsito o Secretaría Distrital de Movilidad (SDM), solicita al concesionario el servicio de grúa, que se requiere en vía.</p>
             </div>
 
-            <div class="card card-3">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_3.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+            <div class="card card-3"><img alt="icono indicacion de mano alto" class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_3.png" title="icono indicacide mano alto">
                 <h4 class="title title-card">3. Grúas</h4>
+
                 <p class="paragraph ph-card">El servicio de grúa se presta para traslado de vehículos que infringen las normas de tránsito, descritas en el Código Nacional de Tránsito y el Manual de Infracciones, accidentes, despeje de vías, carros volcados, orilladas, entre otros.</p>
             </div>
 
-            <div class="card card-4">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_4.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+            <div class="card card-4"><img alt="icono indicacion de mano alto" class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_4.png" title="icono indicacide mano alto">
                 <h4 class="title title-card">4. Parqueadero (Patio)</h4>
+
                 <p class="paragraph ph-card">Una vez la grúa hace el traslado a los patios, los vehículos inmovilizados son objeto de un inventario digital de ingreso, donde se detallan sus condiciones y partes y se realiza un video de ingreso. Se toman fotos de apoyo, de los comparendos y de la grúa que trasladó el vehículo.</p>
             </div>
 
-            <div class="card card-5">
-                <img class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_5.png" alt="icono indicacion de mano alto" title="icono indicacide mano alto">
+            <div class="card card-5"><img alt="icono indicacion de mano alto" class="imagen img-card img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/iconos_website_5.png" title="icono indicacide mano alto">
                 <h4 class="title title-card">5. Retiro</h4>
+
                 <p class="paragraph ph-card">Para el retiro de los vehículos inmovilizados, los propietarios o infractores deben presentarse al patio indicado, con la orden de salida y liquidación cancelada originales.</p>
             </div>
         </div>
-        <div class="cpnt cpnt-boton">
-            <a href="https://www.movilidadbogota.gov.co/web/guia_de_inmovilizacion" class="btn btn-anchor btn-download" download>Descargar la Guía de inmovilización completa <span class="icon-descarga"></span></a>
-        </div>
-    </div>
 
+        <div class="cpnt cpnt-boton"><a class="btn btn-anchor btn-download" download="" href="https://www.movilidadbogota.gov.co/web/guia_de_inmovilizacion">Descargar la Guía de inmovilización completa </a></div>
+    </div>
     <!-- box b4 -->
-    <style>
+    <style type="text/css">
         #box-siniestro {
             grid-area: b4;
             margin-top: 32px;
@@ -827,34 +795,32 @@
         <div class="fondo2">
             <div class="cpnt cpnt-1">
                 <h3 class="title title-1"><b>Inmovilizado por siniestro vial</b></h3>
-                <p class="paragraph ph-1">Si tu vehículo se encuentra inmovilizado por un siniestro vial (con persona herida o fallecida), ten en cuenta los siguientes requisitos para su salida del patio transitorio. </p>
+
+                <p class="paragraph ph-1">Si tu vehículo se encuentra inmovilizado por un siniestro vial (con persona herida o fallecida), ten en cuenta los siguientes requisitos para su salida del patio transitorio.</p>
             </div>
 
-            <div class="cpnt cpnt-collapse-inmovilizado">
-
-                <!-- collapse group inmovilizado -->
-                <div class='panel-group' id='accordion-inmovilizado' role='tablist ' aria-multiselectable='true'>
-
-                    <!-- collapse peritaje -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='heading-peritaje'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion-inmovilizado' href='#collapse-peritaje' aria-expanded='false' aria-controls='collapse-peritaje'>
-                                    Peritaje
-                                </a>
-                            </h4>
+            <div class="cpnt cpnt-collapse-inmovilizado"><!-- collapse group inmovilizado -->
+                <div aria-multiselectable="true" class="panel-group" id="accordion-inmovilizado" role="tablist "><!-- collapse peritaje -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading" id="heading-peritaje" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse-peritaje" aria-expanded="false" data-parent="#accordion-inmovilizado" data-toggle="collapse" href="#collapse-peritaje" role="button">Peritaje </a></h4>
                         </div>
-                        <div id='collapse-peritaje' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-peritaje' aria-expanded='false'>
-                            <div class='panel-body'>
-                                <div class='body-collapse-peritaje'>
+
+                        <div aria-expanded="false" aria-labelledby="heading-peritaje" class="panel-collapse collapse" id="collapse-peritaje" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="body-collapse-peritaje">
                                     <p class="paragraph ph-1 text-uppercase"><strong>El trámite NO tiene costo y no necesita intermediarios.</strong></p>
+
                                     <p class="paragraph ph-1"><b>PARA SOLICITAR CITA DE PERITAJE:</b></p>
+
                                     <ol>
                                         <li>Debes contar con disponibilidad de 2 horas como mínimo.</li>
                                         <li>A partir del día siguiente a la inmovilización del vehículo, preséntate en el Patio Transitorio (Av. Calle 63 No. 94-51/93), antes de las 7:00 a.m. para la asignación de la cita de “PERITAJE” por parte del Seccional de Tránsito de la Policía Nacional.</li>
                                         <li>Si cuenta con el Informe policial de accidente de tránsito – IPAT preséntelo y si no, con la copia de la licencia de tránsito (tarjeta de propiedad).</li>
                                     </ol>
+
                                     <p class="paragraph ph-1"><b>AL MOMENTO DEL PERITAJE:</b></p>
+
                                     <ol>
                                         <li>Presenta el Formato de solicitud de análisis con la noticia criminal completa FPJ12.</li>
                                         <li>Lleva las llaves del vehículo en caso de no haberlas entregado al momento de la inmovilización.</li>
@@ -875,21 +841,20 @@
                             </div>
                         </div>
                     </div>
-
                     <!-- collapse retiro -->
-                    <div class='panel panel-default'>
-                        <div class='panel-heading' role='tab' id='heading-retiro'>
-                            <h4 class='panel-title'>
-                                <a role='button' data-toggle='collapse' data-parent='#accordion-inmovilizado' href='#collapse-retiro' aria-expanded='false' aria-controls='collapse-retiro'>
-                                    Retiro de patios
-                                </a>
-                            </h4>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading" id="heading-retiro" role="tab">
+                            <h4 class="panel-title"><a aria-controls="collapse-retiro" aria-expanded="false" data-parent="#accordion-inmovilizado" data-toggle="collapse" href="#collapse-retiro" role="button">Retiro de patios </a></h4>
                         </div>
-                        <div id='collapse-retiro' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-retiro' aria-expanded='false'>
-                            <div class='panel-body'>
-                                <div class='body-collapse-retiro'>
+
+                        <div aria-expanded="false" aria-labelledby="heading-retiro" class="panel-collapse collapse" id="collapse-retiro" role="tabpanel">
+                            <div class="panel-body">
+                                <div class="body-collapse-retiro">
                                     <p class="paragraph ph-1 text-uppercase"><strong>El trámite NO tiene costo y no necesita intermediarios.</strong></p>
-                                    <p>Para realizar el retiro de tu vehículo inmovilizado del patio transitorio, debes aportar los siguientes documentos: </p>
+
+                                    <p>Para realizar el retiro de tu vehículo inmovilizado del patio transitorio, debes aportar los siguientes documentos:</p>
+
                                     <ul>
                                         <li>Original del Oficio expedido por la Fiscalía General de la Nación, el cual será confirmado con la URI correspondiente.</li>
                                         <li>Fotocopia del Documento de identidad del propietario o apoderado autorizado, según oficio de la Fiscalía General de la Nación.</li>
@@ -899,16 +864,12 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
-
             </div>
         </div>
-
     </div>
-
     <!-- box b5 -->
-    <style>
+    <style type="text/css">
         .set-wrapper .b5 {
             padding-top: 32px;
             background: #BED000;
@@ -965,7 +926,7 @@
 
         }
 
-        .b5 .cpnt-2 p>a{
+        .b5 .cpnt-2 p>a {
             color: #252525;
         }
 
@@ -1069,14 +1030,45 @@
         <div class="cpnt cpnt-1">
             <h3 class="title title-1">Ubicación de Patios</h3>
         </div>
+
         <div class="cpnt cpnt-2 .cpnt-boton">
             <p>Conoce la ubicación de los patios en nuestra página de <a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion"><b>Puntos de atención.</b></a> Si tu vehículo está inmovilizado hace más de un año, recuerda acércate al Centro de Servicios de Movilidad en la <a href="https://maps.app.goo.gl/SnQZ4eSVgHPhmqJR8"><b>Calle 13 # 37 -35,</b></a> para validar en qué patios se encuentra tu vehículo.</p>
-            <a href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion" class="btn btn-enlace">Ir a puntos de atención<span class="icon-enlace"></span></a>
+            <a class="btn btn-enlace" href="https://www.movilidadbogota.gov.co/web/puntos_de_atencion">Ir a puntos de atención</a>
+        </div>
+    </div>
+
+    <!-- box b8 -->
+    <style>
+        .set-wrapper .b8 {
+            grid-area: b8;
+            margin-top: 32px
+        }
+
+        .b8 .cpnt-1 .title-1 {
+            font-family: 'Montserrat', sans-serif;
+            font-optical-sizing: auto;
+            font-size: 32px;
+            font-weight: bold;
+            text-align: center;
+            line-height: 1.2;
+            color: #4d541f;
+            margin-bottom: 32px;
+        }
+    </style>
+    <div class="box b8">
+        <div class="cpnt cpnt-1">
+            <h3 class="title title-1">Salida de Patios Virtual</h3>
+        </div>
+        <div class="cpnt cpnt-2">
+            <div class="imagen img-1">
+                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/14-03-2025/salida_patios_virtual_mar2025_web_2.jpg" alt="Infografia Salida de Patios" title="Infografia Salida de Patios">
+            </div>
+
         </div>
     </div>
 
     <!-- box b6 -->
-    <style>
+    <style type="text/css">
         .set-wrapper .b6 {
             grid-area: b6;
             margin-top: 32px;
@@ -1184,36 +1176,29 @@
         }
     </style>
     <div class="box b6">
-
         <div class="group-images">
-            <div class="imagen img-1">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g273.png" alt="recurso 1" title="recurso 1">
-            </div>
-            <div class="imagen img-2">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g272.png" alt="recurso 2" title="recurso 2">
-            </div>
-            <div class="imagen img-3">
-                <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g274.png" alt="recurso 3" title="recurso 3">
-            </div>
+            <div class="imagen img-1"><img alt="recurso 1" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g273.png" title="recurso 1"></div>
+
+            <div class="imagen img-2"><img alt="recurso 2" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g272.png" title="recurso 2"></div>
+
+            <div class="imagen img-3"><img alt="recurso 3" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g274.png" title="recurso 3"></div>
 
             <div class="group-text">
                 <div class="cpnt cpnt-1">
-                    <div class="logo logo-1">
-                        <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g271.png" alt="logo Mo Movilidad a un Clic">
-                    </div>
+                    <div class="logo logo-1"><img alt="logo Mo Movilidad a un Clic" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-10-2024/g271.png"></div>
                 </div>
+
                 <div class="cpnt cpnt-2">
                     <p class="paragraph ph-1">Toda la información de la <b>Secretaría Distrital de Movilidad</b>, personalizada y en tu dispositivo.</p>
+
                     <p class="paragraph ph-2">Agendamiento de citas, comparendos, inmovilizaciones, cursos pedagógicos, pico y placa y más.</p>
                     <a class="btn btn-movilidad" href="https://portalmimovilidad.movilidadbogota.gov.co/">Accede y Regístrate aquí</a>
                 </div>
             </div>
         </div>
-
     </div>
-
     <!-- box b7 -->
-    <style>
+    <style type="text/css">
         .set-wrapper .b7 {
             grid-area: b7;
             margin-top: 32px;
@@ -1294,14 +1279,8 @@
         <div class="cpnt cpnt-1">
             <p class="paragraph ph-1">Conoce el portal de Integridad, Antisoborno y Anticorrupción</p>
         </div>
-        <div class="cpnt cpnt-2">
-            <a class="btn btn-anchor btn-anchor-1" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion">Ingresa aquí<span class="icon2"></span></a>
-        </div>
+
+        <div class="cpnt cpnt-2"><a class="btn btn-anchor btn-anchor-1" href="https://www.movilidadbogota.gov.co/web/integridad_antisoborno_y_anticorrupcion">Ingresa aquí</a></div>
     </div>
-
-
-</div>
-
-
 </div>
 <!-- Fin Set -->

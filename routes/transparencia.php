@@ -31,6 +31,7 @@ Route::view('/transparencia/1/9/procedimiento', 'transparencia/1/9/procedimiento
 
 // Seccion 4
 Route::view('/transparencia/4/presupuesto', 'transparencia/4/presupuesto');
+Route::view('/transparencia/4/inversion2024', 'transparencia/4/inversion2024');
 
 // Seccion 6
 Route::view('/transparencia/6/gestionSocial/agendas', 'transparencia/6/gestionSocial/agendas');

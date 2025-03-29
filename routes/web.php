@@ -357,3 +357,9 @@ Route::view('/2024/11/seguridad', '2024/11/seguridad');
 Route::view('/2024/12/notificaciones', '2024/12/notificaciones');
 Route::view('/2024/12/pqrsd', '2024/12/pqrsd');
 Route::view('/2024/12/temporizador', '2024/12/temporizador');
+
+// Contenido febrero 2024
+Route::view('/2025/02/autor', '2025/02/autor');
+
+// Contenido marzo 2024
+Route::view('/2025/03/mujeres', '2025/03/mujeres');
