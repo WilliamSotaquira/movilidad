@@ -7,8 +7,12 @@
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script><!-- Set puntos -->
-<div class="set-wrapper puntos"><!-- bloque box title-->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<!-- Set puntos -->
+<div class="set-wrapper puntos">
+
+    <!-- bloque box title-->
     <style type="text/css">
         .field-item.even .centertil {
             visibility: hidden;
@@ -56,6 +60,7 @@
             <p>Descubre los diferentes lugares donde la Secretaría Distrital de Movilidad te brinda atención presencial, virtual y telefónica. Por medio de nuestros variados canales de comunicación, estarás en contacto directo para recibir asesoramiento e información detallada acerca de nuestros procesos y servicios. Además, tendrás la opción de programar tus citas para las impugnaciones, salida de patios, participar en cursos pedagógicos y establecer acuerdos de pago de manera cómoda y oportuna.</p>
         </div>
     </div>
+
     <!-- bloque box video-ppal-->
     <style type="text/css">
         .set-wrapper .box-video-ppal {
@@ -2235,7 +2240,8 @@
                         background: #191C3A;
                         padding: 16px;
                     }
-                    .content-collapse dd{
+
+                    .content-collapse dd {
                         font-family: 'Montserrat', sans-serif;
                         font-optical-sizing: auto;
                         font-size: 14px;
@@ -2428,6 +2434,7 @@
                 <dl>
                     <dt>Línea de atención:</dt>
                     <dd><a href="tel:+6013649400">364-9400 opción 2</a></dd>
+                    <dd><a href="tel:195">Linea 195</a></dd>
                 </dl>
 
                 <dl>
@@ -2664,10 +2671,3 @@
         background-position: center;
     }
 </style>
-
-<script>
-    alert("Redireccionando a la página de Carta de compromiso a la ciudadanía de la Secretaría de Movilidad de Bogotá");
-    $(document).ready(function () {
-    window.location.replace("https://www.movilidadbogota.gov.co/web/carta_de_compromiso_con_la_ciudadania").delay(8000);
-    });
-</script>

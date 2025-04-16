@@ -558,7 +558,7 @@
             <p class="paragraph ph-1">Las organizaciones y personas ganadoras serán informadas a través de correo electrónico, dirigido a las representantes de cada postulación y a las respectivos ganadoras. Se realizará una publicación en la página web de la Secretaría Distrital de Movilidad y en redes sociales.</p>
             <h3>Reconocimiento</h3>
             <p class="paragraph ph-1">Las organizaciones y personas recibirán un reconocimiento y se publicará una nota en la página web y las redes sociales de la Secretaría Distrital de Movilidad, sobre los proyectos premiados, así como sobre la labor de las referentes ganadoras del concurso. También podrán participar en el concurso internacional “Mujeres en Ruta Internacional”, organizado por el OBGEM.</p>
-            Consulta aquí el <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-03-2025/bases_mujeres_obgem_mar2025.pdf" target="_blank" rel="noopener noreferrer">Reglamento del concurso.</a>
+            Consulta aquí el <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2025/bases_mujeres_obgem_mar2025-3.pdf" target="_blank" rel="noopener noreferrer">Reglamento del concurso.</a>
         </div>
         <div class="imagen img-1">
             <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-03-2025/202510696-1m2d-r.png" alt="Convocatoria" title="Convocatoria">

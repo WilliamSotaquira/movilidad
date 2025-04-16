@@ -124,6 +124,16 @@
                 width: auto !important;
             }
         }
+
+        @media (min-width: 768px) {
+            .navbar-nav {
+                display: flex;
+                flex-wrap: wrap;
+                align-items: stretch;
+                align-content: center;
+                justify-content: center;
+            }
+        }
     </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
@@ -166,7 +176,6 @@
             </div>
         </div>
     </nav>
-
 
     <style>
         .field-item.even .centertil {

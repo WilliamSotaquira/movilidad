@@ -177,8 +177,7 @@
                 <div class="texto">
                     <h3>ZulmaPenha</h3>
                     <!-- <h4></h4> -->
-
-                    <p>Profesional en seguridad y salud en el trabajo, apoya los temas relacionados a higiene y seguridad industrial, planes para la prevención y control de emergencias y el equipo de la Brigada de Emergencias.</p>
+                    <p>Profesional en Seguridad y Salud en el Trabajo, apoya los temas relacionados a inspecciones de seguridad, plan de capacitación,  Mediciones higiénicas, Comité de Convivencia Laboral y la matriz de oportunidades de mejora del Sistema de Gestión de Seguridad y Salud en el Trabajo.</p>
                 </div>
 
                 <div class="sub-close"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cerrar</button></div>
@@ -1441,6 +1440,3 @@
     @media(min-width:1200px) {}
 </style>
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin hoja de estilo  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- Fin Set -->
-
-
-

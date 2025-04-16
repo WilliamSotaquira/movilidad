@@ -5,7 +5,7 @@
 
 <!-- Set orvi -->
 <div class="set-wrapper orvi container"><!-- Sección box logo-full -->
-    <div class="box-logo-full"><img alt="logo ORVI" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/logoorvi.png"></div>
+    <div class="box-logo-full"><img alt="logo ORVI" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-04-2025/logo_orvi_2025-01_0.png"></div>
     <style type="text/css">
         .set-wrapper .box-logo-full {
             grid-area: box-logo-full;

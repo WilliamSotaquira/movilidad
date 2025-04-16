@@ -2,8 +2,6 @@
 @section('title','mitos')
 @section('contenido')
 
-<link rel="stylesheet" href="{{ asset('css/cybe.css') }}">
-
 <!-- Google fonts - Montserrat  -->
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
@@ -105,7 +103,8 @@
 
         .set-wrapper .navbar-nav>li>a {
             color: #3d4a1c !important;
-            padding: 14px 4px;
+            /* padding: 14px 4px; */
+            height: 100%;
         }
 
         .set-wrapper .navbar-nav>li:hover>a {
@@ -123,6 +122,16 @@
                 width: auto !important;
             }
         }
+
+        @media (min-width: 768px) {
+            .navbar-nav {
+                display: flex;
+                flex-wrap: wrap;
+                align-items: stretch;
+                align-content: center;
+                justify-content: center;
+            }
+        }
     </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
@@ -136,7 +145,6 @@
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-    <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
 
@@ -153,18 +161,20 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución proponemos?</a></li>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son nuestras metas?</a></li>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son las tecnologías?</a></li>
-                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades y mitos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución <br> proponemos?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son <br> nuestras metas?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son <br> las tecnologías?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades <br>y mitos</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/aliados">Aliados</a></li>
                 </ul>
 
             </div>
         </div>
     </nav>
+
 
     <style>
         .set-wrapper.mitos {

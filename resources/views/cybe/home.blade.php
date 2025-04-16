@@ -146,6 +146,16 @@
                 width: auto !important;
             }
         }
+
+        @media (min-width: 768px) {
+            .navbar-nav {
+                display: flex;
+                flex-wrap: wrap;
+                align-items: stretch;
+                align-content: center;
+                justify-content: center;
+            }
+        }
     </style>
     <div class="box box-header">
         <div class="cmpnt cmpnt-vacio">
@@ -321,7 +331,7 @@
                 <h3 class="title title-type-enfasis-1 title-id-1">Movilidad</h3>
                 <h3 class="title title-type-enfasis-2 title-id-2">Sostenible</h3>
             </div>
-            <p class="paragraph ph-type-video ph-id-2">La política Pública de Movilidad Motorizada de Cero y Bajas Emisiones es la  hoja de ruta a 2040, para facilitar la transición hacia una movilidad más sostenible en la Región Metropolitana Bogotá - Cundinamarca. </p>
+            <p class="paragraph ph-type-video ph-id-2">La política Pública de Movilidad Motorizada de Cero y Bajas Emisiones es la hoja de ruta a 2040, para facilitar la transición hacia una movilidad más sostenible en la Región Metropolitana Bogotá - Cundinamarca. </p>
             <p class="paragraph ph2">Invitamos al sector privado, al sector público y a la ciudadanía a sumarse a esta apuesta.</p>
             <a href="http://" target="_blank" rel="noopener noreferrer"></a>
         </div>
@@ -1116,11 +1126,11 @@
             max-width: 120px;
             width: 120px;
 
-            @media(min-width:768px){
-             max-width: 160px;
-             width: 160px;
+            @media(min-width:768px) {
+                max-width: 160px;
+                width: 160px;
 
-         }
+            }
 
         }
 

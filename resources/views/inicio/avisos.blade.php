@@ -22,22 +22,41 @@
 
             <div class="carousel-inner" role="listbox">
 
-            <div class="item active">
-                <a href="https://www.movilidadbogota.gov.co/web/salida_de_patios">
-                    <picture>
-                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2025/salida_patios_virtual_mar2025_banner1.jpg">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2025/salida_patios_virtual_mar2025_banner2.jpg" class="img-responsive w-100" alt="Salida de patios de forma virtual" title="Image: Salida de patios de forma virtual">
-                    </picture>
-                </a>
-            </div>
-                <div class="item">
-                    <a href="https://bogota.gov.co/racionamiento-agua-bogota/" target="_blank">
+                <div class="item active">
+                    <a href="https://www.movilidadbogota.gov.co/web/mujeres_en_ruta">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-02-2025/turnos_racionamiento_mar_950x300.png">
-                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-02-2025/turnos_racionamiento_mar_340x300.png" title="Image: Turnos de racionamiento - marzo 2025" loading="lazy">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2025/banner_web_obgem_mar2025_lg.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2025/banner_web_obgem_mar2025_xs.jpg" class="img-responsive w-100" alt="Concurso mujeres en ruta 2025" title="Image: Concurso mujeres en ruta 2025">
                         </picture>
                     </a>
                 </div>
+
+                <div class="item">
+                    <a href="https://bogota.gov.co/mi-ciudad/habitat/terminan-turnos-de-racionamiento-de-agua-en-bogota-sabado-12-de-abril" target="_blank">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/piezas_portal_suspension_racionamiento_950x300.png"> <img class="img-responsive w-100" loading="lazy" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/piezas_portal_suspension_racionamiento_340x300.png" title="Terminan los turnos de racionamiento en Bogotá">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a>
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/semanasanta_abr2025_banner2.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/semanasanta_abr2025_banner1.jpg" class="img-responsive w-100" alt="Horarios de atención semana santa 2025" title="Image: Horarios de atención semana santa 2025">
+                        </picture>
+                    </a>
+                </div>
+
+                <div class="item">
+                    <a href="https://www.movilidadbogota.gov.co/web/salida_de_patios">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2025/salida_patios_virtual_mar2025_banner1.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-03-2025/salida_patios_virtual_mar2025_banner2.jpg" class="img-responsive w-100" alt="Salida de patios de forma virtual" title="Image: Salida de patios de forma virtual">
+                        </picture>
+                    </a>
+                </div>
+
 
                 <div class="item"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXMHfqXpLwAgjt64zRzCcUFyObjwWtzrQ3aiCmvlzSHqGkMg/viewform?usp=dialog" target="_blank">
                         <picture>
@@ -57,11 +76,11 @@
                 <div class="item"><a href="https://www.movilidadbogota.gov.co/web/consulta_de_comparendos">
                         <picture>
                             <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banner-mal-parqueado-desktop.jpg">
-                            <img alt="Image: Si dejaste tu vehìculo malparqueado" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banner-mal-parqueado-mobile.jpg" title="Image: Si dejaste tu vehìculo malparqueado" loading="lazy">
+                            <img alt="Si dejaste tu vehìculo malparqueado" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banner-mal-parqueado-mobile.jpg" title="Si dejaste tu vehìculo malparqueado" loading="lazy">
                         </picture>
                     </a></div>
 
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-03-2025/ajuste_pieza_restricciones_de_carga_pieza_restriccion_general_de_carga_1.jpg" target="_blank">
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2025/pieza_mapa_pico_y_placa_carga.jpg" target="_blank">
                         <picture>
                             <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banners-restricciones-de-carga-desktop.jpg">
                             <img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banners-restricciones-de-carga-mobile.jpg" title="Image: " loading="lazy">
@@ -109,6 +128,15 @@
                             <img alt="Mi movilidad a un clic" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banner-mi-movilidad-clic-mobile.jpg" title="Image: Mi movilidad a un clic" loading="lazy">
                         </picture>
                     </a></div>
+
+                <div class="item">
+                    <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://datos.movilidadbogota.gov.co/&ved=2ahUKEwipufGjm7-MAxXcRTABHfFACCAQFnoECAoQAQ&usg=AOvVaw1UMKwfJn3-92o28Apq0A0I">
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2025/banner_datos_abiertos_2_900x300.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2025/banner_datos_abiertos_2_340x300.jpg" class="img-responsive w-100" alt="Datos abiertos Secretaría Distrital de Movilidad" title="Image: Datos abiertos Secretaría Distrital de Movilidad">
+                        </picture>
+                    </a>
+                </div>
 
                 <div class="item"><a href="https://www.movilidadbogota.gov.co/web/plan_de_movilidad_sostenible_y_segura">
                         <picture>

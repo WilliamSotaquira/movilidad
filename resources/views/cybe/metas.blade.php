@@ -567,6 +567,7 @@
 <div class="set-wrapper objetivos obj">
 
 
+
     <!-- bloque box header-->
     <style>
         .set-wrapper .box-header {
@@ -581,34 +582,6 @@
             grid-template-columns: 1fr;
             grid-template-rows: auto;
             grid-template-areas: "box-header";
-        }
-
-        .cpnt-collapse .panel-title>a {
-            display: inline-block;
-        }
-
-        .zoom {
-            transition: 0.5s ease;
-            -moz-transition: 0.5s ease;
-            /* Firefox */
-            -webkit-transition: 0.5s ease;
-            /* Chrome - Safari */
-            -o-transition: 0.5s ease;
-            /* Opera */
-            -ms-transition: 0.5s ease;
-            /* IE9 */
-        }
-
-        .zoom:hover {
-            transform: scale(1.05);
-            -moz-transform: scale(1.05);
-            /* Firefox */
-            -webkit-transform: scale(1.05);
-            /* Chrome - Safari */
-            -o-transform: scale(1.05);
-            /* Opera */
-            -ms-transform: scale(1.05);
-            /* IE9 */
         }
 
         @media (min-width: 908px) {
@@ -688,7 +661,8 @@
 
         .set-wrapper .navbar-nav>li>a {
             color: #3d4a1c !important;
-            padding: 14px 4px;
+            /* padding: 14px 4px; */
+            height: 100%;
         }
 
         .set-wrapper .navbar-nav>li:hover>a {
@@ -707,13 +681,14 @@
             }
         }
 
-        .enlace-metas {
-            color: #BED000;
-            font-weight: bold;
-        }
-
-        .enlace-metas:hover {
-            color: #fff;
+        @media (min-width: 768px) {
+            .navbar-nav {
+                display: flex;
+                flex-wrap: wrap;
+                align-items: stretch;
+                align-content: center;
+                justify-content: center;
+            }
         }
     </style>
     <div class="box box-header">
@@ -728,7 +703,6 @@
             <p class="paragraph ph-type-ppal ph-id-1">Conoce la apuesta de Bogotá por la <strong>movilidad motorizada de cero y bajas emisiones</strong></p>
         </div>
     </div>
-    <!-- bloque navbar-->
     <nav class="navbar navbar-default">
         <div class="container-fluid">
 
@@ -745,13 +719,14 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución proponemos?</a></li>
-                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son nuestras metas?</a></li>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son las tecnologías?</a></li>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades y mitos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución <br> proponemos?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son <br> nuestras metas?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son <br> las tecnologías?</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades <br>y mitos</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/aliados">Aliados</a></li>
                 </ul>
 
             </div>
