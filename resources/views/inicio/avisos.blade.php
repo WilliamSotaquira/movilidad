@@ -22,7 +22,24 @@
 
             <div class="carousel-inner" role="listbox">
 
-                <div class="item active">
+            <div class="item active">
+                <a>
+                    <picture>
+                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/Feria_Ciudad_Bolivar_Abr2025_Banner_1980x625.jpg">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/Feria_Ciudad_Bolivar_Abr2025_Bannes_340x300.jpg" class="img-responsive w-100" alt="Feria A Tu Servicio Ciudad Bolivar" title="Image: Feria A Tu Servicio Ciudad Bolivar">
+                    </picture>
+                </a>
+            </div>
+
+            <div class="item">
+                <a>
+                    <picture>
+                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/BPO_Abr2025_banner1.jpg">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/BPO_Abr2025_banner2.jpg" class="img-responsive w-100" alt="Actualización BPO" title="Image:Actualización BPO">
+                    </picture>
+                </a>
+            </div>
+                <div class="item">
                     <a href="https://www.movilidadbogota.gov.co/web/mujeres_en_ruta">
                         <picture>
                             <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-03-2025/banner_web_obgem_mar2025_lg.jpg">
@@ -34,16 +51,8 @@
                 <div class="item">
                     <a href="https://bogota.gov.co/mi-ciudad/habitat/terminan-turnos-de-racionamiento-de-agua-en-bogota-sabado-12-de-abril" target="_blank">
                         <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/piezas_portal_suspension_racionamiento_950x300.png"> <img class="img-responsive w-100" loading="lazy" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/piezas_portal_suspension_racionamiento_340x300.png" title="Terminan los turnos de racionamiento en Bogotá">
-                        </picture>
-                    </a>
-                </div>
-
-                <div class="item">
-                    <a>
-                        <picture>
-                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/semanasanta_abr2025_banner2.jpg">
-                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/semanasanta_abr2025_banner1.jpg" class="img-responsive w-100" alt="Horarios de atención semana santa 2025" title="Image: Horarios de atención semana santa 2025">
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/piezas_portal_suspension_racionamiento_950x300.png">
+                            <img class="img-responsive w-100" loading="lazy" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/11-04-2025/piezas_portal_suspension_racionamiento_340x300.png" title="Terminan los turnos de racionamiento en Bogotá">
                         </picture>
                     </a>
                 </div>

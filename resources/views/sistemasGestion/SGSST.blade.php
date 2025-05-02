@@ -374,6 +374,25 @@
     </div>
 </div>
 
+<div aria-hidden="true" aria-labelledby="exampleModalLongTitle" class="modal fade" id="modalPaolaCanon" role="dialog" tabindex="-1">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="foto">
+                    <div class="imagen"><img alt="Foto: Paola Astrid Cañon Lara" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-04-2025/PaolaCanon.png" title="Foto: Paola Astrid Cañon Lara"></div>
+                </div>
+
+                <div class="texto">
+                    <h3>Paola Astrid Cañon Lara</h3>
+                    <p>Ingeniera de producción, especialista y magister en SST, apoya los temas relacionados con el COPASST, Accidente de Trabajo y enfermedad laboral, Prevención y control de emergencias y coordinación de la Brigada de Emergencias.</p>
+                </div>
+
+                <div class="sub-close"><button class="btn btn-secondary" data-dismiss="modal" type="button">Cerrar</button></div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <div>&nbsp;</div>
 <style type="text/css">
     .modal-body {
@@ -826,6 +845,12 @@
                             <div class="foto-perfil"><a data-target="#modalSergioRodriguez" data-toggle="modal"><img alt="Sergio Rodríguez" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/31-10-2022/sergio_rodriguez.png" title="Sergio Rodríguez"> </a></div>
 
                             <h4><a data-target="#modalSergioRodriguez" data-toggle="modal">Sergio Rodríguez</a></h4>
+                        </div>
+
+                        <div class="card-profile">
+                            <div class="foto-perfil"><a data-target="#modalPaolaCanon" data-toggle="modal"><img alt="Paola Astrid Cañon Lara" class="img-responsive w-100 zoom" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/28-04-2025/PaolaCanon.png" title="Paola Astrid Cañon Lara"> </a></div>
+
+                            <h4><a data-target="#modalPaolaCanon" data-toggle="modal">Paola Astrid Cañon Lara</a></h4>
                         </div>
                         <style type="text/css">
                             .card-profile {

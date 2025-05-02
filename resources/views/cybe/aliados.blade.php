@@ -545,6 +545,7 @@
 <script>
     const aliados = [{
             "id": "a001",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a001.png",
             "name": "GRUPO EMPRESARIAL O&C SAS",
             "category": 5,
             "description": "Infraestructura para recarga de vehículos eléctricos de 2 y 4 ruedas",
@@ -552,6 +553,7 @@
         },
         {
             "id": "a002",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a002.png",
             "name": "RENTING COLOMBIA SAS (BANCOLOMBIA)",
             "category": 20,
             "description": "Alquiler de vehículos",
@@ -559,6 +561,7 @@
         },
         {
             "id": "a003",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a003.png",
             "name": "DEFENCARGA",
             "category": 11,
             "description": "Logística, seguridad",
@@ -566,6 +569,7 @@
         },
         {
             "id": "a004",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a004.png",
             "name": "RENAULT SOFASA",
             "category": 14,
             "description": "Fabricantes y comercializadores de vehículos.\nAlquiler de vehículos eléctricos.",
@@ -573,6 +577,7 @@
         },
         {
             "id": "a005",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a005.png",
             "name": "X-CARGO",
             "category": 4,
             "description": "Distribución de ultima milla y mensajería",
@@ -580,6 +585,7 @@
         },
         {
             "id": "a006",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a006.png",
             "name": "EVOLECTRIC INCORPORATED",
             "category": 4,
             "description": "Distribución y transición (retrofit) de flota a EV",
@@ -587,6 +593,7 @@
         },
         {
             "id": "a007",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a007.png",
             "name": "LOLA TE MUEVE SAS",
             "category": 4,
             "description": "Distribución de ultima milla, venta y alquiler de bicicletas eléctricas de carga y triciclos eléctricos de carga",
@@ -594,6 +601,7 @@
         },
         {
             "id": "a008",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a008.png",
             "name": "BANCO DAVIVIENDA SA",
             "category": 16,
             "description": "Banco, créditos",
@@ -601,6 +609,7 @@
         },
         {
             "id": "a009",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a009.png",
             "name": "INSEPET SAS",
             "category": 20,
             "description": "Estaciones de servicio de combustible",
@@ -608,6 +617,7 @@
         },
         {
             "id": "a010",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a010.png",
             "name": "OPERACIONES NACIONALES DE MERCADEO - OPEN MARKET LTDA (SOLISTICA)",
             "category": 11,
             "description": "Gestión del transporte, Gestión de almacenamiento, Mantenimiento vehicular",
@@ -615,6 +625,7 @@
         },
         {
             "id": "a011",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a011.png",
             "name": "ENEL CODENSA",
             "category": 7,
             "description": "Generación eléctrica y distribución de electricidad y gas ; Desarrollo de productos innovadores y soluciones digitales en sectores: ciudades, hogares, industrias y movilidad eléctrica",
@@ -622,6 +633,7 @@
         },
         {
             "id": "a012",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a012.png",
             "name": "NAVISAF - GEOTAB INC",
             "category": 11,
             "description": "Recopilación de datos y analítca, logística, avisos de disponibilidad de flota, gestión del riesgo ; rastreo GPS de flota ; control de velocidad",
@@ -629,6 +641,7 @@
         },
         {
             "id": "a013",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a013.png",
             "name": "PIOT SAS",
             "category": 4,
             "description": "Mensajería y distribución de ultima milla",
@@ -636,13 +649,15 @@
         },
         {
             "id": "a014",
-            "name": "MOTORYSA BIC (BYD)",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/02-05-2025/A014.jpg",
+            "name": "MOTORES Y MÁQUINAS SA BIC (MOTORYSA BIC) [BYD]",
             "category": 3,
             "description": "Importación y dstribución de vehículos. Tienen una nueva línea de negocios relacionada a la infraestructura de recarga.",
             "website": "https://motorysa.com/desarrollo-sostenible"
         },
         {
             "id": "a015",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a015.png",
             "name": "HELIOX ENERGY",
             "category": 5,
             "description": "Soluciones de recarga rápida, al servicio de flotas de autobuses y camiones eléctricos, vehículos de pasajeros, marinos, portuarios y mineros, entre otros",
@@ -650,6 +665,7 @@
         },
         {
             "id": "a016",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a016.png",
             "name": "SEGUROS SURA COLOMBIA",
             "category": 15,
             "description": "Gestor de inversiones que busca la rentabilidad sostenible",
@@ -657,6 +673,7 @@
         },
         {
             "id": "a017",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a017.png",
             "name": "ALIADAS CARGO",
             "category": 11,
             "description": "Servicios de transporte de carga",
@@ -664,6 +681,7 @@
         },
         {
             "id": "a018",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a018.png",
             "name": "AKT MOTOS",
             "category": 20,
             "description": "Ensambley venta de motocicletas con materiales provenientes de China, Brasil, Japón, Tailandia, Taiwán y Colombia",
@@ -671,6 +689,7 @@
         },
         {
             "id": "a019",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a019.png",
             "name": "AUTECO MOBILITY SAS",
             "category": 20,
             "description": "Ensambladora y venta de motocicletas",
@@ -678,6 +697,7 @@
         },
         {
             "id": "a020",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a020.png",
             "name": "AKUAI ENERGY SAS BIC",
             "category": 5,
             "description": "Estructuración e implementación de proyectos de eficiencia energética, energías renovables y movilidad eléctrica. Venta e instalación de cargadores de vehículos eléctricos VE, acompañamiento en la solicitud de beneficios tributarios por VE",
@@ -685,6 +705,7 @@
         },
         {
             "id": "a021",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a021.png",
             "name": "ABB COLOMBIA LTDA",
             "category": 3,
             "description": "Productos para la industria eléctrica, proveedor de variadores de velocidad y motores, sistemas de control industrial que permiten la automatización",
@@ -692,6 +713,7 @@
         },
         {
             "id": "a022",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a022.png",
             "name": "VEMO",
             "category": 5,
             "description": "Vehículos eléctricos; Infraestructura de recarga para empresas; Tecnología e inteligencia de datos para gestión de flotas",
@@ -699,6 +721,7 @@
         },
         {
             "id": "a023",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a023.png",
             "name": "AUTOMOTRIZ ESCANDINAVA SAS  (VOLVO)",
             "category": 20,
             "description": "Venta de vehículos",
@@ -706,6 +729,7 @@
         },
         {
             "id": "a024",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a024.png",
             "name": "NAVITRANS SAS",
             "category": 20,
             "description": "Venta de vehículos y ensamble local",
@@ -713,6 +737,7 @@
         },
         {
             "id": "a025",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a025.png",
             "name": "CIRCUTOR SA (FILIAL COLOMBIA)",
             "category": 3,
             "description": "Medida y control ; Metering ; Protección y control ; Compensación de energía reactiva y filtrado de armónicos ; Recarga inteligente para vehículos eléctricos ; Energías renovables ; Software ; IoT Industrial y Automatización",
@@ -720,6 +745,7 @@
         },
         {
             "id": "a026",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a026.png",
             "name": "TRACTEC",
             "category": 14,
             "description": "Fabricante de toda clase de remolques y semirremolques para las diferentes industrias",
@@ -727,6 +753,7 @@
         },
         {
             "id": "a027",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a027.png",
             "name": "ORGANIZACIÓN TERPEL SA",
             "category": 20,
             "description": "Estaciones de servicio de combustible (gasolineras) y de recarga eléctrica (electrolineras)",
@@ -734,6 +761,7 @@
         },
         {
             "id": "a028",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a028.png",
             "name": "ASOCIACIÓN NACIONAL DE MOVILIDAD SOSTENIBLE - ANDEMOS",
             "category": 2,
             "description": "Agremiación con el objeto de defender la libertad de comercio, las buenas prácticas y los acuerdos comerciales para asegurar la competitividad del sector automotor afín a la movilidad sostenible​",
@@ -741,6 +769,7 @@
         },
         {
             "id": "a029",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a029.png",
             "name": "CITYBEST",
             "category": 18,
             "description": "Aplicación que proveerá viajes más ecoamigables, gracias a que la flota de automóviles serán carros que funcionan a gas, eléctricos e híbridos",
@@ -748,6 +777,7 @@
         },
         {
             "id": "a030",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a030.png",
             "name": "DEEPSEA DEVELOPMENTS SAS",
             "category": 17,
             "description": "Internet de las cosas (IoT)",
@@ -755,6 +785,7 @@
         },
         {
             "id": "a031",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/a031.png",
             "name": "EMASA COLOMBIA",
             "category": 5,
             "description": "Soluciones Electro Mecánicas ; Soporte para montaje e instalación ; Construcción, montaje y puesta en marcha de equipos ; Planificación de rutinas de mantenimiento ; Diseño final de soluciones ; Administración de la Garantía ; Análisis de factibilidad de la solución",
@@ -762,6 +793,7 @@
         },
         {
             "id": "b001",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b001.png",
             "name": "ANAFALCO",
             "category": 2,
             "description": "Asociación Nacional de Fabricantes de Ladrillo y Materiales de Construcción",
@@ -769,6 +801,7 @@
         },
         {
             "id": "b002",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b002.png",
             "name": "SH'MA CAPITAL - FONDO SAMAN",
             "category": 16,
             "description": "Gestores financieros de activos no tradicionales",
@@ -776,6 +809,7 @@
         },
         {
             "id": "b003",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b003.png",
             "name": "MASIVO CAPITAL SAS (EN REORGANIZACIÓN)",
             "category": 19,
             "description": "Transportadora de pasajeros en servicio público",
@@ -783,6 +817,7 @@
         },
         {
             "id": "b004",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b004.png",
             "name": "BANCO DE BOGOTÁ",
             "category": 16,
             "description": "Pertenece al Grupo Aval, conglomerado financiero más grande de Colombia",
@@ -790,6 +825,7 @@
         },
         {
             "id": "b005",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b005.png",
             "name": "GRUPO ÉXITO",
             "category": 20,
             "description": "Organización de ventas en el sector retail. Presentes en Colombia con Grupo Éxito, en Uruguay con los Grupos Disco y Devoto y en Argentina con Libertad.",
@@ -797,6 +833,7 @@
         },
         {
             "id": "b006",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b006.png",
             "name": "TAXIS LIBRES",
             "category": 19,
             "description": "Servicio de transporte taxi",
@@ -804,6 +841,7 @@
         },
         {
             "id": "b007",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b007.png",
             "name": "PROBOGOTÁ REGION",
             "category": 12,
             "description": "Fundación sin ánimo de lucro, privada e independiente que busca el bien común e incidir en la formulación de políticas públicas de largo plazo que contribuyan a hacer de Bogotá y la región un mejor lugar para vivir",
@@ -811,6 +849,7 @@
         },
         {
             "id": "b008",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b008.png",
             "name": "ASAMBLEA NACIONAL DE TRANSPORTE",
             "category": 2,
             "description": "Transporte de carga",
@@ -818,6 +857,7 @@
         },
         {
             "id": "b009",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b009.png",
             "name": "UNIVERSIDAD DE LA SALLE",
             "category": 1,
             "description": "Universidad Privada Bogotá",
@@ -825,6 +865,7 @@
         },
         {
             "id": "b010",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b010.png",
             "name": "MALLPLAZA",
             "category": 20,
             "description": "Centro comercial",
@@ -832,6 +873,7 @@
         },
         {
             "id": "b011",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b011.png",
             "name": "GRUPO DE ENERGÍA DE BOGOTÁ (GEB)",
             "category": 7,
             "description": "Compañía colombiana de generación, transmisión y distribución de energía eléctrica, y transporte y distribución de gas natural.",
@@ -839,6 +881,7 @@
         },
         {
             "id": "b012",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b012.png",
             "name": "ASOCIACIÓN NACIONAL DE INDUSTRIALES (ANDI)",
             "category": 2,
             "description": "La Asociación Nacional de Empresarios de Colombia (ANDI), es una agremiación sin ánimo de lucro, que tiene como objetivo difundir y propi​ciar los principios políticos, económicos y sociales de un sano sistema de libre empresa",
@@ -846,6 +889,7 @@
         },
         {
             "id": "b013",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b013.png",
             "name": "ASOCIACIÓN VOLQUETERA DE BOGOTÁ Y CUNDINAMARCA (ASOVOLBOCUN)",
             "category": 2,
             "description": "Asociación con el fin de apoyar, unir y ayudar a todos los conductores y dueños de volquetas, para hacer valer sus derechos con el servicio que prestan",
@@ -853,13 +897,15 @@
         },
         {
             "id": "b014",
-            "name": "GENERAL MOTORS SA - GM COLMOTORES",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b014.png",
+            "name": "GENERAL MOTORS (GM) - COLMOTORES SA",
             "category": 14,
             "description": "Fabricante / Ensamblador de vehículos en Colombia hasta abril del 2024 cuando se liquida la empresa, ahora cambia a solamente comercializadora (posiblemente de Chevrolet)",
             "website": "http://www.chevrolet.com.co/"
         },
         {
             "id": "b015",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b015.png",
             "name": "CDA AUTOMAS LTDA",
             "category": 13,
             "description": "Inspección técnica vehicular",
@@ -867,6 +913,7 @@
         },
         {
             "id": "b016",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b016.png",
             "name": "AXXOM SAS",
             "category": 3,
             "description": "Empresa Colombo-Alemana especializada en la importación, distribución y comercialización de productos de Ingeniería Ambiental y de Seguridad Vial",
@@ -874,6 +921,7 @@
         },
         {
             "id": "b017",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b017.png",
             "name": "CETEC",
             "category": "",
             "description": "NO ENCUENTRO INFO",
@@ -881,6 +929,7 @@
         },
         {
             "id": "b018",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b018.png",
             "name": "SOCIEDAD CONCESIONARIA OPERADORA AEROPORTUARIA INTERNACIONAL SA - OPAIN (AEROPUERTO INTERNACIONAL EL DORADO)",
             "category": 5,
             "description": "Aeropuerto internacional",
@@ -888,20 +937,23 @@
         },
         {
             "id": "b019",
-            "name": "NGV POWERTRAIN SRL -ITALIA",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b019.png",
+            "name": "NGV POWERTRAIN SRL",
             "category": 14,
             "description": "Fabricantes de motores alimentados con gas natural (GNC, GNL), biocombustibles (biometano, bioetanol, etc.) y electro-combustibles (hidrógeno, e-metanol, etc.), incluidos los eléctricos e híbridos",
             "website": "https://ngvpowertrain.com/"
         },
         {
             "id": "b020",
-            "name": "COCA-COLA FEMSA",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b020.png",
+            "name": "INDUSTRIA NACIONAL DE GASEOSAS SA (COCA-COLA FEMSA)",
             "category": 14,
             "description": "Fabricante de bebida gasesosa, líder embotellador y comercializador de bebidas multicategoría",
             "website": "https://coca-colafemsa.com/"
         },
         {
             "id": "b021",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b021.png",
             "name": "GRUPO LOGISTICO TCC",
             "category": 4,
             "description": "Soluciones de transporte para la cadena de abastecimiento de los clientes en diferentes sectores",
@@ -909,6 +961,7 @@
         },
         {
             "id": "b022",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b022.png",
             "name": "PFIZER",
             "category": 14,
             "description": "Empresa farmacéutica",
@@ -916,6 +969,7 @@
         },
         {
             "id": "b023",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b023.png",
             "name": "COORDINADORA MERCANTIL",
             "category": 4,
             "description": "Mensajería y distribución de ultima milla",
@@ -923,6 +977,7 @@
         },
         {
             "id": "b025",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b025.png",
             "name": "VOITH TURBO COLOMBIA SAS",
             "category": 14,
             "description": "La división Voith Turbo forma parte del Grupo Voith, se dedica al desarrollo de tecnología de control inteligente, sistemas y servicios personalizados para diversas industrias como petróleo y gas, energía, minería, ingeniería mecánica, tecnología naval, vehículos comerciales, automoción y ferrocarril",
@@ -930,6 +985,7 @@
         },
         {
             "id": "b026",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b026.png",
             "name": "CÁMARA DE COMERCIO DE BOGOTÁ (CCB)",
             "category": 2,
             "description": "Fomentar el desarrollo económico y social a través de servicios de registro, formación, asesoría y programas de apoyo empresarial, además de promover la innovación y el emprendimiento. La CCB también lleva a cabo funciones de registro mercantil, conciliación y arbitraje.",
@@ -937,6 +993,7 @@
         },
         {
             "id": "b027",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b027.png",
             "name": "UNIVERSIDAD DE LA SABANA",
             "category": 1,
             "description": "Universidad privada en Bogotá",
@@ -944,6 +1001,7 @@
         },
         {
             "id": "b029",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/b029.png",
             "name": "TEAM FOODS COLOMBIA SA (PARTE DEL CONGLOMERADO ALIANZA TEAM)",
             "category": 14,
             "description": "Soluciones de alimentación, principalmente fabricación de aceites y grasas de origen vegetal y animal",
@@ -951,6 +1009,7 @@
         },
         {
             "id": "c002",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c002.png",
             "name": "SAG SERVICIOS DE INGENIERÍA",
             "category": 20,
             "description": "Distribuidora de productos y prestadora de servicios de integración tecnológica, productos relacionados a la ITS, promoción del transporte activo y su impacto medible en no emisiones de GEI",
@@ -958,6 +1017,7 @@
         },
         {
             "id": "c003",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c003.png",
             "name": "OPEX SAS",
             "category": 20,
             "description": "Implementación de tecnologías para el almacenamiento de energía en vehículos eléctricos. Suministro de generadores de hidrógeno y sistemas de repostaje de Hidrógeno (H2), Piloto de combustible híbrido Diésel-H2",
@@ -965,6 +1025,7 @@
         },
         {
             "id": "c004",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c004.png",
             "name": "SALITRE PLAZA CENTRO COMERCIAL P.H",
             "category": 20,
             "description": "Venta de servicios y Administración de propiedad horizontal",
@@ -972,6 +1033,7 @@
         },
         {
             "id": "c005",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/02-05-2025/C005-2024_Derco-Colombia_-_CONTRASTE.jpg",
             "name": "DERCO COLOMBIA SAS",
             "category": 14,
             "description": "Importador de vehículos y comercialización",
@@ -979,6 +1041,7 @@
         },
         {
             "id": "c006",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/02-05-2025/C006-2024_vehicentro-logo-blanco_-_CONTRASTE.jpg",
             "name": "VEHICENTRO COLOMBIA",
             "category": 14,
             "description": "Importación, ensamble y comercialización de vehiculos para trasnporte de carga",
@@ -986,6 +1049,7 @@
         },
         {
             "id": "c007",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c007.png",
             "name": "SOLUCIONES INMEDIATAS",
             "category": 21,
             "description": "Gestión del talento humano, temporal de empleabilidad",
@@ -993,6 +1057,7 @@
         },
         {
             "id": "c008",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/02-05-2025/C008-2025_logo-vivir-3_-_CONTRASTE.jpg",
             "name": "MAZDA DE COLOMBIA SAS",
             "category": 14,
             "description": "Importador y comercializador al mayor de vehículos y repuestos",
@@ -1000,6 +1065,7 @@
         },
         {
             "id": "c009",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c009.png",
             "name": "ASOCIACIÓN COLOMBIANA DE GLP GASNOVA",
             "category": 2,
             "description": "Promoción del crecimiento del mercado del gas licuado de petróleo (GLP) y de sus usos complementarios y conexos",
@@ -1007,6 +1073,7 @@
         },
         {
             "id": "c010",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c010.png",
             "name": "ENERGIA VECTORIAL SAS",
             "category": 14,
             "description": "Electrificacion de vehiculos de combustion",
@@ -1014,6 +1081,7 @@
         },
         {
             "id": "c011",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c011.png",
             "name": "ASTARA COLOMBIA",
             "category": 3,
             "description": "Venta y alquiler de vehículos",
@@ -1021,6 +1089,7 @@
         },
         {
             "id": "c012",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c012.png",
             "name": "DIVEMOTOR COLOMBIA SA",
             "category": 3,
             "description": "Importación y distribución / comercialización de vehiculos",
@@ -1028,6 +1097,7 @@
         },
         {
             "id": "c013",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c013.png",
             "name": "AUTOGERMANA SAS",
             "category": 14,
             "description": "Fabricantes de vehículos y motos",
@@ -1035,6 +1105,7 @@
         },
         {
             "id": "c014",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c014.png",
             "name": "FENALCO BOGOTÁ",
             "category": 2,
             "description": "Agremiaciones y cooperación, empleabilidad y desarrollo de capacidades técnicas",
@@ -1042,6 +1113,7 @@
         },
         {
             "id": "c015",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c015.png",
             "name": "BIO D SA",
             "category": 14,
             "description": "Producción y comercialización de Biodiesel Sostenible y derivados oleoquímicos de alto valor agregado, destinados a las industrias de combustibles, cuidado personal y del hogar, tanto a nivel nacional como internacional",
@@ -1049,6 +1121,7 @@
         },
         {
             "id": "c016",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c016.png",
             "name": "FEDERACION DE TRICIMOVILES ECOLOGICOS DE COLOMBIA (FECOTRICOL)",
             "category": 2,
             "description": "Gestor para la legalización de la prestación del servicio público de pasajeros en tricimóviles ; Servicio de transporte ecológico en tricimovilismo",
@@ -1056,6 +1129,7 @@
         },
         {
             "id": "c017",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c017.png",
             "name": "SISTEMAS AMBIENTALES HUMANOS SAS",
             "category": 10,
             "description": "Servicios de consultoría Eficiencia energética y Fuentes No Convencionales de Energía Renovable (FNCER)",
@@ -1063,13 +1137,22 @@
         },
         {
             "id": "c018",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/c018.png",
             "name": "FUNDACIÓN GIMNASIO MODERNO",
             "category": 1,
             "description": "Servicios de educación preescolar, educación básica (primaria [1° a 5°] y secundaria [6° a 10°]), y educación media (10° a 11°)",
             "website": "https://gimnasiomoderno.edu.co/"
         },
         {
+            "id": "c019",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/02-05-2025/C019.jpg",
+            "name": "EOLO MOTORS SAS",
+            "category": 14,
+            "website": "https://eolomotors.com/",
+        },
+        {
             "id": "f001",
+            "image": "https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/f001.png",
             "name": "EMPRESA DE RENOVACIÓN Y DESARROLLO URBANO DE BOGOTÁ (RENOBO, ANTES ERU)",
             "category": 9,
             "description": "Gestión y promoción de proyectos de renovación urbana en Bogotá DC",
@@ -1106,7 +1189,7 @@
                     const template = document.querySelector('template');
                     const clone = template.content.cloneNode(true);
                     clone.querySelector('.title-1').textContent = aliado.name;
-                    clone.querySelector('.imagen img').src = '  https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/28-03-2025/' + aliado.id + '.png';
+                    clone.querySelector('.imagen img').src = aliado.image;
                     // clone.querySelector('.description p').textContent = aliado.description;
                     // clone.querySelector('.contact dl dd').textContent = aliado.contact;
                     clone.querySelector('.website a').href = aliado.website;

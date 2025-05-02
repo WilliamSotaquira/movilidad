@@ -30,10 +30,10 @@
         </div>
     </div>
     <div class='box-politicas'>
-        <div class='video_ambiental'>
+        <!-- <div class='video_ambiental'>
             <video controls='' style='width: 100%;'>
                 <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/ambiental_subtitulado.mp4' type='video/mp4'>
-        </div>
+        </div> -->
         <style>
             .video_ambiental {
                 /* height: px; */
@@ -183,7 +183,7 @@
                 </div>
             </div>
             <div class='col-xs-6 col-xs-offset-3'>
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-03-2022/programasambientales.webp' alt='Esquema Programas Ambientales' title='Esquema Programas Ambientales'>
+                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-04-2025/Actualizaci%C3%B3n-imagen-de-p%C3%A1gina-web-SGA.jpg' alt='Esquema Programas Ambientales' title='Esquema Programas Ambientales'>
             </div>
         </div>
     </div>

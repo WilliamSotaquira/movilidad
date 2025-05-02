@@ -219,13 +219,13 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
+                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/home">Inicio</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/por_que">¿Por qué?</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/solucion">¿Qué solución <br> proponemos?</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/metas">¿Cuáles son <br> nuestras metas?</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/tecnologias">¿Cuáles son <br> las tecnologías?</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/mitos">Verdades <br>y mitos</a></li>
-                    <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
+                    <li><a class="activado" href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/recursos">Recursos</a></li>
                     <li><a href="https://www.movilidadbogota.gov.co/web/cero_y_bajas_emisiones/aliados">Aliados</a></li>
                 </ul>
 
@@ -243,6 +243,44 @@
 
         <!-- collapse group recursos -->
         <div class='panel-group' id='accordion-recursos' role='tablist ' aria-multiselectable='true'>
+
+            <!-- collapse aniversario -->
+            <div class='panel panel-primary'>
+                <div class='panel-heading' role='tab' id='heading-PCBE'>
+                    <h4 class='panel-title'>
+                        <a role='button' data-toggle='collapse' data-parent='#accordion-recursos' href='#collapse-PCBE' aria-expanded='false' aria-controls='collapse-PCBE'>
+                            Primer Evento de Intercambio de Conocimientos 2025 PCBE
+                        </a>
+                    </h4>
+                </div>
+                <div id='collapse-PCBE' class='panel-collapse collapse' role='tabpanel' aria-labelledby='heading-PCBE' aria-expanded='false'>
+                    <div class='panel-body'>
+                        <div class='body-collapse-PCBE'>
+                            <div class="cpnt-recursos cpnt-aniversario">
+                                <div class="imagen img-1">
+                                    <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/cybe/23-04-2025/Primer-Evento-de-Intercambio-de-Conocimientos-2025-PCBE.jpg" alt="Primer Evento de Intercambio de Conocimientos 2025 PCBE" title="">
+                                </div>
+                                <h3 class="title title-type-2 title-id-1-1" id="electrificacion_rutas">Primer Evento de Intercambio de Conocimientos 2025 PCBE</h3>
+
+                                <p class="paragraph ph-type-1 ph-id-r1">La Política Pública de Movilidad Motorizada de Cero y Bajas Emisiones celebró su primer evento de intercambio de conocimientos de este 2025, destacado soluciones y experiencias clave para avanzar en la transición hacia una movilidad de cero y bajas emisiones, abordando desde la electrificación de vehículos y el enfoque social del transporte, hasta el uso de fondos para modernizar flotas y estrategias de retrofit.</p>
+                                <p class="paragraph ph-type-1 ph-id-r1">Los resultados obtenidos y las experiencias que expertos compartieron durante el evento, se pueden consultar a continuación:</p>
+
+                                <ol class="paragraph ph-1">
+                                    <li>Transición de los vehículos pequeños hacia las cero y bajas emisiones.<br>SABIDURAI - Carlos Felipe Pardo Vélez.</li>
+                                    <li>Avanzando hacia un transporte para la igualdad y el ambiente, proyecto de cooperación global.<br>AVANTIA - Andrea Esperanza Cárdenas Joya.</li>
+                                    <li>Fondo Distrital para la promoción del ascenso tecnológico de volquetas y del parque automotor que preste el servicio de transporte de carga, y que cuente con peso bruto vehicular igual o inferior a 10.5 toneladas, establecido en el artículo 32 de la Ley 2169 de 2021 (FONCARGA).<br>SECRETARÍA DISTRITAL DE AMBIENTE (SDA) - Wilson Fernando Mendoza Téllez.</li>
+                                    <li>Retrofit en vehículos off-road y clima normativo para implementación en vehículos con circulación normalizada.<br>SENA CDTI REGIONAL VALLE - Oscar Enrique Muñoz González.</li>
+                                </ol>
+
+                                <p class="paragraph ph-1"><i>Esta información es exclusivamente para consulta, este contenido está protegido y no puede ser reproducido, distribuido ni utilizado en ninguna forma sin la autorización expresa y escrita de los autores. Cualquier uso no autorizado de este material está prohibido y puede acarrear consecuencias legales.</i></p>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
             <!-- collapse aniversario -->
             <div class='panel panel-primary'>

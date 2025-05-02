@@ -3,16 +3,16 @@
 @section('contenido')
 
 <!-- Resurces -->
+
+
 <link href="https://fonts.googleapis.com" rel="preconnect">
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-<!-- Set puntos -->
 <div class="set-wrapper puntos">
 
-    <!-- bloque box title-->
     <style type="text/css">
         .field-item.even .centertil {
             visibility: hidden;
@@ -51,6 +51,7 @@
             padding: 16px;
         }
     </style>
+
     <div class="box box-title">
         <div class="cmpnt cmpnt-title-center">
             <h2 class="title title-type-h2 title-id-ppal">Puntos de atención</h2>
@@ -61,7 +62,6 @@
         </div>
     </div>
 
-    <!-- bloque box video-ppal-->
     <style type="text/css">
         .set-wrapper .box-video-ppal {
             grid-area: box-video-ppal;
@@ -79,6 +79,7 @@
             }
         }
     </style>
+
     <div class="box box-video-ppal">
         <div class="cmpnt cmpnt-video-ppal">
             <div class="video video-ppal">
@@ -88,6 +89,7 @@
             </div>
         </div>
     </div>
+
     <!-- bloque box boxes-->
     <style type="text/css">
         .puntos .box-boxes {
@@ -225,19 +227,17 @@
             color: #252525;
         }
     </style>
-
-
     <div class="box box-boxes">
 
-        <a onclick="activeBox(1);">
-            <div class="box-bottom">
+        <div class="box-bottom bb1">
+            <a onclick="activeBox(1);">
                 <span class="tooltip-img">
                     <img alt="acceder a presencial" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/presencial.gif" title="acceder a presencial">
                 </span>
                 <div class="icon icon1"></div>
                 <p><strong>Presencial</strong></p>
-            </div>
-        </a>
+            </a>
+        </div>
         <style type="text/css">
             .box-boxes .box-summary {
                 display: none !important;
@@ -290,7 +290,6 @@
                 transition: ease-out 0.5s all !important;
             }
         </style>
-
         <div class="box-summary box-summary-1">
             <div class="cmpnt-title cmpnt-title-1">
                 <h3 class="title title-type-3 title-cmpnt">Conoce nuestros puntos de atención presencial</h3>
@@ -582,13 +581,17 @@
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
+
                                     <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
+
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
+
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
 
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
@@ -602,20 +605,26 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
+
                                     <p><a class="url-map" href="https://maps.app.goo.gl/JmkpBQXuDmzxeo9eA">Cra 28 A # 17 A 20</a></p>
+
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
+
                                     <p>Lunes a viernes 7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
+
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
+
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
                                     <!-- <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p> -->
+
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
                             </div>
@@ -665,7 +674,9 @@
                                     <p><b>Punto de atención:</b></p>
 
                                     <p><b>Para peritaje: </b>Cita previa antes de las 7 a.m.</p>
+
                                     <p><b>Para entrega de vehículos:</b>Cita previa Lunes a viernes 9 a.m. a 4:30 p.m.</p>
+
                                     <p>Sábados de 9 a.m. a 11:30 a.m.</p>
                                 </div>
                             </div>
@@ -798,7 +809,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187367471.1873543637.1046124&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">Calle 64 # 94 - 91</a></p>
+                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187367471.1873543637.1046124&amp;overview=yes&amp;utm_campaign=default&amp;utm_source=waze_website&amp;utm_medium=lm_share_location">Calle 64 # 94 - 91</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -818,7 +829,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187301934.1873150412.23069953&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location">Calle 57R # 75D - 11</a></p>
+                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187301934.1873150412.23069953&amp;overview=yes&amp;utm_campaign=default&amp;utm_source=waze_website&amp;utm_medium=lm_share_location">Calle 57R # 75D - 11</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -844,20 +855,27 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
+
                                     <p><a class="url-map" href="https://maps.app.goo.gl/jcvxRhuBeXSYSu5H8">Calle 13 # 37 - 35 </a></p>
+
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
+
                                     <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
+
                                     <p>Sábado 08:00&nbsp;a.m. a 12:00&nbsp;m</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
+
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
                                     <p>Sábado 08:00&nbsp;a.m. a 12:00&nbsp;m</p>
+
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
                             </div>
@@ -869,20 +887,27 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
+
                                     <p><a class="url-map" href="https://maps.app.goo.gl/JmkpBQXuDmzxeo9eA">Cra 28 A # 17 A 20</a></p>
+
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
+
                                     <p>Lunes a viernes 7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
+
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
+
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 6:00&nbsp;p.m.</p>
+
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
+
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
                             </div>
@@ -928,17 +953,19 @@
                             <div class="logo logo-clm"><img alt="logo " class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/logo_clm.png"></div>
 
                             <div class="text">
-                                <p><b>¿Cómo está conformado el equipo del Centro Local de Movilidad?</b></p>
+                                <p><b>¿Cómo está conformado el equipo de Gestión Social Local?</b></p>
 
                                 <ul>
-                                    <li><b>Gestor de Local de Movilidad:</b> Profesional de perfil social, cuya presencia en la localidad facilita los procesos de participación y quien, a través de la comunicación directa, acompaña los trámites y solicitudes ciudadanas. Su trabajo permite optimizar el tiempo de los usuarios y su misión es ofrecer información veraz y oportuna.</li>
-                                    <li><b>Orientador de Servicio Local:</b> Es la persona encargada de orientar a la comunidad en trámites y servicios, así como acompañar en los procesos de convocatoria comunitaria. Apoyan en la logística y en los operativos pedagógicos implementados en las localidades.</li>
+                                    <li><strong>Gestor Local de Movilidad:</strong> Representa a la Secretaría Distrital de Movilidad en los escenarios de relacionamiento, dinamizando los procesos de participación ciudadana en el territorio.</li>
+                                    <li><strong>Orientador Local:</strong> Se encarga de implementar las acciones a nivel local relacionadas con la promoción de escenarios de participación ciudadana, y orienta a la ciudadanía en temas de Movilidad que pueden estar relacionados o no, con la participación en los asuntos del sector.</li>
                                 </ul>
 
-                                <p>Cada Centro Local de Movilidad cuenta con un equipo de trabajo compuesto por Gestores y Orientadores, que gestionan las necesidades de la comunidad en materia de movilidad.</p>
+                                <p><strong>Tenga en cuenta:</strong></p>
+
+                                <p>El equipo de Gestión Social Local hace presencia un día a la semana en el lugar conocido como Centro Local de Movilidad. El resto del tiempo el equipo se encuentra desarrollando actividades de relacionamiento con distintos actores(as) en el territorio. Para ello, se cuenta con un equipo interdisciplinario, dispuesto a trabajar de forma oportuna para guiar y orientar las solicitudes de las comunidades respecto a iniciativas, programas y proyectos del Sector Movilidad, pero también promover su participación en el desarrollo de estos, en el marco de lo establecido en el Plan Institucional de Participación.</p>
 
                                 <hr>
-                                <p>A continuación encontrara los canales de atención de los Centros Locales de Movilidad.</p>
+                                <p>A continuación conozca los canales de atención para acceder a información de la Secretaría Distrital de Movilidad a través de los Centros Locales de Movilidad:</p>
                             </div>
                         </div>
 
@@ -1084,7 +1111,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/i8ZWjYdYZhQAxgAp9"> Transversal 78 k # 41 a 04 sur - Alcaldía local de Kennedy</a></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/i8ZWjYdYZhQAxgAp9">Transversal 78 k # 41 a 04 sur - Alcaldía local de Kennedy</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -1327,9 +1354,9 @@
                         <div class="box-atencion">
                             <h3>Horario de atención a la ciudadanía</h3>
 
-                            <h4>Primer día de hábil de la semana de 7:00 a.m. - 4:30 p.m.</h4>
+                            <h4>Primer día hábil de cada semana, en el horario comprendido entre las 7:00 a.m. y las 4:30 p.m.</h4>
 
-                            <h4>Jueves de 8:00 a.m. - 4:30 p.m.</h4>
+                            <h4>En caso de ser festivo, este día se correrá para el siguiente día hábil.</h4>
                         </div>
                     </div>
 
@@ -1345,13 +1372,17 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
+
                                     <p><a class="url-map" href="https://maps.app.goo.gl/3pwubyBqAHk9s4m48">Calle 14 Sur # 22 - 27</a></p>
+
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
+
                                     <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
+
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
                             </div>
@@ -1372,7 +1403,9 @@
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
+
                                     <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
                             </div>
@@ -1462,8 +1495,11 @@
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
+
                                     <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
+
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
                                     <p>Domingos:&nbsp;8:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
                             </div>
@@ -1758,10 +1794,10 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
+
                                     <p><a class="url-map" href="https://maps.app.goo.gl/56YDWyJ4Pcg37o456">Calle 13 #37-35</a></p>
                                 </div>
                             </div>
-
                             <!-- <div class="boxes">
                                 <div class="item item-title span-3">
                                     <p><strong>Centro de Servicios de Movilidad Paloquemao</strong></p>
@@ -1947,16 +1983,15 @@
             </script>
         </div>
 
-        <a onclick="activeBox(2);">
-            <div class="box-bottom">
+        <div class="box-bottom bb2">
+            <a onclick="activeBox(2);">
                 <span class="tooltip-img">
                     <img alt="acceder a virtual" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/virtual.gif" title="acceder a virtual">
                 </span>
                 <div class="icon icon2"></div>
                 <p><strong>Virtual</strong></p>
-            </div>
-        </a>
-
+            </a>
+        </div>
         <div class="box-summary box-summary-2">
             <div class="cmpnt-title cmpnt-title-1">
                 <h3 class="title title-type-3 title-cmpnt">Conoce nuestras formas de atención virtual</h3>
@@ -2017,7 +2052,7 @@
                         <option value="1">Chatea con nuestro asesor en línea</option>
                         <option value="2">Llámanos</option>
                         <option value="3">Te regresamos la llamada</option>
-                        <option value="4">Videollamada en lengua de señas Colombiana</option>
+                        <option value="4">Video Llamada de Lengua de Señas o Videollamada</option>
                         <option value="5">Chatea con Lucia</option>
                     </select>
                 </div>
@@ -2199,7 +2234,13 @@
 
                     }
                 </style>
-                <div class="tabs-collapse tabs-collapse-2"><a class="push push-tabpills-2" data-tab="1" id="push_two_1">Chatea con nuestro asesor en línea</a> <a class="push push-tabpills-2" data-tab="2" id="push_two_2">Llámanos</a> <a class="push push-tabpills-2" data-tab="3" id="push_two_3">Te regresamos la llamada</a> <a class="push push-tabpills-2" data-tab="4" id="push_two_4">Videollamada en lengua de señas Colombiana</a> <a class="push push-tabpills-2" data-tab="5" id="push_two_5">Chatea con Lucia</a></div>
+                <div class="tabs-collapse tabs-collapse-2">
+                    <a class="push push-tabpills-2" data-tab="1" id="push_two_1">Chatea con nuestro asesor en línea</a>
+                    <a class="push push-tabpills-2" data-tab="2" id="push_two_2">Llámanos</a>
+                    <a class="push push-tabpills-2" data-tab="3" id="push_two_3">Te regresamos la llamada</a>
+                    <a class="push push-tabpills-2" data-tab="4" id="push_two_4">Video Llamada de Lengua de Señas o Videollamada</a>
+                    <a class="push push-tabpills-2" data-tab="5" id="push_two_5">Chatea con Lucia</a>
+                </div>
                 <style type="text/css">
                     .cmpnt-tabpills-2 .content-collapse-2 {
                         border-radius: 8px;
@@ -2260,8 +2301,7 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/8OLbJ0ICxE0" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 6:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://secmovilidad.cari.ai/smb/chatWeb">Clic aquí para iniciar el chat.</a></p>
-
+                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 6:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wc">Clic aquí para iniciar el chat.</a></p>
                             </div>
                         </div>
                     </div>
@@ -2275,11 +2315,12 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/kn6vuBAKo1Y" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc2">La Secretaría Distrital de Movilidad te brinda esta herramienta para facilitar nuestra comunicación, la puedes usar desde un computador, celular o tableta. <a href="https://secmovilidad.cari.ai/smb/llamadas">Clic aquí para iniciar la llamada</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc2">La Secretaría Distrital de Movilidad te brinda esta herramienta para facilitar nuestra comunicación, la puedes usar desde un computador, celular o tableta. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=vll">Clic aquí para iniciar la llamada</a></p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                         </div>
@@ -2294,18 +2335,19 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/ZebTw7k0rkk" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc3">Déjanos tus datos y te regresamos la llamada respetando tu turno. <a href="https://secmovilidad.cari.ai/smb/callBack">Clic aquí para solicitar que te regresamos la llamada</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc3">Déjanos tus datos y te regresamos la llamada respetando tu turno. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wcb">Clic aquí para solicitar que te regresamos la llamada</a></p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                         </div>
                     </div>
 
                     <div class="summary-collapse summary-collapse-4">
-                        <h3 class="title title-type-3s title-id-3s4">Videollamada en lengua de señas Colombiana</h3>
+                        <h3 class="title title-type-3s title-id-3s4">Video Llamada de Lengua de Señas o Videollamada</h3>
 
                         <div class="box-items">
                             <div class="colspan-2">
@@ -2313,11 +2355,12 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/yimG3ap9aE4" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc4">Comunícate con un asesor de servicio a través de videollamada. Este servicio también está disponible en lengua de señas. <a href="https://secmovilidad.cari.ai/smb/videollamada">Clic aquí para hacer el agendamiento.</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc4">Comunícate con un asesor de servicio a través de videollamada. Este servicio también está disponible en lengua de señas. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=vls">Clic aquí para hacer el agendamiento.</a></p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                         </div>
@@ -2328,15 +2371,14 @@
 
                         <div class="box-items">
                             <div class="colspan-2">
-
                                 <div class="logo logo-lucia"><a href="https://www.movilidadbogota.gov.co/web/"><img alt="logo " class="img-responsive w-100" src="https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/designer/applications/9EB4BD8DB699F4781504C26A8F373990/BotSecMovilidad_V2/resources/BOTON_INICIO.png"> </a></div>
 
-
                                 <p class="paragraph ph-type-1 ph-id-6">Da clic en la imagen para conversar con Lucía, tu asesora de Servicios a la Ciudadanía.</p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                             <style type="text/css">
@@ -2407,16 +2449,20 @@
             </script>
         </div>
 
-        <a onclick="activeBox(3)">
-            <div class="box-bottom">
+
+        <div class="box-bottom bb3">
+            <a onclick="activeBox(3)">
                 <span class="tooltip-img">
                     <img alt="acceder a telefónico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefonico.gif" title="acceder a telefónico">
                 </span>
-                <div class="icon icon3"></div>
-                <p><strong>Telefónico</strong></p>
-            </div>
-        </a>
 
+                <div class="icon icon3"></div>
+
+                <p>
+                    <strong>Telefónico</strong>
+                </p>
+            </a>
+        </div>
         <div class="box-summary box-summary-3">
             <div class="imagen img-call"><img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/atencion.jpg" title="">
                 <style type="text/css">
@@ -2472,6 +2518,7 @@
                 }
             </style>
         </div>
+
         <script>
             document.addEventListener('DOMContentLoaded', function() {
                 let cmpnt = document.querySelector('.box-summary-1');
@@ -2493,8 +2540,11 @@
                 }
             }
         </script>
+
     </div>
 </div>
+
+
 <!-- Fin Set -->
 <style type="text/css">
     .set-wrapper .puntos {

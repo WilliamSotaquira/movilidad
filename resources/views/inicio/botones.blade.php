@@ -113,40 +113,40 @@
 
                         <div class="col-xs-6 col-sm-4 col-md-2">
                             <div class="tab zoom">
-                                <div class="img-tab"><a href="https://secmovilidad.cari.ai/smb/chatWeb"><img alt="Dar clic aquí para acceder a Chatea con nuestro asesor en linea" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/chatea_20211117.webp" title="Dar clic aquí para acceder a Chatea con nuestro asesor en linea"> </a></div>
+                                <div class="img-tab"><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wc"><img alt="Dar clic aquí para acceder a Chatea con nuestro asesor en linea" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/chatea_20211117.webp" title="Dar clic aquí para acceder a Chatea con nuestro asesor en linea"> </a></div>
 
                                 <div class="txt-tab">
-                                    <h4><a href="https://secmovilidad.cari.ai/smb/chatWeb">Chatea con nuestro asesor en línea</a></h4>
+                                    <h4><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wc">Chatea con nuestro asesor en línea</a></h4>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-xs-6 col-sm-4 col-md-2">
                             <div class="tab zoom">
-                                <div class="img-tab"><a href="https://secmovilidad.cari.ai/smb/callBack"><img alt="Dar clic aquí para acceder a Te regresamos la llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/regresamosllamada_20211117.webp" title="Dar clic aquí para acceder a Te regresamos la llamada"> </a></div>
+                                <div class="img-tab"><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wcb"><img alt="Dar clic aquí para acceder a Te regresamos la llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/regresamosllamada_20211117.webp" title="Dar clic aquí para acceder a Te regresamos la llamada"> </a></div>
 
                                 <div class="txt-tab">
-                                    <h4><a href="https://secmovilidad.cari.ai/smb/callBack">Te regresamos la llamada</a></h4>
+                                    <h4><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wcb">Te regresamos la llamada</a></h4>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-xs-6 col-sm-4 col-md-2">
                             <div class="tab zoom">
-                                <div class="img-tab"><a href="https://secmovilidad.cari.ai/smb/llamadas"><img alt="Dar clic aquí para acceder a Llámanos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/llamanos_20211117.webp" title="Dar clic aquí para acceder a Llámanos"> </a></div>
+                                <div class="img-tab"><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=c2c"><img alt="Dar clic aquí para acceder a Llámanos" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/llamanos_20211117.webp" title="Dar clic aquí para acceder a Llámanos"> </a></div>
 
                                 <div class="txt-tab">
-                                    <h4><a href="https://secmovilidad.cari.ai/smb/llamadas">Llámanos</a></h4>
+                                    <h4><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=c2c">Llámanos</a></h4>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-xs-6 col-sm-4 col-md-2">
                             <div class="tab zoom">
-                                <div class="img-tab"><a href="https://secmovilidad.cari.ai/smb/videollamada"><img alt="Dar clic aquí para acceder a Hagamos una video llamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/videollamada_20211117.webp" title="Dar clic aquí para acceder a Hagamos una video llamada"> </a></div>
+                                <div class="img-tab"><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=vll"><img alt="Dar clic aquí para acceder a Hagamos una Video Llamada de Lengua de Señas o Videollamada" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-11-2021/videollamada_20211117.webp" title="Dar clic aquí para acceder a Hagamos una Video Llamada de Lengua de Señas o Videollamada"> </a></div>
 
                                 <div class="txt-tab">
-                                    <h4><a href="https://secmovilidad.cari.ai/smb/videollamada">Videollamada en lengua de señas colombiana</a></h4>
+                                    <h4><a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=vll">Video Llamada de Lengua de Señas o Videollamada</a></h4>
                                 </div>
                             </div>
                         </div>
