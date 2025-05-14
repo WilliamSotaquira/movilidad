@@ -23,22 +23,23 @@
             <div class="carousel-inner" role="listbox">
 
             <div class="item active">
-                <a>
+                <a href="https://picoyplacasolidario.movilidadbogota.gov.co/Inicio#/">
                     <picture>
-                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/Feria_Ciudad_Bolivar_Abr2025_Banner_1980x625.jpg">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/Feria_Ciudad_Bolivar_Abr2025_Bannes_340x300.jpg" class="img-responsive w-100" alt="Feria A Tu Servicio Ciudad Bolivar" title="Image: Feria A Tu Servicio Ciudad Bolivar">
+                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-05-2025/Solicitud_banner_para_pagina_web_-_Pico_y_placa_solidario_Banner_950x300.jpg">
+                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-05-2025/Solicitud_banner_para_pagina_web_-_Pico_y_placa_solidario_Banner_340x300.jpg" class="img-responsive w-100" alt="Pico y placa solidario" title="Image: Pico y placa solidario">
                     </picture>
                 </a>
             </div>
 
-            <div class="item">
-                <a>
-                    <picture>
-                        <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/BPO_Abr2025_banner1.jpg">
-                        <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-04-2025/BPO_Abr2025_banner2.jpg" class="img-responsive w-100" alt="Actualización BPO" title="Image:Actualización BPO">
-                    </picture>
-                </a>
-            </div>
+                <div class="item">
+                    <a>
+                        <picture>
+                            <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2025/Piezas_graficas_convocatoria_Jornada_especializada_en_vehiculos_-_Actividad_de_Secretaria_de_Hacienda_Banner_950x300.jpg">
+                            <img src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-05-2025/Piezas_graficas_convocatoria_Jornada_especializada_en_vehiculos_-_Actividad_de_Secretaria_de_Hacienda_Banner_300x340.jpg" class="img-responsive w-100" alt="Convocatoria jornada especializada en vehículos" title="Image: Convocatoria jornada especializada en vehículos">
+                        </picture>
+                    </a>
+                </div>
+
                 <div class="item">
                     <a href="https://www.movilidadbogota.gov.co/web/mujeres_en_ruta">
                         <picture>
@@ -89,7 +90,7 @@
                         </picture>
                     </a></div>
 
-                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/04-04-2025/pieza_mapa_pico_y_placa_carga.jpg" target="_blank">
+                <div class="item"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-05-2025/V_3_Restriccion_mayo_Pieza_2-100_1.jpg" target="_blank">
                         <picture>
                             <source media="(min-width: 465px)" srcset="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banners-restricciones-de-carga-desktop.jpg">
                             <img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-01-2025/banners-restricciones-de-carga-mobile.jpg" title="Image: " loading="lazy">
