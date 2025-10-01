@@ -1,27 +1,21 @@
 @extends('welcome')
 @section('contenido')
+
 <!-- ----- ----- ----- ----- ----- ----- ----- -----  Fuente Sogar -----  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<link rel='preconnect' href='https://fonts.googleapis.com'>
-<link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
-<link href='https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&display=swap' rel='stylesheet'>
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Sogar -  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-<!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-<div class='container-fluid seccion'>
-
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@100;200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"><!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Fuente Sogar -  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- ----- Bloque Seccion ----- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<div class="container-fluid seccion">
     <div class="encabezado">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-6 col-md-6'>
-                <span class="imagen-descripcion"> Área verde de Faldas del Cerro de Guadalupe con avenida circunvalar, Bogotá. FOTO: César David Martínez. </span>
-            </div>
-            <div class='col-xs-12 col-sm-6 col-md-6'>
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-6"><span class="imagen-descripcion">Área verde de Faldas del Cerro de Guadalupe con avenida circunvalar, Bogotá. FOTO: César David Martínez. </span></div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6">
                 <div class="box-encabezado">
-                    <div class="logo">
-                        <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/logo_sga_a.png' alt='Logo Sistema de Gestión Ambiental' title='Logo Sistema de Gestión Ambiental'>
-                    </div>
-                    <div class="titulo">
-                    </div>
+                    <div class="logo"><img alt="Logo Sistema de Gestión Ambiental" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/logo_sga_a.png" title="Logo Sistema de Gestión Ambiental"></div>
+
+                    <div class="titulo">&nbsp;</div>
+
                     <div class="parrafo">
                         <p>Es una herramienta o metodología que desarrolla una estructura organizativa, responsabilidades, practicas, procedimientos, procesos y recursos para determinar y alcanzar la política del Sistema de Gestión Ambiental.</p>
                     </div>
@@ -29,12 +23,12 @@
             </div>
         </div>
     </div>
-    <div class='box-politicas'>
-        <div class='video_ambiental'>
+
+    <div class="box-politicas"><!-- <div class='video_ambiental'>
             <video controls='' style='width: 100%;'>
                 <source src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/ambiental_subtitulado.mp4' type='video/mp4'>
-        </div>
-        <style>
+        </div> -->
+        <style type="text/css">
             .video_ambiental {
                 /* height: px; */
                 display: flex;
@@ -42,60 +36,73 @@
                 justify-content: center;
                 align-items: center;
                 margin: auto;
-                padding: 5% 5% 0%  5%;
+                padding: 5% 5% 0% 5%;
             }
         </style>
         <div class="box-parrafos">
             <div class="titulo">
                 <h3>Política del Sistema de Gestión Ambiental</h3>
             </div>
+
             <div class="parrafo">
                 <p>La Secretaria Distrital de Movilidad consciente de la responsabilidad en la preservación del ambiente, está comprometida con la mejora continua de las condiciones ambientales de la entidad, por lo tanto, ejecuta estrategias que fomentan la cultura ambiental y fortalecen las buenas prácticas ambientales institucionales de acuerdo con la legislación ambiental vigente.</p>
+
                 <p>En el marco de la presente política ambiental, la Secretaría Distrital de Movilidad se compromete a:</p>
             </div>
         </div>
     </div>
 
-    <div class='s1'>
-        <div class='row box-compromisos'>
-            <div class='col-xs-12 col-sm-12 col-md-12'>
+    <div class="s0">
+        <div class="video video-1 video-16by9">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width='100%' src='https://www.youtube.com/embed/BYl9gZrT6PM' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+    <style>
+        .s0{
+            padding: 0 32px 32px 32px;
+        }
+    </style>
+
+    <div class="s1">
+        <div class="row box-compromisos">
+            <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="titulo">
                     <h4>Compromisos de la Política</h4>
                 </div>
             </div>
 
-            <div class='col-xs-12 col-sm-3 col-md-3'>
+            <div class="col-xs-12 col-sm-3 col-md-3">
                 <div class="compromisos">
-                    <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
                     <p>Cumplir con los requisitos legales ambientales y otros aplicables a la entidad.</p>
                 </div>
             </div>
-            <div class='col-xs-12 col-sm-3 col-md-3'>
+
+            <div class="col-xs-12 col-sm-3 col-md-3">
                 <div class="compromisos">
-                    <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
                     <p>Establecer estrategias enfocadas a garantizar el uso racional de los recursos, la protección del medio ambiente, la prevención de la contaminación, y la mitigación de los impactos ambientales negativos derivados de sus actividades, reduciendo de esta forma las afectaciones al medio ambiente.</p>
                 </div>
             </div>
-            <div class='col-xs-12 col-sm-3 col-md-3'>
+
+            <div class="col-xs-12 col-sm-3 col-md-3">
                 <div class="compromisos">
-                    <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
                     <p>Realizar seguimientos permanentes al desempeño del SGA, que permitan su implementación, control y mejora continua.</p>
                 </div>
             </div>
-            <div class='col-xs-12 col-sm-3 col-md-3'>
+
+            <div class="col-xs-12 col-sm-3 col-md-3">
                 <div class="compromisos">
-                    <span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span>
                     <p>Implementar mecanismos al interior de la entidad que permitan fortalecer en los colaboradores y partes interesadas, el consumo responsable de los recursos naturales.</p>
                 </div>
             </div>
         </div>
+
         <div class="hoja">
-            <div class="img-hoja">
-                <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/hoja1_0.webp' alt='Imagen de hoja de arbol' title='Imagen de hoja de arbol'>
-            </div>
+            <div class="img-hoja"><img alt="Imagen de hoja de arbol" class="img-responsive w-100 " src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/hoja1_0.webp" title="Imagen de hoja de arbol"></div>
         </div>
     </div>
-    <style>
+    <style type="text/css">
         .s1 .box-compromisos {
             background: linear-gradient(45deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.8) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/texturas-naturales.webp');
             background-size: cover;
@@ -141,53 +148,54 @@
         }
     </style>
     <div class="s2">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-12 col-md-12'>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="box-parrafos">
                     <div class="titulo">
                         <h3>Objetivos Ambientales</h3>
                     </div>
+
                     <div class="parrafo">
                         <p>Promover e implementar estrategias y actividades encaminadas a mejorar el desempeño ambiental de la entidad mediante la prevención, control, mitigación y/o compensación de los impactos ambientales generados por las actividades institucionales, en las diferentes sedes de la Secretaría Distrital de Movilidad.</p>
                     </div>
+
                     <div>
-                        <div class='row'>
-                            <div class='col-xs-12 col-sm-6 col-md-6'>
-                                <div class="img2">
-
-                                </div>
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6 col-md-4">
+                                <div class="img2">&nbsp;</div>
                             </div>
-                            <div class='col-xs-12 col-sm-6 col-md-6'>
-                                <p><strong>Objetivos Específicos</strong></p>
-                                <ul>
-                                    <li>Garantizar el uso racional y eficiente de energía en las diferentes sedes de la SDM.</li>
-                                    <li>Garantizar el uso racional y eficiente del recurso hídrico en las diferentes sedes de la SDM.</li>
-                                    <li>Promover la gestión integral de los residuos generados en la SDM.</li>
-                                    <li>Fortalecer la aplicación de criterios ambientales en la adquisición de bienes y servicios contratados por la entidad en el desarrollo de sus actividades.</li>
-                                    <li>Promover acciones que contribuyan a la adaptación y mitigación al cambio climático y mejora de la calidad del paisaje de la sede principal de la SDM.</li>
 
+                            <div class="col-xs-12 col-sm-6 col-md-8">
+                                <p><strong>Objetivos Específicos</strong></p>
+
+                                <ul>
+                                    <li>Implementar el Programa de Ahorro y Uso Eficiente del Agua para la optimización de los recursos en las diferentes sedes que conforman la Secretaría Distrital de Movilidad.</li>
+                                    <li>Implementar del Programa de Ahorro y Uso Eficiente de la Energía para la optimización de los recursos en las diferentes sedes que conforman la Secretaría Distrital de Movilidad.</li>
+                                    <li>Fortalecer las acciones que desde el Distrito Capital y la Secretaria Distrital de Movilidad se adelanten en relación a problemáticas socio-ambientales relacionadas con la gestión integral de los residuos.</li>
+                                    <li>Fomentar el consumo sostenible y el uso eficiente de los recursos en todas las actividades de la entidad, con el objetivo de alcanzar un consumo responsable que contribuya tanto a la sostenibilidad ambiental como a la mejora de la calidad de vida.</li>
+                                    <li>Implementar el programa de Mejoramiento de las Condiciones Ambientales Internas, articulado con la gestión de cambio climático.</li>
+                                    <li>Fortalecer las buenas prácticas ambientales mediante estrategias efectivas de comunicación, formación y sensibilización en toda la entidad.</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-
                 </div>
             </div>
         </div>
-        <div class='row'>
-            <div class='col-xs-12 col-sm-12 col-md-12'>
+
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="box-parrafos">
                     <div class="titulo">
                         <h3>Programas Ambientales</h3>
                     </div>
                 </div>
             </div>
-            <div class='col-xs-6 col-xs-offset-3'>
-                <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/25-03-2022/programasambientales.webp' alt='Esquema Programas Ambientales' title='Esquema Programas Ambientales'>
-            </div>
+
+            <div class="col-xs-6 col-xs-offset-3"><img alt="Esquema Programas Ambientales" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/21-04-2025/Actualizaci%C3%B3n-imagen-de-p%C3%A1gina-web-SGA.jpg" title="Esquema Programas Ambientales"></div>
         </div>
     </div>
-    <style>
+    <style type="text/css">
         .s2 .box-parrafos .img2 {
             background: #151515;
             background: linear-gradient(45deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2022/bogota-4463698_1280.webp');
@@ -200,26 +208,24 @@
 
         }
     </style>
-
     <div class="s3">
         <div class="box-parrafos">
-            <div class='row'>
-                <div class='col-xs-12 col-sm-8 col-sm-offset-4 col-md-8'>
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-sm-offset-4 col-md-8">
                     <div class="titulo">
                         <h3>Alcance</h3>
                     </div>
+
                     <div class="parrafo">
                         <p>El alcance para la implementación del Sistema de Gestión Ambiental bajo la norma ISO 14001 versión 2015, aplica para las actividades y servicios desarrollados en los procesos de las sedes Calle 13, Paloquemao, Almacén y Bodega Villa Alsacia, dando cumplimiento a los requisitos legales y otros requisitos aplicables, mitigando los impactos ambientales asociados e influyendo en la mejora del desempeño ambiental y cumplimiento misional de la entidad.</p>
                     </div>
-                    <div class="img3" alt="Imagen diagrama ciclo de PHVA" title="Imagen diagrama ciclo de PHVA">
 
-                    </div>
+                    <div alt="Imagen diagrama ciclo de PHVA" class="img3" title="Imagen diagrama ciclo de PHVA">&nbsp;</div>
                 </div>
             </div>
         </div>
     </div>
-
-    <style>
+    <style type="text/css">
         .s3 {
             z-index: 100;
         }
@@ -235,12 +241,13 @@
     </style>
     <div class="s4 ">
         <div class="box-parrafos img4">
-            <div class='row'>
-                <div class='col-xs-12 col-sm-8 col-md-8'>
+            <div class="row">
+                <div class="col-xs-12 col-sm-8 col-md-8">
                     <div class="parrafo-izq">
                         <div class="titulo">
                             <h3>Beneficios</h3>
                         </div>
+
                         <div class="parrafos">
                             <ul>
                                 <li>Facilita el cumplimiento de la legislación vigente y la política ambiental de la organización.</li>
@@ -252,12 +259,12 @@
                         </div>
                     </div>
                 </div>
-                <div class='col-xs-12 col-sm-6 col-md-6'>
-                </div>
+
+                <div class="col-xs-12 col-sm-6 col-md-6">&nbsp;</div>
             </div>
         </div>
     </div>
-    <style>
+    <style type="text/css">
         .s4 {
             -webkit-box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
             box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.16);
@@ -281,45 +288,44 @@
         }
     </style>
     <div class="box-equipoAmbiental">
-        <h4 class="text-center"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/equipo_sga.pdf" target="_blank" rel="noopener noreferrer">Haz clic aquí y conoce al equipo del Sistema de Gestión Ambiental </a></h4>
+        <h4 class="text-center"><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/13-10-2022/equipo_sga.pdf" rel="noopener noreferrer" target="_blank">Haz clic aquí y conoce al equipo del Sistema de Gestión Ambiental </a></h4>
+
         <p class="text-center">Es el encargado de ejecutar estrategias que fomentan la cultura ambiental en la SDM.</p>
     </div>
-    <style>
-        .box-equipoAmbiental{
+    <style type="text/css">
+        .box-equipoAmbiental {
             padding: 5% 5% 0% 5%;
         }
     </style>
     <div class="s5">
-        <div class='row'>
-            <div class='col-xs-12 col-sm-12 col-md-12 '>
-
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 ">
                 <div class="box-parrafos">
                     <div class="titulo">
                         <h3>Resolución número 107311 de 2021</h3>
                     </div>
+
                     <div class="parrafo">
                         <p>“Por medio de la cual se asignan los Roles y Responsabilidades del Sistema de Gestión Ambiental a todos los niveles de la Secretaría Distrital de Movilidad y se dictan otras disposiciones”</p>
                     </div>
                 </div>
             </div>
-            <div class='col-xs-12 col-sm-12 col-md-12'>
+
+            <div class="col-xs-12 col-sm-12 col-md-12">
                 <div class="box-btn">
-                    <a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2022/resolucion_107311_de_2021.pdf" target="_blank" rel="noopener noreferrer">
-                        <div class="btn">
-                            <p>Descargar Versión PDF</p>
-                        </div>
-                    </a>
+                    <div class="btn">
+                        <p><a href="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/16-02-2022/resolucion_107311_de_2021.pdf" rel="noopener noreferrer" target="_blank">Descargar Versión PDF</a></p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
     <div class="hoja2">
-        <div class="img-hoja2">
-            <img class='img-responsive w-100 ' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/hoja2.webp' alt='Imagen de hoja de arbol' title='Imagen de hoja de arbol'>
-        </div>
+        <div class="img-hoja2"><img alt="Imagen de hoja de arbol" class="img-responsive w-100 " src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/hoja2.webp" title="Imagen de hoja de arbol"></div>
     </div>
     <br>
-    <style>
+    <style type="text/css">
         .img-hoja2 {
             position: relative;
         }
@@ -331,7 +337,7 @@
             left: 725px;
         }
     </style>
-    <style>
+    <style type="text/css">
         .s5 .box-btn {
             /* height: 250px; */
             display: flex;
@@ -370,11 +376,9 @@
         }
     </style>
     <div class="arbol2">
-        <div class="img-arbol2">
-            <img class='img-responsive w-100' src='https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/arbol2.webp' alt='recorte de una hoja' title='recorte de una hoja'>
-        </div>
+        <div class="img-arbol2"><img alt="recorte de una hoja" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/arbol2.webp" title="recorte de una hoja"></div>
     </div>
-    <style>
+    <style type="text/css">
         .arbol2 .img-arbol2 {
             position: relative;
         }
@@ -388,11 +392,8 @@
         }
     </style>
 </div>
-
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-
-<!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
-<style type='text/css'>
+<!-- ----- ----- ----- ----- ----- ----- ----- -----  Fin Bloque Sección  ----- ----- ----- ----- ----- ----- ----- ----- ------ --><!-- ----- ----- ----- ----- ----- ----- ----- -----  Hoja de estilo ---- ----- ----- ----- ----- ----- ----- ----- ----- ------ -->
+<style type="text/css">
     .field-item.even h2 {
         visibility: hidden;
         margin-top: -50px;
@@ -427,7 +428,7 @@
         width: 100%;
     }
 </style>
-<style>
+<style type="text/css">
     .encabezado {
         position: relative;
         background: linear-gradient(135deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 100%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-03-2022/guadalupe_sga_0.webp');

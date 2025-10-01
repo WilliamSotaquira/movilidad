@@ -28,7 +28,7 @@
         .encabezado {
             height: 460px;
             background: rgba(102, 224, 38, 1);
-            background: linear-gradient(45deg, rgba(102, 224, 38, 0) 0%, rgba(0, 0, 0, 1) 200%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-02-2022/desembargo_a.png');
+            background: linear-gradient(45deg, rgba(102, 224, 38, 0) 0%, rgba(0, 0, 0, 1) 200%), url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/09-07-2025/Marco.png');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;

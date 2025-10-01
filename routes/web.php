@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('dashboard');
 });
 
 Route::get('/componente', function () {
@@ -357,3 +357,9 @@ Route::view('/2024/11/seguridad', '2024/11/seguridad');
 Route::view('/2024/12/notificaciones', '2024/12/notificaciones');
 Route::view('/2024/12/pqrsd', '2024/12/pqrsd');
 Route::view('/2024/12/temporizador', '2024/12/temporizador');
+
+// Contenido diciembre 2025
+Route::view('/2025/07/sdb', '2025/07/sdb');
+Route::view('/2025/07/ssv', '2025/07/ssv');
+Route::view('/2025/07/sir', '2025/07/sir');
+

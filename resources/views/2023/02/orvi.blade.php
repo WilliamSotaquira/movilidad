@@ -1,11 +1,10 @@
 @extends('welcome')
 @section('title','ORVI')
-
 @section('contenido')
 
 <!-- Set orvi -->
 <div class="set-wrapper orvi container"><!-- Sección box logo-full -->
-    <div class="box-logo-full"><img alt="logo ORVI" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/logoorvi.png"></div>
+    <div class="box-logo-full"><img alt="logo ORVI" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/15-04-2025/logo_orvi_2025-01_0.png"></div>
     <style type="text/css">
         .set-wrapper .box-logo-full {
             grid-area: box-logo-full;
@@ -29,8 +28,10 @@
     </style>
     <!-- Componente box youtube-paragraph -->
     <div class="box-youtube-paragraph">
-        <div class="video video-ppal video-4by3">
-            <div class="embed-responsive embed-responsive-4by3"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/l9KMh2RAqOk" title="YouTube video player" width="100%"></iframe></div>
+        <div class="video video-ppal">
+            <video controls="" style="width: 100%;">
+                <source poster="" preload="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/20-05-2025/ORVI.mp4" type="video/mp4">
+            </video>
         </div>
 
         <div class="paragraph ph-youtube-paragraph">
@@ -91,7 +92,7 @@
 
         @media(min-width:768px) {
             .set-wrapper .box-youtube-paragraph {
-                grid-template-columns: 1fr 1fr;
+                grid-template-columns: 35% auto;
                 grid-template-rows: auto;
             }
 
@@ -361,7 +362,7 @@
                     <div aria-expanded="false" aria-labelledby="heading_uno" class="panel-collapse collapse" id="collapse_uno" role="tabpanel">
                         <div class="panel-body">
                             <div class="box-uno">
-                                <div class="imagen img-1"><img alt="foto" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-03-2023/orvi_3.png" title="foto"></div>
+                                <div class="imagen img-1"><img alt="foto" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-07-2025/Orientacion_social.jpeg" title="foto"></div>
 
                                 <h3>Orientación Social:</h3>
 
@@ -464,7 +465,7 @@
                     <div aria-expanded="false" aria-labelledby="heading_cinco" class="panel-collapse collapse" id="collapse_cinco" role="tabpanel">
                         <div class="panel-body">
                             <div class="box-cinco">
-                                <div class="imagen img-cinco"><img alt="imagen" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/ten-en-cuenta.jpg" title="imagen"></div>
+                                <div class="imagen img-cinco"><img alt="imagen" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-07-2025/Ten_en_cuenta.jpeg" title="imagen"></div>
                                 &nbsp;
 
                                 <ul>
@@ -859,16 +860,13 @@
         }
     </style>
     <!-- Sección box slider-cards-hz -->
-    <div class="box-slider-cards-hz">
-
-
-        <template>
+    <div class="box-slider-cards-hz"><template>
             <div class="summary-card">
-                <div class="img-card">
-                    <img alt="..." src="https://proyectos.camilogarzon.digital/wp-content/uploads/2023/02/pexels-cottonbro-studio-8465067.jpg"> <span class="tag">Charla</span>
-                </div>
+                <div class="img-card"><img alt="..." src="https://proyectos.camilogarzon.digital/wp-content/uploads/2023/02/pexels-cottonbro-studio-8465067.jpg"> <span class="tag">Charla</span></div>
+
                 <div class="text-summary">
                     <h4>¿QUÉ ES ORVI?: RUTA DE ATENCIÓN</h4>
+
                     <p>Te orientamos e informamos sobre los procesos necesarios para solicitar los servicios de ORVI.</p>
                 </div>
                 <!--<div class="link-summary"><a href="" rel="noopener noreferrer" target="_blank">Regístrate aquí</a></div>-->
@@ -876,20 +874,14 @@
         </template>
 
         <h3>Charlas y talleres</h3>
-
         <!-- Controls -->
+
         <div class="set-cards-sliders">
-            <a class="left carousel-control" onclick="controlLeft()" role="button" data-slide="prev" title="Anterior">
-                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                <span class="sr-only">Anterior</span>
-            </a>
-            <a class="right carousel-control" onclick="controlRight()" role="button" data-slide="next" title="Siguiente">
-                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                <span class="sr-only">Siguiente</span>
-            </a>
+            <a class="left carousel-control" data-slide="prev" onclick="controlLeft()" role="button" title="Anterior">
+                <span class="sr-only">Anterior</span> </a>
+            <a class="right carousel-control" data-slide="next" onclick="controlRight()" role="button" title="Siguiente">
+                <span class="sr-only">Siguiente</span> </a>
         </div>
-
-
         <!-- Controls -->
         <style type="text/css">
             .box-slider-cards-hz {
@@ -1041,7 +1033,7 @@
                 "title": "Atención a víctimas de siniestros viales",
                 "summary": "Informamos las acciones emprendidas en la atención a víctimas viales.",
                 "type": "Charla",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/atencion-victimas.jpg",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-07-2025/Atencion_a_victimas.jpeg",
                 "alt": "Grupo de conductores del SITP reciben charla de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1057,7 +1049,7 @@
                 "title": "Primer respondiente",
                 "summary": "Estudiamos las acciones de primeros auxilios para atender un evento vial con lesionados.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/primer-respondiente.jpg",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-07-2025/Primer_respondiente.jpeg",
                 "alt": "Grupo de personas reciben charla de funcionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1081,7 +1073,7 @@
                 "title": "Factores de riesgo en la siniestralidad vial",
                 "summary": "Identificamos los factores de riesgo relacionados con los roles viales.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/10-07-2024/factores-riesgo-siniestros-viales.jpg",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-07-2025/Factores_de_riesgo.jpeg",
                 "alt": "Ciclista urbano recibe información de fincionario de la SDM",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1089,7 +1081,7 @@
                 "title": "¿Cómo comunicar la mala noticia?",
                 "summary": "Ofrecemos herramientas para comunicar un hecho negativo.",
                 "type": "Taller",
-                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/24-05-2024/comunicar.png",
+                "img": "https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/08-07-2025/Mala_noticia.jpg",
                 "alt": "Mujer usa sus manos para cubrir su frente",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdCyK7MgcQrtytYoTrj-Yxbj490g1qhn0mnYRtScMb_-uTSEA/viewform",
             },
@@ -1420,3 +1412,4 @@
     }
 </style>
 <!-- Fin Set -->
+<p>&nbsp;</p>

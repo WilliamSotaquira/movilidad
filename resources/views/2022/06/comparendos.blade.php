@@ -75,17 +75,15 @@
         </style>
         <hr>
         <div class="box-mensaje">
-            <div class="label"><img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/icono-vehiculos_comparendos.png" title=""></div>
+            <!-- <div class="label"><img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/icono-vehiculos_comparendos.png" title=""></div> -->
 
-            <div class="mensaje">
-                <h3>Ahora <strong>desde la comodidad de tu casa</strong> podrás consultar el <strong>pago de comparendos, acuerdos de pago y embargos.</strong></h3>
-            </div>
 
-            <div class="box-boton"><a class="btn btn-nm btn-lg btn-block" href="https://webfenix.movilidadbogota.gov.co/#/consulta-pagos" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>comparendos, acuerdos de pago y embargos.</strong></a></div>
+            <div class="box-boton"><a class="btn btn-nm btn-lg btn-block" href="https://webfenix.movilidadbogota.gov.co/#/consulta-pagos" rel="noopener noreferrer" target="_blank">Consulte aquí <strong>comparendos y acuerdos de pago</strong></a></div>
         </div>
-
-        <hr>
-        <div class="box-boton"><a class="btn btn-lg btn-nm" href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-08-2024/abece-amnistias-2024.pdf" rel="noopener noreferrer" target="_blank">Conozca aquí<strong> el Abecé de la Amnistía 2024</strong></a></div>
+        <!--
+		<hr>
+		<div class="box-boton"><a class="btn btn-lg btn-nm" href="https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/10-08-2024/abece-amnistias-2024.pdf" rel="noopener noreferrer" target="_blank">Conozca aquí<strong> el Abecé de la Amnistía 2024</strong></a></div>
+-->
 
         <hr>
         <style type="text/css">
@@ -158,7 +156,7 @@
 
             .box-acuerdo .imagen {
                 grid-area: imagen;
-                background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/15-06-2022/acuerdo_pago.png');
+                background-image: url('https://www.movilidadbogota.gov.co/web/sites/default/files/servicios/09-07-2025/CS_-_Secretaria_de_movilidad_27_de_55.jpg');
                 background-size: cover;
                 background-position: center;
                 min-height: 300px;
@@ -520,5 +518,3 @@
 </style>
 <!-- End Styles -->
 <p>&nbsp;</p>
-
-

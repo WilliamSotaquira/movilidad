@@ -705,6 +705,43 @@
             urlCanal: 'https://bogota.gov.co/sdqs/',
             icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
         },
+                {
+            position: 29,
+            name: 'Solicítalo',
+            urlCanal: 'https://forms.gle/hrq3Au2z5BTvDNVu7',
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
+        },
+                {
+            position: 30,
+            name: 'Ferias de Servicio',
+            urlCanal: 'https://www.movilidadbogota.gov.co/web/',
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+
+        },
+                {
+            position: 31,
+            name: 'Formulario de registro de PMT por eventos',
+            urlCanal: 'https://docs.google.com/forms/d/e/1FAIpQLSeOCknfYo3rJk2CLqfBG4x7R-f4KqXZNEkriCuRih4mnOhQnA/viewform',
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
+        },
+                {
+            position: 32,
+            name: 'Formulario de registro de Señalización de la SDM',
+            urlCanal: 'https://docs.google.com/forms/d/e/1FAIpQLSe3v4B8mEt99mgj0eABvgOOBJAL7ocy79ZO1KblRzJp2-XMWA/viewform',
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
+        },
+                {
+            position: 33,
+            name: 'Revisión y Aprobación de Estudios de Transporte y Tránsito (ETT) y Estudios de Demanda y Atención de Usuarios (EDAU)',
+            urlCanal: 'https://docs.google.com/forms/d/e/1FAIpQLSe3esXm8kZFt_kbKXttbvlL1IlIrhaI8A6yCfZ4kOkDxn6brw/viewform',
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
+        },
+                {
+            position: 34,
+            name: 'Formulario de registro de PMT por obras',
+            urlCanal: 'https://docs.google.com/forms/d/e/1FAIpQLSdeWaOGxZB0uNM6sLaGf2ZdVoftAkm5qfI-jGf4VOoB3co-Vg/viewform',
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/30-10-2024/link_20.png'
+        },
     ];
 
     const portafolio = [{
@@ -713,7 +750,7 @@
             title: 'Inscripción o autorización para la circulación vial (excepciones pico y placa)',
             description: 'Inscríbete virtualmente al registro de los vehículos exceptuados de la medida de pico y placa en Bogotá.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/inscripcion-o-autorizacion-para-la-circulacion-vial-sdm',
-            canals: [0, 1, 2, 3, 4, 5, 6]
+            canals: [0, 1, 30, 3, 4, 5, 6]
         },
         {
             type: 'Trámite',
@@ -729,7 +766,7 @@
             title: 'Orden de Entrega de Vehículo Inmovilizado',
             description: 'Para retirar el vehículo inmovilizado del parqueadero de patios, agenda virtualmente tu cita para la orden de entrega. Una vez agendado, dirígete al punto de atención.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/orden-de-entrega-de-vehiculo-inmovilizado-sdm-37092',
-            canals: [7, 9, 10, 3, 4, 5, 6]
+            canals: [7, 9, 3, 4, 5, 6]
         },
         {
             type: 'Trámite',
@@ -761,7 +798,7 @@
             title: 'Plan de Manejo de Tránsito - PMT',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/plan-de-manejo-de-transito-sdm',
             description: 'Herramienta técnica que plantea las estrategias necesarias, para mitigar el impacto generado en la movilidad por la ejecución de una obra o por la realización de un evento en el espacio público.',
-            canals: [13, 14, 3, 4, 5, 6]
+            canals: [34, 31, 13, 14, 3, 4, 5, 6]
         },
         {
             type: 'Trámite',
@@ -769,7 +806,7 @@
             title: 'Revisión y aprobación de estudios de tránsito',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/revision-y-aprobacion-de-estudios-de-transito-sdm',
             description: 'Contiene el análisis de la situación actual del tránsito, de la demanda vehicular proyectada y de los impactos que un proyecto urbanístico genera, sobre la movilidad circundante y su zona de influencia. ',
-            canals: [13, 14, 3, 4, 5, 6]
+            canals: [33, 13, 14, 3, 4, 5, 6]
         },
         {
             type: 'Trámite',
@@ -777,7 +814,7 @@
             title: 'Permiso de circulación para carga extrapesada y/o extradimensionada e indivisible',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/permiso-de-circulacion-para-carga-extrapesada-yo-extradimensionada-sdm',
             description: 'Autorización para movilizar por la red vial, maquinaria o carga con dimensiones extremas de longitud, anchura y altura o que exceda los límites de peso.',
-            canals: [15, 12, 3, 4, 5, 6]
+            canals: [29, 12, 3, 4, 5, 6]
         },
         {
             type: 'Trámite',
@@ -793,7 +830,7 @@
             title: 'Emisión concepto a técnicas de señalización',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/emision-de-concepto-propuestas-tecnicas-de-disenos-de-senalizacion',
             description: 'Efectuar el tramites de emisión de conceptos a propuestas de proyectos de diseños de señalización, frente a las solicitudes presentadas ante la Secretaría Distrital de Movilidad.',
-            canals: [13, 14, 18, 3, 4, 5, 6]
+            canals: [32, 13, 14, 18, 3, 4, 5, 6]
         },
         {
             type: 'Servicio',

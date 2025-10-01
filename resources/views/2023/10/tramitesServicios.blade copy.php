@@ -737,6 +737,13 @@
             urlCanal: 'https://bogota.gov.co/sdqs/',
             icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/link_20.png'
         },
+        {
+            position: 28,
+            name: 'Ferias de Servicio',
+            urlCanal: 'https://www.movilidadbogota.gov.co/web/',
+            icon: 'https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/29-10-2023/posicion_20.png'
+
+        },
     ];
 
 
@@ -745,7 +752,7 @@
             title: 'Inscripción o autorización para la circulación vial (excepciones pico y placa)',
             description: 'Inscríbete virtualmente al registro de los vehículos exceptuados de la medida de pico y placa en Bogotá.',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/inscripcion-o-autorizacion-para-la-circulacion-vial-sdm',
-            canals: [0, 1, 2, 3, 4, 5, 6]
+            canals: [0, 1, 28, 3, 4, 5, 6]
         },
         {
             type: 'Trámite',
@@ -787,7 +794,7 @@
             title: 'Plan de Manejo de Tránsito - PMT',
             url: 'https://bogota.gov.co/servicios/guia-de-tramites-y-servicios/plan-de-manejo-de-transito-sdm',
             description: 'Herramienta técnica que plantea las estrategias necesarias, para mitigar el impacto generado en la movilidad por la ejecución de una obra o por la realización de un evento en el espacio público.',
-            canals: [13, 14, 3, 4, 5, 6]
+            canals: [31,13, 14, 3, 4, 5, 6]
         },
         {
             type: 'Trámite',

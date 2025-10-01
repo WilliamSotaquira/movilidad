@@ -2,13 +2,12 @@
 @section('title', 'puntos')
 @section('contenido')
 
-<!-- Resurces -->
 <link href="https://fonts.googleapis.com" rel="preconnect">
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script><!-- Set puntos -->
-<div class="set-wrapper puntos"><!-- bloque box title-->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<div class="set-wrapper puntos">
     <style type="text/css">
         .field-item.even .centertil {
             visibility: hidden;
@@ -49,14 +48,13 @@
     </style>
     <div class="box box-title">
         <div class="cmpnt cmpnt-title-center">
-            <h2 class="title title-type-h2 title-id-ppal">Puntos de atención</h2>
+            <h2 class="title title-type-h2 title-id-ppal">Canales de atención</h2>
         </div>
 
         <div class="cmpnt cmpnt-paragraph">
             <p>Descubre los diferentes lugares donde la Secretaría Distrital de Movilidad te brinda atención presencial, virtual y telefónica. Por medio de nuestros variados canales de comunicación, estarás en contacto directo para recibir asesoramiento e información detallada acerca de nuestros procesos y servicios. Además, tendrás la opción de programar tus citas para las impugnaciones, salida de patios, participar en cursos pedagógicos y establecer acuerdos de pago de manera cómoda y oportuna.</p>
         </div>
     </div>
-    <!-- bloque box video-ppal-->
     <style type="text/css">
         .set-wrapper .box-video-ppal {
             grid-area: box-video-ppal;
@@ -78,7 +76,7 @@
         <div class="cmpnt cmpnt-video-ppal">
             <div class="video video-ppal">
                 <video controls="" style="width: 100%;">
-                    <source poster="" preload="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/video_puntos.mp4" type="video/mp4">
+                    <source poster="" preload="" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/05-08-2025/video_final_puntos_atencion.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
@@ -220,19 +218,17 @@
             color: #252525;
         }
     </style>
-
-
     <div class="box box-boxes">
-
-        <a onclick="activeBox(1);">
-            <div class="box-bottom">
+        <div class="box-bottom bb1">
+            <a onclick="activeBox(1);">
                 <span class="tooltip-img">
                     <img alt="acceder a presencial" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/presencial.gif" title="acceder a presencial">
                 </span>
                 <div class="icon icon1"></div>
-                <p><strong>Presencial</strong></p>
-            </div>
-        </a>
+                <p><strong>Presencial</strong>
+                </p>
+            </a>
+        </div>
         <style type="text/css">
             .box-boxes .box-summary {
                 display: none !important;
@@ -285,7 +281,6 @@
                 transition: ease-out 0.5s all !important;
             }
         </style>
-
         <div class="box-summary box-summary-1">
             <div class="cmpnt-title cmpnt-title-1">
                 <h3 class="title title-type-3 title-cmpnt">Conoce nuestros puntos de atención presencial</h3>
@@ -338,11 +333,13 @@
                     <p>Seleccione de la siguiente lista despleglable una opción:</p>
                     <select class="form-control" id="select-1" name="select-1" onchange="Selected_one();">
                         <option value="1">Centros de servicios</option>
+                        <option value="8">Agendamiento e información</option>
+                        <option value="6">Cursos pedagógicos</option>
+                        <option value="7">Salida de patios, presencial</option>
                         <option value="2">Patios</option>
                         <option value="3">Sedes administrativas</option>
                         <option value="4">Centros locales de movilidad</option>
-                        <option value="6">Cursos pedagógicos</option>
-                        <option value="5">Ventanillas de movilidad</option>
+                        <option value="5">Ventanilla Única de Servicios</option>
                     </select>
                 </div>
                 <style type="text/css">
@@ -405,17 +402,17 @@
                     #push_one_2::before {
                         content: "";
                         position: absolute;
-                        padding: 8px;
+                        padding: 10px;
                         margin-right: 5px;
                         margin-left: -22px;
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/car_a.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2025/grua_azul.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
                     }
 
                     #push_one_2:hover::before {
-                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/car_v.png');
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2025/grua_verde.png');
                         background-size: contain;
                         background-repeat: no-repeat;
                         background-position: center;
@@ -497,6 +494,44 @@
                         background-position: center;
                     }
 
+                    #push_one_7::before {
+                        content: "";
+                        position: absolute;
+                        padding: 8px;
+                        margin-right: 5px;
+                        margin-left: -22px;
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/car_a.png');
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                        background-position: center;
+                    }
+
+                    #push_one_7:hover::before {
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/car_v.png');
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                        background-position: center;
+                    }
+
+                    #push_one_8::before {
+                        content: "";
+                        position: absolute;
+                        padding: 8px;
+                        margin-right: 5px;
+                        margin-left: -22px;
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2025/calendario_azul.png');
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                        background-position: center;
+                    }
+
+                    #push_one_8:hover::before {
+                        background: url('https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2025/calendario_verde.png');
+                        background-size: contain;
+                        background-repeat: no-repeat;
+                        background-position: center;
+                    }
+
 
 
 
@@ -523,7 +558,16 @@
 
                     }
                 </style>
-                <div class="tabs-collapse tabs-collapse-1"><a class="push push-tabpills-1" data-tab="1" id="push_one_1">Centros de servicios</a> <a class="push push-tabpills-1" data-tab="6" id="push_one_6">Cursos Pedagógicos</a> <a class="push push-tabpills-1" data-tab="2" id="push_one_2">Patios</a> <a class="push push-tabpills-1" data-tab="3" id="push_one_3">Sedes administrativas</a> <a class="push push-tabpills-1" data-tab="4" id="push_one_4">Centros locales de movilidad</a> <a class="push push-tabpills-1" data-tab="5" id="push_one_5">Ventanilla Única de Servicios</a></div>
+                <div class="tabs-collapse tabs-collapse-1">
+                    <a class="push push-tabpills-1" data-tab="1" id="push_one_1">Centros de servicios</a>
+                    <a class="push push-tabpills-1" data-tab="8" id="push_one_8">Agendamiento e información</a>
+                    <a class="push push-tabpills-1" data-tab="6" id="push_one_6">Cursos Pedagógicos</a>
+                    <a class="push push-tabpills-1" data-tab="7" id="push_one_7">Salida de patios, presencial</a>
+                    <a class="push push-tabpills-1" data-tab="2" id="push_one_2">Patios</a>
+                    <a class="push push-tabpills-1" data-tab="3" id="push_one_3">Sedes administrativas</a>
+                    <a class="push push-tabpills-1" data-tab="4" id="push_one_4">Centros locales de movilidad</a>
+                    <a class="push push-tabpills-1" data-tab="5" id="push_one_5">Ventanilla Única de Servicios</a>
+                </div>
                 <style type="text/css">
                     .cmpnt-tabpills-1 .content-collapse-1 {
                         border-radius: 8px;
@@ -578,7 +622,7 @@
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
 
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes 7:00&nbsp;a.m a 5:00&nbsp;p.m.</p>
 
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
@@ -587,9 +631,16 @@
                                     <p><b>Radicación Presencial:</b></p>
 
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
                                     <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
 
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Módulo Patio Remanentes:</b></p>
+
+                                    <p>Lunes a viernes 8:00&nbsp;a.m a 5:00&nbsp;p.m.</p>
                                 </div>
                             </div>
 
@@ -600,20 +651,25 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
+
                                     <p><a class="url-map" href="https://maps.app.goo.gl/JmkpBQXuDmzxeo9eA">Cra 28 A # 17 A 20</a></p>
+
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
 
-                                    <p>Lunes a viernes 8:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes 7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
 
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+                                    <!-- <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p> -->
 
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
@@ -663,11 +719,11 @@
                                 <div class="item span-2">
                                     <p><b>Punto de atención:</b></p>
 
-                                    <p><b>Para peritaje: </b>Cita previa antes de las 7am.</p>
+                                    <p><b>Para peritaje: </b>Cita previa antes de las 7 a.m.</p>
 
-                                    <p><b>Para entrega de vehículos:</b>Cita previa Lunes a viernes 9am a 4:30pm.</p>
+                                    <p><b>Para entrega de vehículos:</b>Cita previa Lunes a viernes 9 a.m. a 4:30 p.m.</p>
 
-                                    <p>Sábados de 9am a 11:30am.</p>
+                                    <p>Sábados de 9 a.m. a 11:30 a.m.</p>
                                 </div>
                             </div>
 
@@ -799,7 +855,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a>Calle 64 # 94 - 91</a></p>
+                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187367471.1873543637.1046124&amp;overview=yes&amp;utm_campaign=default&amp;utm_source=waze_website&amp;utm_medium=lm_share_location">Calle 64 # 94 - 91</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -819,7 +875,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a>Calle 57R # 75D - 11</a></p>
+                                    <p><a class="url-map" href="https://ul.waze.com/ul?venue_id=187301934.1873150412.23069953&amp;overview=yes&amp;utm_campaign=default&amp;utm_source=waze_website&amp;utm_medium=lm_share_location">Calle 57R # 75D - 11</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -832,7 +888,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- ------------------------------------------------------------------------------------------------------------------------------- -->
 
                     <div class="summary-collapse summary-collapse-3">
                         <h3 class="title title-type-3c title-id-3c3">Sedes Administrativas</h3>
@@ -845,20 +900,27 @@
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
+
                                     <p><a class="url-map" href="https://maps.app.goo.gl/jcvxRhuBeXSYSu5H8">Calle 13 # 37 - 35 </a></p>
+
                                     <p>Bogotá - Colombia</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 7:00&nbsp;a.m a 6:00&nbsp;p.m.</p>
+
+                                    <p>Lunes a viernes 7:00&nbsp;a.m a 5:00&nbsp;p.m.</p>
+
                                     <p>Sábado 08:00&nbsp;a.m. a 12:00&nbsp;m</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
+
                                     <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
                                     <p>Sábado 08:00&nbsp;a.m. a 12:00&nbsp;m</p>
+
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
                             </div>
@@ -878,13 +940,18 @@
 
                                 <div class="item">
                                     <p><b>Punto de atención:</b></p>
-                                    <p>Lunes a viernes 8:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
+                                    <p>Lunes a viernes 7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Radicación Presencial:</b></p>
 
-                                    <p>unes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+                                    <p>Lunes a Viernes:&nbsp;7:00&nbsp;a.m. a 5:00&nbsp;p.m.</p>
+
+                                    <p>Sábado 8:00&nbsp;a.m. a 12:00&nbsp;m.</p>
 
                                     <p><a href="https://www.movilidadbogota.gov.co/radicacionwebsdm/formulario.php">Formulario Radicación de correspondencia</a></p>
                                 </div>
@@ -909,39 +976,24 @@
                                 line-height: 1.5;
                                 color: #000000;
                             }
-
-                            .summary-collapse-4 .box-atencion {
-                                background: #66E026;
-                                font-family: 'Montserrat', sans-serif;
-                                font-size: 14px;
-                                font-weight: 500;
-                                text-align: center;
-                                line-height: 1.5;
-                                color: #191C3A;
-                                padding: 16px;
-                                margin-top: 16px;
-                            }
-
-                            .summary-collapse-4 .box-atencion h3 {
-                                font-weight: 700;
-                                color: #191C3A;
-                            }
                         </style>
                         <div class="summary-clm">
                             <div class="logo logo-clm"><img alt="logo " class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/27-02-2024/logo_clm.png"></div>
 
                             <div class="text">
-                                <p><b>¿Cómo está conformado el equipo del Centro Local de Movilidad?</b></p>
+                                <p><b>¿Cómo está conformado el equipo de Gestión Social Local?</b></p>
 
                                 <ul>
-                                    <li><b>Gestor de Local de Movilidad:</b> Profesional de perfil social, cuya presencia en la localidad facilita los procesos de participación y quien, a través de la comunicación directa, acompaña los trámites y solicitudes ciudadanas. Su trabajo permite optimizar el tiempo de los usuarios y su misión es ofrecer información veraz y oportuna.</li>
-                                    <li><b>Orientador de Servicio Local:</b> Es la persona encargada de orientar a la comunidad en trámites y servicios, así como acompañar en los procesos de convocatoria comunitaria. Apoyan en la logística y en los operativos pedagógicos implementados en las localidades.</li>
+                                    <li><strong>Gestor Local de Movilidad:</strong> Representa a la Secretaría Distrital de Movilidad en los escenarios de relacionamiento, dinamizando los procesos de participación ciudadana en el territorio.</li>
+                                    <li><strong>Orientador Local:</strong> Se encarga de implementar las acciones a nivel local relacionadas con la promoción de escenarios de participación ciudadana, y orienta a la ciudadanía en temas de Movilidad que pueden estar relacionados o no, con la participación en los asuntos del sector.</li>
                                 </ul>
 
-                                <p>Cada Centro Local de Movilidad cuenta con un equipo de trabajo compuesto por Gestores y Orientadores, que gestionan las necesidades de la comunidad en materia de movilidad.</p>
+                                <p><strong>Tenga en cuenta:</strong></p>
+
+                                <p>El equipo de Gestión Social Local hace presencia un día a la semana en el lugar conocido como Centro Local de Movilidad. El resto del tiempo el equipo se encuentra desarrollando actividades de relacionamiento con distintos actores(as) en el territorio. Para ello, se cuenta con un equipo interdisciplinario, dispuesto a trabajar de forma oportuna para guiar y orientar las solicitudes de las comunidades respecto a iniciativas, programas y proyectos del Sector Movilidad, pero también promover su participación en el desarrollo de estos, en el marco de lo establecido en el Plan Institucional de Participación.</p>
 
                                 <hr>
-                                <p>A continuación encontrara los canales de atención de los Centros Locales de Movilidad.</p>
+                                <p>Conozca algunos espacios de relacionamiento y orientación de la Secretaría Distrital de Movilidad los cuales, están disponibles para la ciudadanía el primer día hábil de cada semana entre las 7:00 a.m. y las 4:30 p.m. En caso de ser festivo, la atención se traslada al siguiente día hábil:</p>
                             </div>
                         </div>
 
@@ -1087,7 +1139,7 @@
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/i8ZWjYdYZhQAxgAp9"> Transversal 78 k # 41 a 04 sur - Alcaldía local de Kennedy</a></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/i8ZWjYdYZhQAxgAp9">Transversal 78 k # 41 a 04 sur - Alcaldía local de Kennedy</a></p>
 
                                     <p>Bogotá - Colombia</p>
                                 </div>
@@ -1326,14 +1378,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <div class="box-atencion">
-                            <h3>Horario de atención a la ciudadanía</h3>
-
-                            <h4>Primer día de hábil de la semana de 7:00 a.m. - 4:30 p.m.</h4>
-
-                            <h4>Jueves de 8:00 a.m. - 4:30 p.m.</h4>
-                        </div>
                     </div>
 
                     <div class="summary-collapse summary-collapse-5">
@@ -1357,7 +1401,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1426,7 +1470,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1449,7 +1493,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1471,8 +1515,11 @@
 
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
+
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
                                     <p>Domingos:&nbsp;8:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
                             </div>
@@ -1494,7 +1541,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1517,7 +1564,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1540,7 +1587,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1563,7 +1610,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1609,7 +1656,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1655,7 +1702,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1678,7 +1725,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1701,7 +1748,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1724,7 +1771,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1747,7 +1794,7 @@
                                 <div class="item span-2">
                                     <p><b>Horario:</b></p>
 
-                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 7:00&nbsp;p.m.</p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 6:00&nbsp;p.m.</p>
 
                                     <p>Sábados:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
                                 </div>
@@ -1758,124 +1805,16 @@
                     <div class="summary-collapse summary-collapse-6">
                         <h3 class="title title-type-3c title-id-3c5">Cursos pedagógicos</h3>
 
+                        <div class="imagen img-1">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2025/Mapa_Puntos_sintitulo-cursos.png" alt="Mapa con ubicaciones cursos pedagógicos" title="Mapa con ubicaciones cursos pedagógicos">
+                        </div>
+
+
                         <div class="box-items">
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>Centro de Servicios de Movilidad Calle&nbsp;13</strong></p>
-                                    <span>Localidad: Puente Aranda</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/56YDWyJ4Pcg37o456">Calle 13 #37-35</a></p>
-                                </div>
-                            </div>
-
-                            <!-- <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>Centro de Servicios de Movilidad Paloquemao</strong></p>
-                                    <span>Localidad: Los Mártires</span>
-                                </div>
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/YnesuS5JXnwafYE68">Carrera 28 A #18-20</a></p>
-                                </div>
-                            </div> -->
 
                             <div class="boxes">
                                 <div class="item item-title span-3">
-                                    <p><strong>Edificio Restrepo</strong></p>
-                                    <span>Localidad: Antonio Nariño</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/uiiMX2GSbvqk19Mr6">Calle 14 Sur # 22-27</a></p>
-                                </div>
-                            </div>
-
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>C.C. 72 HUB</strong></p>
-                                    <span>Localidad: Barrios Unidos</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/oNqZteVNTvdmmaeS6">Carrera 26 # 71B - 30, Piso 2, Local 46B</a></p>
-                                </div>
-                            </div>
-
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>C.C. Gran Plaza Bosa</strong></p>
-                                    <span>Localidad: Bosa</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/YpudckRSSF1UPRSL6">Calle 65 Sur # 78H - 51, Local L-241</a></p>
-                                </div>
-                            </div>
-
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>Fontibón Centro</strong></p>
-                                    <span>Localidad: Fontibón</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/TtTiUD38XRiN1Fuw6">Calle 19 # 99 - 68</a></p>
-                                </div>
-                            </div>
-
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>C.C. Tintal Plaza</strong></p>
-                                    <span>Localidad: Kennedy</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/AmKhRmajkSY3dm4C8">Avenida Carrera 86 # 6 - 37, Local 286 - 287</a></p>
-                                </div>
-                            </div>
-
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>C.C. Mallplaza</strong></p>
-                                    <span>Localidad: Los Mártires</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/GWFe65zoJkcnePkv8">Avenida Carrera 30 # 19 - 00, Nivel 4</a></p>
-                                </div>
-                            </div>
-
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>C. C. Carrera</strong></p>
-                                    <span>Localidad: Puente Aranda</span>
-                                </div>
-
-                                <div class="item">
-                                    <p><b>Dirección:</b></p>
-
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/wXDaP6B5o4UyCwFQ7">Avenida de las Américas # 50 - 15, Local A1002</a></p>
-                                </div>
-                            </div>
-
-                            <div class="boxes">
-                                <div class="item item-title span-3">
-                                    <p><strong>C. C. San Rafael</strong></p>
+                                    <p><strong>1. C. C. San Rafael</strong></p>
                                     <span>Localidad: Suba</span>
                                 </div>
 
@@ -1888,16 +1827,378 @@
 
                             <div class="boxes">
                                 <div class="item item-title span-3">
-                                    <p><strong>C.C. North Point Mall</strong></p>
-                                    <span>Localidad: Usaquén</span>
+                                    <p><strong>2. Fontibón Centro</strong></p>
+                                    <span>Localidad: Fontibón</span>
                                 </div>
 
                                 <div class="item">
                                     <p><b>Dirección:</b></p>
 
-                                    <p><a class="url-map" href="https://maps.app.goo.gl/CxoMCrGi7ZTHLZ7D9">Carrera 7 # 155 - 80, Local 1</a></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/TtTiUD38XRiN1Fuw6">Calle 19 # 99 - 68</a></p>
                                 </div>
                             </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>3. C.C. Tintal Plaza</strong></p>
+                                    <span>Localidad: Kennedy</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/AmKhRmajkSY3dm4C8">Avenida Carrera 86 # 6 - 37, Local 286 - 287</a></p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>4. Centro de Servicios de Movilidad Calle&nbsp;13</strong></p>
+                                    <span>Localidad: Puente Aranda</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/56YDWyJ4Pcg37o456">Calle 13 #37-35</a></p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>5. Edificio Restrepo</strong></p>
+                                    <span>Localidad: Antonio Nariño</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/uiiMX2GSbvqk19Mr6">Calle 14 Sur # 22-27</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="summary-collapse summary-collapse-7">
+                        <h3 class="title title-type-3c title-id-3c2">Salida de patios, presencial</h3>
+
+                        <h4>Recuerda que, si tu infracción requiere hacer la salida de patios de forma presencial, debes agendar previamente tu cita <a href="https://b2cidentidadciudadanosdmprd.b2clogin.com/b2cidentidadciudadanosdmprd.onmicrosoft.com/b2c_1a_signinvus/oauth2/v2.0/authorize?client_id=c4465816-c694-4586-b960-41c1572d3c5d&scope=openid%20offline_access%20profile&redirect_uri=https%3A%2F%2Fvus.circulemosdigital.com.co%2F&client-request-id=e48e98dc-22d8-411b-b489-22b15682b012&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.30.0&client_info=1&code_challenge=gdDAN4rCtE5YpzAE3rovgHkV-zEoU1PHramr0k5ka8U&code_challenge_method=S256&nonce=dd80bf8b-e093-4e81-a86a-cd46089b9d0c&state=eyJpZCI6IjkxNTYwODk0LTcyMWMtNDFmOC05ZTUyLTgyM2FlMmJhMTMxYSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D">aquí</a></h4>
+
+                        <div class="imagen img-1">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2025/Mapa_Puntos_sintitulo-salidapatios.png" alt="Mapa con ubicaciones salida de patios presencial" title="Mapa con ubicaciones salida de patios presencial">
+                        </div>
+
+                        <div class="box-items">
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>1. VUS Engativá (Nuestro Bogotá)</strong></p>
+                                    <span>Localidad: Engativá</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/Ub9ZDGFUqtArbMVv8">Carrera 86 # 55A - 75, L3 - 43, 47 y 51</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>2. Fontibón Centro</strong></p>
+                                    <span>Localidad: Fontibón</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/TtTiUD38XRiN1Fuw6">Calle 19 # 99 - 68</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>3. VUS Fontibón 2 (C. C. Meridiano 13 del Este)</strong></p>
+                                    <span>Localidad: Fontibón</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/8S3AgQ62F1v4Ut48A">Calle 18 # 77 - 67, Locales 226, 227, 228 y ZC-2A Barrio La Felicidad</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>4. VUS Kennedy (Tintal Plaza)</strong></p>
+                                    <span>Localidad: Fontibón</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/EJVFDyvJWeWCHrjNA">Avenida Carrera 86 # 6 - 37, Local 286 - 287</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>5. VUS Puente Aranda (C. C. Carrera)</strong></p>
+                                    <span>Localidad: Puente Aranda</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/SwtwybQdwXSHznyh7">Avenida de las Américas # 50 - 15, Local A1002</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>6. Centro de Servicios de Movilidad Calle&nbsp;13</strong></p>
+                                    <span>Localidad: Puente Aranda</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/56YDWyJ4Pcg37o456">Calle 13 #37-35</a></p>
+                                    <p>Bogotá - Colombia</p>
+
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>7. VUS Los Mártires (Mallplaza)</strong></p>
+                                    <span>Localidad: Los Mártires</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/jmumwoCdRvSZPs6M9">Avenida Carrera 30 # 19 - 00, Nivel 4</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="summary-collapse summary-collapse-8">
+                        <h3 class="title title-type-3c title-id-3c2">Agendamiento e información</h3>
+
+                        <div class="imagen img-1">
+                            <img class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/03-07-2025/Mapa_Puntos_sintitulo-agendamiento.png" alt="Mapa con ubicaciones agendamiento e información" title="Mapa con ubicaciones agendamiento e información">
+                        </div>
+
+                        <div class="box-items">
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>1. VUS Barrios Unidos (72 HUB)</strong></p>
+                                    <span>Localidad: Barrios Unidos</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/Ud8SZzxBtKDBZNbdA">Carrera 26 # 71B - 30, Piso 2, Local 46B</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>2. VUS Suba 1 (C. C. San Rafael)</strong></p>
+                                    <span>Localidad: Suba</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/jQiFGELq9YL2NipT7">Calle 134 # 55 - 30, Sótano 2</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>3. VUS Suba 2 (C. C. Suba Fiesta)</strong></p>
+                                    <span>Localidad: Suba</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/SKXiLG9vmDbBgQ4n7">Calle 147 # 101 - 56, Local 22A</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>4. VUS Engativá (Nuestro Bogotá)</strong></p>
+                                    <span>Localidad: Engativá</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/Ub9ZDGFUqtArbMVv8">Carrera 86 # 55A - 75, L3 - 43, 47 y 51</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>5. Fontibón Centro</strong></p>
+                                    <span>Localidad: Fontibón</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/TtTiUD38XRiN1Fuw6">Calle 19 # 99 - 68</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>6. VUS Fontibón 2 (C. C. Meridiano 13 del Este)</strong></p>
+                                    <span>Localidad: Fontibón</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/8S3AgQ62F1v4Ut48A">Calle 18 # 77 - 67, Locales 226, 227, 228 y ZC-2A Barrio La Felicidad</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>7. VUS Kennedy (Tintal Plaza)</strong></p>
+                                    <span>Localidad: Fontibón</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/EJVFDyvJWeWCHrjNA">Avenida Carrera 86 # 6 - 37, Local 286 - 287</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>8. VUS Bosa (Gran Plaza Bosa)</strong></p>
+                                    <span>Localidad: Bosa</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/Yne2k9626TNTf4PV7">Calle 65 Sur # 78H - 51, Local L-241</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>9. VUS Puente Aranda (C. C. Carrera)</strong></p>
+                                    <span>Localidad: Puente Aranda</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/SwtwybQdwXSHznyh7">Avenida de las Américas # 50 - 15, Local A1002</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
+                                </div>
+                            </div>
+
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>10. VUS Antonio Nariño (Edificio Restrepo)</strong></p>
+                                    <span>Localidad: Antonio Nariño</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/3pwubyBqAHk9s4m48">Calle 14 Sur # 22 - 27</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
+                                </div>
+                            </div>
+
+                            <div class="boxes">
+                                <div class="item item-title span-3">
+                                    <p><strong>11. VUS Los Mártires (Mallplaza)</strong></p>
+                                    <span>Localidad: Los Mártires</span>
+                                </div>
+
+                                <div class="item">
+                                    <p><b>Dirección:</b></p>
+                                    <p><a class="url-map" href="https://maps.app.goo.gl/jmumwoCdRvSZPs6M9">Avenida Carrera 30 # 19 - 00, Nivel 4</a></p>
+                                    <p>Bogotá - Colombia</p>
+                                </div>
+
+                                <div class="item span-2">
+                                    <p><b>Horario:</b></p>
+                                    <p>Lunes a viernes:&nbsp;7:00&nbsp;a.m. — 2:00&nbsp;p.m.</p>
+
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -1956,15 +2257,15 @@
             </script>
         </div>
 
-        <a onclick="activeBox(2);">
-            <div class="box-bottom">
+        <div class="box-bottom bb2">
+            <a onclick="activeBox(2);">
                 <span class="tooltip-img">
                     <img alt="acceder a virtual" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/virtual.gif" title="acceder a virtual">
                 </span>
                 <div class="icon icon2"></div>
                 <p><strong>Virtual</strong></p>
-            </div>
-        </a>
+            </a>
+        </div>
 
         <div class="box-summary box-summary-2">
             <div class="cmpnt-title cmpnt-title-1">
@@ -2026,8 +2327,7 @@
                         <option value="1">Chatea con nuestro asesor en línea</option>
                         <option value="2">Llámanos</option>
                         <option value="3">Te regresamos la llamada</option>
-                        <option value="4">Videollamada en lengua de señas Colombiana</option>
-                        <option value="5">Chatea con Lucia</option>
+                        <option value="4">Video Llamada de Lengua de Señas o Videollamada</option> <!-- <option value="5">Chatea con Lucia</option> -->
                     </select>
                 </div>
                 <style type="text/css">
@@ -2208,7 +2508,13 @@
 
                     }
                 </style>
-                <div class="tabs-collapse tabs-collapse-2"><a class="push push-tabpills-2" data-tab="1" id="push_two_1">Chatea con nuestro asesor en línea</a> <a class="push push-tabpills-2" data-tab="2" id="push_two_2">Llámanos</a> <a class="push push-tabpills-2" data-tab="3" id="push_two_3">Te regresamos la llamada</a> <a class="push push-tabpills-2" data-tab="4" id="push_two_4">Videollamada en lengua de señas Colombiana</a> <a class="push push-tabpills-2" data-tab="5" id="push_two_5">Chatea con Lucia</a></div>
+                <div class="tabs-collapse tabs-collapse-2"><a class="push push-tabpills-2" data-tab="1" id="push_two_1">Chatea con nuestro asesor en línea</a>
+                    <a class="push push-tabpills-2" data-tab="2" id="push_two_2">Llámanos</a>
+                    <a class="push push-tabpills-2" data-tab="3" id="push_two_3">Te regresamos la llamada</a>
+                    <a class="push push-tabpills-2" data-tab="4" id="push_two_4">Video Llamada de Lengua de Señas o Videollamada</a>
+                    <!-- <a class="push push-tabpills-2" data-tab="5" id="push_two_5">Chatea con Lucia</a>
+            -->
+                </div>
                 <style type="text/css">
                     .cmpnt-tabpills-2 .content-collapse-2 {
                         border-radius: 8px;
@@ -2249,7 +2555,8 @@
                         background: #191C3A;
                         padding: 16px;
                     }
-                    .content-collapse dd{
+
+                    .content-collapse dd {
                         font-family: 'Montserrat', sans-serif;
                         font-optical-sizing: auto;
                         font-size: 14px;
@@ -2268,8 +2575,7 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/8OLbJ0ICxE0" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 6:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://secmovilidad.cari.ai/smb/chatWeb">Clic aquí para iniciar el chat.</a></p>
-
+                                <p class="paragraph ph-type-1 ph-id-sc1">El chat de atención al ciudadano de la Secretaría Distrital de Movilidad está habilitado de lunes a viernes de 7:00 a.m. a 6:00 p.m. jornada continua y sábados de 8:00 a.m. a 12:00 m. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wc">Clic aquí para iniciar el chat.</a></p>
                             </div>
                         </div>
                     </div>
@@ -2283,11 +2589,12 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/kn6vuBAKo1Y" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc2">La Secretaría Distrital de Movilidad te brinda esta herramienta para facilitar nuestra comunicación, la puedes usar desde un computador, celular o tableta. <a href="https://secmovilidad.cari.ai/smb/llamadas">Clic aquí para iniciar la llamada</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc2">La Secretaría Distrital de Movilidad te brinda esta herramienta para facilitar nuestra comunicación, la puedes usar desde un computador, celular o tableta. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=vll">Clic aquí para iniciar la llamada</a></p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                         </div>
@@ -2302,18 +2609,19 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/ZebTw7k0rkk" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc3">Déjanos tus datos y te regresamos la llamada respetando tu turno. <a href="https://secmovilidad.cari.ai/smb/callBack">Clic aquí para solicitar que te regresamos la llamada</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc3">Déjanos tus datos y te regresamos la llamada respetando tu turno. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=wcb">Clic aquí para solicitar que te regresamos la llamada</a></p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                         </div>
                     </div>
 
                     <div class="summary-collapse summary-collapse-4">
-                        <h3 class="title title-type-3s title-id-3s4">Videollamada en lengua de señas Colombiana</h3>
+                        <h3 class="title title-type-3s title-id-3s4">Video Llamada de Lengua de Señas o Videollamada</h3>
 
                         <div class="box-items">
                             <div class="colspan-2">
@@ -2321,30 +2629,30 @@
                                     <div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/yimG3ap9aE4" title="YouTube video player" width="100%"></iframe></div>
                                 </div>
 
-                                <p class="paragraph ph-type-1 ph-id-sc4">Comunícate con un asesor de servicio a través de videollamada. Este servicio también está disponible en lengua de señas. <a href="https://secmovilidad.cari.ai/smb/videollamada">Clic aquí para hacer el agendamiento.</a></p>
+                                <p class="paragraph ph-type-1 ph-id-sc4">Comunícate con un asesor de servicio a través de videollamada. Este servicio también está disponible en lengua de señas. <a href="https://movilidad.ucontactcloud.com/WebChat/SdmForms/?form=vls">Clic aquí para hacer el agendamiento.</a></p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                         </div>
                     </div>
-
+                    <!--
                     <div class="summary-collapse summary-collapse-5">
                         <h3 class="title title-type-3s title-id-3s5">Chatea con Lucia</h3>
 
                         <div class="box-items">
                             <div class="colspan-2">
-
                                 <div class="logo logo-lucia"><a href="https://www.movilidadbogota.gov.co/web/"><img alt="logo " class="img-responsive w-100" src="https://chat1-cls45-dal.i6.inconcertcc.com/inconcert/apps/webdesigner/designer/applications/9EB4BD8DB699F4781504C26A8F373990/BotSecMovilidad_V2/resources/BOTON_INICIO.png"> </a></div>
 
-
                                 <p class="paragraph ph-type-1 ph-id-6">Da clic en la imagen para conversar con Lucía, tu asesora de Servicios a la Ciudadanía.</p>
+
                                 <dl>
                                     <dt>Horario de Atención:</dt>
                                     <dd>Lunes a viernes 7:00 a.m a 6:00 p.m.</dd>
-                                    <dd>Sábado 08:00 a.m. a 12:00 m </dd>
+                                    <dd>Sábado 08:00 a.m. a 12:00 m</dd>
                                 </dl>
                             </div>
                             <style type="text/css">
@@ -2362,7 +2670,7 @@
                             margin: 0;
                             border: 0;
                         }
-                    </style>
+                    </style> -->
                 </div>
             </div>
             <script>
@@ -2415,15 +2723,15 @@
             </script>
         </div>
 
-        <a onclick="activeBox(3)">
-            <div class="box-bottom">
+        <div class="box-bottom bb3">
+            <a onclick="activeBox(3)">
                 <span class="tooltip-img">
                     <img alt="acceder a telefónico" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/telefonico.gif" title="acceder a telefónico">
                 </span>
                 <div class="icon icon3"></div>
                 <p><strong>Telefónico</strong></p>
-            </div>
-        </a>
+            </a>
+        </div>
 
         <div class="box-summary box-summary-3">
             <div class="imagen img-call"><img alt="" class="img-responsive w-100" src="https://www.movilidadbogota.gov.co/web/sites/default/files/Paginas/17-03-2024/atencion.jpg" title="">
@@ -2442,6 +2750,7 @@
                 <dl>
                     <dt>Línea de atención:</dt>
                     <dd><a href="tel:+6013649400">364-9400 opción 2</a></dd>
+                    <dd><a href="tel:195">Linea 195</a></dd>
                 </dl>
 
                 <dl>

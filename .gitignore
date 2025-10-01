@@ -1,5 +1,6 @@
 /node_modules
-/public/hot
+/public
+/public/img/
 /public/images
 /public/images/
 /public/videos
